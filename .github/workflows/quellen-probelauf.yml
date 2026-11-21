@@ -1,0 +1,55 @@
+name: Probelauf offene Quellen
+
+# Testlauf für eine Metro: holt Overture (und optional Foursquare) für eine Box, wählt Yards aus und schreibt einen Bericht
+# (Kategorien mit Beispielen, Auswahl). Ändert keine Daten und stellt nichts live. Ergebnis: Zusammenfassung + Artefakt.
+on:
+  workflow_dispatch:
+    inputs:
+      bbox:
+        description: 'Box xmin,ymin,xmax,ymax (Standard: Denver)'
+        default: '-105.3,39.5,-104.6,40.1'
+      foursquare:
+        description: 'Foursquare mitnehmen (dauert länger, braucht HUGGINGFACE_KEY)'
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+jobs:
+  probelauf:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install duckdb==1.1.3 overturemaps
+      - name: Overture holen
+        run: python scripts/fetch-overture.py "$RUNNER_TEMP/roh-overture.json" --bbox "${{ inputs.bbox }}"
+      - name: Foursquare holen
+        if: ${{ inputs.foursquare }}
+        env:
+          HF_TOKEN: ${{ secrets.HUGGINGFACE_KEY }}
+        run: python scripts/fetch-foursquare.py "$RUNNER_TEMP/roh-foursquare.json" --bbox "${{ inputs.bbox }}"
+      - name: Auswahl und Bericht (nur in eine Kopie)
+        env:
+          ERLAUBE_SCHWUND: '1'
+        run: |
+          echo '{"eintraege":[]}' > "$RUNNER_TEMP/nachher.json"
+          node scripts/import-quellen.mjs "$RUNNER_TEMP"/roh-*.json --ziel "$RUNNER_TEMP/nachher.json" --bericht "$RUNNER_TEMP/bericht.md"
+          node scripts/import-quellen.mjs "$RUNNER_TEMP"/roh-*.json --pruefliste "$RUNNER_TEMP/pruefliste.json"
+          cat "$RUNNER_TEMP/bericht.md" >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: probelauf
+          path: |
+            ${{ runner.temp }}/bericht.md
+            ${{ runner.temp }}/nachher.json
+            ${{ runner.temp }}/pruefliste.json
+            ${{ runner.temp }}/roh-*.json

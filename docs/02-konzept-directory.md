@@ -24,7 +24,7 @@ Stadt-Seite ◄── lokale Preise ── Yard-Eintrag ──► Angebotsanfrag
 | `/landscape-supply/` | Übersicht aller Bundesstaaten, Karte | landscape supply, landscape supply near me |
 | `/landscape-supply/co/` | Städte in Colorado mit Anzahl Yards | landscape supply colorado |
 | `/landscape-supply/co/denver/` | **Stadt-Seite**: alle Yards, Filter, Rechner, lokale Preise | landscape supply denver, bulk mulch denver, gravel denver, mulch delivery denver |
-| `/landscape-supply/co/denver/example-landscape-supply/` | Detailseite eines Yards | Name des Yards (Marken-Suchen) |
+| `/yard/example-landscape-supply-denver-co/` | Detailseite eines Yards (stabile URL wie `/hof/<name>-<ort>/` bei Hofladen) | Name des Yards (Marken-Suchen) |
 | `/mulch/co/denver/` (Phase 2) | Material × Stadt | bulk mulch denver, mulch delivery denver |
 | `/add-your-yard/` | Eintragen / Eintrag übernehmen | – |
 
@@ -46,7 +46,7 @@ Karte: OpenStreetMap-Kacheln (z. B. über MapLibre). Google Maps nur, wenn die N
 
 - Wie bei Hofladen über den Worker: `/api/umkreis?zip=80202&material=hardwood-mulch&delivery=1` und Landingpages `/zip/<zip>/`.
 - ZIP-Daten von **GeoNames** (US-Postleitzahlen, CC BY 4.0, gleiche Quelle wie Hofladen), im Build nach `src/generated/` geschrieben.
-- Die Filter- und Sortierlogik aus `src/directory/distance.js` (`findYards()`) wandert in den Worker; die Datei bleibt als getestete Referenz.
+- Die Filter- und Sortierlogik `findYards()` in `static/umkreis.js` nutzt der Worker direkt.
 - Sortierung: Featured zuerst, dann Entfernung. Featured-Einträge klar als „Featured“ kennzeichnen.
 - Bei „Delivery needed“ nur Yards, deren `delivery.radius_mi` den Abstand abdeckt.
 - Keine Treffer → Hinweis auf Nachbarstadt + „Know a yard? Add it“.

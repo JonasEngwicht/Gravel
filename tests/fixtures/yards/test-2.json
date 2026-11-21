@@ -1,0 +1,46 @@
+{
+ "_comment": "Fiktiver Testeintrag \u2013 nur f\u00fcr Tests, nie ver\u00f6ffentlichen.",
+ "id": "test-2",
+ "slug": "test-yard-beta",
+ "name": "Test Yard Beta",
+ "status": "active",
+ "address": {
+  "street": "200 Test Ave",
+  "city": "Denver",
+  "state": "CO",
+  "zip": "80202"
+ },
+ "location": {
+  "lat": 39.75,
+  "lng": -104.99
+ },
+ "contact": {
+  "phone": "(000) 000-0002"
+ },
+ "materials": [
+  {
+   "id": "hardwood-mulch",
+   "price": {
+    "amount": 40,
+    "unit": "cy",
+    "updated": "2026-11-21",
+    "source": "yard-website"
+   }
+  }
+ ],
+ "delivery": {
+  "available": false
+ },
+ "self_load": true,
+ "hours": {
+  "mon": "07:00-17:00",
+  "sat": "08:00-12:00"
+ },
+ "listing": {
+  "tier": "free"
+ },
+ "source": {
+  "type": "own-research",
+  "checked": "2026-11-21"
+ }
+}

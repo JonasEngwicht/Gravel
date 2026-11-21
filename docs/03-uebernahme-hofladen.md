@@ -26,7 +26,7 @@ Legende: **1:1** = fast unverändert kopieren (Texte ins Englische) · **anpasse
 
 | Bereich | Hofladen-Dateien | Übernahme | Anpassung für Gravel |
 |---|---|---|---|
-| Umkreissuche | `/api/umkreis` im Worker | anpassen | Ersetzt die Client-Suche aus `src/directory/distance.js`. Neue Filter: `material`, `delivery`. Der Rechner ruft sie mit dem Ergebnis auf |
+| Umkreissuche | `/api/umkreis` im Worker | anpassen | Ersetzt die Client-Suche aus `static/umkreis.js`. Neue Filter: `material`, `delivery`. Der Rechner ruft sie mit dem Ergebnis auf |
 | Betreiber-Bereich („Claim your yard“) | `src/betrieb.js` | anpassen | Magic-Link-Login, `emailPasstZuWebsite()` (prüft, ob die E-Mail zur Website des Yards passt), Turnstile, Mails über Resend, Moderation in `/verwaltung/`. Neue Felder: Preise je Material, Lieferradius, Mindestmenge, `accepts_quotes` |
 | Nachrichten an Betriebe | `nachrichtAnnehmen()` | anpassen | Grundlage für die **Angebotsanfrage** aus dem Rechner (Material, Menge, ZIP, Lieferung) |
 | Tipps / neue Einträge | `tippAnnehmen()`, `/api/meldung`, `/api/rueckmeldung` | 1:1 | „Suggest a yard“, „Report wrong info“ |
@@ -73,7 +73,7 @@ Wichtigste Unterscheidung: **Landschaftsbau-Firmen (Dienstleistung) ≠ Supply Y
 | Karte | `static/karte.js`, `vollkarte.js`, `src/kacheln.js`, Leaflet + Protomaps, Workflow `karten-erzeugen.yml` | anpassen | Eigene PMTiles in R2, keine Drittanbieter. USA ist viel größer als Deutschland → Kacheln nur bis Zoom ~12 oder nur für die Start-Metros erzeugen |
 | Route zum Yard | `static/route.js` | 1:1 | |
 | Merkliste | im Worker/Frontend | optional | „Saved yards“, eher später |
-| Gemeinsame Helfer | `static/helfer.js` (Build + Browser) | 1:1 | `src/calc/core.js` nach demselben Muster als `static/calc.js` einbinden |
+| Gemeinsame Helfer | `static/helfer.js` (Build + Browser) | 1:1 | `static/calc.js` nach demselben Muster als `static/calc.js` einbinden |
 | Service Worker, Manifest, Schriften | `static/sw.js`, `site.webmanifest`, `static/fonts/` | anpassen | Schriften selbst hosten (wie Hofladen), eigenes Logo |
 | Aushang/QR-Code für Läden | `static/aushang.js`, `static/qr.js` | nein | Passt nicht zu Yards |
 
@@ -118,7 +118,11 @@ Aus `AGENTS.md` von Hofladen, gelten auch für Gravel:
 | Eigene Lead-Formular-Lösung (Worker + Turnstile) | Baut auf `nachrichtAnnehmen()`, Turnstile und Resend aus `src/betrieb.js` auf |
 | `data/yards/*.json` von Hand | Bleibt als Format für eigene Pflege; im Build zusammengeführt mit den offenen Quellen nach dem Vorrang-Modell von Hofladen (offene Quellen → Ergänzungen → eigene Pflege → Betreiber) |
 
-Der Rechner-Kern (`src/calc/core.js`, `data/materials.json`) bleibt unverändert.
+Der Rechner-Kern (`static/calc.js`, `data/materials.json`) bleibt unverändert.
+
+## Stand der Übernahme (21.11.2026)
+
+Erledigt in Schritt 1: Build-Gerüst, Seitenarchiv (301/410), Sitemap, Pixel-Prüfung, Worker mit `/api/umkreis`, Rechner- und Directory-Seiten, Quellen-Pipeline (Overture, Foursquare, Website-Prüfung, Abgleich), Testgerüst, Workflows (Tests, Deploy, ZIP-Daten, Probelauf, Quellen aktualisieren). Offen: siehe „Noch nicht aus Hofladen übernommen“ in `AGENTS.md`.
 
 ## Vorschlag für die Reihenfolge
 

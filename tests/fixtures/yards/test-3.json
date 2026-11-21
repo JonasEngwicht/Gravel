@@ -1,0 +1,50 @@
+{
+ "_comment": "Fiktiver Testeintrag \u2013 nur f\u00fcr Tests, nie ver\u00f6ffentlichen.",
+ "id": "test-3",
+ "slug": "test-yard-gamma",
+ "name": "Test Yard Gamma",
+ "status": "active",
+ "address": {
+  "street": "300 Test Ave",
+  "city": "Denver",
+  "state": "CO",
+  "zip": "80216"
+ },
+ "location": {
+  "lat": 39.79,
+  "lng": -104.95
+ },
+ "contact": {
+  "phone": "(000) 000-0003"
+ },
+ "materials": [
+  {
+   "id": "hardwood-mulch",
+   "price": {
+    "amount": 50,
+    "unit": "cy",
+    "updated": "2026-11-21",
+    "source": "yard-website"
+   }
+  },
+  {
+   "id": "topsoil"
+  }
+ ],
+ "delivery": {
+  "available": true,
+  "radius_mi": 10
+ },
+ "self_load": true,
+ "hours": {
+  "mon": "07:00-17:00",
+  "sat": "08:00-12:00"
+ },
+ "listing": {
+  "tier": "featured"
+ },
+ "source": {
+  "type": "own-research",
+  "checked": "2026-11-21"
+ }
+}

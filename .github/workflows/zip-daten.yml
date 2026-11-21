@@ -1,0 +1,27 @@
+name: ZIP-Daten aktualisieren
+
+# Lädt die US-Postleitzahlen von GeoNames (CC BY 4.0) nach data/quellen/zip-us.txt (gleiche Quelle wie bei Hofladen).
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 4 3 */3 *' # vierteljährlich
+
+permissions:
+  contents: write
+
+jobs:
+  zips:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: GeoNames US laden
+        run: |
+          curl -fsSL -o "$RUNNER_TEMP/US.zip" https://download.geonames.org/export/zip/US.zip
+          unzip -p "$RUNNER_TEMP/US.zip" US.txt > data/quellen/zip-us.txt
+          n=$(wc -l < data/quellen/zip-us.txt)
+          echo "ZIPs: $n"
+          [ "$n" -gt 30000 ] || { echo "::error::Zu wenige ZIPs ($n)"; exit 1; }
+      - uses: ./.github/actions/committen
+        with:
+          dateien: data/quellen/zip-us.txt
+          nachricht: "ZIP-Daten aktualisiert (GeoNames)"

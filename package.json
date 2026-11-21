@@ -5,9 +5,11 @@
   "type": "module",
   "description": "Mulch, gravel & soil calculators plus a directory of landscape supply yards (US).",
   "scripts": {
-    "test": "node --test"
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/build.mjs > /dev/null && node --test tests/*.test.mjs test/*.test.js",
+    "test:schnell": "node --test tests/*.test.mjs test/*.test.js"
   },
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   }
 }

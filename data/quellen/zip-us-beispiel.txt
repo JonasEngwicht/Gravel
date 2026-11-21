@@ -1,0 +1,5 @@
+US	80202	Denver	Colorado	CO	Denver	031			39.7491	-104.9946	4
+US	80216	Denver	Colorado	CO	Denver	031			39.7853	-104.9667	4
+US	80302	Boulder	Colorado	CO	Boulder	013			40.0172	-105.2851	4
+US	30303	Atlanta	Georgia	GA	Fulton	121			33.7525	-84.3915	4
+US	78701	Austin	Texas	TX	Travis	453			30.2713	-97.7426	4
