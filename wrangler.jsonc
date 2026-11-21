@@ -1,0 +1,26 @@
+{
+  // Worker "gravel" (Aufbau wie Worker "hofladen", siehe docs/03-uebernahme-hofladen.md)
+  "name": "gravel",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-11-01",
+  // Erzeugt public/ und src/generated/ aus den Daten in data/ (läuft vor jedem Deploy)
+  "build": {
+    "command": "node scripts/build.mjs"
+  },
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    // HTML-Seiten liefert der Worker aus (301 statt 307 bei Schreibvarianten, 410 für entfernte Yards)
+    "html_handling": "none",
+    "run_worker_first": ["/api/*", "/index.html", "/*/index.html"]
+  },
+  // Domain eintragen, sobald sie registriert ist:
+  // "routes": [
+  //   { "pattern": "gravelandmulch.com", "custom_domain": true },
+  //   { "pattern": "www.gravelandmulch.com", "custom_domain": true }
+  // ],
+  // Später (Betreiber-Bereich, Statistik, eigene Kartenkacheln), IDs nach dem Anlegen eintragen:
+  // "d1_databases": [{ "binding": "STATS", "database_name": "gravel-statistik", "database_id": "…" }],
+  // "r2_buckets": [{ "binding": "KARTEN", "bucket_name": "gravel-karten" }],
+  "observability": { "enabled": true }
+}

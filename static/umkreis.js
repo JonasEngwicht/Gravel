@@ -1,6 +1,6 @@
-// Client-side "yards near me" lookup without a backend.
-// ZIP centroids come from the US Census ZCTA Gazetteer file (public domain),
-// prepared at build time as { "80202": [lat, lng], ... }.
+// Reference logic for the "yards near me" lookup (filter, radius, sorting).
+// In production this runs in the Worker behind /api/umkreis (see docs/03-uebernahme-hofladen.md);
+// ZIP centroids come from GeoNames (CC BY 4.0) and are generated at build time.
 
 const EARTH_RADIUS_MI = 3958.8;
 
@@ -26,8 +26,10 @@ export function haversineMi([lat1, lng1], [lat2, lng2]) {
 export function findYards({ origin, materialId, needsDelivery = false, maxMiles = 30 }, yards) {
   return yards
     .filter((y) => y.status === "active")
-    .filter((y) => y.materials.some((m) => m.id === materialId))
-    .map((y) => ({ yard: y, miles: haversineMi(origin, [y.location.lat, y.location.lng]) }))
+    // Yards ohne bestätigte Materialliste (z. B. aus offenen Quellen) bleiben drin, stehen aber hinter bestätigten
+    .filter((y) => !materialId || !y.materials.length || y.materials.some((m) => m.id === materialId))
+    .map((y) => ({ yard: y, miles: haversineMi(origin, [y.location.lat, y.location.lng]),
+      confirmed: !materialId || y.materials.some((m) => m.id === materialId) }))
     .filter(({ yard, miles }) => {
       if (!needsDelivery) return miles <= maxMiles;
       const radius = yard.delivery?.radius_mi ?? 0;
@@ -37,7 +39,7 @@ export function findYards({ origin, materialId, needsDelivery = false, maxMiles 
       // Featured listings first, then distance
       const fa = a.yard.listing?.tier === "featured" ? 0 : 1;
       const fb = b.yard.listing?.tier === "featured" ? 0 : 1;
-      return fa - fb || a.miles - b.miles;
+      return fa - fb || Number(b.confirmed) - Number(a.confirmed) || a.miles - b.miles;
     });
 }
 

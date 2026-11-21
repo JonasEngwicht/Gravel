@@ -1,0 +1,55 @@
+name: Offene Quellen aktualisieren
+
+# Wie bei Hofladen: Overture und Foursquare holen, unsichere Kandidaten über die eigene Website prüfen,
+# auswählen und abgleichen → data/offene-quellen.json, data/website-pruefung.json, dann Deploy.
+# Erst nach erfolgreichem Probelauf und geschärften Regeln in scripts/quellen.mjs aktivieren (Zeitplan auskommentiert).
+on:
+  workflow_dispatch:
+  # schedule:
+  #   - cron: '41 2 26 * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daten
+  cancel-in-progress: false
+
+jobs:
+  quellen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 300
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install duckdb==1.1.3 overturemaps
+      - name: Overture holen
+        run: python scripts/fetch-overture.py "$RUNNER_TEMP/roh-overture.json" || echo "::warning::Overture fehlgeschlagen"
+      - name: Foursquare holen
+        env:
+          HF_TOKEN: ${{ secrets.HUGGINGFACE_KEY }}
+        run: python scripts/fetch-foursquare.py "$RUNNER_TEMP/roh-foursquare.json" || echo "::warning::Foursquare fehlgeschlagen"
+      - name: Websites prüfen
+        run: |
+          ls "$RUNNER_TEMP"/roh-*.json
+          node scripts/import-quellen.mjs "$RUNNER_TEMP"/roh-*.json --pruefliste "$RUNNER_TEMP/pruefliste.json"
+          node scripts/websites-pruefen.mjs "$RUNNER_TEMP/pruefliste.json" --max 3000
+      - name: Auswahl und Abgleich
+        run: node scripts/import-quellen.mjs "$RUNNER_TEMP"/roh-*.json
+      - name: Tests
+        run: npm test
+      - uses: ./.github/actions/committen
+        id: commit
+        with:
+          dateien: data/offene-quellen.json data/website-pruefung.json data/seiten-stand.json
+          nachricht: "Offene Quellen aktualisiert"
+      - name: Deploy
+        if: steps.commit.outputs.geaendert == 'ja'
+        uses: ./.github/actions/deployen
+        with:
+          hook: ${{ secrets.CF_DEPLOY_HOOK }}

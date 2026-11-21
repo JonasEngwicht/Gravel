@@ -8,7 +8,7 @@ Nutzer:innen wissen nach 30 Sekunden, **wie viel** Material sie bestellen müsse
 
 ## 2. Seiten und Keywords
 
-Jede Seite nutzt denselben Rechner-Kern (`src/calc/core.js`), nur mit anderem Standardmaterial, Text und FAQ.
+Jede Seite nutzt denselben Rechner-Kern (`static/calc.js`), nur mit anderem Standardmaterial, Text und FAQ.
 
 | URL | Haupt-Keyword (Suchen/Monat USA) | Standardmaterial |
 |---|---|---|
@@ -56,7 +56,7 @@ Kosten Säcke      = Säcke × Sackpreis
 Pick-up-Fahrten   = aufrunden(max(Gewicht / Nutzlast, Volumen / Ladefläche))
 ```
 
-Referenz-Implementierung: `src/calc/core.js`, getestet in `test/calc.test.js` (u. a. Faustregel /324, Beispiel 10×10 ft bei 2 in ≈ 0,62 cy).
+Umsetzung: `static/calc.js`, getestet in `test/calc.test.js` (u. a. Faustregel /324, Beispiel 10×10 ft bei 2 in ≈ 0,62 cy).
 
 **Wichtig:** Die Dichten und Tiefen in `data/materials.json` sind typische Richtwerte. Vor dem Launch gegen Datenblätter von 3–5 Lieferanten prüfen und die Quelle im Datensatz vermerken.
 
@@ -81,7 +81,7 @@ Reihenfolge nach Nutzen:
 
 ## 7. Technik
 
-- **Statische Seiten**, Rechner als kleines Vanilla-JS-Modul (keine Framework-Pflicht), lädt `materials.json` beim Build mit ein. Ziel: < 50 KB JS, Lighthouse 95+.
+- **Statische Seiten aus dem Hofladen-Stack** (Node-Build ohne Abhängigkeiten, Cloudflare Worker, siehe `03-uebernahme-hofladen.md`). Rechner als kleines Vanilla-JS-Modul, `static/calc.js` wird wie `static/helfer.js` bei Hofladen von Build und Browser gemeinsam genutzt. `materials.json` wird beim Build eingebunden. Ziel: < 50 KB JS, Lighthouse 95+.
 - Funktioniert ohne Cookies und ohne Login.
 - Strukturierte Daten: `WebApplication` (applicationCategory „UtilitiesApplication“) und `BreadcrumbList`. Keine erfundenen Bewertungen.
 - Eingaben werden lokal gemerkt (localStorage, in try/catch), damit Rückkehrer ihre Werte wiederfinden.
@@ -89,7 +89,6 @@ Reihenfolge nach Nutzen:
 
 ## 8. Offene Entscheidungen
 
-- [ ] Framework für die statischen Seiten (Vorschlag: Astro, weil Stadt-Seiten aus JSON generiert werden).
-- [ ] Hosting (Vorschlag: Cloudflare Pages).
+- [x] Framework und Hosting: Hofladen-Stack (Node-Build + Cloudflare Worker mit D1/R2), siehe `03-uebernahme-hofladen.md`.
 - [ ] Domain final (Favorit aus der Recherche: gravelandmulch.com).
 - [ ] Dichten mit Lieferantendaten verifizieren.

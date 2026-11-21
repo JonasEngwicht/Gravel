@@ -1,0 +1,57 @@
+{
+ "_comment": "Fiktiver Testeintrag \u2013 nur f\u00fcr Tests, nie ver\u00f6ffentlichen.",
+ "id": "test-1",
+ "slug": "test-yard-alpha",
+ "name": "Test Yard Alpha",
+ "status": "active",
+ "address": {
+  "street": "100 Test Ave",
+  "city": "Denver",
+  "state": "CO",
+  "zip": "80216"
+ },
+ "location": {
+  "lat": 39.785,
+  "lng": -104.966
+ },
+ "contact": {
+  "phone": "(000) 000-0001"
+ },
+ "materials": [
+  {
+   "id": "hardwood-mulch",
+   "price": {
+    "amount": 30,
+    "unit": "cy",
+    "updated": "2026-11-21",
+    "source": "yard-website"
+   }
+  },
+  {
+   "id": "pea-gravel",
+   "price": {
+    "amount": 50,
+    "unit": "ton",
+    "updated": "2026-11-21",
+    "source": "yard-website"
+   }
+  }
+ ],
+ "delivery": {
+  "available": true,
+  "radius_mi": 25,
+  "fee_from": 75
+ },
+ "self_load": true,
+ "hours": {
+  "mon": "07:00-17:00",
+  "sat": "08:00-12:00"
+ },
+ "listing": {
+  "tier": "free"
+ },
+ "source": {
+  "type": "own-research",
+  "checked": "2026-11-21"
+ }
+}

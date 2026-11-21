@@ -1,0 +1,41 @@
+{
+ "_comment": "Fiktiver Testeintrag \u2013 nur f\u00fcr Tests, nie ver\u00f6ffentlichen.",
+ "id": "test-4",
+ "slug": "test-yard-delta",
+ "name": "Test Yard Delta",
+ "status": "active",
+ "address": {
+  "street": "400 Test Ave",
+  "city": "Boulder",
+  "state": "CO",
+  "zip": "80302"
+ },
+ "location": {
+  "lat": 40.017,
+  "lng": -105.28
+ },
+ "contact": {
+  "phone": "(000) 000-0004"
+ },
+ "materials": [
+  {
+   "id": "river-rock"
+  }
+ ],
+ "delivery": {
+  "available": true,
+  "radius_mi": 15
+ },
+ "self_load": true,
+ "hours": {
+  "mon": "07:00-17:00",
+  "sat": "08:00-12:00"
+ },
+ "listing": {
+  "tier": "free"
+ },
+ "source": {
+  "type": "own-research",
+  "checked": "2026-11-21"
+ }
+}

@@ -1,4 +1,7 @@
 node_modules/
-dist/
+public/
+src/generated/
 .DS_Store
 .env
+.wrangler/
+__pycache__/

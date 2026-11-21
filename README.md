@@ -1,24 +1,19 @@
 # Gravel
 
 Mulch-, Kies- und Erde-Rechner plus ein Verzeichnis für Landscape-Supply-Yards in den USA.
+Aufbau übernommen aus dem Hofladen-Repo: Node-Build ohne Abhängigkeiten, ausgeliefert über einen Cloudflare Worker.
 
-## Inhalt
-
-| Pfad | Was |
-|---|---|
-| `docs/01-konzept-rechner.md` | Konzept der Rechner: Seiten, Eingaben, Rechenweg, Ergebnisanzeige |
-| `docs/02-konzept-directory.md` | Konzept des Verzeichnisses und der Verzahnung mit den Rechnern |
-| `data/materials.json` | Materialien mit Dichte, empfohlener Tiefe, Sackgrößen, Puffer (Richtwerte, vor Launch prüfen) |
-| `data/schema/yard.schema.json` | Datenformat für einen Yard-Eintrag |
-| `data/yards/_example.json` | Fiktiver Beispiel-Eintrag |
-| `src/calc/core.js` | Rechenlogik (reine Funktionen) |
-| `src/directory/distance.js` | Umkreissuche nach ZIP, Median-Preise |
-| `test/` | Tests für Rechenlogik und Umkreissuche |
-
-## Tests
+- **Für Agenten und Entwickler:** [AGENTS.md](AGENTS.md) – Aufbau, Daten, Befehle, Regeln, Checkliste vor dem Launch.
+- **Konzepte:** [Rechner](docs/01-konzept-rechner.md) · [Directory](docs/02-konzept-directory.md) · [Übernahme aus Hofladen](docs/03-uebernahme-hofladen.md)
 
 ```sh
-npm test
+node scripts/build.mjs   # Seiten nach public/, Worker-Daten nach src/generated/
+npm test                 # bauen und testen
 ```
 
-Benötigt Node.js 20 oder neuer, keine Abhängigkeiten.
+## Lizenzen der Daten
+
+- Overture Maps Places: CDLA-Permissive-2.0 / Apache-2.0 · Foursquare Open Source Places: Apache-2.0
+- ZIP-Daten: [GeoNames](https://www.geonames.org/), CC BY 4.0
+- Schriften: Atkinson Hyperlegible Next und Zilla Slab (SIL Open Font License, siehe `static/fonts/`)
+- Leaflet und Protomaps-Leaflet: Lizenzen in `static/vendor/`

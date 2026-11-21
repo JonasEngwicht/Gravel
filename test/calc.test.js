@@ -1,8 +1,8 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync } from "node:fs";
-import { area, totalArea, calculate, cost, pickupTrips, coverage, roundUpTo } from "../src/calc/core.js";
-import { haversineMi, findYards, medianPrice } from "../src/directory/distance.js";
+import { area, totalArea, calculate, cost, pickupTrips, coverage, roundUpTo } from "../static/calc.js";
+import { haversineMi, findYards, medianPrice } from "../static/umkreis.js";
 
 const { materials } = JSON.parse(readFileSync(new URL("../data/materials.json", import.meta.url)));
 const mat = (id) => materials.find((m) => m.id === id);
@@ -74,10 +74,12 @@ test("findYards filters by material, radius and delivery; featured first", () =>
     { ...base, id: "no-delivery", location: { lat: 39.75, lng: -104.98 }, delivery: { available: false } },
     { ...base, id: "closed", status: "closed", location: { lat: 39.74, lng: -104.99 } },
     { status: "active", id: "no-mulch", materials: [{ id: "pea-gravel" }], location: { lat: 39.74, lng: -104.99 } },
+    { status: "active", id: "unknown", materials: [], location: { lat: 39.7393, lng: -104.9904 } },
   ];
   const origin = [39.7392, -104.9903];
   const pickup = findYards({ origin, materialId: "hardwood-mulch" }, yards).map((r) => r.yard.id);
-  assert.deepEqual(pickup, ["far", "near", "no-delivery"]);
+  // unbestätigte Materialliste ("unknown") steht hinter bestätigten Yards, obwohl sie am nächsten liegt
+  assert.deepEqual(pickup, ["far", "near", "no-delivery", "unknown"]);
   const delivered = findYards({ origin, materialId: "hardwood-mulch", needsDelivery: true }, yards).map((r) => r.yard.id);
   assert.deepEqual(delivered, ["far", "near"]);
 });

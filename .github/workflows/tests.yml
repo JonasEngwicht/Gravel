@@ -1,0 +1,21 @@
+name: Tests
+
+# Baut die Seite (Produktion und mit Test-Yards) und prüft Rechner, Routing, Seitenregeln, Sitemap und Quellen-Regeln.
+on:
+  push:
+    branches-ignore: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Build und Tests
+        run: npm test
+      - name: Python-Skripte kompilieren
+        run: python3 -m py_compile scripts/*.py
