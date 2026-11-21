@@ -8,6 +8,7 @@ Mulch-, Kies- und Erde-Rechner plus ein Verzeichnis für Landscape-Supply-Yards 
 |---|---|
 | `docs/01-konzept-rechner.md` | Konzept der Rechner: Seiten, Eingaben, Rechenweg, Ergebnisanzeige |
 | `docs/02-konzept-directory.md` | Konzept des Verzeichnisses und der Verzahnung mit den Rechnern |
+| `docs/03-uebernahme-hofladen.md` | Was aus dem Hofladen-Repo übernommen wird (Stack, Datenpipeline, Betreiber-Bereich, Regeln) |
 | `data/materials.json` | Materialien mit Dichte, empfohlener Tiefe, Sackgrößen, Puffer (Richtwerte, vor Launch prüfen) |
 | `data/schema/yard.schema.json` | Datenformat für einen Yard-Eintrag |
 | `data/yards/_example.json` | Fiktiver Beispiel-Eintrag |
