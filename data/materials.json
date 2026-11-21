@@ -1,0 +1,163 @@
+{
+  "_meta": {
+    "description": "Material parameters for the calculators. Densities and depths are typical reference values and must be checked against supplier data sheets before launch.",
+    "units": {
+      "density_tons_per_cy": "short tons (2,000 lb) per loose cubic yard",
+      "depth_in": "inches",
+      "bag_cu_ft": "cubic feet per bag"
+    },
+    "version": "0.1.0"
+  },
+  "categories": [
+    { "id": "mulch", "label": "Mulch" },
+    { "id": "gravel", "label": "Gravel & Stone" },
+    { "id": "soil", "label": "Soil & Compost" },
+    { "id": "sand", "label": "Sand" }
+  ],
+  "materials": [
+    {
+      "id": "hardwood-mulch",
+      "category": "mulch",
+      "label": "Shredded hardwood mulch",
+      "density_tons_per_cy": 0.3,
+      "density_range": [0.2, 0.4],
+      "sold_by": ["cy", "bag"],
+      "bag_cu_ft": [2, 1.5, 3],
+      "default_depth_in": 3,
+      "depth_range_in": [2, 4],
+      "waste_pct": 10
+    },
+    {
+      "id": "pine-bark-mulch",
+      "category": "mulch",
+      "label": "Pine bark nuggets / mulch",
+      "density_tons_per_cy": 0.25,
+      "density_range": [0.2, 0.3],
+      "sold_by": ["cy", "bag"],
+      "bag_cu_ft": [2, 3],
+      "default_depth_in": 3,
+      "depth_range_in": [2, 4],
+      "waste_pct": 10
+    },
+    {
+      "id": "pea-gravel",
+      "category": "gravel",
+      "label": "Pea gravel",
+      "density_tons_per_cy": 1.4,
+      "density_range": [1.3, 1.5],
+      "sold_by": ["ton", "cy", "bag"],
+      "bag_cu_ft": [0.5],
+      "default_depth_in": 3,
+      "depth_range_in": [2, 4],
+      "waste_pct": 10
+    },
+    {
+      "id": "crushed-stone-57",
+      "category": "gravel",
+      "label": "Crushed stone (#57)",
+      "density_tons_per_cy": 1.4,
+      "density_range": [1.35, 1.5],
+      "sold_by": ["ton", "cy"],
+      "bag_cu_ft": [0.5],
+      "default_depth_in": 4,
+      "depth_range_in": [2, 6],
+      "waste_pct": 10
+    },
+    {
+      "id": "crusher-run",
+      "category": "gravel",
+      "label": "Crusher run / road base",
+      "density_tons_per_cy": 1.55,
+      "density_range": [1.5, 1.7],
+      "sold_by": ["ton"],
+      "bag_cu_ft": [],
+      "default_depth_in": 4,
+      "depth_range_in": [4, 8],
+      "waste_pct": 15,
+      "note": "Compacts significantly – higher buffer."
+    },
+    {
+      "id": "river-rock",
+      "category": "gravel",
+      "label": "River rock",
+      "density_tons_per_cy": 1.4,
+      "density_range": [1.3, 1.5],
+      "sold_by": ["ton", "bag"],
+      "bag_cu_ft": [0.5],
+      "default_depth_in": 3,
+      "depth_range_in": [2, 4],
+      "waste_pct": 10,
+      "note": "Depth should be roughly 2x the stone size."
+    },
+    {
+      "id": "decomposed-granite",
+      "category": "gravel",
+      "label": "Decomposed granite",
+      "density_tons_per_cy": 1.35,
+      "density_range": [1.3, 1.45],
+      "sold_by": ["ton", "cy"],
+      "bag_cu_ft": [0.5],
+      "default_depth_in": 3,
+      "depth_range_in": [2, 4],
+      "waste_pct": 15
+    },
+    {
+      "id": "topsoil",
+      "category": "soil",
+      "label": "Topsoil",
+      "density_tons_per_cy": 1.1,
+      "density_range": [1.0, 1.3],
+      "sold_by": ["cy", "bag"],
+      "bag_cu_ft": [0.75, 1],
+      "default_depth_in": 4,
+      "depth_range_in": [0.25, 6],
+      "waste_pct": 15,
+      "note": "Moist soil is heavier; settles after placement."
+    },
+    {
+      "id": "compost",
+      "category": "soil",
+      "label": "Compost",
+      "density_tons_per_cy": 0.55,
+      "density_range": [0.45, 0.7],
+      "sold_by": ["cy", "bag"],
+      "bag_cu_ft": [0.75, 1],
+      "default_depth_in": 2,
+      "depth_range_in": [0.25, 3],
+      "waste_pct": 10
+    },
+    {
+      "id": "fill-dirt",
+      "category": "soil",
+      "label": "Fill dirt",
+      "density_tons_per_cy": 1.2,
+      "density_range": [1.1, 1.3],
+      "sold_by": ["cy", "ton"],
+      "bag_cu_ft": [],
+      "default_depth_in": 6,
+      "depth_range_in": [2, 24],
+      "waste_pct": 15
+    },
+    {
+      "id": "masonry-sand",
+      "category": "sand",
+      "label": "Sand (masonry / play)",
+      "density_tons_per_cy": 1.35,
+      "density_range": [1.25, 1.4],
+      "sold_by": ["ton", "cy", "bag"],
+      "bag_cu_ft": [0.5],
+      "default_depth_in": 2,
+      "depth_range_in": [1, 12],
+      "waste_pct": 10
+    }
+  ],
+  "projects": [
+    { "id": "flower-bed", "label": "Flower bed", "material": "hardwood-mulch", "depth_in": 3 },
+    { "id": "tree-ring", "label": "Tree ring", "material": "hardwood-mulch", "depth_in": 3, "shape": "ring" },
+    { "id": "gravel-path", "label": "Garden path", "material": "pea-gravel", "depth_in": 3 },
+    { "id": "driveway", "label": "Gravel driveway", "material": "crushed-stone-57", "depth_in": 4, "note": "New driveways usually need a base layer (crusher run, 4–6 in) plus a top layer." },
+    { "id": "new-lawn", "label": "New lawn", "material": "topsoil", "depth_in": 4 },
+    { "id": "top-dressing", "label": "Lawn top dressing", "material": "compost", "depth_in": 0.25 },
+    { "id": "raised-bed", "label": "Raised bed", "material": "topsoil", "depth_in": 12 }
+  ]
+}

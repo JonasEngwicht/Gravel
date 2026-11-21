@@ -1,0 +1,21 @@
+{
+  "_comment": "Fictional example listing to illustrate the format. Not a real business – do not publish.",
+  "id": "co-denver-example-landscape-supply",
+  "slug": "example-landscape-supply",
+  "name": "Example Landscape Supply",
+  "status": "active",
+  "address": { "street": "123 Example St", "city": "Denver", "state": "CO", "zip": "80216" },
+  "location": { "lat": 39.78, "lng": -104.96 },
+  "contact": { "phone": "(000) 000-0000", "website": "https://example.com" },
+  "materials": [
+    { "id": "hardwood-mulch", "bulk": true, "bagged": true, "price": { "amount": 38, "unit": "cy", "updated": "2026-11-21", "source": "yard-website" } },
+    { "id": "pea-gravel", "bulk": true, "price": { "amount": 55, "unit": "ton", "updated": "2026-11-21", "source": "yard-website" } },
+    { "id": "topsoil", "bulk": true }
+  ],
+  "delivery": { "available": true, "radius_mi": 25, "fee_from": 75, "min_order_cy": 2 },
+  "self_load": true,
+  "customers": ["homeowner", "contractor"],
+  "hours": { "mon": "07:00-17:00", "tue": "07:00-17:00", "wed": "07:00-17:00", "thu": "07:00-17:00", "fri": "07:00-17:00", "sat": "08:00-14:00" },
+  "listing": { "tier": "free", "claimed": false, "accepts_quotes": false },
+  "source": { "type": "own-research", "checked": "2026-11-21" }
+}
