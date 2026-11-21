@@ -42,10 +42,11 @@ Stadt-Seiten sind das wichtigste SEO-Asset: Die Live-SERP für „landscape supp
 
 Karte: OpenStreetMap-Kacheln (z. B. über MapLibre). Google Maps nur, wenn die Nutzungsbedingungen geprüft sind.
 
-## 4. ZIP-Suche ohne Server
+## 4. ZIP-Suche
 
-- Datei `data/zip-centroids.json` beim Build aus dem **US Census ZCTA Gazetteer** (Public Domain) erzeugen: `{ "80202": [lat, lng] }`. Komplett ca. 33.000 ZIPs; pro Bundesstaat aufteilen und nur bei Bedarf laden.
-- Entfernung per Haversine im Browser (`src/directory/distance.js` → `findYards()`).
+- Wie bei Hofladen über den Worker: `/api/umkreis?zip=80202&material=hardwood-mulch&delivery=1` und Landingpages `/zip/<zip>/`.
+- ZIP-Daten von **GeoNames** (US-Postleitzahlen, CC BY 4.0, gleiche Quelle wie Hofladen), im Build nach `src/generated/` geschrieben.
+- Die Filter- und Sortierlogik aus `src/directory/distance.js` (`findYards()`) wandert in den Worker; die Datei bleibt als getestete Referenz.
 - Sortierung: Featured zuerst, dann Entfernung. Featured-Einträge klar als „Featured“ kennzeichnen.
 - Bei „Delivery needed“ nur Yards, deren `delivery.radius_mi` den Abstand abdeckt.
 - Keine Treffer → Hinweis auf Nachbarstadt + „Know a yard? Add it“.
@@ -54,18 +55,21 @@ Karte: OpenStreetMap-Kacheln (z. B. über MapLibre). Google Maps nur, wenn die N
 
 Formular, automatisch befüllt aus dem Rechner: Material, Menge (cy/t), ZIP, Lieferung ja/nein, Wunschtermin, Name, Telefon/E-Mail.
 
-- Versand über ein kleines Serverless-Endpoint (z. B. Cloudflare Worker) an die E-Mail des Yards; Kopie an uns.
+- Versand über den Worker an die E-Mail des Yards, Kopie an uns. Baut auf `nachrichtAnnehmen()`, Turnstile und Resend aus `src/betrieb.js` von Hofladen auf.
 - Nur an Yards mit `listing.accepts_quotes = true` (also Yards, die zugestimmt haben).
 - Spam-Schutz (Turnstile o. ä.), Datenschutzhinweis, Einwilligung zur Weitergabe.
 - Später: Anfrage an bis zu 3 Yards gleichzeitig („Get 3 quotes“).
 
 ## 6. Datenbeschaffung
 
-**Erlaubte Quellen**
+**Kandidaten aus offenen Quellen** (Pipeline aus Hofladen, siehe `03-uebernahme-hofladen.md`)
+- Overture Maps Places (CDLA-Permissive-2.0 / Apache-2.0) und Foursquare Open Source Places (Apache-2.0) mit eigenen Namens- und Kategorieregeln, Dublettenprüfung und Bestätigung über die Website des Yards.
+- OpenStreetMap (ODbL, Quelle nennen), in den USA vermutlich mit schwächerer Abdeckung.
+
+**Weitere erlaubte Quellen**
 - Eigene Recherche auf den Websites der Yards (Name, Adresse, Materialien, veröffentlichte Preise).
 - Öffentliche Listen (z. B. Lieferantenlisten von Behörden oder Wasserversorgern).
 - Selbsteintrag und Übernahme durch die Yards (`/add-your-yard/`).
-- OpenStreetMap: Lizenz ODbL → Namensnennung und Share-Alike-Pflicht für die abgeleitete Datenbank beachten; im Zweifel nur zur Recherche nutzen.
 
 **Nicht verwenden:** Google-Maps-/Places-Daten kopieren und speichern (Lizenz verbietet das), Yelp/Angi/BBB-Inhalte übernehmen, Bewertungen anderer Plattformen anzeigen.
 
@@ -88,23 +92,27 @@ Jeder Eintrag bekommt `source.type`, `source.url` und `source.checked`. Preise h
 - Detailseite: `HomeAndConstructionBusiness` mit `areaServed` (Lieferradius) und `makesOffer` für Materialien mit Preis.
 - Keine `aggregateRating`, solange es keine eigenen, echten Bewertungen gibt.
 
-## 9. Build-Pipeline (Vorschlag)
+## 9. Build-Pipeline
+
+Nach dem Vorrang-Modell von Hofladen (schwach → stark):
 
 ```
-data/yards/*.json ──► Validierung gegen yard.schema.json (CI)
-                  ──► Build (z. B. Astro): Stadt-, Staats- und Detailseiten
-data/materials.json ─► Rechnerseiten + Preistabellen
-Census-Gazetteer ───► data/zip-centroids/<state>.json
+1. offene Quellen (Overture, Foursquare, OSM)  ─┐
+2. Ergänzungen nur für leere Felder              │
+   (Website-Öffnungszeiten, Website-Preise)      ├─► Build (Node, ohne Abhängigkeiten)
+3. eigene Pflege (data/pflege.json, data/yards/) │     ├─ Rechner-, Staats-, Stadt-, Yard-Seiten
+4. Angaben der Yards (Betreiber-Bereich)       ─┘     ├─ src/generated/ für den Worker (Umkreis, ZIPs)
+data/materials.json ─────────────────────────────────►└─ Preistabellen, Rechner-Vorbelegung
 ```
 
-- Ein Yard = eine JSON-Datei, Änderungen per Pull Request nachvollziehbar.
+- Eigene Einträge als JSON nach `yard.schema.json`, Änderungen per Pull Request nachvollziehbar.
 - CI prüft Schema, doppelte Slugs und abgelaufene Preise.
 - Sitemap pro Bereich (Rechner / Directory).
 
 ## 10. Nächste Schritte
 
-1. Framework, Hosting und Domain festlegen (siehe offene Punkte in `01-konzept-rechner.md`).
+1. Gerüst aus dem Hofladen-Repo übernehmen und Domain festlegen (siehe `03-uebernahme-hofladen.md`).
 2. Rechner-Seite Mulch als ersten Prototyp bauen.
 3. Erste Metro (z. B. Denver oder Atlanta) mit 15–20 echten Einträgen erfassen.
-4. ZIP-Daten aus dem Census Gazetteer erzeugen.
+4. Probelauf Overture/Foursquare für die erste Metro, Namensregeln schärfen.
 5. Launch vor März 2027 (Saisonstart).

@@ -1,6 +1,6 @@
-// Client-side "yards near me" lookup without a backend.
-// ZIP centroids come from the US Census ZCTA Gazetteer file (public domain),
-// prepared at build time as { "80202": [lat, lng], ... }.
+// Reference logic for the "yards near me" lookup (filter, radius, sorting).
+// In production this runs in the Worker behind /api/umkreis (see docs/03-uebernahme-hofladen.md);
+// ZIP centroids come from GeoNames (CC BY 4.0) and are generated at build time.
 
 const EARTH_RADIUS_MI = 3958.8;
 
