@@ -282,3 +282,46 @@ th { background: var(--kies); white-space: nowrap; }
 #umrechner .schritt-kopf { margin-top: 14px; }
 .tag-gravel-pit { background: #ece6da; color: #5e5033; }
 .karte-web { font-weight: 600; }
+
+/* ---------- Eigene Auswahlliste (static/auswahl.js) statt nativer Dropdowns ---------- */
+.auswahl-nativ { position: absolute !important; width: 1px !important; height: 1px !important; min-height: 0 !important; padding: 0 !important; margin: 0 !important; opacity: 0; pointer-events: none; overflow: hidden; }
+.auswahl-knopf { display: flex; align-items: center; gap: 10px; width: 100%; margin-top: 6px; min-height: 48px; padding: 10px 14px; border: 1.5px solid var(--linie); border-radius: 10px; background: #fff; color: var(--text); font: inherit; font-size: 1rem; font-weight: 500; text-align: left; cursor: pointer; transition: border-color .15s; }
+.auswahl-knopf:hover { border-color: #c4b8a6; }
+.auswahl-knopf[aria-expanded="true"] { border-color: var(--moos); outline: 3px solid rgba(156,191,125,.55); outline-offset: 0; }
+.auswahl-knopf:disabled { background: var(--sand); color: var(--leise); cursor: default; }
+.auswahl-knopf.platzhalter .auswahl-text { color: #8f857a; }
+.auswahl-text { flex: 1; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.auswahl-pfeil { color: var(--leise); flex-shrink: 0; }
+.farbe { flex-shrink: 0; width: 22px; height: 22px; border-radius: 50%; background: radial-gradient(circle at 32% 30%, rgba(255,255,255,.45), transparent 55%), var(--f); box-shadow: inset 0 0 0 1px rgba(0,0,0,.12); }
+
+html.blatt-offen { overflow: hidden; }
+.auswahl-blatt { padding: 0; border: 0; border-radius: 14px; background: #fff; color: var(--text); box-shadow: 0 12px 40px rgba(30,20,10,.25); overflow: hidden; flex-direction: column; margin: 0; position: fixed; inset: auto; max-height: 480px; }
+.auswahl-blatt[open] { display: flex; animation: blatt-auf .14s ease-out; }
+.auswahl-blatt::backdrop { background: rgba(30,22,15,.12); }
+@keyframes blatt-auf { from { opacity: 0; transform: translateY(-4px); } }
+.blatt-griff { display: none; }
+.blatt-kopf { display: flex; align-items: center; justify-content: space-between; padding: 10px 10px 6px 18px; }
+.blatt-kopf strong { font-size: 1rem; }
+.blatt-zu { width: 40px; height: 40px; border: 0; border-radius: 50%; background: var(--kies); font-size: 1.5rem; line-height: 1; color: var(--leise); cursor: pointer; }
+.blatt-suche { margin: 2px 14px 8px; width: auto; min-height: 44px; }
+.blatt-liste { overflow-y: auto; overscroll-behavior: contain; padding: 0 8px 10px; }
+.blatt-gruppe p { margin: 10px 10px 4px; font-size: .75rem; font-weight: 700; letter-spacing: .06em; text-transform: uppercase; color: var(--rinde); }
+.blatt-option { display: flex; align-items: center; gap: 12px; width: 100%; min-height: 52px; padding: 8px 10px; border: 0; border-radius: 10px; background: none; font: inherit; color: var(--text); text-align: left; cursor: pointer; }
+.blatt-option:hover, .blatt-option:focus-visible { background: var(--sand); outline: none; }
+.blatt-option[aria-selected="true"] { background: var(--moos-hell); }
+.blatt-text { flex: 1; min-width: 0; display: flex; flex-direction: column; line-height: 1.3; }
+.blatt-text span { font-weight: 600; }
+.blatt-text small { color: var(--leise); font-size: .82rem; margin-top: 1px; }
+.blatt-haken { flex-shrink: 0; color: var(--moos); visibility: hidden; }
+.blatt-option[aria-selected="true"] .blatt-haken { visibility: visible; }
+.blatt-leer { margin: 0; padding: 4px 18px 16px; color: var(--leise); }
+
+@media (max-width: 760px) {
+  .auswahl-blatt { left: 0 !important; right: 0; bottom: 0 !important; top: auto !important; width: 100% !important; max-width: none; max-height: 82vh !important; max-height: 82dvh !important; border-radius: 18px 18px 0 0; padding-bottom: env(safe-area-inset-bottom); }
+  .auswahl-blatt[open] { animation: blatt-hoch .22s cubic-bezier(.2,.8,.3,1); }
+  .auswahl-blatt::backdrop { background: rgba(30,22,15,.45); }
+  .blatt-griff { display: block; width: 40px; height: 5px; border-radius: 3px; background: var(--linie); margin: 8px auto 0; }
+  .blatt-option { min-height: 56px; }
+}
+@keyframes blatt-hoch { from { transform: translateY(100%); } }
+@media (prefers-reduced-motion: reduce) { .auswahl-blatt[open] { animation: none; } }
