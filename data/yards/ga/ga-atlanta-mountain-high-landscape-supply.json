@@ -18,7 +18,30 @@
     "phone": "(678) 335-2565",
     "website": "https://www.mountainhighmulch.com/"
   },
-  "materials": [],
+  "materials": [
+    {
+      "id": "pine-bark-mulch",
+      "bulk": true,
+      "price": {
+        "amount": 40,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    }
+  ],
+  "delivery": {
+    "available": true,
+    "fee_from": 60
+  },
+  "hours": {
+    "mon": "07:00-17:00",
+    "tue": "07:00-17:00",
+    "wed": "07:00-17:00",
+    "thu": "07:00-17:00",
+    "fri": "07:00-17:00",
+    "sat": "07:00-15:00"
+  },
   "listing": {
     "tier": "free",
     "claimed": false,
@@ -31,6 +54,7 @@
     "dataset": "overture-places-2026-11-18.0",
     "ref": "ca06ebb1-08d0-4d99-a918-a32940bb053e",
     "confidence": 0.966,
-    "merged_records": 1
+    "merged_records": 1,
+    "url_prices": "https://mountainhighmulch.com/product/pine-bark-nuggets/"
   }
 }

@@ -18,7 +18,82 @@
     "phone": "(770) 717-5565",
     "website": "https://www.greenlandscapesupply.com/"
   },
-  "materials": [],
+  "materials": [
+    {
+      "id": "hardwood-mulch",
+      "bulk": true,
+      "price": {
+        "amount": 24,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "pine-bark-mulch",
+      "bulk": true,
+      "price": {
+        "amount": 40,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "topsoil",
+      "bulk": true,
+      "price": {
+        "amount": 26,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "compost",
+      "bulk": true,
+      "price": {
+        "amount": 30,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "fill-dirt",
+      "bulk": true,
+      "price": {
+        "amount": 17,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "crushed-stone-57",
+      "bulk": true,
+      "price": {
+        "amount": 68,
+        "unit": "ton",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "crusher-run",
+      "bulk": true,
+      "price": {
+        "amount": 58,
+        "unit": "ton",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    }
+  ],
+  "delivery": {
+    "available": true,
+    "min_order_cy": 3
+  },
   "listing": {
     "tier": "free",
     "claimed": false,
@@ -31,6 +106,7 @@
     "dataset": "overture-places-2026-11-18.0",
     "ref": "c8536c87-f7c0-4966-953c-61f3c0356db8",
     "confidence": 0.92,
-    "merged_records": 1
+    "merged_records": 1,
+    "url_prices": "https://www.greenlandscapesupply.com/price-list/"
   }
 }

@@ -18,7 +18,116 @@
     "phone": "(678) 496-2743",
     "website": "https://mulchpros.com"
   },
-  "materials": [],
+  "materials": [
+    {
+      "id": "hardwood-mulch",
+      "bulk": true,
+      "price": {
+        "amount": 29.95,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "topsoil",
+      "bulk": true,
+      "price": {
+        "amount": 32.95,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "fill-dirt",
+      "bulk": true,
+      "price": {
+        "amount": 25.95,
+        "amount_max": 32.95,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "crushed-stone-57",
+      "bulk": true,
+      "price": {
+        "amount": 58.95,
+        "unit": "ton",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "crusher-run",
+      "bulk": true,
+      "price": {
+        "amount": 54.95,
+        "unit": "ton",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "hardwood-mulch",
+      "bulk": false,
+      "bagged": true,
+      "price": {
+        "amount": 2.95,
+        "unit": "bag",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "topsoil",
+      "bulk": false,
+      "bagged": true,
+      "price": {
+        "amount": 2.85,
+        "unit": "bag",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "crushed-stone-57",
+      "bulk": false,
+      "bagged": true,
+      "price": {
+        "amount": 5.95,
+        "unit": "bag",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "pine-bark-mulch",
+      "bulk": false,
+      "bagged": true,
+      "price": {
+        "amount": 4.25,
+        "unit": "bag",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    }
+  ],
+  "delivery": {
+    "available": true,
+    "fee_from": 60
+  },
+  "self_load": true,
+  "hours": {
+    "mon": "08:00-17:00",
+    "tue": "08:00-17:00",
+    "wed": "08:00-17:00",
+    "thu": "08:00-17:00",
+    "fri": "08:00-17:00",
+    "sat": "08:00-17:00"
+  },
   "listing": {
     "tier": "free",
     "claimed": false,
@@ -31,6 +140,7 @@
     "dataset": "overture-places-2026-11-18.0",
     "ref": "33191c3f-d14e-44f1-8062-a426ee047fee",
     "confidence": 0.99,
-    "merged_records": 1
+    "merged_records": 1,
+    "url_prices": "https://mulchpros.com/"
   }
 }
