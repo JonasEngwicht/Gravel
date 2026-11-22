@@ -1,0 +1,19 @@
+{
+  // Worker "gravel": Mulch-, Kies- und Erde-Rechner (USA)
+  "name": "gravel",
+  "main": "src/worker.js",
+  "compatibility_date": "2026-11-01",
+  // Erzeugt public/ aus data/ und static/ (läuft vor jedem Deploy)
+  "build": {
+    "command": "node scripts/build.mjs"
+  },
+  "assets": {
+    "directory": "./public",
+    "binding": "ASSETS",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page",
+    // Worker zuerst, damit er auf *.workers.dev noindex setzen kann (Vorschau, solange keine Domain hängt)
+    "run_worker_first": true
+  },
+  "observability": { "enabled": true }
+}

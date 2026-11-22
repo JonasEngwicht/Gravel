@@ -1,0 +1,193 @@
+// Baut die statische Website nach public/.
+// Läuft automatisch vor jedem "wrangler deploy" (siehe wrangler.jsonc → build.command).
+// Keine Abhängigkeiten, nur Node-Bordmittel.
+//
+// Eingaben:  data/materials.json, site.config.json, static/*, src/calc/core.js
+// Ausgabe:   public/<seite>/index.html, public/assets/*, robots.txt, 404.html (+ sitemap.xml, wenn baseUrl gesetzt)
+import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync } from 'node:fs';
+import { dirname, join } from 'node:path';
+import { fileURLToPath } from 'node:url';
+import { coverage } from '../src/calc/core.js';
+import { SEITEN } from './seiten.mjs';
+
+const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
+const OUT = join(ROOT, 'public');
+const lies = (p) => readFileSync(join(ROOT, p), 'utf8');
+const MAT = JSON.parse(lies('data/materials.json'));
+const SITE = JSON.parse(lies('site.config.json'));
+const VERSION = (process.env.BUILD_DATUM || new Date().toISOString()).replace(/\D/g, '').slice(0, 12);
+
+const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]));
+const matById = Object.fromEntries(MAT.materials.map((m) => [m.id, m]));
+const fmt = (n, d = 0) => n.toLocaleString('en-US', { maximumFractionDigits: d, minimumFractionDigits: d });
+
+// ---------- Bausteine ----------
+
+function kopf(seite) {
+  const canonical = SITE.baseUrl ? `<link rel="canonical" href="${SITE.baseUrl}${seite.pfad}">` : '';
+  const robots = SITE.baseUrl ? '' : '<meta name="robots" content="noindex">';
+  const ld = [
+    {
+      '@context': 'https://schema.org', '@type': 'WebApplication', name: seite.h1,
+      applicationCategory: 'UtilitiesApplication', operatingSystem: 'Any',
+      offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
+    },
+    {
+      '@context': 'https://schema.org', '@type': 'BreadcrumbList',
+      itemListElement: [
+        { '@type': 'ListItem', position: 1, name: 'Home', item: (SITE.baseUrl || '') + '/' },
+        ...(seite.pfad === '/' ? [] : [{ '@type': 'ListItem', position: 2, name: seite.nav, item: (SITE.baseUrl || '') + seite.pfad }]),
+      ],
+    },
+  ];
+  if (seite.faq?.length) ld.push({
+    '@context': 'https://schema.org', '@type': 'FAQPage',
+    mainEntity: seite.faq.map(([q, a]) => ({ '@type': 'Question', name: q, acceptedAnswer: { '@type': 'Answer', text: a } })),
+  });
+  return `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>${esc(seite.title)}</title>
+<meta name="description" content="${esc(seite.description)}">
+${robots}${canonical}
+<link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="/assets/style.css?v=${VERSION}">
+<script type="application/ld+json">${JSON.stringify(ld)}</script>
+</head>
+<body>
+<header class="kopf"><div class="breit">
+  <a class="logo" href="/"><svg aria-hidden="true" viewBox="0 0 32 32" width="28" height="28"><use href="/assets/favicon.svg#m"/></svg>${esc(SITE.shortName)}</a>
+  <nav aria-label="Calculators">${SEITEN.filter((s) => s.imMenue).map((s) => `<a href="${s.pfad}"${s.pfad === seite.pfad ? ' aria-current="page"' : ''}>${esc(s.nav)}</a>`).join('')}</nav>
+</div></header>`;
+}
+
+function fuss() {
+  return `<footer class="fuss"><div class="breit">
+  <p><strong>${esc(SITE.name)}</strong> – free calculators for mulch, gravel, stone and soil.</p>
+  <nav aria-label="All calculators">${SEITEN.filter((s) => s.pfad !== '/').map((s) => `<a href="${s.pfad}">${esc(s.h1)}</a>`).join('')}</nav>
+  <p class="klein">Results are estimates based on typical material weights. Densities vary by supplier and moisture – confirm with your supplier before ordering.</p>
+</div></footer>
+<script type="module" src="/assets/app.js?v=${VERSION}"></script>
+</body>
+</html>`;
+}
+
+function rechner(seite) {
+  const opt = MAT.categories.map((c) => `<optgroup label="${esc(c.label)}">${MAT.materials.filter((m) => m.category === c.id)
+    .map((m) => `<option value="${m.id}"${m.id === seite.material ? ' selected' : ''}>${esc(m.label)}</option>`).join('')}</optgroup>`).join('');
+  const proj = MAT.projects.map((p) => `<option value="${p.id}">${esc(p.label)}</option>`).join('');
+  const m = matById[seite.material];
+  const cfg = { material: seite.material, depth: seite.tiefe ?? m.default_depth_in, nurVolumen: !!seite.nurVolumen, shape: seite.form || 'rectangle' };
+  return `<form class="rechner" id="rechner" novalidate data-cfg='${esc(JSON.stringify(cfg))}'>
+  <div class="spalten">
+    <fieldset class="eingabe">
+      <legend class="sr">Your project</legend>
+      <div class="einheiten" role="group" aria-label="Units">
+        <button type="button" data-einheit="imperial" aria-pressed="true">ft / in</button>
+        <button type="button" data-einheit="metric" aria-pressed="false">m / cm</button>
+      </div>
+      ${seite.nurVolumen ? '' : `<label>Project <span class="opt">(optional)</span>
+        <select id="projekt"><option value="">Choose a project…</option>${proj}</select></label>
+      <label>Material<select id="material">${opt}</select></label>
+      <p class="hinweis" id="mat-hinweis" hidden></p>`}
+      <div id="abschnitte"></div>
+      <button type="button" class="knopf-zweit" id="abschnitt-neu">+ Add another section</button>
+      <label>Depth <span class="einheit-tiefe">(inches)</span>
+        <input id="tiefe" type="number" inputmode="decimal" min="0" step="0.25" value="${cfg.depth}"></label>
+      <p class="hinweis" id="tiefe-hinweis"></p>
+      <details class="erweitert">
+        <summary>Advanced: buffer, bag size, prices</summary>
+        <label>Extra for settling &amp; waste (%)<input id="puffer" type="number" inputmode="decimal" min="0" max="50" step="1" value="${seite.nurVolumen ? 0 : m.waste_pct}"></label>
+        ${seite.nurVolumen ? '' : `<label>Bag size<select id="sack"></select></label>
+        <div class="preise">
+          <label>Price per cubic yard ($)<input id="p-cy" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 40"></label>
+          <label>Price per ton ($)<input id="p-t" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 45"></label>
+          <label>Price per bag ($)<input id="p-sack" type="number" inputmode="decimal" min="0" step="0.1" placeholder="e.g. 4"></label>
+          <label>Delivery fee ($)<input id="p-lief" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 75"></label>
+        </div>`}
+      </details>
+      <button type="submit" class="knopf">Calculate</button>
+    </fieldset>
+    <section class="ergebnis" id="ergebnis" aria-live="polite" aria-label="Result">
+      <p class="leer">Enter your measurements to see how much you need.</p>
+    </section>
+  </div>
+</form>`;
+}
+
+function deckungstabelle(seite) {
+  const m = matById[seite.material];
+  const tiefen = [1, 2, 3, 4, 6].filter((d) => seite.nurVolumen || (d >= m.depth_range_in[0] && d <= Math.max(m.depth_range_in[1], 4)));
+  return `<h2>How much area does 1 cubic yard cover?</h2>
+<table><thead><tr><th>Depth</th><th>Coverage of 1 cubic yard</th></tr></thead><tbody>
+${tiefen.map((d) => `<tr><td>${d} in</td><td>${fmt(coverage({ cy: 1, depthIn: d }))} sq ft</td></tr>`).join('\n')}
+</tbody></table>`;
+}
+
+function gewichtstabelle(kategorien) {
+  const liste = MAT.materials.filter((m) => !kategorien || kategorien.includes(m.category));
+  return `<h2>How much does a cubic yard weigh?</h2>
+<table><thead><tr><th>Material</th><th>Tons per cubic yard (typical)</th><th>Recommended depth</th></tr></thead><tbody>
+${liste.map((m) => `<tr><td>${esc(m.label)}</td><td>${fmt(m.density_range[0], 2)}–${fmt(m.density_range[1], 2)} t</td><td>${m.depth_range_in[0]}–${m.depth_range_in[1]} in</td></tr>`).join('\n')}
+</tbody></table>
+<p class="klein">Typical values for loose material. Wet material is heavier; ask your supplier for their exact weight.</p>`;
+}
+
+function seiteBauen(seite) {
+  const andere = SEITEN.filter((s) => s.pfad !== seite.pfad && s.pfad !== '/');
+  return `${kopf(seite)}
+<main>
+<section class="held"><div class="breit">
+  <h1>${esc(seite.h1)}</h1>
+  <p class="unter">${esc(seite.intro)}</p>
+</div></section>
+<div class="breit">
+${rechner(seite)}
+<article class="inhalt">
+${seite.inhalt}
+${deckungstabelle(seite)}
+${seite.nurVolumen ? '' : gewichtstabelle(seite.kategorien)}
+${seite.faq?.length ? `<h2>Frequently asked questions</h2>\n${seite.faq.map(([q, a]) => `<details class="faq"><summary>${esc(q)}</summary><p>${esc(a)}</p></details>`).join('\n')}` : ''}
+<h2>More calculators</h2>
+<ul class="kacheln">${andere.map((s) => `<li><a href="${s.pfad}"><strong>${esc(s.h1)}</strong><span>${esc(s.kurz)}</span></a></li>`).join('')}</ul>
+</article>
+</div>
+</main>
+${fuss()}`;
+}
+
+// ---------- Ausgabe ----------
+
+rmSync(OUT, { recursive: true, force: true });
+mkdirSync(join(OUT, 'assets'), { recursive: true });
+cpSync(join(ROOT, 'static'), join(OUT, 'assets'), { recursive: true });
+cpSync(join(ROOT, 'src/calc/core.js'), join(OUT, 'assets/core.js'));
+// Materialdaten ohne _meta für den Browser
+writeFileSync(join(OUT, 'assets/materials.json'), JSON.stringify({ categories: MAT.categories, materials: MAT.materials, projects: MAT.projects }));
+
+for (const seite of SEITEN) {
+  const ziel = join(OUT, seite.pfad, 'index.html');
+  mkdirSync(dirname(ziel), { recursive: true });
+  writeFileSync(ziel, seiteBauen(seite));
+}
+
+writeFileSync(join(OUT, '404.html'), `${kopf({ pfad: '/404', title: 'Page not found', description: 'Page not found', h1: 'Page not found', nav: '404' })}
+<main><section class="held"><div class="breit"><h1>Page not found</h1><p class="unter">This page doesn't exist (yet). Try one of our calculators:</p>
+<ul class="kacheln">${SEITEN.filter((s) => s.pfad !== '/').map((s) => `<li><a href="${s.pfad}"><strong>${esc(s.h1)}</strong><span>${esc(s.kurz)}</span></a></li>`).join('')}</ul></div></section></main>
+${fuss()}`.replace('<meta name="robots" content="noindex">', '').replace('<title>', '<meta name="robots" content="noindex">\n<title>'));
+
+writeFileSync(join(OUT, 'robots.txt'), SITE.baseUrl
+  ? `User-agent: *\nAllow: /\n\nSitemap: ${SITE.baseUrl}/sitemap.xml\n`
+  : 'User-agent: *\nDisallow: /\n');
+
+if (SITE.baseUrl) {
+  writeFileSync(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+${SEITEN.map((s) => `  <url><loc>${SITE.baseUrl}${s.pfad}</loc></url>`).join('\n')}
+</urlset>
+`);
+}
+
+console.log(`Build fertig: ${SEITEN.length} Seiten nach public/ (Version ${VERSION}${SITE.baseUrl ? '' : ', noindex – baseUrl fehlt'})`);
