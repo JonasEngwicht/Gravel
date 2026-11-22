@@ -178,6 +178,10 @@ th { background: var(--kies); white-space: nowrap; }
 .fuss nav a { display: inline-block; padding: 6px 0; }
 .fuss a { color: #f1e9dc; }
 .fuss .klein { color: #c9bca8; }
+.fuss .recht { margin: 4px 0 0; padding-top: 10px; border-top: 1px solid rgba(255,255,255,.15); gap: 4px 20px; font-size: .9rem; }
+.recht-text { padding-top: 8px; }
+.recht-text h2 { font-size: 1.15rem; margin-top: 28px; }
+.recht-text p, .recht-text li { overflow-wrap: anywhere; }
 
 /* ---------- Verzeichnis ---------- */
 .krumen { font-size: .85rem; margin-bottom: 10px; color: #e3d8c7; }

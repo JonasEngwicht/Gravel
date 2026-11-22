@@ -95,3 +95,18 @@ test("mit Domain: Sitemap, robots.txt und Canonicals", () => {
   assert.match(start, new RegExp(`<link rel="canonical" href="${baseUrl}/">`));
   assert.doesNotMatch(start, /noindex/);
 });
+
+test("Imprint und Privacy Policy: vorhanden, verlinkt, noindex, nicht in der Sitemap", () => {
+  const { operator } = JSON.parse(readFileSync(new URL("../site.config.json", import.meta.url)));
+  for (const p of ["imprint", "privacy"]) {
+    const html = readFileSync(pub(`${p}/index.html`), "utf8");
+    assert.match(html, /noindex/);
+    assert.ok(html.includes(operator.email) && html.includes(operator.name), p);
+  }
+  assert.match(readFileSync(pub("index.html"), "utf8"), /href="\/imprint\/".*href="\/privacy\/"/s);
+  if (existsSync(pub("sitemap.xml"))) assert.doesNotMatch(readFileSync(pub("sitemap.xml"), "utf8"), /imprint|privacy/);
+});
+
+test("kein Speichern auf dem Gerät (sonst Einwilligung nach § 25 TDDDG nötig)", () => {
+  for (const f of ["app.js", "finder.js"]) assert.doesNotMatch(readFileSync(pub(`assets/${f}`), "utf8"), /localStorage\.|sessionStorage\.|document\.cookie/, f);
+});

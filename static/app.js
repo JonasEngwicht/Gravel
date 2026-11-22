@@ -21,7 +21,6 @@ async function start() {
   const DATA = await (await fetch('/assets/materials.json')).json();
   const matById = Object.fromEntries(DATA.materials.map((m) => [m.id, m]));
   const $ = (id) => document.getElementById(id);
-  const SPEICHER = 'gravel:' + location.pathname;
 
   const FORMEN = {
     rectangle: { label: 'Rectangle', felder: [['length', 'Length'], ['width', 'Width']] },
@@ -37,20 +36,13 @@ async function start() {
     abschnitte: [{ shape: cfg.shape, dims: {} }],
   };
 
-  // ---------- gespeicherte Werte / Link-Parameter ----------
+  // ---------- Link-Parameter (geteiltes Ergebnis). Bewusst kein localStorage: nichts wird auf dem Gerät gespeichert. ----------
   const q = new URLSearchParams(location.search);
-  let geladen = null;
-  try { geladen = JSON.parse(localStorage.getItem(SPEICHER) || 'null'); } catch {}
   if (q.has('sqft') || q.has('m')) {
     if (q.get('m') && matById[q.get('m')]) state.material = q.get('m');
     if (q.get('sqft')) state.abschnitte = [{ shape: 'area', dims: { sqft: +q.get('sqft') } }];
     if (q.get('u') === 'metric') state.einheit = 'metric';
     if (q.get('d')) $('tiefe').value = q.get('d');
-  } else if (geladen) {
-    Object.assign(state, { einheit: geladen.einheit, material: matById[geladen.material] ? geladen.material : state.material, abschnitte: geladen.abschnitte?.length ? geladen.abschnitte : state.abschnitte });
-    if (geladen.tiefe) $('tiefe').value = geladen.tiefe;
-    if (geladen.puffer != null) $('puffer').value = geladen.puffer;
-    for (const id of ['p-cy', 'p-t', 'p-sack', 'p-lief']) if ($(id) && geladen[id]) $(id).value = geladen[id];
   }
 
   // ---------- Abschnitte ----------
@@ -214,7 +206,6 @@ async function start() {
   }
 
   function rechnen() {
-    speichern();
     chipsMarkieren();
     const box = $('ergebnis');
     const { abschnitte, depthIn } = eingabenInFuss();
@@ -313,13 +304,6 @@ async function start() {
     catch { prompt('Copy this link:', link); }
   });
 
-  function speichern() {
-    try {
-      const daten = { einheit: state.einheit, material: state.material, abschnitte: state.abschnitte, tiefe: $('tiefe').value, puffer: $('puffer').value };
-      for (const id of ['p-cy', 'p-t', 'p-sack', 'p-lief']) if ($(id)) daten[id] = $(id).value;
-      localStorage.setItem(SPEICHER, JSON.stringify(daten));
-    } catch {}
-  }
 
   form.addEventListener('input', (e) => { if (!e.target.dataset.k) rechnen(); });
   form.addEventListener('submit', (e) => {

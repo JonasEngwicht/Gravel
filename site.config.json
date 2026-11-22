@@ -2,5 +2,14 @@
   "name": "Gravel & Mulch Calculator",
   "shortName": "Gravel & Mulch",
   "baseUrl": "https://gravelandmulch.com",
-  "_comment": "baseUrl ist die Live-Domain: daraus entstehen Canonicals, Sitemap und robots.txt. Leer (null) = alles noindex."
+  "_comment": "baseUrl ist die Live-Domain: daraus entstehen Canonicals, Sitemap und robots.txt. Leer (null) = alles noindex.",
+  "operator": {
+    "name": "Jonas Engwicht",
+    "street": "Robert-Koch-Straße 50",
+    "zip": "03149",
+    "city": "Forst (Lausitz)",
+    "country": "Germany",
+    "email": "gravelandmulch@gmail.com"
+  },
+  "_comment_operator": "Betreiber für Imprint, Privacy Policy und Korrektur-Links im Verzeichnis."
 }
