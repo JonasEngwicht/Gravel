@@ -1,6 +1,6 @@
 {
   "name": "Gravel & Mulch Calculator",
   "shortName": "Gravel & Mulch",
-  "baseUrl": null,
-  "_comment": "baseUrl setzen (z. B. https://gravelandmulch.com), sobald die Domain hängt. Erst dann entstehen Sitemap, Canonicals und indexierbare Seiten."
+  "baseUrl": "https://gravelandmulch.com",
+  "_comment": "baseUrl ist die Live-Domain: daraus entstehen Canonicals, Sitemap und robots.txt. Leer (null) = alles noindex."
 }
