@@ -2,7 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync, readdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
-import { ladeYards, verzeichnisSeiten, slugify, BASIS } from "../scripts/verzeichnis.mjs";
+import { ladeYards, verzeichnisSeiten, slugify, preisText, BASIS } from "../scripts/verzeichnis.mjs";
 import { SEITEN } from "../scripts/seiten.mjs";
 
 const YARD_DIR = fileURLToPath(new URL("../data/yards", import.meta.url));
@@ -85,4 +85,15 @@ test("strukturierte Daten der Verzeichnisseiten sind gültiges JSON", () => {
     const ld = JSON.parse(s.html.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
     assert.ok(Array.isArray(ld) && ld.length >= 1, s.pfad);
   }
+});
+
+test("preisText formatiert Einzelpreise und Spannen", () => {
+  assert.equal(preisText({ amount: 24, unit: "cy" }), "$24/cu yd");
+  assert.equal(preisText({ amount: 58.95, unit: "ton" }), "$58.95/ton");
+  assert.equal(preisText({ amount: 34, amount_max: 44, unit: "cy" }), "$34–$44/cu yd");
+  assert.equal(preisText({ amount: 25.95, amount_max: 32.95, unit: "cy" }), "$25.95–$32.95/cu yd");
+  assert.equal(preisText({ amount: 30, amount_max: 32.5, unit: "cy" }), "$30.00–$32.50/cu yd");
+  assert.equal(preisText({ amount: 5.95, unit: "bag" }), "$5.95/bag");
+  assert.equal(preisText({ amount: 40, amount_max: 40, unit: "cy" }), "$40/cu yd");
+  assert.equal(preisText({ amount: 1200, unit: "ton" }), "$1,200/ton");
 });

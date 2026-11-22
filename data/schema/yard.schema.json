@@ -133,6 +133,10 @@
               "amount": {
                 "type": "number"
               },
+              "amount_max": {
+                "type": "number",
+                "description": "Upper end when the yard lists a price range (e.g. by color or grade); amount is the lower end"
+              },
               "unit": {
                 "enum": [
                   "cy",
@@ -235,6 +239,10 @@
         },
         "url": {
           "type": "string"
+        },
+        "url_prices": {
+          "type": "string",
+          "description": "Exact URL of the yard's page that shows the prices"
         },
         "checked": {
           "type": "string",
