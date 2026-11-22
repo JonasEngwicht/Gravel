@@ -18,9 +18,9 @@ Mulch-, Kies- und Erde-Rechner plus ein Verzeichnis für Landscape-Supply-Yards 
 | `scripts/verzeichnis.mjs` | Verzeichnisseiten: Übersicht, Staaten, Städte, Unternehmen |
 | `src/calc/core.js` | Rechenlogik (reine Funktionen) |
 | `src/directory/distance.js` | Umkreissuche nach ZIP, Median-Preise |
-| `scripts/build.mjs` | Build: erzeugt `public/` (Rechner- und Verzeichnisseiten, Assets, robots.txt, Sitemap) |
+| `scripts/build.mjs` | Build: erzeugt `public/` (Rechner- und Verzeichnisseiten, Assets, Suchindex `yards.json`/`cities.json`/`zip/`, robots.txt, Sitemap) |
 | `scripts/seiten.mjs` | Rechnerseiten: URL, Titel, Texte, FAQ, Standardmaterial |
-| `static/` | CSS, Browser-JS (`app.js`), Favicon |
+| `static/` | CSS, Browser-JS (`app.js` Rechner, `finder.js` Yard-Suche nach ZIP/Stadt/Standort und Städtefilter), Favicon |
 | `src/worker.js` | Cloudflare Worker: liefert `public/` aus, auf *.workers.dev mit noindex |
 | `wrangler.jsonc` | Worker-Konfiguration (Build-Befehl, Assets) |
 | `site.config.json` | Name und `baseUrl` (solange leer: noindex, keine Sitemap) |

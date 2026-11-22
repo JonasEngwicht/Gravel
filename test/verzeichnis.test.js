@@ -64,7 +64,8 @@ test("Verzeichnispfade sind eindeutig und Titel nicht doppelt", () => {
 });
 
 test("Cloudflare: weniger als 20.000 Dateien im Build", () => {
-  const assets = readdirSync(new URL("../static", import.meta.url)).length + 2; // + core.js, materials.json
+  const zips = readdirSync(new URL("../data/zip-centroids", import.meta.url)).length;
+  const assets = readdirSync(new URL("../static", import.meta.url)).length + 4 + zips; // + core.js, materials.json, yards.json, cities.json, ZIP-Dateien
   const gesamt = bauen({ baseUrl: null }).length + SEITEN.length + assets + 2; // + 404.html, robots.txt
   assert.ok(gesamt < 19500, `${gesamt} Dateien`);
 });

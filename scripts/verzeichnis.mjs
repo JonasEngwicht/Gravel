@@ -27,8 +27,8 @@ export const ARTEN = {
 };
 // Reihenfolge und Gruppen auf der Stadtseite
 const GRUPPEN = [
-  { titel: 'Landscape supply, mulch & stone yards', arten: ['landscape-supply', 'mulch-soil', 'stone-yard'] },
-  { titel: 'Sand & gravel suppliers', arten: ['sand-gravel'],
+  { titel: 'Landscape supply, mulch & stone yards', kurz: 'Yards', arten: ['landscape-supply', 'mulch-soil', 'stone-yard'] },
+  { titel: 'Sand & gravel suppliers', kurz: 'Sand & gravel', arten: ['sand-gravel'],
     hinweis: 'Some sand & gravel suppliers sell mainly to contractors. Call ahead to ask whether they load trucks for homeowners.' },
 ];
 
@@ -130,12 +130,28 @@ export function verzeichnisSeiten(yards, h) {
     ...(y.contact?.website ? { sameAs: [y.contact.website] } : {}),
   });
 
-  const karte = (y, mitStadt = false) => `<li class="yard">
-  <a class="yard-name" href="${y._pfad}">${esc(y.name)}</a>
-  <span class="yard-art">${esc(ARTEN[y.kind] || 'Supplier')}${y.status === 'active' ? ' · <strong>Verified</strong>' : ''}</span>
-  <span class="yard-adr">${esc([y.address.street, mitStadt ? `${y.address.city}, ${y.address.state}` : y.address.city].filter(Boolean).join(', '))}</span>
-  ${y.contact?.phone ? `<a class="yard-tel" href="tel:${esc(y.contact.phone.replace(/[^\d+]/g, ''))}">${esc(y.contact.phone)}</a>` : ''}
+  const tel = (p) => p.replace(/[^\d+]/g, '');
+  const TEL_ICON = '<svg aria-hidden="true" viewBox="0 0 24 24" width="20" height="20"><path fill="currentColor" d="M6.6 10.8a15.2 15.2 0 0 0 6.6 6.6l2.2-2.2a1 1 0 0 1 1-.25 11.4 11.4 0 0 0 3.6.57 1 1 0 0 1 1 1V20a1 1 0 0 1-1 1A17 17 0 0 1 3 4a1 1 0 0 1 1-1h3.5a1 1 0 0 1 1 1c0 1.25.2 2.45.57 3.57a1 1 0 0 1-.25 1L6.6 10.8Z"/></svg>';
+  const entf = (mi) => `${mi < 10 ? mi.toFixed(1) : Math.round(mi)} mi`;
+  const karte = (y, { mitStadt = false, mi } = {}) => `<li class="yard">
+  <div class="yard-text">
+    <a class="yard-name" href="${y._pfad}">${esc(y.name)}</a>
+    <span class="yard-meta"><span class="tag tag-${esc(y.kind || 'x')}">${esc(ARTEN[y.kind] || 'Supplier')}</span>${y.status === 'active' ? '<span class="tag tag-ok">Verified</span>' : ''}${mi != null ? `<span class="entf">${entf(mi)}</span>` : ''}</span>
+    <span class="yard-adr">${esc([y.address.street, mitStadt ? `${y.address.city}, ${y.address.state}` : y.address.city].filter(Boolean).join(', '))}</span>
+    ${y.contact?.phone ? `<span class="yard-tel">${esc(y.contact.phone)}</span>` : ''}
+  </div>
+  ${y.contact?.phone ? `<a class="anruf" href="tel:${esc(tel(y.contact.phone))}" aria-label="Call ${esc(y.name)} at ${esc(y.contact.phone)}">${TEL_ICON}<span>Call</span></a>` : ''}
 </li>`;
+  const finder = () => `<form class="finder" action="${BASIS}" method="get" role="search" data-finder>
+  <label class="finder-titel" for="finder-q">Find yards near you</label>
+  <div class="finder-zeile">
+    <input id="finder-q" name="q" type="search" placeholder="ZIP code or city" autocomplete="off" autocapitalize="off" spellcheck="false" enterkeyhint="search">
+    <button class="knopf" type="submit">Search</button>
+  </div>
+  <button type="button" class="finder-ort" hidden><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8Zm9 3h-2.06A7 7 0 0 0 13 5.06V3h-2v2.06A7 7 0 0 0 5.06 11H3v2h2.06A7 7 0 0 0 11 18.94V21h2v-2.06A7 7 0 0 0 18.94 13H21v-2Zm-9 6a5 5 0 1 1 0-10 5 5 0 0 1 0 10Z"/></svg>Use my location</button>
+  <div class="finder-ergebnis" aria-live="polite"></div>
+</form>`;
+  const raster = (eintraege, id) => `<ul class="raster"${id ? ` id="${id}"` : ''}>${eintraege.map(([name, pfad, zahl]) => `<li><a href="${pfad}"><span>${esc(name)}</span><span class="zahl">${zahl}</span></a></li>`).join('')}</ul>`;
 
   // ---------- Übersicht ----------
   const alleStaedte = staaten.flatMap((s) => [...s.staedte.values()]);
@@ -149,14 +165,15 @@ export function verzeichnisSeiten(yards, h) {
 <main>
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Landscape Supply Yards</h1>
-  <p class="unter">${yards.length.toLocaleString('en-US')} landscape supply yards, mulch and stone yards and sand &amp; gravel suppliers across the U.S. Pick your state to find bulk mulch, gravel, stone and topsoil near you.</p>
+  <p class="unter">${yards.length.toLocaleString('en-US')} landscape supply yards, mulch and stone yards and sand &amp; gravel suppliers across the U.S. – for bulk mulch, gravel, stone and topsoil.</p>
 </div></section>
 <div class="breit">
 <section class="liste-karte">
+${finder()}
 <h2>Browse by state</h2>
-<ul class="spalten-liste">${staaten.map((s) => `<li><a href="${BASIS}${s.slug}/">${esc(s.name)}</a> <span class="zahl">${[...s.staedte.values()].reduce((t, c) => t + c.yards.length, 0)}</span></li>`).join('')}</ul>
+${raster(staaten.map((s) => [s.name, `${BASIS}${s.slug}/`, [...s.staedte.values()].reduce((t, c) => t + c.yards.length, 0)]))}
 <h2>Cities with the most yards</h2>
-<ul class="spalten-liste">${top.map((c) => `<li><a href="${c.pfad}">${esc(c.name)}, ${c.staat.code}</a> <span class="zahl">${c.yards.length}</span></li>`).join('')}</ul>
+${raster(top.map((c) => [`${c.name}, ${c.staat.code}`, c.pfad, c.yards.length]))}
 </section>
 ${quelle}
 </div>
@@ -181,10 +198,13 @@ ${fuss()}` });
 </div></section>
 <div class="breit">
 <section class="liste-karte">
+${finder()}
 ${staedte.length > 12 ? `<h2>Largest selection</h2>
-<ul class="spalten-liste">${gross.map((c) => `<li><a href="${c.pfad}">${esc(c.name)}</a> <span class="zahl">${c.yards.length}</span></li>`).join('')}</ul>
+${raster(gross.map((c) => [c.name, c.pfad, c.yards.length]))}
 <h2>All cities in ${esc(s.name)}</h2>` : `<h2>Cities in ${esc(s.name)}</h2>`}
-<ul class="spalten-liste">${staedte.map((c) => `<li><a href="${c.pfad}">${esc(c.name)}</a> <span class="zahl">${c.yards.length}</span></li>`).join('')}</ul>
+${staedte.length > 15 ? `<label class="sr" for="filter-staedte">Filter cities</label><input class="filter" id="filter-staedte" type="search" data-filter="staedte" placeholder="Filter ${staedte.length} cities…" autocomplete="off" enterkeyhint="search">
+<p class="klein filter-leer" hidden>No city with that name – try the ZIP search above.</p>` : ''}
+${raster(staedte.map((c) => [c.name, c.pfad, c.yards.length]), 'staedte')}
 </section>
 ${quelle}
 </div>
@@ -212,15 +232,16 @@ ${fuss()}` });
 </div></section>
 <div class="breit">
 <section class="liste-karte">
-${gruppen.map((g) => `<h2>${esc(g.titel)} <span class="zahl">${g.yards.length}</span></h2>
+<nav class="sprung" aria-label="On this page">${gruppen.map((g, i) => `<a href="#gruppe-${i + 1}">${esc(g.kurz)} <span>${g.yards.length}</span></a>`).join('')}<a href="#rechner-titel">Calculator</a>${nachbarn.length ? '<a href="#nachbarn">Nearby cities</a>' : ''}</nav>
+${gruppen.map((g, i) => `<h2 id="gruppe-${i + 1}">${esc(g.titel)} <span class="zahl">${g.yards.length}</span></h2>
 ${g.hinweis ? `<p class="klein">${esc(g.hinweis)}</p>` : ''}
 <ul class="yards">${g.yards.map((y) => karte(y)).join('')}</ul>`).join('\n')}
 <p class="klein">Most listings have not been verified by us yet. Please call ahead to confirm materials, prices, delivery and opening hours.</p>
 </section>
-<h2 class="abstand">How much do you need?</h2>
-${rechner({ material: 'hardwood-mulch' }).replace('class="rechner"', 'class="rechner eingebettet"')}
-${nachbarn.length ? `<h2 class="abstand">Nearby cities</h2>
-<ul class="spalten-liste">${nachbarn.map(({ x, mi }) => `<li><a href="${x.pfad}">${esc(x.name)}</a> <span class="zahl">${Math.round(mi)} mi</span></li>`).join('')}</ul>` : ''}
+<h2 class="abstand" id="rechner-titel">How much do you need?</h2>
+${rechner({ material: 'hardwood-mulch', eingebettet: true }).replace('class="rechner"', 'class="rechner eingebettet"')}
+${nachbarn.length ? `<h2 class="abstand" id="nachbarn">Nearby cities</h2>
+${raster(nachbarn.map(({ x, mi }) => [x.name, x.pfad, `${Math.round(mi)} mi`]))}` : ''}
 ${quelle}
 </div>
 </main>
@@ -236,14 +257,14 @@ ${fuss()}` });
       .sort((a, b) => a.mi - b.mi).slice(0, 6);
     const art = ARTEN[y.kind] || 'Supplier';
     const adr = [y.address.street, `${y.address.city}, ${y.address.state} ${y.address.zip}`].filter(Boolean);
-    const osm = `https://www.openstreetmap.org/?mlat=${y.location.lat}&mlon=${y.location.lng}#map=15/${y.location.lat}/${y.location.lng}`;
+    const route = `https://www.google.com/maps/dir/?api=1&destination=${y.location.lat},${y.location.lng}`;
     const mine = (y.msha || []).find((m) => m.match !== 'inactive-nearby');
     const ausMsha = y.source?.dataset?.startsWith('msha');
     const mats = (y.materials || []).filter((m) => h.matById[m.id]);
     const zeiten = y.hours ? TAGE.filter(([k]) => y.hours[k]).map(([k, t]) => `<tr><td>${t}</td><td>${esc(y.hours[k])}</td></tr>`).join('') : '';
     const beschreibung = ausMsha
       ? `${y.name} is a ${y.kind === 'quarry' ? 'quarry' : 'sand and gravel operation'} near ${c.name}, ${s.name}${mine?.commodity ? `, producing ${mine.commodity.toLowerCase()}` : ''}.`
-      : `${y.name} is a ${art.toLowerCase()} in ${c.name}, ${s.name}.`;
+      : `${y.name} is a ${y.kind === 'sand-gravel' ? 'sand and gravel supplier' : art.toLowerCase()} in ${c.name}, ${s.name}.`;
     seiten.push({ pfad: y._pfad, index: true, html: `${kopf({ pfad: y._pfad, nav: 'Find a yard',
       title: `${y._titel} – ${c.name}, ${s.code}`.slice(0, 70),
       description: `${beschreibung} Address${y.contact?.phone ? ', phone' : ''}${y.contact?.website ? ', website' : ''} and directions${mats.length ? ', materials' : ''}.`.slice(0, 160),
@@ -251,7 +272,7 @@ ${fuss()}` });
 <main>
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>${esc(y._titel)}</h1>
-  <p class="unter">${esc(art)} in ${esc(c.name)}, ${s.code}</p>
+  <p class="unter">${esc(art)} in ${esc(c.name)}, ${s.code}${y.status === 'active' ? ' · Verified listing' : ''}</p>
 </div></section>
 <div class="breit">
 <section class="liste-karte betrieb">
@@ -259,9 +280,9 @@ ${fuss()}` });
     <h2>Contact &amp; location</h2>
     <p class="adresse">${adr.map(esc).join('<br>')}</p>
     <ul class="kontakt">
-      ${y.contact?.phone ? `<li><a class="knopf" href="tel:${esc(y.contact.phone.replace(/[^\d+]/g, ''))}">Call ${esc(y.contact.phone)}</a></li>` : ''}
+      ${y.contact?.phone ? `<li><a class="knopf" href="tel:${esc(tel(y.contact.phone))}">${TEL_ICON}Call ${esc(y.contact.phone)}</a></li>` : ''}
+      <li><a class="knopf-zweit" href="${esc(route)}" rel="nofollow noopener" target="_blank">Get directions</a></li>
       ${y.contact?.website ? `<li><a class="knopf-zweit" href="${esc(y.contact.website)}" rel="nofollow noopener" target="_blank">Visit website</a></li>` : ''}
-      <li><a class="knopf-zweit" href="${osm}" rel="nofollow noopener" target="_blank">Show on map</a></li>
     </ul>
     ${y.status === 'active' ? '<p class="klein"><strong>Verified listing.</strong></p>' : `<p class="klein">${ausMsha
       ? 'Listed from federal mine records (MSHA). Many pits and quarries sell mainly to contractors – call ahead to ask whether they serve homeowners.'
@@ -282,10 +303,10 @@ ${fuss()}` });
       <tr><td>MSHA ID</td><td>${esc(mine.mine_id)}</td></tr></tbody></table>` : ''}
   </div>
 </section>
-<p class="abstand"><a href="/">Calculate how much mulch, gravel or topsoil you need →</a></p>
+<a class="hinweis-karte abstand" href="/"><strong>How much do you need?</strong><span>Calculate cubic yards, tons and bags of mulch, gravel or topsoil →</span></a>
 ${naehe.length ? `<h2 class="abstand">Nearby suppliers</h2>
-<ul class="yards">${naehe.map(({ x, mi }) => karte(x, true).replace('</li>', `<span class="zahl">${mi < 10 ? mi.toFixed(1) : Math.round(mi)} mi</span></li>`)).join('')}</ul>` : ''}
-<p class="abstand"><a href="${c.pfad}">All suppliers in ${esc(c.name)}, ${s.code} →</a></p>
+<ul class="yards">${naehe.map(({ x, mi }) => karte(x, { mitStadt: true, mi })).join('')}</ul>` : ''}
+<p class="abstand"><a class="knopf-zweit" href="${c.pfad}">All suppliers in ${esc(c.name)}, ${s.code}</a></p>
 ${quelle}
 </div>
 </main>
