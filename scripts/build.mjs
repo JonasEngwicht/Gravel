@@ -49,7 +49,8 @@ function kopf(seite) {
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#3d2f22">
 <title>${esc(seite.title)}</title>
 <meta name="description" content="${esc(seite.description)}">
 ${robots}${canonical}
@@ -58,9 +59,10 @@ ${robots}${canonical}
 <script type="application/ld+json">${JSON.stringify(ld)}</script>
 </head>
 <body>
-<header class="kopf"><div class="breit">
+<header class="kopf"><div class="breit kopf-innen">
   <a class="logo" href="/"><svg aria-hidden="true" viewBox="0 0 32 32" width="28" height="28"><use href="/assets/favicon.svg#m"/></svg>${esc(SITE.shortName)}</a>
-  <nav aria-label="Main">${SEITEN.filter((s) => s.imMenue).map((s) => `<a href="${s.pfad}"${s.pfad === seite.pfad ? ' aria-current="page"' : ''}>${esc(s.nav)}</a>`).join('')}<a href="${BASIS}"${seite.pfad?.startsWith(BASIS) ? ' aria-current="page"' : ''}>Find a yard</a></nav>
+  <nav class="menue" aria-label="Calculators">${SEITEN.filter((s) => s.imMenue).map((s) => `<a href="${s.pfad}"${s.pfad === seite.pfad ? ' aria-current="page"' : ''}>${esc(s.nav)}</a>`).join('')}</nav>
+  <a class="kopf-cta" href="${BASIS}"${seite.pfad?.startsWith(BASIS) ? ' aria-current="page"' : ''}><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5Z"/></svg>Find a yard</a>
 </div></header>`;
 }
 
@@ -80,40 +82,54 @@ function rechner(seite) {
     .map((m) => `<option value="${m.id}"${m.id === seite.material ? ' selected' : ''}>${esc(m.label)}</option>`).join('')}</optgroup>`).join('');
   const proj = MAT.projects.map((p) => `<option value="${p.id}">${esc(p.label)}</option>`).join('');
   const m = matById[seite.material];
-  const cfg = { material: seite.material, depth: seite.tiefe ?? m.default_depth_in, nurVolumen: !!seite.nurVolumen, shape: seite.form || 'rectangle' };
+  const cfg = { material: seite.material, depth: seite.tiefe ?? m.default_depth_in, nurVolumen: !!seite.nurVolumen, shape: seite.form || 'rectangle', cta: !seite.eingebettet };
   return `<form class="rechner" id="rechner" novalidate data-cfg='${esc(JSON.stringify(cfg))}'>
   <div class="spalten">
     <fieldset class="eingabe">
       <legend class="sr">Your project</legend>
-      <div class="einheiten" role="group" aria-label="Units">
-        <button type="button" data-einheit="imperial" aria-pressed="true">ft / in</button>
-        <button type="button" data-einheit="metric" aria-pressed="false">m / cm</button>
+      ${seite.nurVolumen ? '' : `<div class="zeile-2">
+        <label>Material<select id="material">${opt}</select></label>
+        <label>Project <span class="opt">(optional)</span>
+          <select id="projekt"><option value="">Pick to prefill…</option>${proj}</select></label>
       </div>
-      ${seite.nurVolumen ? '' : `<label>Project <span class="opt">(optional)</span>
-        <select id="projekt"><option value="">Choose a project…</option>${proj}</select></label>
-      <label>Material<select id="material">${opt}</select></label>
       <p class="hinweis" id="mat-hinweis" hidden></p>`}
+      <div class="schritt-kopf">
+        <span class="schritt">Area</span>
+        <div class="einheiten" role="group" aria-label="Units">
+          <button type="button" data-einheit="imperial" aria-pressed="true">ft / in</button>
+          <button type="button" data-einheit="metric" aria-pressed="false">m / cm</button>
+        </div>
+      </div>
       <div id="abschnitte"></div>
-      <button type="button" class="knopf-zweit" id="abschnitt-neu">+ Add another section</button>
-      <label>Depth <span class="einheit-tiefe">(inches)</span>
-        <input id="tiefe" type="number" inputmode="decimal" min="0" step="0.25" value="${cfg.depth}"></label>
-      <p class="hinweis" id="tiefe-hinweis"></p>
+      <button type="button" class="knopf-zweit klein-knopf" id="abschnitt-neu">+ Add another area</button>
+      <div class="tiefe-block">
+        <label for="tiefe" class="schritt">Depth <span class="einheit-tiefe opt">(inches)</span></label>
+        <div class="tiefe-zeile">
+          <input id="tiefe" type="number" inputmode="decimal" min="0" step="0.25" value="${cfg.depth}" enterkeyhint="done">
+          <div class="chips-wahl" id="tiefe-chips" role="group" aria-label="Common depths"></div>
+        </div>
+        <p class="hinweis" id="tiefe-hinweis"></p>
+      </div>
       <details class="erweitert">
-        <summary>Advanced: buffer, bag size, prices</summary>
+        <summary>Extra %, bag size &amp; prices</summary>
         <label>Extra for settling &amp; waste (%)<input id="puffer" type="number" inputmode="decimal" min="0" max="50" step="1" value="${seite.nurVolumen ? 0 : m.waste_pct}"></label>
         ${seite.nurVolumen ? '' : `<label>Bag size<select id="sack"></select></label>
         <div class="preise">
-          <label>Price per cubic yard ($)<input id="p-cy" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 40"></label>
-          <label>Price per ton ($)<input id="p-t" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 45"></label>
-          <label>Price per bag ($)<input id="p-sack" type="number" inputmode="decimal" min="0" step="0.1" placeholder="e.g. 4"></label>
+          <label>$ per cubic yard<input id="p-cy" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 40"></label>
+          <label>$ per ton<input id="p-t" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 45"></label>
+          <label>$ per bag<input id="p-sack" type="number" inputmode="decimal" min="0" step="0.1" placeholder="e.g. 4"></label>
           <label>Delivery fee ($)<input id="p-lief" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 75"></label>
         </div>`}
       </details>
-      <button type="submit" class="knopf">Calculate</button>
+      <button type="submit" class="knopf rechnen-knopf">Show result</button>
     </fieldset>
-    <section class="ergebnis" id="ergebnis" aria-live="polite" aria-label="Result">
-      <p class="leer">Enter your measurements to see how much you need.</p>
+    <section class="ergebnis" id="ergebnis" tabindex="-1" aria-live="polite" aria-label="Result">
+      <p class="leer">Enter length and width – your result shows up here instantly.</p>
     </section>
+  </div>
+  <div class="ergebnis-leiste" id="leiste" hidden>
+    <p id="leiste-text"></p>
+    <button type="button" class="leiste-knopf" id="leiste-knopf">Details</button>
   </div>
 </form>`;
 }
@@ -171,7 +187,7 @@ writeFileSync(join(OUT, 'assets/materials.json'), JSON.stringify({ categories: M
 for (const seite of SEITEN) {
   const ziel = join(OUT, seite.pfad, 'index.html');
   mkdirSync(dirname(ziel), { recursive: true });
-  writeFileSync(ziel, seiteBauen(seite));
+  writeFileSync(ziel, seiteBauen(seite).replace(/<table>/g, '<div class="tabelle"><table>').replace(/<\/table>/g, '</table></div>'));
 }
 
 // Verzeichnis: Übersicht, Staaten, Städte, Unternehmen
@@ -185,6 +201,16 @@ for (const v of VERZ) {
   mkdirSync(dirname(ziel), { recursive: true });
   writeFileSync(ziel, v.html);
 }
+
+// Suchindex für "Find a yard" (ZIP, Stadt, Standort). Der Browser lädt ihn erst, wenn jemand sucht.
+writeFileSync(join(OUT, 'assets/yards.json'), JSON.stringify(YARDS.map((y) => [
+  +y.location.lat.toFixed(4), +y.location.lng.toFixed(4), y._titel, y.address.city, y.address.state, y.kind,
+  y._pfad.slice(BASIS.length), y.contact?.phone || '', y.status === 'active' ? 1 : 0,
+])));
+const staedteIndex = new Map();
+for (const y of YARDS) staedteIndex.set(y._stadt.pfad, [y._stadt.name, y.address.state, y._stadt.pfad.slice(BASIS.length), y._stadt.yards.length]);
+writeFileSync(join(OUT, 'assets/cities.json'), JSON.stringify([...staedteIndex.values()]));
+cpSync(join(ROOT, 'data/zip-centroids'), join(OUT, 'assets/zip'), { recursive: true });
 
 writeFileSync(join(OUT, '404.html'), `${kopf({ pfad: '/404', title: 'Page not found', description: 'Page not found', h1: 'Page not found', nav: '404' })}
 <main><section class="held"><div class="breit"><h1>Page not found</h1><p class="unter">This page doesn't exist (yet). Try one of our calculators:</p>
