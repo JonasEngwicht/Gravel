@@ -44,13 +44,14 @@ function kopf(seite) {
 ${robots}${canonical}
 ${ogTags(seite)}
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="stylesheet" href="/assets/style.css?v=${VERSION}">
 <script type="application/ld+json">${JSON.stringify(ld)}</script>
 </head>
 <body>
 <header class="kopf"><div class="breit kopf-innen">
   <a class="logo" href="/"><svg aria-hidden="true" viewBox="0 0 32 32" width="28" height="28"><use href="/assets/favicon.svg#m"/></svg>${esc(SITE.shortName)}</a>
-  <nav class="menue" aria-label="Calculators">${[...SEITEN.filter((s) => s.imMenue), { pfad: '/calculators/', nav: 'More' }].map((s) => `<a href="${s.pfad}"${s.pfad === seite.pfad ? ' aria-current="page"' : ''}>${esc(s.nav)}</a>`).join('')}</nav>
+  <nav class="menue" aria-label="Calculators">${[...SEITEN.filter((s) => s.imMenue), { pfad: '/calculators/', nav: 'All calculators' }].map((s) => `<a href="${s.pfad}"${s.pfad === seite.pfad ? ' aria-current="page"' : ''}>${esc(s.nav)}</a>`).join('')}</nav>
   <a class="kopf-cta" href="${BASIS}"${seite.pfad?.startsWith(BASIS) ? ' aria-current="page"' : ''}><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5Z"/></svg>Find a yard</a>
 </div></header>`;
 }
@@ -306,10 +307,10 @@ function verwandtBlock(seite) {
   const liste = (seite.verwandt || []).map((p) => SEITEN.find((s) => s.pfad === p)).filter(Boolean);
   if (!liste.length) return '';
   return `<h2>Related</h2>
-<ul class="kacheln">${liste.map((s) => `<li><a href="${s.pfad}"><strong>${esc(s.h1)}</strong><span>${esc(s.kurz)}</span></a></li>`).join('')}</ul>`;
+<ul class="kacheln">${liste.map((s) => `<li><a href="${s.pfad}"><span class="kachel-titel">${esc(s.h1)}</span> <span>${esc(s.kurz)}</span></a></li>`).join('')}</ul>`;
 }
 
-const kacheln = (liste) => `<ul class="kacheln">${liste.map((s) => `<li><a href="${s.pfad}"><strong>${esc(s.h1)}</strong><span>${esc(s.kurz)}</span></a></li>`).join('')}</ul>`;
+const kacheln = (liste) => `<ul class="kacheln">${liste.map((s) => `<li><a href="${s.pfad}"><span class="kachel-titel">${esc(s.h1)}</span> <span>${esc(s.kurz)}</span></a></li>`).join('')}</ul>`;
 
 function umrechnerForm(seite) {
   const m = matById[seite.material];
@@ -344,7 +345,7 @@ ${kacheln(RECHNER)}
 <h2 id="guides">Guides</h2>
 ${kacheln(RATGEBER)}
 <h2>Find a supplier</h2>
-<ul class="kacheln"><li><a href="${BASIS}"><strong>Landscape supply yards</strong><span>Mulch, gravel and stone yards by state and city</span></a></li><li><a href="${BASIS}gravel-pits/"><strong>Gravel pits by state</strong><span>Active sand &amp; gravel pits from mine records</span></a></li></ul>`;
+<ul class="kacheln"><li><a href="${BASIS}"><span class="kachel-titel">Landscape supply yards</span> <span>Mulch, gravel and stone yards by state and city</span></a></li><li><a href="${BASIS}gravel-pits/"><span class="kachel-titel">Gravel pits by state</span> <span>Active sand &amp; gravel pits from mine records</span></a></li></ul>`;
 }
 
 function seiteBauen(seite) {

@@ -39,12 +39,12 @@ export const SEITEN = [
     inhalt: `${MESSEN}
 <h2>Recommended depths by project</h2>
 <table><thead><tr><th>Project</th><th>Typical material</th><th>Depth</th></tr></thead><tbody>
-<tr><td>Flower bed</td><td><a href="/mulch-calculator/">Mulch</a></td><td>2–3 in</td></tr>
+<tr><td>Flower bed</td><td><a href="/mulch-calculator/">Shredded hardwood mulch</a></td><td>2–3 in</td></tr>
 <tr><td>Tree ring</td><td>Mulch</td><td>2–3 in, kept off the trunk</td></tr>
 <tr><td>Garden path</td><td><a href="/pea-gravel-calculator/">Pea gravel</a></td><td>2–3 in</td></tr>
 <tr><td>Gravel driveway</td><td><a href="/driveway-gravel-calculator/">Crusher run base + #57 stone</a></td><td>4–6 in base, 2–4 in top</td></tr>
 <tr><td>Paver patio</td><td><a href="/paver-sand-calculator/">Bedding sand</a> over a gravel base</td><td>1 in sand</td></tr>
-<tr><td>New lawn</td><td><a href="/topsoil-calculator/">Topsoil</a></td><td>4–6 in</td></tr>
+<tr><td>New lawn</td><td><a href="/topsoil-calculator/">Screened topsoil</a></td><td>4–6 in</td></tr>
 <tr><td>Lawn top dressing</td><td>Compost</td><td>¼–½ in</td></tr>
 <tr><td>Raised bed</td><td><a href="/raised-bed-soil-calculator/">Garden soil mix</a></td><td>Full bed height</td></tr>
 <tr><td>Sandbox</td><td><a href="/sand-calculator/">Play sand</a></td><td>6–12 in</td></tr>
