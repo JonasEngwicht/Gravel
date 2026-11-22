@@ -76,6 +76,7 @@ button:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px soli
 .rechner { margin-top: -52px; background: #fff; border-radius: var(--radius); box-shadow: var(--schatten); padding: 24px; }
 .spalten { display: grid; grid-template-columns: 1fr 1fr; gap: 28px; }
 .zeile-2 { display: grid; grid-template-columns: 3fr 2fr; gap: 0 12px; }
+.zeile-2 > label { min-width: 0; }
 .schritt-kopf { display: flex; align-items: center; justify-content: space-between; gap: 12px; margin: 4px 0 8px; }
 .schritt { display: block; font-weight: 700; font-size: 1rem; margin: 0; }
 .einheiten { display: inline-flex; background: var(--kies); border-radius: 999px; padding: 3px; }

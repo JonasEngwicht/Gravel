@@ -205,24 +205,28 @@ const STANDARDSAECKE = { mulch: [1.5, 2, 3], soil: [0.75, 1, 1.5, 2], gravel: [0
 const saeckeVon = (m) => [...new Set([...m.bag_cu_ft, ...(STANDARDSAECKE[m.category] || [])])].sort((a, b) => a - b);
 const lbProCy = (t) => Math.round((t * 2000) / 50) * 50;
 
+// Überschriften der Tabellen: seite.ue[block] überschreibt, sonst Standard mit seite.stoff (Suchbegriff, z. B. 'mulch')
+const ue = (seite, block, standard) => esc(seite.ue?.[block] || standard);
+const stoffVon = (seite) => seite.stoff || name(matById[seite.material]);
+
 const BLOECKE = {
   deckung(seite) {
     const m = matById[seite.material];
     const tiefen = [1, 2, 3, 4, 6].filter((d) => seite.nurVolumen || (d >= m.depth_range_in[0] && d <= Math.max(m.depth_range_in[1], 4)));
-    return `<h2>How much area does 1 cubic yard cover?</h2>
+    return `<h2>${ue(seite, 'deckung', seite.nurVolumen ? 'How many square feet does a cubic yard cover?' : `How much area does a yard of ${stoffVon(seite)} cover?`)}</h2>
 ${tabelle(['Depth', 'Coverage of 1 cubic yard'], tiefen.map((d) => [`${d} in`, `${fmt(coverage({ cy: 1, depthIn: d }))} sq ft`]))}`;
   },
   gewicht(seite) {
     if (seite.nurVolumen) return '';
     const liste = MAT.materials.filter((m) => !seite.kategorien || seite.kategorien.includes(m.category));
-    return `<h2>How much does a cubic yard weigh?</h2>
+    return `<h2>${ue(seite, 'gewicht', `How much does a yard of ${stoffVon(seite)} weigh?`)}</h2>
 ${tabelle(['Material', 'Tons per cubic yard (typical)', 'Recommended depth'], liste.map((m) => [esc(m.label), `${fmt(m.density_range[0], 2)}–${fmt(m.density_range[1], 2)} t`, `${m.depth_range_in[0]}–${m.depth_range_in[1]} in`]))}
 <p class="klein">Typical values for loose material. Wet material is heavier; ask your supplier for their exact weight.</p>`;
   },
   saecke(seite) {
     const m = matById[seite.material];
     const d = seite.tiefe ?? m.default_depth_in;
-    return `<h2>How many bags of ${name(m)} are in a cubic yard?</h2>
+    return `<h2>${ue(seite, 'saecke', `How many bags of ${stoffVon(seite)} are in a yard?`)}</h2>
 ${tabelle(['Bag size', 'Bags per cubic yard', `One bag covers at ${d} in`], saeckeVon(m).map((b) => [`${b} cu ft`, fmt(27 / b, 1), `${fmt((b * 12) / d, 1)} sq ft`]))}
 <p class="klein">1 cubic yard = 27 cubic feet. Round up to whole bags when you buy.</p>`;
   },
@@ -237,26 +241,26 @@ ${tabelle(['Depth', '1.5 cu ft bag', '2 cu ft bag', '3 cu ft bag'], [1, 2, 3, 4]
   },
   tonneDeckung(seite) {
     const m = matById[seite.material];
-    return `<h2>How much area does a ton of ${name(m)} cover?</h2>
+    return `<h2>${ue(seite, 'tonneDeckung', `How much area does a ton of ${stoffVon(seite)} cover?`)}</h2>
 ${tabelle(['Depth', 'Coverage of 1 ton', 'Tons per 100 sq ft'], [1, 2, 3, 4].map((d) => [`${d} in`, `${fmt(coverage({ cy: 1 / m.density_tons_per_cy, depthIn: d }))} sq ft`, `${fmt((100 * d / 324) * m.density_tons_per_cy, 2)} t`]))}
 <p class="klein">Based on ${fmt(m.density_tons_per_cy, 2)} tons per cubic yard, before extra for waste.</p>`;
   },
-  einfahrt() {
+  einfahrt(seite) {
     const top = matById['crushed-stone-57'], base = matById['crusher-run'];
     const t = (w, d, m) => fmt((100 * w * d / 324) * m.density_tons_per_cy, 1);
-    return `<h2>Tons of gravel per 100 feet of driveway</h2>
+    return `<h2>${ue(seite, 'einfahrt', 'Tons of gravel per 100 feet of driveway')}</h2>
 ${tabelle(['Width', '#57 stone, 2 in', '#57 stone, 4 in', 'Crusher run base, 6 in'], [10, 12, 16, 20].map((w) => [`${w} ft`, `${t(w, 2, top)} t`, `${t(w, 4, top)} t`, `${t(w, 6, base)} t`]))}
 <p class="klein">Before extra for waste and compaction (add 10–15 %).</p>`;
   },
-  beete() {
+  beete(seite) {
     const masse = [[4, 4], [3, 6], [4, 6], [2, 8], [4, 8], [4, 12]];
-    return `<h2>Soil for common raised bed sizes</h2>
+    return `<h2>${ue(seite, 'beete', 'Soil for common raised bed sizes')}</h2>
 ${tabelle(['Bed size', '6 in deep', '10 in deep', '12 in deep', '18 in deep'], masse.map(([a, b]) => [`${a} × ${b} ft`, ...[6, 10, 12, 18].map((d) => { const cf = (a * b * d) / 12; return `${fmt(cf, 1)} cu ft (${fmt(cf / 27, 2)} yd)`; })]))}
 <p class="klein">Without extra for settling. Bags: divide cubic feet by the bag size.</p>`;
   },
-  umrechnung() {
+  umrechnung(seite) {
     const liste = MAT.materials.filter((m) => m.category !== 'mulch' || m.id === 'hardwood-mulch');
-    return `<h2>Cubic yards to tons by material</h2>
+    return `<h2>${ue(seite, 'umrechnung', 'Cubic yards to tons by material')}</h2>
 ${tabelle(['Material', '1 cubic yard weighs', '1 ton equals', '1 ton equals'], liste.map((m) => [esc(m.label), `${fmt(m.density_tons_per_cy, 2)} t (${fmt(lbProCy(m.density_tons_per_cy))} lb)`, `${fmt(1 / m.density_tons_per_cy, 2)} cu yd`, `${fmt(27 / m.density_tons_per_cy, 1)} cu ft`]))}
 <h2>Conversion chart for gravel (1.4 tons per cubic yard)</h2>
 ${tabelle(['Cubic yards', 'Tons', 'Tons', 'Cubic yards'], [1, 2, 3, 5, 10, 15, 20].map((n) => [n, fmt(n * 1.4, 1), n, fmt(n / 1.4, 2)]))}`;
