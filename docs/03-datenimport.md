@@ -1,46 +1,42 @@
-# Datenimport: Landscape Supply Yards + MSHA-Gruben (USA)
+# Datenimport: Landscape Supply Yards (USA)
 
-Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA Mines Data Set (Stand 20.11.2026), Census ZCTA Gazetteer 2025
+Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA Mines Data Set (Stand 20.11.2026) zur Anreicherung, Census ZCTA Gazetteer 2025
 
 ## Inhalt
 
 | Pfad | Was |
 |---|---|
-| `data/yards/<staat>/<id>.json` | 9.917 Einträge, ein Eintrag pro Datei (Dateiname = `id`) |
+| `data/yards/<staat>/<id>.json` | 5.185 Einträge in 49 Staaten (inkl. DC), ein Eintrag pro Datei (Dateiname = `id`) |
 | `data/schema/yard.schema.json` | Schema ergänzt um `kind`, `chain`, `msha` und Herkunftsfelder unter `source` |
 | `data/zip-centroids/<3-stelliger ZIP-Präfix>.json` | ZIP-Mittelpunkte für die Umkreissuche, `{ "80202": [lat, lng] }`, 896 Dateien |
-| `data/import/yards_all.csv` | Alle Einträge als Tabelle zum Durchsehen (Spalte `source`: overture / msha) |
+| `data/import/yards_all.csv` | Alle Einträge als Tabelle zum Durchsehen |
 
 ## Zusammensetzung
 
-| Quelle | kind | Anzahl |
+| kind | Anzahl | Was |
 |---|---|---|
-| Overture | landscape-supply | 1.984 |
-| Overture | sand-gravel | 1.528 |
-| Overture | mulch-soil | 888 |
-| Overture | quarry | 469 |
-| Overture | stone-yard | 316 |
-| MSHA (neu) | quarry | 2.519 |
-| MSHA (neu) | sand-gravel | 2.213 |
+| landscape-supply | 1.984 | Klassische Landscape-Supply-Yards (davon 579 SiteOne-Filialen) |
+| sand-gravel | 1.528 | Sand- & Kiesbetriebe und -händler |
+| mulch-soil | 888 | Mulch- und Mutterboden-Yards |
+| quarry | 469 | Steinbrüche / Großproduzenten (Martin Marietta, Hanson …) |
+| stone-yard | 316 | Stone- und Rock-Yards |
 
-## MSHA-Verarbeitung
+## Overture: so entstanden
 
-1. 92.129 Minen → aktiv oder zeitweise in Betrieb, Sand & Kies oder Stein: 10.360
-2. Ohne Zement, Kalk und Werkstein: 9.456 · ohne mobile Anlagen: 5.553 · ohne Gruben von Bezirken/Gemeinden/Behörden: 5.437 · mit gültigen Koordinaten: 5.419
-3. Abgleich mit Overture-Yards (≤ 3 km und Namensübereinstimmung mit Mine, Betreiber oder Mutterfirma): 534 Minen → 508 Yards bekommen `msha` mit `match: "active-nearby"`
-4. 153 Overture-Yards haben in der Nähe nur eine stillgelegte Mine mit passendem Namen → `msha` mit `match: "inactive-nearby"`. **Nicht automatisch geschlossen**, weil Verkaufshöfe oft weiterlaufen, wenn die Grube aufgegeben ist. Bitte prüfen.
-5. Rest als neue Einträge (gleicher Betreiber < 500 m zusammengefasst, Namen mit „Portable“ raus): 4.764
-   - Name: Minenname, bei nichtssagenden Namen „Betreiber – Minenname“
-   - Ort: `NEAREST_TOWN` aus MSHA; ZIP: nächster ZIP-Mittelpunkt (Näherung, max. 40 km)
-   - Keine Straße, kein Telefon, keine Website
-6. Nachträglich entfernt: 32 Industrie- und Frac-Sand-Betriebe (Silica, Proppant). Unbrauchbare Ortsangaben aus MSHA (z. B. „70“, „Unk“, „Intersection of …“) ersetzt durch den Ort des nächsten Overture-Eintrags (≤ 20 km) oder das County.
+1. DuckDB-Abfrage auf Overture (S3) nach Namen (landscape supply, mulch, gravel, topsoil, stone yard, aggregates …), Lower 48: 7.381 Treffer
+2. Namensfilter mit Wortgrenzen (u. a. „Johnstone Supply“ – HVAC – raus): 6.513
+3. Nur gewerbliche Kategorien, keine Ortsnamen („Gravel Road Farm“), keine reinen Rodungsdienste: 5.661
+4. Dubletten zusammengeführt (gleicher Name + Nähe, oder gleiche Telefonnummer + Name + Stadt): 5.211
+5. 26 Einträge ohne ZIP oder Stadt übersprungen: **5.185**
 
-## Wichtig vor dem Veröffentlichen
+## MSHA: nur zur Anreicherung
 
-- Alle Einträge: `status: "unverified"`, `materials: []`. Sie erscheinen erst nach Prüfung in der ZIP-Suche.
-- MSHA-Einträge sind oft reine Betriebsgruben von Bau- und Transportbetonfirmen ohne Privatverkauf (1.163 mit ≤ 2 Mitarbeitern, 1.609 nur zeitweise in Betrieb). Empfehlung: nur nach Prüfung oder nur auf Stadtseiten unter „Pits & quarries“ zeigen.
-- MSHA-Daten sind gemeinfrei (US-Behörde). Für Overture gilt die Attribution „© OpenStreetMap contributors, © Overture Maps Foundation“.
-- ZIP-Mittelpunkte: Census-Gazetteer 2025 (gemeinfrei), bezogen über github.com/drewthomas00/us-zip-centroids. Werte stichprobenartig geprüft.
+Das MSHA Mines Data Set (alle US-Minen, gemeinfrei) wurde mit den Overture-Einträgen abgeglichen (≤ 3 km und Namensübereinstimmung mit Mine, Betreiber oder Mutterfirma):
+
+- 508 Einträge haben `msha` mit `match: "active-nearby"`: aktive Mine des Betriebs in der Nähe, mit Status, Rohstoff und Betreiber. Wird auf der Unternehmensseite als „Mine record“ gezeigt.
+- 153 Einträge haben `match: "inactive-nearby"`: in der Nähe nur eine stillgelegte Mine mit passendem Namen. Nicht automatisch geschlossen (Verkaufshöfe laufen oft weiter), bitte prüfen.
+
+Reine MSHA-Gruben ohne Overture-Eintrag (rund 4.700) wurden bewusst **nicht** aufgenommen: Sie haben weder Adresse noch Telefon oder Website und verkaufen meist nur an Gewerbe.
 
 ## Seiten aus den Daten
 
@@ -50,7 +46,7 @@ Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA 
 |---|---|
 | `/landscape-supply/` | Übersicht: Bundesstaaten, Städte mit den meisten Einträgen |
 | `/landscape-supply/<staat>/` | Alle Städte des Bundesstaats |
-| `/landscape-supply/<staat>/<stadt>/` | Stadtseite: Einträge in zwei Gruppen (Yards / Gruben & Steinbrüche), Rechner, Nachbarstädte, JSON-LD `ItemList` |
+| `/landscape-supply/<staat>/<stadt>/` | Stadtseite: Einträge in zwei Gruppen (Yards / Kies & Steinbrüche), Rechner, Nachbarstädte, JSON-LD `ItemList` |
 | `/landscape-supply/<staat>/<stadt>/<slug>/` | Unternehmensseite: Kontakt, Karte, Materialien/Öffnungszeiten (falls gepflegt), MSHA-Daten, Anbieter in der Nähe, JSON-LD `HomeAndConstructionBusiness` |
 
 Indexierung:
@@ -58,4 +54,15 @@ Indexierung:
 - Ohne `baseUrl` in `site.config.json` ist weiterhin alles `noindex` (Vorschau auf workers.dev), mit `baseUrl` entstehen Canonicals und Sitemap.
 - Einträge mit `status: "closed"` und Dateien, die mit `_` beginnen, werden nicht veröffentlicht.
 
-Umfang: ca. 16.000 Seiten (1 Übersicht, 53 Staaten/Territorien, ~6.000 Städte, 9.917 Unternehmen). Grenze bei Cloudflare Workers (Free): 20.000 Dateien – ein Test schlägt an, wenn es mehr als 19.500 werden.
+Umfang: ca. 8.600 Seiten (1 Übersicht, 49 Staaten, ~3.300 Städte, 5.185 Unternehmen). Grenze bei Cloudflare Workers (Free): 20.000 Dateien – ein Test schlägt an, wenn es mehr als 19.500 werden.
+
+## Pflege
+
+- Geprüfte Einträge auf `status: "active"` setzen und Materialien, Preise (`price.updated`), Öffnungszeiten, Lieferung und `self_load` ergänzen.
+- Geschlossene Betriebe auf `status: "closed"` setzen (Datei bleibt, Seite verschwindet).
+- Overture erscheint monatlich neu; die Abfrage steht in der Projektnotiz, die Bereinigungsregeln oben.
+
+## Lizenzen
+
+- Overture Maps: CDLA-Permissive-2.0, Foursquare-Datensätze Apache-2.0. Pflicht-Attribution auf der Website: „© OpenStreetMap contributors, © Overture Maps Foundation“ (steht auf jeder Verzeichnisseite).
+- MSHA und Census: US-Behörden, gemeinfrei. ZIP-Mittelpunkte bezogen über github.com/drewthomas00/us-zip-centroids, stichprobenartig geprüft.

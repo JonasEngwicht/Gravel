@@ -10,8 +10,8 @@ Mulch-, Kies- und Erde-Rechner plus ein Verzeichnis für Landscape-Supply-Yards 
 | `docs/02-konzept-directory.md` | Konzept des Verzeichnisses und der Verzahnung mit den Rechnern |
 | `data/materials.json` | Materialien mit Dichte, empfohlener Tiefe, Sackgrößen, Puffer (Richtwerte, vor Launch prüfen) |
 | `data/schema/yard.schema.json` | Datenformat für einen Yard-Eintrag |
-| `docs/03-datenimport.md` | Herkunft der Yard-Daten (Overture Maps, MSHA), Bereinigung, Seitenstruktur und Indexierung |
-| `data/yards/<staat>/<id>.json` | 9.917 Yards, Gruben und Steinbrüche (ein Eintrag pro Datei) |
+| `docs/03-datenimport.md` | Herkunft der Yard-Daten (Overture Maps, Anreicherung mit MSHA), Bereinigung, Seitenstruktur und Indexierung |
+| `data/yards/<staat>/<id>.json` | 5.185 Landscape-Supply-Yards und Kieslieferanten (ein Eintrag pro Datei) |
 | `data/yards/_example.json` | Fiktiver Beispiel-Eintrag (wird nicht veröffentlicht) |
 | `data/zip-centroids/<präfix>.json` | ZIP-Mittelpunkte (Census-Gazetteer 2025) für die Umkreissuche |
 | `data/import/yards_all.csv` | Alle Einträge als Tabelle zum Durchsehen |
