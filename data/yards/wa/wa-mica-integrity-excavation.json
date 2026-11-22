@@ -1,0 +1,41 @@
+{
+  "id": "wa-mica-integrity-excavation",
+  "slug": "integrity-excavation",
+  "name": "Integrity Excavation",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mica",
+    "state": "WA",
+    "zip": "99036"
+  },
+  "location": {
+    "lat": 47.550833,
+    "lng": -117.215
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503694"
+  },
+  "msha": [
+    {
+      "mine_id": "4503694",
+      "name": "Integrity Rock Products",
+      "operator": "Integrity Excavation, Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-01-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

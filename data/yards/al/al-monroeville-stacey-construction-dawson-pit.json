@@ -1,0 +1,41 @@
+{
+  "id": "al-monroeville-stacey-construction-dawson-pit",
+  "slug": "stacey-construction-dawson-pit",
+  "name": "Stacey Construction – Dawson Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Monroeville",
+    "state": "AL",
+    "zip": "36439"
+  },
+  "location": {
+    "lat": 31.383056,
+    "lng": -87.321111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0102883"
+  },
+  "msha": [
+    {
+      "mine_id": "0102883",
+      "name": "Dawson Pit",
+      "operator": "Stacey Construction LLC",
+      "status": "Active",
+      "status_since": "2024-03-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

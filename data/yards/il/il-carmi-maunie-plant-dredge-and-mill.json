@@ -1,0 +1,41 @@
+{
+  "id": "il-carmi-maunie-plant-dredge-and-mill",
+  "slug": "maunie-plant-dredge-and-mill",
+  "name": "Maunie Plant Dredge & Mill",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Carmi",
+    "state": "IL",
+    "zip": "62861"
+  },
+  "location": {
+    "lat": 38.023889,
+    "lng": -88.065556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1101035"
+  },
+  "msha": [
+    {
+      "mine_id": "1101035",
+      "name": "Maunie Plant Dredge & Mill",
+      "operator": "J & B Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2021-03-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

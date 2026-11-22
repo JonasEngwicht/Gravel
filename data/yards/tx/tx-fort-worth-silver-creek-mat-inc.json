@@ -1,0 +1,41 @@
+{
+  "id": "tx-fort-worth-silver-creek-mat-inc",
+  "slug": "silver-creek-mat-inc",
+  "name": "Silver Creek Mat Inc",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76108"
+  },
+  "location": {
+    "lat": 32.791389,
+    "lng": -97.491667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103531"
+  },
+  "msha": [
+    {
+      "mine_id": "4103531",
+      "name": "Silver Creek Mat Inc",
+      "operator": "Silver Creek Materials Inc",
+      "status": "Active",
+      "status_since": "2012-02-21",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "al-clanton-western-specialty-products-smith-mine",
+  "slug": "western-specialty-products-smith-mine",
+  "name": "Western Specialty Products – Smith Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Clanton",
+    "state": "AL",
+    "zip": "36091"
+  },
+  "location": {
+    "lat": 32.745278,
+    "lng": -86.5925
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103352"
+  },
+  "msha": [
+    {
+      "mine_id": "0103352",
+      "name": "Smith Mine",
+      "operator": "Western Specialty Products LLC",
+      "status": "Active",
+      "status_since": "2017-07-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

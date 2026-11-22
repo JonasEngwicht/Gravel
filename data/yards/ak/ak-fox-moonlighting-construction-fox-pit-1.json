@@ -1,0 +1,41 @@
+{
+  "id": "ak-fox-moonlighting-construction-fox-pit-1",
+  "slug": "moonlighting-construction-fox-pit-1",
+  "name": "Moonlighting Construction – Fox Pit #1",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fox",
+    "state": "AK",
+    "zip": "99703"
+  },
+  "location": {
+    "lat": 64.9142,
+    "lng": -147.4926
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5002094"
+  },
+  "msha": [
+    {
+      "mine_id": "5002094",
+      "name": "Fox Pit #1",
+      "operator": "Moonlighting Construction Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-07-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

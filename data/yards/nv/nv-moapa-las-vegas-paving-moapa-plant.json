@@ -1,0 +1,41 @@
+{
+  "id": "nv-moapa-las-vegas-paving-moapa-plant",
+  "slug": "las-vegas-paving-moapa-plant",
+  "name": "Las Vegas Paving – Moapa Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Moapa",
+    "state": "NV",
+    "zip": "89025"
+  },
+  "location": {
+    "lat": 36.750833,
+    "lng": -114.631944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602862"
+  },
+  "msha": [
+    {
+      "mine_id": "2602862",
+      "name": "Moapa Plant",
+      "operator": "Las Vegas Paving Corp.",
+      "status": "Active",
+      "status_since": "2023-05-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

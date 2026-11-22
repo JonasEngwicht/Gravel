@@ -1,0 +1,41 @@
+{
+  "id": "ma-stow-j-melone-and-sons-incorporated",
+  "slug": "j-melone-and-sons-incorporated",
+  "name": "J Melone & Sons Incorporated",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Stow",
+    "state": "MA",
+    "zip": "01754"
+  },
+  "location": {
+    "lat": 42.426667,
+    "lng": -71.48
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900596"
+  },
+  "msha": [
+    {
+      "mine_id": "1900596",
+      "name": "J Melone & Sons Incorporated",
+      "operator": "J Melone & Sons Inc",
+      "status": "Intermittent",
+      "status_since": "2022-10-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

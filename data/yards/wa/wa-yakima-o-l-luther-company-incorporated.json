@@ -1,0 +1,41 @@
+{
+  "id": "wa-yakima-o-l-luther-company-incorporated",
+  "slug": "o-l-luther-company-incorporated",
+  "name": "O L Luther Company Incorporated",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98932"
+  },
+  "location": {
+    "lat": 46.323889,
+    "lng": -120.124444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4501222"
+  },
+  "msha": [
+    {
+      "mine_id": "4501222",
+      "name": "O L Luther Company Incorporated",
+      "operator": "O L Luther Company Inc",
+      "status": "Active",
+      "status_since": "2026-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

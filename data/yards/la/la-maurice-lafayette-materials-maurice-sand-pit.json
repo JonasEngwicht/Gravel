@@ -1,0 +1,41 @@
+{
+  "id": "la-maurice-lafayette-materials-maurice-sand-pit",
+  "slug": "lafayette-materials-maurice-sand-pit",
+  "name": "Lafayette Materials – Maurice Sand Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Maurice",
+    "state": "LA",
+    "zip": "70555"
+  },
+  "location": {
+    "lat": 30.108611,
+    "lng": -92.148611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601507"
+  },
+  "msha": [
+    {
+      "mine_id": "1601507",
+      "name": "Maurice Sand Pit",
+      "operator": "Lafayette Materials",
+      "status": "Intermittent",
+      "status_since": "2026-02-11",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

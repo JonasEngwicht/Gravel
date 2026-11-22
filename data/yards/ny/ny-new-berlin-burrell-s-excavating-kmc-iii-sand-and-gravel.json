@@ -1,0 +1,41 @@
+{
+  "id": "ny-new-berlin-burrell-s-excavating-kmc-iii-sand-and-gravel",
+  "slug": "burrell-s-excavating-kmc-iii-sand-and-gravel",
+  "name": "Burrell's Excavating – Kmc Iii Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "New Berlin",
+    "state": "NY",
+    "zip": "13411"
+  },
+  "location": {
+    "lat": 42.6275,
+    "lng": -75.317778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003821"
+  },
+  "msha": [
+    {
+      "mine_id": "3003821",
+      "name": "Kmc Iii Sand & Gravel",
+      "operator": "Burrell's Excavating, Inc.",
+      "status": "Intermittent",
+      "status_since": "2011-10-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

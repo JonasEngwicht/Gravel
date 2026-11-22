@@ -19,6 +19,7 @@ Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA 
 | sand-gravel | 1.528 | Sand- & Kiesbetriebe und -händler |
 | mulch-soil | 888 | Mulch- und Mutterboden-Yards |
 | stone-yard | 316 | Stone- und Rock-Yards |
+| gravel-pit | 2.213 | Aktive und zeitweise aktive Sand- & Kiesgruben aus MSHA (ohne Kontaktdaten, seit 22.11.2026) |
 
 ## Overture: so entstanden
 
@@ -36,7 +37,9 @@ Das MSHA Mines Data Set (alle US-Minen, gemeinfrei) wurde mit den Overture-Eintr
 - 338 Einträge haben `msha` mit `match: "active-nearby"`: aktive Mine des Betriebs in der Nähe, mit Status, Rohstoff und Betreiber. Wird auf der Unternehmensseite als „Mine record“ gezeigt.
 - 115 Einträge haben `match: "inactive-nearby"`: in der Nähe nur eine stillgelegte Mine mit passendem Namen. Nicht automatisch geschlossen (Verkaufshöfe laufen oft weiter), bitte prüfen.
 
-Reine MSHA-Gruben ohne Overture-Eintrag (rund 4.700) und Steinbrüche wurden bewusst **nicht** aufgenommen: Sie haben weder Adresse noch Telefon oder Website und verkaufen meist nur an Gewerbe.
+## MSHA: Kiesgruben (`kind: "gravel-pit"`)
+
+Seit 22.11.2026 sind die MSHA-Sand- & Kiesgruben wieder drin, weil „gravel pit near me“ rund 9.900 Suchen im Monat hat: 2.213 Gruben mit Status `Active` oder `Intermittent` und Rohstoff „Construction Sand and Gravel“ bzw. „Sand, Common“ (wiederhergestellt aus dem Commit vor 7d62b46). Sie haben Ort, ZIP, Betreiber und Status, aber weder Straße noch Telefon oder Website. MSHA-Steinbrüche (Crushed Stone) und die 469 Overture-Steinbrüche bleiben draußen.
 
 ## Seiten aus den Daten
 
@@ -46,15 +49,22 @@ Reine MSHA-Gruben ohne Overture-Eintrag (rund 4.700) und Steinbrüche wurden bew
 |---|---|
 | `/landscape-supply/` | Übersicht: Bundesstaaten, Städte mit den meisten Einträgen |
 | `/landscape-supply/<staat>/` | Alle Städte des Bundesstaats |
-| `/landscape-supply/<staat>/<stadt>/` | Stadtseite: Einträge in zwei Gruppen (Yards / Sand & Kies), Rechner, Nachbarstädte, JSON-LD `ItemList` |
+| `/landscape-supply/gravel-pits/` | Kiesgruben-Übersicht nach Bundesstaat |
+| `/landscape-supply/<staat>/gravel-pits/` | Alle Kiesgruben eines Staats, nach Ort gruppiert |
+| `/landscape-supply/<staat>/<stadt>/` | Stadtseite: Kurztext aus den Daten, Einträge in drei Gruppen (Yards / Sand & Kies / Kiesgruben), bei wenigen Einträgen Anbieter im Umkreis von 15 Meilen, Rechner, Nachbarstädte, JSON-LD `ItemList` |
 | `/landscape-supply/<staat>/<stadt>/<slug>/` | Unternehmensseite: Kontakt, Karte, Materialien/Öffnungszeiten (falls gepflegt), MSHA-Daten, Anbieter in der Nähe, JSON-LD `HomeAndConstructionBusiness` |
 
-Indexierung:
-- Alle Verzeichnisseiten sind indexierbar und stehen in der Sitemap, auch Einträge mit `status: "unverified"`. Ungeprüfte Einträge zeigen auf ihrer Seite einen Hinweis, vorher anzurufen.
+Indexierung (seit 22.11.2026: nur befüllte Seiten, Regeln in `scripts/verzeichnis.mjs`):
+- „Befüllt“ heißt: geprüft (`status: "active"`) oder mit Telefon bzw. Website.
+- Stadtseiten: indexiert ab 3 befüllten Einträgen (`MIN_STADT`), sonst `noindex, follow`.
+- Unternehmensseiten: indexiert, wenn geprüft oder mit Straße, Telefon und Website. Kiesgruben ohne Kontaktdaten: `noindex, follow`.
+- Staatsseiten und Kiesgruben-Seiten je Staat: ab 3 Einträgen.
+- Nur indexierbare Seiten stehen in den Sitemaps. `sitemap.xml` ist ein Index auf `sitemap-pages.xml`, `-states`, `-cities`, `-yards` und `-gravel-pits`, damit die Search Console die Indexierung je Seitentyp zeigt.
+- Ungeprüfte Einträge zeigen auf ihrer Seite einen Hinweis, vorher anzurufen.
 - Ohne `baseUrl` in `site.config.json` ist weiterhin alles `noindex` (Vorschau auf workers.dev), mit `baseUrl` entstehen Canonicals und Sitemap.
 - Einträge mit `status: "closed"` und Dateien, die mit `_` beginnen, werden nicht veröffentlicht.
 
-Umfang: ca. 7.800 Seiten (1 Übersicht, 48 Staaten, ~3.000 Städte, 4.716 Unternehmen). Grenze bei Cloudflare Workers (Free): 20.000 Dateien – ein Test schlägt an, wenn es mehr als 19.500 werden.
+Umfang: ca. 11.500 Verzeichnisseiten (davon ~4.200 indexierbar) plus 26 Rechner-, Ratgeber- und Infoseiten; ~12.400 Dateien im Build. Grenze bei Cloudflare Workers (Free): 20.000 Dateien – ein Test schlägt an, wenn es mehr als 19.500 werden.
 
 ## Pflege
 

@@ -1,0 +1,41 @@
+{
+  "id": "pr-san-lorenzo-arenero-rafael-colon",
+  "slug": "arenero-rafael-colon",
+  "name": "Arenero Rafael Colon",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "San Lorenzo",
+    "state": "PR",
+    "zip": "00754"
+  },
+  "location": {
+    "lat": 18.1425,
+    "lng": -65.975
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400150"
+  },
+  "msha": [
+    {
+      "mine_id": "5400150",
+      "name": "Arenero Rafael Colon Inc",
+      "operator": "Arenero Rafael Colon Inc",
+      "status": "Active",
+      "status_since": "1975-07-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

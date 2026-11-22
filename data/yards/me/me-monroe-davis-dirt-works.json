@@ -1,0 +1,41 @@
+{
+  "id": "me-monroe-davis-dirt-works",
+  "slug": "davis-dirt-works",
+  "name": "Davis Dirt Works",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Monroe",
+    "state": "ME",
+    "zip": "04951"
+  },
+  "location": {
+    "lat": 44.563611,
+    "lng": -69.023056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701011"
+  },
+  "msha": [
+    {
+      "mine_id": "1701011",
+      "name": "Davis Pit",
+      "operator": "Davis Dirt Works LLC",
+      "status": "Intermittent",
+      "status_since": "2018-07-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ct-groton-mcclure-construction",
+  "slug": "mcclure-construction",
+  "name": "McClure Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Groton",
+    "state": "CT",
+    "zip": "06340"
+  },
+  "location": {
+    "lat": 41.362222,
+    "lng": -72.028056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600805"
+  },
+  "msha": [
+    {
+      "mine_id": "0600805",
+      "name": "McClure Sand & Gravel",
+      "operator": "McClure Construction",
+      "status": "Active",
+      "status_since": "2024-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-bastrop-alamo-concrete-products-bastrop-plant",
+  "slug": "alamo-concrete-products-bastrop-plant",
+  "name": "Alamo Concrete Products – Bastrop Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bastrop",
+    "state": "TX",
+    "zip": "78653"
+  },
+  "location": {
+    "lat": 30.224722,
+    "lng": -97.465
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105572"
+  },
+  "msha": [
+    {
+      "mine_id": "4105572",
+      "name": "Bastrop Plant",
+      "operator": "Alamo Concrete Products Company",
+      "status": "Active",
+      "status_since": "2025-01-16",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

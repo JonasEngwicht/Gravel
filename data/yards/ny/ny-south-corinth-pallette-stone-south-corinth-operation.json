@@ -1,0 +1,41 @@
+{
+  "id": "ny-south-corinth-pallette-stone-south-corinth-operation",
+  "slug": "pallette-stone-south-corinth-operation",
+  "name": "Pallette Stone – South Corinth Operation",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "South Corinth",
+    "state": "NY",
+    "zip": "12822"
+  },
+  "location": {
+    "lat": 43.198333,
+    "lng": -73.865556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002796"
+  },
+  "msha": [
+    {
+      "mine_id": "3002796",
+      "name": "South Corinth Operation",
+      "operator": "Pallette Stone Corporation",
+      "status": "Intermittent",
+      "status_since": "2025-05-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

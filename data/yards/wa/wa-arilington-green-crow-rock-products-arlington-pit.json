@@ -1,0 +1,41 @@
+{
+  "id": "wa-arilington-green-crow-rock-products-arlington-pit",
+  "slug": "green-crow-rock-products-arlington-pit",
+  "name": "Green Crow Rock Products-Arlington Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Arilington",
+    "state": "WA",
+    "zip": "98223"
+  },
+  "location": {
+    "lat": 48.275,
+    "lng": -121.660556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503565"
+  },
+  "msha": [
+    {
+      "mine_id": "4503565",
+      "name": "Green Crow Rock Products-Arlington Pit",
+      "operator": "Green Crow Rock Products",
+      "status": "Active",
+      "status_since": "2006-01-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

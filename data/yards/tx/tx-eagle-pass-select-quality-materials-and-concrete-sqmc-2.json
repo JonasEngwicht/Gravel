@@ -1,0 +1,41 @@
+{
+  "id": "tx-eagle-pass-select-quality-materials-and-concrete-sqmc-2",
+  "slug": "select-quality-materials-and-concrete-sqmc-2",
+  "name": "Select Quality Materials and Concrete – Sqmc 2",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Eagle Pass",
+    "state": "TX",
+    "zip": "78852"
+  },
+  "location": {
+    "lat": 28.714167,
+    "lng": -100.310556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105597"
+  },
+  "msha": [
+    {
+      "mine_id": "4105597",
+      "name": "Sqmc 2",
+      "operator": "Select Quality Materials and Concrete",
+      "status": "Active",
+      "status_since": "2022-06-13",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

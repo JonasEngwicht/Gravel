@@ -1,0 +1,41 @@
+{
+  "id": "ny-waverly-austin-sand-and-gravel-porter-s-pit",
+  "slug": "austin-sand-and-gravel-porter-s-pit",
+  "name": "Austin Sand & Gravel – Porter's Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Waverly",
+    "state": "NY",
+    "zip": "18840"
+  },
+  "location": {
+    "lat": 42.005833,
+    "lng": -76.485278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002409"
+  },
+  "msha": [
+    {
+      "mine_id": "3002409",
+      "name": "Porter's Pit",
+      "operator": "Austin Sand & Gravel",
+      "status": "Active",
+      "status_since": "2026-05-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

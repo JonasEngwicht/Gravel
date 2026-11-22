@@ -1,0 +1,41 @@
+{
+  "id": "ga-sandersville-southeastern-performance-minerals-avant-mine",
+  "slug": "southeastern-performance-minerals-avant-mine",
+  "name": "Southeastern Performance Minerals – Avant Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sandersville",
+    "state": "GA",
+    "zip": "31082"
+  },
+  "location": {
+    "lat": 33.031667,
+    "lng": -82.963333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901088"
+  },
+  "msha": [
+    {
+      "mine_id": "0901088",
+      "name": "Avant Mine",
+      "operator": "Southeastern Performance Minerals, LLC",
+      "status": "Active",
+      "status_since": "1995-04-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 38
+    }
+  ]
+}

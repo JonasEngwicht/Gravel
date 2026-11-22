@@ -1,0 +1,41 @@
+{
+  "id": "ny-silver-creek-gernatt-asphalt-products-hanover",
+  "slug": "gernatt-asphalt-products-hanover",
+  "name": "Gernatt Asphalt Products – Hanover",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Silver Creek",
+    "state": "NY",
+    "zip": "14081"
+  },
+  "location": {
+    "lat": 42.561389,
+    "lng": -79.107778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000871"
+  },
+  "msha": [
+    {
+      "mine_id": "3000871",
+      "name": "Hanover",
+      "operator": "Gernatt Asphalt Products, Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-04-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

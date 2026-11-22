@@ -1,0 +1,41 @@
+{
+  "id": "oh-jeromesville-heifner-excavating",
+  "slug": "heifner-excavating",
+  "name": "Heifner Excavating",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Jeromesville",
+    "state": "OH",
+    "zip": "44840"
+  },
+  "location": {
+    "lat": 40.799722,
+    "lng": -82.193611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304721"
+  },
+  "msha": [
+    {
+      "mine_id": "3304721",
+      "name": "Heifner Excavating LLC",
+      "operator": "Heifner Excavating LLC",
+      "status": "Intermittent",
+      "status_since": "2018-07-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

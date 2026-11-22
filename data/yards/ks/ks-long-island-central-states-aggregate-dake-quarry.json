@@ -1,0 +1,41 @@
+{
+  "id": "ks-long-island-central-states-aggregate-dake-quarry",
+  "slug": "central-states-aggregate-dake-quarry",
+  "name": "Central States Aggregate – Dake Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Long Island",
+    "state": "KS",
+    "zip": "67647"
+  },
+  "location": {
+    "lat": 39.997222,
+    "lng": -99.479722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401767"
+  },
+  "msha": [
+    {
+      "mine_id": "1401767",
+      "name": "Dake Quarry",
+      "operator": "Central States Aggregate, LLC.",
+      "status": "Active",
+      "status_since": "2026-04-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

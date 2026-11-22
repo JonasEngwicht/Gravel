@@ -1,0 +1,41 @@
+{
+  "id": "tx-hawkins-big-sandy-sand-company",
+  "slug": "big-sandy-sand-company",
+  "name": "Big Sandy Sand Company",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hawkins",
+    "state": "TX",
+    "zip": "75765"
+  },
+  "location": {
+    "lat": 32.666111,
+    "lng": -95.240556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4102616"
+  },
+  "msha": [
+    {
+      "mine_id": "4102616",
+      "name": "North Pit And Plant",
+      "operator": "Big Sandy Sand Company Inc",
+      "status": "Active",
+      "status_since": "1976-06-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

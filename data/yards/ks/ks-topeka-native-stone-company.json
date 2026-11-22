@@ -1,0 +1,41 @@
+{
+  "id": "ks-topeka-native-stone-company",
+  "slug": "native-stone-company",
+  "name": "Native Stone Company",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66423"
+  },
+  "location": {
+    "lat": 38.928056,
+    "lng": -96.052778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401641"
+  },
+  "msha": [
+    {
+      "mine_id": "1401641",
+      "name": "Native Stone Company Inc",
+      "operator": "Native Stone Company Inc",
+      "status": "Intermittent",
+      "status_since": "2005-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

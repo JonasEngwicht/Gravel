@@ -1,0 +1,41 @@
+{
+  "id": "nh-alstead-jp-trucking-and-excavating-garland-pit",
+  "slug": "jp-trucking-and-excavating-garland-pit",
+  "name": "JP Trucking & Excavating – Garland Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Alstead",
+    "state": "NH",
+    "zip": "03602"
+  },
+  "location": {
+    "lat": 43.136667,
+    "lng": -72.362778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700491"
+  },
+  "msha": [
+    {
+      "mine_id": "2700491",
+      "name": "Garland Pit",
+      "operator": "JP Trucking & Excavating LLC",
+      "status": "Active",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

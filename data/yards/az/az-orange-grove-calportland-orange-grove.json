@@ -1,0 +1,41 @@
+{
+  "id": "az-orange-grove-calportland-orange-grove",
+  "slug": "calportland-orange-grove",
+  "name": "CalPortland – Orange Grove",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Orange Grove",
+    "state": "AZ",
+    "zip": "85743"
+  },
+  "location": {
+    "lat": 32.324444,
+    "lng": -111.175556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0201203"
+  },
+  "msha": [
+    {
+      "mine_id": "0201203",
+      "name": "Orange Grove",
+      "operator": "CalPortland Company",
+      "status": "Active",
+      "status_since": "2026-02-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

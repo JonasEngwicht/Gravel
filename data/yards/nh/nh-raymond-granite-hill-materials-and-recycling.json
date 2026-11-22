@@ -1,0 +1,41 @@
+{
+  "id": "nh-raymond-granite-hill-materials-and-recycling",
+  "slug": "granite-hill-materials-and-recycling",
+  "name": "Granite Hill Materials & Recycling",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Raymond",
+    "state": "NH",
+    "zip": "03077"
+  },
+  "location": {
+    "lat": 43.051667,
+    "lng": -71.211667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700559"
+  },
+  "msha": [
+    {
+      "mine_id": "2700559",
+      "name": "Granite Hill Materials & Recycling LLC",
+      "operator": "Granite Hill Materials & Recycling LLC",
+      "status": "Intermittent",
+      "status_since": "2024-08-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

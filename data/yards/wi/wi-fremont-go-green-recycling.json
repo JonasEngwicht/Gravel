@@ -1,0 +1,41 @@
+{
+  "id": "wi-fremont-go-green-recycling",
+  "slug": "go-green-recycling",
+  "name": "Go Green Recycling",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fremont",
+    "state": "WI",
+    "zip": "54931"
+  },
+  "location": {
+    "lat": 44.294521,
+    "lng": -88.758789
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703821"
+  },
+  "msha": [
+    {
+      "mine_id": "4703821",
+      "name": "Go Green Recycling PIT",
+      "operator": "Go Green Recycling, LLC.",
+      "status": "Intermittent",
+      "status_since": "2022-07-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

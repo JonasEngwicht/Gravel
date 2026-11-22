@@ -1,0 +1,41 @@
+{
+  "id": "nc-salisbury-carolina-sand-hannah-ferry-sand-pit",
+  "slug": "carolina-sand-hannah-ferry-sand-pit",
+  "name": "Carolina Sand – Hannah Ferry Sand Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Salisbury",
+    "state": "NC",
+    "zip": "28144"
+  },
+  "location": {
+    "lat": 35.743889,
+    "lng": -80.462778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101996"
+  },
+  "msha": [
+    {
+      "mine_id": "3101996",
+      "name": "Hannah Ferry Sand Pit",
+      "operator": "Carolina Sand Inc",
+      "status": "Active",
+      "status_since": "2019-02-11",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

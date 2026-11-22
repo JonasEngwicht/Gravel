@@ -1,0 +1,41 @@
+{
+  "id": "ny-sherman-safford-sand-and-gravel",
+  "slug": "safford-sand-and-gravel",
+  "name": "Safford Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sherman",
+    "state": "NY",
+    "zip": "14736"
+  },
+  "location": {
+    "lat": 42.120833,
+    "lng": -79.730278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004186"
+  },
+  "msha": [
+    {
+      "mine_id": "3004186",
+      "name": "Safford 2",
+      "operator": "Safford Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2026-05-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

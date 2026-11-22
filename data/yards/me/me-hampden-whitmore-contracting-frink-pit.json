@@ -1,0 +1,41 @@
+{
+  "id": "me-hampden-whitmore-contracting-frink-pit",
+  "slug": "whitmore-contracting-frink-pit",
+  "name": "Whitmore Contracting – Frink Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hampden",
+    "state": "ME",
+    "zip": "04444"
+  },
+  "location": {
+    "lat": 44.709444,
+    "lng": -68.8875
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701034"
+  },
+  "msha": [
+    {
+      "mine_id": "1701034",
+      "name": "Frink Pit",
+      "operator": "Whitmore Contracting Inc.",
+      "status": "Active",
+      "status_since": "2024-12-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -7,7 +7,7 @@
 const BASIS = '/landscape-supply/';
 const ARTEN = {
   'landscape-supply': 'Landscape supply yard', 'mulch-soil': 'Mulch & topsoil yard', 'stone-yard': 'Stone & rock yard',
-  'sand-gravel': 'Sand & gravel', quarry: 'Quarry / aggregate producer',
+  'sand-gravel': 'Sand & gravel', quarry: 'Quarry / aggregate producer', 'gravel-pit': 'Gravel pit',
 };
 const STAATEN = {
   AL: 'Alabama', AK: 'Alaska', AZ: 'Arizona', AR: 'Arkansas', CA: 'California', CO: 'Colorado', CT: 'Connecticut',

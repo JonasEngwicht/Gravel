@@ -1,0 +1,41 @@
+{
+  "id": "in-new-albany-imi-new-albany-sand-and-gravel",
+  "slug": "imi-new-albany-sand-and-gravel",
+  "name": "imi New Albany Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "New Albany",
+    "state": "IN",
+    "zip": "40216"
+  },
+  "location": {
+    "lat": 38.199722,
+    "lng": -85.891389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200964"
+  },
+  "msha": [
+    {
+      "mine_id": "1200964",
+      "name": "imi New Albany Sand & Gravel",
+      "operator": "imi Aggregates LLC.",
+      "status": "Active",
+      "status_since": "2011-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

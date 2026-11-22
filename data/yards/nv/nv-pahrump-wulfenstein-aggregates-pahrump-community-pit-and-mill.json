@@ -1,0 +1,41 @@
+{
+  "id": "nv-pahrump-wulfenstein-aggregates-pahrump-community-pit-and-mill",
+  "slug": "wulfenstein-aggregates-pahrump-community-pit-and-mill",
+  "name": "Wulfenstein Aggregates – Pahrump Community Pit And Mill",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Pahrump",
+    "state": "NV",
+    "zip": "89048"
+  },
+  "location": {
+    "lat": 36.210556,
+    "lng": -115.968889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2601004"
+  },
+  "msha": [
+    {
+      "mine_id": "2601004",
+      "name": "Pahrump Community Pit And Mill",
+      "operator": "Wulfenstein Aggregates LLC",
+      "status": "Active",
+      "status_since": "2025-07-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

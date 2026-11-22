@@ -1,0 +1,41 @@
+{
+  "id": "wi-coleman-koenig-s-sand-and-stone-risner-pit",
+  "slug": "koenig-s-sand-and-stone-risner-pit",
+  "name": "Koenig's Sand & Stone – Risner Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Coleman",
+    "state": "WI",
+    "zip": "54112"
+  },
+  "location": {
+    "lat": 45.065157,
+    "lng": -88.031699
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703340"
+  },
+  "msha": [
+    {
+      "mine_id": "4703340",
+      "name": "Risner Pit",
+      "operator": "Koenig's Sand & Stone LLC",
+      "status": "Intermittent",
+      "status_since": "2003-04-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

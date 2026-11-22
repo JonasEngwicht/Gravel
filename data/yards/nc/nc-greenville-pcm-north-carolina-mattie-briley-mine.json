@@ -1,0 +1,41 @@
+{
+  "id": "nc-greenville-pcm-north-carolina-mattie-briley-mine",
+  "slug": "pcm-north-carolina-mattie-briley-mine",
+  "name": "PCM North Carolina – Mattie Briley Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Greenville",
+    "state": "NC",
+    "zip": "27834"
+  },
+  "location": {
+    "lat": 35.649544,
+    "lng": -77.344074
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102371"
+  },
+  "msha": [
+    {
+      "mine_id": "3102371",
+      "name": "Mattie Briley Mine",
+      "operator": "PCM North Carolina",
+      "status": "Active",
+      "status_since": "2026-05-04",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

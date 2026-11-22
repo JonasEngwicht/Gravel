@@ -1,0 +1,41 @@
+{
+  "id": "ca-corning-valley-rock-products-red-bluff-plant",
+  "slug": "valley-rock-products-red-bluff-plant",
+  "name": "Valley Rock Products - Red Bluff Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Corning",
+    "state": "CA",
+    "zip": "96090"
+  },
+  "location": {
+    "lat": 40.016389,
+    "lng": -122.1225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404622"
+  },
+  "msha": [
+    {
+      "mine_id": "0404622",
+      "name": "Valley Rock Products - Red Bluff Plant",
+      "operator": "Valley Rock Products",
+      "status": "Active",
+      "status_since": "2011-11-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

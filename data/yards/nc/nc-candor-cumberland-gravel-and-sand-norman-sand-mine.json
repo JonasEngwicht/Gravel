@@ -1,0 +1,41 @@
+{
+  "id": "nc-candor-cumberland-gravel-and-sand-norman-sand-mine",
+  "slug": "cumberland-gravel-and-sand-norman-sand-mine",
+  "name": "Cumberland Gravel and Sand – Norman Sand Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Candor",
+    "state": "NC",
+    "zip": "28367"
+  },
+  "location": {
+    "lat": 35.198056,
+    "lng": -79.752778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102121"
+  },
+  "msha": [
+    {
+      "mine_id": "3102121",
+      "name": "Norman Sand Mine",
+      "operator": "Cumberland Gravel and Sand",
+      "status": "Active",
+      "status_since": "2010-01-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

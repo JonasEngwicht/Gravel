@@ -1,0 +1,41 @@
+{
+  "id": "ca-sunol-desilva-gates-construction",
+  "slug": "desilva-gates-construction",
+  "name": "DeSilva Gates Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sunol",
+    "state": "CA",
+    "zip": "94586"
+  },
+  "location": {
+    "lat": 37.569167,
+    "lng": -121.863889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0402098"
+  },
+  "msha": [
+    {
+      "mine_id": "0402098",
+      "name": "DeSilva Gates Aggregates",
+      "operator": "DeSilva Gates Construction LLC",
+      "status": "Active",
+      "status_since": "1972-09-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

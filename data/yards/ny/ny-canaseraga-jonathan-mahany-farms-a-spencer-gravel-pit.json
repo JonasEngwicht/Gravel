@@ -1,0 +1,41 @@
+{
+  "id": "ny-canaseraga-jonathan-mahany-farms-a-spencer-gravel-pit",
+  "slug": "jonathan-mahany-farms-a-spencer-gravel-pit",
+  "name": "Jonathan Mahany Farms – A. Spencer Gravel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Canaseraga",
+    "state": "NY",
+    "zip": "14807"
+  },
+  "location": {
+    "lat": 42.4625,
+    "lng": -77.744167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004002"
+  },
+  "msha": [
+    {
+      "mine_id": "3004002",
+      "name": "A. Spencer Gravel Pit",
+      "operator": "Jonathan Mahany Farms",
+      "status": "Intermittent",
+      "status_since": "2022-04-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

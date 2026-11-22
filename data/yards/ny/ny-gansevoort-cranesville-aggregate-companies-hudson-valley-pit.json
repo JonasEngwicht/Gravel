@@ -1,0 +1,41 @@
+{
+  "id": "ny-gansevoort-cranesville-aggregate-companies-hudson-valley-pit",
+  "slug": "cranesville-aggregate-companies-hudson-valley-pit",
+  "name": "Cranesville Aggregate Companies – Hudson Valley Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gansevoort",
+    "state": "NY",
+    "zip": "12831"
+  },
+  "location": {
+    "lat": 43.226111,
+    "lng": -73.703056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000897"
+  },
+  "msha": [
+    {
+      "mine_id": "3000897",
+      "name": "Hudson Valley Pit",
+      "operator": "Cranesville Aggregate Companies Inc",
+      "status": "Active",
+      "status_since": "2024-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

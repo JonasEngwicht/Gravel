@@ -1,0 +1,41 @@
+{
+  "id": "ny-slate-hill-e-tetz-and-sons-slate-hill-sand-and-gravel",
+  "slug": "e-tetz-and-sons-slate-hill-sand-and-gravel",
+  "name": "E. Tetz & Sons – Slate Hill Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Slate Hill",
+    "state": "NY",
+    "zip": "10973"
+  },
+  "location": {
+    "lat": 41.402222,
+    "lng": -74.454167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000930"
+  },
+  "msha": [
+    {
+      "mine_id": "3000930",
+      "name": "Slate Hill Sand & Gravel",
+      "operator": "E. Tetz & Sons LLC",
+      "status": "Active",
+      "status_since": "1982-12-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

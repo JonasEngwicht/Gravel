@@ -1,0 +1,41 @@
+{
+  "id": "nc-linden-american-materials-company-linden-plant",
+  "slug": "american-materials-company-linden-plant",
+  "name": "American Materials Company – Linden Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Linden",
+    "state": "NC",
+    "zip": "28356"
+  },
+  "location": {
+    "lat": 35.207222,
+    "lng": -78.761111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102289"
+  },
+  "msha": [
+    {
+      "mine_id": "3102289",
+      "name": "Linden Plant",
+      "operator": "American Materials Company, LLC",
+      "status": "Active",
+      "status_since": "2014-03-06",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

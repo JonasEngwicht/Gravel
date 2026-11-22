@@ -1,0 +1,41 @@
+{
+  "id": "mi-clifford-g-borek-excavating-snover-road-pit",
+  "slug": "g-borek-excavating-snover-road-pit",
+  "name": "G. Borek Excavating – Snover Road Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Clifford",
+    "state": "MI",
+    "zip": "48760"
+  },
+  "location": {
+    "lat": 43.353889,
+    "lng": -83.226389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003536"
+  },
+  "msha": [
+    {
+      "mine_id": "2003536",
+      "name": "Snover Road Pit",
+      "operator": "G. Borek Excavating LLC",
+      "status": "Intermittent",
+      "status_since": "2022-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

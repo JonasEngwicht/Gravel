@@ -1,0 +1,41 @@
+{
+  "id": "or-prineville-groves-holdings-gb-resources-llc",
+  "slug": "groves-holdings-gb-resources-llc",
+  "name": "Groves Holdings – GB Resources LLC",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Prineville",
+    "state": "OR",
+    "zip": "97753"
+  },
+  "location": {
+    "lat": 44.335,
+    "lng": -120.893333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503565"
+  },
+  "msha": [
+    {
+      "mine_id": "3503565",
+      "name": "GB Resources LLC",
+      "operator": "Groves Holdings LLC",
+      "status": "Active",
+      "status_since": "2019-08-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

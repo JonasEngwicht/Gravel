@@ -1,0 +1,41 @@
+{
+  "id": "mo-salem-smith-sand-and-gravel-salem",
+  "slug": "smith-sand-and-gravel-salem",
+  "name": "Smith Sand and Gravel Salem",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Salem",
+    "state": "MO",
+    "zip": "65560"
+  },
+  "location": {
+    "lat": 37.638611,
+    "lng": -91.563333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302589"
+  },
+  "msha": [
+    {
+      "mine_id": "2302589",
+      "name": "Smith Sand and Gravel Salem",
+      "operator": "Smith Sand and Gravel",
+      "status": "Active",
+      "status_since": "2024-08-13",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

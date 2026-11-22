@@ -1,0 +1,41 @@
+{
+  "id": "az-glendale-salt-river-sand-and-rock-glendale-plant",
+  "slug": "salt-river-sand-and-rock-glendale-plant",
+  "name": "Salt River Sand & Rock – Glendale Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Glendale",
+    "state": "AZ",
+    "zip": "85363"
+  },
+  "location": {
+    "lat": 33.5925,
+    "lng": -112.310833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203331"
+  },
+  "msha": [
+    {
+      "mine_id": "0203331",
+      "name": "Glendale Plant",
+      "operator": "Salt River Sand & Rock",
+      "status": "Active",
+      "status_since": "2016-12-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

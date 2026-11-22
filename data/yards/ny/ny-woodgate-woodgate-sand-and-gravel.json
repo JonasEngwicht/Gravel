@@ -1,0 +1,41 @@
+{
+  "id": "ny-woodgate-woodgate-sand-and-gravel",
+  "slug": "woodgate-sand-and-gravel",
+  "name": "Woodgate Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Woodgate",
+    "state": "NY",
+    "zip": "13494"
+  },
+  "location": {
+    "lat": 43.516389,
+    "lng": -75.153889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003907"
+  },
+  "msha": [
+    {
+      "mine_id": "3003907",
+      "name": "Woodgate Sand & Gravel",
+      "operator": "Woodgate Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2014-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ks-mulvane-aggregate-sand-and-gravel",
+  "slug": "aggregate-sand-and-gravel",
+  "name": "Aggregate Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mulvane",
+    "state": "KS",
+    "zip": "67120"
+  },
+  "location": {
+    "lat": 37.496667,
+    "lng": -97.315556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401333"
+  },
+  "msha": [
+    {
+      "mine_id": "1401333",
+      "name": "Aggregate Sand & Gravel Inc.",
+      "operator": "Aggregate Sand & Gravel Inc.",
+      "status": "Active",
+      "status_since": "2026-04-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

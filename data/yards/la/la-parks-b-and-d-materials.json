@@ -1,0 +1,41 @@
+{
+  "id": "la-parks-b-and-d-materials",
+  "slug": "b-and-d-materials",
+  "name": "B & D Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Parks",
+    "state": "LA",
+    "zip": "70582"
+  },
+  "location": {
+    "lat": 30.212778,
+    "lng": -91.832222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1600865"
+  },
+  "msha": [
+    {
+      "mine_id": "1600865",
+      "name": "B & D Sand Pit",
+      "operator": "B & D Materials, LLC",
+      "status": "Active",
+      "status_since": "1983-07-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

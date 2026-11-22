@@ -1,0 +1,41 @@
+{
+  "id": "vt-wolcott-gravel-construction-co-powerscreen-chieftain-2100",
+  "slug": "gravel-construction-co-powerscreen-chieftain-2100",
+  "name": "Gravel Construction Co – Powerscreen Chieftain 2100",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Wolcott",
+    "state": "VT",
+    "zip": "05680"
+  },
+  "location": {
+    "lat": 44.553056,
+    "lng": -72.475556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300767"
+  },
+  "msha": [
+    {
+      "mine_id": "4300767",
+      "name": "Powerscreen Chieftain 2100",
+      "operator": "Gravel Construction Co. Inc.",
+      "status": "Intermittent",
+      "status_since": "2015-06-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

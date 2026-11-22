@@ -1,0 +1,41 @@
+{
+  "id": "ny-gloversville-tj-putman-enterprises",
+  "slug": "tj-putman-enterprises",
+  "name": "Tj Putman Enterprises",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gloversville",
+    "state": "NY",
+    "zip": "12070"
+  },
+  "location": {
+    "lat": 43.058889,
+    "lng": -74.235833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003697"
+  },
+  "msha": [
+    {
+      "mine_id": "3003697",
+      "name": "Tj Putman Enterprises",
+      "operator": "Tj Putman Enterprises",
+      "status": "Intermittent",
+      "status_since": "2017-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

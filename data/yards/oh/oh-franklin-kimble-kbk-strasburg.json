@@ -1,0 +1,41 @@
+{
+  "id": "oh-franklin-kimble-kbk-strasburg",
+  "slug": "kimble-kbk-strasburg",
+  "name": "Kimble – KBK Strasburg",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Franklin",
+    "state": "OH",
+    "zip": "44680"
+  },
+  "location": {
+    "lat": 40.592778,
+    "lng": -81.508611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304824"
+  },
+  "msha": [
+    {
+      "mine_id": "3304824",
+      "name": "KBK Strasburg",
+      "operator": "Kimble Company",
+      "status": "Active",
+      "status_since": "2026-11-02",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

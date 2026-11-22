@@ -1,0 +1,41 @@
+{
+  "id": "ne-ashland-western-sand-and-gravel-wann-plant",
+  "slug": "western-sand-and-gravel-wann-plant",
+  "name": "Western Sand & Gravel – Wann Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ashland",
+    "state": "NE",
+    "zip": "68434"
+  },
+  "location": {
+    "lat": 40.926111,
+    "lng": -97.09
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2501291"
+  },
+  "msha": [
+    {
+      "mine_id": "2501291",
+      "name": "Wann Plant",
+      "operator": "Western Sand & Gravel Company",
+      "status": "Active",
+      "status_since": "2016-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

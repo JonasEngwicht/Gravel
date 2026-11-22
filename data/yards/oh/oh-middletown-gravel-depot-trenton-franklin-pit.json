@@ -1,0 +1,41 @@
+{
+  "id": "oh-middletown-gravel-depot-trenton-franklin-pit",
+  "slug": "gravel-depot-trenton-franklin-pit",
+  "name": "Gravel Depot – Trenton Franklin Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Middletown",
+    "state": "OH",
+    "zip": "45321"
+  },
+  "location": {
+    "lat": 39.893889,
+    "lng": -84.690556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304826"
+  },
+  "msha": [
+    {
+      "mine_id": "3304826",
+      "name": "Trenton Franklin Pit",
+      "operator": "Gravel Depot, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-09-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

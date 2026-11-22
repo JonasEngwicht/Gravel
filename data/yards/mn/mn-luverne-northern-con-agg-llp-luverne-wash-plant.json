@@ -1,0 +1,41 @@
+{
+  "id": "mn-luverne-northern-con-agg-llp-luverne-wash-plant",
+  "slug": "northern-con-agg-llp-luverne-wash-plant",
+  "name": "Northern Con-Agg, LLP – Luverne Wash Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Luverne",
+    "state": "MN",
+    "zip": "56156"
+  },
+  "location": {
+    "lat": 43.654167,
+    "lng": -96.212778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2101320"
+  },
+  "msha": [
+    {
+      "mine_id": "2101320",
+      "name": "Luverne Wash Plant",
+      "operator": "Northern Con-Agg, LLP",
+      "status": "Intermittent",
+      "status_since": "2025-12-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

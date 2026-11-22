@@ -1,0 +1,41 @@
+{
+  "id": "mi-middleville-wash-plant-1",
+  "slug": "wash-plant-1",
+  "name": "Wash Plant #1",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Middleville",
+    "state": "MI",
+    "zip": "49055"
+  },
+  "location": {
+    "lat": 42.407778,
+    "lng": -85.791111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003687"
+  },
+  "msha": [
+    {
+      "mine_id": "2003687",
+      "name": "Wash Plant #1",
+      "operator": "C2 Aggregates, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-07-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

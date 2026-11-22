@@ -1,0 +1,41 @@
+{
+  "id": "ky-henderson-audubon-sand-and-gravel",
+  "slug": "audubon-sand-and-gravel",
+  "name": "Audubon Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Henderson",
+    "state": "KY",
+    "zip": "47713"
+  },
+  "location": {
+    "lat": 37.8825,
+    "lng": -87.570833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1519887"
+  },
+  "msha": [
+    {
+      "mine_id": "1519887",
+      "name": "Audubon Sand & Gravel",
+      "operator": "Audubon Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2021-08-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

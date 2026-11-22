@@ -1,0 +1,41 @@
+{
+  "id": "nh-barnstead-william-p-angelini-jr",
+  "slug": "william-p-angelini-jr",
+  "name": "William P. Angelini Jr",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Barnstead",
+    "state": "NH",
+    "zip": "03218"
+  },
+  "location": {
+    "lat": 43.32,
+    "lng": -71.225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700391"
+  },
+  "msha": [
+    {
+      "mine_id": "2700391",
+      "name": "W. Angelini Llc",
+      "operator": "William P. Angelini Jr.",
+      "status": "Active",
+      "status_since": "2022-05-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

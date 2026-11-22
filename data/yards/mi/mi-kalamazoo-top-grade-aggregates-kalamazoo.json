@@ -1,0 +1,41 @@
+{
+  "id": "mi-kalamazoo-top-grade-aggregates-kalamazoo",
+  "slug": "top-grade-aggregates-kalamazoo",
+  "name": "Top Grade Aggregates – Kalamazoo",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49074"
+  },
+  "location": {
+    "lat": 42.301944,
+    "lng": -85.535833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2000696"
+  },
+  "msha": [
+    {
+      "mine_id": "2000696",
+      "name": "Kalamazoo",
+      "operator": "Top Grade Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2014-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

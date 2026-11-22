@@ -1,0 +1,41 @@
+{
+  "id": "az-wilcox-texas-canyon-rock-and-sand",
+  "slug": "texas-canyon-rock-and-sand",
+  "name": "Texas Canyon Rock & Sand",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Wilcox",
+    "state": "AZ",
+    "zip": "85609"
+  },
+  "location": {
+    "lat": 32.099444,
+    "lng": -110.058333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202531"
+  },
+  "msha": [
+    {
+      "mine_id": "0202531",
+      "name": "Texas Canyon Rock & Sand",
+      "operator": "Texas Canyon Rock & Sand",
+      "status": "Active",
+      "status_since": "2017-10-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

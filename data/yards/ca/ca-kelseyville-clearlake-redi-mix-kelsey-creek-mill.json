@@ -1,0 +1,41 @@
+{
+  "id": "ca-kelseyville-clearlake-redi-mix-kelsey-creek-mill",
+  "slug": "clearlake-redi-mix-kelsey-creek-mill",
+  "name": "Clearlake Redi Mix – Kelsey Creek Mill",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Kelseyville",
+    "state": "CA",
+    "zip": "95435"
+  },
+  "location": {
+    "lat": 38.998611,
+    "lng": -122.848889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401728"
+  },
+  "msha": [
+    {
+      "mine_id": "0401728",
+      "name": "Kelsey Creek Mill",
+      "operator": "Clearlake Redi Mix Inc",
+      "status": "Intermittent",
+      "status_since": "2006-12-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

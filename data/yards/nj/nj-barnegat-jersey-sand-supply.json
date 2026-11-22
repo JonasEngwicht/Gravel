@@ -1,0 +1,41 @@
+{
+  "id": "nj-barnegat-jersey-sand-supply",
+  "slug": "jersey-sand-supply",
+  "name": "Jersey Sand Supply",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Barnegat",
+    "state": "NJ",
+    "zip": "08005"
+  },
+  "location": {
+    "lat": 39.793333,
+    "lng": -74.368056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800944"
+  },
+  "msha": [
+    {
+      "mine_id": "2800944",
+      "name": "Jersey Sand Supply, Llc",
+      "operator": "Jersey Sand Supply, LLC",
+      "status": "Active",
+      "status_since": "2024-12-09",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-stanton-moriah-tfs-ops-llc-dba-thompson-mtls-double-t",
+  "slug": "moriah-tfs-ops-llc-dba-thompson-mtls-double-t",
+  "name": "MORIAH TFS OPS LLC dba Thompson Mtls – Double T",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Stanton",
+    "state": "TX",
+    "zip": "79782"
+  },
+  "location": {
+    "lat": 32.093333,
+    "lng": -101.843333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105711"
+  },
+  "msha": [
+    {
+      "mine_id": "4105711",
+      "name": "Double T",
+      "operator": "MORIAH TFS OPS LLC dba Thompson Mtls",
+      "status": "Intermittent",
+      "status_since": "2025-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

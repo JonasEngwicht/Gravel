@@ -1,0 +1,41 @@
+{
+  "id": "ms-carriere-south-gate-aggregates",
+  "slug": "south-gate-aggregates",
+  "name": "South Gate Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Carriere",
+    "state": "MS",
+    "zip": "70452"
+  },
+  "location": {
+    "lat": 30.418611,
+    "lng": -89.672778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200709"
+  },
+  "msha": [
+    {
+      "mine_id": "2200709",
+      "name": "South Gate Aggregates",
+      "operator": "South Gate Aggregates",
+      "status": "Active",
+      "status_since": "1999-04-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

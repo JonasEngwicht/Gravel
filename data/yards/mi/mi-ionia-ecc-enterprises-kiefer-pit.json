@@ -1,0 +1,41 @@
+{
+  "id": "mi-ionia-ecc-enterprises-kiefer-pit",
+  "slug": "ecc-enterprises-kiefer-pit",
+  "name": "ECC Enterprises – Kiefer Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ionia",
+    "state": "MI",
+    "zip": "48846"
+  },
+  "location": {
+    "lat": 43.019444,
+    "lng": -85.0125
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003439"
+  },
+  "msha": [
+    {
+      "mine_id": "2003439",
+      "name": "Kiefer Pit",
+      "operator": "ECC Enterprises, LLC",
+      "status": "Active",
+      "status_since": "2020-09-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

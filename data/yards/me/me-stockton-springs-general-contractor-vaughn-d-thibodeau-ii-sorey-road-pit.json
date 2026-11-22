@@ -1,0 +1,41 @@
+{
+  "id": "me-stockton-springs-general-contractor-vaughn-d-thibodeau-ii-sorey-road-pit",
+  "slug": "general-contractor-vaughn-d-thibodeau-ii-sorey-road-pit",
+  "name": "General Contractor Vaughn D. Thibodeau II – Sorey Road Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Stockton Springs",
+    "state": "ME",
+    "zip": "04981"
+  },
+  "location": {
+    "lat": 44.531667,
+    "lng": -68.851667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701176"
+  },
+  "msha": [
+    {
+      "mine_id": "1701176",
+      "name": "Sorey Road Pit",
+      "operator": "General Contractor Vaughn D. Thibodeau II Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-04-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

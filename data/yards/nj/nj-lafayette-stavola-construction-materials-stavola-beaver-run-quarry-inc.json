@@ -1,0 +1,41 @@
+{
+  "id": "nj-lafayette-stavola-construction-materials-stavola-beaver-run-quarry-inc",
+  "slug": "stavola-construction-materials-stavola-beaver-run-quarry-inc",
+  "name": "Stavola Construction Materials – Stavola Beaver Run Quarry,Inc.",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lafayette",
+    "state": "NJ",
+    "zip": "07848"
+  },
+  "location": {
+    "lat": 41.130278,
+    "lng": -74.661667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800756"
+  },
+  "msha": [
+    {
+      "mine_id": "2800756",
+      "name": "Stavola Beaver Run Quarry,Inc.",
+      "operator": "Stavola Construction Materials, Inc",
+      "status": "Active",
+      "status_since": "2012-10-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

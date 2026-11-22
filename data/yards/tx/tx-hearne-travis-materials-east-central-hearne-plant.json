@@ -1,0 +1,41 @@
+{
+  "id": "tx-hearne-travis-materials-east-central-hearne-plant",
+  "slug": "travis-materials-east-central-hearne-plant",
+  "name": "Travis Materials East Central – Hearne Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hearne",
+    "state": "TX",
+    "zip": "76519"
+  },
+  "location": {
+    "lat": 30.991667,
+    "lng": -96.993611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105738"
+  },
+  "msha": [
+    {
+      "mine_id": "4105738",
+      "name": "Hearne Plant",
+      "operator": "Travis Materials East Central Ltd",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mi-sault-ste-marie-northern-sand-and-gravel-wash-plant",
+  "slug": "northern-sand-and-gravel-wash-plant",
+  "name": "Northern Sand & Gravel – Wash Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sault Ste. Marie",
+    "state": "MI",
+    "zip": "49783"
+  },
+  "location": {
+    "lat": 46.463611,
+    "lng": -84.392222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2001067"
+  },
+  "msha": [
+    {
+      "mine_id": "2001067",
+      "name": "Wash Plant",
+      "operator": "Northern Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "1988-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ne-mccook-mccook-concrete-perry-pit",
+  "slug": "mccook-concrete-perry-pit",
+  "name": "McCook Concrete – Perry Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "McCook",
+    "state": "NE",
+    "zip": "69001"
+  },
+  "location": {
+    "lat": 40.201944,
+    "lng": -100.7225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2501329"
+  },
+  "msha": [
+    {
+      "mine_id": "2501329",
+      "name": "Perry Pit",
+      "operator": "McCook Concrete Inc",
+      "status": "Intermittent",
+      "status_since": "2025-02-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

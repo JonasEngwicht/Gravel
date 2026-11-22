@@ -1,0 +1,41 @@
+{
+  "id": "tx-santo-wise-a-materials-brannon-quarry",
+  "slug": "wise-a-materials-brannon-quarry",
+  "name": "Wise A Materials – Brannon Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Santo",
+    "state": "TX",
+    "zip": "76472"
+  },
+  "location": {
+    "lat": 32.6309,
+    "lng": -98.1695
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105702"
+  },
+  "msha": [
+    {
+      "mine_id": "4105702",
+      "name": "Brannon Quarry",
+      "operator": "Wise A Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2025-03-25",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

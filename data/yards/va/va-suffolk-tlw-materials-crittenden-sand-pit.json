@@ -1,0 +1,41 @@
+{
+  "id": "va-suffolk-tlw-materials-crittenden-sand-pit",
+  "slug": "tlw-materials-crittenden-sand-pit",
+  "name": "TLW Materials – Crittenden Sand Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Suffolk",
+    "state": "VA",
+    "zip": "23436"
+  },
+  "location": {
+    "lat": 36.881389,
+    "lng": -76.523611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4407333"
+  },
+  "msha": [
+    {
+      "mine_id": "4407333",
+      "name": "Crittenden Sand Pit",
+      "operator": "TLW Materials, LLC",
+      "status": "Active",
+      "status_since": "2017-10-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

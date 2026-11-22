@@ -1,0 +1,41 @@
+{
+  "id": "co-rifle-central-aggregates-west-rifle-pit",
+  "slug": "central-aggregates-west-rifle-pit",
+  "name": "Central Aggregates – West Rifle Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rifle",
+    "state": "CO",
+    "zip": "81652"
+  },
+  "location": {
+    "lat": 39.5275,
+    "lng": -107.796944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0504658"
+  },
+  "msha": [
+    {
+      "mine_id": "0504658",
+      "name": "West Rifle Pit",
+      "operator": "Central Aggregates, Inc.",
+      "status": "Active",
+      "status_since": "2025-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

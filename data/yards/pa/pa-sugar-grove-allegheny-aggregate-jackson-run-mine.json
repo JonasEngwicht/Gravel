@@ -1,0 +1,41 @@
+{
+  "id": "pa-sugar-grove-allegheny-aggregate-jackson-run-mine",
+  "slug": "allegheny-aggregate-jackson-run-mine",
+  "name": "Allegheny Aggregate – Jackson Run Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sugar Grove",
+    "state": "PA",
+    "zip": "16329"
+  },
+  "location": {
+    "lat": 41.903333,
+    "lng": -79.235556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3610474"
+  },
+  "msha": [
+    {
+      "mine_id": "3610474",
+      "name": "Jackson Run Mine",
+      "operator": "Allegheny Aggregate Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-07-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

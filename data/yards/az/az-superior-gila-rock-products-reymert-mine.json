@@ -1,0 +1,41 @@
+{
+  "id": "az-superior-gila-rock-products-reymert-mine",
+  "slug": "gila-rock-products-reymert-mine",
+  "name": "Gila Rock Products – Reymert Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Superior",
+    "state": "AZ",
+    "zip": "85173"
+  },
+  "location": {
+    "lat": 33.273056,
+    "lng": -111.212222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202977"
+  },
+  "msha": [
+    {
+      "mine_id": "0202977",
+      "name": "Reymert Mine",
+      "operator": "Gila Rock Products, LLC",
+      "status": "Active",
+      "status_since": "2026-03-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

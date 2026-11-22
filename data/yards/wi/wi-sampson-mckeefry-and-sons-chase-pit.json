@@ -1,0 +1,41 @@
+{
+  "id": "wi-sampson-mckeefry-and-sons-chase-pit",
+  "slug": "mckeefry-and-sons-chase-pit",
+  "name": "McKeefry & Sons - Chase Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sampson",
+    "state": "WI",
+    "zip": "54137"
+  },
+  "location": {
+    "lat": 44.752778,
+    "lng": -88.186111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703364"
+  },
+  "msha": [
+    {
+      "mine_id": "4703364",
+      "name": "McKeefry & Sons - Chase Pit",
+      "operator": "McKeefry & Sons, Inc.",
+      "status": "Intermittent",
+      "status_since": "2024-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

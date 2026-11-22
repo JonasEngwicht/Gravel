@@ -1,0 +1,41 @@
+{
+  "id": "tx-san-antonio-madden-materials-vision-topsoil-pit",
+  "slug": "madden-materials-vision-topsoil-pit",
+  "name": "Madden Materials Vision Topsoil Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78224"
+  },
+  "location": {
+    "lat": 29.288056,
+    "lng": -98.559167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105624"
+  },
+  "msha": [
+    {
+      "mine_id": "4105624",
+      "name": "Madden Materials Vision Topsoil Pit",
+      "operator": "Madden Materials",
+      "status": "Active",
+      "status_since": "2025-12-03",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

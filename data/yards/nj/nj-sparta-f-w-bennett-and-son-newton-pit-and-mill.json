@@ -1,0 +1,41 @@
+{
+  "id": "nj-sparta-f-w-bennett-and-son-newton-pit-and-mill",
+  "slug": "f-w-bennett-and-son-newton-pit-and-mill",
+  "name": "F W Bennett & Son – Newton Pit & Mill",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sparta",
+    "state": "NJ",
+    "zip": "08733"
+  },
+  "location": {
+    "lat": 40.058333,
+    "lng": -74.405556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800502"
+  },
+  "msha": [
+    {
+      "mine_id": "2800502",
+      "name": "Newton Pit & Mill",
+      "operator": "F W Bennett & Son",
+      "status": "Intermittent",
+      "status_since": "1982-12-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

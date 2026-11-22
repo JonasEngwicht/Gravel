@@ -1,0 +1,41 @@
+{
+  "id": "az-pheonix-salt-river-sand-and-rock-67th-ave-plant",
+  "slug": "salt-river-sand-and-rock-67th-ave-plant",
+  "name": "Salt River Sand & Rock – 67th. Ave Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Pheonix",
+    "state": "AZ",
+    "zip": "85043"
+  },
+  "location": {
+    "lat": 33.392778,
+    "lng": -112.196667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203060"
+  },
+  "msha": [
+    {
+      "mine_id": "0203060",
+      "name": "67th. Ave Plant",
+      "operator": "Salt River Sand & Rock",
+      "status": "Active",
+      "status_since": "2005-12-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

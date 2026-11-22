@@ -1,0 +1,41 @@
+{
+  "id": "nh-barrington-p-and-s-sand-and-gravel",
+  "slug": "p-and-s-sand-and-gravel",
+  "name": "P & S Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Barrington",
+    "state": "NH",
+    "zip": "03825"
+  },
+  "location": {
+    "lat": 43.195556,
+    "lng": -70.997778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700266"
+  },
+  "msha": [
+    {
+      "mine_id": "2700266",
+      "name": "P&S Sand & Gravel",
+      "operator": "P & S Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "1987-03-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

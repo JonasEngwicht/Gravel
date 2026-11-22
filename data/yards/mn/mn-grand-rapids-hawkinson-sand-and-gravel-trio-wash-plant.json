@@ -1,0 +1,41 @@
+{
+  "id": "mn-grand-rapids-hawkinson-sand-and-gravel-trio-wash-plant",
+  "slug": "hawkinson-sand-and-gravel-trio-wash-plant",
+  "name": "Hawkinson Sand & Gravel – Trio Wash Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Grand Rapids",
+    "state": "MN",
+    "zip": "55722"
+  },
+  "location": {
+    "lat": 47.241944,
+    "lng": -93.448333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2100474"
+  },
+  "msha": [
+    {
+      "mine_id": "2100474",
+      "name": "Trio Wash Plant",
+      "operator": "Hawkinson Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2007-10-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

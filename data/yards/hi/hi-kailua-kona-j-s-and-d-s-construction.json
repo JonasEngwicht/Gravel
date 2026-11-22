@@ -1,0 +1,41 @@
+{
+  "id": "hi-kailua-kona-j-s-and-d-s-construction",
+  "slug": "j-s-and-d-s-construction",
+  "name": "J's and D's Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Kailua-Kona",
+    "state": "HI",
+    "zip": "96737"
+  },
+  "location": {
+    "lat": 19.139722,
+    "lng": -155.735
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5100313"
+  },
+  "msha": [
+    {
+      "mine_id": "5100313",
+      "name": "J's and D's Construction Quarry",
+      "operator": "J's and D's Construction",
+      "status": "Intermittent",
+      "status_since": "2016-02-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-shepherd-texas-concrete-sand-and-gravel-san-jac",
+  "slug": "texas-concrete-sand-and-gravel-san-jac",
+  "name": "Texas Concrete Sand and Gravel San Jac",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Shepherd",
+    "state": "TX",
+    "zip": "77371"
+  },
+  "location": {
+    "lat": 30.465556,
+    "lng": -94.94
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105822"
+  },
+  "msha": [
+    {
+      "mine_id": "4105822",
+      "name": "San Jac Plant",
+      "operator": "Texas Concrete Sand and Gravel San Jac, LLC",
+      "status": "Active",
+      "status_since": "2026-01-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

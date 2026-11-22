@@ -1,0 +1,41 @@
+{
+  "id": "tx-midland-energy-in-motion-us-boreland-mine",
+  "slug": "energy-in-motion-us-boreland-mine",
+  "name": "Energy In Motion US – Boreland Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79701"
+  },
+  "location": {
+    "lat": 31.991389,
+    "lng": -101.919722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105712"
+  },
+  "msha": [
+    {
+      "mine_id": "4105712",
+      "name": "Boreland Mine",
+      "operator": "Energy In Motion US LLC",
+      "status": "Active",
+      "status_since": "2025-10-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

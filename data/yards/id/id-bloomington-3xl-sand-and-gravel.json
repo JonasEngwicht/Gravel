@@ -1,0 +1,41 @@
+{
+  "id": "id-bloomington-3xl-sand-and-gravel",
+  "slug": "3xl-sand-and-gravel",
+  "name": "3XL Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bloomington",
+    "state": "ID",
+    "zip": "83223"
+  },
+  "location": {
+    "lat": 42.191944,
+    "lng": -111.401389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1002349"
+  },
+  "msha": [
+    {
+      "mine_id": "1002349",
+      "name": "3XL Sand & Gravel LLC",
+      "operator": "3XL Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2023-08-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

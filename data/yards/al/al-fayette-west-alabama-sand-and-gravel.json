@@ -1,0 +1,41 @@
+{
+  "id": "al-fayette-west-alabama-sand-and-gravel",
+  "slug": "west-alabama-sand-and-gravel",
+  "name": "West Alabama Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fayette",
+    "state": "AL",
+    "zip": "35555"
+  },
+  "location": {
+    "lat": 33.758333,
+    "lng": -87.790277
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0102738"
+  },
+  "msha": [
+    {
+      "mine_id": "0102738",
+      "name": "West Alabama Sand & Gravel",
+      "operator": "West Alabama Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "1987-08-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

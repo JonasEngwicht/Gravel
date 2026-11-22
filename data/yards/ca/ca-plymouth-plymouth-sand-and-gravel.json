@@ -1,0 +1,41 @@
+{
+  "id": "ca-plymouth-plymouth-sand-and-gravel",
+  "slug": "plymouth-sand-and-gravel",
+  "name": "Plymouth Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Plymouth",
+    "state": "CA",
+    "zip": "95699"
+  },
+  "location": {
+    "lat": 38.449722,
+    "lng": -120.898889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405163"
+  },
+  "msha": [
+    {
+      "mine_id": "0405163",
+      "name": "Plymouth Sand & Gravel",
+      "operator": "Plymouth Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2023-05-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

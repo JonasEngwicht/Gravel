@@ -1,0 +1,41 @@
+{
+  "id": "az-thatcher-mt-graham-materials",
+  "slug": "mt-graham-materials",
+  "name": "Mt Graham Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Thatcher",
+    "state": "AZ",
+    "zip": "85552"
+  },
+  "location": {
+    "lat": 32.8315,
+    "lng": -109.7565
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203472"
+  },
+  "msha": [
+    {
+      "mine_id": "0203472",
+      "name": "DC Pit",
+      "operator": "Mt Graham Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2023-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

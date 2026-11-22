@@ -1,0 +1,41 @@
+{
+  "id": "wi-eau-claire-milestone-materials-division-mathy-construction",
+  "slug": "milestone-materials-division-mathy-construction",
+  "name": "Milestone Materials Division Mathy Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54650"
+  },
+  "location": {
+    "lat": 43.8975,
+    "lng": -91.224167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703595"
+  },
+  "msha": [
+    {
+      "mine_id": "4703595",
+      "name": "Plant 78",
+      "operator": "Milestone Materials Division Mathy Construction Co",
+      "status": "Intermittent",
+      "status_since": "2010-09-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "la-franklinton-m-and-m-gravel",
+  "slug": "m-and-m-gravel",
+  "name": "M&M gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Franklinton",
+    "state": "LA",
+    "zip": "70450"
+  },
+  "location": {
+    "lat": 30.889167,
+    "lng": -90.191389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601605"
+  },
+  "msha": [
+    {
+      "mine_id": "1601605",
+      "name": "M&M gravel",
+      "operator": "M&M gravel",
+      "status": "Active",
+      "status_since": "2021-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "il-gorham-shawnee-sand-and-gravel",
+  "slug": "shawnee-sand-and-gravel",
+  "name": "Shawnee Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gorham",
+    "state": "IL",
+    "zip": "62940"
+  },
+  "location": {
+    "lat": 37.76,
+    "lng": -89.472778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102323"
+  },
+  "msha": [
+    {
+      "mine_id": "1102323",
+      "name": "Shawnee Sand & Gravel",
+      "operator": "Shawnee Sand & Gravel",
+      "status": "Active",
+      "status_since": "2009-11-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

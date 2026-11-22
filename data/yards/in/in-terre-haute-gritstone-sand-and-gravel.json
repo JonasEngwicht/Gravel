@@ -1,0 +1,41 @@
+{
+  "id": "in-terre-haute-gritstone-sand-and-gravel",
+  "slug": "gritstone-sand-and-gravel",
+  "name": "Gritstone Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Terre Haute",
+    "state": "IN",
+    "zip": "47807"
+  },
+  "location": {
+    "lat": 39.466667,
+    "lng": -87.388889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202519"
+  },
+  "msha": [
+    {
+      "mine_id": "1202519",
+      "name": "Gritstone Sand and Gravel",
+      "operator": "Gritstone Sand and Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-10-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

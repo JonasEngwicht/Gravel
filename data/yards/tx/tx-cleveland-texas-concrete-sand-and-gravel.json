@@ -1,0 +1,41 @@
+{
+  "id": "tx-cleveland-texas-concrete-sand-and-gravel",
+  "slug": "texas-concrete-sand-and-gravel",
+  "name": "Texas Concrete Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cleveland",
+    "state": "TX",
+    "zip": "77328"
+  },
+  "location": {
+    "lat": 30.365833,
+    "lng": -95.093889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104629"
+  },
+  "msha": [
+    {
+      "mine_id": "4104629",
+      "name": "Texas Concrete Sand and Gravel, Inc.",
+      "operator": "Texas Concrete Sand and Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2015-05-29",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

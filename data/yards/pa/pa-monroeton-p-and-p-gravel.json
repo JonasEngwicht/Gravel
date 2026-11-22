@@ -1,0 +1,41 @@
+{
+  "id": "pa-monroeton-p-and-p-gravel",
+  "slug": "p-and-p-gravel",
+  "name": "P & P Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Monroeton",
+    "state": "PA",
+    "zip": "18832"
+  },
+  "location": {
+    "lat": 41.687222,
+    "lng": -76.620556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609162"
+  },
+  "msha": [
+    {
+      "mine_id": "3609162",
+      "name": "P & P Gravel Co.",
+      "operator": "P & P Gravel Co.",
+      "status": "Intermittent",
+      "status_since": "2010-02-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "or-coquille-ron-s-oil-westbrook",
+  "slug": "ron-s-oil-westbrook",
+  "name": "Ron's Oil – Westbrook",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Coquille",
+    "state": "OR",
+    "zip": "97423"
+  },
+  "location": {
+    "lat": 43.155278,
+    "lng": -124.178333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503891"
+  },
+  "msha": [
+    {
+      "mine_id": "3503891",
+      "name": "Westbrook",
+      "operator": "Ron's Oil Company",
+      "status": "Active",
+      "status_since": "2023-01-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

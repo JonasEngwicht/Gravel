@@ -1,0 +1,41 @@
+{
+  "id": "ny-scotia-cranesville-aggregate-companies-van-buren-pit",
+  "slug": "cranesville-aggregate-companies-van-buren-pit",
+  "name": "Cranesville Aggregate Companies – Van Buren Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Scotia",
+    "state": "NY",
+    "zip": "12302"
+  },
+  "location": {
+    "lat": 42.8525,
+    "lng": -74.016111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002002"
+  },
+  "msha": [
+    {
+      "mine_id": "3002002",
+      "name": "Van Buren Pit",
+      "operator": "Cranesville Aggregate Companies Inc",
+      "status": "Intermittent",
+      "status_since": "2007-07-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

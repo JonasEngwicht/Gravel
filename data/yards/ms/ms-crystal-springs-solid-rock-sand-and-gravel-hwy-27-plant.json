@@ -1,0 +1,41 @@
+{
+  "id": "ms-crystal-springs-solid-rock-sand-and-gravel-hwy-27-plant",
+  "slug": "solid-rock-sand-and-gravel-hwy-27-plant",
+  "name": "Solid Rock Sand And Gravel – Hwy 27 Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Crystal Springs",
+    "state": "MS",
+    "zip": "39059"
+  },
+  "location": {
+    "lat": 31.997778,
+    "lng": -90.318611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200846"
+  },
+  "msha": [
+    {
+      "mine_id": "2200846",
+      "name": "Hwy 27 Plant",
+      "operator": "Solid Rock Sand And Gravel",
+      "status": "Active",
+      "status_since": "2024-02-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

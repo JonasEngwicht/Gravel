@@ -1,0 +1,41 @@
+{
+  "id": "wi-millard-super-aggregates-sugar-creek",
+  "slug": "super-aggregates-sugar-creek",
+  "name": "Super Aggregates – Sugar Creek",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Millard",
+    "state": "WI",
+    "zip": "53121"
+  },
+  "location": {
+    "lat": 42.735,
+    "lng": -88.614444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703954"
+  },
+  "msha": [
+    {
+      "mine_id": "4703954",
+      "name": "Sugar Creek",
+      "operator": "Super Aggregates Inc.",
+      "status": "Intermittent",
+      "status_since": "2024-04-04",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nh-colebrook-rodrigue-s-gravel-and-excavation",
+  "slug": "rodrigue-s-gravel-and-excavation",
+  "name": "Rodrigue's Gravel and Excavation",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Colebrook",
+    "state": "NH",
+    "zip": "03576"
+  },
+  "location": {
+    "lat": 44.871111,
+    "lng": -71.380833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700492"
+  },
+  "msha": [
+    {
+      "mine_id": "2700492",
+      "name": "Rodrigue's Gravel and Excavation Inc.",
+      "operator": "Rodrigue's Gravel and Excavation Inc",
+      "status": "Intermittent",
+      "status_since": "2015-08-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

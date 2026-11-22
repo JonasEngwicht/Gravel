@@ -1,0 +1,41 @@
+{
+  "id": "ne-morse-bluff-bluff-aggregate",
+  "slug": "bluff-aggregate",
+  "name": "Bluff Aggregate",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Morse Bluff",
+    "state": "NE",
+    "zip": "68648"
+  },
+  "location": {
+    "lat": 41.419722,
+    "lng": -96.813611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2500949"
+  },
+  "msha": [
+    {
+      "mine_id": "2500949",
+      "name": "Bluff Aggregate LLC",
+      "operator": "Bluff Aggregate LLC",
+      "status": "Intermittent",
+      "status_since": "2025-07-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

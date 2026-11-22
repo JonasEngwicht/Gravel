@@ -1,0 +1,41 @@
+{
+  "id": "ca-ione-usmc-ione-plant",
+  "slug": "usmc-ione-plant",
+  "name": "USMC Ione Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ione",
+    "state": "CA",
+    "zip": "95640"
+  },
+  "location": {
+    "lat": 38.334167,
+    "lng": -120.946389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401878"
+  },
+  "msha": [
+    {
+      "mine_id": "0401878",
+      "name": "USMC Ione Plant",
+      "operator": "US Mine Corp",
+      "status": "Active",
+      "status_since": "2016-11-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 50
+    }
+  ]
+}

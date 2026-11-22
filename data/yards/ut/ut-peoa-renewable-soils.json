@@ -1,0 +1,41 @@
+{
+  "id": "ut-peoa-renewable-soils",
+  "slug": "renewable-soils",
+  "name": "Renewable Soils",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Peoa",
+    "state": "UT",
+    "zip": "84061"
+  },
+  "location": {
+    "lat": 40.721389,
+    "lng": -111.415556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202779"
+  },
+  "msha": [
+    {
+      "mine_id": "4202779",
+      "name": "Renewable Soils",
+      "operator": "Renewable Soils LLC",
+      "status": "Intermittent",
+      "status_since": "2026-06-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "me-houlton-fkm-construction-taylor-pit",
+  "slug": "fkm-construction-taylor-pit",
+  "name": "FKM Construction – Taylor Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Houlton",
+    "state": "ME",
+    "zip": "04730"
+  },
+  "location": {
+    "lat": 46.151667,
+    "lng": -67.875833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701124"
+  },
+  "msha": [
+    {
+      "mine_id": "1701124",
+      "name": "Taylor Pit",
+      "operator": "FKM Construction LLC",
+      "status": "Intermittent",
+      "status_since": "2024-06-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

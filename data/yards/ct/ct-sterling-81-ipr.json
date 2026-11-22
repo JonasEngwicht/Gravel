@@ -1,0 +1,41 @@
+{
+  "id": "ct-sterling-81-ipr",
+  "slug": "81-ipr",
+  "name": "81 Ipr",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sterling",
+    "state": "CT",
+    "zip": "06354"
+  },
+  "location": {
+    "lat": 41.710278,
+    "lng": -71.83
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600841"
+  },
+  "msha": [
+    {
+      "mine_id": "0600841",
+      "name": "81 Ipr",
+      "operator": "81 Ipr Llc",
+      "status": "Active",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

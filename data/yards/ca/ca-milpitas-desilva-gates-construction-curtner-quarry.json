@@ -1,0 +1,41 @@
+{
+  "id": "ca-milpitas-desilva-gates-construction-curtner-quarry",
+  "slug": "desilva-gates-construction-curtner-quarry",
+  "name": "DeSilva Gates Construction – Curtner Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Milpitas",
+    "state": "CA",
+    "zip": "95035"
+  },
+  "location": {
+    "lat": 37.467778,
+    "lng": -121.89
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405337"
+  },
+  "msha": [
+    {
+      "mine_id": "0405337",
+      "name": "Curtner Quarry",
+      "operator": "DeSilva Gates Construction, LLC",
+      "status": "Intermittent",
+      "status_since": "2022-05-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

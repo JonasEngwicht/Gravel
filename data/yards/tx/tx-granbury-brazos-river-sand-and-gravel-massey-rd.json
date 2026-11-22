@@ -1,0 +1,41 @@
+{
+  "id": "tx-granbury-brazos-river-sand-and-gravel-massey-rd",
+  "slug": "brazos-river-sand-and-gravel-massey-rd",
+  "name": "Brazos River Sand and Gravel – Massey Rd",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Granbury",
+    "state": "TX",
+    "zip": "76044"
+  },
+  "location": {
+    "lat": 32.381111,
+    "lng": -97.635
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105817"
+  },
+  "msha": [
+    {
+      "mine_id": "4105817",
+      "name": "Massey Rd",
+      "operator": "Brazos River Sand and Gravel",
+      "status": "Intermittent",
+      "status_since": "2025-08-19",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

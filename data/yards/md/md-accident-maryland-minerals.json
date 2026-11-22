@@ -1,0 +1,41 @@
+{
+  "id": "md-accident-maryland-minerals",
+  "slug": "maryland-minerals",
+  "name": "Maryland Minerals",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Accident",
+    "state": "MD",
+    "zip": "21541"
+  },
+  "location": {
+    "lat": 39.581944,
+    "lng": -79.387222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1800348"
+  },
+  "msha": [
+    {
+      "mine_id": "1800348",
+      "name": "Maryland Minerals",
+      "operator": "Maryland Minerals Inc",
+      "status": "Active",
+      "status_since": "2026-03-30",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

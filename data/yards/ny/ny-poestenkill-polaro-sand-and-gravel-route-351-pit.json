@@ -1,0 +1,41 @@
+{
+  "id": "ny-poestenkill-polaro-sand-and-gravel-route-351-pit",
+  "slug": "polaro-sand-and-gravel-route-351-pit",
+  "name": "Polaro Sand & Gravel – Route 351 Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Poestenkill",
+    "state": "NY",
+    "zip": "12140"
+  },
+  "location": {
+    "lat": 42.678056,
+    "lng": -73.569722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004107"
+  },
+  "msha": [
+    {
+      "mine_id": "3004107",
+      "name": "Route 351 Pit",
+      "operator": "Polaro Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "2022-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

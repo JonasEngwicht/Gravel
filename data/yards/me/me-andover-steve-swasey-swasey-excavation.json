@@ -1,0 +1,41 @@
+{
+  "id": "me-andover-steve-swasey-swasey-excavation",
+  "slug": "steve-swasey-swasey-excavation",
+  "name": "Steve Swasey – Swasey Excavation",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Andover",
+    "state": "ME",
+    "zip": "04226"
+  },
+  "location": {
+    "lat": 44.589722,
+    "lng": -70.736389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700943"
+  },
+  "msha": [
+    {
+      "mine_id": "1700943",
+      "name": "Swasey Excavation",
+      "operator": "Steve Swasey, Inc.",
+      "status": "Intermittent",
+      "status_since": "2014-07-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

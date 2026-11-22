@@ -1,0 +1,41 @@
+{
+  "id": "in-merom-blann-and-son-l-l-c-ii",
+  "slug": "blann-and-son-l-l-c-ii",
+  "name": "Blann & Son L.L.C. Ii",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Merom",
+    "state": "IN",
+    "zip": "62451"
+  },
+  "location": {
+    "lat": 38.985833,
+    "lng": -87.513889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200760"
+  },
+  "msha": [
+    {
+      "mine_id": "1200760",
+      "name": "Blann & Son Sand & Gravel",
+      "operator": "Blann & Son L.L.C. Ii",
+      "status": "Intermittent",
+      "status_since": "2016-02-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

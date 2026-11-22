@@ -1,0 +1,41 @@
+{
+  "id": "la-greensburg-ray-home-builders-dba-magnolia-sgs",
+  "slug": "ray-home-builders-dba-magnolia-sgs",
+  "name": "Ray Home Builders, Dba Magnolia Sgs",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Greensburg",
+    "state": "LA",
+    "zip": "70786"
+  },
+  "location": {
+    "lat": 30.550833,
+    "lng": -90.968611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601337"
+  },
+  "msha": [
+    {
+      "mine_id": "1601337",
+      "name": "Ray Home Builders, Dba Magnolia Sgs",
+      "operator": "Magnolia Sgs",
+      "status": "Intermittent",
+      "status_since": "2024-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-steamburg-jamestown-macadam-corbett-hill-gravel-products",
+  "slug": "jamestown-macadam-corbett-hill-gravel-products",
+  "name": "Jamestown Macadam – Corbett Hill Gravel Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Steamburg",
+    "state": "NY",
+    "zip": "14772"
+  },
+  "location": {
+    "lat": 42.107222,
+    "lng": -78.945278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002138"
+  },
+  "msha": [
+    {
+      "mine_id": "3002138",
+      "name": "Corbett Hill Gravel Products",
+      "operator": "Jamestown Macadam Inc",
+      "status": "Active",
+      "status_since": "2023-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

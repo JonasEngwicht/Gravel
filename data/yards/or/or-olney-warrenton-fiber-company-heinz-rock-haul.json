@@ -1,0 +1,41 @@
+{
+  "id": "or-olney-warrenton-fiber-company-heinz-rock-haul",
+  "slug": "warrenton-fiber-company-heinz-rock-haul",
+  "name": "Warrenton Fiber Company – Heinz Rock Haul",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Olney",
+    "state": "OR",
+    "zip": "97103"
+  },
+  "location": {
+    "lat": 46.098056,
+    "lng": -123.745833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503585"
+  },
+  "msha": [
+    {
+      "mine_id": "3503585",
+      "name": "Heinz Rock Haul",
+      "operator": "Warrenton Fiber Company, Inc.",
+      "status": "Active",
+      "status_since": "2026-02-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

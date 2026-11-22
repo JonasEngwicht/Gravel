@@ -1,0 +1,41 @@
+{
+  "id": "wi-west-bend-west-bend-sand-and-stone-schelle-pit",
+  "slug": "west-bend-sand-and-stone-schelle-pit",
+  "name": "West Bend Sand & Stone – Schelle Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "West Bend",
+    "state": "WI",
+    "zip": "53090"
+  },
+  "location": {
+    "lat": 43.429444,
+    "lng": -88.248333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4700957"
+  },
+  "msha": [
+    {
+      "mine_id": "4700957",
+      "name": "Schelle Pit",
+      "operator": "West Bend Sand & Stone, Inc.",
+      "status": "Active",
+      "status_since": "2012-05-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

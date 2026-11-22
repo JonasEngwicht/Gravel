@@ -1,0 +1,41 @@
+{
+  "id": "tx-goldthwaite-old-iron-dirt-worx-priddy-pit",
+  "slug": "old-iron-dirt-worx-priddy-pit",
+  "name": "Old Iron Dirt Worx – Priddy pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Goldthwaite",
+    "state": "TX",
+    "zip": "76844"
+  },
+  "location": {
+    "lat": 31.373484,
+    "lng": -98.66323
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105770"
+  },
+  "msha": [
+    {
+      "mine_id": "4105770",
+      "name": "Priddy pit",
+      "operator": "Old Iron Dirt Worx",
+      "status": "Active",
+      "status_since": "2024-10-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

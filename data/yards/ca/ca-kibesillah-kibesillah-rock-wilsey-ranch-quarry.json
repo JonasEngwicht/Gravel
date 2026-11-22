@@ -1,0 +1,41 @@
+{
+  "id": "ca-kibesillah-kibesillah-rock-wilsey-ranch-quarry",
+  "slug": "kibesillah-rock-wilsey-ranch-quarry",
+  "name": "Kibesillah Rock – Wilsey Ranch Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Kibesillah",
+    "state": "CA",
+    "zip": "95488"
+  },
+  "location": {
+    "lat": 39.599167,
+    "lng": -123.776944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405353"
+  },
+  "msha": [
+    {
+      "mine_id": "0405353",
+      "name": "Wilsey Ranch Quarry",
+      "operator": "Kibesillah Rock Company",
+      "status": "Intermittent",
+      "status_since": "2024-02-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

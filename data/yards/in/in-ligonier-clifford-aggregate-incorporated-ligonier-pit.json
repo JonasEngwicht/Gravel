@@ -1,0 +1,41 @@
+{
+  "id": "in-ligonier-clifford-aggregate-incorporated-ligonier-pit",
+  "slug": "clifford-aggregate-incorporated-ligonier-pit",
+  "name": "Clifford Aggregate Incorporated – Ligonier Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ligonier",
+    "state": "IN",
+    "zip": "46543"
+  },
+  "location": {
+    "lat": 41.550278,
+    "lng": -85.614722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202170"
+  },
+  "msha": [
+    {
+      "mine_id": "1202170",
+      "name": "Ligonier Pit",
+      "operator": "Clifford Aggregate Incorporated",
+      "status": "Active",
+      "status_since": "2011-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

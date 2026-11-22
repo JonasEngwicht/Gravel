@@ -1,0 +1,41 @@
+{
+  "id": "ca-greenfield-san-benito-supply-hidden-canyon-quarry",
+  "slug": "san-benito-supply-hidden-canyon-quarry",
+  "name": "San Benito Supply – Hidden Canyon Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Greenfield",
+    "state": "CA",
+    "zip": "93960"
+  },
+  "location": {
+    "lat": 36.354167,
+    "lng": -121.226944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405653"
+  },
+  "msha": [
+    {
+      "mine_id": "0405653",
+      "name": "Hidden Canyon Quarry",
+      "operator": "San Benito Supply",
+      "status": "Active",
+      "status_since": "2014-08-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

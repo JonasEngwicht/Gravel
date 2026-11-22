@@ -1,0 +1,41 @@
+{
+  "id": "vt-roxbury-tabor-earth-extractors",
+  "slug": "tabor-earth-extractors",
+  "name": "Tabor Earth Extractors",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Roxbury",
+    "state": "VT",
+    "zip": "05663"
+  },
+  "location": {
+    "lat": 44.111944,
+    "lng": -72.725556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300199"
+  },
+  "msha": [
+    {
+      "mine_id": "4300199",
+      "name": "Tabor Earth Extractors",
+      "operator": "Tabor Earth Extractors",
+      "status": "Intermittent",
+      "status_since": "1985-06-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

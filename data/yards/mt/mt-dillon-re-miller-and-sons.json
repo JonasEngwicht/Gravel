@@ -1,0 +1,41 @@
+{
+  "id": "mt-dillon-re-miller-and-sons",
+  "slug": "re-miller-and-sons",
+  "name": "RE Miller and Sons",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Dillon",
+    "state": "MT",
+    "zip": "59724"
+  },
+  "location": {
+    "lat": 44.715833,
+    "lng": -112.695556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402043"
+  },
+  "msha": [
+    {
+      "mine_id": "2402043",
+      "name": "R E Miller And Sons",
+      "operator": "RE Miller and Sons Inc",
+      "status": "Intermittent",
+      "status_since": "2012-01-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wa-cathlamet-burns-construction-and-quarry",
+  "slug": "burns-construction-and-quarry",
+  "name": "Burns Construction & Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cathlamet",
+    "state": "WA",
+    "zip": "98612"
+  },
+  "location": {
+    "lat": 46.185833,
+    "lng": -123.350556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503305"
+  },
+  "msha": [
+    {
+      "mine_id": "4503305",
+      "name": "Burns Construction & Quarry Inc.",
+      "operator": "Burns Construction & Quarry Inc.",
+      "status": "Active",
+      "status_since": "2024-09-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

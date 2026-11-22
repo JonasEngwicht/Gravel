@@ -1,0 +1,41 @@
+{
+  "id": "mo-lagrange-central-stone-lagrange-sand-and-gravel-pit-cs61",
+  "slug": "central-stone-lagrange-sand-and-gravel-pit-cs61",
+  "name": "Central Stone – LaGrange Sand & Gravel Pit (CS61)",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "LaGrange",
+    "state": "MO",
+    "zip": "63448"
+  },
+  "location": {
+    "lat": 39.993333,
+    "lng": -91.526389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302494"
+  },
+  "msha": [
+    {
+      "mine_id": "2302494",
+      "name": "LaGrange Sand & Gravel Pit (CS61)",
+      "operator": "Central Stone Company",
+      "status": "Active",
+      "status_since": "2026-04-08",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

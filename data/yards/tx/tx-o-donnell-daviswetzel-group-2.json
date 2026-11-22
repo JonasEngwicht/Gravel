@@ -1,0 +1,41 @@
+{
+  "id": "tx-o-donnell-daviswetzel-group-2",
+  "slug": "daviswetzel-group-2",
+  "name": "DavisWetzel Group",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "O'Donnell",
+    "state": "TX",
+    "zip": "79373"
+  },
+  "location": {
+    "lat": 33.1763,
+    "lng": -101.8039
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105911"
+  },
+  "msha": [
+    {
+      "mine_id": "4105911",
+      "name": "DavisWetzel Group, LLC",
+      "operator": "DavisWetzel Group",
+      "status": "Intermittent",
+      "status_since": "2026-09-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

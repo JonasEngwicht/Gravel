@@ -1,0 +1,41 @@
+{
+  "id": "ny-watertown-watertown-sand-and-gravel",
+  "slug": "watertown-sand-and-gravel",
+  "name": "Watertown Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Watertown",
+    "state": "NY",
+    "zip": "13601"
+  },
+  "location": {
+    "lat": 43.955,
+    "lng": -75.874444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000837"
+  },
+  "msha": [
+    {
+      "mine_id": "3000837",
+      "name": "Watertown Sand & Gravel",
+      "operator": "Watertown Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "2005-02-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

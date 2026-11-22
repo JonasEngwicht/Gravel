@@ -1,0 +1,41 @@
+{
+  "id": "mt-red-lodge-red-lodge-sand-and-gravel-draper-ranch-co",
+  "slug": "red-lodge-sand-and-gravel-draper-ranch-co",
+  "name": "Red Lodge Sand and Gravel – Draper Ranch Co.",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Red Lodge",
+    "state": "MT",
+    "zip": "59007"
+  },
+  "location": {
+    "lat": 45.2475,
+    "lng": -109.276389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402797"
+  },
+  "msha": [
+    {
+      "mine_id": "2402797",
+      "name": "Draper Ranch Co.",
+      "operator": "Red Lodge Sand and Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-04-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

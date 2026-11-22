@@ -38,9 +38,10 @@
         "mulch-soil",
         "sand-gravel",
         "stone-yard",
-        "quarry"
+        "quarry",
+        "gravel-pit"
       ],
-      "description": "Type of yard: landscape-supply (full-range yard), mulch-soil (mulch/topsoil yard), sand-gravel (sand & gravel pit or dealer), stone-yard (stone/rock yard), quarry (aggregate producer, mostly contractor sales)"
+      "description": "Type of yard: landscape-supply (full-range yard), mulch-soil (mulch/topsoil yard), sand-gravel (sand & gravel pit or dealer), stone-yard (stone/rock yard), quarry (aggregate producer, mostly contractor sales), gravel-pit (active sand & gravel pit from MSHA mine records, usually without contact data)"
     },
     "chain": {
       "type": "string",

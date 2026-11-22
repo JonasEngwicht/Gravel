@@ -1,0 +1,41 @@
+{
+  "id": "tx-eagle-pass-eagle-aggregate",
+  "slug": "eagle-aggregate",
+  "name": "Eagle Aggregate",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Eagle Pass",
+    "state": "TX",
+    "zip": "78877"
+  },
+  "location": {
+    "lat": 28.815556,
+    "lng": -100.530833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105777"
+  },
+  "msha": [
+    {
+      "mine_id": "4105777",
+      "name": "Eagle Aggregate LLC",
+      "operator": "Eagle Aggregate LLC",
+      "status": "Active",
+      "status_since": "2024-11-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-vonormy-sandy-oak-materials",
+  "slug": "sandy-oak-materials",
+  "name": "Sandy Oak Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "VonOrmy",
+    "state": "TX",
+    "zip": "78073"
+  },
+  "location": {
+    "lat": 29.2311,
+    "lng": -98.6159
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105691"
+  },
+  "msha": [
+    {
+      "mine_id": "4105691",
+      "name": "Sandy Oak Materials",
+      "operator": "Sandy Oak Materials, LLC",
+      "status": "Active",
+      "status_since": "2023-10-02",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

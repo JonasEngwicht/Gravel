@@ -1,0 +1,41 @@
+{
+  "id": "vt-hinesburg-hinesburg-sand-and-gravel-company-home-pit-and-mill",
+  "slug": "hinesburg-sand-and-gravel-company-home-pit-and-mill",
+  "name": "Hinesburg Sand & Gravel Company – Home Pit And Mill",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hinesburg",
+    "state": "VT",
+    "zip": "05461"
+  },
+  "location": {
+    "lat": 44.288611,
+    "lng": -73.069167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300110"
+  },
+  "msha": [
+    {
+      "mine_id": "4300110",
+      "name": "Home Pit And Mill",
+      "operator": "Hinesburg Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "1994-12-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

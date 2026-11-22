@@ -1,0 +1,41 @@
+{
+  "id": "tx-ferris-south-gate-sand-and-gravel",
+  "slug": "south-gate-sand-and-gravel",
+  "name": "South Gate Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ferris",
+    "state": "TX",
+    "zip": "75125"
+  },
+  "location": {
+    "lat": 32.537778,
+    "lng": -96.581389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105553"
+  },
+  "msha": [
+    {
+      "mine_id": "4105553",
+      "name": "M Pit",
+      "operator": "South Gate Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2021-02-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

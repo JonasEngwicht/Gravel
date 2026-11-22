@@ -1,0 +1,41 @@
+{
+  "id": "co-castle-rock-castle-rock-rock",
+  "slug": "castle-rock-rock",
+  "name": "Castle Rock Rock",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Castle Rock",
+    "state": "CO",
+    "zip": "80104"
+  },
+  "location": {
+    "lat": 39.291944,
+    "lng": -104.890278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0504716"
+  },
+  "msha": [
+    {
+      "mine_id": "0504716",
+      "name": "Castle Rock Rock LLC",
+      "operator": "Castle Rock Rock LLC",
+      "status": "Active",
+      "status_since": "2026-07-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

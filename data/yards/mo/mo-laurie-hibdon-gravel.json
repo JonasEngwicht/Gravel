@@ -1,0 +1,41 @@
+{
+  "id": "mo-laurie-hibdon-gravel",
+  "slug": "hibdon-gravel",
+  "name": "Hibdon Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Laurie",
+    "state": "MO",
+    "zip": "65037"
+  },
+  "location": {
+    "lat": 38.206667,
+    "lng": -92.8375
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301995"
+  },
+  "msha": [
+    {
+      "mine_id": "2301995",
+      "name": "Hibdon Gravel, INC",
+      "operator": "Hibdon Gravel, INC",
+      "status": "Intermittent",
+      "status_since": "1988-07-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

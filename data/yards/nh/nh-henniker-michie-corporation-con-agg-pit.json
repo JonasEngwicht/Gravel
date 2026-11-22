@@ -1,0 +1,41 @@
+{
+  "id": "nh-henniker-michie-corporation-con-agg-pit",
+  "slug": "michie-corporation-con-agg-pit",
+  "name": "Michie Corporation Con-Agg Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Henniker",
+    "state": "NH",
+    "zip": "03242"
+  },
+  "location": {
+    "lat": 43.163889,
+    "lng": -71.806111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700257"
+  },
+  "msha": [
+    {
+      "mine_id": "2700257",
+      "name": "Michie Corporation Con-Agg Pit",
+      "operator": "Michie Corporation",
+      "status": "Intermittent",
+      "status_since": "1990-01-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

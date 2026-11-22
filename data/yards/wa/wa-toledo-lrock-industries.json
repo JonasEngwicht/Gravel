@@ -1,0 +1,41 @@
+{
+  "id": "wa-toledo-lrock-industries",
+  "slug": "lrock-industries",
+  "name": "LROCK Industries",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Toledo",
+    "state": "WA",
+    "zip": "98593"
+  },
+  "location": {
+    "lat": 46.403889,
+    "lng": -122.910556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503710"
+  },
+  "msha": [
+    {
+      "mine_id": "4503710",
+      "name": "LROCK Pit",
+      "operator": "LROCK Industries",
+      "status": "Active",
+      "status_since": "2014-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

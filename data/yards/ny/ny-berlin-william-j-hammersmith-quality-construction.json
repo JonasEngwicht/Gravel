@@ -1,0 +1,41 @@
+{
+  "id": "ny-berlin-william-j-hammersmith-quality-construction",
+  "slug": "william-j-hammersmith-quality-construction",
+  "name": "William J. Hammersmith Quality Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Berlin",
+    "state": "NY",
+    "zip": "12040"
+  },
+  "location": {
+    "lat": 42.621667,
+    "lng": -73.3825
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003654"
+  },
+  "msha": [
+    {
+      "mine_id": "3003654",
+      "name": "Hammersmith Gravel Mine",
+      "operator": "William J. Hammersmith Quality Construction",
+      "status": "Intermittent",
+      "status_since": "2008-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

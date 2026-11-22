@@ -1,0 +1,41 @@
+{
+  "id": "mi-lakeview-pitcher-perfect-excavating",
+  "slug": "pitcher-perfect-excavating",
+  "name": "Pitcher Perfect Excavating",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lakeview",
+    "state": "MI",
+    "zip": "48850"
+  },
+  "location": {
+    "lat": 43.463998,
+    "lng": -85.293629
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003530"
+  },
+  "msha": [
+    {
+      "mine_id": "2003530",
+      "name": "Pitcher Perfect Excavating",
+      "operator": "Pitcher Perfect Excavating LLC",
+      "status": "Intermittent",
+      "status_since": "2016-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

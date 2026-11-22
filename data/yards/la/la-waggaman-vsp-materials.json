@@ -1,0 +1,41 @@
+{
+  "id": "la-waggaman-vsp-materials",
+  "slug": "vsp-materials",
+  "name": "VSP Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Waggaman",
+    "state": "LA",
+    "zip": "70123"
+  },
+  "location": {
+    "lat": 29.941389,
+    "lng": -90.230833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601523"
+  },
+  "msha": [
+    {
+      "mine_id": "1601523",
+      "name": "VSP Materials, Inc.",
+      "operator": "VSP Materials, Inc.",
+      "status": "Intermittent",
+      "status_since": "2014-04-22",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

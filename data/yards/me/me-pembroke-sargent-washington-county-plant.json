@@ -1,0 +1,41 @@
+{
+  "id": "me-pembroke-sargent-washington-county-plant",
+  "slug": "sargent-washington-county-plant",
+  "name": "Sargent – Washington County Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Pembroke",
+    "state": "ME",
+    "zip": "04666"
+  },
+  "location": {
+    "lat": 44.971111,
+    "lng": -67.1825
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700447"
+  },
+  "msha": [
+    {
+      "mine_id": "1700447",
+      "name": "Washington County Plant",
+      "operator": "Sargent Corporation",
+      "status": "Intermittent",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

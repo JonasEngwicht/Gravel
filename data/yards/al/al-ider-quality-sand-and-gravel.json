@@ -1,0 +1,41 @@
+{
+  "id": "al-ider-quality-sand-and-gravel",
+  "slug": "quality-sand-and-gravel",
+  "name": "Quality Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ider",
+    "state": "AL",
+    "zip": "35981"
+  },
+  "location": {
+    "lat": 34.755278,
+    "lng": -85.642222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103488"
+  },
+  "msha": [
+    {
+      "mine_id": "0103488",
+      "name": "Quality Sand & Gravel Llc",
+      "operator": "Quality Sand & Gravel Llc",
+      "status": "Intermittent",
+      "status_since": "2026-04-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

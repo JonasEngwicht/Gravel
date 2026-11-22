@@ -1,0 +1,41 @@
+{
+  "id": "mo-henrietta-capital-sand-company-plant-8-lexington",
+  "slug": "capital-sand-company-plant-8-lexington",
+  "name": "Capital Sand Company – Plant #8 Lexington",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Henrietta",
+    "state": "MO",
+    "zip": "64085"
+  },
+  "location": {
+    "lat": 39.271944,
+    "lng": -93.951111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302499"
+  },
+  "msha": [
+    {
+      "mine_id": "2302499",
+      "name": "Plant #8 Lexington",
+      "operator": "Capital Sand Company, Inc.",
+      "status": "Active",
+      "status_since": "2015-12-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

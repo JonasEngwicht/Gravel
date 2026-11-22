@@ -1,0 +1,41 @@
+{
+  "id": "ct-torrington-o-and-g-industries-bogue-mill",
+  "slug": "o-and-g-industries-bogue-mill",
+  "name": "O & G Industries – Bogue Mill",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Torrington",
+    "state": "CT",
+    "zip": "06754"
+  },
+  "location": {
+    "lat": 41.776667,
+    "lng": -73.318333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600173"
+  },
+  "msha": [
+    {
+      "mine_id": "0600173",
+      "name": "Bogue Mill",
+      "operator": "O & G Industries Inc",
+      "status": "Intermittent",
+      "status_since": "2026-07-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-camden-camden-mine-and-mill",
+  "slug": "camden-mine-and-mill",
+  "name": "Camden Mine & Mill",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Camden",
+    "state": "TN",
+    "zip": "38320"
+  },
+  "location": {
+    "lat": 36.041389,
+    "lng": -88.130278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4000781"
+  },
+  "msha": [
+    {
+      "mine_id": "4000781",
+      "name": "Camden Mine & Mill",
+      "operator": "Camden Gravel Company",
+      "status": "Active",
+      "status_since": "2001-04-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

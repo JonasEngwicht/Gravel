@@ -1,0 +1,41 @@
+{
+  "id": "ga-guyton-woods",
+  "slug": "woods",
+  "name": "Woods",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Guyton",
+    "state": "GA",
+    "zip": "31312"
+  },
+  "location": {
+    "lat": 32.251944,
+    "lng": -81.406111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901154"
+  },
+  "msha": [
+    {
+      "mine_id": "0901154",
+      "name": "Woods",
+      "operator": "C B Sand Company",
+      "status": "Active",
+      "status_since": "2004-04-12",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

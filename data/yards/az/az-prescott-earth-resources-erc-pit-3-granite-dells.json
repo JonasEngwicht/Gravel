@@ -1,0 +1,41 @@
+{
+  "id": "az-prescott-earth-resources-erc-pit-3-granite-dells",
+  "slug": "earth-resources-erc-pit-3-granite-dells",
+  "name": "Earth Resources – ERC Pit #3 -- Granite Dells",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Prescott",
+    "state": "AZ",
+    "zip": "86303"
+  },
+  "location": {
+    "lat": 34.477778,
+    "lng": -112.450833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203457"
+  },
+  "msha": [
+    {
+      "mine_id": "0203457",
+      "name": "ERC Pit #3 -- Granite Dells",
+      "operator": "Earth Resources Corporation",
+      "status": "Intermittent",
+      "status_since": "2022-08-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

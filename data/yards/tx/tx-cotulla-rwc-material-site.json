@@ -1,0 +1,41 @@
+{
+  "id": "tx-cotulla-rwc-material-site",
+  "slug": "rwc-material-site",
+  "name": "RWC Material Site",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cotulla",
+    "state": "TX",
+    "zip": "78021"
+  },
+  "location": {
+    "lat": 28.465556,
+    "lng": -98.810833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105020"
+  },
+  "msha": [
+    {
+      "mine_id": "4105020",
+      "name": "RWC Material Site",
+      "operator": "RWC Material, LLC",
+      "status": "Active",
+      "status_since": "2013-06-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-adel-the-scruggs-baldree-mine-plant-11",
+  "slug": "the-scruggs-baldree-mine-plant-11",
+  "name": "The Scruggs – Baldree Mine Plant 11",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Adel",
+    "state": "GA",
+    "zip": "31620"
+  },
+  "location": {
+    "lat": 31.098032,
+    "lng": -83.49897
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901166"
+  },
+  "msha": [
+    {
+      "mine_id": "0901166",
+      "name": "Baldree Mine Plant 11",
+      "operator": "The Scruggs Company",
+      "status": "Active",
+      "status_since": "2006-04-27",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

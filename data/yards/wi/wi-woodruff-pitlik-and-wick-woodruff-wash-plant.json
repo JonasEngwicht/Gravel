@@ -1,0 +1,41 @@
+{
+  "id": "wi-woodruff-pitlik-and-wick-woodruff-wash-plant",
+  "slug": "pitlik-and-wick-woodruff-wash-plant",
+  "name": "Pitlik & Wick – Woodruff Wash Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Woodruff",
+    "state": "WI",
+    "zip": "54568"
+  },
+  "location": {
+    "lat": 45.948889,
+    "lng": -89.7
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703191"
+  },
+  "msha": [
+    {
+      "mine_id": "4703191",
+      "name": "Woodruff Wash Plant",
+      "operator": "Pitlik & Wick, Inc.",
+      "status": "Intermittent",
+      "status_since": "1999-05-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "co-fort-lupton-l-g-everist-ragsdale-reservoirs",
+  "slug": "l-g-everist-ragsdale-reservoirs",
+  "name": "L.G. Everist – Ragsdale Reservoirs",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fort Lupton",
+    "state": "CO",
+    "zip": "80621"
+  },
+  "location": {
+    "lat": 40.1325,
+    "lng": -104.818056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0505138"
+  },
+  "msha": [
+    {
+      "mine_id": "0505138",
+      "name": "Ragsdale Reservoirs",
+      "operator": "L.G. Everist, Inc.",
+      "status": "Active",
+      "status_since": "2024-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

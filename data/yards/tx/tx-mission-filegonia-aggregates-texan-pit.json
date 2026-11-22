@@ -1,0 +1,41 @@
+{
+  "id": "tx-mission-filegonia-aggregates-texan-pit",
+  "slug": "filegonia-aggregates-texan-pit",
+  "name": "Filegonia Aggregates – Texan Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mission",
+    "state": "TX",
+    "zip": "78573"
+  },
+  "location": {
+    "lat": 26.279722,
+    "lng": -98.275556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105583"
+  },
+  "msha": [
+    {
+      "mine_id": "4105583",
+      "name": "Texan Pit",
+      "operator": "Filegonia Aggregates LLC",
+      "status": "Active",
+      "status_since": "2021-09-22",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

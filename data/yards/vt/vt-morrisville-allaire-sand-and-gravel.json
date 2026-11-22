@@ -1,0 +1,41 @@
+{
+  "id": "vt-morrisville-allaire-sand-and-gravel",
+  "slug": "allaire-sand-and-gravel",
+  "name": "Allaire Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Morrisville",
+    "state": "VT",
+    "zip": "05661"
+  },
+  "location": {
+    "lat": 44.559444,
+    "lng": -72.615833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300839"
+  },
+  "msha": [
+    {
+      "mine_id": "4300839",
+      "name": "Allaire Sand & Gravel LLC",
+      "operator": "Allaire Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

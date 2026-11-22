@@ -1,0 +1,41 @@
+{
+  "id": "mi-martin-wash-plant-2",
+  "slug": "wash-plant-2",
+  "name": "Wash Plant #2",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Martin",
+    "state": "MI",
+    "zip": "49070"
+  },
+  "location": {
+    "lat": 42.512778,
+    "lng": -85.641667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003560"
+  },
+  "msha": [
+    {
+      "mine_id": "2003560",
+      "name": "Wash Plant #2",
+      "operator": "C2 Aggregates, LLC",
+      "status": "Intermittent",
+      "status_since": "2018-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "me-brunswick-ray-labbe-and-sons-brunswick-gravel-pit",
+  "slug": "ray-labbe-and-sons-brunswick-gravel-pit",
+  "name": "Ray Labbe & Sons – Brunswick Gravel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Brunswick",
+    "state": "ME",
+    "zip": "04086"
+  },
+  "location": {
+    "lat": 43.960556,
+    "lng": -70.037778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700703"
+  },
+  "msha": [
+    {
+      "mine_id": "1700703",
+      "name": "Brunswick Gravel Pit",
+      "operator": "Ray Labbe & Sons Inc",
+      "status": "Active",
+      "status_since": "2026-06-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

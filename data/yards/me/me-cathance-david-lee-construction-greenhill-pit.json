@@ -1,0 +1,41 @@
+{
+  "id": "me-cathance-david-lee-construction-greenhill-pit",
+  "slug": "david-lee-construction-greenhill-pit",
+  "name": "David Lee Construction – Greenhill Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cathance",
+    "state": "ME",
+    "zip": "04657"
+  },
+  "location": {
+    "lat": 45.038056,
+    "lng": -67.358333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701181"
+  },
+  "msha": [
+    {
+      "mine_id": "1701181",
+      "name": "Greenhill Pit",
+      "operator": "David Lee Construction",
+      "status": "Intermittent",
+      "status_since": "2026-04-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

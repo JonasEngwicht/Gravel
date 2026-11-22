@@ -1,0 +1,41 @@
+{
+  "id": "nv-las-vegas-mel-clark-ann-road-pit",
+  "slug": "mel-clark-ann-road-pit",
+  "name": "Mel Clark – Ann Road Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89143"
+  },
+  "location": {
+    "lat": 36.298333,
+    "lng": -115.326389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602911"
+  },
+  "msha": [
+    {
+      "mine_id": "2602911",
+      "name": "Ann Road Pit",
+      "operator": "Mel Clark Inc",
+      "status": "Intermittent",
+      "status_since": "2025-09-18",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

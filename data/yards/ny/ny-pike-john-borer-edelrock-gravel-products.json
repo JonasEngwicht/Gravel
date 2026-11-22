@@ -1,0 +1,41 @@
+{
+  "id": "ny-pike-john-borer-edelrock-gravel-products",
+  "slug": "john-borer-edelrock-gravel-products",
+  "name": "John Borer – Edelrock Gravel Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Pike",
+    "state": "NY",
+    "zip": "14130"
+  },
+  "location": {
+    "lat": 42.570556,
+    "lng": -78.137778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003521"
+  },
+  "msha": [
+    {
+      "mine_id": "3003521",
+      "name": "Edelrock Gravel Products",
+      "operator": "John Borer",
+      "status": "Active",
+      "status_since": "2023-11-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

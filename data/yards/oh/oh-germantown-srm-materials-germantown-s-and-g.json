@@ -1,0 +1,41 @@
+{
+  "id": "oh-germantown-srm-materials-germantown-s-and-g",
+  "slug": "srm-materials-germantown-s-and-g",
+  "name": "SRM Materials – Germantown S&G",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Germantown",
+    "state": "OH",
+    "zip": "45327"
+  },
+  "location": {
+    "lat": 39.606389,
+    "lng": -84.349167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304583"
+  },
+  "msha": [
+    {
+      "mine_id": "3304583",
+      "name": "Germantown S&G",
+      "operator": "SRM Materials, LLC",
+      "status": "Active",
+      "status_since": "2024-12-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

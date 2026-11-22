@@ -1,0 +1,41 @@
+{
+  "id": "tn-kimball-csh-gizzard",
+  "slug": "csh-gizzard",
+  "name": "Csh – Gizzard",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Kimball",
+    "state": "TN",
+    "zip": "37380"
+  },
+  "location": {
+    "lat": 35.110833,
+    "lng": -85.739167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003583"
+  },
+  "msha": [
+    {
+      "mine_id": "4003583",
+      "name": "Gizzard",
+      "operator": "Csh Inc",
+      "status": "Active",
+      "status_since": "2023-09-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

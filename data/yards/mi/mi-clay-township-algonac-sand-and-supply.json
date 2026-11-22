@@ -1,0 +1,41 @@
+{
+  "id": "mi-clay-township-algonac-sand-and-supply",
+  "slug": "algonac-sand-and-supply",
+  "name": "Algonac Sand & Supply",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Clay Township",
+    "state": "MI",
+    "zip": "48001"
+  },
+  "location": {
+    "lat": 42.62653,
+    "lng": -82.557898
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003677"
+  },
+  "msha": [
+    {
+      "mine_id": "2003677",
+      "name": "Algonac Sand & Supply LLC",
+      "operator": "Algonac Sand & Supply LLC",
+      "status": "Intermittent",
+      "status_since": "2024-06-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-forest-service-access-amacker-constr-and-supply-merrill-borrow-pit",
+  "slug": "amacker-constr-and-supply-merrill-borrow-pit",
+  "name": "Amacker Constr & Supply – Merrill Borrow Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Forest Service Access",
+    "state": "CA",
+    "zip": "96133"
+  },
+  "location": {
+    "lat": 38.613889,
+    "lng": -119.704167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405389"
+  },
+  "msha": [
+    {
+      "mine_id": "0405389",
+      "name": "Merrill Borrow Pit",
+      "operator": "Amacker Constr & Supply",
+      "status": "Intermittent",
+      "status_since": "1999-10-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

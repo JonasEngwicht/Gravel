@@ -1,0 +1,41 @@
+{
+  "id": "la-hahnville-beverly-construction",
+  "slug": "beverly-construction",
+  "name": "Beverly Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hahnville",
+    "state": "LA",
+    "zip": "70079"
+  },
+  "location": {
+    "lat": 29.984167,
+    "lng": -90.408611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601367"
+  },
+  "msha": [
+    {
+      "mine_id": "1601367",
+      "name": "Beverly Sand Pit #2",
+      "operator": "Beverly Construction LLC",
+      "status": "Active",
+      "status_since": "2000-10-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

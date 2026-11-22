@@ -1,0 +1,41 @@
+{
+  "id": "me-standish-woods-excavating-baxter-pit",
+  "slug": "woods-excavating-baxter-pit",
+  "name": "Woods Excavating – Baxter Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Standish",
+    "state": "ME",
+    "zip": "04084"
+  },
+  "location": {
+    "lat": 43.768708,
+    "lng": -70.557093
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701061"
+  },
+  "msha": [
+    {
+      "mine_id": "1701061",
+      "name": "Baxter Pit",
+      "operator": "Woods Excavating, LLC.",
+      "status": "Active",
+      "status_since": "2024-11-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

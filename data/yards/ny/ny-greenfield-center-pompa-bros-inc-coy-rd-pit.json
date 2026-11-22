@@ -1,0 +1,41 @@
+{
+  "id": "ny-greenfield-center-pompa-bros-inc-coy-rd-pit",
+  "slug": "pompa-bros-inc-coy-rd-pit",
+  "name": "Pompa Bros Inc. Coy Rd Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Greenfield Center",
+    "state": "NY",
+    "zip": "12850"
+  },
+  "location": {
+    "lat": 43.112778,
+    "lng": -73.928056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002631"
+  },
+  "msha": [
+    {
+      "mine_id": "3002631",
+      "name": "Pompa Bros Inc. Coy Rd Pit",
+      "operator": "Pompa Bros Inc.",
+      "status": "Intermittent",
+      "status_since": "1983-08-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

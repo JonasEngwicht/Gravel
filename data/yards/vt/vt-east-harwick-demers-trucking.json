@@ -1,0 +1,41 @@
+{
+  "id": "vt-east-harwick-demers-trucking",
+  "slug": "demers-trucking",
+  "name": "Demers Trucking",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "East Harwick",
+    "state": "VT",
+    "zip": "05843"
+  },
+  "location": {
+    "lat": 44.5125,
+    "lng": -72.313889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300692"
+  },
+  "msha": [
+    {
+      "mine_id": "4300692",
+      "name": "Demers Trucking",
+      "operator": "Demers Trucking",
+      "status": "Intermittent",
+      "status_since": "2008-05-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

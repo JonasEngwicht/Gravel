@@ -1,0 +1,41 @@
+{
+  "id": "vt-bolton-acker-sand-and-gravel-bolton-pit",
+  "slug": "acker-sand-and-gravel-bolton-pit",
+  "name": "Acker Sand and Gravel – Bolton Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bolton",
+    "state": "VT",
+    "zip": "05477"
+  },
+  "location": {
+    "lat": 44.387778,
+    "lng": -72.912778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300833"
+  },
+  "msha": [
+    {
+      "mine_id": "4300833",
+      "name": "Bolton Pit",
+      "operator": "Acker Sand and Gravel",
+      "status": "Intermittent",
+      "status_since": "2025-08-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

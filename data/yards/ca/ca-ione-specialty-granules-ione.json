@@ -1,0 +1,41 @@
+{
+  "id": "ca-ione-specialty-granules-ione",
+  "slug": "specialty-granules-ione",
+  "name": "Specialty Granules (Ione)",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ione",
+    "state": "CA",
+    "zip": "95640"
+  },
+  "location": {
+    "lat": 38.343611,
+    "lng": -120.918611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405533"
+  },
+  "msha": [
+    {
+      "mine_id": "0405533",
+      "name": "Specialty Granules (Ione) LLC",
+      "operator": "Specialty Granules (Ione) LLC",
+      "status": "Active",
+      "status_since": "2002-04-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 74
+    }
+  ]
+}

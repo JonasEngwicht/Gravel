@@ -1,0 +1,41 @@
+{
+  "id": "nh-alton-green-oak-realty-development-alton-pit",
+  "slug": "green-oak-realty-development-alton-pit",
+  "name": "Green Oak Realty Development – Alton Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Alton",
+    "state": "NH",
+    "zip": "03809"
+  },
+  "location": {
+    "lat": 43.427222,
+    "lng": -71.208333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700489"
+  },
+  "msha": [
+    {
+      "mine_id": "2700489",
+      "name": "Alton Pit",
+      "operator": "Green Oak Realty Development Llc",
+      "status": "Intermittent",
+      "status_since": "2024-07-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

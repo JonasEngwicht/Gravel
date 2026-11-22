@@ -1,0 +1,41 @@
+{
+  "id": "sd-sioux-falls-l-g-everist-east-sioux-quarry",
+  "slug": "l-g-everist-east-sioux-quarry",
+  "name": "L.G. Everist – East Sioux Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57103"
+  },
+  "location": {
+    "lat": 43.555556,
+    "lng": -96.680833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3901125"
+  },
+  "msha": [
+    {
+      "mine_id": "3901125",
+      "name": "East Sioux Quarry",
+      "operator": "L.G. Everist, Inc.",
+      "status": "Active",
+      "status_since": "2021-08-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

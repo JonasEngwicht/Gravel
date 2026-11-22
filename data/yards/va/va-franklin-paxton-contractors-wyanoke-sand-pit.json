@@ -1,0 +1,41 @@
+{
+  "id": "va-franklin-paxton-contractors-wyanoke-sand-pit",
+  "slug": "paxton-contractors-wyanoke-sand-pit",
+  "name": "Paxton Contractors – Wyanoke Sand Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Franklin",
+    "state": "VA",
+    "zip": "23851"
+  },
+  "location": {
+    "lat": 36.611111,
+    "lng": -76.904444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4407432"
+  },
+  "msha": [
+    {
+      "mine_id": "4407432",
+      "name": "Wyanoke Sand Pit",
+      "operator": "Paxton Contractors Corporation",
+      "status": "Intermittent",
+      "status_since": "2025-01-08",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

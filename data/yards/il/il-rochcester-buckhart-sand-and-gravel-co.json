@@ -1,0 +1,41 @@
+{
+  "id": "il-rochcester-buckhart-sand-and-gravel-co",
+  "slug": "buckhart-sand-and-gravel-co",
+  "name": "Buckhart Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rochcester",
+    "state": "IL",
+    "zip": "62563"
+  },
+  "location": {
+    "lat": 39.756667,
+    "lng": -89.453611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1101065"
+  },
+  "msha": [
+    {
+      "mine_id": "1101065",
+      "name": "Buckhart Sand & Gravel Co Inc",
+      "operator": "Buckhart Sand & Gravel Co Inc",
+      "status": "Active",
+      "status_since": "2013-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

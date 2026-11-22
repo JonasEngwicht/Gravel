@@ -1,0 +1,41 @@
+{
+  "id": "sc-cottageville-m2-sandworks",
+  "slug": "m2-sandworks",
+  "name": "M2-Sandworks",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cottageville",
+    "state": "SC",
+    "zip": "29435"
+  },
+  "location": {
+    "lat": 32.998611,
+    "lng": -80.443056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800755"
+  },
+  "msha": [
+    {
+      "mine_id": "3800755",
+      "name": "Sandworks",
+      "operator": "M2-Sandworks, LLC",
+      "status": "Active",
+      "status_since": "2020-03-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

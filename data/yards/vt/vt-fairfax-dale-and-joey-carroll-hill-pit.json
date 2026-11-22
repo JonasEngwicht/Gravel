@@ -1,0 +1,41 @@
+{
+  "id": "vt-fairfax-dale-and-joey-carroll-hill-pit",
+  "slug": "dale-and-joey-carroll-hill-pit",
+  "name": "Dale and Joey – Carroll Hill Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fairfax",
+    "state": "VT",
+    "zip": "05454"
+  },
+  "location": {
+    "lat": 44.738333,
+    "lng": -72.999444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300844"
+  },
+  "msha": [
+    {
+      "mine_id": "4300844",
+      "name": "Carroll Hill Pit",
+      "operator": "Dale and Joey",
+      "status": "Intermittent",
+      "status_since": "2026-05-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

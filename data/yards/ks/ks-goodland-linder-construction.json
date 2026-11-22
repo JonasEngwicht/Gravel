@@ -1,0 +1,41 @@
+{
+  "id": "ks-goodland-linder-construction",
+  "slug": "linder-construction",
+  "name": "Linder Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Goodland",
+    "state": "KS",
+    "zip": "67735"
+  },
+  "location": {
+    "lat": 39.350833,
+    "lng": -101.71
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401861"
+  },
+  "msha": [
+    {
+      "mine_id": "1401861",
+      "name": "Linder Construction Pit 1",
+      "operator": "Linder Construction LLC",
+      "status": "Intermittent",
+      "status_since": "2026-08-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

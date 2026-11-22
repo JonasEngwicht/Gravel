@@ -1,0 +1,41 @@
+{
+  "id": "mi-ludington-sargent-sand-ludington-pit-and-mill",
+  "slug": "sargent-sand-ludington-pit-and-mill",
+  "name": "Sargent Sand – Ludington Pit & Mill",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ludington",
+    "state": "MI",
+    "zip": "49431"
+  },
+  "location": {
+    "lat": 43.993333,
+    "lng": -86.475833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2001063"
+  },
+  "msha": [
+    {
+      "mine_id": "2001063",
+      "name": "Ludington Pit & Mill",
+      "operator": "Sargent Sand Company",
+      "status": "Active",
+      "status_since": "2021-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

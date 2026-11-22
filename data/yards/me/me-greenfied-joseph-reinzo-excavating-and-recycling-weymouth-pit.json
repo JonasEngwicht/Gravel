@@ -1,0 +1,41 @@
+{
+  "id": "me-greenfied-joseph-reinzo-excavating-and-recycling-weymouth-pit",
+  "slug": "joseph-reinzo-excavating-and-recycling-weymouth-pit",
+  "name": "Joseph Reinzo Excavating And Recycling – Weymouth Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Greenfied",
+    "state": "ME",
+    "zip": "04461"
+  },
+  "location": {
+    "lat": 45.001667,
+    "lng": -68.4875
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701070"
+  },
+  "msha": [
+    {
+      "mine_id": "1701070",
+      "name": "Weymouth Pit",
+      "operator": "Joseph Reinzo Excavating And Recycling",
+      "status": "Intermittent",
+      "status_since": "2022-06-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

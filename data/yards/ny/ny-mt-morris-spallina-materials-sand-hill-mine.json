@@ -1,0 +1,41 @@
+{
+  "id": "ny-mt-morris-spallina-materials-sand-hill-mine",
+  "slug": "spallina-materials-sand-hill-mine",
+  "name": "Spallina Materials – Sand Hill Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mt. Morris",
+    "state": "NY",
+    "zip": "14510"
+  },
+  "location": {
+    "lat": 42.720556,
+    "lng": -77.904167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003843"
+  },
+  "msha": [
+    {
+      "mine_id": "3003843",
+      "name": "Sand Hill Mine",
+      "operator": "Spallina Materials, Inc",
+      "status": "Active",
+      "status_since": "2025-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-paso-robles-calportland-construction-paso-robles-plant",
+  "slug": "calportland-construction-paso-robles-plant",
+  "name": "Calportland Construction – Paso Robles Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Paso Robles",
+    "state": "CA",
+    "zip": "93465"
+  },
+  "location": {
+    "lat": 35.581944,
+    "lng": -120.693056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405492"
+  },
+  "msha": [
+    {
+      "mine_id": "0405492",
+      "name": "Paso Robles Plant",
+      "operator": "Calportland Construction",
+      "status": "Intermittent",
+      "status_since": "2001-08-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

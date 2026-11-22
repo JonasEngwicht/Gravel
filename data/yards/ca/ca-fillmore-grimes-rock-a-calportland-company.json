@@ -1,0 +1,41 @@
+{
+  "id": "ca-fillmore-grimes-rock-a-calportland-company",
+  "slug": "grimes-rock-a-calportland-company",
+  "name": "Grimes Rock a CalPortland Company",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fillmore",
+    "state": "CA",
+    "zip": "93021"
+  },
+  "location": {
+    "lat": 34.334722,
+    "lng": -118.909444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405432"
+  },
+  "msha": [
+    {
+      "mine_id": "0405432",
+      "name": "Grimes Rock a CalPortland Company",
+      "operator": "CalPortland",
+      "status": "Active",
+      "status_since": "2000-04-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

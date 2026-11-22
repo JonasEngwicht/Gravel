@@ -1,0 +1,41 @@
+{
+  "id": "tx-el-paso-jobe-materials-section-14",
+  "slug": "jobe-materials-section-14",
+  "name": "Jobe Materials – Section 14",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79935"
+  },
+  "location": {
+    "lat": 31.749167,
+    "lng": -106.330833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104548"
+  },
+  "msha": [
+    {
+      "mine_id": "4104548",
+      "name": "Section 14",
+      "operator": "Jobe Materials LP",
+      "status": "Active",
+      "status_since": "2005-10-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 43
+    }
+  ]
+}

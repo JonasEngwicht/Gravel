@@ -1,0 +1,41 @@
+{
+  "id": "ms-picayune-consolidated-aggregates-con-agg-pit",
+  "slug": "consolidated-aggregates-con-agg-pit",
+  "name": "Consolidated Aggregates – Con Agg Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Picayune",
+    "state": "MS",
+    "zip": "70464"
+  },
+  "location": {
+    "lat": 30.582778,
+    "lng": -89.785833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200790"
+  },
+  "msha": [
+    {
+      "mine_id": "2200790",
+      "name": "Con Agg Pit",
+      "operator": "Consolidated Aggregates LLC",
+      "status": "Active",
+      "status_since": "2012-06-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

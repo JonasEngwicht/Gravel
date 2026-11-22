@@ -1,0 +1,41 @@
+{
+  "id": "ks-manhattan-midwest-concrete-materials-kaw-sand-plant",
+  "slug": "midwest-concrete-materials-kaw-sand-plant",
+  "name": "Midwest Concrete Materials – KAW Sand Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Manhattan",
+    "state": "KS",
+    "zip": "66502"
+  },
+  "location": {
+    "lat": 39.144444,
+    "lng": -96.568333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1400506"
+  },
+  "msha": [
+    {
+      "mine_id": "1400506",
+      "name": "KAW Sand Plant",
+      "operator": "Midwest Concrete Materials, Inc.",
+      "status": "Intermittent",
+      "status_since": "2020-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

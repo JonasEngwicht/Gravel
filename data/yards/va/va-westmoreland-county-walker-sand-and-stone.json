@@ -1,0 +1,41 @@
+{
+  "id": "va-westmoreland-county-walker-sand-and-stone",
+  "slug": "walker-sand-and-stone",
+  "name": "Walker Sand & Stone",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Westmoreland County",
+    "state": "VA",
+    "zip": "22443"
+  },
+  "location": {
+    "lat": 38.186389,
+    "lng": -77.047222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406678"
+  },
+  "msha": [
+    {
+      "mine_id": "4406678",
+      "name": "Walker Sand & Stone",
+      "operator": "Walker Sand & Stone",
+      "status": "Active",
+      "status_since": "1991-11-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

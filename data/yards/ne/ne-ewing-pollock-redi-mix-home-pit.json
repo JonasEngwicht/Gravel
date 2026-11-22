@@ -1,0 +1,41 @@
+{
+  "id": "ne-ewing-pollock-redi-mix-home-pit",
+  "slug": "pollock-redi-mix-home-pit",
+  "name": "Pollock Redi Mix – Home Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ewing",
+    "state": "NE",
+    "zip": "68726"
+  },
+  "location": {
+    "lat": 42.248333,
+    "lng": -98.281944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2500747"
+  },
+  "msha": [
+    {
+      "mine_id": "2500747",
+      "name": "Home Pit",
+      "operator": "Pollock Redi Mix",
+      "status": "Intermittent",
+      "status_since": "2026-10-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "id-lapwai-boyer-gravel",
+  "slug": "boyer-gravel",
+  "name": "Boyer Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lapwai",
+    "state": "ID",
+    "zip": "83540"
+  },
+  "location": {
+    "lat": 46.411667,
+    "lng": -116.727222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1001825"
+  },
+  "msha": [
+    {
+      "mine_id": "1001825",
+      "name": "Boyer Pit",
+      "operator": "Boyer Gravel",
+      "status": "Intermittent",
+      "status_since": "2016-02-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

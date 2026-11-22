@@ -1,0 +1,41 @@
+{
+  "id": "nc-sanford-mellott-trucking-and-supply-company-lee-mel",
+  "slug": "mellott-trucking-and-supply-company-lee-mel",
+  "name": "Mellott Trucking & Supply Company – Lee-Mel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sanford",
+    "state": "NC",
+    "zip": "28355"
+  },
+  "location": {
+    "lat": 35.335556,
+    "lng": -79.2025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101799"
+  },
+  "msha": [
+    {
+      "mine_id": "3101799",
+      "name": "Lee-Mel",
+      "operator": "Mellott Trucking & Supply Company Inc",
+      "status": "Intermittent",
+      "status_since": "1987-04-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

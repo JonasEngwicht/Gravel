@@ -1,0 +1,41 @@
+{
+  "id": "wa-arlington-smokey-point-concrete",
+  "slug": "smokey-point-concrete",
+  "name": "Smokey Point Concrete",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Arlington",
+    "state": "WA",
+    "zip": "98292"
+  },
+  "location": {
+    "lat": 48.208611,
+    "lng": -122.144722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4500574"
+  },
+  "msha": [
+    {
+      "mine_id": "4500574",
+      "name": "Smokey Point Pit",
+      "operator": "Smokey Point Concrete",
+      "status": "Active",
+      "status_since": "2020-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

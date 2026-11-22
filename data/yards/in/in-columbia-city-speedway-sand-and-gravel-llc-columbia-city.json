@@ -1,0 +1,41 @@
+{
+  "id": "in-columbia-city-speedway-sand-and-gravel-llc-columbia-city",
+  "slug": "speedway-sand-and-gravel-llc-columbia-city",
+  "name": "Speedway Sand and Gravel,LLC – Columbia City",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Columbia City",
+    "state": "IN",
+    "zip": "46738"
+  },
+  "location": {
+    "lat": 41.303889,
+    "lng": -85.1075
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202472"
+  },
+  "msha": [
+    {
+      "mine_id": "1202472",
+      "name": "Columbia City",
+      "operator": "Speedway Sand and Gravel,LLC.",
+      "status": "Intermittent",
+      "status_since": "2025-08-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-stamford-eklund-farm-machinery-eklund-gravel-bank-2",
+  "slug": "eklund-farm-machinery-eklund-gravel-bank-2",
+  "name": "Eklund Farm Machinery – Eklund Gravel Bank #2",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Stamford",
+    "state": "NY",
+    "zip": "12167"
+  },
+  "location": {
+    "lat": 42.3975,
+    "lng": -74.627222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004146"
+  },
+  "msha": [
+    {
+      "mine_id": "3004146",
+      "name": "Eklund Gravel Bank #2",
+      "operator": "Eklund Farm Machinery Inc",
+      "status": "Intermittent",
+      "status_since": "2025-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ri-north-kingstown-we-lease-it",
+  "slug": "we-lease-it",
+  "name": "We Lease It",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "North Kingstown",
+    "state": "RI",
+    "zip": "02874"
+  },
+  "location": {
+    "lat": 41.545278,
+    "lng": -71.507222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3700227"
+  },
+  "msha": [
+    {
+      "mine_id": "3700227",
+      "name": "We Lease It Inc-North",
+      "operator": "We Lease It Inc",
+      "status": "Active",
+      "status_since": "2023-03-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

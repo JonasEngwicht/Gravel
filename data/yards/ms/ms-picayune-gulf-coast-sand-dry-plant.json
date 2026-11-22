@@ -1,0 +1,41 @@
+{
+  "id": "ms-picayune-gulf-coast-sand-dry-plant",
+  "slug": "gulf-coast-sand-dry-plant",
+  "name": "Gulf Coast Sand – Dry Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Picayune",
+    "state": "MS",
+    "zip": "39466"
+  },
+  "location": {
+    "lat": 30.507778,
+    "lng": -89.687778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200811"
+  },
+  "msha": [
+    {
+      "mine_id": "2200811",
+      "name": "Dry Plant",
+      "operator": "Gulf Coast Sand, LLC",
+      "status": "Active",
+      "status_since": "2014-03-10",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

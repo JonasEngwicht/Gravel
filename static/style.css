@@ -271,3 +271,10 @@ th { background: var(--kies); white-space: nowrap; }
 .hinweis-karte span { font-size: .95rem; }
 .hinweis-karte:hover { border-color: var(--moos); }
 .quelle { margin-top: 28px; }
+/* FAQ-Fragen als Überschrift, optisch wie vorher */
+.faq summary h3 { display: inline; margin: 0; font-size: 1rem; font-weight: 600; line-height: 1.4; }
+/* Umrechner */
+#umrechner #u-wert { width: 100%; max-width: 220px; font-size: 1.3rem; }
+#umrechner .schritt-kopf { margin-top: 14px; }
+.tag-gravel-pit { background: #ece6da; color: #5e5033; }
+.karte-web { font-weight: 600; }

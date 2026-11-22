@@ -1,0 +1,41 @@
+{
+  "id": "ny-kennedy-maple-springs-gravel-products-carlson-gravel-mine",
+  "slug": "maple-springs-gravel-products-carlson-gravel-mine",
+  "name": "Maple Springs Gravel Products – Carlson Gravel Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Kennedy",
+    "state": "NY",
+    "zip": "14738"
+  },
+  "location": {
+    "lat": 42.0925,
+    "lng": -79.124444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004174"
+  },
+  "msha": [
+    {
+      "mine_id": "3004174",
+      "name": "Carlson Gravel Mine",
+      "operator": "Maple Springs Gravel Products Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-03-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

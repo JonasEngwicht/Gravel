@@ -1,0 +1,41 @@
+{
+  "id": "ny-homer-homer-sand-and-gravel",
+  "slug": "homer-sand-and-gravel",
+  "name": "Homer Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Homer",
+    "state": "NY",
+    "zip": "13077"
+  },
+  "location": {
+    "lat": 42.688333,
+    "lng": -76.228333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003195"
+  },
+  "msha": [
+    {
+      "mine_id": "3003195",
+      "name": "Homer Sand & Gravel, LLC",
+      "operator": "Homer Sand & Gravel, LLC",
+      "status": "Intermittent",
+      "status_since": "2022-03-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

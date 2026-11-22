@@ -1,0 +1,41 @@
+{
+  "id": "tx-fowlerton-rwc-material-briscoe-cameron-pit",
+  "slug": "rwc-material-briscoe-cameron-pit",
+  "name": "RWC Material – Briscoe Cameron Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fowlerton",
+    "state": "TX",
+    "zip": "78072"
+  },
+  "location": {
+    "lat": 28.269722,
+    "lng": -98.768056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105594"
+  },
+  "msha": [
+    {
+      "mine_id": "4105594",
+      "name": "Briscoe Cameron Pit",
+      "operator": "RWC Material, LLC",
+      "status": "Intermittent",
+      "status_since": "2022-04-04",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

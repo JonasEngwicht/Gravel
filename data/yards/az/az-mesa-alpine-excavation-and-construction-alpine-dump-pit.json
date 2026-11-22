@@ -1,0 +1,41 @@
+{
+  "id": "az-mesa-alpine-excavation-and-construction-alpine-dump-pit",
+  "slug": "alpine-excavation-and-construction-alpine-dump-pit",
+  "name": "Alpine Excavation & Construction – Alpine Dump Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85920"
+  },
+  "location": {
+    "lat": 33.848333,
+    "lng": -109.146389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202942"
+  },
+  "msha": [
+    {
+      "mine_id": "0202942",
+      "name": "Alpine Dump Pit",
+      "operator": "Alpine Excavation & Construction Company",
+      "status": "Intermittent",
+      "status_since": "2025-05-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-sloat-joy-engineering-sloat-quarry",
+  "slug": "joy-engineering-sloat-quarry",
+  "name": "Joy Engineering – Sloat Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sloat",
+    "state": "CA",
+    "zip": "96103"
+  },
+  "location": {
+    "lat": 39.857222,
+    "lng": -120.724722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404410"
+  },
+  "msha": [
+    {
+      "mine_id": "0404410",
+      "name": "Sloat Quarry",
+      "operator": "Joy Engineering",
+      "status": "Active",
+      "status_since": "2024-03-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

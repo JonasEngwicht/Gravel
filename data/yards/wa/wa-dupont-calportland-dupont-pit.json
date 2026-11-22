@@ -1,0 +1,41 @@
+{
+  "id": "wa-dupont-calportland-dupont-pit",
+  "slug": "calportland-dupont-pit",
+  "name": "CalPortland – Dupont Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Dupont",
+    "state": "WA",
+    "zip": "98327"
+  },
+  "location": {
+    "lat": 47.122778,
+    "lng": -122.640556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503334"
+  },
+  "msha": [
+    {
+      "mine_id": "4503334",
+      "name": "Dupont Pit",
+      "operator": "CalPortland Company",
+      "status": "Active",
+      "status_since": "1995-01-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 57
+    }
+  ]
+}

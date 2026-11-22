@@ -1,0 +1,41 @@
+{
+  "id": "pa-snydersville-pocono-industries",
+  "slug": "pocono-industries",
+  "name": "Pocono Industries",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Snydersville",
+    "state": "PA",
+    "zip": "18360"
+  },
+  "location": {
+    "lat": 40.968889,
+    "lng": -75.257778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3604294"
+  },
+  "msha": [
+    {
+      "mine_id": "3604294",
+      "name": "Pocono Industries Inc.",
+      "operator": "Pocono Industries Inc",
+      "status": "Intermittent",
+      "status_since": "2022-06-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

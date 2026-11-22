@@ -1,0 +1,41 @@
+{
+  "id": "ak-wasilla-quality-sand-and-gravel",
+  "slug": "quality-sand-and-gravel",
+  "name": "Quality Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Wasilla",
+    "state": "AK",
+    "zip": "99623"
+  },
+  "location": {
+    "lat": 61.3375,
+    "lng": -150.099166
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001532"
+  },
+  "msha": [
+    {
+      "mine_id": "5001532",
+      "name": "Quality Sand & Gravel L.L.C.",
+      "operator": "Quality Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "1987-08-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

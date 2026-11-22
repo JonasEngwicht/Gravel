@@ -1,0 +1,41 @@
+{
+  "id": "ny-vestal-barney-and-dickenson",
+  "slug": "barney-and-dickenson",
+  "name": "Barney & Dickenson",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Vestal",
+    "state": "NY",
+    "zip": "13902"
+  },
+  "location": {
+    "lat": 42.108611,
+    "lng": -75.996667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000811"
+  },
+  "msha": [
+    {
+      "mine_id": "3000811",
+      "name": "Barney & Dickenson Inc.",
+      "operator": "Barney & Dickenson Inc",
+      "status": "Intermittent",
+      "status_since": "2022-05-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-west-bloomfield-spallina-materials-west-bloomfield-mine",
+  "slug": "spallina-materials-west-bloomfield-mine",
+  "name": "Spallina Materials – West Bloomfield Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "West Bloomfield",
+    "state": "NY",
+    "zip": "14469"
+  },
+  "location": {
+    "lat": 42.901667,
+    "lng": -77.488889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002863"
+  },
+  "msha": [
+    {
+      "mine_id": "3002863",
+      "name": "West Bloomfield Mine",
+      "operator": "Spallina Materials Inc",
+      "status": "Active",
+      "status_since": "2022-10-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

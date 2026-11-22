@@ -1,0 +1,41 @@
+{
+  "id": "id-salmon-dahle-s-red-e-mix-crusher",
+  "slug": "dahle-s-red-e-mix-crusher",
+  "name": "Dahle's Red-E-Mix Crusher",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Salmon",
+    "state": "ID",
+    "zip": "83467"
+  },
+  "location": {
+    "lat": 45.172778,
+    "lng": -113.901667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1001767"
+  },
+  "msha": [
+    {
+      "mine_id": "1001767",
+      "name": "Dahle's Red-E-Mix Crusher",
+      "operator": "Dahle's Red-E-Mix, Inc",
+      "status": "Intermittent",
+      "status_since": "1989-08-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

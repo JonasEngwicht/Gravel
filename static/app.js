@@ -5,6 +5,7 @@ const form = document.getElementById('rechner');
 if (form) start();
 // Verzeichnis: Suche nach ZIP/Stadt und Städtefilter (eigene Datei, nur wo gebraucht)
 if (document.querySelector('[data-finder], [data-filter]')) import('./finder.js');
+if (document.getElementById('umrechner')) import('./umrechner.js');
 
 const ICON = {
   rectangle: '<rect x="3" y="4" width="18" height="12" rx="1.5"/>',

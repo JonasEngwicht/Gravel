@@ -1,0 +1,41 @@
+{
+  "id": "in-waverly-littleton-and-sons-sand-and-supply",
+  "slug": "littleton-and-sons-sand-and-supply",
+  "name": "Littleton & Sons Sand & Supply",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Waverly",
+    "state": "IN",
+    "zip": "46113"
+  },
+  "location": {
+    "lat": 39.578333,
+    "lng": -86.288056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202387"
+  },
+  "msha": [
+    {
+      "mine_id": "1202387",
+      "name": "Littleton & Sons Sand & Supply",
+      "operator": "Littleton & Sons Sand & Supply, Inc.",
+      "status": "Active",
+      "status_since": "2012-08-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

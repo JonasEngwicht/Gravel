@@ -1,0 +1,41 @@
+{
+  "id": "me-bowdoin-card-s-excavation-and-tractor-work-robert-s-rd-quarry",
+  "slug": "card-s-excavation-and-tractor-work-robert-s-rd-quarry",
+  "name": "Card's Excavation & Tractor Work – Robert's Rd Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bowdoin",
+    "state": "ME",
+    "zip": "04287"
+  },
+  "location": {
+    "lat": 44.026944,
+    "lng": -69.989722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701037"
+  },
+  "msha": [
+    {
+      "mine_id": "1701037",
+      "name": "Robert's Rd Quarry",
+      "operator": "Card's Excavation & Tractor Work",
+      "status": "Active",
+      "status_since": "2024-12-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 44
+    }
+  ]
+}

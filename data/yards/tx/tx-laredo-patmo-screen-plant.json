@@ -1,0 +1,41 @@
+{
+  "id": "tx-laredo-patmo-screen-plant",
+  "slug": "patmo-screen-plant",
+  "name": "Patmo Screen Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Laredo",
+    "state": "TX",
+    "zip": "78041"
+  },
+  "location": {
+    "lat": 27.6425,
+    "lng": -99.631389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105614"
+  },
+  "msha": [
+    {
+      "mine_id": "4105614",
+      "name": "Patmo Screen Plant",
+      "operator": "Patmo Concrete Llc",
+      "status": "Active",
+      "status_since": "2022-06-22",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

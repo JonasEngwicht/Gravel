@@ -1,0 +1,41 @@
+{
+  "id": "co-lyons-loudwire-diesel",
+  "slug": "loudwire-diesel",
+  "name": "Loudwire Diesel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lyons",
+    "state": "CO",
+    "zip": "81210"
+  },
+  "location": {
+    "lat": 38.799167,
+    "lng": -106.59
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0505154"
+  },
+  "msha": [
+    {
+      "mine_id": "0505154",
+      "name": "Loudwire Quarry",
+      "operator": "Loudwire Diesel LLC",
+      "status": "Intermittent",
+      "status_since": "2023-01-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

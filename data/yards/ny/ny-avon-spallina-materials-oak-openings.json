@@ -1,0 +1,41 @@
+{
+  "id": "ny-avon-spallina-materials-oak-openings",
+  "slug": "spallina-materials-oak-openings",
+  "name": "Spallina Materials – Oak Openings",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Avon",
+    "state": "NY",
+    "zip": "14485"
+  },
+  "location": {
+    "lat": 42.921667,
+    "lng": -77.655833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002910"
+  },
+  "msha": [
+    {
+      "mine_id": "3002910",
+      "name": "Oak Openings",
+      "operator": "Spallina Materials, Inc.",
+      "status": "Active",
+      "status_since": "2022-10-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

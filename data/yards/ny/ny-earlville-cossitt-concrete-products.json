@@ -1,0 +1,41 @@
+{
+  "id": "ny-earlville-cossitt-concrete-products",
+  "slug": "cossitt-concrete-products",
+  "name": "Cossitt Concrete Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Earlville",
+    "state": "NY",
+    "zip": "13332"
+  },
+  "location": {
+    "lat": 42.741111,
+    "lng": -75.537778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001370"
+  },
+  "msha": [
+    {
+      "mine_id": "3001370",
+      "name": "Cossitt Sand Pit",
+      "operator": "Cossitt Concrete Products",
+      "status": "Intermittent",
+      "status_since": "2022-04-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

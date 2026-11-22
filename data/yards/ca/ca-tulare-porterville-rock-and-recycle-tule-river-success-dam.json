@@ -1,0 +1,41 @@
+{
+  "id": "ca-tulare-porterville-rock-and-recycle-tule-river-success-dam",
+  "slug": "porterville-rock-and-recycle-tule-river-success-dam",
+  "name": "Porterville Rock And Recycle – Tule River/Success Dam",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Tulare",
+    "state": "CA",
+    "zip": "93257"
+  },
+  "location": {
+    "lat": 36.049722,
+    "lng": -118.932778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405313"
+  },
+  "msha": [
+    {
+      "mine_id": "0405313",
+      "name": "Tule River/Success Dam",
+      "operator": "Porterville Rock And Recycle Inc",
+      "status": "Active",
+      "status_since": "1997-06-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 39
+    }
+  ]
+}

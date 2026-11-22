@@ -1,0 +1,41 @@
+{
+  "id": "la-pine-grove-mears-sand-and-gravel-thames-plant",
+  "slug": "mears-sand-and-gravel-thames-plant",
+  "name": "Mears Sand & Gravel – Thames Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Pine Grove",
+    "state": "LA",
+    "zip": "70786"
+  },
+  "location": {
+    "lat": 30.578333,
+    "lng": -90.948889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601533"
+  },
+  "msha": [
+    {
+      "mine_id": "1601533",
+      "name": "Thames Plant",
+      "operator": "Mears Sand & Gravel, LLC",
+      "status": "Active",
+      "status_since": "2013-10-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

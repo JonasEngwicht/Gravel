@@ -1,0 +1,41 @@
+{
+  "id": "nj-ocean-view-r-e-pierson-materials-oceanview-plant",
+  "slug": "r-e-pierson-materials-oceanview-plant",
+  "name": "R.E. Pierson Materials – Oceanview Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ocean View",
+    "state": "NJ",
+    "zip": "08246"
+  },
+  "location": {
+    "lat": 39.195556,
+    "lng": -74.745833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800951"
+  },
+  "msha": [
+    {
+      "mine_id": "2800951",
+      "name": "Oceanview Plant",
+      "operator": "R.E. Pierson Materials Corp.",
+      "status": "Active",
+      "status_since": "2009-02-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

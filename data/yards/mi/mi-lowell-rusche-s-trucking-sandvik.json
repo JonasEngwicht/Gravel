@@ -1,0 +1,41 @@
+{
+  "id": "mi-lowell-rusche-s-trucking-sandvik",
+  "slug": "rusche-s-trucking-sandvik",
+  "name": "Rusche's Trucking – Sandvik",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lowell",
+    "state": "MI",
+    "zip": "49331"
+  },
+  "location": {
+    "lat": 42.936667,
+    "lng": -85.286111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003303"
+  },
+  "msha": [
+    {
+      "mine_id": "2003303",
+      "name": "Sandvik",
+      "operator": "Rusche's Trucking, Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

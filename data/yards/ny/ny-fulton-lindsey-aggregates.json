@@ -1,0 +1,41 @@
+{
+  "id": "ny-fulton-lindsey-aggregates",
+  "slug": "lindsey-aggregates",
+  "name": "Lindsey Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fulton",
+    "state": "NY",
+    "zip": "13121"
+  },
+  "location": {
+    "lat": 43.403611,
+    "lng": -76.318056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003476"
+  },
+  "msha": [
+    {
+      "mine_id": "3003476",
+      "name": "Lindsey Aggregates Inc",
+      "operator": "Lindsey Aggregates Inc",
+      "status": "Intermittent",
+      "status_since": "2026-05-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

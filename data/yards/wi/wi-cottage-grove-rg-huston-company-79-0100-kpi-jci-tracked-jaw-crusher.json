@@ -1,0 +1,41 @@
+{
+  "id": "wi-cottage-grove-rg-huston-company-79-0100-kpi-jci-tracked-jaw-crusher",
+  "slug": "rg-huston-company-79-0100-kpi-jci-tracked-jaw-crusher",
+  "name": "RG Huston Company – 79-0100 KPI-JCI Tracked Jaw Crusher",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cottage Grove",
+    "state": "WI",
+    "zip": "53527"
+  },
+  "location": {
+    "lat": 43.065,
+    "lng": -89.199722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703408"
+  },
+  "msha": [
+    {
+      "mine_id": "4703408",
+      "name": "79-0100 KPI-JCI Tracked Jaw Crusher",
+      "operator": "RG Huston Company, Inc.",
+      "status": "Intermittent",
+      "status_since": "2012-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

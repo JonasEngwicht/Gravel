@@ -1,0 +1,41 @@
+{
+  "id": "ny-ellenville-ellenville-sand-and-gravel",
+  "slug": "ellenville-sand-and-gravel",
+  "name": "Ellenville Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ellenville",
+    "state": "NY",
+    "zip": "12489"
+  },
+  "location": {
+    "lat": 41.721111,
+    "lng": -74.3925
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003878"
+  },
+  "msha": [
+    {
+      "mine_id": "3003878",
+      "name": "Ellenville Sand & Gravel",
+      "operator": "Ellenville Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2026-06-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

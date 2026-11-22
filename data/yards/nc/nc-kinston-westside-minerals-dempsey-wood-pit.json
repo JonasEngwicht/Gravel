@@ -1,0 +1,41 @@
+{
+  "id": "nc-kinston-westside-minerals-dempsey-wood-pit",
+  "slug": "westside-minerals-dempsey-wood-pit",
+  "name": "Westside Minerals – Dempsey Wood Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Kinston",
+    "state": "NC",
+    "zip": "28551"
+  },
+  "location": {
+    "lat": 35.338056,
+    "lng": -77.791111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102215"
+  },
+  "msha": [
+    {
+      "mine_id": "3102215",
+      "name": "Dempsey Wood Pit",
+      "operator": "Westside Minerals, LLC",
+      "status": "Active",
+      "status_since": "2006-06-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

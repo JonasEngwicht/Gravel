@@ -1,0 +1,41 @@
+{
+  "id": "wy-big-piney-meadow-canyon-ready-mix",
+  "slug": "meadow-canyon-ready-mix",
+  "name": "Meadow Canyon Ready Mix",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Big Piney",
+    "state": "WY",
+    "zip": "83113"
+  },
+  "location": {
+    "lat": 42.459444,
+    "lng": -110.086667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4801783"
+  },
+  "msha": [
+    {
+      "mine_id": "4801783",
+      "name": "Meadow Canyon Ready Mix Inc",
+      "operator": "Meadow Canyon Ready Mix Inc",
+      "status": "Intermittent",
+      "status_since": "2022-11-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

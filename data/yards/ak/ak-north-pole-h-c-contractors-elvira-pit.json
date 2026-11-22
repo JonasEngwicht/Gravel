@@ -1,0 +1,41 @@
+{
+  "id": "ak-north-pole-h-c-contractors-elvira-pit",
+  "slug": "h-c-contractors-elvira-pit",
+  "name": "H C Contractors – Elvira Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "North Pole",
+    "state": "AK",
+    "zip": "99705"
+  },
+  "location": {
+    "lat": 64.771457,
+    "lng": -147.367585
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001905"
+  },
+  "msha": [
+    {
+      "mine_id": "5001905",
+      "name": "Elvira Pit",
+      "operator": "H C Contractors, LLC",
+      "status": "Intermittent",
+      "status_since": "2009-05-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

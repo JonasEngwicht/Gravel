@@ -1,0 +1,41 @@
+{
+  "id": "mi-fowlerville-culver-excavating-grand-river",
+  "slug": "culver-excavating-grand-river",
+  "name": "Culver Excavating – Grand River",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fowlerville",
+    "state": "MI",
+    "zip": "48836"
+  },
+  "location": {
+    "lat": 42.660787,
+    "lng": -84.057786
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003517"
+  },
+  "msha": [
+    {
+      "mine_id": "2003517",
+      "name": "Grand River",
+      "operator": "Culver Excavating, Inc.",
+      "status": "Intermittent",
+      "status_since": "2015-09-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

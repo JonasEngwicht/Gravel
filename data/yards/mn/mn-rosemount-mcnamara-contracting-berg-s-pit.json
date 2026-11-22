@@ -1,0 +1,41 @@
+{
+  "id": "mn-rosemount-mcnamara-contracting-berg-s-pit",
+  "slug": "mcnamara-contracting-berg-s-pit",
+  "name": "McNamara Contracting – Berg's Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rosemount",
+    "state": "MN",
+    "zip": "55124"
+  },
+  "location": {
+    "lat": 44.714444,
+    "lng": -93.135833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103866"
+  },
+  "msha": [
+    {
+      "mine_id": "2103866",
+      "name": "Berg's Pit",
+      "operator": "McNamara Contracting Inc",
+      "status": "Intermittent",
+      "status_since": "2015-07-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}
