@@ -46,3 +46,14 @@ test("Suchindex für das Verzeichnis passt zu den Seiten", () => {
   for (const c of staedte.filter((_, i) => i % 53 === 0)) assert.ok(existsSync(pub(`landscape-supply/${c[2]}index.html`)), c[2]);
   assert.ok(existsSync(pub("assets/zip/770.json")));
 });
+
+test("mit Domain: Sitemap, robots.txt und Canonicals", () => {
+  const { baseUrl } = JSON.parse(readFileSync(new URL("../site.config.json", import.meta.url)));
+  if (!baseUrl) return;
+  assert.match(readFileSync(pub("robots.txt"), "utf8"), new RegExp(`Sitemap: ${baseUrl}/sitemap.xml`));
+  const sitemap = readFileSync(pub("sitemap.xml"), "utf8");
+  assert.ok((sitemap.match(/<loc>/g) || []).length > 1000);
+  const start = readFileSync(pub("index.html"), "utf8");
+  assert.match(start, new RegExp(`<link rel="canonical" href="${baseUrl}/">`));
+  assert.doesNotMatch(start, /noindex/);
+});

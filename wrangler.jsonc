@@ -12,8 +12,13 @@
     "binding": "ASSETS",
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page",
-    // Worker zuerst, damit er auf *.workers.dev noindex setzen kann (Vorschau, solange keine Domain hängt)
+    // Worker zuerst: www-Umleitung und noindex auf *.workers.dev
     "run_worker_first": true
   },
+  // Eigene Domain (Zone im selben Cloudflare-Konto). www leitet der Worker auf die Hauptdomain um.
+  "routes": [
+    { "pattern": "gravelandmulch.com", "custom_domain": true },
+    { "pattern": "www.gravelandmulch.com", "custom_domain": true }
+  ],
   "observability": { "enabled": true }
 }
