@@ -36,6 +36,15 @@ export const slugify = (s) => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, ''
   .replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').replace(/-+/g, '-');
 
 /** Alle Yards laden (rekursiv), Beispiel- und Entwurfsdateien mit "_" überspringen. */
+/** Preis als Text: "$24/cu yd", "$25.95–$32.95/cu yd", "$5.95/bag". Cents nur, wenn nötig (dann bei beiden Werten). */
+export function preisText(p) {
+  const werte = [p.amount, p.amount_max].filter((v, i) => i === 0 || (v != null && v > p.amount));
+  const cents = werte.some((v) => !Number.isInteger(v));
+  const fmt = (v) => `$${v.toLocaleString('en-US', { minimumFractionDigits: cents ? 2 : 0, maximumFractionDigits: 2 })}`;
+  const einheit = { cy: 'cu yd', ton: 'ton', bag: 'bag' }[p.unit] ?? p.unit;
+  return `${werte.map(fmt).join('–')}/${einheit}`;
+}
+
 export function ladeYards(dir) {
   const out = [];
   const lauf = (d) => {
@@ -291,7 +300,7 @@ ${fuss()}` });
   <div class="betrieb-info">
     <h2>About</h2>
     <p>${esc(beschreibung)}</p>
-    ${mats.length ? `<h3>Materials</h3><ul class="chips">${mats.map((m) => `<li>${esc(h.matById[m.id].label)}${m.price ? ` – $${m.price.amount}/${m.price.unit === 'cy' ? 'cu yd' : m.price.unit}` : ''}</li>`).join('')}</ul>` : ''}
+    ${mats.length ? `<h3>Materials</h3><ul class="chips">${mats.map((m) => `<li>${esc(h.matById[m.id].label)}${m.price ? ` · <span class="preis">${esc(preisText(m.price))}</span>` : ''}</li>`).join('')}</ul>` : ''}
     ${y.delivery?.available ? `<p><strong>Delivery:</strong> yes${y.delivery.radius_mi ? `, up to ${y.delivery.radius_mi} miles` : ''}${y.delivery.fee_from ? `, from $${y.delivery.fee_from}` : ''}</p>` : ''}
     ${y.self_load ? '<p><strong>Pickup:</strong> you can load your own truck or trailer.</p>' : ''}
     ${zeiten ? `<h3>Opening hours</h3><table class="zeiten"><tbody>${zeiten}</tbody></table>` : ''}
