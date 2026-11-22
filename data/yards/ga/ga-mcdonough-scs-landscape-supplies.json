@@ -1,0 +1,35 @@
+{
+  "id": "ga-mcdonough-scs-landscape-supplies",
+  "slug": "scs-landscape-supplies",
+  "name": "SCS Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2216 Highway 81 E",
+    "city": "McDonough",
+    "state": "GA",
+    "zip": "30252"
+  },
+  "location": {
+    "lat": 33.425159,
+    "lng": -84.079971
+  },
+  "contact": {
+    "phone": "(470) 629-4933"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cdb74844-907c-47e8-af06-a9dd4c79aed4",
+    "confidence": 0.811,
+    "merged_records": 1
+  }
+}

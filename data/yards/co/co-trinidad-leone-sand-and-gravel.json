@@ -1,0 +1,36 @@
+{
+  "id": "co-trinidad-leone-sand-and-gravel",
+  "slug": "leone-sand-and-gravel",
+  "name": "Leone Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2400 E Main St",
+    "city": "Trinidad",
+    "state": "CO",
+    "zip": "81082"
+  },
+  "location": {
+    "lat": 37.182281,
+    "lng": -104.483528
+  },
+  "contact": {
+    "phone": "(719) 846-4170",
+    "website": "https://www.leonesrg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "96a212f1-2101-4fbd-8e57-81af8236c872",
+    "confidence": 0.612,
+    "merged_records": 1
+  }
+}

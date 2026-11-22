@@ -1,0 +1,37 @@
+{
+  "id": "ne-grand-island-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3623 W 18th St Ste 1",
+    "city": "Grand Island",
+    "state": "NE",
+    "zip": "68803"
+  },
+  "location": {
+    "lat": 40.936089,
+    "lng": -98.386185
+  },
+  "contact": {
+    "phone": "(308) 384-1949",
+    "website": "https://www.siteone.com/store/380"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e367721b-629f-4646-84a1-de168942c2d9",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ut-spring-city-beck-divided-landscape-material",
+  "slug": "beck-divided-landscape-material",
+  "name": "Beck Divided Landscape Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15400 US-89",
+    "city": "Spring City",
+    "state": "UT",
+    "zip": "84647"
+  },
+  "location": {
+    "lat": 39.497051,
+    "lng": -111.507515
+  },
+  "contact": {
+    "phone": "(435) 469-1600",
+    "website": "http://Beckdivided.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa1847e1-2980-4995-a5cb-900520bcde3b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

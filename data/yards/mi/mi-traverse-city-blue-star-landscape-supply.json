@@ -1,0 +1,36 @@
+{
+  "id": "mi-traverse-city-blue-star-landscape-supply",
+  "slug": "blue-star-landscape-supply",
+  "name": "Blue Star Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "700 Blue Star Ct",
+    "city": "Traverse City",
+    "state": "MI",
+    "zip": "49685"
+  },
+  "location": {
+    "lat": 44.697121,
+    "lng": -85.650085
+  },
+  "contact": {
+    "phone": "(231) 943-3990",
+    "website": "https://www.bluestarlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b05f9a3-6b26-4505-a7b7-f3a42c1707c6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

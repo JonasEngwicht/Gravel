@@ -1,0 +1,37 @@
+{
+  "id": "md-burtonsville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4100 Sandy Spring Rd",
+    "city": "Burtonsville",
+    "state": "MD",
+    "zip": "20866"
+  },
+  "location": {
+    "lat": 39.111942,
+    "lng": -76.927711
+  },
+  "contact": {
+    "phone": "(301) 421-1220",
+    "website": "https://www.siteone.com/en/store/654"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f53129f1-da22-427b-9610-9b267d729159",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-middlesex-north-carolina-mulch",
+  "slug": "north-carolina-mulch",
+  "name": "North Carolina Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3008 Prong Creek Rd",
+    "city": "Middlesex",
+    "state": "NC",
+    "zip": "27557"
+  },
+  "location": {
+    "lat": 35.867432,
+    "lng": -78.197281
+  },
+  "contact": {
+    "phone": "(252) 478-4609",
+    "website": "https://www.northcarolinamulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cafb9fec-6851-49ca-be88-dc96b3dbc585",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

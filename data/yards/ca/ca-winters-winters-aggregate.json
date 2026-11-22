@@ -1,0 +1,35 @@
+{
+  "id": "ca-winters-winters-aggregate",
+  "slug": "winters-aggregate",
+  "name": "Winters Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4499 Putah Creek Rd",
+    "city": "Winters",
+    "state": "CA",
+    "zip": "95694"
+  },
+  "location": {
+    "lat": 38.51585,
+    "lng": -121.969795
+  },
+  "contact": {
+    "phone": "(530) 795-2994"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1b7ff3d-04fa-443b-9b58-ac8688427aee",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

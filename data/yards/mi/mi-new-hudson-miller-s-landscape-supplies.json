@@ -1,0 +1,36 @@
+{
+  "id": "mi-new-hudson-miller-s-landscape-supplies",
+  "slug": "miller-s-landscape-supplies",
+  "name": "Miller's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "54001 Grand River Ave",
+    "city": "New Hudson",
+    "state": "MI",
+    "zip": "48165"
+  },
+  "location": {
+    "lat": 42.504818,
+    "lng": -83.585335
+  },
+  "contact": {
+    "phone": "(248) 437-8009",
+    "website": "http://Millerslandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "490851ed-324b-45c9-9cfb-6582db0ca664",
+    "confidence": 0.982,
+    "merged_records": 1
+  }
+}

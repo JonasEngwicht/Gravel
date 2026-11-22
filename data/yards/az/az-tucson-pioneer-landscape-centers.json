@@ -1,0 +1,37 @@
+{
+  "id": "az-tucson-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "1011 W Valencia Rd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85706"
+  },
+  "location": {
+    "lat": 32.132725,
+    "lng": -110.990799
+  },
+  "contact": {
+    "phone": "(520) 294-0074",
+    "website": "http://www.pioneersand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c223fbf9-bf7d-4f36-98c7-3e84978b0248",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

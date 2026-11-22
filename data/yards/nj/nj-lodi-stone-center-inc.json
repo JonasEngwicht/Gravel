@@ -1,0 +1,36 @@
+{
+  "id": "nj-lodi-stone-center-inc",
+  "slug": "stone-center-inc",
+  "name": "Stone Center Inc.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "251 Garibaldi Ave",
+    "city": "Lodi",
+    "state": "NJ",
+    "zip": "07644"
+  },
+  "location": {
+    "lat": 40.880363,
+    "lng": -74.073555
+  },
+  "contact": {
+    "phone": "(973) 591-0240",
+    "website": "http://stonecenterinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b6f2027-1b53-4f02-b5c7-2f72db88fa26",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

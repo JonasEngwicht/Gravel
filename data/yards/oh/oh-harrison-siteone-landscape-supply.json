@@ -1,0 +1,37 @@
+{
+  "id": "oh-harrison-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10051 Simonson Rd",
+    "city": "Harrison",
+    "state": "OH",
+    "zip": "45030"
+  },
+  "location": {
+    "lat": 39.236191,
+    "lng": -84.775047
+  },
+  "contact": {
+    "phone": "(513) 202-1740",
+    "website": "https://www.siteone.com/store/674"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b03f47fd-fdeb-424a-b54f-ea9aee9b37a5",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

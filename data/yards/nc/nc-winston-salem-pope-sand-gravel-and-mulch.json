@@ -1,0 +1,36 @@
+{
+  "id": "nc-winston-salem-pope-sand-gravel-and-mulch",
+  "slug": "pope-sand-gravel-and-mulch",
+  "name": "Pope Sand, Gravel & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2578 S Stratford Rd",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27103"
+  },
+  "location": {
+    "lat": 36.0452,
+    "lng": -80.328735
+  },
+  "contact": {
+    "phone": "(336) 546-7028",
+    "website": "http://www.popesandgravelandmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a23e5876-5585-4be6-9bf3-47096808caf7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

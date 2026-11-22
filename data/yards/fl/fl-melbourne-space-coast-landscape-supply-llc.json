@@ -1,0 +1,36 @@
+{
+  "id": "fl-melbourne-space-coast-landscape-supply-llc",
+  "slug": "space-coast-landscape-supply-llc",
+  "name": "Space Coast Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1195 Lake Washington Rd",
+    "city": "Melbourne",
+    "state": "FL",
+    "zip": "32935"
+  },
+  "location": {
+    "lat": 28.147137,
+    "lng": -80.638992
+  },
+  "contact": {
+    "phone": "(321) 428-5451",
+    "website": "http://www.spacecoastlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4b97734f-7211-4fd8-b3a2-3ab8134e351e",
+    "confidence": 0.51,
+    "merged_records": 1
+  }
+}

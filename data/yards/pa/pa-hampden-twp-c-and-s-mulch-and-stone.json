@@ -1,0 +1,36 @@
+{
+  "id": "pa-hampden-twp-c-and-s-mulch-and-stone",
+  "slug": "c-and-s-mulch-and-stone",
+  "name": "C&S Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5270 E Trindle Rd",
+    "city": "Hampden Twp",
+    "state": "PA",
+    "zip": "17055"
+  },
+  "location": {
+    "lat": 40.218307,
+    "lng": -76.989021
+  },
+  "contact": {
+    "phone": "(717) 701-5552",
+    "website": "http://www.csmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b048b56-df36-4ea5-8d06-514e93c00e45",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

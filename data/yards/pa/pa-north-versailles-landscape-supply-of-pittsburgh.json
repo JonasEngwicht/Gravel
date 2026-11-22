@@ -1,0 +1,36 @@
+{
+  "id": "pa-north-versailles-landscape-supply-of-pittsburgh",
+  "slug": "landscape-supply-of-pittsburgh",
+  "name": "Landscape Supply of Pittsburgh",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1344 Greensburg Ave",
+    "city": "North Versailles",
+    "state": "PA",
+    "zip": "15137"
+  },
+  "location": {
+    "lat": 40.381981,
+    "lng": -79.817604
+  },
+  "contact": {
+    "phone": "(412) 651-1069",
+    "website": "http://www.PGHSUPPLY.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4758eb9-3d14-4dd5-9dc5-f2b57dc0da2f",
+    "confidence": 0.857,
+    "merged_records": 1
+  }
+}

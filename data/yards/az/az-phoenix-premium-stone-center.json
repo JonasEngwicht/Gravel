@@ -1,0 +1,36 @@
+{
+  "id": "az-phoenix-premium-stone-center",
+  "slug": "premium-stone-center",
+  "name": "Premium Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1850 W Latham St",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85007"
+  },
+  "location": {
+    "lat": 33.460529,
+    "lng": -112.098953
+  },
+  "contact": {
+    "phone": "(602) 612-3778",
+    "website": "http://www.Premiumstonecenter.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b8a19dc-0b16-4290-9897-e67ccd116109",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-huntsville-landscape-depot",
+  "slug": "landscape-depot",
+  "name": "Landscape Depot",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3858 Highway 30 W",
+    "city": "Huntsville",
+    "state": "TX",
+    "zip": "77320"
+  },
+  "location": {
+    "lat": 30.70326,
+    "lng": -95.610756
+  },
+  "contact": {
+    "phone": "(936) 278-0051",
+    "website": "https://www.landscapedepottexas.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9dfc8c3-1f36-455c-8611-a41cb771033f",
+    "confidence": 0.96,
+    "merged_records": 1
+  }
+}

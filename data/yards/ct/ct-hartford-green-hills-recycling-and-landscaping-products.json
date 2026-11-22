@@ -1,0 +1,36 @@
+{
+  "id": "ct-hartford-green-hills-recycling-and-landscaping-products",
+  "slug": "green-hills-recycling-and-landscaping-products",
+  "name": "Green Hills Recycling & Landscaping Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "275 Weston St",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06120"
+  },
+  "location": {
+    "lat": 41.798733,
+    "lng": -72.656868
+  },
+  "contact": {
+    "phone": "(860) 648-2247",
+    "website": "https://www.greenhillslandscapingct.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ad43a7a-120d-42fb-9ea5-abac60e5e19c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-pineville-charles-luck-stone-center",
+  "slug": "charles-luck-stone-center",
+  "name": "Charles Luck Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "515 Towne Centre Blvd",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134"
+  },
+  "location": {
+    "lat": 35.080238,
+    "lng": -80.88311
+  },
+  "contact": {
+    "phone": "(888) 475-5825",
+    "website": "https://charlesluck.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "65cdf288-9917-4de8-b93b-c338ffac7c75",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

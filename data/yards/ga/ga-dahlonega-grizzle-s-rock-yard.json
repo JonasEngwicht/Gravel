@@ -1,0 +1,36 @@
+{
+  "id": "ga-dahlonega-grizzle-s-rock-yard",
+  "slug": "grizzle-s-rock-yard",
+  "name": "Grizzle's Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4774 Long Branch Rd",
+    "city": "Dahlonega",
+    "state": "GA",
+    "zip": "30533"
+  },
+  "location": {
+    "lat": 34.52248,
+    "lng": -83.913239
+  },
+  "contact": {
+    "phone": "(706) 864-4169",
+    "website": "http://www.ralphgrizzlerockyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f246fd9-545d-4451-965c-b23aeb5e71a7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

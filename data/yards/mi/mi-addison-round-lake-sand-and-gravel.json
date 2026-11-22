@@ -1,0 +1,47 @@
+{
+  "id": "mi-addison-round-lake-sand-and-gravel",
+  "slug": "round-lake-sand-and-gravel",
+  "name": "Round Lake Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8707 Round Lake Hwy",
+    "city": "Addison",
+    "state": "MI",
+    "zip": "49220"
+  },
+  "location": {
+    "lat": 42.011047,
+    "lng": -84.274887
+  },
+  "contact": {
+    "phone": "(517) 467-4458",
+    "website": "http://www.gerkencompanies.com/gmrlsg.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "33539aaf-5970-4373-9b1f-af5a795ee80a",
+    "confidence": 0.92,
+    "merged_records": 3
+  },
+  "msha": [
+    {
+      "mine_id": "2002704",
+      "name": "Round Lake",
+      "operator": "Gerken Materials Inc.",
+      "status": "Abandoned",
+      "status_since": "2025-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "in-lafayette-wrede-rocks-and-mulch",
+  "slug": "wrede-rocks-and-mulch",
+  "name": "Wrede Rocks and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3728 US-231",
+    "city": "Lafayette",
+    "state": "IN",
+    "zip": "47909"
+  },
+  "location": {
+    "lat": 40.367817,
+    "lng": -86.905098
+  },
+  "contact": {
+    "phone": "(765) 471-6852",
+    "website": "http://www.wrederocks.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "73eb7707-dc36-4178-a69e-3f153ff9e337",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

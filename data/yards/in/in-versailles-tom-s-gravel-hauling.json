@@ -1,0 +1,35 @@
+{
+  "id": "in-versailles-tom-s-gravel-hauling",
+  "slug": "tom-s-gravel-hauling",
+  "name": "Tom's Gravel Hauling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4760 S Friendship Rd",
+    "city": "Versailles",
+    "state": "IN",
+    "zip": "47042"
+  },
+  "location": {
+    "lat": 39.002285,
+    "lng": -85.165932
+  },
+  "contact": {
+    "phone": "(812) 621-0927"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d0eb9a0-3e60-4d83-b684-2be8e46210df",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

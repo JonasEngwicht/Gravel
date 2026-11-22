@@ -1,0 +1,37 @@
+{
+  "id": "fl-cape-coral-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "909 SE 14th Ave",
+    "city": "Cape Coral",
+    "state": "FL",
+    "zip": "33990"
+  },
+  "location": {
+    "lat": 26.635368,
+    "lng": -81.944382
+  },
+  "contact": {
+    "phone": "(239) 574-4500",
+    "website": "https://www.siteone.com/store/409"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "925b7f8b-4b86-44e4-a65a-c2e0dd4f5541",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

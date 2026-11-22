@@ -1,0 +1,36 @@
+{
+  "id": "al-gadsden-gadsden-landscape-supply",
+  "slug": "gadsden-landscape-supply",
+  "name": "Gadsden Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "403 N 33rd St",
+    "city": "Gadsden",
+    "state": "AL",
+    "zip": "35904"
+  },
+  "location": {
+    "lat": 34.022736,
+    "lng": -86.054955
+  },
+  "contact": {
+    "phone": "(256) 547-0592",
+    "website": "http://gadsdenlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c7978dc-3279-4e9f-a4de-abc4a7632a86",
+    "confidence": 0.922,
+    "merged_records": 1
+  }
+}

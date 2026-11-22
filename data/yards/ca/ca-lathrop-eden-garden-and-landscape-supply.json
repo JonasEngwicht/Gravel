@@ -1,0 +1,36 @@
+{
+  "id": "ca-lathrop-eden-garden-and-landscape-supply",
+  "slug": "eden-garden-and-landscape-supply",
+  "name": "Eden Garden and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "16456 S Manthey Rd",
+    "city": "Lathrop",
+    "state": "CA",
+    "zip": "95330"
+  },
+  "location": {
+    "lat": 37.812172,
+    "lng": -121.297043
+  },
+  "contact": {
+    "phone": "(209) 983-8538",
+    "website": "http://edengardensupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ef38847-9e6c-4c53-93e6-7a623bfdda92",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

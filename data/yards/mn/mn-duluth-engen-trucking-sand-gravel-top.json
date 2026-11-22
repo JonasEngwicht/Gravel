@@ -1,0 +1,35 @@
+{
+  "id": "mn-duluth-engen-trucking-sand-gravel-top",
+  "slug": "engen-trucking-sand-gravel-top",
+  "name": "Engen Trucking Sand Gravel Top",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6073 Mcquade Rd",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55804"
+  },
+  "location": {
+    "lat": 46.950619,
+    "lng": -91.921059
+  },
+  "contact": {
+    "phone": "(218) 525-5403"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa13449c-26ce-464b-86f1-36a6d44809da",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

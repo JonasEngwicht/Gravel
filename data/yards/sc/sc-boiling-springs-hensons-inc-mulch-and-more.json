@@ -1,0 +1,36 @@
+{
+  "id": "sc-boiling-springs-hensons-inc-mulch-and-more",
+  "slug": "hensons-inc-mulch-and-more",
+  "name": "HENSONS' INC. MULCH & MORE",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8850 ASHEVILLE HIGHWAY",
+    "city": "Boiling Springs",
+    "state": "SC",
+    "zip": "29316"
+  },
+  "location": {
+    "lat": 35.010075,
+    "lng": -82.014397
+  },
+  "contact": {
+    "phone": "(864) 578-9060",
+    "website": "http://www.hensonsinc.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c1f81be2-dd5a-45cf-807e-3b9516cfa67f",
+    "confidence": 0.984,
+    "merged_records": 1
+  }
+}

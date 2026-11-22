@@ -1,0 +1,36 @@
+{
+  "id": "il-mchenry-super-aggregates",
+  "slug": "super-aggregates",
+  "name": "Super Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5435 Bull Valley Rd  Ste 330",
+    "city": "McHenry",
+    "state": "IL",
+    "zip": "60050"
+  },
+  "location": {
+    "lat": 42.319759,
+    "lng": -88.304344
+  },
+  "contact": {
+    "phone": "(815) 385-8000",
+    "website": "http://superaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b2743bf0-04d3-4be0-b259-562efa42664c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

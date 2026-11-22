@@ -1,0 +1,37 @@
+{
+  "id": "ga-tyrone-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "158 Rockwood Rd",
+    "city": "Tyrone",
+    "state": "GA",
+    "zip": "30290"
+  },
+  "location": {
+    "lat": 33.441269,
+    "lng": -84.611656
+  },
+  "contact": {
+    "phone": "(770) 631-2874",
+    "website": "https://www.siteone.com/store/612"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "874edc3f-d3fb-4e5e-820b-9127bfde5c8d",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

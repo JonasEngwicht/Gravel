@@ -1,0 +1,36 @@
+{
+  "id": "ny-schoharie-carver-sand-and-gravel",
+  "slug": "carver-sand-and-gravel",
+  "name": "Carver Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4860 State Route 30",
+    "city": "Schoharie",
+    "state": "NY",
+    "zip": "12157"
+  },
+  "location": {
+    "lat": 42.635048,
+    "lng": -74.32135
+  },
+  "contact": {
+    "phone": "(518) 827-5354",
+    "website": "http://carverstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b7c0f05-e5dd-428d-82c8-61b40796093e",
+    "confidence": 0.936,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nv-las-vegas-burlap-and-landscape-supply-company",
+  "slug": "burlap-and-landscape-supply-company",
+  "name": "Burlap and Landscape Supply Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5340 Cameron St Ste 19",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89118"
+  },
+  "location": {
+    "lat": 36.092884,
+    "lng": -115.203323
+  },
+  "contact": {
+    "phone": "(702) 253-9721",
+    "website": "http://burlaplandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c9dfb886-188f-498b-8563-acc6ef7451c8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

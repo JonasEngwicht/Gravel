@@ -1,0 +1,36 @@
+{
+  "id": "ca-woodland-c-l-smith-trucking-landscape-materials",
+  "slug": "c-l-smith-trucking-landscape-materials",
+  "name": "C.L. Smith Trucking Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "37763 CA-16",
+    "city": "Woodland",
+    "state": "CA",
+    "zip": "95695"
+  },
+  "location": {
+    "lat": 38.676987,
+    "lng": -121.806084
+  },
+  "contact": {
+    "phone": "(530) 662-2633",
+    "website": "http://WWW.CLSMITHTRUCKING.COM/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "574018e4-83be-4891-a011-da2af7d30acd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

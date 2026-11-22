@@ -1,0 +1,36 @@
+{
+  "id": "mn-webster-viking-aggregate-equipment",
+  "slug": "viking-aggregate-equipment",
+  "name": "Viking Aggregate Equipment",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3450 Hazelwood Ave",
+    "city": "Webster",
+    "state": "MN",
+    "zip": "55088"
+  },
+  "location": {
+    "lat": 44.538788,
+    "lng": -93.284348
+  },
+  "contact": {
+    "phone": "(952) 652-2047",
+    "website": "http://www.vikingaggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b8d577eb-c0d4-46f1-be46-3a065396890a",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "az-mesa-national-specialty-aggregates",
+  "slug": "national-specialty-aggregates",
+  "name": "National Specialty Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4310 S 80th St",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85212"
+  },
+  "location": {
+    "lat": 33.338875,
+    "lng": -111.661964
+  },
+  "contact": {
+    "phone": "(480) 380-9880"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b0b884b-82b3-4237-b47e-b611db64dd2d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

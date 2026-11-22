@@ -1,0 +1,36 @@
+{
+  "id": "in-fairland-brookfield-sand-and-gravel",
+  "slug": "brookfield-sand-and-gravel",
+  "name": "Brookfield Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8587 N 850 W",
+    "city": "Fairland",
+    "state": "IN",
+    "zip": "46126"
+  },
+  "location": {
+    "lat": 39.648827,
+    "lng": -85.943031
+  },
+  "contact": {
+    "phone": "(317) 835-2235",
+    "website": "http://brookfieldsandandgravel.com/about/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fbe24d11-3e0f-41fe-a120-65cfc67c0400",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

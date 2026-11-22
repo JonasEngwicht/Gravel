@@ -1,0 +1,36 @@
+{
+  "id": "tn-jackson-delta-mulch-and-materials",
+  "slug": "delta-mulch-and-materials",
+  "name": "Delta Mulch and Materials",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "309 New Deal Rd",
+    "city": "Jackson",
+    "state": "TN",
+    "zip": "38305"
+  },
+  "location": {
+    "lat": 35.70715,
+    "lng": -88.751335
+  },
+  "contact": {
+    "phone": "(731) 437-6787",
+    "website": "http://www.deltamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c64d81f7-9179-4527-a073-4796a5f6777c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

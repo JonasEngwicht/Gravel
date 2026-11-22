@@ -1,0 +1,36 @@
+{
+  "id": "nj-scotch-plains-the-yard-topsoil-and-mulch-depot",
+  "slug": "the-yard-topsoil-and-mulch-depot",
+  "name": "The Yard Topsoil and Mulch Depot",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2115 Lake Ave",
+    "city": "Scotch Plains",
+    "state": "NJ",
+    "zip": "07076"
+  },
+  "location": {
+    "lat": 40.616776,
+    "lng": -74.34066
+  },
+  "contact": {
+    "phone": "(908) 233-9900",
+    "website": "http://www.TheYardNJ.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a5ad79d-8c5f-45db-bfa4-5e5a9fed0fe1",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

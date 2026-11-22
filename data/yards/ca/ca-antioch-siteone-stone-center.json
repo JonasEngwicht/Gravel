@@ -1,0 +1,37 @@
+{
+  "id": "ca-antioch-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "2665 Pittsburg Antioch Hwy",
+    "city": "Antioch",
+    "state": "CA",
+    "zip": "94509"
+  },
+  "location": {
+    "lat": 38.012508,
+    "lng": -121.847527
+  },
+  "contact": {
+    "phone": "(925) 778-3123",
+    "website": "https://www.siteone.com/en/store/420"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "23f67757-b11c-4029-8a03-8d1e4a0bbe33",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "al-alexandria-southpaw-landscape-supply-llc",
+  "slug": "southpaw-landscape-supply-llc",
+  "name": "SouthPaw Landscape Supply LLC.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7385 AL-144",
+    "city": "Alexandria",
+    "state": "AL",
+    "zip": "36250"
+  },
+  "location": {
+    "lat": 36.03529,
+    "lng": -81.887581
+  },
+  "contact": {
+    "phone": "(256) 330-0131"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41eda83f-3ab9-4666-973a-307c3a1265b7",
+    "confidence": 0.777,
+    "merged_records": 1
+  }
+}

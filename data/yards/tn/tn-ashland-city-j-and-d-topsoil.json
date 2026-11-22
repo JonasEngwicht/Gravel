@@ -1,0 +1,36 @@
+{
+  "id": "tn-ashland-city-j-and-d-topsoil",
+  "slug": "j-and-d-topsoil",
+  "name": "J & D Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "346 Angler Ln",
+    "city": "Ashland City",
+    "state": "TN",
+    "zip": "37015"
+  },
+  "location": {
+    "lat": 36.215302,
+    "lng": -87.009117
+  },
+  "contact": {
+    "phone": "(615) 419-4913",
+    "website": "http://www.topsoilsalesnashville.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a01b0126-a6e9-40aa-8d7f-d0fd7736ac60",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

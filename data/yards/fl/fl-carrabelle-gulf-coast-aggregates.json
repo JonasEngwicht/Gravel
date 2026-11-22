@@ -1,0 +1,36 @@
+{
+  "id": "fl-carrabelle-gulf-coast-aggregates",
+  "slug": "gulf-coast-aggregates",
+  "name": "Gulf Coast Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "55502 Highway 67",
+    "city": "Carrabelle",
+    "state": "FL",
+    "zip": "32322"
+  },
+  "location": {
+    "lat": 29.887497,
+    "lng": -84.638214
+  },
+  "contact": {
+    "phone": "(850) 697-4669",
+    "website": "http://www.gulfcoastaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c7b22434-8b44-454b-b745-800504eb9955",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-northfield-affordable-mulch-and-landscape-supply-company",
+  "slug": "affordable-mulch-and-landscape-supply-company",
+  "name": "Affordable Mulch & Landscape Supply Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "285 E Twinsburg Rd  Ste F",
+    "city": "Northfield",
+    "state": "OH",
+    "zip": "44067"
+  },
+  "location": {
+    "lat": 41.283417,
+    "lng": -81.505386
+  },
+  "contact": {
+    "phone": "(216) 533-1575",
+    "website": "http://affordable-mulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0fd0b4f-ab12-4741-8e8a-ae9c68f8566f",
+    "confidence": 0.95,
+    "merged_records": 2
+  }
+}

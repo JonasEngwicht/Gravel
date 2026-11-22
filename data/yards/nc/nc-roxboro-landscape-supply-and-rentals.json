@@ -1,0 +1,36 @@
+{
+  "id": "nc-roxboro-landscape-supply-and-rentals",
+  "slug": "landscape-supply-and-rentals",
+  "name": "Landscape Supply & Rentals",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "969 Old Durham Rd",
+    "city": "Roxboro",
+    "state": "NC",
+    "zip": "27573"
+  },
+  "location": {
+    "lat": 36.365875,
+    "lng": -78.978439
+  },
+  "contact": {
+    "phone": "(336) 599-8398",
+    "website": "http://www.lsandr.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "727467f9-e839-4982-9ba2-f26ba7d62e3d",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

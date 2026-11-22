@@ -1,0 +1,35 @@
+{
+  "id": "mn-lonsdale-don-s-trucking-and-landscape-supplies",
+  "slug": "don-s-trucking-and-landscape-supplies",
+  "name": "Don's Trucking and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9625 80th St W",
+    "city": "Lonsdale",
+    "state": "MN",
+    "zip": "55046"
+  },
+  "location": {
+    "lat": 44.473927,
+    "lng": -93.455933
+  },
+  "contact": {
+    "phone": "(507) 744-2374"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c879fe23-84fc-4baa-a81a-3e682c612ffe",
+    "confidence": 0.544,
+    "merged_records": 1
+  }
+}

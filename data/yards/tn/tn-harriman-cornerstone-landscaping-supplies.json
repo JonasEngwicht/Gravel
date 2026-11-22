@@ -1,0 +1,35 @@
+{
+  "id": "tn-harriman-cornerstone-landscaping-supplies",
+  "slug": "cornerstone-landscaping-supplies",
+  "name": "Cornerstone Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2115 S Roane St",
+    "city": "Harriman",
+    "state": "TN",
+    "zip": "37748"
+  },
+  "location": {
+    "lat": 35.896324,
+    "lng": -84.610214
+  },
+  "contact": {
+    "phone": "(865) 882-7291"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "29d53b62-469e-4f79-a21c-df518c3fc852",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

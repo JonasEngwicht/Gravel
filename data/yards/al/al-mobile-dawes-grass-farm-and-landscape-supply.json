@@ -1,0 +1,36 @@
+{
+  "id": "al-mobile-dawes-grass-farm-and-landscape-supply",
+  "slug": "dawes-grass-farm-and-landscape-supply",
+  "name": "Dawes Grass Farm & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4511 Dawes Ln E",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36619"
+  },
+  "location": {
+    "lat": 30.59654,
+    "lng": -88.248871
+  },
+  "contact": {
+    "phone": "(251) 666-4878",
+    "website": "http://www.dawesgrass.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dcc418e3-316c-4102-93f7-ecdcfced04bf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

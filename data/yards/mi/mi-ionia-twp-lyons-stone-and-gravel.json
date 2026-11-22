@@ -1,0 +1,47 @@
+{
+  "id": "mi-ionia-twp-lyons-stone-and-gravel",
+  "slug": "lyons-stone-and-gravel",
+  "name": "Lyons Stone and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5300 Riverside Dr",
+    "city": "Ionia Twp",
+    "state": "MI",
+    "zip": "48851"
+  },
+  "location": {
+    "lat": 42.979656,
+    "lng": -84.971497
+  },
+  "contact": {
+    "phone": "(989) 855-2342"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db90db95-4670-44b1-b6ce-7ef58db7d0bf",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003524",
+      "name": "Lyons Stone",
+      "operator": "Shattuck Stone & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2018-06-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

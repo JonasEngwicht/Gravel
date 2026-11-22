@@ -1,0 +1,36 @@
+{
+  "id": "or-hillsboro-best-buy-in-town-landscape-supply",
+  "slug": "best-buy-in-town-landscape-supply",
+  "name": "Best Buy In Town Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2200 NW Cornelius Pass Rd",
+    "city": "Hillsboro",
+    "state": "OR",
+    "zip": "97124"
+  },
+  "location": {
+    "lat": 45.536247,
+    "lng": -122.900032
+  },
+  "contact": {
+    "phone": "(503) 645-6665",
+    "website": "http://www.bestbuyintown.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ea92211-ffa4-4d01-8ef1-60f83c7d31ca",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

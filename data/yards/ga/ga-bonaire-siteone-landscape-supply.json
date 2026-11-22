@@ -1,0 +1,37 @@
+{
+  "id": "ga-bonaire-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "101 Pecan St",
+    "city": "Bonaire",
+    "state": "GA",
+    "zip": "31005"
+  },
+  "location": {
+    "lat": 32.544502,
+    "lng": -83.597397
+  },
+  "contact": {
+    "phone": "(478) 918-0204",
+    "website": "https://www.siteone.com/store/209"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "138734ef-080d-4f76-8e47-c73ba2d073f9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

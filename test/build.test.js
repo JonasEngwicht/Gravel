@@ -34,3 +34,15 @@ test("strukturierte Daten sind gültiges JSON", () => {
     JSON.parse(html.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
   }
 });
+
+test("Suchindex für das Verzeichnis passt zu den Seiten", () => {
+  const yards = JSON.parse(readFileSync(pub("assets/yards.json"), "utf8"));
+  const staedte = JSON.parse(readFileSync(pub("assets/cities.json"), "utf8"));
+  assert.ok(yards.length > 1000 && staedte.length > 100);
+  for (const y of yards.filter((_, i) => i % 97 === 0)) {
+    assert.equal(y.length, 9);
+    assert.ok(existsSync(pub(`landscape-supply/${y[6]}index.html`)), y[6]);
+  }
+  for (const c of staedte.filter((_, i) => i % 53 === 0)) assert.ok(existsSync(pub(`landscape-supply/${c[2]}index.html`)), c[2]);
+  assert.ok(existsSync(pub("assets/zip/770.json")));
+});

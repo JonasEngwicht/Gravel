@@ -1,0 +1,35 @@
+{
+  "id": "tx-amarillo-texas-sand-and-gravel-co",
+  "slug": "texas-sand-and-gravel-co",
+  "name": "Texas Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "317 Crockett St",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79106"
+  },
+  "location": {
+    "lat": 35.212704,
+    "lng": -101.856094
+  },
+  "contact": {
+    "phone": "(806) 373-4275"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1c60b740-92f7-47af-ac2b-4db4ef610fea",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

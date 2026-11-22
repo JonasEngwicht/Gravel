@@ -1,0 +1,36 @@
+{
+  "id": "la-baton-rouge-woerner-turf-and-landscape-supply",
+  "slug": "woerner-turf-and-landscape-supply",
+  "name": "Woerner Turf and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13278 Airline Hwy",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70817"
+  },
+  "location": {
+    "lat": 30.378384,
+    "lng": -91.036743
+  },
+  "contact": {
+    "phone": "(225) 752-2660",
+    "website": "https://woernerturf.com/landscape-supply-baton-rouge/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a2e59a3f-a125-4859-b3ae-55ab23a709ec",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

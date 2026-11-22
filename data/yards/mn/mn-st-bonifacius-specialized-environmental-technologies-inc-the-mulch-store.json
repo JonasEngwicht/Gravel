@@ -1,0 +1,36 @@
+{
+  "id": "mn-st-bonifacius-specialized-environmental-technologies-inc-the-mulch-store",
+  "slug": "specialized-environmental-technologies-inc-the-mulch-store",
+  "name": "Specialized Environmental Technologies, Inc. The Mulch Store",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4275 Creek View Cir",
+    "city": "St Bonifacius",
+    "state": "MN",
+    "zip": "55375"
+  },
+  "location": {
+    "lat": 44.901283,
+    "lng": -93.728035
+  },
+  "contact": {
+    "phone": "(952) 446-1056",
+    "website": "http://setmn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d89cfb8-ac4c-497c-afea-757d7d2da9fa",
+    "confidence": 0.807,
+    "merged_records": 1
+  }
+}

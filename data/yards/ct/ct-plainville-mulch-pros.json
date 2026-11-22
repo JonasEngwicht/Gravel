@@ -1,0 +1,36 @@
+{
+  "id": "ct-plainville-mulch-pros",
+  "slug": "mulch-pros",
+  "name": "Mulch Pros",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "230 S Washington St Ste 9",
+    "city": "Plainville",
+    "state": "CT",
+    "zip": "06062"
+  },
+  "location": {
+    "lat": 41.657032,
+    "lng": -72.874825
+  },
+  "contact": {
+    "phone": "(860) 770-8722",
+    "website": "https://www.mulchpros.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "301c22b9-5656-4741-b337-fbe750918625",
+    "confidence": 0.897,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mn-north-branch-barton-sand-and-gravel-company",
+  "slug": "barton-sand-and-gravel-company",
+  "name": "Barton Sand & Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12956 River Rd",
+    "city": "North Branch",
+    "state": "MN",
+    "zip": "55056"
+  },
+  "location": {
+    "lat": 45.552734,
+    "lng": -92.843262
+  },
+  "contact": {
+    "phone": "(651) 237-0772",
+    "website": "http://bartonsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0c672a2b-ab0f-4467-ac63-5d965b1b0b02",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

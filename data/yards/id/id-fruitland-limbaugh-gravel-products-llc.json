@@ -1,0 +1,35 @@
+{
+  "id": "id-fruitland-limbaugh-gravel-products-llc",
+  "slug": "limbaugh-gravel-products-llc",
+  "name": "Limbaugh Gravel Products Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "201 SW 2nd St",
+    "city": "Fruitland",
+    "state": "ID",
+    "zip": "83619"
+  },
+  "location": {
+    "lat": 44.010239,
+    "lng": -116.91568
+  },
+  "contact": {
+    "phone": "(208) 452-2922"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6161f94a-cbe3-4d7d-8a04-ce08e43ebf40",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

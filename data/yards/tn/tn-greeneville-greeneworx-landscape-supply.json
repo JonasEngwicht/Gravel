@@ -1,0 +1,36 @@
+{
+  "id": "tn-greeneville-greeneworx-landscape-supply",
+  "slug": "greeneworx-landscape-supply",
+  "name": "Greeneworx Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2900 W Andrew Johnson Hwy",
+    "city": "Greeneville",
+    "state": "TN",
+    "zip": "37743"
+  },
+  "location": {
+    "lat": 36.169495,
+    "lng": -82.870773
+  },
+  "contact": {
+    "phone": "(423) 639-9344",
+    "website": "http://greeneworx.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8792303-5107-4bf5-9b7b-177ac3d25eec",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

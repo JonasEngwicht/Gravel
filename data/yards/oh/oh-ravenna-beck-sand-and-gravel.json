@@ -1,0 +1,58 @@
+{
+  "id": "oh-ravenna-beck-sand-and-gravel",
+  "slug": "beck-sand-and-gravel",
+  "name": "Beck Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2820 Webb Rd",
+    "city": "Ravenna",
+    "state": "OH",
+    "zip": "44266"
+  },
+  "location": {
+    "lat": 41.213306,
+    "lng": -81.293839
+  },
+  "contact": {
+    "phone": "(330) 626-3863",
+    "website": "http://www.becksand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "668b91f7-b230-4dcf-9282-40656876c6ed",
+    "confidence": 1.0,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301401",
+      "name": "Beck Sand & Gravel, Inc.",
+      "operator": "Beck Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "1999-04-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 13
+    },
+    {
+      "mine_id": "3304445",
+      "name": "S & S Aggregate Plant #16",
+      "operator": "S & S Aggregate",
+      "status": "Intermittent",
+      "status_since": "2026-03-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

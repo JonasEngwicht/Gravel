@@ -1,0 +1,35 @@
+{
+  "id": "ny-bay-shore-hubbard-sand-and-gravel",
+  "slug": "hubbard-sand-and-gravel",
+  "name": "Hubbard Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1612 5th Ave",
+    "city": "Bay Shore",
+    "state": "NY",
+    "zip": "11706"
+  },
+  "location": {
+    "lat": 40.756939,
+    "lng": -73.264984
+  },
+  "contact": {
+    "phone": "(631) 665-1005"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "67a7f459-21c7-4171-8dd3-8ac6f04d1d2b",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

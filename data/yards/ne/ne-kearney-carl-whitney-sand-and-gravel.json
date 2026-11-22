@@ -1,0 +1,35 @@
+{
+  "id": "ne-kearney-carl-whitney-sand-and-gravel",
+  "slug": "carl-whitney-sand-and-gravel",
+  "name": "Carl Whitney Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "715 S 2nd Ave",
+    "city": "Kearney",
+    "state": "NE",
+    "zip": "68847"
+  },
+  "location": {
+    "lat": 40.660488,
+    "lng": -99.084274
+  },
+  "contact": {
+    "phone": "(308) 237-2526"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "84749f2b-5786-4533-bcea-5cd0b75794b9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

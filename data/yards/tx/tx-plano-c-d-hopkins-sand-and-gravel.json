@@ -1,0 +1,32 @@
+{
+  "id": "tx-plano-c-d-hopkins-sand-and-gravel",
+  "slug": "c-d-hopkins-sand-and-gravel",
+  "name": "C D Hopkins Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1201 E 15th St",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074"
+  },
+  "location": {
+    "lat": 33.019905,
+    "lng": -96.697273
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f00fb09c-9057-4cec-8095-44ddf83a0adc",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

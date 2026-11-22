@@ -1,0 +1,36 @@
+{
+  "id": "tx-flint-c-and-a-landscaping-supply",
+  "slug": "c-and-a-landscaping-supply",
+  "name": "C&A Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21974 State Hwy 155",
+    "city": "Flint",
+    "state": "TX",
+    "zip": "75762"
+  },
+  "location": {
+    "lat": 32.161488,
+    "lng": -95.45639
+  },
+  "contact": {
+    "phone": "(903) 978-2504",
+    "website": "http://www.calandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d5ce773f-be97-48a3-8567-b3edc03a689b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mi-taylor-metro-topsoil-and-sand-inc",
+  "slug": "metro-topsoil-and-sand-inc",
+  "name": "Metro Topsoil & Sand Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "26040 Northline Rd",
+    "city": "Taylor",
+    "state": "MI",
+    "zip": "48180"
+  },
+  "location": {
+    "lat": 42.212494,
+    "lng": -83.291061
+  },
+  "contact": {
+    "phone": "(734) 946-1136"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82fd4661-e46d-478c-9e1c-3f0665fd75e5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

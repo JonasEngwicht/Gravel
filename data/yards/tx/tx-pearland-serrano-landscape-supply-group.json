@@ -1,0 +1,35 @@
+{
+  "id": "tx-pearland-serrano-landscape-supply-group",
+  "slug": "serrano-landscape-supply-group",
+  "name": "Serrano Landscape Supply Group",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7230 Bailey Rd",
+    "city": "Pearland",
+    "state": "TX",
+    "zip": "77584"
+  },
+  "location": {
+    "lat": 29.530001,
+    "lng": -95.333107
+  },
+  "contact": {
+    "phone": "(832) 637-7513"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe3ad1a2-066c-4f5a-8afe-c4a517e5dbdb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

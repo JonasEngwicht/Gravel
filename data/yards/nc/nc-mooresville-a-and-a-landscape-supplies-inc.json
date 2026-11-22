@@ -1,0 +1,36 @@
+{
+  "id": "nc-mooresville-a-and-a-landscape-supplies-inc",
+  "slug": "a-and-a-landscape-supplies-inc",
+  "name": "A&A Landscape Supplies, Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2880 Charlotte Hwy",
+    "city": "Mooresville",
+    "state": "NC",
+    "zip": "28117"
+  },
+  "location": {
+    "lat": 35.576275,
+    "lng": -80.842033
+  },
+  "contact": {
+    "phone": "(704) 660-1000",
+    "website": "http://aalandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9c127ae-6e8a-490d-ad19-b52c469eab8d",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

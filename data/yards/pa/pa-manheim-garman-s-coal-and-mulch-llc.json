@@ -1,0 +1,36 @@
+{
+  "id": "pa-manheim-garman-s-coal-and-mulch-llc",
+  "slug": "garman-s-coal-and-mulch-llc",
+  "name": "Garman's Coal & Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "196 N Erisman Rd",
+    "city": "Manheim",
+    "state": "PA",
+    "zip": "17545"
+  },
+  "location": {
+    "lat": 40.135723,
+    "lng": -76.443146
+  },
+  "contact": {
+    "phone": "(717) 653-9580",
+    "website": "http://www.garmansmulchlancastercounty.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2894463-1d2b-4b19-aa13-6ef87d56fd83",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-kyle-adn-landscape-supplies",
+  "slug": "adn-landscape-supplies",
+  "name": "ADN Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8374 Camino Real",
+    "city": "Kyle",
+    "state": "TX",
+    "zip": "78640"
+  },
+  "location": {
+    "lat": 29.936476,
+    "lng": -97.809593
+  },
+  "contact": {
+    "phone": "(512) 268-9433",
+    "website": "http://www.adnlandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e193e5f0-eece-42cd-902b-4d1688343654",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

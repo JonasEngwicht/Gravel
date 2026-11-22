@@ -1,0 +1,37 @@
+{
+  "id": "tx-mckinney-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "8960 W University Dr",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75071"
+  },
+  "location": {
+    "lat": 33.2187,
+    "lng": -96.731316
+  },
+  "contact": {
+    "phone": "(469) 952-6661",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf1af480-aeb7-48ec-b7e9-0bdd6426cacd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

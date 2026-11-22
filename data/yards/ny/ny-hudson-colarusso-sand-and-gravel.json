@@ -1,0 +1,48 @@
+{
+  "id": "ny-hudson-colarusso-sand-and-gravel",
+  "slug": "colarusso-sand-and-gravel",
+  "name": "Colarusso Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "120 County Route 31",
+    "city": "Hudson",
+    "state": "NY",
+    "zip": "12534"
+  },
+  "location": {
+    "lat": 42.203915,
+    "lng": -73.797821
+  },
+  "contact": {
+    "phone": "(518) 828-1131",
+    "website": "http://www.acolarusso.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b259ba09-9909-4f2b-93c4-ac24a189723f",
+    "confidence": 0.584,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3001711",
+      "name": "Kearney Pit",
+      "operator": "Colarusso Sand & Gravel Co",
+      "status": "Active",
+      "status_since": "2003-03-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

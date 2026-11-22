@@ -1,0 +1,36 @@
+{
+  "id": "md-williamsport-rocky-lea-mulch",
+  "slug": "rocky-lea-mulch",
+  "name": "Rocky Lea Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14436 Clear Spring Rd",
+    "city": "Williamsport",
+    "state": "MD",
+    "zip": "21795"
+  },
+  "location": {
+    "lat": 39.633785,
+    "lng": -77.867188
+  },
+  "contact": {
+    "phone": "(301) 301-9655",
+    "website": "https://www.rockyleamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "87fb44ce-eaf6-47d4-8c5b-c1f0593df111",
+    "confidence": 0.958,
+    "merged_records": 1
+  }
+}

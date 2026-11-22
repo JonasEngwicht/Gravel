@@ -1,0 +1,36 @@
+{
+  "id": "tx-mission-ipe-aggregate",
+  "slug": "ipe-aggregate",
+  "name": "IPE Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1513 Industrial Blvd",
+    "city": "Mission",
+    "state": "TX",
+    "zip": "78572"
+  },
+  "location": {
+    "lat": 26.207724,
+    "lng": -98.346466
+  },
+  "contact": {
+    "phone": "(956) 581-8384",
+    "website": "https://ipeaggregate.com/contact-us/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6cf53715-624a-4d90-a7f3-f226c55e2920",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

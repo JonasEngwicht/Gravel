@@ -1,0 +1,36 @@
+{
+  "id": "or-salem-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1130 Liberty Street SE, Suite 3",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97302"
+  },
+  "location": {
+    "lat": 44.929878,
+    "lng": -123.042274
+  },
+  "contact": {
+    "website": "https://www.siteone.com/store/825"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31004054-1ed5-4094-9f7d-e986970f52f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-sarasota-1-stop-landscape-supply-and-yard-waste-recycling-facility",
+  "slug": "1-stop-landscape-supply-and-yard-waste-recycling-facility",
+  "name": "1 Stop Landscape Supply & Yard Waste Recycling Facility",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3207 71st Ave E",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34243"
+  },
+  "location": {
+    "lat": 27.414907,
+    "lng": -82.522896
+  },
+  "contact": {
+    "phone": "(941) 739-1020",
+    "website": "http://www.1stoplandscapefl.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b1035b39-4170-4d13-a4d7-c214ee22ba2d",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

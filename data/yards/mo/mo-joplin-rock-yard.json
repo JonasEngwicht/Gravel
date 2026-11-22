@@ -1,0 +1,36 @@
+{
+  "id": "mo-joplin-rock-yard",
+  "slug": "rock-yard",
+  "name": "Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "815 S Schifferdecker Ave",
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64801"
+  },
+  "location": {
+    "lat": 37.082222,
+    "lng": -94.548904
+  },
+  "contact": {
+    "phone": "(417) 781-1016",
+    "website": "http://www.rockyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa028ca0-c2b9-43b5-95f9-cca58a8f94ec",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

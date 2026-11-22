@@ -1,0 +1,36 @@
+{
+  "id": "ky-petersburg-belleview-sand-and-gravel",
+  "slug": "belleview-sand-and-gravel",
+  "name": "Belleview Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5725 Belleview Rd",
+    "city": "Petersburg",
+    "state": "KY",
+    "zip": "41080"
+  },
+  "location": {
+    "lat": 39.001991,
+    "lng": -84.83065
+  },
+  "contact": {
+    "phone": "(859) 586-8211",
+    "website": "https://flavorbakery.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "066b87b2-afc2-4548-9606-9d3d7269af0f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

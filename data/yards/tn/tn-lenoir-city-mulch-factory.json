@@ -1,0 +1,35 @@
+{
+  "id": "tn-lenoir-city-mulch-factory",
+  "slug": "mulch-factory",
+  "name": "Mulch Factory",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5168 Highway 321 N",
+    "city": "Lenoir City",
+    "state": "TN",
+    "zip": "37771"
+  },
+  "location": {
+    "lat": 35.839386,
+    "lng": -84.29686
+  },
+  "contact": {
+    "phone": "(865) 986-9930"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53c85460-0771-4b98-8df4-cc7aebc4b87b",
+    "confidence": 0.51,
+    "merged_records": 1
+  }
+}

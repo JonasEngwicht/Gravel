@@ -1,0 +1,48 @@
+{
+  "id": "oh-mantua-oscar-brugmann-sand-and-gravel",
+  "slug": "oscar-brugmann-sand-and-gravel",
+  "name": "Oscar Brugmann Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3828 Dudley Rd",
+    "city": "Mantua",
+    "state": "OH",
+    "zip": "44255"
+  },
+  "location": {
+    "lat": 41.267353,
+    "lng": -81.254662
+  },
+  "contact": {
+    "phone": "(330) 274-8224",
+    "website": "http://www.obsag.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "203352d8-9b83-48c0-b1a2-e5eec8da126a",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301532",
+      "name": "Oscar Brugmann Sand & Gravel Inc",
+      "operator": "Oscar Brugmann Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "1999-05-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

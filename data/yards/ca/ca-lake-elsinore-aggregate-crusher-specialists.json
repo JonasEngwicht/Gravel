@@ -1,0 +1,36 @@
+{
+  "id": "ca-lake-elsinore-aggregate-crusher-specialists",
+  "slug": "aggregate-crusher-specialists",
+  "name": "Aggregate Crusher Specialists",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18785 Collier Ave",
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "zip": "92530"
+  },
+  "location": {
+    "lat": 33.681461,
+    "lng": -117.329185
+  },
+  "contact": {
+    "phone": "(951) 471-2802",
+    "website": "http://www.aggregatecrusher.com/index.php/contact-us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba02d576-2ed5-4ba5-b48e-6d08546c24f9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

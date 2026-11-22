@@ -1,0 +1,36 @@
+{
+  "id": "pa-hermitage-mk-landscape-supply",
+  "slug": "mk-landscape-supply",
+  "name": "MK Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "910 Robertson Rd",
+    "city": "Hermitage",
+    "state": "PA",
+    "zip": "16148"
+  },
+  "location": {
+    "lat": 41.246441,
+    "lng": -80.418449
+  },
+  "contact": {
+    "phone": "(724) 983-1575",
+    "website": "http://mklandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1f78955d-7d28-455d-8850-e9107b94a2be",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

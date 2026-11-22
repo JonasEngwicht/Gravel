@@ -1,0 +1,37 @@
+{
+  "id": "al-birmingham-siteone-landscape-supply-7347-cahaba-valley-rd",
+  "slug": "siteone-landscape-supply-7347-cahaba-valley-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7347 Cahaba Valley Rd",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35242"
+  },
+  "location": {
+    "lat": 33.435913,
+    "lng": -86.662086
+  },
+  "contact": {
+    "phone": "(205) 980-0770",
+    "website": "http://www.johndeerelandscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "970a24e2-1b8a-4df8-80b2-bf344e178aa7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

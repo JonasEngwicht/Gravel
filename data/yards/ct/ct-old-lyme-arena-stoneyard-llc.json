@@ -1,0 +1,36 @@
+{
+  "id": "ct-old-lyme-arena-stoneyard-llc",
+  "slug": "arena-stoneyard-llc",
+  "name": "Arena Stoneyard Llc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6 Machnik Dr",
+    "city": "Old Lyme",
+    "state": "CT",
+    "zip": "06371"
+  },
+  "location": {
+    "lat": 41.314236,
+    "lng": -72.266937
+  },
+  "contact": {
+    "phone": "(860) 434-5505",
+    "website": "https://arenastoneyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8eac0d78-531c-4aa0-8380-e8ba6ee5a1fc",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

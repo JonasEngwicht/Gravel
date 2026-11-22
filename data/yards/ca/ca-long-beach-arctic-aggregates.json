@@ -1,0 +1,36 @@
+{
+  "id": "ca-long-beach-arctic-aggregates",
+  "slug": "arctic-aggregates",
+  "name": "Arctic Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2131 Technology Pl",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90810"
+  },
+  "location": {
+    "lat": 33.791199,
+    "lng": -118.219368
+  },
+  "contact": {
+    "phone": "(904) 549-9001",
+    "website": "https://arcticaggregates.com/contact-us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "92ef7d7d-fd9d-4bb3-8c13-b3c9baa15462",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

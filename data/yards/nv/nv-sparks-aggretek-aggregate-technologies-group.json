@@ -1,0 +1,36 @@
+{
+  "id": "nv-sparks-aggretek-aggregate-technologies-group",
+  "slug": "aggretek-aggregate-technologies-group",
+  "name": "Aggretek | Aggregate Technologies Group",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "150 Isidor Ct  Ste 103",
+    "city": "Sparks",
+    "state": "NV",
+    "zip": "89441"
+  },
+  "location": {
+    "lat": 39.66824,
+    "lng": -119.706543
+  },
+  "contact": {
+    "phone": "(775) 686-6900",
+    "website": "https://aggretek.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2924fa32-59f4-4544-972f-682ad9b42b0e",
+    "confidence": 0.862,
+    "merged_records": 1
+  }
+}

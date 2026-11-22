@@ -1,0 +1,36 @@
+{
+  "id": "sc-sumter-b-c-mulch-and-more-inc",
+  "slug": "b-c-mulch-and-more-inc",
+  "name": "B C Mulch & More Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3625 Broad St",
+    "city": "Sumter",
+    "state": "SC",
+    "zip": "29154"
+  },
+  "location": {
+    "lat": 33.963886,
+    "lng": -80.433571
+  },
+  "contact": {
+    "phone": "(803) 494-9273",
+    "website": "https://www.bcmulchandmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c75de2a-a84a-43eb-ac07-6cc378ee4ad5",
+    "confidence": 0.99,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mo-laurie-ozark-stone-yard-llc",
+  "slug": "ozark-stone-yard-llc",
+  "name": "Ozark Stone Yard LLC",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "211 MO-5",
+    "city": "Laurie",
+    "state": "MO",
+    "zip": "65037"
+  },
+  "location": {
+    "lat": 38.199875,
+    "lng": -92.835724
+  },
+  "contact": {
+    "phone": "(573) 990-2554",
+    "website": "http://ozarkstoneyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a995b179-0a02-4334-ae0b-ee9b704381e9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

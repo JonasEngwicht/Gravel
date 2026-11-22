@@ -1,0 +1,35 @@
+{
+  "id": "va-south-hill-top-notch-landscape-supply",
+  "slug": "top-notch-landscape-supply",
+  "name": "Top Notch Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "29229 Highway Fifty Eight",
+    "city": "South Hill",
+    "state": "VA",
+    "zip": "23970"
+  },
+  "location": {
+    "lat": 36.672386,
+    "lng": -78.217934
+  },
+  "contact": {
+    "phone": "(434) 865-0168"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c259d4ac-3fb6-4a8f-bdd7-9995bb2ce3b1",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

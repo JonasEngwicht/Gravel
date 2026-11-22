@@ -1,0 +1,36 @@
+{
+  "id": "va-charlottesville-landscape-supply",
+  "slug": "landscape-supply",
+  "name": "Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2424 Richmond Rd",
+    "city": "Charlottesville",
+    "state": "VA",
+    "zip": "22911"
+  },
+  "location": {
+    "lat": 38.016224,
+    "lng": -78.41597
+  },
+  "contact": {
+    "phone": "(434) 979-8873",
+    "website": "http://www.landscapesupplyva.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc52d967-c39b-4761-b2f1-8dd6acf2430f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

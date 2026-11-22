@@ -1,0 +1,36 @@
+{
+  "id": "ga-marietta-mountain-high-landscape-supply",
+  "slug": "mountain-high-landscape-supply",
+  "name": "Mountain High Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1389 Church Street Ext NW",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060"
+  },
+  "location": {
+    "lat": 33.97646,
+    "lng": -84.554634
+  },
+  "contact": {
+    "phone": "(678) 335-2565",
+    "website": "https://mountainhighmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4dd882fd-250f-4c62-833d-12b44e647c60",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

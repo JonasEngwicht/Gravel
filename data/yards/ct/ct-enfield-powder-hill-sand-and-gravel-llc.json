@@ -1,0 +1,36 @@
+{
+  "id": "ct-enfield-powder-hill-sand-and-gravel-llc",
+  "slug": "powder-hill-sand-and-gravel-llc",
+  "name": "Powder Hill Sand & Gravel Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "38 Post Office Rd",
+    "city": "Enfield",
+    "state": "CT",
+    "zip": "06082"
+  },
+  "location": {
+    "lat": 41.969193,
+    "lng": -72.587318
+  },
+  "contact": {
+    "phone": "(860) 741-7274",
+    "website": "https://powder-hill.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d89a059-ea9d-4bc3-805a-00212d72ab16",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

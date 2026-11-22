@@ -1,0 +1,37 @@
+{
+  "id": "tx-aledo-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "206 Bear Cat Rd",
+    "city": "Aledo",
+    "state": "TX",
+    "zip": "76008"
+  },
+  "location": {
+    "lat": 32.72559,
+    "lng": -97.613663
+  },
+  "contact": {
+    "phone": "(817) 752-4487",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e35e7c6b-2dc8-4f7d-b357-7a3af2c4b3e3",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

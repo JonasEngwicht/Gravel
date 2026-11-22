@@ -1,0 +1,35 @@
+{
+  "id": "nc-angier-carolina-landscape-supply-of-angier",
+  "slug": "carolina-landscape-supply-of-angier",
+  "name": "Carolina Landscape Supply of Angier",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7360 NC 210 N",
+    "city": "Angier",
+    "state": "NC",
+    "zip": "27501"
+  },
+  "location": {
+    "lat": 35.490849,
+    "lng": -78.761276
+  },
+  "contact": {
+    "phone": "(919) 639-0303"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3ba7413e-8949-4a9a-a568-1b944f3301c9",
+    "confidence": 0.762,
+    "merged_records": 1
+  }
+}

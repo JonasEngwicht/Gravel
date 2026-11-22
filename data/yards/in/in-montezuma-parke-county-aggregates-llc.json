@@ -1,0 +1,46 @@
+{
+  "id": "in-montezuma-parke-county-aggregates-llc",
+  "slug": "parke-county-aggregates-llc",
+  "name": "Parke County Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6039 W 100 N",
+    "city": "Montezuma",
+    "state": "IN",
+    "zip": "47862"
+  },
+  "location": {
+    "lat": 39.781929,
+    "lng": -87.35173
+  },
+  "contact": {
+    "phone": "(765) 245-2344"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1104e21a-d30c-40fd-a071-1444ccba2cdd",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200993",
+      "name": "Parke County Pit",
+      "operator": "Parke County Highway Department",
+      "status": "Abandoned",
+      "status_since": "2019-03-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

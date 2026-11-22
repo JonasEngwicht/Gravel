@@ -1,0 +1,36 @@
+{
+  "id": "tn-louisville-east-tn-mulch-and-organics",
+  "slug": "east-tn-mulch-and-organics",
+  "name": "East TN Mulch & Organics",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1244 Topside Rd",
+    "city": "Louisville",
+    "state": "TN",
+    "zip": "37777"
+  },
+  "location": {
+    "lat": 35.860729,
+    "lng": -83.969406
+  },
+  "contact": {
+    "phone": "(865) 603-9646",
+    "website": "http://easttnmulchandorganics.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1f4fba1-9036-4e3f-bc49-a20d7c4cbab0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

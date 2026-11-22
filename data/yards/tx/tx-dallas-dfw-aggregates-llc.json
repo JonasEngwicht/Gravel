@@ -1,0 +1,36 @@
+{
+  "id": "tx-dallas-dfw-aggregates-llc",
+  "slug": "dfw-aggregates-llc",
+  "name": "Dfw Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10580 C F Hawn Fwy",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75217"
+  },
+  "location": {
+    "lat": 32.695633,
+    "lng": -96.641785
+  },
+  "contact": {
+    "phone": "(214) 217-2107",
+    "website": "https://dfwaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0df17e26-8f24-47f0-a88e-358ddb830477",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

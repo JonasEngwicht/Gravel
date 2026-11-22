@@ -1,0 +1,48 @@
+{
+  "id": "ny-moravia-o-tooles-stone-and-gravel",
+  "slug": "o-tooles-stone-and-gravel",
+  "name": "O'tooles Stone and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "70 Oak Hill Rd",
+    "city": "Moravia",
+    "state": "NY",
+    "zip": "13118"
+  },
+  "location": {
+    "lat": 42.719948,
+    "lng": -76.41291
+  },
+  "contact": {
+    "phone": "(315) 497-6844",
+    "website": "https://www.otoolesgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab533899-76c1-4897-ba32-9ed3cd441d26",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3002612",
+      "name": "O'Tooles Stone & Gravel",
+      "operator": "O'Tooles Stone & Gravel",
+      "status": "Intermittent",
+      "status_since": "2025-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

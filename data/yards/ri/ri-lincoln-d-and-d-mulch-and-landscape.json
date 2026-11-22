@@ -1,0 +1,36 @@
+{
+  "id": "ri-lincoln-d-and-d-mulch-and-landscape",
+  "slug": "d-and-d-mulch-and-landscape",
+  "name": "D&D Mulch and Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "602 George Washington Hwy",
+    "city": "Lincoln",
+    "state": "RI",
+    "zip": "02865"
+  },
+  "location": {
+    "lat": 41.93486,
+    "lng": -71.486366
+  },
+  "contact": {
+    "phone": "(401) 334-9515",
+    "website": "https://www.ddmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ec76ce1-2625-4602-ad62-ced64706fcd6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-landscape-depot",
+  "slug": "landscape-depot",
+  "name": "Landscape Depot",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8901 Cypress Creek Pkwy",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77070"
+  },
+  "location": {
+    "lat": 29.951328,
+    "lng": -95.556931
+  },
+  "contact": {
+    "phone": "(281) 890-0365",
+    "website": "http://www.landscapedepotonline.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5e45841c-d538-408b-8b41-cf76caa40faa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

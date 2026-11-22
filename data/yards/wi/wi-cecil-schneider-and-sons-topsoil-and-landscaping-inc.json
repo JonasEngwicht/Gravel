@@ -1,0 +1,35 @@
+{
+  "id": "wi-cecil-schneider-and-sons-topsoil-and-landscaping-inc",
+  "slug": "schneider-and-sons-topsoil-and-landscaping-inc",
+  "name": "Schneider & Sons Topsoil & Landscaping Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "N7099 County Trk R",
+    "city": "Cecil",
+    "state": "WI",
+    "zip": "54111"
+  },
+  "location": {
+    "lat": 44.845322,
+    "lng": -88.450302
+  },
+  "contact": {
+    "phone": "(715) 725-6045"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c74018aa-dcdb-4221-8b78-0635912b2581",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

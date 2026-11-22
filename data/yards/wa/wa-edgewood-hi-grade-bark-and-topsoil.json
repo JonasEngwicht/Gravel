@@ -1,0 +1,36 @@
+{
+  "id": "wa-edgewood-hi-grade-bark-and-topsoil",
+  "slug": "hi-grade-bark-and-topsoil",
+  "name": "Hi Grade Bark & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "113 Meridian Ave E",
+    "city": "Edgewood",
+    "state": "WA",
+    "zip": "98371"
+  },
+  "location": {
+    "lat": 47.255718,
+    "lng": -122.292953
+  },
+  "contact": {
+    "phone": "(253) 952-3905",
+    "website": "http://www.hi-grade.org/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "86fe72ec-67cd-4a50-a1dd-b382cf00d459",
+    "confidence": 0.573,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mn-mankato-keely-landscape-supplies",
+  "slug": "keely-landscape-supplies",
+  "name": "Keely Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "201 Hawley St S",
+    "city": "Mankato",
+    "state": "MN",
+    "zip": "56001"
+  },
+  "location": {
+    "lat": 44.15226,
+    "lng": -94.03804
+  },
+  "contact": {
+    "phone": "(507) 386-0484",
+    "website": "https://www.hermanslandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12148aee-c6ce-452c-8fdb-6da8287fa269",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

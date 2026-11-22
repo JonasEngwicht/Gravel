@@ -1,0 +1,36 @@
+{
+  "id": "nj-milltown-blue-mountain-topsoil-delivery",
+  "slug": "blue-mountain-topsoil-delivery",
+  "name": "Blue Mountain Topsoil Delivery",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "17 Dorothy Ln",
+    "city": "Milltown",
+    "state": "NJ",
+    "zip": "08850"
+  },
+  "location": {
+    "lat": 40.445457,
+    "lng": -74.441612
+  },
+  "contact": {
+    "phone": "(732) 979-0360",
+    "website": "http://www.topsoil-delivery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "607e6b7b-b4c7-4597-81fe-b16458ce2085",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

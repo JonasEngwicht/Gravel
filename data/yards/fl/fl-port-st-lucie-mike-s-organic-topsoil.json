@@ -1,0 +1,35 @@
+{
+  "id": "fl-port-st-lucie-mike-s-organic-topsoil",
+  "slug": "mike-s-organic-topsoil",
+  "name": "Mike's Organic Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14193 Range Line Rd",
+    "city": "Port St Lucie",
+    "state": "FL",
+    "zip": "34987"
+  },
+  "location": {
+    "lat": 27.207237,
+    "lng": -80.48085
+  },
+  "contact": {
+    "phone": "(772) 775-7645"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0cece68d-318f-40ea-9b7f-f0c9694e1e5b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

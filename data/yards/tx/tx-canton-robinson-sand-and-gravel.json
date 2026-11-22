@@ -1,0 +1,35 @@
+{
+  "id": "tx-canton-robinson-sand-and-gravel",
+  "slug": "robinson-sand-and-gravel",
+  "name": "Robinson Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "20420 Interstate 20 N Access Rd",
+    "city": "Canton",
+    "state": "TX",
+    "zip": "75169"
+  },
+  "location": {
+    "lat": 32.598122,
+    "lng": -95.902824
+  },
+  "contact": {
+    "phone": "(903) 355-0370"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0b1669af-0bec-4b5c-a0ec-febc69048e48",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

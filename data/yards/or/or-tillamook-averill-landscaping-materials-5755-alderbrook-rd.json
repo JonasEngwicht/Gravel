@@ -1,0 +1,36 @@
+{
+  "id": "or-tillamook-averill-landscaping-materials-5755-alderbrook-rd",
+  "slug": "averill-landscaping-materials-5755-alderbrook-rd",
+  "name": "Averill Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5755 Alderbrook Rd",
+    "city": "Tillamook",
+    "state": "OR",
+    "zip": "97141"
+  },
+  "location": {
+    "lat": 45.502419,
+    "lng": -123.843422
+  },
+  "contact": {
+    "phone": "(503) 801-1214",
+    "website": "http://www.averilllandscapingmaterialsinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d82cf343-a45c-417f-a9ba-0ce7f0fa4a2b",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-centerville-tri-state-mulch",
+  "slug": "tri-state-mulch",
+  "name": "Tri-State Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "40045 Dorn Rd",
+    "city": "Centerville",
+    "state": "PA",
+    "zip": "16404"
+  },
+  "location": {
+    "lat": 41.78331,
+    "lng": -79.761002
+  },
+  "contact": {
+    "phone": "(716) 489-9669",
+    "website": "https://patristatemulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8a8a12b9-3998-4ce6-b295-36f85d01c070",
+    "confidence": 0.628,
+    "merged_records": 1
+  }
+}

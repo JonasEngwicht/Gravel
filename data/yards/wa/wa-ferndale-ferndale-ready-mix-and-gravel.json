@@ -1,0 +1,36 @@
+{
+  "id": "wa-ferndale-ferndale-ready-mix-and-gravel",
+  "slug": "ferndale-ready-mix-and-gravel",
+  "name": "Ferndale Ready Mix & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5271 Creighton Rd",
+    "city": "Ferndale",
+    "state": "WA",
+    "zip": "98248"
+  },
+  "location": {
+    "lat": 48.832413,
+    "lng": -122.568954
+  },
+  "contact": {
+    "phone": "(360) 384-5393",
+    "website": "http://www.ferndalereadymix.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c375908-6f2a-4450-a28a-441d2bd0e835",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

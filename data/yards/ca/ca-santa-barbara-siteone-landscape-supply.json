@@ -1,0 +1,37 @@
+{
+  "id": "ca-santa-barbara-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4159 State St",
+    "city": "Santa Barbara",
+    "state": "CA",
+    "zip": "93110"
+  },
+  "location": {
+    "lat": 34.440491,
+    "lng": -119.761887
+  },
+  "contact": {
+    "phone": "(805) 681-3403",
+    "website": "https://www.siteone.com/en/store/405"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d57a47d-1cbb-48b6-a1a9-2aacd5740a16",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

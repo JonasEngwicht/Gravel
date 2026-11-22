@@ -1,0 +1,48 @@
+{
+  "id": "ct-new-milford-new-milford-farms-a-garick-subsidiary-providing-high-quality-sustainable-soils-mulches-compost-and-more",
+  "slug": "new-milford-farms-a-garick-subsidiary-providing-high-quality-sustainable-soils-mulches-compost-and-more",
+  "name": "New Milford Farms | A Garick Subsidiary | Providing high-quality, sustainable soils, mulches, compost and more",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "60 Boardman Rd",
+    "city": "New Milford",
+    "state": "CT",
+    "zip": "06776"
+  },
+  "location": {
+    "lat": 41.589138,
+    "lng": -73.439529
+  },
+  "contact": {
+    "phone": "(800) 242-7425",
+    "website": "http://garick.com/Locations/NewMilfordFarms.aspx"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "368776f4-4f87-49ee-b45b-32cb1f418539",
+    "confidence": 0.884,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0600636",
+      "name": "New Milford Plant",
+      "operator": "O & G Industries Inc",
+      "status": "Active",
+      "status_since": "2022-06-27",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

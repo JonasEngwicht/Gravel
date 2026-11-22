@@ -1,0 +1,36 @@
+{
+  "id": "mi-kalamazoo-mulder-s-landscape-supplies",
+  "slug": "mulder-s-landscape-supplies",
+  "name": "Mulder's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3333 Ravine Rd",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49006"
+  },
+  "location": {
+    "lat": 42.314209,
+    "lng": -85.630791
+  },
+  "contact": {
+    "phone": "(269) 345-6900",
+    "website": "http://mulderslandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79223770-fac0-429d-917f-e6e6967185d7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

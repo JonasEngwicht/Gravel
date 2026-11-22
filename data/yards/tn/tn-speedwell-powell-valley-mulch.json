@@ -1,0 +1,35 @@
+{
+  "id": "tn-speedwell-powell-valley-mulch",
+  "slug": "powell-valley-mulch",
+  "name": "Powell Valley Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "168 Pebley Holw",
+    "city": "Speedwell",
+    "state": "TN",
+    "zip": "37870"
+  },
+  "location": {
+    "lat": 36.462284,
+    "lng": -83.873901
+  },
+  "contact": {
+    "phone": "(423) 566-5115"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c518db0-364e-4a02-8343-03db858b38d2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

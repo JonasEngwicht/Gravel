@@ -1,0 +1,35 @@
+{
+  "id": "sc-pickens-davis-brothers-mulch-and-grading",
+  "slug": "davis-brothers-mulch-and-grading",
+  "name": "Davis Brothers Mulch and Grading",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2130 Gentry Memorial Hwy",
+    "city": "Pickens",
+    "state": "SC",
+    "zip": "29671"
+  },
+  "location": {
+    "lat": 34.857796,
+    "lng": -82.671257
+  },
+  "contact": {
+    "phone": "(864) 878-1829"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e3cecbf-11a1-454e-a732-ab09fb2b183b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

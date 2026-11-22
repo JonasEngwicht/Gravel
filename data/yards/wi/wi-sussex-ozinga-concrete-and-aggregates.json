@@ -1,0 +1,36 @@
+{
+  "id": "wi-sussex-ozinga-concrete-and-aggregates",
+  "slug": "ozinga-concrete-and-aggregates",
+  "name": "Ozinga | Concrete & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "W220 N6799 Town Line Rd",
+    "city": "Sussex",
+    "state": "WI",
+    "zip": "53089"
+  },
+  "location": {
+    "lat": 43.138477,
+    "lng": -88.184387
+  },
+  "contact": {
+    "phone": "(414) 258-7800",
+    "website": "https://ozinga.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b84854c-a5ba-4cb3-a585-fa03c324aca3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

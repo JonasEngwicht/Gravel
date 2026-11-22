@@ -1,0 +1,37 @@
+{
+  "id": "ma-peabody-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "147 Summit St",
+    "city": "Peabody",
+    "state": "MA",
+    "zip": "01960"
+  },
+  "location": {
+    "lat": 42.519737,
+    "lng": -70.954544
+  },
+  "contact": {
+    "phone": "(978) 977-2777",
+    "website": "https://www.siteone.com/store/486"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59c26802-ea6e-4b71-b512-f975aaec0c54",
+    "confidence": 0.92,
+    "merged_records": 3
+  }
+}

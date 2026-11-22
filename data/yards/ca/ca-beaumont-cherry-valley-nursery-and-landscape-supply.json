@@ -1,0 +1,36 @@
+{
+  "id": "ca-beaumont-cherry-valley-nursery-and-landscape-supply",
+  "slug": "cherry-valley-nursery-and-landscape-supply",
+  "name": "Cherry Valley Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "37955 Cherry Valley Blvd",
+    "city": "Beaumont",
+    "state": "CA",
+    "zip": "92223"
+  },
+  "location": {
+    "lat": 33.96814,
+    "lng": -116.999947
+  },
+  "contact": {
+    "phone": "(951) 845-7045",
+    "website": "http://www.cherryvalleynursery.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8e0f3140-f497-4237-958c-b60a7a590eb9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

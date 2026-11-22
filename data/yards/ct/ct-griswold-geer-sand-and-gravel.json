@@ -1,0 +1,48 @@
+{
+  "id": "ct-griswold-geer-sand-and-gravel",
+  "slug": "geer-sand-and-gravel",
+  "name": "Geer Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "852 Voluntown Rd",
+    "city": "Griswold",
+    "state": "CT",
+    "zip": "06351"
+  },
+  "location": {
+    "lat": 41.585175,
+    "lng": -71.937836
+  },
+  "contact": {
+    "phone": "(860) 376-5321",
+    "website": "https://www.geersfamilytree.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d311661-931f-4b91-b8e2-ccf077cbb9fb",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0600669",
+      "name": "Geer Sand & Gravel",
+      "operator": "Geer Construction Company Inc",
+      "status": "Intermittent",
+      "status_since": "1999-04-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

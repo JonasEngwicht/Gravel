@@ -1,0 +1,36 @@
+{
+  "id": "mi-redford-the-green-butlers-property-maintenance-and-landscape-supply",
+  "slug": "the-green-butlers-property-maintenance-and-landscape-supply",
+  "name": "The Green Butlers Property Maintenance & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "25429 Plymouth Rd",
+    "city": "Redford",
+    "state": "MI",
+    "zip": "48239"
+  },
+  "location": {
+    "lat": 42.370495,
+    "lng": -83.290627
+  },
+  "contact": {
+    "phone": "(313) 472-5509",
+    "website": "https://www.thegreenbutlers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0cebf16-a89b-4c89-9e0b-8928f823310e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

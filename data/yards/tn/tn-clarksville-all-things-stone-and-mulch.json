@@ -1,0 +1,36 @@
+{
+  "id": "tn-clarksville-all-things-stone-and-mulch",
+  "slug": "all-things-stone-and-mulch",
+  "name": "All Things Stone and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2800 Highway 41A S",
+    "city": "Clarksville",
+    "state": "TN",
+    "zip": "37043"
+  },
+  "location": {
+    "lat": 36.504105,
+    "lng": -87.253929
+  },
+  "contact": {
+    "phone": "(931) 206-5326",
+    "website": "https://allthingsstoneandmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "628a4666-7539-4b67-861f-b139fdf7a05c",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

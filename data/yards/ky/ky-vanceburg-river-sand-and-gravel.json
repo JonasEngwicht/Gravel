@@ -1,0 +1,35 @@
+{
+  "id": "ky-vanceburg-river-sand-and-gravel",
+  "slug": "river-sand-and-gravel",
+  "name": "River Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "38 KY-8",
+    "city": "Vanceburg",
+    "state": "KY",
+    "zip": "41179"
+  },
+  "location": {
+    "lat": 38.650505,
+    "lng": -83.366234
+  },
+  "contact": {
+    "phone": "(606) 796-0353"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "69d78884-e370-427a-b426-15d3f4136ec8",
+    "confidence": 0.653,
+    "merged_records": 1
+  }
+}

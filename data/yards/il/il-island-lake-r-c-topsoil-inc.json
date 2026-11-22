@@ -1,0 +1,36 @@
+{
+  "id": "il-island-lake-r-c-topsoil-inc",
+  "slug": "r-c-topsoil-inc",
+  "name": "R.C Topsoil Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4035 Doheny Dr",
+    "city": "Island Lake",
+    "state": "IL",
+    "zip": "60042"
+  },
+  "location": {
+    "lat": 42.270042,
+    "lng": -88.199142
+  },
+  "contact": {
+    "phone": "(847) 382-7645",
+    "website": "https://www.rctopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68f42d25-57d2-4fb7-9bca-13f6a363c80a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

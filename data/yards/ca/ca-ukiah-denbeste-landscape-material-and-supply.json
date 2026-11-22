@@ -1,0 +1,36 @@
+{
+  "id": "ca-ukiah-denbeste-landscape-material-and-supply",
+  "slug": "denbeste-landscape-material-and-supply",
+  "name": "DenBeste Landscape Material & Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4200 N State St",
+    "city": "Ukiah",
+    "state": "CA",
+    "zip": "95482"
+  },
+  "location": {
+    "lat": 39.204803,
+    "lng": -123.204399
+  },
+  "contact": {
+    "phone": "(707) 485-6232",
+    "website": "https://denbestematerialsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53e39d6f-9fcd-477c-9ddb-cbdd9decc432",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

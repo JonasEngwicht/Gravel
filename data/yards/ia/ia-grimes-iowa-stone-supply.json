@@ -1,0 +1,36 @@
+{
+  "id": "ia-grimes-iowa-stone-supply",
+  "slug": "iowa-stone-supply",
+  "name": "Iowa Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1885 SE Destination Dr",
+    "city": "Grimes",
+    "state": "IA",
+    "zip": "50111"
+  },
+  "location": {
+    "lat": 41.673496,
+    "lng": -93.769218
+  },
+  "contact": {
+    "phone": "(515) 276-6655",
+    "website": "https://www.iowastonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb4a41f6-3eb3-4713-a807-1d6e85a8741e",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "la-alexandria-pine-bluff-sand-and-gravel",
+  "slug": "pine-bluff-sand-and-gravel",
+  "name": "Pine Bluff Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2950 Site Rd",
+    "city": "Alexandria",
+    "state": "LA",
+    "zip": "71303"
+  },
+  "location": {
+    "lat": 31.332605,
+    "lng": -92.487503
+  },
+  "contact": {
+    "phone": "(318) 448-0536"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cbaa4fdf-799d-44df-9630-8400ef3acbfd",
+    "confidence": 0.736,
+    "merged_records": 1
+  }
+}

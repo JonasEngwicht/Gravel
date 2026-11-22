@@ -1,0 +1,36 @@
+{
+  "id": "ut-centerfield-hales-sand-and-gravel-a-crh-company",
+  "slug": "hales-sand-and-gravel-a-crh-company",
+  "name": "Hales Sand & Gravel, A CRH Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "350 S 400 E",
+    "city": "Centerfield",
+    "state": "UT",
+    "zip": "84622"
+  },
+  "location": {
+    "lat": 39.117908,
+    "lng": -111.809769
+  },
+  "contact": {
+    "phone": "(435) 529-7434",
+    "website": "https://stakerparson.com/companies/hales-sand-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1f26db8a-4872-403c-a83a-ee3f3f3e8a5c",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

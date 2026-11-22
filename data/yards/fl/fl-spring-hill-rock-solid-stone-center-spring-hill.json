@@ -1,0 +1,36 @@
+{
+  "id": "fl-spring-hill-rock-solid-stone-center-spring-hill",
+  "slug": "rock-solid-stone-center-spring-hill",
+  "name": "Rock Solid Stone Center Spring Hill",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "111 Spring Time St",
+    "city": "Spring Hill",
+    "state": "FL",
+    "zip": "34608"
+  },
+  "location": {
+    "lat": 28.435017,
+    "lng": -82.555824
+  },
+  "contact": {
+    "phone": "(352) 683-4344",
+    "website": "http://www.stonecenterplus.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d72f1c13-4aa1-4c19-b5a5-8327bb16819e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

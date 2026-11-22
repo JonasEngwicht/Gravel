@@ -1,0 +1,36 @@
+{
+  "id": "ca-lancaster-paradise-landscape-centers",
+  "slug": "paradise-landscape-centers",
+  "name": "Paradise Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "42201 Division St",
+    "city": "Lancaster",
+    "state": "CA",
+    "zip": "93535"
+  },
+  "location": {
+    "lat": 34.649574,
+    "lng": -118.130013
+  },
+  "contact": {
+    "phone": "(661) 878-8886",
+    "website": "http://avrocksupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a167b6e0-5ad7-4e80-979b-7abd50b3ebc4",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

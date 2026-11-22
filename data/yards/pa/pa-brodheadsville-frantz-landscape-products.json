@@ -1,0 +1,36 @@
+{
+  "id": "pa-brodheadsville-frantz-landscape-products",
+  "slug": "frantz-landscape-products",
+  "name": "Frantz Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "339 Frantz Rd",
+    "city": "Brodheadsville",
+    "state": "PA",
+    "zip": "18322"
+  },
+  "location": {
+    "lat": 40.913784,
+    "lng": -75.396446
+  },
+  "contact": {
+    "phone": "(570) 992-9070",
+    "website": "http://efrantz.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4026f60-633e-4c78-b171-705b1a14ac16",
+    "confidence": 0.774,
+    "merged_records": 1
+  }
+}

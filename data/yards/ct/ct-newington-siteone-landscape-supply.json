@@ -1,0 +1,37 @@
+{
+  "id": "ct-newington-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "235 Pascone Pl",
+    "city": "Newington",
+    "state": "CT",
+    "zip": "06111"
+  },
+  "location": {
+    "lat": 41.668541,
+    "lng": -72.72348
+  },
+  "contact": {
+    "phone": "(860) 665-0773",
+    "website": "https://www.siteone.com/store/599"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ff38f7b-8384-4e6f-9710-2cd60eedc511",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

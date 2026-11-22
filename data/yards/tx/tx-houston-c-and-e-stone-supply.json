@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-c-and-e-stone-supply",
+  "slug": "c-and-e-stone-supply",
+  "name": "C & E Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "10303 Northwest Fwy  Ste 333",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77092"
+  },
+  "location": {
+    "lat": 29.807882,
+    "lng": -95.457863
+  },
+  "contact": {
+    "phone": "(832) 955-0897",
+    "website": "https://somebodysaunty.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c363024b-debf-4088-9bf3-17d394786073",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

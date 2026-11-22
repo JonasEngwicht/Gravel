@@ -1,0 +1,36 @@
+{
+  "id": "sc-landrum-hensons-inc-mulch-and-more",
+  "slug": "hensons-inc-mulch-and-more",
+  "name": "Hensons' Inc. Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "22565 Asheville Hwy",
+    "city": "Landrum",
+    "state": "SC",
+    "zip": "29356"
+  },
+  "location": {
+    "lat": 35.194931,
+    "lng": -82.2258
+  },
+  "contact": {
+    "phone": "(864) 457-4104",
+    "website": "https://hensonsinc.net/tryon/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "acd77346-eb7f-4de7-80c4-a7bec3db0dc5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

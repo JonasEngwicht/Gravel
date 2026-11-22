@@ -1,0 +1,36 @@
+{
+  "id": "nc-greenville-new-river-mulch",
+  "slug": "new-river-mulch",
+  "name": "New River Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3750 Sterling Pointe Dr I",
+    "city": "Greenville",
+    "state": "NC",
+    "zip": "28590"
+  },
+  "location": {
+    "lat": 35.561134,
+    "lng": -77.411835
+  },
+  "contact": {
+    "phone": "(252) 321-6982",
+    "website": "http://newrivermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "227a34f0-58f5-4d02-ad8c-f88b9caa562e",
+    "confidence": 0.945,
+    "merged_records": 1
+  }
+}

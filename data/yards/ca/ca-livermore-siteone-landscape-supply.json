@@ -1,0 +1,37 @@
+{
+  "id": "ca-livermore-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7650 Hawthorn Ave Ste 1",
+    "city": "Livermore",
+    "state": "CA",
+    "zip": "94550"
+  },
+  "location": {
+    "lat": 37.705719,
+    "lng": -121.700882
+  },
+  "contact": {
+    "phone": "(925) 455-1984",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9083066d-6c21-4da5-bebb-72daac89959f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

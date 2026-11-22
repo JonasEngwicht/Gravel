@@ -1,0 +1,37 @@
+{
+  "id": "nj-fairfield-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "17B Daniel Rd",
+    "city": "Fairfield",
+    "state": "NJ",
+    "zip": "07004"
+  },
+  "location": {
+    "lat": 40.882912,
+    "lng": -74.276268
+  },
+  "contact": {
+    "phone": "(973) 575-6967",
+    "website": "https://www.siteone.com/en/store/607"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3500671-0e8b-479a-b4ec-d528c807d78b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

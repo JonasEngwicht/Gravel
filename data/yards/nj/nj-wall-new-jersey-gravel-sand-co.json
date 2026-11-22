@@ -1,0 +1,36 @@
+{
+  "id": "nj-wall-new-jersey-gravel-sand-co",
+  "slug": "new-jersey-gravel-sand-co",
+  "name": "New Jersey Gravel Sand Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1661 Highway 34",
+    "city": "Wall",
+    "state": "NJ",
+    "zip": "07719"
+  },
+  "location": {
+    "lat": 40.11937,
+    "lng": -74.071404
+  },
+  "contact": {
+    "phone": "(732) 938-5252",
+    "website": "http://njgsco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90bbccc7-46a3-4ce7-9db3-073664856c1b",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

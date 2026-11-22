@@ -1,0 +1,36 @@
+{
+  "id": "ca-hayward-blue-wagon-landscape-supply",
+  "slug": "blue-wagon-landscape-supply",
+  "name": "Blue Wagon Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21370 Foothill Blvd",
+    "city": "Hayward",
+    "state": "CA",
+    "zip": "94541"
+  },
+  "location": {
+    "lat": 37.684593,
+    "lng": -122.091248
+  },
+  "contact": {
+    "phone": "(510) 927-7149",
+    "website": "https://www.pge.com/assets/pge/docs/about/doing-business-with-pge/qualified-contractors.xlsx"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d53ca1f4-8ffd-4938-9b2b-d0e7cca52bf8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

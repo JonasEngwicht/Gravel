@@ -1,0 +1,37 @@
+{
+  "id": "nj-somerset-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12 Worlds Fair Dr",
+    "city": "Somerset",
+    "state": "NJ",
+    "zip": "08873"
+  },
+  "location": {
+    "lat": 40.535965,
+    "lng": -74.514046
+  },
+  "contact": {
+    "phone": "(732) 764-7290",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af33f00b-6c7d-47fb-91ed-31644344128f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

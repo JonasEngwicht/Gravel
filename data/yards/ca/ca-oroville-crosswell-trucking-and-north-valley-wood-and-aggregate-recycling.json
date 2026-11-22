@@ -1,0 +1,36 @@
+{
+  "id": "ca-oroville-crosswell-trucking-and-north-valley-wood-and-aggregate-recycling",
+  "slug": "crosswell-trucking-and-north-valley-wood-and-aggregate-recycling",
+  "name": "Crosswell Trucking and North Valley Wood and Aggregate Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5425 Baggett Marysville Rd",
+    "city": "Oroville",
+    "state": "CA",
+    "zip": "95965"
+  },
+  "location": {
+    "lat": 39.47464,
+    "lng": -121.557365
+  },
+  "contact": {
+    "phone": "(530) 370-1168",
+    "website": "http://www.crosswelltrucking.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd607db9-ac58-43ef-aae0-16b2227572c7",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

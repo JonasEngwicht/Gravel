@@ -1,0 +1,35 @@
+{
+  "id": "md-cumberland-blue-line-design-and-landscape-center-llc",
+  "slug": "blue-line-design-and-landscape-center-llc",
+  "name": "Blue Line Design and Landscape Center LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1700 Garden View Dr Ste B",
+    "city": "Cumberland",
+    "state": "MD",
+    "zip": "21502"
+  },
+  "location": {
+    "lat": 39.624073,
+    "lng": -78.773216
+  },
+  "contact": {
+    "phone": "(301) 707-4124"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dbbfdedd-f3e9-40e3-9a03-d3a49b5b27f2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

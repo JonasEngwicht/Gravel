@@ -1,0 +1,37 @@
+{
+  "id": "ga-cumming-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "1112 Samples Industrial Drive",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30041"
+  },
+  "location": {
+    "lat": 34.161133,
+    "lng": -84.154297
+  },
+  "contact": {
+    "phone": "(770) 844-7899",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/FISCUMM/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "205fe062-1983-4f9c-988d-ac3e0101b8ee",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

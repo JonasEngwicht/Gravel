@@ -1,0 +1,35 @@
+{
+  "id": "al-decatur-alliance-sand-and-aggregates-llc",
+  "slug": "alliance-sand-and-aggregates-llc",
+  "name": "Alliance Sand and Aggregates LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "304 Beltline Rd NW",
+    "city": "Decatur",
+    "state": "AL",
+    "zip": "35601"
+  },
+  "location": {
+    "lat": 34.612095,
+    "lng": -87.03096
+  },
+  "contact": {
+    "phone": "(256) 340-7263"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3ea418a-7f62-4e37-bac4-2e64d066544b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

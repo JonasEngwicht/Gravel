@@ -1,0 +1,37 @@
+{
+  "id": "mi-grand-rapids-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4620 40th St SE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49512"
+  },
+  "location": {
+    "lat": 42.891369,
+    "lng": -85.552032
+  },
+  "contact": {
+    "phone": "(616) 954-0660",
+    "website": "https://www.siteone.com/store/2"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41559017-b8a5-4991-832c-ea0ef4d0ac0f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

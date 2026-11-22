@@ -1,0 +1,35 @@
+{
+  "id": "id-oldtown-premier-landscape-materials",
+  "slug": "premier-landscape-materials",
+  "name": "Premier Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1122 US-2",
+    "city": "Oldtown",
+    "state": "ID",
+    "zip": "83822"
+  },
+  "location": {
+    "lat": 48.183723,
+    "lng": -117.016823
+  },
+  "contact": {
+    "phone": "(208) 437-4503"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db8a177b-7058-428f-bfca-002b42978d39",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

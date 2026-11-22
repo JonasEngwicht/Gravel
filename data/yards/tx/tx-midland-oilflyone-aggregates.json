@@ -1,0 +1,36 @@
+{
+  "id": "tx-midland-oilflyone-aggregates",
+  "slug": "oilflyone-aggregates",
+  "name": "Oilflyone Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5210 E Loop 250 N",
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79705"
+  },
+  "location": {
+    "lat": 32.04826,
+    "lng": -102.006493
+  },
+  "contact": {
+    "phone": "(432) 214-3801",
+    "website": "http://www.oilflyoneaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1620cc86-79f4-4050-b5b1-b064d1304e88",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

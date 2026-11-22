@@ -1,0 +1,36 @@
+{
+  "id": "ca-carson-bestile-cabinet-and-stone-depot",
+  "slug": "bestile-cabinet-and-stone-depot",
+  "name": "Bestile Cabinet & Stone Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "965 E Artesia Blvd",
+    "city": "Carson",
+    "state": "CA",
+    "zip": "90746"
+  },
+  "location": {
+    "lat": 33.874554,
+    "lng": -118.25782
+  },
+  "contact": {
+    "phone": "(310) 763-9988",
+    "website": "http://www.labestcabinet.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e42527b-ad3c-4c81-8f3f-ef447f1bbd09",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "az-huachuca-city-hayhook-sand-and-gravel",
+  "slug": "hayhook-sand-and-gravel",
+  "name": "Hayhook Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "393 W Patton St",
+    "city": "Huachuca City",
+    "state": "AZ",
+    "zip": "85616"
+  },
+  "location": {
+    "lat": 31.625864,
+    "lng": -110.356026
+  },
+  "contact": {
+    "phone": "(520) 895-4077",
+    "website": "http://hayhook-sand-gravel.square.site/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac83aace-d119-44b6-8837-fed02283fd53",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

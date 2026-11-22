@@ -1,0 +1,36 @@
+{
+  "id": "pa-west-chester-west-chester-mulch-co",
+  "slug": "west-chester-mulch-co",
+  "name": "West Chester Mulch Co.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "211 Garfield Ave",
+    "city": "West Chester",
+    "state": "PA",
+    "zip": "19380"
+  },
+  "location": {
+    "lat": 39.968845,
+    "lng": -75.594521
+  },
+  "contact": {
+    "phone": "(610) 241-0677",
+    "website": "http://www.westchestermulchco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e56dbfca-2a23-4d85-9e75-73427bc2fc92",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-visalia-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "30595 Road 68",
+    "city": "Visalia",
+    "state": "CA",
+    "zip": "93291"
+  },
+  "location": {
+    "lat": 36.345093,
+    "lng": -119.421768
+  },
+  "contact": {
+    "phone": "(559) 635-7833",
+    "website": "https://www.siteone.com/en/store/472"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "194846a8-2009-44e5-bad4-9a44de051ef5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

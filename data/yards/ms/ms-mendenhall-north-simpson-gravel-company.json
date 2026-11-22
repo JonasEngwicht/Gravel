@@ -1,0 +1,35 @@
+{
+  "id": "ms-mendenhall-north-simpson-gravel-company",
+  "slug": "north-simpson-gravel-company",
+  "name": "North Simpson Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "376 Old Gravel 49",
+    "city": "Mendenhall",
+    "state": "MS",
+    "zip": "39114"
+  },
+  "location": {
+    "lat": 31.95439,
+    "lng": -89.837952
+  },
+  "contact": {
+    "phone": "(601) 847-9500"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0f41e18a-9a24-4e8f-8a50-d554f0f1e928",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

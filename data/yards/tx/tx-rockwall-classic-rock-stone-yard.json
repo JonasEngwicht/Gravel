@@ -1,0 +1,36 @@
+{
+  "id": "tx-rockwall-classic-rock-stone-yard",
+  "slug": "classic-rock-stone-yard",
+  "name": "Classic Rock Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2040 TX-66",
+    "city": "Rockwall",
+    "state": "TX",
+    "zip": "75087"
+  },
+  "location": {
+    "lat": 32.936455,
+    "lng": -96.432922
+  },
+  "contact": {
+    "phone": "(214) 771-0002",
+    "website": "http://www.classicrockinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3f3d0b7-9cf7-4ec4-902a-241af2fd7639",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

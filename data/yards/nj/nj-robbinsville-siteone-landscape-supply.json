@@ -1,0 +1,37 @@
+{
+  "id": "nj-robbinsville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12B S Gold Dr",
+    "city": "Robbinsville",
+    "state": "NJ",
+    "zip": "08691"
+  },
+  "location": {
+    "lat": 40.205223,
+    "lng": -74.626862
+  },
+  "contact": {
+    "phone": "(609) 689-0672",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd04c2d3-41dd-48e3-a0d0-f82f0a9b67fe",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

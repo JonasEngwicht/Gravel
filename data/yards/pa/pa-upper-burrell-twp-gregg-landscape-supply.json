@@ -1,0 +1,36 @@
+{
+  "id": "pa-upper-burrell-twp-gregg-landscape-supply",
+  "slug": "gregg-landscape-supply",
+  "name": "Gregg Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2129 Greensburg Rd",
+    "city": "Upper Burrell Twp",
+    "state": "PA",
+    "zip": "15068"
+  },
+  "location": {
+    "lat": 40.518333,
+    "lng": -79.693001
+  },
+  "contact": {
+    "phone": "(724) 335-5982",
+    "website": "https://herb-gregg-trucking-and-supply.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c469c129-7c0e-4ec6-869c-02c1bfd3aa83",
+    "confidence": 0.817,
+    "merged_records": 1
+  }
+}

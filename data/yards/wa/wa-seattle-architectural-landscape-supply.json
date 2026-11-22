@@ -1,0 +1,36 @@
+{
+  "id": "wa-seattle-architectural-landscape-supply",
+  "slug": "architectural-landscape-supply",
+  "name": "Architectural Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "404 S Brandon St",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98108"
+  },
+  "location": {
+    "lat": 47.554348,
+    "lng": -122.328819
+  },
+  "contact": {
+    "phone": "(206) 767-9776",
+    "website": "http://www.alsseattle.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "980f5bcf-4f9e-4535-8a29-c69487f73452",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

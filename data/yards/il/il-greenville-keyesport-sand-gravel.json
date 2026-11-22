@@ -1,0 +1,47 @@
+{
+  "id": "il-greenville-keyesport-sand-gravel",
+  "slug": "keyesport-sand-gravel",
+  "name": "Keyesport Sand Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "17399 Keyesport Rd",
+    "city": "Greenville",
+    "state": "IL",
+    "zip": "62246"
+  },
+  "location": {
+    "lat": 38.740993,
+    "lng": -89.381233
+  },
+  "contact": {
+    "phone": "(618) 664-1121"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e6c52087-1ef9-4dd9-bd23-94930d69575d",
+    "confidence": 0.796,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1102578",
+      "name": "Keyesport Sand & Gravel LLC",
+      "operator": "Keyesport Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2009-03-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

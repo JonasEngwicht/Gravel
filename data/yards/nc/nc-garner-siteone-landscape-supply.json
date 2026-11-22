@@ -1,0 +1,37 @@
+{
+  "id": "nc-garner-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1218 Management Way",
+    "city": "Garner",
+    "state": "NC",
+    "zip": "27529"
+  },
+  "location": {
+    "lat": 35.696896,
+    "lng": -78.59391
+  },
+  "contact": {
+    "phone": "(877) 854-7277",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79fbfcf1-6bb1-485c-b41e-e1890bacc609",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

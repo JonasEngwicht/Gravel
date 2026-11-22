@@ -1,0 +1,36 @@
+{
+  "id": "tx-paris-jones-sand-and-gravel-paris",
+  "slug": "jones-sand-and-gravel-paris",
+  "name": "Jones Sand and Gravel Paris",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2282 N Main St",
+    "city": "Paris",
+    "state": "TX",
+    "zip": "75460"
+  },
+  "location": {
+    "lat": 33.683308,
+    "lng": -95.554581
+  },
+  "contact": {
+    "phone": "(903) 249-6200",
+    "website": "http://www.jonessandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81e25450-020a-453f-93f1-7ffb2c2d00a6",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-downingtown-cw-mulch-and-landscape-supply",
+  "slug": "cw-mulch-and-landscape-supply",
+  "name": "CW Mulch and Landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1080 Old Boot Rd",
+    "city": "Downingtown",
+    "state": "PA",
+    "zip": "19335"
+  },
+  "location": {
+    "lat": 40.006096,
+    "lng": -75.668129
+  },
+  "contact": {
+    "phone": "(610) 314-7001",
+    "website": "http://www.cwmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "17d028ec-3152-40cb-b20b-ea72b9e157ad",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

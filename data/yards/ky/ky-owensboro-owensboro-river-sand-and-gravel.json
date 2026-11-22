@@ -1,0 +1,35 @@
+{
+  "id": "ky-owensboro-owensboro-river-sand-and-gravel",
+  "slug": "owensboro-river-sand-and-gravel",
+  "name": "Owensboro River Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "701 E 2nd St",
+    "city": "Owensboro",
+    "state": "KY",
+    "zip": "42303"
+  },
+  "location": {
+    "lat": 37.775436,
+    "lng": -87.10482
+  },
+  "contact": {
+    "phone": "(270) 926-3611"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ec3e67d4-0672-46f6-a6da-d856d46d1d59",
+    "confidence": 0.653,
+    "merged_records": 1
+  }
+}

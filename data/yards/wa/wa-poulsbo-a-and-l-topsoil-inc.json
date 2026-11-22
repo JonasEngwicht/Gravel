@@ -1,0 +1,48 @@
+{
+  "id": "wa-poulsbo-a-and-l-topsoil-inc",
+  "slug": "a-and-l-topsoil-inc",
+  "name": "A&L Topsoil inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "23994 NE Orseth Rd",
+    "city": "Poulsbo",
+    "state": "WA",
+    "zip": "98370"
+  },
+  "location": {
+    "lat": 47.780388,
+    "lng": -122.559601
+  },
+  "contact": {
+    "phone": "(360) 598-4846",
+    "website": "http://altopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f57bd07f-b393-4111-98d2-6685488770f0",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503711",
+      "name": "Miller Bay Pit",
+      "operator": "Peninsula Topsoil LLC",
+      "status": "Intermittent",
+      "status_since": "2024-05-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "de-dover-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1585 Mckee Rd",
+    "city": "Dover",
+    "state": "DE",
+    "zip": "19904"
+  },
+  "location": {
+    "lat": 39.188293,
+    "lng": -75.565048
+  },
+  "contact": {
+    "phone": "(302) 734-4372",
+    "website": "https://www.siteone.com/store/789"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "944285fb-2954-4c30-bd09-4ce96008172f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

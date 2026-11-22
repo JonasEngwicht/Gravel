@@ -1,0 +1,35 @@
+{
+  "id": "ne-omaha-lgm-landscape-supply",
+  "slug": "lgm-landscape-supply",
+  "name": "LGM Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9630 Ida St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68122"
+  },
+  "location": {
+    "lat": 41.320026,
+    "lng": -96.064163
+  },
+  "contact": {
+    "phone": "(402) 215-2756"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cbf795cc-a079-4d4f-a9bc-87021a45bb7c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

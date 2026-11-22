@@ -1,0 +1,36 @@
+{
+  "id": "pa-west-lampeter-twp-witmer-mulch",
+  "slug": "witmer-mulch",
+  "name": "Witmer Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1402 Eshelman Mill Rd",
+    "city": "West Lampeter Twp",
+    "state": "PA",
+    "zip": "17584"
+  },
+  "location": {
+    "lat": 39.999363,
+    "lng": -76.276848
+  },
+  "contact": {
+    "phone": "(717) 464-5209",
+    "website": "http://www.witmermulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5622404-6a05-417f-bb5e-dae1cf211227",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

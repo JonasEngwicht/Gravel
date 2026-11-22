@@ -1,0 +1,35 @@
+{
+  "id": "sc-orangeburg-new-image-landscape-supply",
+  "slug": "new-image-landscape-supply",
+  "name": "New Image Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1723 Joe S Jeffords Hwy",
+    "city": "Orangeburg",
+    "state": "SC",
+    "zip": "29115"
+  },
+  "location": {
+    "lat": 33.476959,
+    "lng": -80.840683
+  },
+  "contact": {
+    "phone": "(803) 682-4655"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62974715-4e70-4934-b86d-7c74de91cfd7",
+    "confidence": 0.797,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "or-the-dalles-hood-river-sand-gravel-and-ready-mix-a-crh-company",
+  "slug": "hood-river-sand-gravel-and-ready-mix-a-crh-company",
+  "name": "Hood River Sand, Gravel & Ready-mix, A Crh Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4120 River Rd",
+    "city": "The Dalles",
+    "state": "OR",
+    "zip": "97058"
+  },
+  "location": {
+    "lat": 45.631519,
+    "lng": -121.20472
+  },
+  "contact": {
+    "phone": "(541) 386-1400",
+    "website": "https://www.hrsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15fd2022-6805-44b7-b3d6-3640a563b605",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

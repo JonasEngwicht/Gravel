@@ -1,0 +1,36 @@
+{
+  "id": "in-saint-croix-bear-hollow-mulch",
+  "slug": "bear-hollow-mulch",
+  "name": "Bear Hollow Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "25993 Saint Croix Rd",
+    "city": "Saint Croix",
+    "state": "IN",
+    "zip": "47576"
+  },
+  "location": {
+    "lat": 38.22023,
+    "lng": -86.584526
+  },
+  "contact": {
+    "phone": "(812) 843-5208",
+    "website": "https://www.bearhollowindiana.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "45ba7a55-9046-4567-a15d-ccac8a07ad47",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

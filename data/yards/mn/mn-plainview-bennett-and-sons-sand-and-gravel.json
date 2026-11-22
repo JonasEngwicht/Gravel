@@ -1,0 +1,35 @@
+{
+  "id": "mn-plainview-bennett-and-sons-sand-and-gravel",
+  "slug": "bennett-and-sons-sand-and-gravel",
+  "name": "Bennett & Sons Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "55110 County Road 4",
+    "city": "Plainview",
+    "state": "MN",
+    "zip": "55964"
+  },
+  "location": {
+    "lat": 44.18095,
+    "lng": -92.157661
+  },
+  "contact": {
+    "phone": "(507) 580-0042"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc3867f8-033c-4f11-ba31-829a9d3b7429",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

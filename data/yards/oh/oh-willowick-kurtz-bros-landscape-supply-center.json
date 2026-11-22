@@ -1,0 +1,36 @@
+{
+  "id": "oh-willowick-kurtz-bros-landscape-supply-center",
+  "slug": "kurtz-bros-landscape-supply-center",
+  "name": "Kurtz Bros. - Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "32800 Lakeland Blvd",
+    "city": "Willowick",
+    "state": "OH",
+    "zip": "44095"
+  },
+  "location": {
+    "lat": 41.625664,
+    "lng": -81.454849
+  },
+  "contact": {
+    "phone": "(216) 986-7034",
+    "website": "http://www.kurtz-bros.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5792137-409d-4492-adc5-79cd3024b494",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

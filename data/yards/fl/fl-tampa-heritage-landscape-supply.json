@@ -1,0 +1,37 @@
+{
+  "id": "fl-tampa-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "8100 E Broadway Ave  Ste D",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33619"
+  },
+  "location": {
+    "lat": 27.967789,
+    "lng": -82.361679
+  },
+  "contact": {
+    "phone": "(813) 377-2667",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b5c4ddb-13be-44f8-8efc-2156f47f6c52",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

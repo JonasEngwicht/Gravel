@@ -1,0 +1,36 @@
+{
+  "id": "md-glen-burnie-mulch-mate-dawson-mfg",
+  "slug": "mulch-mate-dawson-mfg",
+  "name": "Mulch Mate/dawson Mfg",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "899 Airport Park Rd  Ste E",
+    "city": "Glen Burnie",
+    "state": "MD",
+    "zip": "21061"
+  },
+  "location": {
+    "lat": 39.171856,
+    "lng": -76.644585
+  },
+  "contact": {
+    "phone": "(888) 776-8524",
+    "website": "https://mulchmateusa.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f07aa25c-fc89-4bbb-9a4b-a10eea850c52",
+    "confidence": 0.813,
+    "merged_records": 1
+  }
+}

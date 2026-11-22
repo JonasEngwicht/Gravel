@@ -1,0 +1,36 @@
+{
+  "id": "tn-nashville-dickens-turf-and-landscape-supply",
+  "slug": "dickens-turf-and-landscape-supply",
+  "name": "Dickens Turf and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "600 Old Hickory Blvd Ste 110",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37209"
+  },
+  "location": {
+    "lat": 36.107292,
+    "lng": -86.921928
+  },
+  "contact": {
+    "phone": "(615) 921-4940",
+    "website": "http://www.dickenssupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc3247d1-c260-498c-a18c-721005adb986",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

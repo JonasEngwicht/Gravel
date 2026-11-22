@@ -1,0 +1,36 @@
+{
+  "id": "oh-avon-kurtz-bros-landscape-supply-center",
+  "slug": "kurtz-bros-landscape-supply-center",
+  "name": "Kurtz Bros. Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1180 Miller Rd",
+    "city": "Avon",
+    "state": "OH",
+    "zip": "44011"
+  },
+  "location": {
+    "lat": 41.47295,
+    "lng": -82.064278
+  },
+  "contact": {
+    "phone": "(216) 986-7033",
+    "website": "http://www.kurtz-bros.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68942cf0-b19a-4dda-8c9b-1b1e8545ba4c",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ms-vicksburg-lafarge-aggregates",
+  "slug": "lafarge-aggregates",
+  "name": "Lafarge Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2218 Warrenton Rd",
+    "city": "Vicksburg",
+    "state": "MS",
+    "zip": "39180"
+  },
+  "location": {
+    "lat": 32.284298,
+    "lng": -90.918304
+  },
+  "contact": {
+    "phone": "(601) 661-9400"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77df9694-e015-4f5e-b370-a403b93e077f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

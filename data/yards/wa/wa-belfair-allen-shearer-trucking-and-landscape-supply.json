@@ -1,0 +1,36 @@
+{
+  "id": "wa-belfair-allen-shearer-trucking-and-landscape-supply",
+  "slug": "allen-shearer-trucking-and-landscape-supply",
+  "name": "Allen Shearer Trucking & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "121 NE Log Yard Rd",
+    "city": "Belfair",
+    "state": "WA",
+    "zip": "98528"
+  },
+  "location": {
+    "lat": 47.469551,
+    "lng": -122.807701
+  },
+  "contact": {
+    "phone": "(360) 275-3465",
+    "website": "http://allenshearertrucking.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7ad2537-4ac8-4d0b-a407-b16fd38f65c1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

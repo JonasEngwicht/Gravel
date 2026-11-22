@@ -1,0 +1,35 @@
+{
+  "id": "ct-bloomfield-american-mulch",
+  "slug": "american-mulch",
+  "name": "American Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "61 E Dudley Town Rd",
+    "city": "Bloomfield",
+    "state": "CT",
+    "zip": "06002"
+  },
+  "location": {
+    "lat": 41.849823,
+    "lng": -72.696404
+  },
+  "contact": {
+    "website": "https://www.americanmulch.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c6e8893-b84e-4e6d-b494-806b01baf497",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

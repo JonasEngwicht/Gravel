@@ -1,0 +1,36 @@
+{
+  "id": "ny-oyster-bay-horan-sand-and-gravel",
+  "slug": "horan-sand-and-gravel",
+  "name": "Horan Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "85 Oak Dr",
+    "city": "Oyster Bay",
+    "state": "NY",
+    "zip": "11791"
+  },
+  "location": {
+    "lat": 40.806511,
+    "lng": -73.515022
+  },
+  "contact": {
+    "phone": "(516) 364-2972",
+    "website": "http://www.horan-island.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "21894a9e-be33-44f3-95e0-7d37946ce403",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

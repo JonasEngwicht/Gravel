@@ -1,0 +1,36 @@
+{
+  "id": "sd-spearfish-fisher-sand-and-gravel",
+  "slug": "fisher-sand-and-gravel",
+  "name": "Fisher Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "19730 Red Hill Rd",
+    "city": "Spearfish",
+    "state": "SD",
+    "zip": "57783"
+  },
+  "location": {
+    "lat": 44.542618,
+    "lng": -104.011292
+  },
+  "contact": {
+    "phone": "(605) 642-5760",
+    "website": "http://www.fisherind.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd5d5d87-e093-40f4-af2f-22c4478dd2a3",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

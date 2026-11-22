@@ -1,0 +1,36 @@
+{
+  "id": "nj-trenton-the-landscape-center-llc",
+  "slug": "the-landscape-center-llc",
+  "name": "The Landscape Center, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "22 Us Highway 130",
+    "city": "Trenton",
+    "state": "NJ",
+    "zip": "08620"
+  },
+  "location": {
+    "lat": 40.170525,
+    "lng": -74.684738
+  },
+  "contact": {
+    "phone": "(609) 379-6765",
+    "website": "http://www.thelandscapecenternj.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d588e72-58df-4b18-a0d8-36776934bb99",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

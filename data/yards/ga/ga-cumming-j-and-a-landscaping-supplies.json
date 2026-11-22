@@ -1,0 +1,36 @@
+{
+  "id": "ga-cumming-j-and-a-landscaping-supplies",
+  "slug": "j-and-a-landscaping-supplies",
+  "name": "J&A Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14223 Cumming Hwy",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30040"
+  },
+  "location": {
+    "lat": 34.235046,
+    "lng": -84.265648
+  },
+  "contact": {
+    "phone": "(470) 380-8366",
+    "website": "https://jalandscapingsupplies.onrender.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a5756977-7f69-4676-9a1a-571459a3d3cd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nj-wall-twp-nj-gravel-and-sand-co",
+  "slug": "nj-gravel-and-sand-co",
+  "name": "NJ Gravel & Sand Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1661 NJ-34",
+    "city": "Wall Twp",
+    "state": "NJ",
+    "zip": "07719"
+  },
+  "location": {
+    "lat": 40.193111,
+    "lng": -74.118141
+  },
+  "contact": {
+    "phone": "(732) 938-5252",
+    "website": "http://www.njgravelsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d53e9297-47b8-4885-addc-1f98791dea87",
+    "confidence": 0.997,
+    "merged_records": 2
+  }
+}

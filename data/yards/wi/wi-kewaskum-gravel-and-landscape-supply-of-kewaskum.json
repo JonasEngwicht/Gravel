@@ -1,0 +1,36 @@
+{
+  "id": "wi-kewaskum-gravel-and-landscape-supply-of-kewaskum",
+  "slug": "gravel-and-landscape-supply-of-kewaskum",
+  "name": "Gravel and Landscape Supply of Kewaskum",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8413 US-45",
+    "city": "Kewaskum",
+    "state": "WI",
+    "zip": "53040"
+  },
+  "location": {
+    "lat": 43.494946,
+    "lng": -88.216606
+  },
+  "contact": {
+    "phone": "(262) 689-0043",
+    "website": "http://glswi.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee33deb0-a41d-4a7f-ad99-c843a7432c0c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nj-middle-twp-lamanna-landscape-supply",
+  "slug": "lamanna-landscape-supply",
+  "name": "Lamanna Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1310 Route 9 N.",
+    "city": "Middle Twp",
+    "state": "NJ",
+    "zip": "08210"
+  },
+  "location": {
+    "lat": 39.108658,
+    "lng": -74.797798
+  },
+  "contact": {
+    "phone": "(609) 463-9090",
+    "website": "http://www.cambridgepavers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "25a37f9a-9859-4b3d-accb-00583ed017b7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

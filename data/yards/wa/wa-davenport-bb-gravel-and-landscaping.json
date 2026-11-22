@@ -1,0 +1,35 @@
+{
+  "id": "wa-davenport-bb-gravel-and-landscaping",
+  "slug": "bb-gravel-and-landscaping",
+  "name": "BB Gravel and Landscaping",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "34383 Hawk Lane N",
+    "city": "Davenport",
+    "state": "WA",
+    "zip": "99122"
+  },
+  "location": {
+    "lat": 47.680855,
+    "lng": -118.166672
+  },
+  "contact": {
+    "phone": "(844) 890-6716"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "87a1a71d-d36c-4526-8a1d-b40e87797d9c",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-humble-al-co-landscape-supply",
+  "slug": "al-co-landscape-supply",
+  "name": "Al-Co Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "17709 Eastex Fwy",
+    "city": "Humble",
+    "state": "TX",
+    "zip": "77396"
+  },
+  "location": {
+    "lat": 29.974928,
+    "lng": -95.28183
+  },
+  "contact": {
+    "phone": "(281) 446-8838",
+    "website": "http://www.alcolandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0dde5a4c-2525-4b59-a91b-133ea529eb65",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

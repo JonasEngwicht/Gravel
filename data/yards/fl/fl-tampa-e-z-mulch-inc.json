@@ -1,0 +1,35 @@
+{
+  "id": "fl-tampa-e-z-mulch-inc",
+  "slug": "e-z-mulch-inc",
+  "name": "E Z Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1010 N 19th St",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33605"
+  },
+  "location": {
+    "lat": 27.95351,
+    "lng": -82.438316
+  },
+  "contact": {
+    "phone": "(813) 242-0300"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc6384cc-4f1c-431e-b91e-d9f1dd9ca016",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

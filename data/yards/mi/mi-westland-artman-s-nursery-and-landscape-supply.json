@@ -1,0 +1,35 @@
+{
+  "id": "mi-westland-artman-s-nursery-and-landscape-supply",
+  "slug": "artman-s-nursery-and-landscape-supply",
+  "name": "Artman's Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1512 S Newburgh Rd",
+    "city": "Westland",
+    "state": "MI",
+    "zip": "48186"
+  },
+  "location": {
+    "lat": 42.29739,
+    "lng": -83.408905
+  },
+  "contact": {
+    "phone": "(734) 721-6610"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de873afa-4b3d-4215-a19f-8125fa799f53",
+    "confidence": 0.973,
+    "merged_records": 1
+  }
+}

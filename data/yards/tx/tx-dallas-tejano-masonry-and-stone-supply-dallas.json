@@ -1,0 +1,36 @@
+{
+  "id": "tx-dallas-tejano-masonry-and-stone-supply-dallas",
+  "slug": "tejano-masonry-and-stone-supply-dallas",
+  "name": "Tejano Masonry & Stone Supply -Dallas",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "10820 Goodnight Ln",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75220"
+  },
+  "location": {
+    "lat": 32.874573,
+    "lng": -96.901833
+  },
+  "contact": {
+    "phone": "(469) 928-6124",
+    "website": "http://tejanomasonry.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "29db83bb-55a8-4a17-950e-a9dd5e6297b6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

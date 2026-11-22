@@ -1,0 +1,48 @@
+{
+  "id": "wi-deforest-madison-sand-and-gravel-company-inc",
+  "slug": "madison-sand-and-gravel-company-inc",
+  "name": "Madison Sand & Gravel Company, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5349 Norway Grove School Rd",
+    "city": "Deforest",
+    "state": "WI",
+    "zip": "53532"
+  },
+  "location": {
+    "lat": 43.24229,
+    "lng": -89.407318
+  },
+  "contact": {
+    "phone": "(608) 846-4333",
+    "website": "https://madisonsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "179c0239-98b8-433a-b6b2-01592a9e865b",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4701992",
+      "name": "Norway Grove Gravel Plant",
+      "operator": "Madison Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2005-03-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

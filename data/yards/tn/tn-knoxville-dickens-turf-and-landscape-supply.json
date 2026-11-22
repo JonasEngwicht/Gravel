@@ -1,0 +1,36 @@
+{
+  "id": "tn-knoxville-dickens-turf-and-landscape-supply",
+  "slug": "dickens-turf-and-landscape-supply",
+  "name": "Dickens Turf & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6305 Baum Dr",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37919"
+  },
+  "location": {
+    "lat": 35.92952,
+    "lng": -84.003777
+  },
+  "contact": {
+    "phone": "(865) 588-1993",
+    "website": "https://www.dickenssupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3c65e77-732a-47b4-bb64-2856cd613a13",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

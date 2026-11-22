@@ -1,0 +1,35 @@
+{
+  "id": "nj-saddle-brook-stone-brook-garden-center-and-landscape-supply",
+  "slug": "stone-brook-garden-center-and-landscape-supply",
+  "name": "Stone Brook Garden Center & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "451 Market St",
+    "city": "Saddle Brook",
+    "state": "NJ",
+    "zip": "07663"
+  },
+  "location": {
+    "lat": 40.897694,
+    "lng": -74.099556
+  },
+  "contact": {
+    "phone": "(201) 880-1030"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ef49f3d-109a-433c-aca8-a348b635ea92",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nh-new-boston-riverside-sand-and-gravel",
+  "slug": "riverside-sand-and-gravel",
+  "name": "Riverside Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "722 River Rd",
+    "city": "New Boston",
+    "state": "NH",
+    "zip": "03070"
+  },
+  "location": {
+    "lat": 43.014809,
+    "lng": -71.636414
+  },
+  "contact": {
+    "phone": "(603) 497-7420",
+    "website": "http://www.riversidesandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4bbb654-3fdb-464a-b87e-b93ff7607d61",
+    "confidence": 0.942,
+    "merged_records": 1
+  }
+}

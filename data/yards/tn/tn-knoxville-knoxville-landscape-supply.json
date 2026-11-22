@@ -1,0 +1,36 @@
+{
+  "id": "tn-knoxville-knoxville-landscape-supply",
+  "slug": "knoxville-landscape-supply",
+  "name": "Knoxville Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4408 Middlebrook Pike",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37921"
+  },
+  "location": {
+    "lat": 35.96199,
+    "lng": -83.986526
+  },
+  "contact": {
+    "phone": "(865) 348-0197",
+    "website": "http://Knoxvillelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7bbfa24e-dba7-436f-aaa4-9ac39392c9a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

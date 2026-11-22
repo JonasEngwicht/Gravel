@@ -1,0 +1,36 @@
+{
+  "id": "il-chicago-perfect-rubber-mulch",
+  "slug": "perfect-rubber-mulch",
+  "name": "Perfect Rubber Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "17 E Monroe St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60603"
+  },
+  "location": {
+    "lat": 41.880543,
+    "lng": -87.626839
+  },
+  "contact": {
+    "phone": "(312) 288-8211",
+    "website": "http://www.perfectrubbermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1d9cae6-4c36-476b-b95f-d0a2fa3d1704",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

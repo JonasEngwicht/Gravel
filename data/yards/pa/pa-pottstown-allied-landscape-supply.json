@@ -1,0 +1,36 @@
+{
+  "id": "pa-pottstown-allied-landscape-supply",
+  "slug": "allied-landscape-supply",
+  "name": "Allied Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1425 E Schuylkill Rd",
+    "city": "Pottstown",
+    "state": "PA",
+    "zip": "19465"
+  },
+  "location": {
+    "lat": 40.229443,
+    "lng": -75.626266
+  },
+  "contact": {
+    "phone": "(610) 326-3109",
+    "website": "http://alliedlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8778a897-f685-4674-8496-59a9aed6e294",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

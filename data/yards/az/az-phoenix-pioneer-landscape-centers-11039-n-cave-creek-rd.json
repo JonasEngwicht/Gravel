@@ -1,0 +1,37 @@
+{
+  "id": "az-phoenix-pioneer-landscape-centers-11039-n-cave-creek-rd",
+  "slug": "pioneer-landscape-centers-11039-n-cave-creek-rd",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "11039 N Cave Creek Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85020"
+  },
+  "location": {
+    "lat": 33.587486,
+    "lng": -112.047852
+  },
+  "contact": {
+    "phone": "(602) 943-1020",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "943c6a39-6072-4ff2-a0d6-403c6ef59bba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

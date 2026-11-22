@@ -1,0 +1,36 @@
+{
+  "id": "il-westville-atwood-s-landscape-supply",
+  "slug": "atwood-s-landscape-supply",
+  "name": "Atwood's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1621 N State St",
+    "city": "Westville",
+    "state": "IL",
+    "zip": "61883"
+  },
+  "location": {
+    "lat": 40.058056,
+    "lng": -87.638618
+  },
+  "contact": {
+    "phone": "(217) 267-5339",
+    "website": "https://g.page/r/CW8Nd4PPZXRdEBA"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "630b59eb-e79d-4967-bcd8-c9a703e634b7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

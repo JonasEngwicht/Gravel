@@ -1,0 +1,37 @@
+{
+  "id": "mi-kalamazoo-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6395 Technology Ave",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49009"
+  },
+  "location": {
+    "lat": 42.246517,
+    "lng": -85.675102
+  },
+  "contact": {
+    "phone": "(269) 544-1396",
+    "website": "https://www.siteone.com/store/737"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3486472d-c4e2-452d-8ba2-43adcf079df4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

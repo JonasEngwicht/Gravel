@@ -1,0 +1,35 @@
+{
+  "id": "in-noblesville-southard-gravel-co",
+  "slug": "southard-gravel-co",
+  "name": "Southard Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "23884 E 133rd",
+    "city": "Noblesville",
+    "state": "IN",
+    "zip": "46060"
+  },
+  "location": {
+    "lat": 40.133884,
+    "lng": -85.928825
+  },
+  "contact": {
+    "phone": "(765) 552-3846"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ee320f5-011b-4f4d-aa02-d3ae3884bcf5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

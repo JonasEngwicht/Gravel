@@ -1,0 +1,35 @@
+{
+  "id": "ma-chicopee-baxter-sand-and-gravel",
+  "slug": "baxter-sand-and-gravel",
+  "name": "Baxter Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "652 Prospect St",
+    "city": "Chicopee",
+    "state": "MA",
+    "zip": "01020"
+  },
+  "location": {
+    "lat": 42.20171,
+    "lng": -72.581024
+  },
+  "contact": {
+    "phone": "(413) 536-5311"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97afeb08-114f-4f4a-bf7a-6ed9d8050888",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

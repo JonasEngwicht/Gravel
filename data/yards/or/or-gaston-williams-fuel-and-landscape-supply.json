@@ -1,0 +1,36 @@
+{
+  "id": "or-gaston-williams-fuel-and-landscape-supply",
+  "slug": "williams-fuel-and-landscape-supply",
+  "name": "Williams Fuel & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "44975 SW Seghers Rd",
+    "city": "Gaston",
+    "state": "OR",
+    "zip": "97119"
+  },
+  "location": {
+    "lat": 45.464157,
+    "lng": -123.14003
+  },
+  "contact": {
+    "phone": "(503) 357-6730",
+    "website": "http://www.williams-fuel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "920e4ee3-5183-4a0e-a71a-726ac124d40e",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

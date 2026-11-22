@@ -1,0 +1,36 @@
+{
+  "id": "wi-watertown-bags-and-bulk-landscape-supply-yard",
+  "slug": "bags-and-bulk-landscape-supply-yard",
+  "name": "Bags and Bulk Landscape Supply Yard",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "N8656 Jefferson Rd",
+    "city": "Watertown",
+    "state": "WI",
+    "zip": "53094"
+  },
+  "location": {
+    "lat": 43.159027,
+    "lng": -88.748466
+  },
+  "contact": {
+    "phone": "(920) 342-7925",
+    "website": "http://bagsandbulk.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1aa4674d-b1c7-472e-a931-c140f7c38158",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

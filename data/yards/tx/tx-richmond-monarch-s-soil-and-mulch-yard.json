@@ -1,0 +1,35 @@
+{
+  "id": "tx-richmond-monarch-s-soil-and-mulch-yard",
+  "slug": "monarch-s-soil-and-mulch-yard",
+  "name": "Monarch's Soil & Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4415 FM 2218 Rd",
+    "city": "Richmond",
+    "state": "TX",
+    "zip": "77469"
+  },
+  "location": {
+    "lat": 29.512564,
+    "lng": -95.790306
+  },
+  "contact": {
+    "phone": "(281) 512-2638"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3afa0135-7728-4a5e-a081-00886986386a",
+    "confidence": 0.793,
+    "merged_records": 1
+  }
+}

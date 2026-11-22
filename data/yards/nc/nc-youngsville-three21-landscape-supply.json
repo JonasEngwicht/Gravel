@@ -1,0 +1,36 @@
+{
+  "id": "nc-youngsville-three21-landscape-supply",
+  "slug": "three21-landscape-supply",
+  "name": "Three21 Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1720 Zion Dr.",
+    "city": "Youngsville",
+    "state": "NC",
+    "zip": "27596"
+  },
+  "location": {
+    "lat": 36.02932,
+    "lng": -78.472992
+  },
+  "contact": {
+    "phone": "(919) 909-4841",
+    "website": "https://www.three21landscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed19ac05-1c16-44c3-856b-3e34c55d0803",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

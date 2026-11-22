@@ -1,0 +1,36 @@
+{
+  "id": "pa-lancaster-good-s-mulch",
+  "slug": "good-s-mulch",
+  "name": "Good's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1415 Lime Valley Rd",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17602"
+  },
+  "location": {
+    "lat": 39.970242,
+    "lng": -76.21006
+  },
+  "contact": {
+    "phone": "(717) 687-7565",
+    "website": "http://www.goodsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3dbee850-f01d-4f17-b31e-06e0dfd280ed",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

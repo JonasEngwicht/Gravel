@@ -1,0 +1,35 @@
+{
+  "id": "nm-albuquerque-double-eagle-sand-and-gravel",
+  "slug": "double-eagle-sand-and-gravel",
+  "name": "Double Eagle Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2124 Coors Blvd SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87121"
+  },
+  "location": {
+    "lat": 35.031349,
+    "lng": -106.713844
+  },
+  "contact": {
+    "phone": "(505) 873-3137"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc01cf19-9cfa-424b-bbd8-5335e763406e",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

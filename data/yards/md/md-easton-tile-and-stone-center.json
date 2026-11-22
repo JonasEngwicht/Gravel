@@ -1,0 +1,36 @@
+{
+  "id": "md-easton-tile-and-stone-center",
+  "slug": "tile-and-stone-center",
+  "name": "Tile and Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "8646 Brooks Dr",
+    "city": "Easton",
+    "state": "MD",
+    "zip": "21601"
+  },
+  "location": {
+    "lat": 38.787163,
+    "lng": -76.085388
+  },
+  "contact": {
+    "phone": "(410) 822-1094",
+    "website": "https://www.tileandstonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30d1a93b-8806-4fde-976e-7cce86b96a3e",
+    "confidence": 0.968,
+    "merged_records": 1
+  }
+}

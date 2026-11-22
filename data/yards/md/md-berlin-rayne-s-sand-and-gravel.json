@@ -1,0 +1,36 @@
+{
+  "id": "md-berlin-rayne-s-sand-and-gravel",
+  "slug": "rayne-s-sand-and-gravel",
+  "name": "Rayne's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8933 Logtown Rd",
+    "city": "Berlin",
+    "state": "MD",
+    "zip": "21811"
+  },
+  "location": {
+    "lat": 38.364239,
+    "lng": -75.259583
+  },
+  "contact": {
+    "phone": "(410) 629-0300",
+    "website": "https://www.raynessandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81c76e27-2112-492c-a3e3-9e8093c9e073",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

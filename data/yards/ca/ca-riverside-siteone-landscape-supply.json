@@ -1,0 +1,37 @@
+{
+  "id": "ca-riverside-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2656 Market St",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92501"
+  },
+  "location": {
+    "lat": 33.993298,
+    "lng": -117.367981
+  },
+  "contact": {
+    "phone": "(951) 684-1080",
+    "website": "https://www.siteone.com/en/store/327"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d6c975b8-3ea9-41fe-9536-7ae148fe4fc9",
+    "confidence": 0.966,
+    "merged_records": 2
+  }
+}

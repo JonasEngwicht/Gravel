@@ -1,0 +1,36 @@
+{
+  "id": "tx-mansfield-dirt-tech-aggregates-and-recycling",
+  "slug": "dirt-tech-aggregates-and-recycling",
+  "name": "Dirt-tech Aggregates & Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7070 Hudson Cemetery Rd",
+    "city": "Mansfield",
+    "state": "TX",
+    "zip": "76063"
+  },
+  "location": {
+    "lat": 32.615147,
+    "lng": -97.210175
+  },
+  "contact": {
+    "phone": "(817) 563-6581",
+    "website": "http://www.dirttechconstruction.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b37ff8a-5319-449a-83d3-1fe90c154192",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

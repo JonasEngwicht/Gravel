@@ -1,0 +1,36 @@
+{
+  "id": "wi-whitewater-pro-landscape-supply",
+  "slug": "pro-landscape-supply",
+  "name": "Pro Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1002 S Janesville St",
+    "city": "Whitewater",
+    "state": "WI",
+    "zip": "53190"
+  },
+  "location": {
+    "lat": 42.819813,
+    "lng": -88.752449
+  },
+  "contact": {
+    "phone": "(262) 473-9675",
+    "website": "https://pro-landscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "081ee327-3838-4d14-9da6-ba4354c21c2c",
+    "confidence": 0.972,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wi-fitchburg-speedway-sand-and-gravel",
+  "slug": "speedway-sand-and-gravel",
+  "name": "Speedway Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5980 Executive Dr",
+    "city": "Fitchburg",
+    "state": "WI",
+    "zip": "53719"
+  },
+  "location": {
+    "lat": 43.010262,
+    "lng": -89.460037
+  },
+  "contact": {
+    "website": "https://www.speedwaysginc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3df6f88-26b1-4f37-855e-3c1c29a18069",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

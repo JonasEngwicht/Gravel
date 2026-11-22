@@ -1,0 +1,36 @@
+{
+  "id": "mi-rochester-hills-great-lakes-aggregates-llc-recycled-aggregates-rochester-hills-crooks-road-plant",
+  "slug": "great-lakes-aggregates-llc-recycled-aggregates-rochester-hills-crooks-road-plant",
+  "name": "Great Lakes Aggregates, Llc - Recycled Aggregates Rochester Hills/crooks Road Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2240 Avon Industrial Dr",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "zip": "48309"
+  },
+  "location": {
+    "lat": 42.645119,
+    "lng": -83.180481
+  },
+  "contact": {
+    "phone": "(313) 305-0513",
+    "website": "https://www.greatlakesagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c66aee04-3761-4d51-ae7c-5c6a8e3fab13",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

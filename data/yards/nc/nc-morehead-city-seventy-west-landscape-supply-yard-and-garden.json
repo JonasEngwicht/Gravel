@@ -1,0 +1,36 @@
+{
+  "id": "nc-morehead-city-seventy-west-landscape-supply-yard-and-garden",
+  "slug": "seventy-west-landscape-supply-yard-and-garden",
+  "name": "Seventy West Landscape Supply Yard & Garden",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4540 Arendell St",
+    "city": "Morehead City",
+    "state": "NC",
+    "zip": "28557"
+  },
+  "location": {
+    "lat": 34.731373,
+    "lng": -76.780632
+  },
+  "contact": {
+    "phone": "(252) 222-4446",
+    "website": "http://seventywestlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "627ed5fa-ba78-4b13-8b0f-f48b582ef090",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

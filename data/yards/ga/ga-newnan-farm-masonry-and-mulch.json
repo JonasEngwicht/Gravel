@@ -1,0 +1,35 @@
+{
+  "id": "ga-newnan-farm-masonry-and-mulch",
+  "slug": "farm-masonry-and-mulch",
+  "name": "Farm Masonry and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "119 Franklin Rd",
+    "city": "Newnan",
+    "state": "GA",
+    "zip": "30263"
+  },
+  "location": {
+    "lat": 33.38501,
+    "lng": -84.838448
+  },
+  "contact": {
+    "phone": "(770) 251-1224"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3ddcbecb-6f91-4fe5-a18f-78dd395db2db",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ky-owensboro-everscapes-landscape-supply",
+  "slug": "everscapes-landscape-supply",
+  "name": "Everscapes Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1300 E 4th St",
+    "city": "Owensboro",
+    "state": "KY",
+    "zip": "42303"
+  },
+  "location": {
+    "lat": 37.77372,
+    "lng": -87.097214
+  },
+  "contact": {
+    "phone": "(270) 683-9998",
+    "website": "http://everscapeslandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c6dac94-78a5-4bf0-b85d-56083698189b",
+    "confidence": 0.561,
+    "merged_records": 1
+  }
+}

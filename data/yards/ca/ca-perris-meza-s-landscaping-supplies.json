@@ -1,0 +1,36 @@
+{
+  "id": "ca-perris-meza-s-landscaping-supplies",
+  "slug": "meza-s-landscaping-supplies",
+  "name": "Meza's Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21740 Elmwood St",
+    "city": "Perris",
+    "state": "CA",
+    "zip": "92570"
+  },
+  "location": {
+    "lat": 33.835762,
+    "lng": -117.283447
+  },
+  "contact": {
+    "phone": "(951) 570-0309",
+    "website": "https://mezalandscapingsup.wixsite.com/website/our-products"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ebfba48-9df1-4b2b-887e-944abfebbba0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

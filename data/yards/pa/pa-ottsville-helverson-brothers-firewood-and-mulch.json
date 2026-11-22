@@ -1,0 +1,36 @@
+{
+  "id": "pa-ottsville-helverson-brothers-firewood-and-mulch",
+  "slug": "helverson-brothers-firewood-and-mulch",
+  "name": "Helverson Brothers Firewood and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "Pennsylvania 611",
+    "city": "Ottsville",
+    "state": "PA",
+    "zip": "18942"
+  },
+  "location": {
+    "lat": 40.504078,
+    "lng": -75.173431
+  },
+  "contact": {
+    "phone": "(610) 847-5448",
+    "website": "http://www.helverson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "47fbd5b5-8bc0-4d10-b1c3-0843a59343ed",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

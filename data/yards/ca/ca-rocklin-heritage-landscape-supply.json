@@ -1,0 +1,37 @@
+{
+  "id": "ca-rocklin-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "4311 Anthony Ct  Ste 900",
+    "city": "Rocklin",
+    "state": "CA",
+    "zip": "95677"
+  },
+  "location": {
+    "lat": 38.804783,
+    "lng": -121.214439
+  },
+  "contact": {
+    "phone": "(916) 652-5827",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ef0a75e-5e0d-4b08-a78b-e3329fb9815c",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

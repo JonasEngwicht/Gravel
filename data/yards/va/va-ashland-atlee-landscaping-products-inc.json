@@ -1,0 +1,36 @@
+{
+  "id": "va-ashland-atlee-landscaping-products-inc",
+  "slug": "atlee-landscaping-products-inc",
+  "name": "Atlee Landscaping Products Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12133 Washington Hwy",
+    "city": "Ashland",
+    "state": "VA",
+    "zip": "23005"
+  },
+  "location": {
+    "lat": 37.734482,
+    "lng": -77.472862
+  },
+  "contact": {
+    "phone": "(804) 550-2416",
+    "website": "https://jmhlawfirm.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3619ece8-dd5a-4239-aa04-ad23ac857983",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

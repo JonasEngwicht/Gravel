@@ -1,0 +1,48 @@
+{
+  "id": "nm-el-prado-taos-gravel-products",
+  "slug": "taos-gravel-products",
+  "name": "Taos Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "25021 US-64",
+    "city": "El Prado",
+    "state": "NM",
+    "zip": "87529"
+  },
+  "location": {
+    "lat": 36.4576,
+    "lng": -105.599434
+  },
+  "contact": {
+    "phone": "(575) 758-4395",
+    "website": "http://www.taosgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc867290-8cde-4480-b490-4d5f5c15f53f",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2902489",
+      "name": "Torres Pit",
+      "operator": "Taos Gravel Products",
+      "status": "Active",
+      "status_since": "2026-02-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-watsonville-sbs-concrete-aggregate-supplies",
+  "slug": "sbs-concrete-aggregate-supplies",
+  "name": "SBS Concrete Aggregate Supplies",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "33 Riverside Rd",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95076"
+  },
+  "location": {
+    "lat": 36.913078,
+    "lng": -121.743919
+  },
+  "contact": {
+    "phone": "(831) 228-4954",
+    "website": "https://www.sbs-cas.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c6ff1d60-063e-4147-9697-e17a2ffb2b9e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

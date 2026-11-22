@@ -1,0 +1,35 @@
+{
+  "id": "co-pueblo-western-plains-landscaping-supplies",
+  "slug": "western-plains-landscaping-supplies",
+  "name": "Western Plains Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1991 Aspen Cir",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81006"
+  },
+  "location": {
+    "lat": 38.251816,
+    "lng": -104.57444
+  },
+  "contact": {
+    "phone": "(719) 583-8770"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "25051523-4c4a-4abe-beec-7aaefc66b360",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ny-clarence-center-mulch-mogul-landscaping-llc",
+  "slug": "mulch-mogul-landscaping-llc",
+  "name": "Mulch Mogul Landscaping LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8630 Roll Rd",
+    "city": "Clarence Center",
+    "state": "NY",
+    "zip": "14032"
+  },
+  "location": {
+    "lat": 43.00066,
+    "lng": -78.671654
+  },
+  "contact": {
+    "phone": "(716) 254-7200",
+    "website": "https://mulchmogullandscaping.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb72d5a5-51db-438b-a5fe-4347f160d1d8",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

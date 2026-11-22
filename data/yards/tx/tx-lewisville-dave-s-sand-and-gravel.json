@@ -1,0 +1,35 @@
+{
+  "id": "tx-lewisville-dave-s-sand-and-gravel",
+  "slug": "dave-s-sand-and-gravel",
+  "name": "Dave's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "707 Rolling Ridge Dr",
+    "city": "Lewisville",
+    "state": "TX",
+    "zip": "75067"
+  },
+  "location": {
+    "lat": 33.041538,
+    "lng": -97.008362
+  },
+  "contact": {
+    "phone": "(214) 616-4608"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f486dce7-9254-4709-9fba-ad7c07e1cc64",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sc-warrenville-durden-s-sand-and-gravel",
+  "slug": "durden-s-sand-and-gravel",
+  "name": "Durden's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "261 Edgar St",
+    "city": "Warrenville",
+    "state": "SC",
+    "zip": "29851"
+  },
+  "location": {
+    "lat": 33.515778,
+    "lng": -81.825104
+  },
+  "contact": {
+    "phone": "(803) 645-4473"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed252083-7eea-4b8d-b4ae-6b774fe4e627",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

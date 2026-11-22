@@ -1,0 +1,36 @@
+{
+  "id": "ca-redwood-valley-redwood-valley-gravel-products",
+  "slug": "redwood-valley-gravel-products",
+  "name": "Redwood Valley Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11200 East Rd",
+    "city": "Redwood Valley",
+    "state": "CA",
+    "zip": "95470"
+  },
+  "location": {
+    "lat": 39.303898,
+    "lng": -123.210701
+  },
+  "contact": {
+    "phone": "(707) 485-8585",
+    "website": "http://redwoodvalleygravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1473d3c-7531-4969-b98f-70f24e6583b2",
+    "confidence": 0.957,
+    "merged_records": 1
+  }
+}

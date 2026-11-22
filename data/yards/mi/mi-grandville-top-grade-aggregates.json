@@ -1,0 +1,35 @@
+{
+  "id": "mi-grandville-top-grade-aggregates",
+  "slug": "top-grade-aggregates",
+  "name": "Top Grade Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2359 Ivanrest Ave SW",
+    "city": "Grandville",
+    "state": "MI",
+    "zip": "49418"
+  },
+  "location": {
+    "lat": 42.922417,
+    "lng": -85.745697
+  },
+  "contact": {
+    "phone": "(269) 751-8898"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d1ad7841-e725-48da-af9d-a3b42363a9a7",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-vista-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2120 La Mirada Dr",
+    "city": "Vista",
+    "state": "CA",
+    "zip": "92081"
+  },
+  "location": {
+    "lat": 33.151699,
+    "lng": -117.234886
+  },
+  "contact": {
+    "phone": "(760) 734-4334",
+    "website": "https://www.siteone.com/store/108"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55e229a4-4949-4d08-a864-49bb5cd4365f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

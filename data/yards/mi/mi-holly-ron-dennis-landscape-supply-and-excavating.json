@@ -1,0 +1,36 @@
+{
+  "id": "mi-holly-ron-dennis-landscape-supply-and-excavating",
+  "slug": "ron-dennis-landscape-supply-and-excavating",
+  "name": "Ron Dennis Landscape Supply & Excavating",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3080 Grange Hall Rd",
+    "city": "Holly",
+    "state": "MI",
+    "zip": "48442"
+  },
+  "location": {
+    "lat": 42.804562,
+    "lng": -83.64473
+  },
+  "contact": {
+    "phone": "(248) 634-5611",
+    "website": "http://rondennissuply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "70e496a7-1f3f-4582-8a05-bebcb3251072",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

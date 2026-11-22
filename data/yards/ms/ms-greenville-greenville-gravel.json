@@ -1,0 +1,35 @@
+{
+  "id": "ms-greenville-greenville-gravel",
+  "slug": "greenville-gravel",
+  "name": "Greenville Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "200 N Poplar St",
+    "city": "Greenville",
+    "state": "MS",
+    "zip": "38701"
+  },
+  "location": {
+    "lat": 33.414207,
+    "lng": -91.061111
+  },
+  "contact": {
+    "phone": "(662) 332-5135"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2589c031-61b2-48ca-9a73-86cc7e6b52bf",
+    "confidence": 0.764,
+    "merged_records": 1
+  }
+}

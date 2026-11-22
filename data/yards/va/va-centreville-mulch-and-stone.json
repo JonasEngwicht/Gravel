@@ -1,0 +1,36 @@
+{
+  "id": "va-centreville-mulch-and-stone",
+  "slug": "mulch-and-stone",
+  "name": "Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14001-C Saint Germain Dr Ste 330",
+    "city": "Centreville",
+    "state": "VA",
+    "zip": "20121"
+  },
+  "location": {
+    "lat": 38.837013,
+    "lng": -77.435349
+  },
+  "contact": {
+    "phone": "(703) 999-2624",
+    "website": "https://mulchandstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "897ead8c-4384-4acb-b7fb-76401433685b",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

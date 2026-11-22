@@ -1,0 +1,36 @@
+{
+  "id": "tx-san-antonio-aggregate-haulers",
+  "slug": "aggregate-haulers",
+  "name": "Aggregate Haulers",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15080 Tradesman",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78249"
+  },
+  "location": {
+    "lat": 29.584909,
+    "lng": -98.583488
+  },
+  "contact": {
+    "phone": "(210) 492-5501",
+    "website": "https://www.aggregatehaulers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0bcda96-93bf-4d2a-9e00-9ae2513e9c8c",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sc-leesville-s-h-landscape-supply",
+  "slug": "s-h-landscape-supply",
+  "name": "S H Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "101 Old Duncan Rd",
+    "city": "Leesville",
+    "state": "SC",
+    "zip": "29070"
+  },
+  "location": {
+    "lat": 34.041737,
+    "lng": -81.525528
+  },
+  "contact": {
+    "phone": "(803) 532-3761",
+    "website": "https://www.shlandsc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2804b185-858a-45ea-ae8d-c6748a827f99",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

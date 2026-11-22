@@ -1,0 +1,36 @@
+{
+  "id": "mi-byron-center-plant-1-landscape-supply",
+  "slug": "plant-1-landscape-supply",
+  "name": "Plant 1 Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3741 64th St SW",
+    "city": "Byron Center",
+    "state": "MI",
+    "zip": "49315"
+  },
+  "location": {
+    "lat": 42.848999,
+    "lng": -85.756981
+  },
+  "contact": {
+    "phone": "(616) 531-2870",
+    "website": "http://www.plant1landscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5e2b23f-b3c4-44a9-ad70-ffa1aa172b53",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

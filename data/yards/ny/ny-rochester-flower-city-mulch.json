@@ -1,0 +1,36 @@
+{
+  "id": "ny-rochester-flower-city-mulch",
+  "slug": "flower-city-mulch",
+  "name": "Flower City Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "764 Brooks Ave",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14619"
+  },
+  "location": {
+    "lat": 43.132133,
+    "lng": -77.658096
+  },
+  "contact": {
+    "phone": "(585) 205-8225",
+    "website": "https://www.flowercitymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d440e78f-e24e-496f-8b94-0d3e17ea5403",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

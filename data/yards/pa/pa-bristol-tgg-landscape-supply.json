@@ -1,0 +1,36 @@
+{
+  "id": "pa-bristol-tgg-landscape-supply",
+  "slug": "tgg-landscape-supply",
+  "name": "TGG Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4100 Newportville Rd",
+    "city": "Bristol",
+    "state": "PA",
+    "zip": "19056"
+  },
+  "location": {
+    "lat": 40.124538,
+    "lng": -74.899796
+  },
+  "contact": {
+    "phone": "(215) 874-9290",
+    "website": "http://tgglandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2eea6778-53d8-402a-8dd0-cd1629537bf9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

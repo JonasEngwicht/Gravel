@@ -1,0 +1,36 @@
+{
+  "id": "sc-chapin-metts-landscape-supply",
+  "slug": "metts-landscape-supply",
+  "name": "Metts Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1714 Chapin Rd",
+    "city": "Chapin",
+    "state": "SC",
+    "zip": "29036"
+  },
+  "location": {
+    "lat": 34.170631,
+    "lng": -81.362404
+  },
+  "contact": {
+    "phone": "(803) 932-0054",
+    "website": "https://mettslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "239fc0b5-9a4a-45da-b3d9-51f7d55f4cae",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

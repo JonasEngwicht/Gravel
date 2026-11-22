@@ -1,0 +1,36 @@
+{
+  "id": "ms-natchez-lafarge-aggregates",
+  "slug": "lafarge-aggregates",
+  "name": "Lafarge Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14 Moran Rd",
+    "city": "Natchez",
+    "state": "MS",
+    "zip": "39120"
+  },
+  "location": {
+    "lat": 31.532988,
+    "lng": -91.435562
+  },
+  "contact": {
+    "phone": "(601) 445-5901",
+    "website": "https://www.lafargeholcim.us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ccbd0c2-69da-492a-ba89-ee9d4590c3d1",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

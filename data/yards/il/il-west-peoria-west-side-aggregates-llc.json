@@ -1,0 +1,35 @@
+{
+  "id": "il-west-peoria-west-side-aggregates-llc",
+  "slug": "west-side-aggregates-llc",
+  "name": "West Side Aggregates, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2401 W Rhodora Ave",
+    "city": "West Peoria",
+    "state": "IL",
+    "zip": "61604"
+  },
+  "location": {
+    "lat": 40.70546,
+    "lng": -89.630409
+  },
+  "contact": {
+    "phone": "(309) 673-8894"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db7a3022-3c1a-43bf-ab51-9bb67d2354b1",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

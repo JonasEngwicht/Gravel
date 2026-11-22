@@ -1,0 +1,35 @@
+{
+  "id": "tn-dunlap-stone-mulch-and-leather-crafts",
+  "slug": "stone-mulch-and-leather-crafts",
+  "name": "Stone Mulch & Leather Crafts",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2156 Stone Cave Rd",
+    "city": "Dunlap",
+    "state": "TN",
+    "zip": "37327"
+  },
+  "location": {
+    "lat": 35.313244,
+    "lng": -85.433914
+  },
+  "contact": {
+    "phone": "(916) 804-3392"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "023caa11-9b60-42f6-b3e9-4fd720c246a0",
+    "confidence": 0.897,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ia-larrabee-higman-sand-and-gravel",
+  "slug": "higman-sand-and-gravel",
+  "name": "Higman Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4521 Barnes Rd",
+    "city": "Larrabee",
+    "state": "IA",
+    "zip": "51029"
+  },
+  "location": {
+    "lat": 42.861725,
+    "lng": -95.481377
+  },
+  "contact": {
+    "phone": "(712) 437-2562"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "78779969-c46a-4aa9-8210-da254593102c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

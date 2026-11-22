@@ -1,0 +1,37 @@
+{
+  "id": "de-bear-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "711 Carson Dr",
+    "city": "Bear",
+    "state": "DE",
+    "zip": "19701"
+  },
+  "location": {
+    "lat": 39.609882,
+    "lng": -75.691078
+  },
+  "contact": {
+    "phone": "(302) 836-3903",
+    "website": "https://www.siteone.com/en/store/152"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "73c20d0d-be7e-4522-83b9-f80d3f8c1fbe",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

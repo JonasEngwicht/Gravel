@@ -1,0 +1,35 @@
+{
+  "id": "pa-hanover-hanover-surplus-landscape-supply-yard",
+  "slug": "hanover-surplus-landscape-supply-yard",
+  "name": "Hanover Surplus Landscape Supply Yard",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1800B Baltimore Pike",
+    "city": "Hanover",
+    "state": "PA",
+    "zip": "17331"
+  },
+  "location": {
+    "lat": 39.762493,
+    "lng": -76.959259
+  },
+  "contact": {
+    "phone": "(717) 630-9855"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e4e2ec65-c4d4-4514-bd1a-c0e4117be48f",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

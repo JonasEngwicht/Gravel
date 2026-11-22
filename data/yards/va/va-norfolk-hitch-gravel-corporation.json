@@ -1,0 +1,36 @@
+{
+  "id": "va-norfolk-hitch-gravel-corporation",
+  "slug": "hitch-gravel-corporation",
+  "name": "Hitch Gravel Corporation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "208 E Plume St",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23510"
+  },
+  "location": {
+    "lat": 36.847179,
+    "lng": -76.290871
+  },
+  "contact": {
+    "phone": "(757) 627-1673",
+    "website": "http://mikehitch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c58800bd-c1fc-4ed3-b0dd-b661f377b815",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

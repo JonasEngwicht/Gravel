@@ -1,0 +1,35 @@
+{
+  "id": "tn-morristown-southeast-landscape-supply",
+  "slug": "southeast-landscape-supply",
+  "name": "Southeast Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4237 E Morris Blvd",
+    "city": "Morristown",
+    "state": "TN",
+    "zip": "37813"
+  },
+  "location": {
+    "lat": 36.23494,
+    "lng": -83.239372
+  },
+  "contact": {
+    "phone": "(423) 317-9133"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f2b1b7fb-a85a-471e-8e7a-a7e8ed0331f1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

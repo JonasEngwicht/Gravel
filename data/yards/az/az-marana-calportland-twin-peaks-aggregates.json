@@ -1,0 +1,36 @@
+{
+  "id": "az-marana-calportland-twin-peaks-aggregates",
+  "slug": "calportland-twin-peaks-aggregates",
+  "name": "CalPortland Twin Peaks Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11115 N Casa Grande Hwy",
+    "city": "Marana",
+    "state": "AZ",
+    "zip": "85654"
+  },
+  "location": {
+    "lat": 32.407238,
+    "lng": -111.142303
+  },
+  "contact": {
+    "phone": "(520) 682-2221",
+    "website": "http://www.calportland.com/locations/arizona/rillito-cement-plant/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a65488f2-a804-4678-b649-8cec81060033",
+    "confidence": 0.969,
+    "merged_records": 2
+  }
+}

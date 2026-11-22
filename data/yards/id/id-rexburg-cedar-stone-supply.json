@@ -1,0 +1,36 @@
+{
+  "id": "id-rexburg-cedar-stone-supply",
+  "slug": "cedar-stone-supply",
+  "name": "Cedar Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2803 W 3800 S",
+    "city": "Rexburg",
+    "state": "ID",
+    "zip": "83440"
+  },
+  "location": {
+    "lat": 43.773746,
+    "lng": -111.837486
+  },
+  "contact": {
+    "phone": "(208) 538-1865",
+    "website": "http://www.cedarstonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3532afb6-3a88-45af-855f-4e35cf59b7ff",
+    "confidence": 0.897,
+    "merged_records": 1
+  }
+}

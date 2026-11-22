@@ -1,0 +1,36 @@
+{
+  "id": "ct-north-grosvenordale-northeast-sand-and-gravel",
+  "slug": "northeast-sand-and-gravel",
+  "name": "Northeast Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "659 Riverside Dr",
+    "city": "North Grosvenordale",
+    "state": "CT",
+    "zip": "06255"
+  },
+  "location": {
+    "lat": 41.971336,
+    "lng": -71.895416
+  },
+  "contact": {
+    "phone": "(508) 656-0637",
+    "website": "http://www.northeastsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "96d2f281-a37c-474f-b24a-83b9a8b446b0",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

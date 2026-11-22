@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-leandro-siteone-landscape-supply-14305-washington-ave",
+  "slug": "siteone-landscape-supply-14305-washington-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "14305 Washington Ave",
+    "city": "San Leandro",
+    "state": "CA",
+    "zip": "94578"
+  },
+  "location": {
+    "lat": 37.706001,
+    "lng": -122.144218
+  },
+  "contact": {
+    "phone": "(510) 357-5220",
+    "website": "https://www.siteone.com/en/store/417"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "554cb121-d680-45e6-8f1b-f6f6c7de74b7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

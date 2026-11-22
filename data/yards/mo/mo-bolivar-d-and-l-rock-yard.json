@@ -1,0 +1,35 @@
+{
+  "id": "mo-bolivar-d-and-l-rock-yard",
+  "slug": "d-and-l-rock-yard",
+  "name": "D&L Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "869 E 412th Rd",
+    "city": "Bolivar",
+    "state": "MO",
+    "zip": "65613"
+  },
+  "location": {
+    "lat": 37.653267,
+    "lng": -93.474037
+  },
+  "contact": {
+    "phone": "(850) 910-1707"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15afb6ab-1cbd-4579-ada6-bc4c4b30a858",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

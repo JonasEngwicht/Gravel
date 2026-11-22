@@ -1,0 +1,36 @@
+{
+  "id": "nc-henderson-carolina-mulch-n-more",
+  "slug": "carolina-mulch-n-more",
+  "name": "Carolina Mulch N' More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2525 Ross Mill Rd",
+    "city": "Henderson",
+    "state": "NC",
+    "zip": "27537"
+  },
+  "location": {
+    "lat": 36.338341,
+    "lng": -78.437355
+  },
+  "contact": {
+    "phone": "(252) 438-9000",
+    "website": "http://carolinamulchnmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "755d197d-38db-460b-a39b-8902087b063b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

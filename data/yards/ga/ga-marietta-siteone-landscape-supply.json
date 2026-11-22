@@ -1,0 +1,37 @@
+{
+  "id": "ga-marietta-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "930 Mountain Industrial Dr NW",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060"
+  },
+  "location": {
+    "lat": 33.986332,
+    "lng": -84.579247
+  },
+  "contact": {
+    "phone": "(770) 424-5300",
+    "website": "https://www.siteone.com/en/store/177"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c3019ff-74ad-4c05-b208-70df06d84dba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

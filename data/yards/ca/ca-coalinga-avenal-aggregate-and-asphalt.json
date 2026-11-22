@@ -1,0 +1,36 @@
+{
+  "id": "ca-coalinga-avenal-aggregate-and-asphalt",
+  "slug": "avenal-aggregate-and-asphalt",
+  "name": "Avenal Aggregate & Asphalt",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "45315 Lost Hills Rd",
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "93210"
+  },
+  "location": {
+    "lat": 36.06992,
+    "lng": -120.230301
+  },
+  "contact": {
+    "phone": "(559) 934-0618",
+    "website": "https://avenal-aggregate-asphalt.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "91ebddd4-1998-4a10-b2bc-c80e573887d6",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

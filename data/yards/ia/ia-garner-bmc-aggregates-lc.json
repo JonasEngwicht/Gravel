@@ -1,0 +1,36 @@
+{
+  "id": "ia-garner-bmc-aggregates-lc",
+  "slug": "bmc-aggregates-lc",
+  "name": "BMC Aggregates LC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1775 200th St",
+    "city": "Garner",
+    "state": "IA",
+    "zip": "50438"
+  },
+  "location": {
+    "lat": 43.053471,
+    "lng": -93.639893
+  },
+  "contact": {
+    "phone": "(641) 587-2171",
+    "website": "http://www.bmcaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d55bca6-947d-43ee-a9ea-37f5d1c8471e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

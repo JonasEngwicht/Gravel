@@ -1,0 +1,37 @@
+{
+  "id": "oh-columbus-ohio-mulch-4665-westerville-rd",
+  "slug": "ohio-mulch-4665-westerville-rd",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "4665 Westerville Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43231"
+  },
+  "location": {
+    "lat": 40.067822,
+    "lng": -82.932266
+  },
+  "contact": {
+    "phone": "(614) 891-3242",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "188766ec-804a-4e51-8933-d1afad5989fb",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

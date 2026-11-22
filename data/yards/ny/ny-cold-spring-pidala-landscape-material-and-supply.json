@@ -1,0 +1,36 @@
+{
+  "id": "ny-cold-spring-pidala-landscape-material-and-supply",
+  "slug": "pidala-landscape-material-and-supply",
+  "name": "Pidala Landscape Material & Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3492 Route 9",
+    "city": "Cold Spring",
+    "state": "NY",
+    "zip": "10516"
+  },
+  "location": {
+    "lat": 41.480747,
+    "lng": -73.911942
+  },
+  "contact": {
+    "phone": "(845) 265-3088",
+    "website": "http://www.pidalasupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc91f746-d53e-4579-95b4-0ff6f074bbf0",
+    "confidence": 0.795,
+    "merged_records": 1
+  }
+}

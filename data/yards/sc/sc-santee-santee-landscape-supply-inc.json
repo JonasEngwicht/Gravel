@@ -1,0 +1,35 @@
+{
+  "id": "sc-santee-santee-landscape-supply-inc",
+  "slug": "santee-landscape-supply-inc",
+  "name": "Santee Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9190 Old Number Six Hwy",
+    "city": "Santee",
+    "state": "SC",
+    "zip": "29142"
+  },
+  "location": {
+    "lat": 33.479446,
+    "lng": -80.461731
+  },
+  "contact": {
+    "phone": "(803) 854-3184"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "76af11f4-4a88-410d-ba3a-c32b630101b6",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

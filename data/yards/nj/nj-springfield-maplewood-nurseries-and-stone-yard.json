@@ -1,0 +1,36 @@
+{
+  "id": "nj-springfield-maplewood-nurseries-and-stone-yard",
+  "slug": "maplewood-nurseries-and-stone-yard",
+  "name": "Maplewood Nurseries & Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "160 Springfield Ave",
+    "city": "Springfield",
+    "state": "NJ",
+    "zip": "07081"
+  },
+  "location": {
+    "lat": 40.711327,
+    "lng": -74.302727
+  },
+  "contact": {
+    "phone": "(973) 376-7698",
+    "website": "http://www.maplewoodnursery.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d9243ef-184e-495c-92b5-c93cb752145a",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

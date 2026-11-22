@@ -1,0 +1,36 @@
+{
+  "id": "wv-moundsville-ohio-river-aggregate",
+  "slug": "ohio-river-aggregate",
+  "name": "Ohio River Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1601 Lafayette Ave",
+    "city": "Moundsville",
+    "state": "WV",
+    "zip": "26041"
+  },
+  "location": {
+    "lat": 39.907818,
+    "lng": -80.753426
+  },
+  "contact": {
+    "phone": "(304) 845-3151",
+    "website": "http://www.hlctrucking.com/ora/index.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6dd4fda1-48df-4ffc-9a19-a3c27415d2b6",
+    "confidence": 0.984,
+    "merged_records": 1
+  }
+}

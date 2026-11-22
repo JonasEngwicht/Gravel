@@ -1,0 +1,36 @@
+{
+  "id": "mi-burton-country-oaks-landscape-supply",
+  "slug": "country-oaks-landscape-supply",
+  "name": "Country Oaks Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3218 E Atherton Rd",
+    "city": "Burton",
+    "state": "MI",
+    "zip": "48529"
+  },
+  "location": {
+    "lat": 42.98912,
+    "lng": -83.645142
+  },
+  "contact": {
+    "phone": "(810) 743-1920",
+    "website": "http://www.countryoakslandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf53bbad-fa96-4495-a7e9-e02f79dea89e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

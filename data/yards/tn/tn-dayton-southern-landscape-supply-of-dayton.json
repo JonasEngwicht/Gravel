@@ -1,0 +1,36 @@
+{
+  "id": "tn-dayton-southern-landscape-supply-of-dayton",
+  "slug": "southern-landscape-supply-of-dayton",
+  "name": "Southern Landscape Supply of Dayton",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3727 Rhea County Hwy",
+    "city": "Dayton",
+    "state": "TN",
+    "zip": "37321"
+  },
+  "location": {
+    "lat": 35.467205,
+    "lng": -85.038872
+  },
+  "contact": {
+    "phone": "(423) 428-9284",
+    "website": "http://Daytonpowersports.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7798cb6-11d6-4287-94f3-b3d7f764ed57",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

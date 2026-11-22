@@ -1,0 +1,36 @@
+{
+  "id": "tx-katy-katy-stone-and-gravel",
+  "slug": "katy-stone-and-gravel",
+  "name": "Katy Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4383 Katy Hockley Cut Off Rd",
+    "city": "Katy",
+    "state": "TX",
+    "zip": "77493"
+  },
+  "location": {
+    "lat": 29.83926,
+    "lng": -95.808922
+  },
+  "contact": {
+    "phone": "(281) 392-2746",
+    "website": "https://katystoneandgravel.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "61f59fac-b137-4769-822b-1435f2cd6127",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

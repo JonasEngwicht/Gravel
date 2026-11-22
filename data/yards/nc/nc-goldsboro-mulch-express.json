@@ -1,0 +1,36 @@
+{
+  "id": "nc-goldsboro-mulch-express",
+  "slug": "mulch-express",
+  "name": "Mulch Express",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2677 US-13",
+    "city": "Goldsboro",
+    "state": "NC",
+    "zip": "27534"
+  },
+  "location": {
+    "lat": 35.410389,
+    "lng": -77.898033
+  },
+  "contact": {
+    "phone": "(919) 778-4297",
+    "website": "http://www.mulchexpresssupercenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4f00ac20-f7a5-435f-a5d2-c354be3598e6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

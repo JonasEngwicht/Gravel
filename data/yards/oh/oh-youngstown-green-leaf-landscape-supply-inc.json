@@ -1,0 +1,35 @@
+{
+  "id": "oh-youngstown-green-leaf-landscape-supply-inc",
+  "slug": "green-leaf-landscape-supply-inc",
+  "name": "Green Leaf Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1430 S Canfield Niles Rd",
+    "city": "Youngstown",
+    "state": "OH",
+    "zip": "44515"
+  },
+  "location": {
+    "lat": 41.088066,
+    "lng": -80.763443
+  },
+  "contact": {
+    "phone": "(330) 792-1933"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f56f649d-4da9-42ae-83e6-80e8c419d172",
+    "confidence": 0.897,
+    "merged_records": 1
+  }
+}

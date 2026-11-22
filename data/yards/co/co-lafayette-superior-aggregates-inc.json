@@ -1,0 +1,36 @@
+{
+  "id": "co-lafayette-superior-aggregates-inc",
+  "slug": "superior-aggregates-inc",
+  "name": "Superior Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1206 S 120th St",
+    "city": "Lafayette",
+    "state": "CO",
+    "zip": "80026"
+  },
+  "location": {
+    "lat": 39.972847,
+    "lng": -105.071907
+  },
+  "contact": {
+    "phone": "(303) 661-3021",
+    "website": "http://superioraggregates.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "432c6d83-777b-4ef7-b81d-0d9d6b0d720d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

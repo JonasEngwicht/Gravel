@@ -1,0 +1,36 @@
+{
+  "id": "il-cary-the-barn-nursery-and-landscape-center",
+  "slug": "the-barn-nursery-and-landscape-center",
+  "name": "The Barn Nursery & Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8109 State Route 31",
+    "city": "Cary",
+    "state": "IL",
+    "zip": "60013"
+  },
+  "location": {
+    "lat": 42.210838,
+    "lng": -88.28743
+  },
+  "contact": {
+    "phone": "(847) 658-3883",
+    "website": "https://barnlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "630be8c0-b176-4ec3-93d8-74c4fd87a718",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "va-accomac-hill-sand-and-gravel",
+  "slug": "hill-sand-and-gravel",
+  "name": "Hill Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "24680 Front St",
+    "city": "Accomac",
+    "state": "VA",
+    "zip": "23301"
+  },
+  "location": {
+    "lat": 37.735806,
+    "lng": -75.646202
+  },
+  "contact": {
+    "phone": "(757) 257-0820",
+    "website": "https://www.hillsandandgravelva.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "88332eb3-172e-4370-a523-576e92956699",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4407348",
+      "name": "Hill Sand & Gravel",
+      "operator": "Hill Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2019-05-14",
+      "commodity": "Sand, Common",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

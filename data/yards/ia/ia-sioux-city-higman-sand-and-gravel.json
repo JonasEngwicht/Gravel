@@ -1,0 +1,35 @@
+{
+  "id": "ia-sioux-city-higman-sand-and-gravel",
+  "slug": "higman-sand-and-gravel",
+  "name": "Higman Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1910 18th St",
+    "city": "Sioux City",
+    "state": "IA",
+    "zip": "51105"
+  },
+  "location": {
+    "lat": 42.507957,
+    "lng": -96.385101
+  },
+  "contact": {
+    "phone": "(712) 258-3447"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1c17d35e-d97c-4d3e-95b7-0be7368bec5e",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

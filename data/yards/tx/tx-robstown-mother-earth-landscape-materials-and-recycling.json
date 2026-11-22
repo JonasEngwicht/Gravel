@@ -1,0 +1,36 @@
+{
+  "id": "tx-robstown-mother-earth-landscape-materials-and-recycling",
+  "slug": "mother-earth-landscape-materials-and-recycling",
+  "name": "Mother Earth Landscape Materials & Recycling",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3037 FM-665",
+    "city": "Robstown",
+    "state": "TX",
+    "zip": "78380"
+  },
+  "location": {
+    "lat": 27.686192,
+    "lng": -97.60907
+  },
+  "contact": {
+    "phone": "(361) 767-9606",
+    "website": "https://mother-earth-landscape-materials-recycling.hub.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11f21f11-212e-4585-a005-2857fbf991cd",
+    "confidence": 0.928,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-vidor-ramco-sand-and-gravel",
+  "slug": "ramco-sand-and-gravel",
+  "name": "Ramco Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1055 North St",
+    "city": "Vidor",
+    "state": "TX",
+    "zip": "77662"
+  },
+  "location": {
+    "lat": 30.130068,
+    "lng": -93.970184
+  },
+  "contact": {
+    "phone": "(409) 769-1591"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "56b6309a-3c28-419f-8b78-8f57d9110a98",
+    "confidence": 0.678,
+    "merged_records": 1
+  }
+}

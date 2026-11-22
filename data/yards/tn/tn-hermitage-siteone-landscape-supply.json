@@ -1,0 +1,37 @@
+{
+  "id": "tn-hermitage-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4040 Lebanon Pike",
+    "city": "Hermitage",
+    "state": "TN",
+    "zip": "37076"
+  },
+  "location": {
+    "lat": 36.197762,
+    "lng": -86.620636
+  },
+  "contact": {
+    "phone": "(629) 204-7978",
+    "website": "https://www.siteone.com/en/store/1073"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a0eac8c-915e-47cc-84bb-dc7f1b7c4df7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

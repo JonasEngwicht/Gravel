@@ -1,0 +1,35 @@
+{
+  "id": "nm-tierra-amarilla-russell-sand-and-gravel-co-inc",
+  "slug": "russell-sand-and-gravel-co-inc",
+  "name": "Russell Sand & Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "322 State Rd 512",
+    "city": "Tierra Amarilla",
+    "state": "NM",
+    "zip": "87575"
+  },
+  "location": {
+    "lat": 36.743286,
+    "lng": -106.507637
+  },
+  "contact": {
+    "phone": "(575) 588-7933"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af7ef612-6411-448d-8480-8b6c2f51ca95",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

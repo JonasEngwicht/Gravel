@@ -1,0 +1,36 @@
+{
+  "id": "nm-santa-fe-ulibarri-landscaping-materials",
+  "slug": "ulibarri-landscaping-materials",
+  "name": "Ulibarri Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2805 Agua Fria St",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87507"
+  },
+  "location": {
+    "lat": 35.664734,
+    "lng": -105.994827
+  },
+  "contact": {
+    "phone": "(505) 471-7661",
+    "website": "http://ulminc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9da05c7b-0bf2-4f08-a376-24c46aac0ef4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tx-southlake-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "1900 Brumlow Ave",
+    "city": "Southlake",
+    "state": "TX",
+    "zip": "76092"
+  },
+  "location": {
+    "lat": 32.918415,
+    "lng": -97.126595
+  },
+  "contact": {
+    "phone": "(817) 685-2448",
+    "website": "https://www.siteone.com/en/store/1016"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5eadd96a-4380-4729-b510-c3903cec8cef",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

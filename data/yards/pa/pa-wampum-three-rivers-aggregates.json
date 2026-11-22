@@ -1,0 +1,36 @@
+{
+  "id": "pa-wampum-three-rivers-aggregates",
+  "slug": "three-rivers-aggregates",
+  "name": "Three Rivers Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3118 Wampum Rd",
+    "city": "Wampum",
+    "state": "PA",
+    "zip": "16157"
+  },
+  "location": {
+    "lat": 40.915867,
+    "lng": -80.369591
+  },
+  "contact": {
+    "phone": "(724) 654-9170",
+    "website": "http://www.threeriversaggs.com/trawebsite.nsf/web/Locations?openDocument"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5babc254-7e07-4516-9846-5ec14cd9ac89",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

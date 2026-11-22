@@ -1,0 +1,37 @@
+{
+  "id": "mn-waite-park-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "217 33rd Ave S",
+    "city": "Waite Park",
+    "state": "MN",
+    "zip": "56387"
+  },
+  "location": {
+    "lat": 45.549438,
+    "lng": -94.261383
+  },
+  "contact": {
+    "phone": "(320) 253-0028",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a479e1c2-98af-4993-84ae-69a21121c81f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

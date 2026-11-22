@@ -1,0 +1,35 @@
+{
+  "id": "tx-houston-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14215 East Fwy",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77015"
+  },
+  "location": {
+    "lat": 29.771299,
+    "lng": -95.170967
+  },
+  "contact": {
+    "phone": "(832) 885-9546"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a587fd5-d4ae-4b89-9e2f-d97ef391d424",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

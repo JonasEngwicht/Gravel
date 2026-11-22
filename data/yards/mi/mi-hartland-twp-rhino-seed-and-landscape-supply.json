@@ -1,0 +1,36 @@
+{
+  "id": "mi-hartland-twp-rhino-seed-and-landscape-supply",
+  "slug": "rhino-seed-and-landscape-supply",
+  "name": "Rhino Seed and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "850 Old US 23",
+    "city": "Hartland Twp",
+    "state": "MI",
+    "zip": "48114"
+  },
+  "location": {
+    "lat": 42.615662,
+    "lng": -83.748138
+  },
+  "contact": {
+    "phone": "(800) 482-3130",
+    "website": "http://www.rhinoseed.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "944a7083-e1b7-4ed6-b375-a100fa80975e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

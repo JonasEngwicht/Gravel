@@ -1,0 +1,36 @@
+{
+  "id": "ca-north-hollywood-prime-building-materials-landscape-center",
+  "slug": "prime-building-materials-landscape-center",
+  "name": "Prime Building Materials (landscape Center)",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7934 Lankershim Blvd",
+    "city": "North Hollywood",
+    "state": "CA",
+    "zip": "91605"
+  },
+  "location": {
+    "lat": 34.214939,
+    "lng": -118.38739
+  },
+  "contact": {
+    "phone": "(818) 503-2982",
+    "website": "https://www.prime3.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5af1191b-f77a-456a-8949-867272adf2a5",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

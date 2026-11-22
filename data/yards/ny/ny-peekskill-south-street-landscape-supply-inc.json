@@ -1,0 +1,36 @@
+{
+  "id": "ny-peekskill-south-street-landscape-supply-inc",
+  "slug": "south-street-landscape-supply-inc",
+  "name": "South Street Landscape Supply Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1006 Lower S St",
+    "city": "Peekskill",
+    "state": "NY",
+    "zip": "10566"
+  },
+  "location": {
+    "lat": 41.276974,
+    "lng": -73.934227
+  },
+  "contact": {
+    "phone": "(914) 737-2392",
+    "website": "http://Southstreetlandscapesupply.com/home/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a6064aa-d6a3-44b2-83aa-b7c07b4f7fe4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

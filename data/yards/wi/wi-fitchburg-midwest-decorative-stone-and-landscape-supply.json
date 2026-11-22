@@ -1,0 +1,36 @@
+{
+  "id": "wi-fitchburg-midwest-decorative-stone-and-landscape-supply",
+  "slug": "midwest-decorative-stone-and-landscape-supply",
+  "name": "Midwest Decorative Stone & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6149 McKee Rd",
+    "city": "Fitchburg",
+    "state": "WI",
+    "zip": "53719"
+  },
+  "location": {
+    "lat": 43.014881,
+    "lng": -89.470161
+  },
+  "contact": {
+    "phone": "(608) 925-2005",
+    "website": "https://www.midwestdecorativestone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d7bfa5d-52b5-4f83-8def-827a28964b39",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

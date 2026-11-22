@@ -1,0 +1,37 @@
+{
+  "id": "ga-mcdonough-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "135 Mount Carmel Rd",
+    "city": "McDonough",
+    "state": "GA",
+    "zip": "30253"
+  },
+  "location": {
+    "lat": 33.455212,
+    "lng": -84.198418
+  },
+  "contact": {
+    "phone": "(678) 583-5000",
+    "website": "https://www.siteone.com/en/store/50"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0a65ee59-40c5-4795-b54f-22780cd7946f",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

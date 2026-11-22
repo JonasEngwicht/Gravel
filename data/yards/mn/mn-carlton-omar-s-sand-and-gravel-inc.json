@@ -1,0 +1,36 @@
+{
+  "id": "mn-carlton-omar-s-sand-and-gravel-inc",
+  "slug": "omar-s-sand-and-gravel-inc",
+  "name": "Omar's Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2067 County Road 61",
+    "city": "Carlton",
+    "state": "MN",
+    "zip": "55718"
+  },
+  "location": {
+    "lat": 46.62336,
+    "lng": -92.546074
+  },
+  "contact": {
+    "phone": "(218) 384-3781",
+    "website": "http://www.omarsandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3a62cac-7989-4ea7-9959-1afc05fc62bb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

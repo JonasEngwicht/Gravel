@@ -1,0 +1,37 @@
+{
+  "id": "mi-clinton-township-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "35004 Automation Dr",
+    "city": "Clinton Township",
+    "state": "MI",
+    "zip": "48035"
+  },
+  "location": {
+    "lat": 42.555336,
+    "lng": -82.8834
+  },
+  "contact": {
+    "phone": "(586) 792-6180",
+    "website": "https://www.siteone.com/store/575"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cfd123bc-6528-4cb8-bf56-829d8cef0ba4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

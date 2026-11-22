@@ -1,0 +1,35 @@
+{
+  "id": "tx-wichita-falls-tepfer-sand-and-gravel",
+  "slug": "tepfer-sand-and-gravel",
+  "name": "Tepfer Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2137 River Rd",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "76305"
+  },
+  "location": {
+    "lat": 33.93401,
+    "lng": -98.452599
+  },
+  "contact": {
+    "phone": "(940) 767-2874"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "910480f0-85f5-45ee-ab40-2d1b0b62bcbf",
+    "confidence": 0.849,
+    "merged_records": 1
+  }
+}

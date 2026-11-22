@@ -1,0 +1,36 @@
+{
+  "id": "oh-chillicothe-parry-co-quartz-sand-and-gravel",
+  "slug": "parry-co-quartz-sand-and-gravel",
+  "name": "Parry Co Quartz Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "33630 Old Route 35",
+    "city": "Chillicothe",
+    "state": "OH",
+    "zip": "45601"
+  },
+  "location": {
+    "lat": 39.211182,
+    "lng": -82.836517
+  },
+  "contact": {
+    "phone": "(740) 884-4893",
+    "website": "https://parryco.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ccba42c-e67a-4a2c-a4ca-19797a6f304a",
+    "confidence": 0.952,
+    "merged_records": 1
+  }
+}

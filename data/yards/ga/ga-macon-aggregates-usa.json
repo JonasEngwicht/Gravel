@@ -1,0 +1,36 @@
+{
+  "id": "ga-macon-aggregates-usa",
+  "slug": "aggregates-usa",
+  "name": "Aggregates USA",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1263 Lite-N-Tie Rd",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31211"
+  },
+  "location": {
+    "lat": 32.926277,
+    "lng": -83.523804
+  },
+  "contact": {
+    "phone": "(478) 746-0244",
+    "website": "http://www.aggregatesusa.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e37c903-7531-4b4e-a155-3f4f2885dedf",
+    "confidence": 0.788,
+    "merged_records": 3
+  }
+}

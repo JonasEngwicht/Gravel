@@ -1,0 +1,36 @@
+{
+  "id": "fl-ocala-southern-aggregates",
+  "slug": "southern-aggregates",
+  "name": "Southern Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7598 SE 59th Ct",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34472"
+  },
+  "location": {
+    "lat": 29.110437,
+    "lng": -82.051651
+  },
+  "contact": {
+    "phone": "(352) 245-4445",
+    "website": "https://www.southernrockyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4e8c5d8b-5b40-4e0f-8adc-7adfd0c2fd5b",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nc-claremont-wesson-s-sand-and-gravel-llc",
+  "slug": "wesson-s-sand-and-gravel-llc",
+  "name": "Wesson's Sand and Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3613 NC Highway 10 E",
+    "city": "Claremont",
+    "state": "NC",
+    "zip": "28610"
+  },
+  "location": {
+    "lat": 35.67683,
+    "lng": -81.135162
+  },
+  "contact": {
+    "phone": "(828) 465-4080"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdc497db-a4ae-4321-b034-edebc457cb8f",
+    "confidence": 0.694,
+    "merged_records": 1
+  }
+}

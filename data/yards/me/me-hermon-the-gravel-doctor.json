@@ -1,0 +1,36 @@
+{
+  "id": "me-hermon-the-gravel-doctor",
+  "slug": "the-gravel-doctor",
+  "name": "The Gravel Doctor",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "100 Annis Rd",
+    "city": "Hermon",
+    "state": "ME",
+    "zip": "04401"
+  },
+  "location": {
+    "lat": 44.815224,
+    "lng": -68.93203
+  },
+  "contact": {
+    "phone": "(207) 848-3563",
+    "website": "http://www.thegraveldoctor.com/contact.asp"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8aa93a4a-2a5d-44f7-94b7-93bf2aac7db6",
+    "confidence": 0.908,
+    "merged_records": 1
+  }
+}

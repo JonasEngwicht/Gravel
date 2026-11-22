@@ -1,0 +1,36 @@
+{
+  "id": "wi-franklin-lemke-s-lawn-and-landscape-supplies",
+  "slug": "lemke-s-lawn-and-landscape-supplies",
+  "name": "Lemke's Lawn & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11440 W Loomis Rd",
+    "city": "Franklin",
+    "state": "WI",
+    "zip": "53132"
+  },
+  "location": {
+    "lat": 42.873077,
+    "lng": -88.058357
+  },
+  "contact": {
+    "phone": "(414) 425-5100",
+    "website": "http://www.lemkelandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3abca98-61fc-421f-9b19-c918c6452d9d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

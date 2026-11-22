@@ -1,0 +1,36 @@
+{
+  "id": "sc-boiling-springs-southern-mulch-spartanburg",
+  "slug": "southern-mulch-spartanburg",
+  "name": "Southern Mulch (Spartanburg)",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "201 4th St",
+    "city": "Boiling Springs",
+    "state": "SC",
+    "zip": "29316"
+  },
+  "location": {
+    "lat": 35.013985,
+    "lng": -81.964264
+  },
+  "contact": {
+    "phone": "(864) 582-2275",
+    "website": "http://www.southernmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6e5e90ff-bda0-45ec-bbf6-fad2390d2ffd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

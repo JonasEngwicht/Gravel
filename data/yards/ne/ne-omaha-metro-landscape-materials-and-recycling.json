@@ -1,0 +1,36 @@
+{
+  "id": "ne-omaha-metro-landscape-materials-and-recycling",
+  "slug": "metro-landscape-materials-and-recycling",
+  "name": "Metro Landscape Materials & Recycling",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6404 S 60th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68117"
+  },
+  "location": {
+    "lat": 41.196396,
+    "lng": -96.008034
+  },
+  "contact": {
+    "phone": "(402) 734-8044",
+    "website": "https://rcr-metro.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7041c38-4701-46c5-bfeb-b8bb7881b611",
+    "confidence": 0.589,
+    "merged_records": 1
+  }
+}

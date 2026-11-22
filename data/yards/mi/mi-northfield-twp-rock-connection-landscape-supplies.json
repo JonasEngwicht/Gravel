@@ -1,0 +1,36 @@
+{
+  "id": "mi-northfield-twp-rock-connection-landscape-supplies",
+  "slug": "rock-connection-landscape-supplies",
+  "name": "Rock Connection Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6592 Whitmore Lake Rd",
+    "city": "Northfield Twp",
+    "state": "MI",
+    "zip": "48189"
+  },
+  "location": {
+    "lat": 42.37487,
+    "lng": -83.75544
+  },
+  "contact": {
+    "phone": "(734) 741-5070",
+    "website": "http://www.rockconnection.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b841eea2-8e38-4c8a-9ea7-37800ed1bc3f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

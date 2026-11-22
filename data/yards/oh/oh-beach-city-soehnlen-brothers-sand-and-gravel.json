@@ -1,0 +1,47 @@
+{
+  "id": "oh-beach-city-soehnlen-brothers-sand-and-gravel",
+  "slug": "soehnlen-brothers-sand-and-gravel",
+  "name": "Soehnlen Brothers Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10449 Soehnlen Rd",
+    "city": "Beach City",
+    "state": "OH",
+    "zip": "44608"
+  },
+  "location": {
+    "lat": 40.6334,
+    "lng": -81.583626
+  },
+  "contact": {
+    "phone": "(330) 756-2244"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1dbb3ba2-ead6-4092-ba40-ee67c8d1aafb",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301652",
+      "name": "Soehnlen Brothers Sand & Gravel Inc",
+      "operator": "Soehnlen Brothers Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2026-04-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

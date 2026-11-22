@@ -1,0 +1,37 @@
+{
+  "id": "ca-carpinteria-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4760 Carpinteria Ave",
+    "city": "Carpinteria",
+    "state": "CA",
+    "zip": "93013"
+  },
+  "location": {
+    "lat": 34.401505,
+    "lng": -119.520622
+  },
+  "contact": {
+    "phone": "(805) 684-3115",
+    "website": "https://www.siteone.com/en/store/403"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7f891933-cf38-485b-a800-31adb79a54a6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

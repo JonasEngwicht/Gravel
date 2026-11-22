@@ -1,0 +1,36 @@
+{
+  "id": "fl-deland-k-and-b-landscape-supplies",
+  "slug": "k-and-b-landscape-supplies",
+  "name": "K & B Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3900 E New York Ave",
+    "city": "DeLand",
+    "state": "FL",
+    "zip": "32724"
+  },
+  "location": {
+    "lat": 29.029057,
+    "lng": -81.164948
+  },
+  "contact": {
+    "phone": "(386) 734-3553",
+    "website": "http://www.kbmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3abc35b-0bc8-4463-a5bd-dbbf05f1b92c",
+    "confidence": 0.828,
+    "merged_records": 1
+  }
+}

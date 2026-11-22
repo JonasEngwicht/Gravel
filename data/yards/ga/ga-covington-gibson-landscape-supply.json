@@ -1,0 +1,36 @@
+{
+  "id": "ga-covington-gibson-landscape-supply",
+  "slug": "gibson-landscape-supply",
+  "name": "Gibson Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "50 Salem Cir",
+    "city": "Covington",
+    "state": "GA",
+    "zip": "30016"
+  },
+  "location": {
+    "lat": 33.579762,
+    "lng": -83.965141
+  },
+  "contact": {
+    "phone": "(770) 900-2237",
+    "website": "https://www.gibsonlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31cdc388-290d-429e-b8cc-775d893fccdb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

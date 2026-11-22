@@ -1,0 +1,35 @@
+{
+  "id": "or-la-pine-cascade-bark-and-landscape-supply",
+  "slug": "cascade-bark-and-landscape-supply",
+  "name": "Cascade Bark And Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "50880 US-97",
+    "city": "La Pine",
+    "state": "OR",
+    "zip": "97739"
+  },
+  "location": {
+    "lat": 43.647823,
+    "lng": -121.521606
+  },
+  "contact": {
+    "phone": "(541) 678-3493"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89e1c68f-ac58-4ed2-9aac-238a08db3157",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

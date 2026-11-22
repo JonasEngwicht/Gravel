@@ -1,0 +1,36 @@
+{
+  "id": "ga-blue-ridge-blue-ridge-stone-depot",
+  "slug": "blue-ridge-stone-depot",
+  "name": "Blue Ridge Stone Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5051 Appalachian Hwy",
+    "city": "Blue Ridge",
+    "state": "GA",
+    "zip": "30513"
+  },
+  "location": {
+    "lat": 34.876209,
+    "lng": -84.307213
+  },
+  "contact": {
+    "phone": "(706) 632-5978",
+    "website": "http://www.blueridgestonedepot.com/mountain.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a20a8298-b1e5-4fed-bb92-ba6335ffff3a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

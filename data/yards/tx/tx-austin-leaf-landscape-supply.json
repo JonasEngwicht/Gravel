@@ -1,0 +1,36 @@
+{
+  "id": "tx-austin-leaf-landscape-supply",
+  "slug": "leaf-landscape-supply",
+  "name": "Leaf Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13292 Pond Springs Rd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78729"
+  },
+  "location": {
+    "lat": 30.44767,
+    "lng": -97.782143
+  },
+  "contact": {
+    "phone": "(512) 599-4500",
+    "website": "http://www.leaflandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "030c5d2f-33f6-4060-8a4d-1fbfa9a073b6",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

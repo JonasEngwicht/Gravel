@@ -1,0 +1,46 @@
+{
+  "id": "ms-sardis-smith-brothers-sand-and-gravel",
+  "slug": "smith-brothers-sand-and-gravel",
+  "name": "Smith Brothers Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "177 Smith Rd",
+    "city": "Sardis",
+    "state": "MS",
+    "zip": "38666"
+  },
+  "location": {
+    "lat": 34.448055,
+    "lng": -89.913208
+  },
+  "contact": {
+    "phone": "(662) 487-1826"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e683a8a6-99de-464f-80fe-332d27f217eb",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2200675",
+      "name": "Smith Bros Gravel",
+      "operator": "Smith Bros. Gravel",
+      "status": "Abandoned",
+      "status_since": "2017-08-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

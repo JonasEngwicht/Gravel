@@ -1,0 +1,36 @@
+{
+  "id": "ca-tracy-tracy-top-soil",
+  "slug": "tracy-top-soil",
+  "name": "Tracy Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7831 W 11th St",
+    "city": "Tracy",
+    "state": "CA",
+    "zip": "95304"
+  },
+  "location": {
+    "lat": 37.74017,
+    "lng": -121.402458
+  },
+  "contact": {
+    "phone": "(209) 835-0131",
+    "website": "http://www.tracytopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cfbb0449-fa3d-437a-8d39-640a10c297dd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

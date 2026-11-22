@@ -1,0 +1,36 @@
+{
+  "id": "ca-simi-valley-simi-hardware-and-rock-depot",
+  "slug": "simi-hardware-and-rock-depot",
+  "name": "Simi Hardware & Rock Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "711 E Los Angeles Ave",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93065"
+  },
+  "location": {
+    "lat": 34.272026,
+    "lng": -118.78334
+  },
+  "contact": {
+    "phone": "(805) 527-7184",
+    "website": "https://www.simihardware.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4774653b-96c1-4dba-a0a1-45d5ada79a2f",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

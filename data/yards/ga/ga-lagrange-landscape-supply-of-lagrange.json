@@ -1,0 +1,35 @@
+{
+  "id": "ga-lagrange-landscape-supply-of-lagrange",
+  "slug": "landscape-supply-of-lagrange",
+  "name": "Landscape Supply of Lagrange",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1511 Hamilton Rd",
+    "city": "Lagrange",
+    "state": "GA",
+    "zip": "30241"
+  },
+  "location": {
+    "lat": 33.008965,
+    "lng": -85.017899
+  },
+  "contact": {
+    "phone": "(706) 885-1600"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ff87f83-7c54-41be-9189-5f44b0e4906d",
+    "confidence": 0.774,
+    "merged_records": 1
+  }
+}

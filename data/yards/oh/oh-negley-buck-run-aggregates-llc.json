@@ -1,0 +1,47 @@
+{
+  "id": "oh-negley-buck-run-aggregates-llc",
+  "slug": "buck-run-aggregates-llc",
+  "name": "Buck Run Aggregates, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "51778 Darlington Rd",
+    "city": "Negley",
+    "state": "OH",
+    "zip": "44441"
+  },
+  "location": {
+    "lat": 40.793304,
+    "lng": -80.524162
+  },
+  "contact": {
+    "phone": "(330) 426-2151"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "879c47cf-fe3d-4708-a888-9bc3a7a3b68f",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304318",
+      "name": "Buck Run",
+      "operator": "Neville Aggregates Company, Inc",
+      "status": "Intermittent",
+      "status_since": "2026-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

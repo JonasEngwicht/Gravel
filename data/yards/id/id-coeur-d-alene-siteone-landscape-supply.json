@@ -1,0 +1,37 @@
+{
+  "id": "id-coeur-d-alene-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2619 W Seltice Way",
+    "city": "Coeur D'Alene",
+    "state": "ID",
+    "zip": "83814"
+  },
+  "location": {
+    "lat": 47.701187,
+    "lng": -116.820038
+  },
+  "contact": {
+    "phone": "(208) 667-3943",
+    "website": "https://www.siteone.com/store/362"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "baf92a9b-5774-4b2b-91a3-93632d48db4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

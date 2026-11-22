@@ -1,0 +1,36 @@
+{
+  "id": "nj-lawrence-twp-ace-stone-supply",
+  "slug": "ace-stone-supply",
+  "name": "ACE Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "30 Black Rd",
+    "city": "Lawrence Twp",
+    "state": "NJ",
+    "zip": "08648"
+  },
+  "location": {
+    "lat": 40.275665,
+    "lng": -74.690277
+  },
+  "contact": {
+    "phone": "(609) 587-9195",
+    "website": "http://acestonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d46b10dd-9be1-464d-90bc-140b56f1c984",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

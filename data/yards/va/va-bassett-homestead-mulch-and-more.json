@@ -1,0 +1,36 @@
+{
+  "id": "va-bassett-homestead-mulch-and-more",
+  "slug": "homestead-mulch-and-more",
+  "name": "Homestead Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "983 Murry Hill Ln",
+    "city": "Bassett",
+    "state": "VA",
+    "zip": "24055"
+  },
+  "location": {
+    "lat": 36.767418,
+    "lng": -79.935501
+  },
+  "contact": {
+    "phone": "(276) 352-5108",
+    "website": "http://www.homesteadmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2cf9dfdf-fdff-4e3e-bf2a-8b3fe69c3190",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

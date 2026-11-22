@@ -1,0 +1,35 @@
+{
+  "id": "ga-rome-tanner-mulch-products",
+  "slug": "tanner-mulch-products",
+  "name": "Tanner Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5750 Big Texas Valley Rd NW",
+    "city": "Rome",
+    "state": "GA",
+    "zip": "30165"
+  },
+  "location": {
+    "lat": 34.382969,
+    "lng": -85.255386
+  },
+  "contact": {
+    "phone": "(706) 506-5694"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee8f4168-8944-4c23-9b34-4d8045481009",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

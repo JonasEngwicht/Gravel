@@ -1,0 +1,36 @@
+{
+  "id": "il-geneva-c-and-c-mulch-and-more",
+  "slug": "c-and-c-mulch-and-more",
+  "name": "C & C Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1125 Lewis Rd",
+    "city": "Geneva",
+    "state": "IL",
+    "zip": "60134"
+  },
+  "location": {
+    "lat": 41.873138,
+    "lng": -88.345482
+  },
+  "contact": {
+    "phone": "(630) 484-6852",
+    "website": "http://candcmulchandmore.localsearch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1c4aebec-8139-48e4-9f93-4252f589586b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

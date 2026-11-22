@@ -1,0 +1,35 @@
+{
+  "id": "mt-reed-point-free-river-ranch-gravel",
+  "slug": "free-river-ranch-gravel",
+  "name": "Free River Ranch Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "263 E Frontage Rd",
+    "city": "Reed Point",
+    "state": "MT",
+    "zip": "59069"
+  },
+  "location": {
+    "lat": 45.701885,
+    "lng": -109.494186
+  },
+  "contact": {
+    "phone": "(406) 698-1829"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34afe54d-bb97-484a-a85b-1fb11c98c338",
+    "confidence": 0.627,
+    "merged_records": 1
+  }
+}

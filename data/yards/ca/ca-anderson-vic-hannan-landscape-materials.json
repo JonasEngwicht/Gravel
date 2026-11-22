@@ -1,0 +1,36 @@
+{
+  "id": "ca-anderson-vic-hannan-landscape-materials",
+  "slug": "vic-hannan-landscape-materials",
+  "name": "VIC HANNAN LANDSCAPE MATERIALS",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7086 Highway 273",
+    "city": "Anderson",
+    "state": "CA",
+    "zip": "96007"
+  },
+  "location": {
+    "lat": 40.490421,
+    "lng": -122.361595
+  },
+  "contact": {
+    "phone": "(530) 243-3037",
+    "website": "http://www.vichannan.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "837fc6d6-2dc7-448a-83d7-3125289a43d9",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

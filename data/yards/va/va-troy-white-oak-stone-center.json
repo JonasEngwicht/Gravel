@@ -1,0 +1,36 @@
+{
+  "id": "va-troy-white-oak-stone-center",
+  "slug": "white-oak-stone-center",
+  "name": "White Oak Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "151 Starlite Park",
+    "city": "Troy",
+    "state": "VA",
+    "zip": "22974"
+  },
+  "location": {
+    "lat": 37.968384,
+    "lng": -78.225151
+  },
+  "contact": {
+    "phone": "(434) 589-5004",
+    "website": "http://whiteoakstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df6cdec0-aa77-4cc9-9c99-be53979ddf26",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

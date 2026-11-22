@@ -1,0 +1,36 @@
+{
+  "id": "ok-mustang-superior-sand-and-gravel",
+  "slug": "superior-sand-and-gravel",
+  "name": "Superior Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "660 W Sw 59th St",
+    "city": "Mustang",
+    "state": "OK",
+    "zip": "73064"
+  },
+  "location": {
+    "lat": 35.405697,
+    "lng": -97.736877
+  },
+  "contact": {
+    "phone": "(405) 376-0894",
+    "website": "https://www.superiorsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f50377da-80ca-4a9f-b67f-4f81b8cb75c9",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

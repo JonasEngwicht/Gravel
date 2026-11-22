@@ -1,0 +1,37 @@
+{
+  "id": "fl-gainesville-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "1250 NW 53rd Ave",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32609"
+  },
+  "location": {
+    "lat": 29.70384,
+    "lng": -82.338699
+  },
+  "contact": {
+    "phone": "(352) 375-2225",
+    "website": "https://www.fisoutdoor.com/fis-outdoor-locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c2787fbd-1148-4bc1-a422-516aaea0e86f",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

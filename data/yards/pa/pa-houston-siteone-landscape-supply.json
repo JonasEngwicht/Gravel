@@ -1,0 +1,37 @@
+{
+  "id": "pa-houston-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2445 W Pike St",
+    "city": "Houston",
+    "state": "PA",
+    "zip": "15342"
+  },
+  "location": {
+    "lat": 40.224308,
+    "lng": -80.217972
+  },
+  "contact": {
+    "phone": "(724) 743-1784",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d88ca0d8-7320-4d26-9f58-51cfbff71317",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

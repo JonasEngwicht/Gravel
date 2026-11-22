@@ -1,0 +1,36 @@
+{
+  "id": "tx-alvin-stone-depot-usa",
+  "slug": "stone-depot-usa",
+  "name": "Stone Depot USA",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "23740 Highway 6",
+    "city": "Alvin",
+    "state": "TX",
+    "zip": "77511"
+  },
+  "location": {
+    "lat": 29.446909,
+    "lng": -95.298096
+  },
+  "contact": {
+    "phone": "(281) 771-1511",
+    "website": "https://www.stonedepotus.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d1116a0-ba52-4e7c-bb7d-3b0b70889f03",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

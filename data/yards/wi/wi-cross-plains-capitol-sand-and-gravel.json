@@ -1,0 +1,48 @@
+{
+  "id": "wi-cross-plains-capitol-sand-and-gravel",
+  "slug": "capitol-sand-and-gravel",
+  "name": "Capitol Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8355 Stagecoach Rd",
+    "city": "Cross Plains",
+    "state": "WI",
+    "zip": "53528"
+  },
+  "location": {
+    "lat": 43.096798,
+    "lng": -89.63237
+  },
+  "contact": {
+    "phone": "(608) 798-3051",
+    "website": "http://www.walbecgroup.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83b8ddf3-ad8a-466f-8b71-6a3c98a9637b",
+    "confidence": 0.88,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4700788",
+      "name": "Capitol Sand",
+      "operator": "Payne & Dolan, Inc.",
+      "status": "Active",
+      "status_since": "2022-03-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

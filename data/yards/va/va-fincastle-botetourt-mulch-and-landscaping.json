@@ -1,0 +1,36 @@
+{
+  "id": "va-fincastle-botetourt-mulch-and-landscaping",
+  "slug": "botetourt-mulch-and-landscaping",
+  "name": "Botetourt Mulch and Landscaping",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "109 Herndon St",
+    "city": "Fincastle",
+    "state": "VA",
+    "zip": "24090"
+  },
+  "location": {
+    "lat": 37.497005,
+    "lng": -79.879784
+  },
+  "contact": {
+    "phone": "(540) 473-1229",
+    "website": "https://www.000webhost.com/migrate?static=true"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8e6a2705-c763-4223-90fb-202fe7e26494",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

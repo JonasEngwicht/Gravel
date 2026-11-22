@@ -1,0 +1,48 @@
+{
+  "id": "or-tualatin-tigard-sand-and-gravel-llc",
+  "slug": "tigard-sand-and-gravel-llc",
+  "name": "Tigard Sand & Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21455 SW 120th Ave",
+    "city": "Tualatin",
+    "state": "OR",
+    "zip": "97062"
+  },
+  "location": {
+    "lat": 45.365982,
+    "lng": -122.800819
+  },
+  "contact": {
+    "phone": "(503) 692-1800",
+    "website": "http://www.tigardsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12109a88-0eed-4f81-8226-2fb7b5260a19",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3503429",
+      "name": "104 Portable",
+      "operator": "Tigard Sand & Gravel LLC",
+      "status": "Abandoned",
+      "status_since": "2025-06-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

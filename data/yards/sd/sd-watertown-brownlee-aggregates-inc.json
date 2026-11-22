@@ -1,0 +1,46 @@
+{
+  "id": "sd-watertown-brownlee-aggregates-inc",
+  "slug": "brownlee-aggregates-inc",
+  "name": "Brownlee Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1520 5th St SE",
+    "city": "Watertown",
+    "state": "SD",
+    "zip": "57201"
+  },
+  "location": {
+    "lat": 44.882412,
+    "lng": -97.108307
+  },
+  "contact": {
+    "phone": "(605) 886-4503"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb1c3427-cb74-4159-881c-6dfa31963e15",
+    "confidence": 0.784,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3901114",
+      "name": "Plant #2",
+      "operator": "Brownlee Construction Inc.",
+      "status": "Abandoned",
+      "status_since": "1978-04-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

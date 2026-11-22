@@ -1,0 +1,48 @@
+{
+  "id": "mi-jackson-schlegel-sand-and-gravel",
+  "slug": "schlegel-sand-and-gravel",
+  "name": "Schlegel Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7855 Dixon Rd",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49201"
+  },
+  "location": {
+    "lat": 42.344322,
+    "lng": -84.490509
+  },
+  "contact": {
+    "phone": "(517) 783-2480",
+    "website": "https://www.schlegelsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "476274d9-5339-40ef-84d2-57960f145f0c",
+    "confidence": 0.95,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003427",
+      "name": "Dixon Rd.",
+      "operator": "Carl Schlegel Inc",
+      "status": "Active",
+      "status_since": "2019-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

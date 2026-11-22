@@ -1,0 +1,36 @@
+{
+  "id": "nj-vineland-dun-rite-sand-and-gravel",
+  "slug": "dun-rite-sand-and-gravel",
+  "name": "Dun-Rite Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3765 Mays Landing Rd",
+    "city": "Vineland",
+    "state": "NJ",
+    "zip": "08361"
+  },
+  "location": {
+    "lat": 39.419724,
+    "lng": -74.963364
+  },
+  "contact": {
+    "phone": "(856) 825-9900",
+    "website": "http://www.dunritesand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5fc0cb3d-e734-4460-b371-5c424f40c5f0",
+    "confidence": 0.972,
+    "merged_records": 4
+  }
+}

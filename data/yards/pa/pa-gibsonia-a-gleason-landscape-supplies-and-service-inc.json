@@ -1,0 +1,36 @@
+{
+  "id": "pa-gibsonia-a-gleason-landscape-supplies-and-service-inc",
+  "slug": "a-gleason-landscape-supplies-and-service-inc",
+  "name": "A. Gleason Landscape Supplies & Service Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5950 Valencia Rd",
+    "city": "Gibsonia",
+    "state": "PA",
+    "zip": "15044"
+  },
+  "location": {
+    "lat": 40.670033,
+    "lng": -79.981308
+  },
+  "contact": {
+    "phone": "(724) 625-4545",
+    "website": "http://gleasonlandscapeservices.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3226c29f-2a5b-4a0c-97b3-ab4790bbaa19",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

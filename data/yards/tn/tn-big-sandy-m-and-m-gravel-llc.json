@@ -1,0 +1,35 @@
+{
+  "id": "tn-big-sandy-m-and-m-gravel-llc",
+  "slug": "m-and-m-gravel-llc",
+  "name": "M & M Gravel Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1125 Sulphur Creek Rd",
+    "city": "Big Sandy",
+    "state": "TN",
+    "zip": "38221"
+  },
+  "location": {
+    "lat": 36.219917,
+    "lng": -88.077484
+  },
+  "contact": {
+    "phone": "(731) 593-5190"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3d91ffc4-d87d-49c7-912f-2b1227c8e63c",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

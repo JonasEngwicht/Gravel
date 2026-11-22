@@ -1,0 +1,36 @@
+{
+  "id": "ct-bethel-bethel-sand-and-gravel-co",
+  "slug": "bethel-sand-and-gravel-co",
+  "name": "Bethel Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2 Maple Avenue Ext",
+    "city": "Bethel",
+    "state": "CT",
+    "zip": "06801"
+  },
+  "location": {
+    "lat": 41.378922,
+    "lng": -73.40329
+  },
+  "contact": {
+    "phone": "(475) 348-7007",
+    "website": "http://bethelsandandgravelco.localsearch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a49d0438-78e4-4888-bf78-74edc8a3903b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

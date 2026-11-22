@@ -1,0 +1,36 @@
+{
+  "id": "co-canon-city-the-aggregate-source",
+  "slug": "the-aggregate-source",
+  "name": "THE Aggregate Source",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "205 Tunnel Dr",
+    "city": "Canon City",
+    "state": "CO",
+    "zip": "81212"
+  },
+  "location": {
+    "lat": 38.43412,
+    "lng": -105.264069
+  },
+  "contact": {
+    "phone": "(719) 275-6746",
+    "website": "http://www.theaggregatesource.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "840fa462-b2d3-4312-afb2-a1e83a687ab0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

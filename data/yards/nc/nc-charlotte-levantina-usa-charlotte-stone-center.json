@@ -1,0 +1,36 @@
+{
+  "id": "nc-charlotte-levantina-usa-charlotte-stone-center",
+  "slug": "levantina-usa-charlotte-stone-center",
+  "name": "Levantina USA Charlotte Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5032 Sirona Dr",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28273"
+  },
+  "location": {
+    "lat": 35.167667,
+    "lng": -80.945518
+  },
+  "contact": {
+    "phone": "(980) 939-0174",
+    "website": "http://www.levantina.com/us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b08d9e7-b451-452f-afbb-06739f9ecb0c",
+    "confidence": 0.832,
+    "merged_records": 1
+  }
+}

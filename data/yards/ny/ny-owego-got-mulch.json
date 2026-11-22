@@ -1,0 +1,36 @@
+{
+  "id": "ny-owego-got-mulch",
+  "slug": "got-mulch",
+  "name": "Got Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3711 Waverly Rd",
+    "city": "Owego",
+    "state": "NY",
+    "zip": "13827"
+  },
+  "location": {
+    "lat": 42.088287,
+    "lng": -76.302734
+  },
+  "contact": {
+    "phone": "(607) 687-2637",
+    "website": "https://gotmulch.info/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6508af03-cbc3-460f-9ca3-68ee9373ab8e",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

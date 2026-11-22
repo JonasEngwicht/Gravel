@@ -1,0 +1,47 @@
+{
+  "id": "ar-delight-wolf-creek-sand-and-gravel",
+  "slug": "wolf-creek-sand-and-gravel",
+  "name": "Wolf Creek Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "255 AR-29",
+    "city": "Delight",
+    "state": "AR",
+    "zip": "71940"
+  },
+  "location": {
+    "lat": 34.022823,
+    "lng": -93.436081
+  },
+  "contact": {
+    "phone": "(870) 379-2195"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "10a077f8-0005-4776-bbe9-a8e3e97e0444",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0301753",
+      "name": "Wolf Creek Sand & Gravel",
+      "operator": "Wolf Creek Sand & Gravel",
+      "status": "Active",
+      "status_since": "2017-12-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

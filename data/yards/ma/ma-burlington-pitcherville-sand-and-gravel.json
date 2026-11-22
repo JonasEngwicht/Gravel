@@ -1,0 +1,36 @@
+{
+  "id": "ma-burlington-pitcherville-sand-and-gravel",
+  "slug": "pitcherville-sand-and-gravel",
+  "name": "Pitcherville Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "40 Burlington Mall Rd",
+    "city": "Burlington",
+    "state": "MA",
+    "zip": "01803"
+  },
+  "location": {
+    "lat": 42.487282,
+    "lng": -71.204941
+  },
+  "contact": {
+    "phone": "(781) 365-1721",
+    "website": "https://pitcherville.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8be8c986-b65f-4d04-b2e5-17acdeb8b4d3",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

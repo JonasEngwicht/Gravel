@@ -1,0 +1,35 @@
+{
+  "id": "tn-dandridge-mack-s-mulch",
+  "slug": "mack-s-mulch",
+  "name": "Mack's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "434 S Highway 92",
+    "city": "Dandridge",
+    "state": "TN",
+    "zip": "37725"
+  },
+  "location": {
+    "lat": 36.043625,
+    "lng": -83.450294
+  },
+  "contact": {
+    "phone": "(865) 484-1532"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3edb2dc-f5b2-41af-a403-28e00f3487ff",
+    "confidence": 0.808,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "la-alexandria-garden-path-stone-center",
+  "slug": "garden-path-stone-center",
+  "name": "Garden path stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "57 Ross Ln",
+    "city": "Alexandria",
+    "state": "LA",
+    "zip": "71303"
+  },
+  "location": {
+    "lat": 31.291025,
+    "lng": -92.543755
+  },
+  "contact": {
+    "phone": "(318) 473-2441",
+    "website": "https://gardenpathla.info/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "915075e1-b00e-4edb-a805-1a0974ed6ca8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

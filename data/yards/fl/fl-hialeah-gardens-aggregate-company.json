@@ -1,0 +1,35 @@
+{
+  "id": "fl-hialeah-gardens-aggregate-company",
+  "slug": "aggregate-company",
+  "name": "Aggregate Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "13117 Nw 107th Ave  Ste 5",
+    "city": "Hialeah Gardens",
+    "state": "FL",
+    "zip": "33018"
+  },
+  "location": {
+    "lat": 25.89275,
+    "lng": -80.371117
+  },
+  "contact": {
+    "website": "http://www.aggregatecompany.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f90427a1-f258-4452-bde8-905e2d30c5f0",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

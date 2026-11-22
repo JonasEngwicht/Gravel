@@ -1,0 +1,36 @@
+{
+  "id": "ca-novato-marin-landscape-materials",
+  "slug": "marin-landscape-materials",
+  "name": "Marin Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7596 Redwood Blvd",
+    "city": "Novato",
+    "state": "CA",
+    "zip": "94945"
+  },
+  "location": {
+    "lat": 38.115822,
+    "lng": -122.566658
+  },
+  "contact": {
+    "phone": "(415) 897-1337",
+    "website": "http://marinlandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "efddb297-f1a8-4146-8433-e4f20268fdb6",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

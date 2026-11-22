@@ -1,0 +1,36 @@
+{
+  "id": "oh-columbus-colvin-gravel-co-inc",
+  "slug": "colvin-gravel-co-inc",
+  "name": "Colvin Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2290 McKinley Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43204"
+  },
+  "location": {
+    "lat": 39.972355,
+    "lng": -83.064423
+  },
+  "contact": {
+    "phone": "(614) 486-7175",
+    "website": "https://www.colvindemolition.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a38731d-49a0-4748-b936-df472ac72ff9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

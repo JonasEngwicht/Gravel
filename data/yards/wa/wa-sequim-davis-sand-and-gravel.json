@@ -1,0 +1,48 @@
+{
+  "id": "wa-sequim-davis-sand-and-gravel",
+  "slug": "davis-sand-and-gravel",
+  "name": "Davis Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "870 Evans Rd",
+    "city": "Sequim",
+    "state": "WA",
+    "zip": "98382"
+  },
+  "location": {
+    "lat": 48.107994,
+    "lng": -123.112
+  },
+  "contact": {
+    "phone": "(360) 683-5680",
+    "website": "http://www.daviessandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc814f29-f2cc-45d5-9542-97d6ad978e20",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4500616",
+      "name": "Davis Sand & Gravel Incorporated",
+      "operator": "Davis Sand & Gravel Company Inc",
+      "status": "Abandoned",
+      "status_since": "2026-02-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

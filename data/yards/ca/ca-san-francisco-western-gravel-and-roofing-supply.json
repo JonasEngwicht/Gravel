@@ -1,0 +1,36 @@
+{
+  "id": "ca-san-francisco-western-gravel-and-roofing-supply",
+  "slug": "western-gravel-and-roofing-supply",
+  "name": "Western Gravel & Roofing Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1426 Donner Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94124"
+  },
+  "location": {
+    "lat": 37.72266,
+    "lng": -122.3908
+  },
+  "contact": {
+    "phone": "(415) 822-9000",
+    "website": "http://www.westerngravelroofingsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b7e39181-f27c-4f59-b978-8f8571b1991a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

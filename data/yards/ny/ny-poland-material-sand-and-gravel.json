@@ -1,0 +1,48 @@
+{
+  "id": "ny-poland-material-sand-and-gravel",
+  "slug": "material-sand-and-gravel",
+  "name": "Material Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "172 Hinckley Rd",
+    "city": "Poland",
+    "state": "NY",
+    "zip": "13431"
+  },
+  "location": {
+    "lat": 43.256222,
+    "lng": -75.110107
+  },
+  "contact": {
+    "phone": "(315) 826-3537",
+    "website": "http://www.materialsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e54cbc33-788c-4f06-ae2e-0a3f82b432c0",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3000927",
+      "name": "Material Sand & Gravel",
+      "operator": "Certified Road Constructors Inc",
+      "status": "Active",
+      "status_since": "2021-03-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

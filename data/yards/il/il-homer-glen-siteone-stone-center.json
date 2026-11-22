@@ -1,0 +1,37 @@
+{
+  "id": "il-homer-glen-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "13148 W 159th St",
+    "city": "Homer Glen",
+    "state": "IL",
+    "zip": "60491"
+  },
+  "location": {
+    "lat": 41.600513,
+    "lng": -87.93911
+  },
+  "contact": {
+    "phone": "(708) 301-0703",
+    "website": "https://www.siteone.com/store/20"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ec4813be-5a1a-44b3-aee4-91dea801239e",
+    "confidence": 0.999,
+    "merged_records": 3
+  }
+}

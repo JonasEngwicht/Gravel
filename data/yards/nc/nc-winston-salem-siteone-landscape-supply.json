@@ -1,0 +1,37 @@
+{
+  "id": "nc-winston-salem-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "191A Budd Blvd",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27103"
+  },
+  "location": {
+    "lat": 36.055096,
+    "lng": -80.316223
+  },
+  "contact": {
+    "phone": "(336) 793-9230",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1881c95b-77f9-4ff1-bbba-138e5f35dedf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

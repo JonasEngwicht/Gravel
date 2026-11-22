@@ -1,0 +1,37 @@
+{
+  "id": "fl-longwood-siteone-landscape-supply-1020-charles-st",
+  "slug": "siteone-landscape-supply-1020-charles-st",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1020 Charles St",
+    "city": "Longwood",
+    "state": "FL",
+    "zip": "32750"
+  },
+  "location": {
+    "lat": 28.690645,
+    "lng": -81.349289
+  },
+  "contact": {
+    "phone": "(407) 699-9500",
+    "website": "https://www.siteone.com/store/17"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "922b2242-723d-48ab-8e25-3164da90ea7d",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

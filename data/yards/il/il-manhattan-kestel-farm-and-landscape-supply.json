@@ -1,0 +1,36 @@
+{
+  "id": "il-manhattan-kestel-farm-and-landscape-supply",
+  "slug": "kestel-farm-and-landscape-supply",
+  "name": "Kestel Farm & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15155 W Delaney Rd",
+    "city": "Manhattan",
+    "state": "IL",
+    "zip": "60442"
+  },
+  "location": {
+    "lat": 41.467781,
+    "lng": -87.982971
+  },
+  "contact": {
+    "phone": "(815) 463-4769",
+    "website": "http://www.kestelfarm.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca52db25-2c59-4c70-b56a-2041ffa335ca",
+    "confidence": 0.873,
+    "merged_records": 1
+  }
+}

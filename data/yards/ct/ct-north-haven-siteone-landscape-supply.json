@@ -1,0 +1,37 @@
+{
+  "id": "ct-north-haven-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "355 Sackett Point Rd",
+    "city": "North Haven",
+    "state": "CT",
+    "zip": "06473"
+  },
+  "location": {
+    "lat": 41.367493,
+    "lng": -72.876732
+  },
+  "contact": {
+    "phone": "(203) 287-0026",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b654127-2248-4fd4-8449-64a4fcbf3d7a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

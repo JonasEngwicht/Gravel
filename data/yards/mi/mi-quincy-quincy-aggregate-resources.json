@@ -1,0 +1,48 @@
+{
+  "id": "mi-quincy-quincy-aggregate-resources",
+  "slug": "quincy-aggregate-resources",
+  "name": "Quincy Aggregate Resources",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "361 Aggregate Dr",
+    "city": "Quincy",
+    "state": "MI",
+    "zip": "49082"
+  },
+  "location": {
+    "lat": 41.936626,
+    "lng": -84.916344
+  },
+  "contact": {
+    "phone": "(517) 639-5299",
+    "website": "http://www.aggregateresources.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9f3df89-8948-40ad-9082-93570fac75d8",
+    "confidence": 0.649,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003147",
+      "name": "Quincy Aggregate Resources",
+      "operator": "Aggregate Resources, Inc.",
+      "status": "Active",
+      "status_since": "2016-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

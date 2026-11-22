@@ -1,0 +1,35 @@
+{
+  "id": "ar-dennard-variety-stone-yard",
+  "slug": "variety-stone-yard",
+  "name": "Variety Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "10385 US-65 Hwy N",
+    "city": "Dennard",
+    "state": "AR",
+    "zip": "72629"
+  },
+  "location": {
+    "lat": 35.715469,
+    "lng": -92.519768
+  },
+  "contact": {
+    "phone": "(501) 757-0322"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e126074d-0fe5-4a17-a670-d31d0d6da0ec",
+    "confidence": 0.694,
+    "merged_records": 2
+  }
+}

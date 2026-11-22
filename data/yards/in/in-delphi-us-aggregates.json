@@ -1,0 +1,48 @@
+{
+  "id": "in-delphi-us-aggregates",
+  "slug": "us-aggregates",
+  "name": "US Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2195 W US Hwy 421",
+    "city": "Delphi",
+    "state": "IN",
+    "zip": "46923"
+  },
+  "location": {
+    "lat": 40.591755,
+    "lng": -86.695763
+  },
+  "contact": {
+    "phone": "(765) 564-2580",
+    "website": "http://www.usagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b922bafc-e31e-4d0a-8302-bbacde659554",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200023",
+      "name": "Delphi Plant",
+      "operator": "US Aggregates LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 21
+    }
+  ]
+}

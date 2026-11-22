@@ -1,0 +1,35 @@
+{
+  "id": "il-belvidere-arrow-sand-and-gravel",
+  "slug": "arrow-sand-and-gravel",
+  "name": "Arrow Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1050 Ecs Way",
+    "city": "Belvidere",
+    "state": "IL",
+    "zip": "61008"
+  },
+  "location": {
+    "lat": 42.245312,
+    "lng": -88.916054
+  },
+  "contact": {
+    "website": "https://www.arrowtransportationgroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c83c01c-ea9d-433d-a69f-d02407c97392",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-vista-all-masonry-and-landscape-supply",
+  "slug": "all-masonry-and-landscape-supply",
+  "name": "All Masonry & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "845 W Vista Way",
+    "city": "Vista",
+    "state": "CA",
+    "zip": "92083"
+  },
+  "location": {
+    "lat": 33.195583,
+    "lng": -117.259651
+  },
+  "contact": {
+    "phone": "(760) 941-7263",
+    "website": "http://www.allmasonrylandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "80566d15-663a-4d61-8496-c9b96ed41470",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

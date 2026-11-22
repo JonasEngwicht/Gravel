@@ -1,0 +1,36 @@
+{
+  "id": "de-seaford-mr-mulch",
+  "slug": "mr-mulch",
+  "name": "Mr. Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "22288 Coverdale Rd",
+    "city": "Seaford",
+    "state": "DE",
+    "zip": "19973"
+  },
+  "location": {
+    "lat": 38.678627,
+    "lng": -75.548424
+  },
+  "contact": {
+    "phone": "(302) 629-5737",
+    "website": "http://mrmulchseaford.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0c4d171f-9ba3-4b9c-a1f9-0fbbcd5765b8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

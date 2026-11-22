@@ -1,0 +1,35 @@
+{
+  "id": "oh-bidwell-river-valley-stone-and-mulch",
+  "slug": "river-valley-stone-and-mulch",
+  "name": "River Valley Stone And Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5159 OH-160",
+    "city": "Bidwell",
+    "state": "OH",
+    "zip": "45614"
+  },
+  "location": {
+    "lat": 38.868229,
+    "lng": -82.256866
+  },
+  "contact": {
+    "phone": "(740) 446-6848"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "497aa854-20f3-41b4-b62b-9e0b14bdf90f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "co-steamboat-springs-steamboat-stone-supply",
+  "slug": "steamboat-stone-supply",
+  "name": "Steamboat Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "35795 Us Hwy 40 E",
+    "city": "Steamboat Springs",
+    "state": "CO",
+    "zip": "80487"
+  },
+  "location": {
+    "lat": 40.441849,
+    "lng": -106.815773
+  },
+  "contact": {
+    "phone": "(970) 879-8438"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b899d518-cb81-4324-adf1-5f6649b698db",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

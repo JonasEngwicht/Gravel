@@ -1,0 +1,35 @@
+{
+  "id": "in-lake-village-newton-county-sand-and-gravel",
+  "slug": "newton-county-sand-and-gravel",
+  "name": "Newton County Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3538 E State Road 10",
+    "city": "Lake Village",
+    "state": "IN",
+    "zip": "46349"
+  },
+  "location": {
+    "lat": 41.145046,
+    "lng": -87.323601
+  },
+  "contact": {
+    "phone": "(219) 226-8818"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "563e258c-e62d-4531-9668-4c143f0d1ea2",
+    "confidence": 0.586,
+    "merged_records": 1
+  }
+}

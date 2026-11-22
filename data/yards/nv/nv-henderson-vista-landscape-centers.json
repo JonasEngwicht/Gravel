@@ -1,0 +1,36 @@
+{
+  "id": "nv-henderson-vista-landscape-centers",
+  "slug": "vista-landscape-centers",
+  "name": "Vista Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "951 Wigwam Pkwy",
+    "city": "Henderson",
+    "state": "NV",
+    "zip": "89014"
+  },
+  "location": {
+    "lat": 36.034683,
+    "lng": -115.025055
+  },
+  "contact": {
+    "phone": "(702) 565-6611",
+    "website": "http://www.vistalandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72772fc0-4dfb-4ead-99c1-c837eb47edb2",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

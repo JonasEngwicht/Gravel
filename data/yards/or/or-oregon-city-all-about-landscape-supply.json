@@ -1,0 +1,36 @@
+{
+  "id": "or-oregon-city-all-about-landscape-supply",
+  "slug": "all-about-landscape-supply",
+  "name": "All About Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "22107 OR-213",
+    "city": "Oregon City",
+    "state": "OR",
+    "zip": "97045"
+  },
+  "location": {
+    "lat": 45.286552,
+    "lng": -122.56575
+  },
+  "contact": {
+    "phone": "(503) 632-2275",
+    "website": "http://www.allaboutlandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f51c329b-ed67-4051-ad9d-57744332d59b",
+    "confidence": 0.865,
+    "merged_records": 1
+  }
+}

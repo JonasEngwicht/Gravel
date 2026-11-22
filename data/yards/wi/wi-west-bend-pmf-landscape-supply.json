@@ -1,0 +1,36 @@
+{
+  "id": "wi-west-bend-pmf-landscape-supply",
+  "slug": "pmf-landscape-supply",
+  "name": "PMF Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5470 S River Rd",
+    "city": "West Bend",
+    "state": "WI",
+    "zip": "53095"
+  },
+  "location": {
+    "lat": 43.389854,
+    "lng": -88.160469
+  },
+  "contact": {
+    "phone": "(262) 707-8928",
+    "website": "http://www.pmflandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "869a453c-291c-4823-9be8-7e8ccf6daf09",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

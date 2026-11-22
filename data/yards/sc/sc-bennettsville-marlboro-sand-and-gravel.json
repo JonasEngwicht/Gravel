@@ -1,0 +1,36 @@
+{
+  "id": "sc-bennettsville-marlboro-sand-and-gravel",
+  "slug": "marlboro-sand-and-gravel",
+  "name": "Marlboro Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1798 US-15",
+    "city": "Bennettsville",
+    "state": "SC",
+    "zip": "29512"
+  },
+  "location": {
+    "lat": 34.590004,
+    "lng": -79.749046
+  },
+  "contact": {
+    "phone": "(843) 479-8909",
+    "website": "http://lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b58a99b-93b1-4be1-813c-539a1d7d74c0",
+    "confidence": 0.589,
+    "merged_records": 1
+  }
+}

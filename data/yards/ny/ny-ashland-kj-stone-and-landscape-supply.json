@@ -1,0 +1,35 @@
+{
+  "id": "ny-ashland-kj-stone-and-landscape-supply",
+  "slug": "kj-stone-and-landscape-supply",
+  "name": "KJ Stone & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2906 Co Rd 10",
+    "city": "Ashland",
+    "state": "NY",
+    "zip": "12496"
+  },
+  "location": {
+    "lat": 42.335102,
+    "lng": -74.327896
+  },
+  "contact": {
+    "phone": "(518) 755-5632"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e13442f-cd74-49c6-9f5a-07e40bcb00fb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-sherrills-ford-timber-creek-mulch",
+  "slug": "timber-creek-mulch",
+  "name": "Timber Creek Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3085 Steamplant Rd",
+    "city": "Sherrills Ford",
+    "state": "NC",
+    "zip": "28673"
+  },
+  "location": {
+    "lat": 35.608902,
+    "lng": -80.980965
+  },
+  "contact": {
+    "phone": "(828) 838-2460",
+    "website": "http://www.timbercreekmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0c261184-9ab6-42e5-8d4f-882937935d0c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

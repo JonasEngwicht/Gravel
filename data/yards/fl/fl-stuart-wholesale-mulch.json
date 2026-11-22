@@ -1,0 +1,36 @@
+{
+  "id": "fl-stuart-wholesale-mulch",
+  "slug": "wholesale-mulch",
+  "name": "Wholesale Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1295 SE Dixie Cutoff Rd",
+    "city": "Stuart",
+    "state": "FL",
+    "zip": "34994"
+  },
+  "location": {
+    "lat": 27.189142,
+    "lng": -80.245193
+  },
+  "contact": {
+    "phone": "(772) 419-0300",
+    "website": "http://www.landscapeproductsfl.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82d66321-130b-42eb-9303-f7e712955267",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

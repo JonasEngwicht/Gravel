@@ -1,0 +1,36 @@
+{
+  "id": "ut-elsinore-hales-sand-and-gravel-a-crh-company",
+  "slug": "hales-sand-and-gravel-a-crh-company",
+  "name": "Hales Sand & Gravel, A CRH Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "180 W 1400 S",
+    "city": "Elsinore",
+    "state": "UT",
+    "zip": "84724"
+  },
+  "location": {
+    "lat": 38.661724,
+    "lng": -112.15213
+  },
+  "contact": {
+    "phone": "(435) 529-7434",
+    "website": "https://stakerparson.com/companies/hales-sand-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1043522f-4930-4a5e-8ed7-c3b8e50f7f99",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

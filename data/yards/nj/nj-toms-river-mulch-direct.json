@@ -1,0 +1,36 @@
+{
+  "id": "nj-toms-river-mulch-direct",
+  "slug": "mulch-direct",
+  "name": "Mulch Direct",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2360 Route 9 Ste 3-107",
+    "city": "Toms River",
+    "state": "NJ",
+    "zip": "08755"
+  },
+  "location": {
+    "lat": 40.044601,
+    "lng": -74.224678
+  },
+  "contact": {
+    "phone": "(800) 778-6852",
+    "website": "https://mulchdirect.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd38dbe9-a202-4e93-a5fe-830923b23f6a",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-scurry-kaufman-sand-and-gravel-10900-s-state-highway-34",
+  "slug": "kaufman-sand-and-gravel-10900-s-state-highway-34",
+  "name": "Kaufman Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10900 S State Highway 34",
+    "city": "Scurry",
+    "state": "TX",
+    "zip": "75158"
+  },
+  "location": {
+    "lat": 32.52668,
+    "lng": -96.372948
+  },
+  "contact": {
+    "phone": "(469) 865-1676",
+    "website": "https://www.sandgravelkaufmancountytx.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1e1262c-96ea-4270-9b80-6d899a13418b",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

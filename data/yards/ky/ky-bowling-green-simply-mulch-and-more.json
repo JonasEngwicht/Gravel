@@ -1,0 +1,36 @@
+{
+  "id": "ky-bowling-green-simply-mulch-and-more",
+  "slug": "simply-mulch-and-more",
+  "name": "Simply Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5710 Scottsville Rd",
+    "city": "Bowling Green",
+    "state": "KY",
+    "zip": "42104"
+  },
+  "location": {
+    "lat": 36.916775,
+    "lng": -86.406662
+  },
+  "contact": {
+    "phone": "(270) 793-1475",
+    "website": "https://www.simplymulchky.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a44394f3-553e-48a6-beff-79f4c86a2015",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

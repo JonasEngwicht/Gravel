@@ -1,0 +1,35 @@
+{
+  "id": "nm-placitas-fisher-sand-and-gravel-new-mexico-inc",
+  "slug": "fisher-sand-and-gravel-new-mexico-inc",
+  "name": "Fisher Sand & Gravel New Mexico, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "30A Frontage Rd",
+    "city": "Placitas",
+    "state": "NM",
+    "zip": "87043"
+  },
+  "location": {
+    "lat": 35.318974,
+    "lng": -106.531776
+  },
+  "contact": {
+    "phone": "(505) 867-2600"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d6f60a62-fa20-41a3-bcb5-8b6cae9d3d09",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

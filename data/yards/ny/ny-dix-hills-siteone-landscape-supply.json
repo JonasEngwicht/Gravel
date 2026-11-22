@@ -1,0 +1,37 @@
+{
+  "id": "ny-dix-hills-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "470 Deer Park Rd",
+    "city": "Dix Hills",
+    "state": "NY",
+    "zip": "11746"
+  },
+  "location": {
+    "lat": 40.804321,
+    "lng": -73.342422
+  },
+  "contact": {
+    "phone": "(631) 493-1600",
+    "website": "https://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "28ba2d9c-5a73-4cb4-8180-ea56001c66f0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

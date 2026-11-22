@@ -1,0 +1,36 @@
+{
+  "id": "va-roanoke-plantation-mulch-and-stone",
+  "slug": "plantation-mulch-and-stone",
+  "name": "Plantation Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4529 Plantation Rd NE",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24012"
+  },
+  "location": {
+    "lat": 37.320171,
+    "lng": -79.932884
+  },
+  "contact": {
+    "phone": "(540) 563-1838",
+    "website": "http://www.mulchnmore.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b735f82f-3289-48a9-8113-e663bcbf9154",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

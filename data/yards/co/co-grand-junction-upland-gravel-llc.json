@@ -1,0 +1,36 @@
+{
+  "id": "co-grand-junction-upland-gravel-llc",
+  "slug": "upland-gravel-llc",
+  "name": "Upland Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "454 28 1/2 Rd",
+    "city": "Grand Junction",
+    "state": "CO",
+    "zip": "81501"
+  },
+  "location": {
+    "lat": 39.071438,
+    "lng": -108.524162
+  },
+  "contact": {
+    "phone": "(970) 434-0510",
+    "website": "http://Uplandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "514e4733-17e2-4e7c-8689-42b8d8ca5025",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

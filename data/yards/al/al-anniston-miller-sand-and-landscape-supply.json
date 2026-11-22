@@ -1,0 +1,35 @@
+{
+  "id": "al-anniston-miller-sand-and-landscape-supply",
+  "slug": "miller-sand-and-landscape-supply",
+  "name": "Miller Sand & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2550 US Highway 431",
+    "city": "Anniston",
+    "state": "AL",
+    "zip": "36206"
+  },
+  "location": {
+    "lat": 33.715397,
+    "lng": -85.859634
+  },
+  "contact": {
+    "phone": "(256) 231-2300"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81c96662-4944-4d6e-b7cd-6062503a6ed8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

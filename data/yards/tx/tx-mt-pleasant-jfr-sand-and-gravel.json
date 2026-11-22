@@ -1,0 +1,35 @@
+{
+  "id": "tx-mt-pleasant-jfr-sand-and-gravel",
+  "slug": "jfr-sand-and-gravel",
+  "name": "JFR Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2295 U S 67",
+    "city": "Mt Pleasant",
+    "state": "TX",
+    "zip": "75455"
+  },
+  "location": {
+    "lat": 33.163578,
+    "lng": -95.017403
+  },
+  "contact": {
+    "phone": "(903) 806-9535"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9dd5e6c1-ae5b-47d7-adc0-3b571ff5af5d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

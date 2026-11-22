@@ -1,0 +1,36 @@
+{
+  "id": "tn-murfreesboro-super-clean-mulch-and-out-door-service",
+  "slug": "super-clean-mulch-and-out-door-service",
+  "name": "Super Clean Mulch and Out Door Service",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7104 Corner Dr",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37129"
+  },
+  "location": {
+    "lat": 35.943821,
+    "lng": -86.490761
+  },
+  "contact": {
+    "phone": "(629) 207-8380",
+    "website": "http://www.facebook.com/supercleanmulchandoutdoorservice"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9fb151ac-92b2-4750-830d-09c8dcb800f2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

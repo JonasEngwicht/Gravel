@@ -1,0 +1,36 @@
+{
+  "id": "pa-oakdale-martelli-s-stone-center",
+  "slug": "martelli-s-stone-center",
+  "name": "Martelli's Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1188 McKee Rd",
+    "city": "Oakdale",
+    "state": "PA",
+    "zip": "15071"
+  },
+  "location": {
+    "lat": 40.417866,
+    "lng": -80.191406
+  },
+  "contact": {
+    "phone": "(724) 693-2538",
+    "website": "https://martellistonecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "388ac10a-c57b-4a64-aa33-ed7b71c02dce",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

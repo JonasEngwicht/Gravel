@@ -1,0 +1,36 @@
+{
+  "id": "il-geneva-geneva-firewood-and-mulch",
+  "slug": "geneva-firewood-and-mulch",
+  "name": "Geneva Firewood and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "637 E State St",
+    "city": "Geneva",
+    "state": "IL",
+    "zip": "60134"
+  },
+  "location": {
+    "lat": 41.886944,
+    "lng": -88.292221
+  },
+  "contact": {
+    "phone": "(630) 232-7724",
+    "website": "http://www.ihacares.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "faed83fc-eb47-459f-a35e-40876c445bd7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

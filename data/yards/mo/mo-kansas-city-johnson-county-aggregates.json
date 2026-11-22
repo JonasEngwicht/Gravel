@@ -1,0 +1,36 @@
+{
+  "id": "mo-kansas-city-johnson-county-aggregates",
+  "slug": "johnson-county-aggregates",
+  "name": "Johnson County Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11030 Hickman Mills Dr",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64134"
+  },
+  "location": {
+    "lat": 38.923809,
+    "lng": -94.52491
+  },
+  "contact": {
+    "phone": "(816) 483-8800",
+    "website": "https://jocoagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a7e89d7e-2e80-46eb-88b2-6a9187426faa",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

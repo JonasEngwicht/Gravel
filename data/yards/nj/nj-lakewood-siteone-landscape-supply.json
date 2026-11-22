@@ -1,0 +1,37 @@
+{
+  "id": "nj-lakewood-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1935 Swarthmore Ave",
+    "city": "Lakewood",
+    "state": "NJ",
+    "zip": "08701"
+  },
+  "location": {
+    "lat": 40.07682,
+    "lng": -74.163673
+  },
+  "contact": {
+    "phone": "(732) 905-2744",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e3b0549-a809-4448-9298-4c31e01513a2",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

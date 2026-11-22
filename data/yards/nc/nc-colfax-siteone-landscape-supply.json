@@ -1,0 +1,37 @@
+{
+  "id": "nc-colfax-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8605 Triad Dr",
+    "city": "Colfax",
+    "state": "NC",
+    "zip": "27235"
+  },
+  "location": {
+    "lat": 36.094147,
+    "lng": -79.996872
+  },
+  "contact": {
+    "phone": "(336) 996-4918",
+    "website": "https://www.siteone.com/store/166"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0f6e97a-7b05-4e63-9c90-af8a131ef122",
+    "confidence": 0.951,
+    "merged_records": 1
+  }
+}

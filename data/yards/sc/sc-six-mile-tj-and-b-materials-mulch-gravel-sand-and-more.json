@@ -1,0 +1,36 @@
+{
+  "id": "sc-six-mile-tj-and-b-materials-mulch-gravel-sand-and-more",
+  "slug": "tj-and-b-materials-mulch-gravel-sand-and-more",
+  "name": "TJ&B Materials - Mulch, Gravel, Sand and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1405 Liberty Hwy",
+    "city": "Six Mile",
+    "state": "SC",
+    "zip": "29682"
+  },
+  "location": {
+    "lat": 34.807255,
+    "lng": -82.783119
+  },
+  "contact": {
+    "phone": "(864) 313-4961",
+    "website": "http://www.tjandbservices.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf4788f4-05ba-48b8-b334-fdfe73e5cab0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

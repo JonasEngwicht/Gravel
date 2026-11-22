@@ -1,0 +1,36 @@
+{
+  "id": "sc-greer-cj-mulch-and-more",
+  "slug": "cj-mulch-and-more",
+  "name": "Cj Mulch And More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "315 Old Boiling Springs Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29650"
+  },
+  "location": {
+    "lat": 34.862148,
+    "lng": -82.269524
+  },
+  "contact": {
+    "phone": "(864) 505-1499",
+    "website": "https://cjmulchandmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ffe1483-1d21-4a9a-8b35-d2e52dc82226",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mn-maynard-80th-st-aggregates",
+  "slug": "80th-st-aggregates",
+  "name": "80th St. Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1025 80th St SE",
+    "city": "Maynard",
+    "state": "MN",
+    "zip": "56260"
+  },
+  "location": {
+    "lat": 44.909687,
+    "lng": -95.569183
+  },
+  "contact": {
+    "phone": "(320) 841-0472",
+    "website": "https://www.sandgravelmn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1cd2f482-57a2-4a61-b3ae-3fabac8069f1",
+    "confidence": 0.931,
+    "merged_records": 3
+  }
+}

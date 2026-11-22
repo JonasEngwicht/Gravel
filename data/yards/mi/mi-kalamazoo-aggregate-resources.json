@@ -1,0 +1,48 @@
+{
+  "id": "mi-kalamazoo-aggregate-resources",
+  "slug": "aggregate-resources",
+  "name": "Aggregate Resources",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1500 River St",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49048"
+  },
+  "location": {
+    "lat": 42.274902,
+    "lng": -85.520248
+  },
+  "contact": {
+    "phone": "(269) 349-8627",
+    "website": "https://www.aggregateresources.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f962a575-9d84-49f0-9dab-1a9cf8df8037",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003288",
+      "name": "Portable Plant #101",
+      "operator": "Aggregate Resources, Inc.",
+      "status": "Abandoned",
+      "status_since": "2013-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

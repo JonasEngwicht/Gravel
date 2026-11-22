@@ -1,0 +1,36 @@
+{
+  "id": "nj-hawthorne-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "1120 Goffle Rd",
+    "city": "Hawthorne",
+    "state": "NJ",
+    "zip": "07506"
+  },
+  "location": {
+    "lat": 40.969799,
+    "lng": -74.151939
+  },
+  "contact": {
+    "phone": "(973) 423-0222"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b4eaa70-7844-4f4e-97e1-8302b66d5a70",
+    "confidence": 0.942,
+    "merged_records": 1
+  }
+}

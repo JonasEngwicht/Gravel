@@ -1,0 +1,36 @@
+{
+  "id": "pa-orefield-stone-haven-supply-the-mulch-spot",
+  "slug": "stone-haven-supply-the-mulch-spot",
+  "name": "Stone Haven Supply - The Mulch Spot",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7207 Kernsville Rd",
+    "city": "Orefield",
+    "state": "PA",
+    "zip": "18069"
+  },
+  "location": {
+    "lat": 40.61684,
+    "lng": -75.643906
+  },
+  "contact": {
+    "phone": "(610) 395-3318",
+    "website": "http://www.stonehavensupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27636025-aeae-4658-928f-26d70dc23a3b",
+    "confidence": 0.984,
+    "merged_records": 2
+  }
+}

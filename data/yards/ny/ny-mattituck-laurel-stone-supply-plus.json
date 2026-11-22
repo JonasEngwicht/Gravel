@@ -1,0 +1,36 @@
+{
+  "id": "ny-mattituck-laurel-stone-supply-plus",
+  "slug": "laurel-stone-supply-plus",
+  "name": "Laurel Stone Supply Plus",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6865 Main Rd",
+    "city": "Mattituck",
+    "state": "NY",
+    "zip": "11952"
+  },
+  "location": {
+    "lat": 40.978001,
+    "lng": -72.547142
+  },
+  "contact": {
+    "phone": "(631) 813-2648",
+    "website": "http://www.laurelstonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5031b88b-d1e0-470a-be47-86326aff5e7b",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-weaverville-asheville-mulch-yard",
+  "slug": "asheville-mulch-yard",
+  "name": "Asheville Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "326 Merrimon Ave",
+    "city": "Weaverville",
+    "state": "NC",
+    "zip": "28787"
+  },
+  "location": {
+    "lat": 35.677666,
+    "lng": -82.574867
+  },
+  "contact": {
+    "phone": "(828) 484-8131",
+    "website": "http://ashevillemulchyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dbef85c6-d2b5-43d0-91c0-8e95d2055e7b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

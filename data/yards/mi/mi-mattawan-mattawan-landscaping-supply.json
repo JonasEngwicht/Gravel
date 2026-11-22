@@ -1,0 +1,36 @@
+{
+  "id": "mi-mattawan-mattawan-landscaping-supply",
+  "slug": "mattawan-landscaping-supply",
+  "name": "Mattawan Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "26333 Red Arrow Hwy",
+    "city": "Mattawan",
+    "state": "MI",
+    "zip": "49071"
+  },
+  "location": {
+    "lat": 42.232681,
+    "lng": -85.8078
+  },
+  "contact": {
+    "phone": "(269) 283-5040",
+    "website": "http://www.mattawanlandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa2be317-d043-4657-a206-b874acbc8a99",
+    "confidence": 0.981,
+    "merged_records": 1
+  }
+}

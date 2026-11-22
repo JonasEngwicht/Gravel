@@ -1,0 +1,32 @@
+{
+  "id": "az-golden-valley-ziggys-rock-yard",
+  "slug": "ziggys-rock-yard",
+  "name": "Ziggys Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "Closed",
+    "city": "Golden Valley",
+    "state": "AZ",
+    "zip": "86413"
+  },
+  "location": {
+    "lat": 35.226597,
+    "lng": -114.312943
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f087f4e-970c-4cdb-a09a-f60086215cd4",
+    "confidence": 0.549,
+    "merged_records": 1
+  }
+}

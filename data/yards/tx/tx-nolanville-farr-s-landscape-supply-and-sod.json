@@ -1,0 +1,36 @@
+{
+  "id": "tx-nolanville-farr-s-landscape-supply-and-sod",
+  "slug": "farr-s-landscape-supply-and-sod",
+  "name": "Farr's Landscape Supply & Sod",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1101 W Highway 190",
+    "city": "Nolanville",
+    "state": "TX",
+    "zip": "76559"
+  },
+  "location": {
+    "lat": 31.079077,
+    "lng": -97.616371
+  },
+  "contact": {
+    "phone": "(254) 760-4705",
+    "website": "http://www.farrlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "feb53144-ba5c-4d78-a0ab-f930d761cd6e",
+    "confidence": 0.88,
+    "merged_records": 3
+  }
+}

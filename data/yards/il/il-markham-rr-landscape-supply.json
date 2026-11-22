@@ -1,0 +1,36 @@
+{
+  "id": "il-markham-rr-landscape-supply",
+  "slug": "rr-landscape-supply",
+  "name": "RR Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3900 W 167th St",
+    "city": "Markham",
+    "state": "IL",
+    "zip": "60428"
+  },
+  "location": {
+    "lat": 41.586895,
+    "lng": -87.71241
+  },
+  "contact": {
+    "phone": "(708) 596-7200",
+    "website": "http://www.rrlandscape-supply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ba08676-ff3b-4f00-aff0-4f10fefb3774",
+    "confidence": 0.663,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nh-windham-delahunty-garden-and-landscape-center",
+  "slug": "delahunty-garden-and-landscape-center",
+  "name": "Delahunty Garden & Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "41 Range Rd",
+    "city": "Windham",
+    "state": "NH",
+    "zip": "03087"
+  },
+  "location": {
+    "lat": 42.808346,
+    "lng": -71.258423
+  },
+  "contact": {
+    "phone": "(603) 893-7155",
+    "website": "http://www.delahuntys.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0f6038da-8a78-4a24-9b1c-08be4637bfda",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

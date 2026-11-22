@@ -1,0 +1,37 @@
+{
+  "id": "fl-lakeland-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3560 Reynolds Rd",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33803"
+  },
+  "location": {
+    "lat": 27.99892,
+    "lng": -81.890617
+  },
+  "contact": {
+    "phone": "(863) 669-0212",
+    "website": "https://www.siteone.com/store/131"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "18c0579b-2de3-4a78-8410-0db66eddc8bf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-bonsall-76-sand-and-gravel",
+  "slug": "76-sand-and-gravel",
+  "name": "76 Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "30640 N River Rd",
+    "city": "Bonsall",
+    "state": "CA",
+    "zip": "92003"
+  },
+  "location": {
+    "lat": 33.268147,
+    "lng": -117.237724
+  },
+  "contact": {
+    "phone": "(760) 579-1905",
+    "website": "http://76sandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0593576d-652d-4d17-9a32-02e6ac15dc5b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

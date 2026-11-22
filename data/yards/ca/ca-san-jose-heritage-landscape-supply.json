@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-jose-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "660 Giguere Ct",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95133"
+  },
+  "location": {
+    "lat": 37.367626,
+    "lng": -121.860039
+  },
+  "contact": {
+    "phone": "(408) 818-9390",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52ebd61d-3959-4ca4-a95b-1176e3e80ae6",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

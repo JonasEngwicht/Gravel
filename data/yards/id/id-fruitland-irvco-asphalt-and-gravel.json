@@ -1,0 +1,36 @@
+{
+  "id": "id-fruitland-irvco-asphalt-and-gravel",
+  "slug": "irvco-asphalt-and-gravel",
+  "name": "Irvco Asphalt & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5250 US-95",
+    "city": "Fruitland",
+    "state": "ID",
+    "zip": "83619"
+  },
+  "location": {
+    "lat": 43.945637,
+    "lng": -116.923035
+  },
+  "contact": {
+    "phone": "(208) 452-3171",
+    "website": "https://irvco-asphalt-gravel-inc.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "624e5757-e30d-49ac-a14a-18c8e6ebf51c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

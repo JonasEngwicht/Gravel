@@ -1,0 +1,36 @@
+{
+  "id": "tn-fayetteville-big-c-rock-and-mulch-llc",
+  "slug": "big-c-rock-and-mulch-llc",
+  "name": "Big C Rock and Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "708 Main Ave S",
+    "city": "Fayetteville",
+    "state": "TN",
+    "zip": "37334"
+  },
+  "location": {
+    "lat": 35.146137,
+    "lng": -86.570923
+  },
+  "contact": {
+    "phone": "(931) 993-9242",
+    "website": "http://WWW.bigcrockandmulchllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3fa5ca0c-6f89-47ae-a997-a1d3c451306f",
+    "confidence": 0.904,
+    "merged_records": 1
+  }
+}

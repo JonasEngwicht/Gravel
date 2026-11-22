@@ -1,0 +1,36 @@
+{
+  "id": "ca-fairfield-sun-ray-landscape-supply",
+  "slug": "sun-ray-landscape-supply",
+  "name": "Sun-Ray Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5044 Peabody Rd",
+    "city": "Fairfield",
+    "state": "CA",
+    "zip": "94533"
+  },
+  "location": {
+    "lat": 38.29184,
+    "lng": -121.96907
+  },
+  "contact": {
+    "phone": "(707) 437-6633",
+    "website": "http://www.sunraylandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f70b0c94-d4b5-42c0-bbca-884b6856456a",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

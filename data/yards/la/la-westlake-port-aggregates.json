@@ -1,0 +1,36 @@
+{
+  "id": "la-westlake-port-aggregates",
+  "slug": "port-aggregates",
+  "name": "Port Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2589 Bayou D'Inde Rd",
+    "city": "Westlake",
+    "state": "LA",
+    "zip": "70669"
+  },
+  "location": {
+    "lat": 30.198812,
+    "lng": -93.323174
+  },
+  "contact": {
+    "phone": "(337) 882-0360",
+    "website": "http://www.portaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "95f6b9b3-e9a7-457e-b951-29a2cd83c3df",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

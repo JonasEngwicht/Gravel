@@ -1,0 +1,36 @@
+{
+  "id": "mi-owosso-constine-gravel-company",
+  "slug": "constine-gravel-company",
+  "name": "Constine Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2625 W M 21",
+    "city": "Owosso",
+    "state": "MI",
+    "zip": "48867"
+  },
+  "location": {
+    "lat": 42.997719,
+    "lng": -84.219147
+  },
+  "contact": {
+    "phone": "(989) 723-6043",
+    "website": "http://www.constine.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f92bb039-72c4-4b00-b711-20e956b26986",
+    "confidence": 0.976,
+    "merged_records": 1
+  }
+}

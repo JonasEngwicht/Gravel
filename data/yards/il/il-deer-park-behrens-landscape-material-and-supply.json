@@ -1,0 +1,36 @@
+{
+  "id": "il-deer-park-behrens-landscape-material-and-supply",
+  "slug": "behrens-landscape-material-and-supply",
+  "name": "Behrens Landscape Material & Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "20136 N Rand Rd",
+    "city": "Deer Park",
+    "state": "IL",
+    "zip": "60074"
+  },
+  "location": {
+    "lat": 42.155304,
+    "lng": -88.041626
+  },
+  "contact": {
+    "phone": "(847) 358-4010",
+    "website": "http://www.behrenslandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4fc6667f-01b9-4dca-bd42-c6de82f31ba5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "in-noblesville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "20238 Hague Rd",
+    "city": "Noblesville",
+    "state": "IN",
+    "zip": "46062"
+  },
+  "location": {
+    "lat": 40.082218,
+    "lng": -86.03244
+  },
+  "contact": {
+    "phone": "(317) 770-8950",
+    "website": "https://www.siteone.com/store/114"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdf2b575-a83d-41cd-91e3-c2027683df24",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

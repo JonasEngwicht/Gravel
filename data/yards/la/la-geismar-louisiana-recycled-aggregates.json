@@ -1,0 +1,35 @@
+{
+  "id": "la-geismar-louisiana-recycled-aggregates",
+  "slug": "louisiana-recycled-aggregates",
+  "name": "Louisiana Recycled Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "33275 E Hwy 30",
+    "city": "Geismar",
+    "state": "LA",
+    "zip": "70734"
+  },
+  "location": {
+    "lat": 30.239147,
+    "lng": -91.040161
+  },
+  "contact": {
+    "phone": "(225) 478-1002"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8507d175-0ab4-431b-a42e-ecbfd37a4d5b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

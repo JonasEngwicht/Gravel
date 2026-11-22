@@ -1,0 +1,37 @@
+{
+  "id": "mi-sterling-heights-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "34650 Mound Rd",
+    "city": "Sterling Heights",
+    "state": "MI",
+    "zip": "48310"
+  },
+  "location": {
+    "lat": 42.547867,
+    "lng": -83.047195
+  },
+  "contact": {
+    "phone": "(586) 588-9704",
+    "website": "https://www.siteone.com/en/store/1"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "046f1ad2-cc83-4fc6-8344-499dbe0e04a8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

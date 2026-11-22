@@ -1,0 +1,35 @@
+{
+  "id": "ca-hollister-hollister-landscape-supply",
+  "slug": "hollister-landscape-supply",
+  "name": "Hollister Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2410 San Juan Rd",
+    "city": "Hollister",
+    "state": "CA",
+    "zip": "95023"
+  },
+  "location": {
+    "lat": 36.851154,
+    "lng": -121.438599
+  },
+  "contact": {
+    "phone": "(831) 636-8750"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e338c421-3c65-4f51-b46e-a500e6a6234e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "in-goshen-yellow-creek-gravel-services",
+  "slug": "yellow-creek-gravel-services",
+  "name": "Yellow Creek Gravel Services",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "64341 Co Rd 11",
+    "city": "Goshen",
+    "state": "IN",
+    "zip": "46526"
+  },
+  "location": {
+    "lat": 41.559959,
+    "lng": -85.943909
+  },
+  "contact": {
+    "phone": "(574) 862-3196",
+    "website": "http://www.yellowcreekgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ade2578f-07f7-425f-8b8c-8ff65442c100",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202375",
+      "name": "CR 11 Pit",
+      "operator": "Yellow Creek Gravel Services",
+      "status": "Intermittent",
+      "status_since": "2013-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

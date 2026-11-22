@@ -1,0 +1,36 @@
+{
+  "id": "nc-kernersville-triad-landscape-supply",
+  "slug": "triad-landscape-supply",
+  "name": "Triad Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4550 Kernersville Rd",
+    "city": "Kernersville",
+    "state": "NC",
+    "zip": "27284"
+  },
+  "location": {
+    "lat": 36.098095,
+    "lng": -80.122559
+  },
+  "contact": {
+    "phone": "(336) 546-7771",
+    "website": "https://triadlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d0a27e5-683e-4868-afc0-92939222d9c8",
+    "confidence": 0.982,
+    "merged_records": 1
+  }
+}

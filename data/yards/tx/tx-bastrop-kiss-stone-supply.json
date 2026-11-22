@@ -1,0 +1,36 @@
+{
+  "id": "tx-bastrop-kiss-stone-supply",
+  "slug": "kiss-stone-supply",
+  "name": "Kiss Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "128 Griesenbeck Ranch Rd",
+    "city": "Bastrop",
+    "state": "TX",
+    "zip": "78602"
+  },
+  "location": {
+    "lat": 30.093861,
+    "lng": -97.352982
+  },
+  "contact": {
+    "phone": "(512) 798-2676",
+    "website": "http://www.KissStoneSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42f0ffb2-dafe-4a8f-a6fe-5db0730a298c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

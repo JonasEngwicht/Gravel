@@ -1,0 +1,37 @@
+{
+  "id": "va-newport-news-vulcan-materials-company-skiffes-creek-stone-yard",
+  "slug": "vulcan-materials-company-skiffes-creek-stone-yard",
+  "name": "Vulcan Materials Company Skiffes Creek Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "vulcan",
+  "address": {
+    "street": "313 O'Hara Ln",
+    "city": "Newport News",
+    "state": "VA",
+    "zip": "23603"
+  },
+  "location": {
+    "lat": 37.192448,
+    "lng": -76.577988
+  },
+  "contact": {
+    "phone": "(757) 888-2982",
+    "website": "http://www.vulcanmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "effa4467-93e8-453a-9421-394c18e81d24",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

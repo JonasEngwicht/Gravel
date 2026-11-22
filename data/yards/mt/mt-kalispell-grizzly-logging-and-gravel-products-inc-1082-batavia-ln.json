@@ -1,0 +1,32 @@
+{
+  "id": "mt-kalispell-grizzly-logging-and-gravel-products-inc-1082-batavia-ln",
+  "slug": "grizzly-logging-and-gravel-products-inc-1082-batavia-ln",
+  "name": "Grizzly Logging & Gravel Products Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1082 Batavia Ln",
+    "city": "Kalispell",
+    "state": "MT",
+    "zip": "59901"
+  },
+  "location": {
+    "lat": 48.180504,
+    "lng": -114.476631
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1933ba31-f6d2-4d07-9975-0b3fa17cfa1b",
+    "confidence": 0.557,
+    "merged_records": 1
+  }
+}

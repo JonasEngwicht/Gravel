@@ -1,0 +1,36 @@
+{
+  "id": "fl-palmetto-mulch-blowers-of-florida",
+  "slug": "mulch-blowers-of-florida",
+  "name": "Mulch Blowers of Florida",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5311 36th Ave East",
+    "city": "Palmetto",
+    "state": "FL",
+    "zip": "34221"
+  },
+  "location": {
+    "lat": 27.561056,
+    "lng": -82.529167
+  },
+  "contact": {
+    "phone": "(941) 650-1228",
+    "website": "https://mulchblowersofflorida.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0ecd98b-14d5-4576-838a-e5650d3a9179",
+    "confidence": 0.932,
+    "merged_records": 1
+  }
+}

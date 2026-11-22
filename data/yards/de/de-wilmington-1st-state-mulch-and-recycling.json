@@ -1,0 +1,35 @@
+{
+  "id": "de-wilmington-1st-state-mulch-and-recycling",
+  "slug": "1st-state-mulch-and-recycling",
+  "name": "1st State Mulch & Recycling",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "32 Honeysuckle Ln",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": "19804"
+  },
+  "location": {
+    "lat": 39.710846,
+    "lng": -75.64817
+  },
+  "contact": {
+    "phone": "(302) 388-6966"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02c071a5-0aa9-47f7-9c9c-bf4ed056bcef",
+    "confidence": 0.745,
+    "merged_records": 1
+  }
+}

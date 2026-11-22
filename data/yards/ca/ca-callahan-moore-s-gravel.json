@@ -1,0 +1,48 @@
+{
+  "id": "ca-callahan-moore-s-gravel",
+  "slug": "moore-s-gravel",
+  "name": "Moore's Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8832 CA-3",
+    "city": "Callahan",
+    "state": "CA",
+    "zip": "96014"
+  },
+  "location": {
+    "lat": 41.352314,
+    "lng": -122.829155
+  },
+  "contact": {
+    "phone": "(530) 467-3470",
+    "website": "http://www.MooresGravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f78d6e1f-abee-4c16-8e49-9c2f7e575f5f",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0404744",
+      "name": "Moores Gravel Inc",
+      "operator": "Moore's Gravel, Inc",
+      "status": "Active",
+      "status_since": "2013-07-14",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

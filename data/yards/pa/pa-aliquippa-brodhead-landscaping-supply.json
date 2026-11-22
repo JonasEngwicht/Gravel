@@ -1,0 +1,36 @@
+{
+  "id": "pa-aliquippa-brodhead-landscaping-supply",
+  "slug": "brodhead-landscaping-supply",
+  "name": "Brodhead Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3168 N Brodhead Rd",
+    "city": "Aliquippa",
+    "state": "PA",
+    "zip": "15001"
+  },
+  "location": {
+    "lat": 40.630566,
+    "lng": -80.311478
+  },
+  "contact": {
+    "phone": "(724) 378-3202",
+    "website": "https://www.brodheadlandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ac3c0a3-3e1d-4460-8552-ef34818f302a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

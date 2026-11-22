@@ -1,0 +1,48 @@
+{
+  "id": "in-fremont-fremont-sand-and-gravel",
+  "slug": "fremont-sand-and-gravel",
+  "name": "Fremont Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5850 E 540 N",
+    "city": "Fremont",
+    "state": "IN",
+    "zip": "46737"
+  },
+  "location": {
+    "lat": 41.722073,
+    "lng": -84.881981
+  },
+  "contact": {
+    "phone": "(260) 495-4900",
+    "website": "http://www.fremontsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7372593f-8e50-47ca-aef0-6786e439e8e0",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202246",
+      "name": "Lyon Pit",
+      "operator": "BBS Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2013-12-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

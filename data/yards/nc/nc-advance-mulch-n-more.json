@@ -1,0 +1,36 @@
+{
+  "id": "nc-advance-mulch-n-more",
+  "slug": "mulch-n-more",
+  "name": "Mulch N More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1375 NC-801 N",
+    "city": "Advance",
+    "state": "NC",
+    "zip": "27006"
+  },
+  "location": {
+    "lat": 36.017532,
+    "lng": -80.491104
+  },
+  "contact": {
+    "phone": "(336) 998-9789",
+    "website": "http://www.mulchnmore-nc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "01776d88-c682-470c-8ceb-41f711526634",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

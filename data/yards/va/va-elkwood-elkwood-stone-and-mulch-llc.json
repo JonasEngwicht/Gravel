@@ -1,0 +1,36 @@
+{
+  "id": "va-elkwood-elkwood-stone-and-mulch-llc",
+  "slug": "elkwood-stone-and-mulch-llc",
+  "name": "Elkwood Stone & Mulch, LLC.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13715 Berry Hill Rd",
+    "city": "Elkwood",
+    "state": "VA",
+    "zip": "22718"
+  },
+  "location": {
+    "lat": 38.512341,
+    "lng": -77.855774
+  },
+  "contact": {
+    "phone": "(540) 829-9273",
+    "website": "http://www.elkwoodstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b5a54bd-c7a9-437a-8dff-5ff8ca190e5c",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

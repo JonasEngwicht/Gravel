@@ -1,0 +1,36 @@
+{
+  "id": "wi-eden-baumhardt-sand-and-gravel",
+  "slug": "baumhardt-sand-and-gravel",
+  "name": "Baumhardt Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "W3998 US-45",
+    "city": "Eden",
+    "state": "WI",
+    "zip": "53019"
+  },
+  "location": {
+    "lat": 43.691891,
+    "lng": -88.355377
+  },
+  "contact": {
+    "phone": "(920) 477-2511",
+    "website": "http://www.baumhardtinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06ae65ae-a6e3-44ad-8ba4-b00e158955bf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

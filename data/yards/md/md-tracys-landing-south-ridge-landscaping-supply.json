@@ -1,0 +1,36 @@
+{
+  "id": "md-tracys-landing-south-ridge-landscaping-supply",
+  "slug": "south-ridge-landscaping-supply",
+  "name": "South Ridge Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5949 Solomons Island Rd",
+    "city": "Tracys Landing",
+    "state": "MD",
+    "zip": "20779"
+  },
+  "location": {
+    "lat": 38.777908,
+    "lng": -76.594353
+  },
+  "contact": {
+    "phone": "(240) 223-1269",
+    "website": "https://southridgelandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b479458-3371-4cf2-a658-abac251e2d52",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

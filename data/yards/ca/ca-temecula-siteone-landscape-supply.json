@@ -1,0 +1,37 @@
+{
+  "id": "ca-temecula-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "41581 Enterprise Cir N",
+    "city": "Temecula",
+    "state": "CA",
+    "zip": "92590"
+  },
+  "location": {
+    "lat": 33.521343,
+    "lng": -117.16777
+  },
+  "contact": {
+    "phone": "(951) 296-9898",
+    "website": "https://www.siteone.com/store/145"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb121177-ba00-442c-9520-cfce038ae0e4",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ct-oakdale-lombardi-gravel-and-excavation-llc",
+  "slug": "lombardi-gravel-and-excavation-llc",
+  "name": "Lombardi Gravel & Excavation Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18 Sachatello Industrial Dr",
+    "city": "Oakdale",
+    "state": "CT",
+    "zip": "06370"
+  },
+  "location": {
+    "lat": 41.422592,
+    "lng": -72.208511
+  },
+  "contact": {
+    "phone": "(860) 443-9200",
+    "website": "https://lombardigravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9461490b-a23c-47e5-8e8c-3a054079dc3b",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0600697",
+      "name": "Pit 1",
+      "operator": "Bove Brothers, Llc",
+      "status": "Active",
+      "status_since": "2012-02-15",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

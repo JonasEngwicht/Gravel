@@ -1,0 +1,32 @@
+{
+  "id": "mn-elko-autumn-woods-landscape-supply",
+  "slug": "autumn-woods-landscape-supply",
+  "name": "Autumn Woods Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11236 Deuce Rd Ste B",
+    "city": "Elko",
+    "state": "MN",
+    "zip": "55020"
+  },
+  "location": {
+    "lat": 44.572552,
+    "lng": -93.294167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "60acdcfa-c24c-467b-8bf4-a137941293b8",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

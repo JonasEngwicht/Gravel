@@ -1,0 +1,36 @@
+{
+  "id": "wy-pine-bluffs-pine-bluffs-gravel-and-excavating",
+  "slug": "pine-bluffs-gravel-and-excavating",
+  "name": "Pine Bluffs Gravel & Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "600 Parson St",
+    "city": "Pine Bluffs",
+    "state": "WY",
+    "zip": "82082"
+  },
+  "location": {
+    "lat": 41.178177,
+    "lng": -104.075958
+  },
+  "contact": {
+    "phone": "(307) 245-3676",
+    "website": "http://www.pbgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37748722-c71b-4d7e-b3fb-59dbcffaff1b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tn-stantonville-k-and-s-sand-and-gravel",
+  "slug": "k-and-s-sand-and-gravel",
+  "name": "K and S Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1250 Dennie Barber Rd",
+    "city": "Stantonville",
+    "state": "TN",
+    "zip": "38379"
+  },
+  "location": {
+    "lat": 35.160698,
+    "lng": -88.394508
+  },
+  "contact": {
+    "phone": "(731) 412-6103",
+    "website": "https://www.bbb.org/us/tn/stantonville/profile/gravel/k-s-sand-and-gravel-llc-0543-44188648/#sealclick"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c45ddddf-ecc0-42c4-83ad-4b1cec15206d",
+    "confidence": 0.7,
+    "merged_records": 1
+  }
+}

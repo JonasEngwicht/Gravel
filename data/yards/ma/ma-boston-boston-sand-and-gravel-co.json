@@ -1,0 +1,36 @@
+{
+  "id": "ma-boston-boston-sand-and-gravel-co",
+  "slug": "boston-sand-and-gravel-co",
+  "name": "Boston Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "100 N Washington St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02114"
+  },
+  "location": {
+    "lat": 42.366001,
+    "lng": -71.058731
+  },
+  "contact": {
+    "phone": "(617) 227-9000",
+    "website": "https://bostonsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11c717b3-4dbc-47d9-a93f-95a5dbde3275",
+    "confidence": 0.95,
+    "merged_records": 2
+  }
+}

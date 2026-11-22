@@ -1,0 +1,48 @@
+{
+  "id": "ct-north-haven-valley-sand-and-gravel",
+  "slug": "valley-sand-and-gravel",
+  "name": "Valley Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "400 N Frontage Rd",
+    "city": "North Haven",
+    "state": "CT",
+    "zip": "06473"
+  },
+  "location": {
+    "lat": 41.358032,
+    "lng": -72.866013
+  },
+  "contact": {
+    "phone": "(203) 562-3192",
+    "website": "http://www.valleysandct.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42e48737-303e-4d72-a1a4-1825dbfaf11a",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0600342",
+      "name": "Valley Sand & Gravel Corp.",
+      "operator": "Valley Sand & Gravel Corp",
+      "status": "Abandoned",
+      "status_since": "2003-12-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

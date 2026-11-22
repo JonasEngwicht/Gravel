@@ -1,0 +1,35 @@
+{
+  "id": "ny-binghamton-r-and-r-mulch-sand-and-gravel",
+  "slug": "r-and-r-mulch-sand-and-gravel",
+  "name": "R & R Mulch Sand & Gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "688 Conklin Rd",
+    "city": "Binghamton",
+    "state": "NY",
+    "zip": "13903"
+  },
+  "location": {
+    "lat": 42.098755,
+    "lng": -75.854225
+  },
+  "contact": {
+    "phone": "(607) 724-4121"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b03a1520-6bc8-447a-9114-c67cf14886ee",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

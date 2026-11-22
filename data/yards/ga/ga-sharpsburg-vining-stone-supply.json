@@ -1,0 +1,36 @@
+{
+  "id": "ga-sharpsburg-vining-stone-supply",
+  "slug": "vining-stone-supply",
+  "name": "Vining Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "211 Stewart Rd",
+    "city": "Sharpsburg",
+    "state": "GA",
+    "zip": "30277"
+  },
+  "location": {
+    "lat": 33.360233,
+    "lng": -84.636292
+  },
+  "contact": {
+    "phone": "(770) 252-6336",
+    "website": "https://viningstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "797f1995-c129-4a78-8d86-f76298b82b41",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

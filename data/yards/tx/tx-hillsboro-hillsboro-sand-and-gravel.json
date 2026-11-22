@@ -1,0 +1,35 @@
+{
+  "id": "tx-hillsboro-hillsboro-sand-and-gravel",
+  "slug": "hillsboro-sand-and-gravel",
+  "name": "Hillsboro Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "251 FM 3267",
+    "city": "Hillsboro",
+    "state": "TX",
+    "zip": "76645"
+  },
+  "location": {
+    "lat": 31.978783,
+    "lng": -97.08255
+  },
+  "contact": {
+    "phone": "(254) 582-2553"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "23f7eab3-a3ce-40a3-87fa-02b637d54c41",
+    "confidence": 0.95,
+    "merged_records": 2
+  }
+}

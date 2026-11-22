@@ -1,0 +1,35 @@
+{
+  "id": "ct-colchester-colchester-stone-and-landscape-supply-llc",
+  "slug": "colchester-stone-and-landscape-supply-llc",
+  "name": "Colchester Stone & Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "631 Old Hartford Rd",
+    "city": "Colchester",
+    "state": "CT",
+    "zip": "06415"
+  },
+  "location": {
+    "lat": 41.58717,
+    "lng": -72.383698
+  },
+  "contact": {
+    "phone": "(860) 537-1526"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f292b64c-d537-404a-a979-8da9782e2378",
+    "confidence": 0.925,
+    "merged_records": 1
+  }
+}

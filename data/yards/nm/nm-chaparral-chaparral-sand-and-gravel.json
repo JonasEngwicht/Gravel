@@ -1,0 +1,36 @@
+{
+  "id": "nm-chaparral-chaparral-sand-and-gravel",
+  "slug": "chaparral-sand-and-gravel",
+  "name": "Chaparral Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "140 Highway 54",
+    "city": "Chaparral",
+    "state": "NM",
+    "zip": "88081"
+  },
+  "location": {
+    "lat": 32.020046,
+    "lng": -106.315567
+  },
+  "contact": {
+    "phone": "(575) 824-1411",
+    "website": "http://chaparralsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ab6dec0-21ed-43fb-979a-19937aa43c72",
+    "confidence": 0.824,
+    "merged_records": 1
+  }
+}

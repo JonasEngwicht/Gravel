@@ -1,0 +1,48 @@
+{
+  "id": "il-cherry-valley-quality-aggregates-of-illinois",
+  "slug": "quality-aggregates-of-illinois",
+  "name": "Quality Aggregates of Illinois",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2758 Wheeler Rd",
+    "city": "Cherry Valley",
+    "state": "IL",
+    "zip": "61016"
+  },
+  "location": {
+    "lat": 42.192707,
+    "lng": -88.921455
+  },
+  "contact": {
+    "phone": "(815) 332-5001",
+    "website": "http://www.qualityaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4338f6a5-c779-4bd7-816e-d12cfa3eccc4",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1103310",
+      "name": "Wheeler Road",
+      "operator": "Super Aggregates",
+      "status": "Intermittent",
+      "status_since": "2023-10-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

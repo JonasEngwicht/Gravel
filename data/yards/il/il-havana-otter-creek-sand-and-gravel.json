@@ -1,0 +1,47 @@
+{
+  "id": "il-havana-otter-creek-sand-and-gravel",
+  "slug": "otter-creek-sand-and-gravel",
+  "name": "Otter Creek Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4125 N Stoneyard Rd",
+    "city": "Havana",
+    "state": "IL",
+    "zip": "62644"
+  },
+  "location": {
+    "lat": 40.247959,
+    "lng": -90.162384
+  },
+  "contact": {
+    "phone": "(309) 759-4293"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3387a27-c8a2-4428-b94f-9733de3397cb",
+    "confidence": 0.9,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1101131",
+      "name": "Otter Creek Sand & Gravel (CS-68)",
+      "operator": "Central Stone Company",
+      "status": "Active",
+      "status_since": "2026-04-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

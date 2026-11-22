@@ -1,0 +1,35 @@
+{
+  "id": "nc-wilkesboro-g-and-g-farm-and-landscape-supply",
+  "slug": "g-and-g-farm-and-landscape-supply",
+  "name": "G&G Farm and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7101 W US Highway 421",
+    "city": "Wilkesboro",
+    "state": "NC",
+    "zip": "28697"
+  },
+  "location": {
+    "lat": 36.139591,
+    "lng": -81.29303
+  },
+  "contact": {
+    "phone": "(828) 964-8399"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "03302c1e-d413-4d5d-b6ec-61aa7f5afb4f",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

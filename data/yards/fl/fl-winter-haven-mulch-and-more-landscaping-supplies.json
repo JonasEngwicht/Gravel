@@ -1,0 +1,36 @@
+{
+  "id": "fl-winter-haven-mulch-and-more-landscaping-supplies",
+  "slug": "mulch-and-more-landscaping-supplies",
+  "name": "Mulch & More Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5980 Cypress Gardens Rd",
+    "city": "Winter Haven",
+    "state": "FL",
+    "zip": "33884"
+  },
+  "location": {
+    "lat": 27.980215,
+    "lng": -81.660568
+  },
+  "contact": {
+    "phone": "(863) 318-8060",
+    "website": "http://mulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee79d858-7b0a-4e0e-962e-de73db68714a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

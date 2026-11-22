@@ -1,0 +1,36 @@
+{
+  "id": "wa-woodinville-applied-organics-landscape-supply",
+  "slug": "applied-organics-landscape-supply",
+  "name": "Applied Organics Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "19835 Woodinville-Snohomish Rd NE",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072"
+  },
+  "location": {
+    "lat": 47.771439,
+    "lng": -122.154144
+  },
+  "contact": {
+    "phone": "(425) 485-9813",
+    "website": "https://appliedorganicslandscapesupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dca8be44-76ca-48bb-8b55-fbce4c215784",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

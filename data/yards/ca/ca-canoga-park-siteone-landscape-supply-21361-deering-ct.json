@@ -1,0 +1,37 @@
+{
+  "id": "ca-canoga-park-siteone-landscape-supply-21361-deering-ct",
+  "slug": "siteone-landscape-supply-21361-deering-ct",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "21361 Deering Ct",
+    "city": "Canoga Park",
+    "state": "CA",
+    "zip": "91304"
+  },
+  "location": {
+    "lat": 34.216957,
+    "lng": -118.596153
+  },
+  "contact": {
+    "phone": "(818) 704-1772",
+    "website": "https://www.siteone.com/store/382"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "40b33d6e-35c7-4de1-a1de-32cbf22cb7da",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

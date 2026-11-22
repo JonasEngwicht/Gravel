@@ -1,0 +1,58 @@
+{
+  "id": "il-chillicothe-galena-road-gravel",
+  "slug": "galena-road-gravel",
+  "name": "Galena Road Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5129 E Truitt Rd",
+    "city": "Chillicothe",
+    "state": "IL",
+    "zip": "61523"
+  },
+  "location": {
+    "lat": 40.922161,
+    "lng": -89.506126
+  },
+  "contact": {
+    "phone": "(309) 274-6388",
+    "website": "http://galenaroadgravel.localsearch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "832fd81d-880a-4bfa-88af-4cbd952e820e",
+    "confidence": 0.937,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1103124",
+      "name": "North Plant",
+      "operator": "Galena Road Gravel Inc.",
+      "status": "Active",
+      "status_since": "2016-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    },
+    {
+      "mine_id": "1103305",
+      "name": "GRG Plant 4",
+      "operator": "Galena Road Gravel",
+      "status": "Intermittent",
+      "status_since": "2022-07-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

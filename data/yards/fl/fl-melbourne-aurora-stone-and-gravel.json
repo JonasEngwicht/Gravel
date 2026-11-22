@@ -1,0 +1,36 @@
+{
+  "id": "fl-melbourne-aurora-stone-and-gravel",
+  "slug": "aurora-stone-and-gravel",
+  "name": "Aurora Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2699 Aurora Rd",
+    "city": "Melbourne",
+    "state": "FL",
+    "zip": "32935"
+  },
+  "location": {
+    "lat": 28.13516,
+    "lng": -80.666931
+  },
+  "contact": {
+    "phone": "(321) 253-4808",
+    "website": "https://aurorastoneandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6910a629-edc1-4a35-a088-bfbb288f5426",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

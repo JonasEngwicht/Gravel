@@ -1,0 +1,36 @@
+{
+  "id": "nc-raleigh-the-mulch-masters",
+  "slug": "the-mulch-masters",
+  "name": "The Mulch Masters",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10200 Durant Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27614"
+  },
+  "location": {
+    "lat": 35.904049,
+    "lng": -78.583702
+  },
+  "contact": {
+    "phone": "(919) 676-0031",
+    "website": "http://www.themulchmasters.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81c436ec-8aed-46b4-951d-e5f8186f11a3",
+    "confidence": 0.984,
+    "merged_records": 1
+  }
+}

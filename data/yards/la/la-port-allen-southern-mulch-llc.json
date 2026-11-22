@@ -1,0 +1,36 @@
+{
+  "id": "la-port-allen-southern-mulch-llc",
+  "slug": "southern-mulch-llc",
+  "name": "Southern Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7170 Little Sister Dr",
+    "city": "Port Allen",
+    "state": "LA",
+    "zip": "70767"
+  },
+  "location": {
+    "lat": 30.499033,
+    "lng": -91.319
+  },
+  "contact": {
+    "phone": "(225) 383-4646",
+    "website": "http://www.southernmulchla.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04a92f7b-64c4-40ff-8eb6-0834eb89093b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

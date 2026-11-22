@@ -1,0 +1,36 @@
+{
+  "id": "ga-canton-odd-job-tree-and-landscape-supplies",
+  "slug": "odd-job-tree-and-landscape-supplies",
+  "name": "Odd Job Tree & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11643 Cumming Hwy",
+    "city": "Canton",
+    "state": "GA",
+    "zip": "30115"
+  },
+  "location": {
+    "lat": 34.246799,
+    "lng": -84.301376
+  },
+  "contact": {
+    "phone": "(770) 886-0040",
+    "website": "https://www.oddjobtree.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ccf3195-9496-46b3-88c7-bb5d9936f04a",
+    "confidence": 0.824,
+    "merged_records": 1
+  }
+}

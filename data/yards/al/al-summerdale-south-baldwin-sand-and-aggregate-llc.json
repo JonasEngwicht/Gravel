@@ -1,0 +1,35 @@
+{
+  "id": "al-summerdale-south-baldwin-sand-and-aggregate-llc",
+  "slug": "south-baldwin-sand-and-aggregate-llc",
+  "name": "South Baldwin Sand & Aggregate, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "301 Ne 1st St  Unit 2",
+    "city": "Summerdale",
+    "state": "AL",
+    "zip": "36580"
+  },
+  "location": {
+    "lat": 30.48983,
+    "lng": -87.699493
+  },
+  "contact": {
+    "website": "https://south-baldwin-sand-aggregate-llc.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31e0bd9c-76b7-4fae-8619-4f84c0fbee75",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

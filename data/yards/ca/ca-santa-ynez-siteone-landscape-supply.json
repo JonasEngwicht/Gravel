@@ -1,0 +1,37 @@
+{
+  "id": "ca-santa-ynez-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3588 Madera St",
+    "city": "Santa Ynez",
+    "state": "CA",
+    "zip": "93460"
+  },
+  "location": {
+    "lat": 34.612091,
+    "lng": -120.080292
+  },
+  "contact": {
+    "phone": "(805) 693-9333",
+    "website": "https://www.siteone.com/en/store/404"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3f5342d-47fb-4bfe-b5d4-96b519e9151e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

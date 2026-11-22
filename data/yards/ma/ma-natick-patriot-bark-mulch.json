@@ -1,0 +1,36 @@
+{
+  "id": "ma-natick-patriot-bark-mulch",
+  "slug": "patriot-bark-mulch",
+  "name": "Patriot Bark Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "226 S Main St",
+    "city": "Natick",
+    "state": "MA",
+    "zip": "01760"
+  },
+  "location": {
+    "lat": 42.267757,
+    "lng": -71.358238
+  },
+  "contact": {
+    "phone": "(508) 735-7787",
+    "website": "https://www.patriotbarkmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2babd05c-f974-4af8-a8ce-a43fbc4aa934",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

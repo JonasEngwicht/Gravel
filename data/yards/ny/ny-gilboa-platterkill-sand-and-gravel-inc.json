@@ -1,0 +1,48 @@
+{
+  "id": "ny-gilboa-platterkill-sand-and-gravel-inc",
+  "slug": "platterkill-sand-and-gravel-inc",
+  "name": "Platterkill Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "638 Flat Creek Rd",
+    "city": "Gilboa",
+    "state": "NY",
+    "zip": "12076"
+  },
+  "location": {
+    "lat": 42.417976,
+    "lng": -74.40963
+  },
+  "contact": {
+    "phone": "(607) 424-8383",
+    "website": "https://www.platterkillmine.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b894043-569f-401f-b638-573f8f8b1184",
+    "confidence": 0.995,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3003085",
+      "name": "Platterkill Sand & Gravel",
+      "operator": "Platterkill Mine Llc",
+      "status": "Intermittent",
+      "status_since": "1993-08-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

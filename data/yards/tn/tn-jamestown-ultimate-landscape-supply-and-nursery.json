@@ -1,0 +1,36 @@
+{
+  "id": "tn-jamestown-ultimate-landscape-supply-and-nursery",
+  "slug": "ultimate-landscape-supply-and-nursery",
+  "name": "Ultimate Landscape Supply and Nursery",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1294 Old TN-127 S",
+    "city": "Jamestown",
+    "state": "TN",
+    "zip": "38556"
+  },
+  "location": {
+    "lat": 36.394108,
+    "lng": -84.937271
+  },
+  "contact": {
+    "phone": "(931) 879-0620",
+    "website": "http://www.ultimatenursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1bc0e8a4-3b16-4a5a-82dc-5431e05a1d13",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

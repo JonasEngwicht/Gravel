@@ -1,0 +1,35 @@
+{
+  "id": "in-clarksville-innovative-crushing-and-aggregate-inc",
+  "slug": "innovative-crushing-and-aggregate-inc",
+  "name": "Innovative Crushing & Aggregate Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1030 Sames Rd",
+    "city": "Clarksville",
+    "state": "IN",
+    "zip": "47129"
+  },
+  "location": {
+    "lat": 38.300076,
+    "lng": -85.778473
+  },
+  "contact": {
+    "phone": "(812) 941-0307"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9236b0d0-e49e-4bd8-a361-dc2cad5e1c57",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "or-dayton-dayton-sand-and-gravel",
+  "slug": "dayton-sand-and-gravel",
+  "name": "Dayton Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "101 SE 3rd St",
+    "city": "Dayton",
+    "state": "OR",
+    "zip": "97114"
+  },
+  "location": {
+    "lat": 45.223629,
+    "lng": -123.078445
+  },
+  "contact": {
+    "phone": "(503) 864-2219",
+    "website": "http://baker-rock.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "445cd2c5-87cf-4679-910e-0b90a0294183",
+    "confidence": 0.542,
+    "merged_records": 1
+  }
+}

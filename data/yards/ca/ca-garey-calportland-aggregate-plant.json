@@ -1,0 +1,48 @@
+{
+  "id": "ca-garey-calportland-aggregate-plant",
+  "slug": "calportland-aggregate-plant",
+  "name": "CalPortland - Aggregate Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4680 Santa Maria Mesa Rd",
+    "city": "Garey",
+    "state": "CA",
+    "zip": "93454"
+  },
+  "location": {
+    "lat": 34.892147,
+    "lng": -120.302193
+  },
+  "contact": {
+    "phone": "(805) 345-3400",
+    "website": "https://www.calportland.com/locations/california/garey-aggregate-plant/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5af3e95f-0185-4471-8475-c9fcd717c8a1",
+    "confidence": 0.85,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0403031",
+      "name": "Garey Rock Plant",
+      "operator": "Calportland Construction",
+      "status": "Active",
+      "status_since": "1980-01-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ct-monroe-monroe-recycling-and-aggregates",
+  "slug": "monroe-recycling-and-aggregates",
+  "name": "Monroe Recycling & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "485 Pepper St",
+    "city": "Monroe",
+    "state": "CT",
+    "zip": "06468"
+  },
+  "location": {
+    "lat": 41.345657,
+    "lng": -73.250778
+  },
+  "contact": {
+    "phone": "(203) 838-4025",
+    "website": "http://www.monroeaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f785d3ac-078f-43ab-92a3-1965db45f232",
+    "confidence": 0.745,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-spokane-circle-m-construction-and-landscape-supplies",
+  "slug": "circle-m-construction-and-landscape-supplies",
+  "name": "Circle M Construction And Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4107 E Broadway Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202"
+  },
+  "location": {
+    "lat": 47.664574,
+    "lng": -117.349854
+  },
+  "contact": {
+    "phone": "(509) 928-3146",
+    "website": "http://www.spokanelandscape.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a7e22662-4e51-4e30-9e86-1685b2a0e17a",
+    "confidence": 0.557,
+    "merged_records": 1
+  }
+}

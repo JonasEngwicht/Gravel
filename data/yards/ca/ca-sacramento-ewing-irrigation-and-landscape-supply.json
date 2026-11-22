@@ -1,0 +1,37 @@
+{
+  "id": "ca-sacramento-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "5761 Florin Perkins Rd",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95828"
+  },
+  "location": {
+    "lat": 38.521736,
+    "lng": -121.389313
+  },
+  "contact": {
+    "phone": "(916) 383-2400",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c9dbecd-8456-4c0f-b0c2-85da3e879b01",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

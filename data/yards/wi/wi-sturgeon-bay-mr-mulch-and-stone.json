@@ -1,0 +1,36 @@
+{
+  "id": "wi-sturgeon-bay-mr-mulch-and-stone",
+  "slug": "mr-mulch-and-stone",
+  "name": "Mr Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2195 CR-S",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "zip": "54235"
+  },
+  "location": {
+    "lat": 44.776623,
+    "lng": -87.397964
+  },
+  "contact": {
+    "phone": "(920) 493-0354",
+    "website": "https://www.mrmulchwi.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4be5789a-a572-4901-a16b-6669579db43a",
+    "confidence": 0.872,
+    "merged_records": 1
+  }
+}

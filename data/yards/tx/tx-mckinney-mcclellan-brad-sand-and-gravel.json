@@ -1,0 +1,35 @@
+{
+  "id": "tx-mckinney-mcclellan-brad-sand-and-gravel",
+  "slug": "mcclellan-brad-sand-and-gravel",
+  "name": "Mcclellan Brad Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3210 E University Dr",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75069"
+  },
+  "location": {
+    "lat": 33.194077,
+    "lng": -96.563072
+  },
+  "contact": {
+    "phone": "(972) 562-2600"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d05f872-011f-47fd-93ec-83b9a2f8e3db",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ar-pine-bluff-pine-bluff-sand-and-gravel-co",
+  "slug": "pine-bluff-sand-and-gravel-co",
+  "name": "Pine Bluff Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "124 N Kansas St",
+    "city": "Pine Bluff",
+    "state": "AR",
+    "zip": "71601"
+  },
+  "location": {
+    "lat": 34.231792,
+    "lng": -91.970802
+  },
+  "contact": {
+    "phone": "(870) 534-7122",
+    "website": "https://www.pbsgc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7db2c58e-96d1-419a-9205-5023be9e30d7",
+    "confidence": 0.539,
+    "merged_records": 1
+  }
+}

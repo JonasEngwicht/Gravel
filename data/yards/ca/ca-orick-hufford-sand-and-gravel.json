@@ -1,0 +1,35 @@
+{
+  "id": "ca-orick-hufford-sand-and-gravel",
+  "slug": "hufford-sand-and-gravel",
+  "name": "Hufford Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "72 Hufford Rd",
+    "city": "Orick",
+    "state": "CA",
+    "zip": "95555"
+  },
+  "location": {
+    "lat": 41.289078,
+    "lng": -124.059883
+  },
+  "contact": {
+    "phone": "(707) 488-2602"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa2deee3-1737-4001-b2e6-d1398d8b867d",
+    "confidence": 0.92,
+    "merged_records": 3
+  }
+}

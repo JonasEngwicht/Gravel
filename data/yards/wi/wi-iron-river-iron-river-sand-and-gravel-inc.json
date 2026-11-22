@@ -1,0 +1,36 @@
+{
+  "id": "wi-iron-river-iron-river-sand-and-gravel-inc",
+  "slug": "iron-river-sand-and-gravel-inc",
+  "name": "Iron River Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "65990 Primrose Ln",
+    "city": "Iron River",
+    "state": "WI",
+    "zip": "54847"
+  },
+  "location": {
+    "lat": 46.527649,
+    "lng": -91.34317
+  },
+  "contact": {
+    "phone": "(715) 372-5667",
+    "website": "https://www.townofironriver.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72a8c866-1b4d-4da3-97c7-6d2d5717f78c",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

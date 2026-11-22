@@ -1,0 +1,36 @@
+{
+  "id": "nv-reno-stone-depot-reno",
+  "slug": "stone-depot-reno",
+  "name": "Stone Depot Reno",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1040 Matley Ln #5",
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89502"
+  },
+  "location": {
+    "lat": 39.515285,
+    "lng": -119.779846
+  },
+  "contact": {
+    "phone": "(775) 379-3817",
+    "website": "http://www.stonedepot.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea8c4033-36c6-4579-969a-7dcd782d21b3",
+    "confidence": 0.953,
+    "merged_records": 1
+  }
+}

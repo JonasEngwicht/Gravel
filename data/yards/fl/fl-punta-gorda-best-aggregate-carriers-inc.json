@@ -1,0 +1,35 @@
+{
+  "id": "fl-punta-gorda-best-aggregate-carriers-inc",
+  "slug": "best-aggregate-carriers-inc",
+  "name": "Best Aggregate Carriers Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12164 Tamiami Trl",
+    "city": "Punta Gorda",
+    "state": "FL",
+    "zip": "33955"
+  },
+  "location": {
+    "lat": 26.854107,
+    "lng": -81.984215
+  },
+  "contact": {
+    "phone": "(941) 637-3723"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c99d6af9-4abb-4924-97d5-37fe198e63a8",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mi-shelby-township-aaa-landscape-supply",
+  "slug": "aaa-landscape-supply",
+  "name": "AAA Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4605 22 Mile Rd",
+    "city": "Shelby Township",
+    "state": "MI",
+    "zip": "48317"
+  },
+  "location": {
+    "lat": 42.65855,
+    "lng": -83.066299
+  },
+  "contact": {
+    "phone": "(586) 739-1449"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8884bd80-307f-49ff-9377-50d094fd51cf",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

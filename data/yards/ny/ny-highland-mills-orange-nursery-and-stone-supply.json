@@ -1,0 +1,36 @@
+{
+  "id": "ny-highland-mills-orange-nursery-and-stone-supply",
+  "slug": "orange-nursery-and-stone-supply",
+  "name": "Orange Nursery & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1129 NY-32",
+    "city": "Highland Mills",
+    "state": "NY",
+    "zip": "10930"
+  },
+  "location": {
+    "lat": 41.384258,
+    "lng": -74.094833
+  },
+  "contact": {
+    "phone": "(845) 928-2777",
+    "website": "http://www.onursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "124b19e5-c9b1-4431-85b8-7de0caf252a3",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mt-helena-helena-sand-and-gravel-2930-canyon-ferry-rd",
+  "slug": "helena-sand-and-gravel-2930-canyon-ferry-rd",
+  "name": "Helena Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2930 Canyon Ferry Rd",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59602"
+  },
+  "location": {
+    "lat": 46.617462,
+    "lng": -111.941017
+  },
+  "contact": {
+    "phone": "(406) 227-8585",
+    "website": "https://www.montanamaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a5f621aa-9e7c-4822-add6-b3b0a24ec373",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

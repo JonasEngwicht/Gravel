@@ -1,0 +1,36 @@
+{
+  "id": "oh-leetonia-franklin-square-landscape-material",
+  "slug": "franklin-square-landscape-material",
+  "name": "Franklin Square Landscape Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "37510 OH-558",
+    "city": "Leetonia",
+    "state": "OH",
+    "zip": "44431"
+  },
+  "location": {
+    "lat": 40.856781,
+    "lng": -80.793282
+  },
+  "contact": {
+    "phone": "(330) 427-1100",
+    "website": "http://www.franklinsquaremulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b2d2845-70c0-4503-98a0-433c781b859f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

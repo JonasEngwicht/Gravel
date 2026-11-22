@@ -1,0 +1,48 @@
+{
+  "id": "oh-bolivar-oster-sand-and-gravel-inc",
+  "slug": "oster-sand-and-gravel-inc",
+  "name": "Oster Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3467 Dover Zoar Rd NE",
+    "city": "Bolivar",
+    "state": "OH",
+    "zip": "44612"
+  },
+  "location": {
+    "lat": 40.635815,
+    "lng": -81.385521
+  },
+  "contact": {
+    "phone": "(330) 874-3322",
+    "website": "https://www.ostersandandgravelnorthcantonoh.com/oster-sand-and-gravel-bolivar"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82834be1-3848-4dd8-8eb3-8521419939e8",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301594",
+      "name": "Oster Sand & Gravel-Bolivar Plant",
+      "operator": "Oster Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2023-11-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

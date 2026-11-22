@@ -1,0 +1,36 @@
+{
+  "id": "ny-avoca-tim-hubbard-gravel-supply",
+  "slug": "tim-hubbard-gravel-supply",
+  "name": "Tim Hubbard Gravel Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "59930 State Route 415",
+    "city": "Avoca",
+    "state": "NY",
+    "zip": "14809"
+  },
+  "location": {
+    "lat": 42.398994,
+    "lng": -77.417259
+  },
+  "contact": {
+    "phone": "(607) 382-4582",
+    "website": "https://timhubbardgravelsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc218078-c40d-498d-8a95-95624b501c75",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-chula-vista-reclaimed-aggregates",
+  "slug": "reclaimed-aggregates",
+  "name": "Reclaimed Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "855 Energy Way",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91911"
+  },
+  "location": {
+    "lat": 32.596958,
+    "lng": -117.009079
+  },
+  "contact": {
+    "phone": "(619) 656-1836",
+    "website": "http://pavementrecycling.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ba60f86-07cb-47d5-ad22-9485d6b7ceb7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

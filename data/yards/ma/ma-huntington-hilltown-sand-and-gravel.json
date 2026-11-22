@@ -1,0 +1,47 @@
+{
+  "id": "ma-huntington-hilltown-sand-and-gravel",
+  "slug": "hilltown-sand-and-gravel",
+  "name": "Hilltown Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "87 Worthington Rd",
+    "city": "Huntington",
+    "state": "MA",
+    "zip": "01050"
+  },
+  "location": {
+    "lat": 42.254166,
+    "lng": -72.866539
+  },
+  "contact": {
+    "phone": "(413) 667-5789"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9405c6d9-7dd8-437c-93a0-1d9ad20e550d",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900302",
+      "name": "Hilltown Sand And Gravel Llc",
+      "operator": "Hilltown Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2026-07-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

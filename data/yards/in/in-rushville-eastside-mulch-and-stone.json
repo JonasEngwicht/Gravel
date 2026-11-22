@@ -1,0 +1,36 @@
+{
+  "id": "in-rushville-eastside-mulch-and-stone",
+  "slug": "eastside-mulch-and-stone",
+  "name": "Eastside Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "330 E 2nd St",
+    "city": "Rushville",
+    "state": "IN",
+    "zip": "46173"
+  },
+  "location": {
+    "lat": 39.608444,
+    "lng": -85.439827
+  },
+  "contact": {
+    "phone": "(765) 561-6468",
+    "website": "http://www.eastsideselfstorage23.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f56c192-dddb-4ed8-afda-e0c5d695593b",
+    "confidence": 0.553,
+    "merged_records": 1
+  }
+}

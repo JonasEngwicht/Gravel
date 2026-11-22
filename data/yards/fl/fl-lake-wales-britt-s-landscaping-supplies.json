@@ -1,0 +1,36 @@
+{
+  "id": "fl-lake-wales-britt-s-landscaping-supplies",
+  "slug": "britt-s-landscaping-supplies",
+  "name": "Britt's Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "24218 Hwy 27",
+    "city": "Lake Wales",
+    "state": "FL",
+    "zip": "33859"
+  },
+  "location": {
+    "lat": 27.96031,
+    "lng": -81.625137
+  },
+  "contact": {
+    "phone": "(863) 949-1658",
+    "website": "https://www.brittslandscapingsupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce9a3962-db3c-4d54-8681-33212d945cd6",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

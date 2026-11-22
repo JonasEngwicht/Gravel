@@ -1,0 +1,36 @@
+{
+  "id": "ga-oakwood-aka-mulch-products",
+  "slug": "aka-mulch-products",
+  "name": "Aka Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4515 Railroad St",
+    "city": "Oakwood",
+    "state": "GA",
+    "zip": "30566"
+  },
+  "location": {
+    "lat": 34.219585,
+    "lng": -83.890564
+  },
+  "contact": {
+    "phone": "(470) 589-0004",
+    "website": "http://www.akamulchproducts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2a09cff4-2725-45e6-9bed-3e4c72c902b6",
+    "confidence": 0.673,
+    "merged_records": 1
+  }
+}

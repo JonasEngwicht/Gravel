@@ -1,0 +1,36 @@
+{
+  "id": "il-waukegan-thelen-sand-and-gravel",
+  "slug": "thelen-sand-and-gravel",
+  "name": "Thelen Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1020 Elizabeth St",
+    "city": "Waukegan",
+    "state": "IL",
+    "zip": "60085"
+  },
+  "location": {
+    "lat": 42.340256,
+    "lng": -87.84906
+  },
+  "contact": {
+    "phone": "(847) 662-0760",
+    "website": "https://thelensg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "044a29bb-bc0b-458f-94e6-69c2c8bead90",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

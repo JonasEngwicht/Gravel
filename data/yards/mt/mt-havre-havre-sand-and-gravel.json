@@ -1,0 +1,36 @@
+{
+  "id": "mt-havre-havre-sand-and-gravel",
+  "slug": "havre-sand-and-gravel",
+  "name": "Havre Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1633 US-2 E",
+    "city": "Havre",
+    "state": "MT",
+    "zip": "59501"
+  },
+  "location": {
+    "lat": 48.554085,
+    "lng": -109.659142
+  },
+  "contact": {
+    "phone": "(406) 265-6789",
+    "website": "http://www.havresandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de3f36cd-abb2-46f5-808b-960169ede839",
+    "confidence": 0.896,
+    "merged_records": 1
+  }
+}

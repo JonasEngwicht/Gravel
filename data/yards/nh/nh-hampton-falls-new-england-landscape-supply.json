@@ -1,0 +1,36 @@
+{
+  "id": "nh-hampton-falls-new-england-landscape-supply",
+  "slug": "new-england-landscape-supply",
+  "name": "New England Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "41 Lafayette Rd",
+    "city": "Hampton Falls",
+    "state": "NH",
+    "zip": "03844"
+  },
+  "location": {
+    "lat": 42.909119,
+    "lng": -70.864365
+  },
+  "contact": {
+    "phone": "(603) 519-3133",
+    "website": "http://Newenglandlandscapesupplyllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e164ce7-7019-4c0e-8f20-ac6cdb65f94c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

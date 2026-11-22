@@ -1,0 +1,36 @@
+{
+  "id": "ar-ozark-arkansas-sand-and-gravel",
+  "slug": "arkansas-sand-and-gravel",
+  "name": "Arkansas Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5401 Lowland Rd",
+    "city": "Ozark",
+    "state": "AR",
+    "zip": "72949"
+  },
+  "location": {
+    "lat": 35.446239,
+    "lng": -93.79924
+  },
+  "contact": {
+    "phone": "(479) 667-5500",
+    "website": "http://www.arksand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dee96f11-aa13-4e72-8243-a76ea406fd52",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

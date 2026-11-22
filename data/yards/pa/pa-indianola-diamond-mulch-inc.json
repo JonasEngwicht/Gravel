@@ -1,0 +1,36 @@
+{
+  "id": "pa-indianola-diamond-mulch-inc",
+  "slug": "diamond-mulch-inc",
+  "name": "Diamond Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1 Hershey Rd",
+    "city": "Indianola",
+    "state": "PA",
+    "zip": "15051"
+  },
+  "location": {
+    "lat": 40.565758,
+    "lng": -79.855721
+  },
+  "contact": {
+    "phone": "(412) 767-8834",
+    "website": "http://www.diamondmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9fd3630c-0731-4e6a-95ec-9ad93d8b9700",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

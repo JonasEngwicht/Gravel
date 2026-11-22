@@ -1,0 +1,36 @@
+{
+  "id": "il-naperville-anderson-landscape-supply",
+  "slug": "anderson-landscape-supply",
+  "name": "Anderson Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "31W504 Diehl Rd",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60563"
+  },
+  "location": {
+    "lat": 41.799717,
+    "lng": -88.237511
+  },
+  "contact": {
+    "phone": "(630) 305-0241",
+    "website": "http://AndersonLandscapeSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5af08562-9300-4e11-b571-a9b56f80b787",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

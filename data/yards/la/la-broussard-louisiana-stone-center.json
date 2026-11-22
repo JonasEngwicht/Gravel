@@ -1,0 +1,36 @@
+{
+  "id": "la-broussard-louisiana-stone-center",
+  "slug": "louisiana-stone-center",
+  "name": "Louisiana Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4023 US-90",
+    "city": "Broussard",
+    "state": "LA",
+    "zip": "70518"
+  },
+  "location": {
+    "lat": 30.153839,
+    "lng": -91.959991
+  },
+  "contact": {
+    "phone": "(337) 252-7073",
+    "website": "https://lastonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d8bfe761-18d8-4ef8-b4ef-de0292277f34",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

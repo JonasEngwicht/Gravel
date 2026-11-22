@@ -1,0 +1,48 @@
+{
+  "id": "wa-bellingham-cowden-gravel-and-ready-mix",
+  "slug": "cowden-gravel-and-ready-mix",
+  "name": "Cowden Gravel & Ready Mix",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3463 Cedarville Rd",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226"
+  },
+  "location": {
+    "lat": 48.843105,
+    "lng": -122.302032
+  },
+  "contact": {
+    "phone": "(360) 592-4200",
+    "website": "https://cowdeninc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3dc9b404-0b7c-40b9-9066-1218479bb558",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4500611",
+      "name": "Amrize Apex",
+      "operator": "Amrize Southwest Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-09-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

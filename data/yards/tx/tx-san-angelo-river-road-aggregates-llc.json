@@ -1,0 +1,35 @@
+{
+  "id": "tx-san-angelo-river-road-aggregates-llc",
+  "slug": "river-road-aggregates-llc",
+  "name": "River Road Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4774 N Chadbourne St",
+    "city": "San Angelo",
+    "state": "TX",
+    "zip": "76903"
+  },
+  "location": {
+    "lat": 31.51005,
+    "lng": -100.468521
+  },
+  "contact": {
+    "phone": "(432) 770-0769"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "456ab1f6-20f1-47c9-a484-67bb1b0f6808",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

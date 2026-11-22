@@ -1,0 +1,36 @@
+{
+  "id": "wi-appleton-lowney-s-landscaping-center",
+  "slug": "lowney-s-landscaping-center",
+  "name": "Lowney's Landscaping Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "N3310 State Road 47",
+    "city": "Appleton",
+    "state": "WI",
+    "zip": "54913"
+  },
+  "location": {
+    "lat": 44.358875,
+    "lng": -88.414948
+  },
+  "contact": {
+    "phone": "(920) 733-2560",
+    "website": "https://lowneyslandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8faeb8f1-14e0-48b5-a8a0-715b502f8f0a",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

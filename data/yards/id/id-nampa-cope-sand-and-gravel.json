@@ -1,0 +1,36 @@
+{
+  "id": "id-nampa-cope-sand-and-gravel",
+  "slug": "cope-sand-and-gravel",
+  "name": "Cope Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12360 Moss Ln",
+    "city": "Nampa",
+    "state": "ID",
+    "zip": "83651"
+  },
+  "location": {
+    "lat": 43.612282,
+    "lng": -116.640083
+  },
+  "contact": {
+    "phone": "(208) 455-1601",
+    "website": "https://www.copesandgravel.com/contact.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8a1cf96a-8d09-4e72-a21b-7a63d8593b3c",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

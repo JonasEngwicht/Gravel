@@ -1,0 +1,36 @@
+{
+  "id": "mo-st-joseph-st-joe-dirt-gravel-and-sand",
+  "slug": "st-joe-dirt-gravel-and-sand",
+  "name": "St. Joe Dirt, Gravel and Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3137 Pear St",
+    "city": "St Joseph",
+    "state": "MO",
+    "zip": "64503"
+  },
+  "location": {
+    "lat": 39.734047,
+    "lng": -94.815666
+  },
+  "contact": {
+    "phone": "(816) 538-0021",
+    "website": "https://www.stjoedgs.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "790426db-d467-4748-8372-6285877f7c1f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

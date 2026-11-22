@@ -1,0 +1,36 @@
+{
+  "id": "oh-ashland-cornerstone-mulch",
+  "slug": "cornerstone-mulch",
+  "name": "Cornerstone Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1376 Township Rd 1656",
+    "city": "Ashland",
+    "state": "OH",
+    "zip": "44805"
+  },
+  "location": {
+    "lat": 40.822132,
+    "lng": -82.392296
+  },
+  "contact": {
+    "phone": "(419) 281-3333",
+    "website": "http://www.cornerstonemulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5de85bcd-96e0-4771-adc8-248eb28efa25",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

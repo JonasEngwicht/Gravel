@@ -1,0 +1,36 @@
+{
+  "id": "fl-altamonte-springs-hibernia-landscape-supply",
+  "slug": "hibernia-landscape-supply",
+  "name": "Hibernia Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1310 McNeil Rd",
+    "city": "Altamonte Springs",
+    "state": "FL",
+    "zip": "32714"
+  },
+  "location": {
+    "lat": 28.657234,
+    "lng": -81.43222
+  },
+  "contact": {
+    "phone": "(407) 792-5001",
+    "website": "http://hibernialandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3fc07f48-422e-4b70-b428-f993d2c7ff84",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

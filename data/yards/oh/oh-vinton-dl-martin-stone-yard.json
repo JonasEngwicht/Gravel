@@ -1,0 +1,36 @@
+{
+  "id": "oh-vinton-dl-martin-stone-yard",
+  "slug": "dl-martin-stone-yard",
+  "name": "DL Martin Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "238 Pleasant Valley Rd",
+    "city": "Vinton",
+    "state": "OH",
+    "zip": "45686"
+  },
+  "location": {
+    "lat": 38.896561,
+    "lng": -82.386902
+  },
+  "contact": {
+    "phone": "(740) 441-7063",
+    "website": "http://www.dlmartinstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d1b572c-970f-4d81-bd94-e6bae9a23332",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

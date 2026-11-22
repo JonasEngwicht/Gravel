@@ -1,0 +1,35 @@
+{
+  "id": "id-homedale-owyhee-sand-and-gravel",
+  "slug": "owyhee-sand-and-gravel",
+  "name": "Owyhee Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2085 River Rd",
+    "city": "Homedale",
+    "state": "ID",
+    "zip": "83628"
+  },
+  "location": {
+    "lat": 43.66674,
+    "lng": -116.998756
+  },
+  "contact": {
+    "phone": "(208) 337-5057"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0ba5abd-ca00-48d6-a17b-76cfcd0f5b8e",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

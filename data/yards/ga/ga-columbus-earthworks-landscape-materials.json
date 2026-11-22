@@ -1,0 +1,36 @@
+{
+  "id": "ga-columbus-earthworks-landscape-materials",
+  "slug": "earthworks-landscape-materials",
+  "name": "Earthworks Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3688 Veterans Pkwy",
+    "city": "Columbus",
+    "state": "GA",
+    "zip": "31904"
+  },
+  "location": {
+    "lat": 32.498024,
+    "lng": -84.977707
+  },
+  "contact": {
+    "phone": "(706) 992-3890",
+    "website": "https://www.earthworkslandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41a29b69-5f95-41d9-b0c0-ce5df848c1bd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "oh-ravenna-charlestown-sand-and-gravel",
+  "slug": "charlestown-sand-and-gravel",
+  "name": "Charlestown Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7845 State Route 5",
+    "city": "Ravenna",
+    "state": "OH",
+    "zip": "44266"
+  },
+  "location": {
+    "lat": 41.15913,
+    "lng": -81.109039
+  },
+  "contact": {
+    "phone": "(330) 296-9233"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0224c17-88ed-4fc9-a03e-e0fcf3aae0c8",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

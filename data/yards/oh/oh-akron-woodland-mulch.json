@@ -1,0 +1,36 @@
+{
+  "id": "oh-akron-woodland-mulch",
+  "slug": "woodland-mulch",
+  "name": "Woodland Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2194 E Waterloo Rd",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44312"
+  },
+  "location": {
+    "lat": 41.030518,
+    "lng": -81.452019
+  },
+  "contact": {
+    "phone": "(330) 815-9114",
+    "website": "http://Www.mulchmakers.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6fd53de4-c204-46a1-8d57-607f13b7e692",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

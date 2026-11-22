@@ -1,0 +1,36 @@
+{
+  "id": "in-fort-wayne-hulvey-landscape-supply",
+  "slug": "hulvey-landscape-supply",
+  "name": "Hulvey Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5103 Decatur Rd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46806"
+  },
+  "location": {
+    "lat": 41.036449,
+    "lng": -85.129341
+  },
+  "contact": {
+    "phone": "(260) 750-6640",
+    "website": "http://hulveylandscapesupplyllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "865ea056-5151-48c1-bec2-fb66af17e7e8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

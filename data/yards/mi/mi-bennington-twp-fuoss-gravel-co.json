@@ -1,0 +1,46 @@
+{
+  "id": "mi-bennington-twp-fuoss-gravel-co",
+  "slug": "fuoss-gravel-co",
+  "name": "Fuoss Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2190 W Grand River Rd",
+    "city": "Bennington Twp",
+    "state": "MI",
+    "zip": "48867"
+  },
+  "location": {
+    "lat": 42.892738,
+    "lng": -84.205872
+  },
+  "contact": {
+    "phone": "(989) 723-3907"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "590e7814-6242-40c7-ab48-b962ca2bb820",
+    "confidence": 0.657,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003078",
+      "name": "Fuoss Gravel Company",
+      "operator": "Fuoss Gravel Company",
+      "status": "Abandoned",
+      "status_since": "2023-11-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

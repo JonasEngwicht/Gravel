@@ -1,0 +1,47 @@
+{
+  "id": "de-georgetown-ml-joseph-sand-and-gravel-company",
+  "slug": "ml-joseph-sand-and-gravel-company",
+  "name": "ML Joseph Sand & Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "22345 Josephs Rd",
+    "city": "Georgetown",
+    "state": "DE",
+    "zip": "19947"
+  },
+  "location": {
+    "lat": 38.637306,
+    "lng": -75.363075
+  },
+  "contact": {
+    "phone": "(302) 856-4940"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ed085eb-1928-495d-9cd8-0b1e3c49826c",
+    "confidence": 0.556,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0700104",
+      "name": "M L Joseph Sand & Gravel Company Inc",
+      "operator": "M L Joseph Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2004-10-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

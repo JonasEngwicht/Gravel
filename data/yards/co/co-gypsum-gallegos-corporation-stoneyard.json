@@ -1,0 +1,36 @@
+{
+  "id": "co-gypsum-gallegos-corporation-stoneyard",
+  "slug": "gallegos-corporation-stoneyard",
+  "name": "Gallegos Corporation-Stoneyard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1000 Spring Creek Rd",
+    "city": "Gypsum",
+    "state": "CO",
+    "zip": "81637"
+  },
+  "location": {
+    "lat": 39.631744,
+    "lng": -106.921188
+  },
+  "contact": {
+    "phone": "(970) 524-4322",
+    "website": "http://www.gallegoscorp.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c366807-174f-4711-b49a-f883402660e8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sc-galivants-ferry-seaside-mulch",
+  "slug": "seaside-mulch",
+  "name": "Seaside Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1240 Dog Bluff Rd",
+    "city": "Galivants Ferry",
+    "state": "SC",
+    "zip": "29544"
+  },
+  "location": {
+    "lat": 33.935692,
+    "lng": -79.180771
+  },
+  "contact": {
+    "phone": "(843) 358-9888",
+    "website": "http://www.seasidemulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "acab5e53-1855-44c4-b40f-1367564eb05e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

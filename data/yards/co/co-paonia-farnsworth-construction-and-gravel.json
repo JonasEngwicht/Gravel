@@ -1,0 +1,47 @@
+{
+  "id": "co-paonia-farnsworth-construction-and-gravel",
+  "slug": "farnsworth-construction-and-gravel",
+  "name": "Farnsworth Construction & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "175 CO-133",
+    "city": "Paonia",
+    "state": "CO",
+    "zip": "81428"
+  },
+  "location": {
+    "lat": 38.866638,
+    "lng": -107.612915
+  },
+  "contact": {
+    "phone": "(970) 527-4434"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c266bba9-a020-4e96-8600-8065b531a96e",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0504100",
+      "name": "River Bottom Land Pit",
+      "operator": "Farnsworth Construction",
+      "status": "Abandoned",
+      "status_since": "2019-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

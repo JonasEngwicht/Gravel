@@ -1,0 +1,36 @@
+{
+  "id": "pa-myerstown-martin-landscape-supply",
+  "slug": "martin-landscape-supply",
+  "name": "Martin Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "460 Royers Rd",
+    "city": "Myerstown",
+    "state": "PA",
+    "zip": "17067"
+  },
+  "location": {
+    "lat": 40.355381,
+    "lng": -76.274719
+  },
+  "contact": {
+    "phone": "(717) 866-2525",
+    "website": "http://www.martinlandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0402ff6e-849f-4149-ae3c-f18d4c14455e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

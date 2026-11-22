@@ -1,0 +1,35 @@
+{
+  "id": "co-longmont-idaho-creek-gravel",
+  "slug": "idaho-creek-gravel",
+  "name": "Idaho Creek Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3279 County Road 20 1/2",
+    "city": "Longmont",
+    "state": "CO",
+    "zip": "80504"
+  },
+  "location": {
+    "lat": 40.13892,
+    "lng": -104.992386
+  },
+  "contact": {
+    "phone": "(303) 678-8531"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d65e3ecd-9954-4d83-ae0c-d9e96c19089f",
+    "confidence": 0.569,
+    "merged_records": 1
+  }
+}

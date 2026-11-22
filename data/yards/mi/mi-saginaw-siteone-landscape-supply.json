@@ -1,0 +1,37 @@
+{
+  "id": "mi-saginaw-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5815 Bay Rd",
+    "city": "Saginaw",
+    "state": "MI",
+    "zip": "48604"
+  },
+  "location": {
+    "lat": 43.491558,
+    "lng": -83.974876
+  },
+  "contact": {
+    "phone": "(989) 793-0700",
+    "website": "https://www.siteone.com/store/658"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "760f0c22-0a54-4110-b3b5-239fdfc87167",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

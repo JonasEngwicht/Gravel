@@ -1,0 +1,36 @@
+{
+  "id": "tx-la-grange-la-grange-concrete-and-aggregate",
+  "slug": "la-grange-concrete-and-aggregate",
+  "name": "La Grange Concrete & Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4415 FM 155",
+    "city": "La Grange",
+    "state": "TX",
+    "zip": "78945"
+  },
+  "location": {
+    "lat": 29.855898,
+    "lng": -96.82843
+  },
+  "contact": {
+    "phone": "(979) 247-4929",
+    "website": "http://lagrange-ga.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31073323-eb0c-4b72-b518-3d728d077ff0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

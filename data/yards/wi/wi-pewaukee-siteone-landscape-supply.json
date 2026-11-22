@@ -1,0 +1,37 @@
+{
+  "id": "wi-pewaukee-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "N27W23477 Paul Rd",
+    "city": "Pewaukee",
+    "state": "WI",
+    "zip": "53072"
+  },
+  "location": {
+    "lat": 43.069332,
+    "lng": -88.214127
+  },
+  "contact": {
+    "phone": "(262) 347-0037",
+    "website": "https://www.siteone.com/store/13"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8bd25c91-8705-4725-9f95-7655f5eac252",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

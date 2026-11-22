@@ -1,0 +1,36 @@
+{
+  "id": "ma-westford-dr-mulch-landscape-supply",
+  "slug": "dr-mulch-landscape-supply",
+  "name": "Dr. Mulch Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "52 E Prescott St",
+    "city": "Westford",
+    "state": "MA",
+    "zip": "01886"
+  },
+  "location": {
+    "lat": 42.58527,
+    "lng": -71.481804
+  },
+  "contact": {
+    "phone": "(978) 692-6830",
+    "website": "http://www.drmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "daa832be-bae4-4342-ae84-1ba1412abd11",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

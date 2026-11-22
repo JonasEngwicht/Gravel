@@ -1,0 +1,36 @@
+{
+  "id": "wi-mt-horeb-t-and-j-landscaping-supply-l-l-c",
+  "slug": "t-and-j-landscaping-supply-l-l-c",
+  "name": "T and J Landscaping Supply, L.L.C.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10288 Co Rd ID",
+    "city": "Mt Horeb",
+    "state": "WI",
+    "zip": "53572"
+  },
+  "location": {
+    "lat": 43.007721,
+    "lng": -89.78083
+  },
+  "contact": {
+    "phone": "(608) 437-4814",
+    "website": "http://tandjlandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d291a292-f8d1-4f98-b940-b32efee78b44",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

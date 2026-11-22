@@ -1,0 +1,36 @@
+{
+  "id": "mi-waldron-hillsdale-sand-and-gravel",
+  "slug": "hillsdale-sand-and-gravel",
+  "name": "Hillsdale Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11671 Tripp Rd",
+    "city": "Waldron",
+    "state": "MI",
+    "zip": "49288"
+  },
+  "location": {
+    "lat": 41.759396,
+    "lng": -84.513596
+  },
+  "contact": {
+    "phone": "(517) 567-4406",
+    "website": "https://gerkencompanies.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0de9851-0400-4c17-b3b5-97fb9b610f4f",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ks-shawnee-holliday-sand-and-gravel",
+  "slug": "holliday-sand-and-gravel",
+  "name": "Holliday Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "25355 W 43rd St",
+    "city": "Shawnee",
+    "state": "KS",
+    "zip": "66226"
+  },
+  "location": {
+    "lat": 39.050537,
+    "lng": -94.879097
+  },
+  "contact": {
+    "phone": "(913) 422-3095",
+    "website": "http://hollidaysand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e54dd363-b1ce-4b4e-82f3-455eb2cb5ad6",
+    "confidence": 0.938,
+    "merged_records": 1
+  }
+}

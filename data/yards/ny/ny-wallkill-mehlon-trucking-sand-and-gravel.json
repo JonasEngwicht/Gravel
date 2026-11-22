@@ -1,0 +1,35 @@
+{
+  "id": "ny-wallkill-mehlon-trucking-sand-and-gravel",
+  "slug": "mehlon-trucking-sand-and-gravel",
+  "name": "Mehlon Trucking Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "320 Orchard Dr",
+    "city": "Wallkill",
+    "state": "NY",
+    "zip": "12589"
+  },
+  "location": {
+    "lat": 41.621105,
+    "lng": -74.125137
+  },
+  "contact": {
+    "phone": "(845) 895-2700"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97ad1b97-51bf-4c5e-b926-39c370843565",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

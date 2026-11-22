@@ -1,0 +1,36 @@
+{
+  "id": "ma-rockland-south-shore-landscape-supply",
+  "slug": "south-shore-landscape-supply",
+  "name": "South Shore Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "171 VFW Dr",
+    "city": "Rockland",
+    "state": "MA",
+    "zip": "02370"
+  },
+  "location": {
+    "lat": 42.146996,
+    "lng": -70.917145
+  },
+  "contact": {
+    "phone": "(781) 878-7000",
+    "website": "http://www.sslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83bb59b7-95e0-4d3d-b7be-b1b37f5f619a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

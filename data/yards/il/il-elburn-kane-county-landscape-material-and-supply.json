@@ -1,0 +1,36 @@
+{
+  "id": "il-elburn-kane-county-landscape-material-and-supply",
+  "slug": "kane-county-landscape-material-and-supply",
+  "name": "Kane County Landscape Material and Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "817 IL Route 38",
+    "city": "Elburn",
+    "state": "IL",
+    "zip": "60119"
+  },
+  "location": {
+    "lat": 41.90424,
+    "lng": -88.458366
+  },
+  "contact": {
+    "phone": "(630) 365-8888",
+    "website": "http://www.kclandmat.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "23d6f015-d827-4cf4-9fd6-329163fd36cd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

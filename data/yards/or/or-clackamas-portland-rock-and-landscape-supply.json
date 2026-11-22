@@ -1,0 +1,36 @@
+{
+  "id": "or-clackamas-portland-rock-and-landscape-supply",
+  "slug": "portland-rock-and-landscape-supply",
+  "name": "Portland Rock & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15180 SE 82nd Dr",
+    "city": "Clackamas",
+    "state": "OR",
+    "zip": "97015"
+  },
+  "location": {
+    "lat": 45.412888,
+    "lng": -122.567986
+  },
+  "contact": {
+    "phone": "(503) 656-7625",
+    "website": "http://www.portlandrock.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "38624654-ef7d-4ce3-83e3-6dcb67d2c01f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

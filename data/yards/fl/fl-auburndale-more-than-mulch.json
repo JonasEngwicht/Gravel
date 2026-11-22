@@ -1,0 +1,35 @@
+{
+  "id": "fl-auburndale-more-than-mulch",
+  "slug": "more-than-mulch",
+  "name": "More Than Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "515 Pine St",
+    "city": "Auburndale",
+    "state": "FL",
+    "zip": "33823"
+  },
+  "location": {
+    "lat": 28.057562,
+    "lng": -81.790581
+  },
+  "contact": {
+    "phone": "(863) 430-8377"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a62f63f7-4a46-4534-85e6-647e5769e677",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

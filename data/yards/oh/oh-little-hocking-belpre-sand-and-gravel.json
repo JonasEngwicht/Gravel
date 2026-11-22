@@ -1,0 +1,48 @@
+{
+  "id": "oh-little-hocking-belpre-sand-and-gravel",
+  "slug": "belpre-sand-and-gravel",
+  "name": "Belpre Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "320 Cemetery Rd",
+    "city": "Little Hocking",
+    "state": "OH",
+    "zip": "45742"
+  },
+  "location": {
+    "lat": 39.231907,
+    "lng": -81.697334
+  },
+  "contact": {
+    "phone": "(740) 989-2290",
+    "website": "http://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83492bf0-9d61-44d3-a8c4-27a25c110052",
+    "confidence": 0.925,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3304473",
+      "name": "Belpre Sand & Gravel",
+      "operator": "Belpre Sand & Gravel Co.",
+      "status": "Active",
+      "status_since": "2025-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "or-tigard-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "10600 SW Cascade Ave",
+    "city": "Tigard",
+    "state": "OR",
+    "zip": "97223"
+  },
+  "location": {
+    "lat": 45.443497,
+    "lng": -122.780449
+  },
+  "contact": {
+    "phone": "(503) 684-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9154e52d-1e00-48d9-b57f-ba767033619d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

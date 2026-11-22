@@ -1,0 +1,36 @@
+{
+  "id": "nc-waynesville-ferguson-mulch",
+  "slug": "ferguson-mulch",
+  "name": "Ferguson Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "17835 Great Smoky Mountains Expy",
+    "city": "Waynesville",
+    "state": "NC",
+    "zip": "28786"
+  },
+  "location": {
+    "lat": 35.458359,
+    "lng": -83.027122
+  },
+  "contact": {
+    "phone": "(828) 400-1967",
+    "website": "https://www.fergusonmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0468742e-26de-440f-a5a9-a1d73fe00ba8",
+    "confidence": 0.805,
+    "merged_records": 1
+  }
+}

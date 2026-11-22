@@ -1,0 +1,36 @@
+{
+  "id": "ga-atlanta-atlanta-gravel",
+  "slug": "atlanta-gravel",
+  "name": "Atlanta Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2849 Meadowview Dr SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30316"
+  },
+  "location": {
+    "lat": 33.703506,
+    "lng": -84.305428
+  },
+  "contact": {
+    "phone": "(678) 585-6266",
+    "website": "https://atlantagravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "312508af-8249-4094-a145-ceb27718d5c3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

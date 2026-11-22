@@ -1,0 +1,36 @@
+{
+  "id": "wa-lynnwood-northwest-landscape-supply",
+  "slug": "northwest-landscape-supply",
+  "name": "Northwest Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6619 212th St SW",
+    "city": "Lynnwood",
+    "state": "WA",
+    "zip": "98036"
+  },
+  "location": {
+    "lat": 47.806995,
+    "lng": -122.322884
+  },
+  "contact": {
+    "phone": "(425) 712-5252",
+    "website": "https://nwlandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dce92169-c6f7-4dea-8331-9f3ec7edae7d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

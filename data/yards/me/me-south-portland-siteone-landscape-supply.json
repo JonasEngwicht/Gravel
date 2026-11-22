@@ -1,0 +1,37 @@
+{
+  "id": "me-south-portland-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "76 City Line Dr",
+    "city": "South Portland",
+    "state": "ME",
+    "zip": "04102"
+  },
+  "location": {
+    "lat": 43.648335,
+    "lng": -70.322426
+  },
+  "contact": {
+    "phone": "(207) 772-7173",
+    "website": "https://www.siteone.com/store/627"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89c4a896-627a-40d6-838e-aa41b40e1dc2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

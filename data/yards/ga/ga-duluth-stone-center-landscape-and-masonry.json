@@ -1,0 +1,36 @@
+{
+  "id": "ga-duluth-stone-center-landscape-and-masonry",
+  "slug": "stone-center-landscape-and-masonry",
+  "name": "Stone Center | Landscape & Masonry",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2560 Satellite Blvd",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30096"
+  },
+  "location": {
+    "lat": 33.969841,
+    "lng": -84.096001
+  },
+  "contact": {
+    "phone": "(770) 381-5578",
+    "website": "https://thestonecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "57531422-535b-4985-ae7e-bd5b330180e4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

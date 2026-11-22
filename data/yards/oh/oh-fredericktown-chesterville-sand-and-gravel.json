@@ -1,0 +1,47 @@
+{
+  "id": "oh-fredericktown-chesterville-sand-and-gravel",
+  "slug": "chesterville-sand-and-gravel",
+  "name": "Chesterville Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7250 OH-95",
+    "city": "Fredericktown",
+    "state": "OH",
+    "zip": "43019"
+  },
+  "location": {
+    "lat": 40.472679,
+    "lng": -82.662033
+  },
+  "contact": {
+    "phone": "(419) 768-3369"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c731463a-97cc-47c4-aff6-9d53901508b0",
+    "confidence": 0.549,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301429",
+      "name": "Chesterville Sand & Gravel Plant",
+      "operator": "The National Lime & Stone Company",
+      "status": "Active",
+      "status_since": "2024-12-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

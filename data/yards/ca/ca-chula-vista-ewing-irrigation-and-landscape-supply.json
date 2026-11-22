@@ -1,0 +1,37 @@
+{
+  "id": "ca-chula-vista-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "591 C St Ste B",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910"
+  },
+  "location": {
+    "lat": 32.648468,
+    "lng": -117.095512
+  },
+  "contact": {
+    "phone": "(619) 426-5200",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9bd14244-953f-40d3-ae48-d37dfbabdb50",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

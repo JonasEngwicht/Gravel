@@ -1,0 +1,36 @@
+{
+  "id": "ct-brooklyn-lyon-and-co-pond-view-landscape-supply",
+  "slug": "lyon-and-co-pond-view-landscape-supply",
+  "name": "Lyon and Co. - Pond View Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "372 Providence Rd",
+    "city": "Brooklyn",
+    "state": "CT",
+    "zip": "06234"
+  },
+  "location": {
+    "lat": 41.796539,
+    "lng": -71.918373
+  },
+  "contact": {
+    "phone": "(860) 774-0422",
+    "website": "http://www.lyonandcompany.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8bf2fe1-25e4-44c0-aa28-41caa698cbe9",
+    "confidence": 0.529,
+    "merged_records": 1
+  }
+}

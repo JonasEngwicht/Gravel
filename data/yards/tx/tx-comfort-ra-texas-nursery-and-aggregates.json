@@ -1,0 +1,36 @@
+{
+  "id": "tx-comfort-ra-texas-nursery-and-aggregates",
+  "slug": "ra-texas-nursery-and-aggregates",
+  "name": "RA Texas Nursery and Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7373 TX-27",
+    "city": "Comfort",
+    "state": "TX",
+    "zip": "78013"
+  },
+  "location": {
+    "lat": 29.958384,
+    "lng": -98.922234
+  },
+  "contact": {
+    "phone": "(830) 995-3087",
+    "website": "http://www.ranursery.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6566f843-3065-49f1-a50e-dd397f63691c",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

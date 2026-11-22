@@ -1,0 +1,35 @@
+{
+  "id": "ms-hattiesburg-hover-gravel-co",
+  "slug": "hover-gravel-co",
+  "name": "Hover Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "42 Archie Hover Dr",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39402"
+  },
+  "location": {
+    "lat": 31.321138,
+    "lng": -89.403946
+  },
+  "contact": {
+    "phone": "(601) 264-8727"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f7d5bbb-aefe-4198-8504-80e0a62b2829",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

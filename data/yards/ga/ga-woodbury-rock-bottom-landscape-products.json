@@ -1,0 +1,36 @@
+{
+  "id": "ga-woodbury-rock-bottom-landscape-products",
+  "slug": "rock-bottom-landscape-products",
+  "name": "Rock Bottom Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "821 Old Woodbury Hwy",
+    "city": "Woodbury",
+    "state": "GA",
+    "zip": "30293"
+  },
+  "location": {
+    "lat": 32.972191,
+    "lng": -84.587753
+  },
+  "contact": {
+    "phone": "(706) 553-9000",
+    "website": "http://www.rockbottomscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "00ae1241-a0dd-494a-9f52-de2ae72a457d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

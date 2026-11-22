@@ -1,0 +1,36 @@
+{
+  "id": "md-mechanicsville-r-l-earnshaw-topsoil-and-stone",
+  "slug": "r-l-earnshaw-topsoil-and-stone",
+  "name": "R.L Earnshaw Topsoil and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "26760 Earnshaw Way",
+    "city": "Mechanicsville",
+    "state": "MD",
+    "zip": "20659"
+  },
+  "location": {
+    "lat": 38.402309,
+    "lng": -76.716812
+  },
+  "contact": {
+    "phone": "(301) 884-4632",
+    "website": "http://www.rlearnshaw.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca0a3384-6154-4dbf-9fc7-9e00d5e8d72c",
+    "confidence": 0.717,
+    "merged_records": 1
+  }
+}

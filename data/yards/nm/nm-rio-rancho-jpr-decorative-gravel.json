@@ -1,0 +1,36 @@
+{
+  "id": "nm-rio-rancho-jpr-decorative-gravel",
+  "slug": "jpr-decorative-gravel",
+  "name": "JPR Decorative Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "204 Industrial Park Loop NE",
+    "city": "Rio Rancho",
+    "state": "NM",
+    "zip": "87124"
+  },
+  "location": {
+    "lat": 35.261124,
+    "lng": -106.63063
+  },
+  "contact": {
+    "phone": "(505) 892-8869",
+    "website": "http://www.jprgravelnm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db1376f5-5e76-41ec-adbc-822bbb88a8a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

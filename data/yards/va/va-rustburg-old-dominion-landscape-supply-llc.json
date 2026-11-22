@@ -1,0 +1,36 @@
+{
+  "id": "va-rustburg-old-dominion-landscape-supply-llc",
+  "slug": "old-dominion-landscape-supply-llc",
+  "name": "Old Dominion Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10114 Wards Rd",
+    "city": "Rustburg",
+    "state": "VA",
+    "zip": "24588"
+  },
+  "location": {
+    "lat": 37.26899,
+    "lng": -79.176712
+  },
+  "contact": {
+    "phone": "(434) 821-5012",
+    "website": "http://www.gottrust.org/olddominionlandscape"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2469f4d9-7c43-48f1-aa0b-6b59370d82f3",
+    "confidence": 0.518,
+    "merged_records": 1
+  }
+}

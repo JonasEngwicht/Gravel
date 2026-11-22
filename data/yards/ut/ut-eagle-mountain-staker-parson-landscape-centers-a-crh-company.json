@@ -1,0 +1,48 @@
+{
+  "id": "ut-eagle-mountain-staker-parson-landscape-centers-a-crh-company",
+  "slug": "staker-parson-landscape-centers-a-crh-company",
+  "name": "Staker Parson Landscape Centers, A CRH Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12800 Highway 73",
+    "city": "Eagle Mountain",
+    "state": "UT",
+    "zip": "84005"
+  },
+  "location": {
+    "lat": 40.384514,
+    "lng": -111.964134
+  },
+  "contact": {
+    "phone": "(385) 214-0520",
+    "website": "https://stakerparson.com/companies/staker-parson-landscape-centers/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75c61043-5465-4b00-a9ba-6a470fde0d77",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4201978",
+      "name": "Lehi Peck",
+      "operator": "Staker & Parson Companies",
+      "status": "Active",
+      "status_since": "2020-07-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

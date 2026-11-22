@@ -1,0 +1,36 @@
+{
+  "id": "ca-lake-elsinore-pacific-aggregates-28251-lake-st",
+  "slug": "pacific-aggregates-28251-lake-st",
+  "name": "Pacific Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "28251 Lake St",
+    "city": "Lake-Elsinore",
+    "state": "CA",
+    "zip": "92530"
+  },
+  "location": {
+    "lat": 33.710609,
+    "lng": -117.385719
+  },
+  "contact": {
+    "phone": "(951) 226-0667",
+    "website": "https://www.pacificaggregatesca.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7cc44dca-8cda-4080-bcae-f448b4188e69",
+    "confidence": 0.943,
+    "merged_records": 1
+  }
+}

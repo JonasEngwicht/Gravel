@@ -1,0 +1,37 @@
+{
+  "id": "fl-kissimmee-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "485 E Donegan Ave",
+    "city": "Kissimmee",
+    "state": "FL",
+    "zip": "34744"
+  },
+  "location": {
+    "lat": 28.319736,
+    "lng": -81.400452
+  },
+  "contact": {
+    "phone": "(407) 944-1400",
+    "website": "https://www.siteone.com/store/10"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0123a3d-d220-47f0-a936-48858e9efe78",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

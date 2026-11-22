@@ -1,0 +1,32 @@
+{
+  "id": "mt-great-falls-volk-sand-and-gravel-inc",
+  "slug": "volk-sand-and-gravel-inc",
+  "name": "Volk Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1505 14th St Sw  Unit 1",
+    "city": "Great Falls",
+    "state": "MT",
+    "zip": "59404"
+  },
+  "location": {
+    "lat": 47.488754,
+    "lng": -111.33754
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2dcb3b1a-d1aa-49b5-8f58-0c7fc72a60a3",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

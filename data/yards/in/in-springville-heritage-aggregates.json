@@ -1,0 +1,48 @@
+{
+  "id": "in-springville-heritage-aggregates",
+  "slug": "heritage-aggregates",
+  "name": "Heritage Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1997 State Road 58 W",
+    "city": "Springville",
+    "state": "IN",
+    "zip": "47462"
+  },
+  "location": {
+    "lat": 38.916435,
+    "lng": -86.648712
+  },
+  "contact": {
+    "phone": "(812) 863-2436",
+    "website": "http://usagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b2af105a-0eee-4505-923d-4dfbbe39ab36",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202429",
+      "name": "US Aggregates-Springville Plant",
+      "operator": "US Aggregates LLC",
+      "status": "Active",
+      "status_since": "2021-06-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

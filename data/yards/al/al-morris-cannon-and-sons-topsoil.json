@@ -1,0 +1,35 @@
+{
+  "id": "al-morris-cannon-and-sons-topsoil",
+  "slug": "cannon-and-sons-topsoil",
+  "name": "Cannon & Sons Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "738 Cannon Dr",
+    "city": "Morris",
+    "state": "AL",
+    "zip": "35116"
+  },
+  "location": {
+    "lat": 33.751637,
+    "lng": -86.807304
+  },
+  "contact": {
+    "phone": "(205) 647-1030"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "56433aeb-c506-4584-9eef-4685d1c4e605",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

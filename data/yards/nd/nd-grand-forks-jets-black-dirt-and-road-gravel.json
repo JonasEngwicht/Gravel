@@ -1,0 +1,36 @@
+{
+  "id": "nd-grand-forks-jets-black-dirt-and-road-gravel",
+  "slug": "jets-black-dirt-and-road-gravel",
+  "name": "JETS Black Dirt & Road Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1390 S 83rd St",
+    "city": "Grand Forks",
+    "state": "ND",
+    "zip": "58201"
+  },
+  "location": {
+    "lat": 47.907818,
+    "lng": -97.153641
+  },
+  "contact": {
+    "phone": "(701) 775-2825",
+    "website": "http://rxdoc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "457a4da2-caa9-4b57-89ad-64ef5c5c988f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

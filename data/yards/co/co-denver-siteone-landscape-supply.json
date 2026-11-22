@@ -1,0 +1,37 @@
+{
+  "id": "co-denver-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4880 Geneva St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80238"
+  },
+  "location": {
+    "lat": 39.785828,
+    "lng": -104.868889
+  },
+  "contact": {
+    "phone": "(303) 872-4549",
+    "website": "https://www.siteone.com/store/385"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "162da49d-4f06-42dd-acc4-ed123af2a0e0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

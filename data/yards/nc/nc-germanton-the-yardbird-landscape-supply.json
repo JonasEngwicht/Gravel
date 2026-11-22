@@ -1,0 +1,35 @@
+{
+  "id": "nc-germanton-the-yardbird-landscape-supply",
+  "slug": "the-yardbird-landscape-supply",
+  "name": "The Yardbird Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3386 NC-65",
+    "city": "Germanton",
+    "state": "NC",
+    "zip": "27019"
+  },
+  "location": {
+    "lat": 36.26553,
+    "lng": -80.226692
+  },
+  "contact": {
+    "phone": "(336) 536-1039"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b57437a-fb96-49d1-ac75-d219ef3564d6",
+    "confidence": 0.552,
+    "merged_records": 1
+  }
+}

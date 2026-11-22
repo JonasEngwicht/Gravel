@@ -1,0 +1,35 @@
+{
+  "id": "il-south-chicago-heights-la-monarca-landscaping-supply",
+  "slug": "la-monarca-landscaping-supply",
+  "name": "La Monarca Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3100 State St",
+    "city": "South Chicago Heights",
+    "state": "IL",
+    "zip": "60411"
+  },
+  "location": {
+    "lat": 41.482414,
+    "lng": -87.616615
+  },
+  "contact": {
+    "phone": "(708) 300-2279"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdec10d9-d750-4a79-84e5-2654fbf70259",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

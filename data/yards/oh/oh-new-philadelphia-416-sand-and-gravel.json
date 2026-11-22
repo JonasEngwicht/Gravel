@@ -1,0 +1,35 @@
+{
+  "id": "oh-new-philadelphia-416-sand-and-gravel",
+  "slug": "416-sand-and-gravel",
+  "name": "416 Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "764 State Route 416 SE",
+    "city": "New Philadelphia",
+    "state": "OH",
+    "zip": "44663"
+  },
+  "location": {
+    "lat": 40.464024,
+    "lng": -81.43692
+  },
+  "contact": {
+    "phone": "(330) 339-4313"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b7064e86-4b7c-4f58-b607-c56a95c3926b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

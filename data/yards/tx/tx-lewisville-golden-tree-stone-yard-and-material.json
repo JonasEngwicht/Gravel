@@ -1,0 +1,35 @@
+{
+  "id": "tx-lewisville-golden-tree-stone-yard-and-material",
+  "slug": "golden-tree-stone-yard-and-material",
+  "name": "Golden Tree Stone Yard and Material",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1080 E State Highway 121",
+    "city": "Lewisville",
+    "state": "TX",
+    "zip": "75057"
+  },
+  "location": {
+    "lat": 33.043869,
+    "lng": -96.970383
+  },
+  "contact": {
+    "phone": "(972) 416-1799"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac93254a-f05c-4107-bb96-a792dee0dc43",
+    "confidence": 0.956,
+    "merged_records": 1
+  }
+}

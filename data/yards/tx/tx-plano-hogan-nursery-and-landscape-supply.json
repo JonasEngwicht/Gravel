@@ -1,0 +1,35 @@
+{
+  "id": "tx-plano-hogan-nursery-and-landscape-supply",
+  "slug": "hogan-nursery-and-landscape-supply",
+  "name": "Hogan Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3104 S Rigsbee Dr",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074"
+  },
+  "location": {
+    "lat": 33.014553,
+    "lng": -96.672722
+  },
+  "contact": {
+    "phone": "(972) 424-4662"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aab613d7-96a0-4859-89b9-25e277ba64b2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

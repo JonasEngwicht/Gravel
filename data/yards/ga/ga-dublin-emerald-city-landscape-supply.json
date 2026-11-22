@@ -1,0 +1,35 @@
+{
+  "id": "ga-dublin-emerald-city-landscape-supply",
+  "slug": "emerald-city-landscape-supply",
+  "name": "Emerald City Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1816 Telfair St",
+    "city": "Dublin",
+    "state": "GA",
+    "zip": "31021"
+  },
+  "location": {
+    "lat": 32.517452,
+    "lng": -82.921982
+  },
+  "contact": {
+    "phone": "(478) 595-1096"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55a71ab4-2a1f-4c73-af0f-8b0f400ef520",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

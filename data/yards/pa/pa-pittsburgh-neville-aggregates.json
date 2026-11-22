@@ -1,0 +1,35 @@
+{
+  "id": "pa-pittsburgh-neville-aggregates",
+  "slug": "neville-aggregates",
+  "name": "Neville Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "35 Vespucius St",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15207"
+  },
+  "location": {
+    "lat": 40.399586,
+    "lng": -79.942001
+  },
+  "contact": {
+    "phone": "(412) 771-4001"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b2cf9ff-ded4-4a2d-941f-85c922a4be54",
+    "confidence": 0.6,
+    "merged_records": 1
+  }
+}

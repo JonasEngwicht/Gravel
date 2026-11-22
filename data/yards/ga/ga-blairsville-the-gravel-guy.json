@@ -1,0 +1,36 @@
+{
+  "id": "ga-blairsville-the-gravel-guy",
+  "slug": "the-gravel-guy",
+  "name": "The Gravel Guy",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "204 Andy Bear Holw",
+    "city": "Blairsville",
+    "state": "GA",
+    "zip": "30512"
+  },
+  "location": {
+    "lat": 34.900219,
+    "lng": -83.872185
+  },
+  "contact": {
+    "phone": "(404) 964-3283",
+    "website": "https://gravelguyga.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a70f773-7d8d-4eb1-8d04-bc825de495df",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

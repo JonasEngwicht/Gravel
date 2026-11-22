@@ -1,0 +1,36 @@
+{
+  "id": "ca-lemoore-stoney-s-sand-and-gravel",
+  "slug": "stoney-s-sand-and-gravel",
+  "name": "Stoney's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9181 CA-41",
+    "city": "Lemoore",
+    "state": "CA",
+    "zip": "93245"
+  },
+  "location": {
+    "lat": 36.338898,
+    "lng": -119.807701
+  },
+  "contact": {
+    "phone": "(559) 924-9229",
+    "website": "http://www.stoneysllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8dae7c3a-a5ed-43b6-8db8-2f7e8f7c97d2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

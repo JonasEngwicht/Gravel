@@ -1,0 +1,36 @@
+{
+  "id": "il-rockford-cherry-valley-landscape-center",
+  "slug": "cherry-valley-landscape-center",
+  "name": "Cherry Valley Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7711 Newburg Rd",
+    "city": "Rockford",
+    "state": "IL",
+    "zip": "61108"
+  },
+  "location": {
+    "lat": 42.252697,
+    "lng": -88.966553
+  },
+  "contact": {
+    "phone": "(815) 977-5268",
+    "website": "https://www.cherryvalleylandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c76f3d66-7def-44d8-a418-5a6a1b803540",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

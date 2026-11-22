@@ -1,0 +1,36 @@
+{
+  "id": "wa-sedro-woolley-north-cross-landscape-materials",
+  "slug": "north-cross-landscape-materials",
+  "name": "North Cross Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "31698 State Route 20",
+    "city": "Sedro-Woolley",
+    "state": "WA",
+    "zip": "98284"
+  },
+  "location": {
+    "lat": 48.52927,
+    "lng": -122.056007
+  },
+  "contact": {
+    "phone": "(360) 826-5440",
+    "website": "https://www.northcrosslandscapematerials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "756a5230-2b27-4b21-9a33-8d7f5e575bf4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nj-roxbury-meier-stone-mason-and-landscape-supply",
+  "slug": "meier-stone-mason-and-landscape-supply",
+  "name": "Meier Stone Mason and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2 Gold Mine Rd",
+    "city": "Roxbury",
+    "state": "NJ",
+    "zip": "07836"
+  },
+  "location": {
+    "lat": 40.881287,
+    "lng": -74.695892
+  },
+  "contact": {
+    "phone": "(973) 347-1800",
+    "website": "http://www.meierstonecompany.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e989a386-7603-4f30-9f35-0d8b13f3c3ce",
+    "confidence": 0.964,
+    "merged_records": 1
+  }
+}

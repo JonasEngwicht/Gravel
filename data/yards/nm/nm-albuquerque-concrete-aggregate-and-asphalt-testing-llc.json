@@ -1,0 +1,36 @@
+{
+  "id": "nm-albuquerque-concrete-aggregate-and-asphalt-testing-llc",
+  "slug": "concrete-aggregate-and-asphalt-testing-llc",
+  "name": "Concrete, Aggregate And Asphalt Testing, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9430 San Mateo Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87113"
+  },
+  "location": {
+    "lat": 35.194004,
+    "lng": -106.585579
+  },
+  "contact": {
+    "phone": "(505) 718-3030",
+    "website": "https://ca2testing.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9cc7faa2-65c9-4c6f-af54-db3a455436a8",
+    "confidence": 0.861,
+    "merged_records": 1
+  }
+}

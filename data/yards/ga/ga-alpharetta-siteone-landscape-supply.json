@@ -1,0 +1,37 @@
+{
+  "id": "ga-alpharetta-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5610 McGinnis Ferry Rd",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30005"
+  },
+  "location": {
+    "lat": 34.089905,
+    "lng": -84.196556
+  },
+  "contact": {
+    "phone": "(770) 442-8881",
+    "website": "https://www.siteone.com/en/store/172"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "73d6d0c5-8f7b-44e3-bffb-db838ac398c5",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

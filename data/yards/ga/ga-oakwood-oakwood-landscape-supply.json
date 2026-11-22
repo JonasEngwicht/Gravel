@@ -1,0 +1,36 @@
+{
+  "id": "ga-oakwood-oakwood-landscape-supply",
+  "slug": "oakwood-landscape-supply",
+  "name": "Oakwood Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4283 McBrayer Rd",
+    "city": "Oakwood",
+    "state": "GA",
+    "zip": "30566"
+  },
+  "location": {
+    "lat": 34.21373,
+    "lng": -83.903183
+  },
+  "contact": {
+    "phone": "(678) 677-5608",
+    "website": "http://oakwoodlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3633d34-b91d-45ae-8c5d-0cbd29709245",
+    "confidence": 0.529,
+    "merged_records": 1
+  }
+}

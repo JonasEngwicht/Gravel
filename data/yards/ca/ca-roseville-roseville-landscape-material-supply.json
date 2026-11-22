@@ -1,0 +1,36 @@
+{
+  "id": "ca-roseville-roseville-landscape-material-supply",
+  "slug": "roseville-landscape-material-supply",
+  "name": "Roseville Landscape Material Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1801 PFE Rd",
+    "city": "Roseville",
+    "state": "CA",
+    "zip": "95747"
+  },
+  "location": {
+    "lat": 38.728973,
+    "lng": -121.315712
+  },
+  "contact": {
+    "phone": "(916) 783-9177",
+    "website": "https://www.rosevillestonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d872c050-1114-4080-8f00-ec7d3ba44cea",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

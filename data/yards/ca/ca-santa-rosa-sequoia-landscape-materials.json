@@ -1,0 +1,36 @@
+{
+  "id": "ca-santa-rosa-sequoia-landscape-materials",
+  "slug": "sequoia-landscape-materials",
+  "name": "Sequoia Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1330 King St",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95404"
+  },
+  "location": {
+    "lat": 38.452896,
+    "lng": -122.710503
+  },
+  "contact": {
+    "phone": "(707) 527-5512",
+    "website": "http://www.sequoiascape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de9e93fa-71ff-4d9c-9ecc-5dd42a22a15d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mo-fenton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2000 Mraz Ln",
+    "city": "Fenton",
+    "state": "MO",
+    "zip": "63026"
+  },
+  "location": {
+    "lat": 38.544491,
+    "lng": -90.453499
+  },
+  "contact": {
+    "phone": "(636) 349-8088",
+    "website": "https://www.siteone.com/en/store/476"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c0a2b7a9-22b0-4f94-97ba-5da32f0683ae",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

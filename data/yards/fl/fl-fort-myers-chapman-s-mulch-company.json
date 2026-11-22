@@ -1,0 +1,35 @@
+{
+  "id": "fl-fort-myers-chapman-s-mulch-company",
+  "slug": "chapman-s-mulch-company",
+  "name": "Chapman's Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "15625 Pine Ridge Rd",
+    "city": "Fort Myers",
+    "state": "FL",
+    "zip": "33908"
+  },
+  "location": {
+    "lat": 26.514057,
+    "lng": -81.935699
+  },
+  "contact": {
+    "phone": "(239) 466-0700"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44e5712e-a17a-49a5-8991-406280407fc7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

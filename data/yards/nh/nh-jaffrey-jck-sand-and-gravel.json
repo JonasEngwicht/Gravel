@@ -1,0 +1,35 @@
+{
+  "id": "nh-jaffrey-jck-sand-and-gravel",
+  "slug": "jck-sand-and-gravel",
+  "name": "JCK Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10 Maria Dr",
+    "city": "Jaffrey",
+    "state": "NH",
+    "zip": "03452"
+  },
+  "location": {
+    "lat": 42.81424,
+    "lng": -71.985748
+  },
+  "contact": {
+    "phone": "(603) 532-5800"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fde618a5-93e2-4428-83de-e82e3cfd3d51",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

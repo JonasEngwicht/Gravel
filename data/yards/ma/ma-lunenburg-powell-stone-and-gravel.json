@@ -1,0 +1,48 @@
+{
+  "id": "ma-lunenburg-powell-stone-and-gravel",
+  "slug": "powell-stone-and-gravel",
+  "name": "Powell Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "133 Leominster Shirley Rd",
+    "city": "Lunenburg",
+    "state": "MA",
+    "zip": "01462"
+  },
+  "location": {
+    "lat": 42.537868,
+    "lng": -71.705452
+  },
+  "contact": {
+    "phone": "(978) 537-8100",
+    "website": "https://gofund.me/ee8ffb661"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a7fa738-117c-49d7-a460-148d4f90d463",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1901139",
+      "name": "McClosky Jaw",
+      "operator": "Powell Stone and Gravel",
+      "status": "Temporarily Idled",
+      "status_since": "2023-06-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

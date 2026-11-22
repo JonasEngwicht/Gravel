@@ -1,0 +1,36 @@
+{
+  "id": "va-yorktown-peninsula-hardwood-mulch",
+  "slug": "peninsula-hardwood-mulch",
+  "name": "Peninsula Hardwood Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "715 Lakeside Dr",
+    "city": "Yorktown",
+    "state": "VA",
+    "zip": "23692"
+  },
+  "location": {
+    "lat": 37.152615,
+    "lng": -76.451241
+  },
+  "contact": {
+    "phone": "(757) 898-3302",
+    "website": "http://www.vamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b567315c-8dfb-431c-b746-cd023e29a5ee",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

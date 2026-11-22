@@ -1,0 +1,36 @@
+{
+  "id": "tx-boyd-madison-stone-supply",
+  "slug": "madison-stone-supply",
+  "name": "Madison Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "194 PR-4583",
+    "city": "Boyd",
+    "state": "TX",
+    "zip": "76023"
+  },
+  "location": {
+    "lat": 33.074089,
+    "lng": -97.607864
+  },
+  "contact": {
+    "phone": "(817) 494-1868",
+    "website": "http://www.Madison-Stone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ecf7d161-48c6-49d9-9ecf-1ff2ae481d49",
+    "confidence": 0.723,
+    "merged_records": 1
+  }
+}

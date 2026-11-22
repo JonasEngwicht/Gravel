@@ -1,0 +1,36 @@
+{
+  "id": "nc-apex-triangle-landscape-supplies-apex",
+  "slug": "triangle-landscape-supplies-apex",
+  "name": "Triangle Landscape Supplies, Apex",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2010 Lufkin Rd",
+    "city": "Apex",
+    "state": "NC",
+    "zip": "27539"
+  },
+  "location": {
+    "lat": 35.721806,
+    "lng": -78.826683
+  },
+  "contact": {
+    "phone": "(919) 362-1700",
+    "website": "https://www.trianglelandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5e1c58e1-8dfa-44bc-ad72-b7528b3287a8",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

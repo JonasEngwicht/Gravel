@@ -1,0 +1,37 @@
+{
+  "id": "oh-englewood-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "220 Shaw Rd",
+    "city": "Englewood",
+    "state": "OH",
+    "zip": "45322"
+  },
+  "location": {
+    "lat": 39.90387,
+    "lng": -84.321922
+  },
+  "contact": {
+    "phone": "(937) 836-1998",
+    "website": "http://www.ohiomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b20eea4c-c469-4005-9a69-53c1fceacc72",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sc-greenville-southern-mulch",
+  "slug": "southern-mulch",
+  "name": "Southern Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "427 Independence Blvd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29615"
+  },
+  "location": {
+    "lat": 34.835651,
+    "lng": -82.295967
+  },
+  "contact": {
+    "phone": "(864) 297-8884",
+    "website": "http://www.southernmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "54dca5ba-32e8-499e-8ea8-d2223df01713",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

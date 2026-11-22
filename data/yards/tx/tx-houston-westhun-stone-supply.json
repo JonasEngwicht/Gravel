@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-westhun-stone-supply",
+  "slug": "westhun-stone-supply",
+  "name": "Westhun Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5885 W 34th St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77092"
+  },
+  "location": {
+    "lat": 29.819656,
+    "lng": -95.480873
+  },
+  "contact": {
+    "phone": "(303) 726-0236",
+    "website": "http://westhunstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0f90d0a-6e83-4b6b-8c42-6fed10c04f7c",
+    "confidence": 0.792,
+    "merged_records": 1
+  }
+}

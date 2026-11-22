@@ -1,0 +1,35 @@
+{
+  "id": "tx-frost-melton-benny-sand-and-gravel",
+  "slug": "melton-benny-sand-and-gravel",
+  "name": "Melton Benny Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10029 NW County Road 4350",
+    "city": "Frost",
+    "state": "TX",
+    "zip": "76641"
+  },
+  "location": {
+    "lat": 32.087955,
+    "lng": -96.82122
+  },
+  "contact": {
+    "phone": "(903) 682-4944"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db6f4c6d-2922-4b38-966d-47d4d04e3214",
+    "confidence": 0.507,
+    "merged_records": 1
+  }
+}

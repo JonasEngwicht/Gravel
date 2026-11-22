@@ -1,0 +1,36 @@
+{
+  "id": "sc-greer-the-mulch-mill",
+  "slug": "the-mulch-mill",
+  "name": "The Mulch Mill",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "92 Beeco Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29650"
+  },
+  "location": {
+    "lat": 34.928936,
+    "lng": -82.259766
+  },
+  "contact": {
+    "phone": "(864) 915-5399",
+    "website": "http://www.themulchmill.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d094a6f-3066-45a6-b4ce-62eabedf6b20",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

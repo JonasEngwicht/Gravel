@@ -1,0 +1,37 @@
+{
+  "id": "ca-santa-clarita-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "27772 Avenue Scott",
+    "city": "Santa Clarita",
+    "state": "CA",
+    "zip": "91355"
+  },
+  "location": {
+    "lat": 34.436035,
+    "lng": -118.573204
+  },
+  "contact": {
+    "phone": "(661) 542-8200",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b60740a-3ec9-4420-b8dd-07d694ca3de8",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

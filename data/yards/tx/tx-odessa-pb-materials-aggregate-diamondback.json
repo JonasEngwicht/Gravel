@@ -1,0 +1,36 @@
+{
+  "id": "tx-odessa-pb-materials-aggregate-diamondback",
+  "slug": "pb-materials-aggregate-diamondback",
+  "name": "PB Materials Aggregate - Diamondback",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2301 FM 866",
+    "city": "Odessa",
+    "state": "TX",
+    "zip": "79763"
+  },
+  "location": {
+    "lat": 31.82445,
+    "lng": -102.561844
+  },
+  "contact": {
+    "phone": "(432) 248-5861",
+    "website": "https://pb-materials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "589215d9-cb75-4976-96c9-738e01bfd07a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

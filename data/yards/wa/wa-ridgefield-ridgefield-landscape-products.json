@@ -1,0 +1,36 @@
+{
+  "id": "wa-ridgefield-ridgefield-landscape-products",
+  "slug": "ridgefield-landscape-products",
+  "name": "Ridgefield Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "30505 NW 31st Ave",
+    "city": "Ridgefield",
+    "state": "WA",
+    "zip": "98642"
+  },
+  "location": {
+    "lat": 45.842972,
+    "lng": -122.700813
+  },
+  "contact": {
+    "phone": "(360) 857-8945",
+    "website": "http://www.ridgefieldlandscapeproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc472963-d668-445a-99f4-ac8408643b30",
+    "confidence": 0.976,
+    "merged_records": 1
+  }
+}

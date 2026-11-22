@@ -1,0 +1,37 @@
+{
+  "id": "al-daphne-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "26264 Public Works Rd",
+    "city": "Daphne",
+    "state": "AL",
+    "zip": "36526"
+  },
+  "location": {
+    "lat": 30.60774,
+    "lng": -87.872299
+  },
+  "contact": {
+    "phone": "(251) 626-8178",
+    "website": "https://www.siteone.com/en/store/664"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e37e5c45-8ab6-45b9-b038-c17dbb23085e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

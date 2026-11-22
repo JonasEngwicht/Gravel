@@ -1,0 +1,37 @@
+{
+  "id": "al-huntsville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "201 Dan Tibbs Rd NW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35806"
+  },
+  "location": {
+    "lat": 34.779091,
+    "lng": -86.661369
+  },
+  "contact": {
+    "phone": "(256) 721-0071",
+    "website": "https://www.siteone.com/en/store/107"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "69768991-a1b1-46d6-b4da-fd51a2fb1a85",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

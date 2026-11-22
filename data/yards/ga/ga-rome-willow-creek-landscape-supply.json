@@ -1,0 +1,36 @@
+{
+  "id": "ga-rome-willow-creek-landscape-supply",
+  "slug": "willow-creek-landscape-supply",
+  "name": "Willow Creek Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2415 Cedartown Hwy SE",
+    "city": "Rome",
+    "state": "GA",
+    "zip": "30161"
+  },
+  "location": {
+    "lat": 34.192005,
+    "lng": -85.201004
+  },
+  "contact": {
+    "phone": "(706) 235-4356",
+    "website": "http://www.willowcreeklandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "35b58ee3-0816-4ab1-81a9-3732d38bdf69",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wi-madison-tri-star-mulch",
+  "slug": "tri-star-mulch",
+  "name": "Tri-Star Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "826 North Ave",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53713"
+  },
+  "location": {
+    "lat": 43.045246,
+    "lng": -89.395752
+  },
+  "contact": {
+    "phone": "(608) 251-1659",
+    "website": "http://www.tri-starmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "69de8411-647c-4f7a-95c9-c5d673a2ecfe",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-columbus-flatrock-sand-and-gravel",
+  "slug": "flatrock-sand-and-gravel",
+  "name": "Flatrock Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "Warm Springs Rd",
+    "city": "Columbus",
+    "state": "GA",
+    "zip": "31909"
+  },
+  "location": {
+    "lat": 32.544617,
+    "lng": -84.89402
+  },
+  "contact": {
+    "phone": "(706) 568-1949",
+    "website": "https://www.flatrocksand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "150868cf-7376-4829-a61d-ad49b3c4422f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

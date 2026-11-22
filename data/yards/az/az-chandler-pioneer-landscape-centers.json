@@ -1,0 +1,37 @@
+{
+  "id": "az-chandler-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "11243 E Willis Rd",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85286"
+  },
+  "location": {
+    "lat": 33.283882,
+    "lng": -111.840851
+  },
+  "contact": {
+    "phone": "(480) 722-1800",
+    "website": "http://www.pioneersand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e04cc2e-ab85-4fd6-b639-3ee9a546e243",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

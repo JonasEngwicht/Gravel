@@ -1,0 +1,47 @@
+{
+  "id": "wi-wautoma-kelley-sand-and-gravel-inc",
+  "slug": "kelley-sand-and-gravel-inc",
+  "name": "Kelley Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "N2838 17th Dr",
+    "city": "Wautoma",
+    "state": "WI",
+    "zip": "54982"
+  },
+  "location": {
+    "lat": 44.080151,
+    "lng": -89.27626
+  },
+  "contact": {
+    "phone": "(920) 787-2230"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ab73d99-c963-4688-9ef6-94e32832e8c2",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4700869",
+      "name": "Kelley Wash Plant",
+      "operator": "Kelley Sand & Gravel, Inc.",
+      "status": "Abandoned",
+      "status_since": "2024-05-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

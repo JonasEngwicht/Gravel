@@ -1,0 +1,48 @@
+{
+  "id": "ny-mechanicville-troy-topsoil",
+  "slug": "troy-topsoil",
+  "name": "Troy Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "748 Hudson River Rd",
+    "city": "Mechanicville",
+    "state": "NY",
+    "zip": "12118"
+  },
+  "location": {
+    "lat": 42.851398,
+    "lng": -73.676437
+  },
+  "contact": {
+    "phone": "(518) 285-0928",
+    "website": "http://www.topsoildeliverymechanicville.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b49b7ee1-fe0f-41df-9447-e4872e0bb071",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3003296",
+      "name": "Washplant",
+      "operator": "Troy Topsoil And Aggregates Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-07-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

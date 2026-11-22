@@ -1,0 +1,35 @@
+{
+  "id": "mn-zimmerman-mulch-renew-inc",
+  "slug": "mulch-renew-inc",
+  "name": "Mulch Renew Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "26275 136th St NW",
+    "city": "Zimmerman",
+    "state": "MN",
+    "zip": "55398"
+  },
+  "location": {
+    "lat": 45.446972,
+    "lng": -93.61422
+  },
+  "contact": {
+    "phone": "(763) 238-7286"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d5265e7b-3559-40a3-8161-a72082d42cbe",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

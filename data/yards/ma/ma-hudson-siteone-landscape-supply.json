@@ -1,0 +1,37 @@
+{
+  "id": "ma-hudson-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "570 Main St",
+    "city": "Hudson",
+    "state": "MA",
+    "zip": "01749"
+  },
+  "location": {
+    "lat": 42.39397,
+    "lng": -71.504333
+  },
+  "contact": {
+    "phone": "(978) 562-6988",
+    "website": "https://www.siteone.com/en/store/630"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02b3270c-bc4b-462d-93d1-a3e034b014b5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ok-coweta-holliday-sand-and-gravel-co",
+  "slug": "holliday-sand-and-gravel-co",
+  "name": "Holliday Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "17402 S 305th East Ave",
+    "city": "Coweta",
+    "state": "OK",
+    "zip": "74429"
+  },
+  "location": {
+    "lat": 35.911282,
+    "lng": -95.636673
+  },
+  "contact": {
+    "phone": "(918) 486-1413",
+    "website": "http://www.hollidaysand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5e1efc8e-de68-423e-98b7-736b6fe6c46e",
+    "confidence": 0.902,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3401847",
+      "name": "Coweta West #19",
+      "operator": "Holliday Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-12-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

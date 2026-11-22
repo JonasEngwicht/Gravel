@@ -1,0 +1,35 @@
+{
+  "id": "mn-hibbing-tri-state-aggregate-machinery",
+  "slug": "tri-state-aggregate-machinery",
+  "name": "Tri State Aggregate Machinery",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3715 4th Ave W",
+    "city": "Hibbing",
+    "state": "MN",
+    "zip": "55746"
+  },
+  "location": {
+    "lat": 47.407017,
+    "lng": -92.945908
+  },
+  "contact": {
+    "phone": "(218) 262-3130"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ef1eb16-5109-4521-a612-cdb880f3afe1",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

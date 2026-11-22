@@ -1,0 +1,37 @@
+{
+  "id": "va-charlottesville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4010 Hunterstand Ct",
+    "city": "Charlottesville",
+    "state": "VA",
+    "zip": "22911"
+  },
+  "location": {
+    "lat": 38.146454,
+    "lng": -78.442833
+  },
+  "contact": {
+    "phone": "(434) 970-2500",
+    "website": "https://www.siteone.com/store/374"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3feffc7-a9b3-4580-a009-436c4b5b8e55",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "or-aumsville-ez-grade-conveyored-aggregate",
+  "slug": "ez-grade-conveyored-aggregate",
+  "name": "EZ Grade Conveyored Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9467 Stayton Rd SE",
+    "city": "Aumsville",
+    "state": "OR",
+    "zip": "97325"
+  },
+  "location": {
+    "lat": 44.776665,
+    "lng": -122.867279
+  },
+  "contact": {
+    "phone": "(503) 871-8910"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c9df640e-e261-449d-9b03-e1a16c43c3f5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

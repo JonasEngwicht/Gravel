@@ -1,0 +1,36 @@
+{
+  "id": "va-alberta-calhoun-mulch",
+  "slug": "calhoun-mulch",
+  "name": "Calhoun Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7740 Boydton Plank Rd",
+    "city": "Alberta",
+    "state": "VA",
+    "zip": "23821"
+  },
+  "location": {
+    "lat": 36.836346,
+    "lng": -77.915527
+  },
+  "contact": {
+    "phone": "(434) 949-7244",
+    "website": "http://www.calhounmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "647b37ec-a179-435d-b0e3-84af9c5065ea",
+    "confidence": 0.897,
+    "merged_records": 1
+  }
+}

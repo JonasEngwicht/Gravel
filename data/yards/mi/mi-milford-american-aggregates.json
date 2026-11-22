@@ -1,0 +1,36 @@
+{
+  "id": "mi-milford-american-aggregates",
+  "slug": "american-aggregates",
+  "name": "American Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "13412 Buno Rd",
+    "city": "Milford",
+    "state": "MI",
+    "zip": "48380"
+  },
+  "location": {
+    "lat": 42.549458,
+    "lng": -83.688499
+  },
+  "contact": {
+    "phone": "(248) 215-6247",
+    "website": "https://www.edwclevy.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d00eb196-9010-4897-bfc2-ba44529e79fc",
+    "confidence": 0.947,
+    "merged_records": 1
+  }
+}

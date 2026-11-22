@@ -1,0 +1,48 @@
+{
+  "id": "ky-petersburg-northern-kentucky-aggregates-belleview",
+  "slug": "northern-kentucky-aggregates-belleview",
+  "name": "Northern Kentucky Aggregates - Belleview",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5725 Belleview Rd",
+    "city": "Petersburg",
+    "state": "KY",
+    "zip": "41080"
+  },
+  "location": {
+    "lat": 39.001991,
+    "lng": -84.83065
+  },
+  "contact": {
+    "phone": "(513) 771-0820",
+    "website": "https://www.jrjnet.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c905d93-1956-4939-b172-007ee561610f",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1515337",
+      "name": "Belleview Sand & Gravel Inc",
+      "operator": "Northern Kentucky Aggregates Inc.",
+      "status": "Active",
+      "status_since": "2023-12-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

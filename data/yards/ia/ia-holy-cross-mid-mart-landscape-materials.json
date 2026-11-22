@@ -1,0 +1,35 @@
+{
+  "id": "ia-holy-cross-mid-mart-landscape-materials",
+  "slug": "mid-mart-landscape-materials",
+  "name": "Mid-Mart Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "22755 Route 52 N",
+    "city": "Holy Cross",
+    "state": "IA",
+    "zip": "52053"
+  },
+  "location": {
+    "lat": 42.579121,
+    "lng": -90.932175
+  },
+  "contact": {
+    "phone": "(563) 552-2551"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b2ab7a5-cdf2-4c67-ad13-86fec7612bbb",
+    "confidence": 0.753,
+    "merged_records": 1
+  }
+}

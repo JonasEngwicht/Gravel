@@ -1,0 +1,36 @@
+{
+  "id": "ga-woodstock-sanchez-landscaping-materials",
+  "slug": "sanchez-landscaping-materials",
+  "name": "Sanchez Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8335 Hickory Flat Hwy",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30188"
+  },
+  "location": {
+    "lat": 34.1507,
+    "lng": -84.401566
+  },
+  "contact": {
+    "phone": "(770) 231-3420",
+    "website": "http://www.sanchezgc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "36526f9f-f044-4a91-8f6e-37911559354b",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

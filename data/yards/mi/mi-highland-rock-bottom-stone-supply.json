@@ -1,0 +1,36 @@
+{
+  "id": "mi-highland-rock-bottom-stone-supply",
+  "slug": "rock-bottom-stone-supply",
+  "name": "Rock Bottom Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2586 S Milford Rd",
+    "city": "Highland",
+    "state": "MI",
+    "zip": "48357"
+  },
+  "location": {
+    "lat": 42.615749,
+    "lng": -83.616837
+  },
+  "contact": {
+    "phone": "(248) 684-0332",
+    "website": "https://www.facebook.com/rbstonesupplyburton?mibextid=LQQJ4d"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ecbc2c01-db4f-43d7-8b2b-9c99ed70b50c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

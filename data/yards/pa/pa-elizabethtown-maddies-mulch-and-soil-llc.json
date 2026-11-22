@@ -1,0 +1,35 @@
+{
+  "id": "pa-elizabethtown-maddies-mulch-and-soil-llc",
+  "slug": "maddies-mulch-and-soil-llc",
+  "name": "Maddie’s Mulch and Soil LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2623 N Market St",
+    "city": "Elizabethtown",
+    "state": "PA",
+    "zip": "17022"
+  },
+  "location": {
+    "lat": 40.16655,
+    "lng": -76.643646
+  },
+  "contact": {
+    "phone": "(717) 367-1006"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf9ee7f6-2d7c-4d33-97a0-890a68bf7ad5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

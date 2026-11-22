@@ -1,0 +1,36 @@
+{
+  "id": "tn-athens-all-season-landscaping-supplies",
+  "slug": "all-season-landscaping-supplies",
+  "name": "All Season Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "124 Rocky Mt Rd",
+    "city": "Athens",
+    "state": "TN",
+    "zip": "37303"
+  },
+  "location": {
+    "lat": 35.439171,
+    "lng": -84.623398
+  },
+  "contact": {
+    "phone": "(423) 746-0478",
+    "website": "https://www.landscapeallseasons.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "095cc837-94a7-47a9-82a0-f87afe812657",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

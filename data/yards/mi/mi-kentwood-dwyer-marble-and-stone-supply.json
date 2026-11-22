@@ -1,0 +1,36 @@
+{
+  "id": "mi-kentwood-dwyer-marble-and-stone-supply",
+  "slug": "dwyer-marble-and-stone-supply",
+  "name": "Dwyer Marble and Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5300 Broadmoor Ave SE Ste e",
+    "city": "Kentwood",
+    "state": "MI",
+    "zip": "49512"
+  },
+  "location": {
+    "lat": 42.866634,
+    "lng": -85.551147
+  },
+  "contact": {
+    "phone": "(616) 583-7025",
+    "website": "https://www.dwyermarble.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11b4545b-a1c5-4300-a11f-f79091d2f9fa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

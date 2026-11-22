@@ -1,0 +1,36 @@
+{
+  "id": "ma-hyde-park-hyde-park-masonry-and-landscape-supplies",
+  "slug": "hyde-park-masonry-and-landscape-supplies",
+  "name": "Hyde Park Masonry and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1620 Hyde Park Ave",
+    "city": "Hyde Park",
+    "state": "MA",
+    "zip": "02136"
+  },
+  "location": {
+    "lat": 42.243828,
+    "lng": -71.129501
+  },
+  "contact": {
+    "phone": "(617) 364-5485",
+    "website": "http://www.hydeparkmasonrysupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52415ac7-2a38-4328-be4c-39e9d3261cf0",
+    "confidence": 0.971,
+    "merged_records": 1
+  }
+}

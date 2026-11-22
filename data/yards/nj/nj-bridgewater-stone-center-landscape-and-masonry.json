@@ -1,0 +1,36 @@
+{
+  "id": "nj-bridgewater-stone-center-landscape-and-masonry",
+  "slug": "stone-center-landscape-and-masonry",
+  "name": "Stone Center | Landscape & Masonry",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "831 E Main St",
+    "city": "Bridgewater",
+    "state": "NJ",
+    "zip": "08807"
+  },
+  "location": {
+    "lat": 40.561348,
+    "lng": -74.559486
+  },
+  "contact": {
+    "phone": "(732) 469-4433",
+    "website": "http://www.thestonecenter.com/bridgewater/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6c1b1fc4-da3f-4754-a650-cd391486b645",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

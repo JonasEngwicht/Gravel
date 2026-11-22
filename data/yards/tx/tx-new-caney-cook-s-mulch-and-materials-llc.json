@@ -1,0 +1,35 @@
+{
+  "id": "tx-new-caney-cook-s-mulch-and-materials-llc",
+  "slug": "cook-s-mulch-and-materials-llc",
+  "name": "Cook's Mulch & Materials, LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "23411 E Community Dr",
+    "city": "New Caney",
+    "state": "TX",
+    "zip": "77357"
+  },
+  "location": {
+    "lat": 30.128954,
+    "lng": -95.209541
+  },
+  "contact": {
+    "phone": "(832) 233-7937"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd703806-f33a-48d8-a2f2-3682a3e12570",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

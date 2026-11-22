@@ -1,0 +1,36 @@
+{
+  "id": "ga-cartersville-wynn-s-landscape-supply-llc",
+  "slug": "wynn-s-landscape-supply-llc",
+  "name": "Wynn's Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "219 Industrial Park Rd NE",
+    "city": "Cartersville",
+    "state": "GA",
+    "zip": "30121"
+  },
+  "location": {
+    "lat": 34.234493,
+    "lng": -84.79258
+  },
+  "contact": {
+    "phone": "(678) 521-0049",
+    "website": "https://wynnslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2962f0b5-510a-4898-aab4-a63861bd0f80",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "oh-chillicothe-bushatz-limestone-sand-and-gravel",
+  "slug": "bushatz-limestone-sand-and-gravel",
+  "name": "Bushatz Limestone, Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5940 State Route 159",
+    "city": "Chillicothe",
+    "state": "OH",
+    "zip": "45601"
+  },
+  "location": {
+    "lat": 39.416683,
+    "lng": -82.949196
+  },
+  "contact": {
+    "phone": "(740) 779-3737",
+    "website": "https://www.bushatzlimestoneoh.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4003b913-491b-4722-bbf1-d4c5fae016de",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304771",
+      "name": "Tow Path Products",
+      "operator": "Tow Path Ready Mix",
+      "status": "Active",
+      "status_since": "2024-08-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 47
+    }
+  ]
+}

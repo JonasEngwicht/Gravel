@@ -1,0 +1,35 @@
+{
+  "id": "az-marana-northside-rock-sand-and-gravel-llc",
+  "slug": "northside-rock-sand-and-gravel-llc",
+  "name": "Northside Rock Sand & Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7920 W Avra Valley Rd",
+    "city": "Marana",
+    "state": "AZ",
+    "zip": "85653"
+  },
+  "location": {
+    "lat": 32.399891,
+    "lng": -111.134415
+  },
+  "contact": {
+    "phone": "(520) 784-8184"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "67a44856-665c-4095-898a-770a86b279f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

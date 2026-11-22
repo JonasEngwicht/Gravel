@@ -1,0 +1,36 @@
+{
+  "id": "mn-brainerd-greenday-rolloff-and-landscape-supply",
+  "slug": "greenday-rolloff-and-landscape-supply",
+  "name": "Greenday Rolloff and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6157 Pine Beach Rd",
+    "city": "Brainerd",
+    "state": "MN",
+    "zip": "56401"
+  },
+  "location": {
+    "lat": 46.383179,
+    "lng": -94.272011
+  },
+  "contact": {
+    "phone": "(218) 825-8141",
+    "website": "https://greendaymn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3fd320de-f00e-43f4-a932-a8c757488c1e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

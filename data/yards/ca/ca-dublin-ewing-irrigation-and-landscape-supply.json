@@ -1,0 +1,37 @@
+{
+  "id": "ca-dublin-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "6640 Sierra Ln",
+    "city": "Dublin",
+    "state": "CA",
+    "zip": "94568"
+  },
+  "location": {
+    "lat": 37.705681,
+    "lng": -121.913017
+  },
+  "contact": {
+    "phone": "(925) 828-5618",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c6ef0716-7039-4c15-8b09-28d635e97f9e",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

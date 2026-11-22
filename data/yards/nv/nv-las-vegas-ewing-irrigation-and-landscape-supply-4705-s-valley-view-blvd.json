@@ -1,0 +1,37 @@
+{
+  "id": "nv-las-vegas-ewing-irrigation-and-landscape-supply-4705-s-valley-view-blvd",
+  "slug": "ewing-irrigation-and-landscape-supply-4705-s-valley-view-blvd",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "4705 S Valley View Blvd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89103"
+  },
+  "location": {
+    "lat": 36.104229,
+    "lng": -115.189835
+  },
+  "contact": {
+    "phone": "(702) 895-7612",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "333e03ef-7b11-4635-9bd2-9976ea71b9b3",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

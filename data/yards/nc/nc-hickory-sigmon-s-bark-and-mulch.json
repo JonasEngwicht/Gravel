@@ -1,0 +1,35 @@
+{
+  "id": "nc-hickory-sigmon-s-bark-and-mulch",
+  "slug": "sigmon-s-bark-and-mulch",
+  "name": "Sigmon's Bark & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3811 Springs Rd NE",
+    "city": "Hickory",
+    "state": "NC",
+    "zip": "28601"
+  },
+  "location": {
+    "lat": 35.770023,
+    "lng": -81.257408
+  },
+  "contact": {
+    "phone": "(828) 256-6410"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6c2e4b0d-bf8e-4ae0-b21a-94fa39900954",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

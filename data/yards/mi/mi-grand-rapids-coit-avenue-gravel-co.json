@@ -1,0 +1,36 @@
+{
+  "id": "mi-grand-rapids-coit-avenue-gravel-co",
+  "slug": "coit-avenue-gravel-co",
+  "name": "Coit Avenue Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4772 Coit Ave NE",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49525"
+  },
+  "location": {
+    "lat": 43.048286,
+    "lng": -85.632912
+  },
+  "contact": {
+    "phone": "(616) 363-7777",
+    "website": "http://www.coitgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b75e6b8f-cd65-43cf-90e6-fc9f31a46e9a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

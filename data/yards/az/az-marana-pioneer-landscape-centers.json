@@ -1,0 +1,37 @@
+{
+  "id": "az-marana-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "9353 N Casa Grande Hwy",
+    "city": "Marana",
+    "state": "AZ",
+    "zip": "85743"
+  },
+  "location": {
+    "lat": 32.37751,
+    "lng": -111.109848
+  },
+  "contact": {
+    "phone": "(520) 744-8700",
+    "website": "http://www.pioneersand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed3a29cb-8b09-4b63-92a4-994ceb0e1aa5",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

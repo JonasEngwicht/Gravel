@@ -1,0 +1,36 @@
+{
+  "id": "fl-lake-worth-beach-eastman-aggregate-enterprises",
+  "slug": "eastman-aggregate-enterprises",
+  "name": "Eastman Aggregate Enterprises",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3705 Bellevue Ave",
+    "city": "Lake Worth Beach",
+    "state": "FL",
+    "zip": "33461"
+  },
+  "location": {
+    "lat": 26.620123,
+    "lng": -80.087746
+  },
+  "contact": {
+    "phone": "(561) 969-7147",
+    "website": "https://eastmanaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f84a994a-6172-475a-858b-bf74b0426bc3",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

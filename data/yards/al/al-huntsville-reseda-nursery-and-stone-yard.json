@@ -1,0 +1,36 @@
+{
+  "id": "al-huntsville-reseda-nursery-and-stone-yard",
+  "slug": "reseda-nursery-and-stone-yard",
+  "name": "Reseda Nursery & Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "29877 US-72",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35756"
+  },
+  "location": {
+    "lat": 34.749519,
+    "lng": -86.800659
+  },
+  "contact": {
+    "phone": "(256) 232-4887",
+    "website": "http://www.resedanursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7f82f134-4489-4a19-aa6d-ea84a607db84",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

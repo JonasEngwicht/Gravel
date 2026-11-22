@@ -1,0 +1,36 @@
+{
+  "id": "pa-bath-hilltop-landscape-products",
+  "slug": "hilltop-landscape-products",
+  "name": "Hilltop Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "545 Moorestown Dr",
+    "city": "Bath",
+    "state": "PA",
+    "zip": "18014"
+  },
+  "location": {
+    "lat": 40.77597,
+    "lng": -75.372231
+  },
+  "contact": {
+    "phone": "(610) 759-7070",
+    "website": "http://www.hilltoplandscapeproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca492ad2-05cc-4f1c-a172-680418e38557",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

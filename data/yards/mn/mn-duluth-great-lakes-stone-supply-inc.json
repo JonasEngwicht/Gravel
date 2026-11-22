@@ -1,0 +1,36 @@
+{
+  "id": "mn-duluth-great-lakes-stone-supply-inc",
+  "slug": "great-lakes-stone-supply-inc",
+  "name": "Great Lakes Stone Supply, Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4915 Rice Lake Rd",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55803"
+  },
+  "location": {
+    "lat": 46.866463,
+    "lng": -92.153503
+  },
+  "contact": {
+    "phone": "(218) 525-6360",
+    "website": "http://greatlakesstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "54d8eac7-21e3-4657-b09f-1894f24d5853",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

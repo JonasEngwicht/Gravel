@@ -1,0 +1,36 @@
+{
+  "id": "nc-statesville-cool-springs-mulch-and-stone",
+  "slug": "cool-springs-mulch-and-stone",
+  "name": "Cool Springs Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "130 Marshall Forest Ln",
+    "city": "Statesville",
+    "state": "NC",
+    "zip": "28625"
+  },
+  "location": {
+    "lat": 35.808411,
+    "lng": -80.804359
+  },
+  "contact": {
+    "phone": "(704) 872-0008",
+    "website": "https://www.coolspringsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "404b8f84-b992-4a86-b1da-867196178153",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

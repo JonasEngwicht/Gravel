@@ -1,0 +1,36 @@
+{
+  "id": "tx-poteet-capitol-aggregates",
+  "slug": "capitol-aggregates",
+  "name": "Capitol Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "650 Cleo Ln",
+    "city": "Poteet",
+    "state": "TX",
+    "zip": "78065"
+  },
+  "location": {
+    "lat": 29.120361,
+    "lng": -98.602386
+  },
+  "contact": {
+    "phone": "(830) 742-8581",
+    "website": "http://capitolaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c3810b25-d297-4126-a998-6353a8c664cf",
+    "confidence": 0.564,
+    "merged_records": 1
+  }
+}

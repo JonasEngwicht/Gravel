@@ -1,0 +1,36 @@
+{
+  "id": "fl-winter-garden-pine-straw-of-central-florida-providing-an-eco-friendly-landscape-mulch",
+  "slug": "pine-straw-of-central-florida-providing-an-eco-friendly-landscape-mulch",
+  "name": "Pine Straw of Central Florida providing an eco-friendly landscape mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13079 Reaves Rd",
+    "city": "Winter Garden",
+    "state": "FL",
+    "zip": "34787"
+  },
+  "location": {
+    "lat": 28.532524,
+    "lng": -81.573883
+  },
+  "contact": {
+    "phone": "(407) 765-1414",
+    "website": "http://www.pinestrawofcentralflorida.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e81c105e-7191-4dd2-aaf3-98986cef57d0",
+    "confidence": 0.921,
+    "merged_records": 1
+  }
+}

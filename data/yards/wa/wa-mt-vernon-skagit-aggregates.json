@@ -1,0 +1,48 @@
+{
+  "id": "wa-mt-vernon-skagit-aggregates",
+  "slug": "skagit-aggregates",
+  "name": "Skagit Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14107 WA-9",
+    "city": "Mt Vernon",
+    "state": "WA",
+    "zip": "98273"
+  },
+  "location": {
+    "lat": 48.441067,
+    "lng": -122.260803
+  },
+  "contact": {
+    "phone": "(360) 826-3077",
+    "website": "http://www.skagitaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "07383c4b-d985-460b-849b-5648c268fcfb",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503199",
+      "name": "Big Rock Pit",
+      "operator": "Skagit Aggregates, LLC",
+      "status": "Temporarily Idled",
+      "status_since": "2025-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 3
+    }
+  ]
+}

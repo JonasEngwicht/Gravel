@@ -1,0 +1,48 @@
+{
+  "id": "az-sacaton-gila-river-sand-and-gravel",
+  "slug": "gila-river-sand-and-gravel",
+  "name": "Gila River Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2126 Tanner Rd",
+    "city": "Sacaton",
+    "state": "AZ",
+    "zip": "85147"
+  },
+  "location": {
+    "lat": 33.151222,
+    "lng": -111.83783
+  },
+  "contact": {
+    "phone": "(520) 418-2106",
+    "website": "http://grsg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3d2ac0a-cffc-42a1-841e-53add0d12725",
+    "confidence": 0.885,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0202116",
+      "name": "Santan Pit",
+      "operator": "Gila River Sand & Gravel Corporation",
+      "status": "Active",
+      "status_since": "1987-11-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 83
+    }
+  ]
+}

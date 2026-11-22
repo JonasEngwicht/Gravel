@@ -1,0 +1,35 @@
+{
+  "id": "mi-kalkaska-aggregate-stone",
+  "slug": "aggregate-stone",
+  "name": "Aggregate Stone",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1082 N Sharon Rd SE",
+    "city": "Kalkaska",
+    "state": "MI",
+    "zip": "49646"
+  },
+  "location": {
+    "lat": 44.771957,
+    "lng": -85.157761
+  },
+  "contact": {
+    "phone": "(231) 590-5601"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "995ceb11-59b5-479d-a9cf-14dbe9625b79",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

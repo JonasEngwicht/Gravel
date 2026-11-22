@@ -1,0 +1,35 @@
+{
+  "id": "sc-west-columbia-all-landscape-supply",
+  "slug": "all-landscape-supply",
+  "name": "All Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3107 Augusta Rd",
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29170"
+  },
+  "location": {
+    "lat": 33.977757,
+    "lng": -81.120728
+  },
+  "contact": {
+    "phone": "(803) 739-0789"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "556c5529-3cd3-42a6-9b3d-471ca5556a7f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

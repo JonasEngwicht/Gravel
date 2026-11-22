@@ -1,0 +1,35 @@
+{
+  "id": "in-odon-flynn-and-sons-sand-and-gravel",
+  "slug": "flynn-and-sons-sand-and-gravel",
+  "name": "Flynn & Sons Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11971 US-231",
+    "city": "Odon",
+    "state": "IN",
+    "zip": "47562"
+  },
+  "location": {
+    "lat": 38.830975,
+    "lng": -86.922943
+  },
+  "contact": {
+    "phone": "(812) 636-4400"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a7988380-18eb-4ae2-9c38-0842ea791250",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

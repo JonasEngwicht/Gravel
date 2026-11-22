@@ -1,0 +1,36 @@
+{
+  "id": "nc-connelly-springs-foothills-mulch-and-stone",
+  "slug": "foothills-mulch-and-stone",
+  "name": "Foothills Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2730 Rutherford College Rd",
+    "city": "Connelly Springs",
+    "state": "NC",
+    "zip": "28612"
+  },
+  "location": {
+    "lat": 35.732849,
+    "lng": -81.531265
+  },
+  "contact": {
+    "phone": "(828) 302-8540",
+    "website": "http://foothillsmulchandstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d9fefb1-6260-47b0-9476-ebc50bb7b638",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

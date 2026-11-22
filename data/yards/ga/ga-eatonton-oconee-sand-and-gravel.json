@@ -1,0 +1,36 @@
+{
+  "id": "ga-eatonton-oconee-sand-and-gravel",
+  "slug": "oconee-sand-and-gravel",
+  "name": "Oconee Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "797 Harmony Rd",
+    "city": "Eatonton",
+    "state": "GA",
+    "zip": "31024"
+  },
+  "location": {
+    "lat": 33.439495,
+    "lng": -83.280396
+  },
+  "contact": {
+    "phone": "(706) 453-1940",
+    "website": "https://oconeesandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e18f46ab-e47c-44d6-8d91-3f97886cf879",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

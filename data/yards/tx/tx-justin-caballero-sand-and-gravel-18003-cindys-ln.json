@@ -1,0 +1,36 @@
+{
+  "id": "tx-justin-caballero-sand-and-gravel-18003-cindys-ln",
+  "slug": "caballero-sand-and-gravel-18003-cindys-ln",
+  "name": "Caballero Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18003 Cindys Ln",
+    "city": "Justin",
+    "state": "TX",
+    "zip": "76247"
+  },
+  "location": {
+    "lat": 33.054821,
+    "lng": -97.333344
+  },
+  "contact": {
+    "phone": "(940) 242-0271",
+    "website": "https://www.caballerosandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d34a4939-1f5f-472f-b589-50562a0703cb",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

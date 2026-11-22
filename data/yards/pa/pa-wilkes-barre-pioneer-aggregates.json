@@ -1,0 +1,36 @@
+{
+  "id": "pa-wilkes-barre-pioneer-aggregates",
+  "slug": "pioneer-aggregates",
+  "name": "Pioneer Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "215 E Saylor Ave",
+    "city": "Wilkes-Barre",
+    "state": "PA",
+    "zip": "18702"
+  },
+  "location": {
+    "lat": 41.28915,
+    "lng": -75.811348
+  },
+  "contact": {
+    "phone": "(570) 823-0531",
+    "website": "http://www.poppleconstruction.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d99c975f-1c5c-41e9-838a-9804b45c0228",
+    "confidence": 0.863,
+    "merged_records": 1
+  }
+}

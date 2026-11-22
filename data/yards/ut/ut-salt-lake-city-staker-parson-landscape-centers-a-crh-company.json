@@ -1,0 +1,48 @@
+{
+  "id": "ut-salt-lake-city-staker-parson-landscape-centers-a-crh-company",
+  "slug": "staker-parson-landscape-centers-a-crh-company",
+  "name": "Staker Parson Landscape Centers, A CRH Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1670 N Beck St",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84116"
+  },
+  "location": {
+    "lat": 40.804935,
+    "lng": -111.913788
+  },
+  "contact": {
+    "phone": "(801) 409-9500",
+    "website": "https://stakerparson.com/companies/staker-parson-landscape-centers/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4aa7e1aa-1030-4aaf-bf92-c07ab046d210",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4201452",
+      "name": "Beck Street",
+      "operator": "Staker & Parson Companies",
+      "status": "Active",
+      "status_since": "2013-08-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 26
+    }
+  ]
+}

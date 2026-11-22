@@ -1,0 +1,48 @@
+{
+  "id": "mi-homer-trojan-sand-and-gravel-llc",
+  "slug": "trojan-sand-and-gravel-llc",
+  "name": "Trojan Sand & Gravel, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "24101 L Dr S",
+    "city": "Homer",
+    "state": "MI",
+    "zip": "49245"
+  },
+  "location": {
+    "lat": 42.164433,
+    "lng": -84.824913
+  },
+  "contact": {
+    "phone": "(517) 202-1179",
+    "website": "https://trojansg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f51a8abb-5062-4f72-ab94-8269ce22f4d2",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003535",
+      "name": "Homer Pit",
+      "operator": "Trojan Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2021-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

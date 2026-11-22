@@ -1,0 +1,35 @@
+{
+  "id": "nc-raleigh-carolina-mulch-express",
+  "slug": "carolina-mulch-express",
+  "name": "Carolina Mulch Express",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3000 Gresham Lake Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27615"
+  },
+  "location": {
+    "lat": 35.883484,
+    "lng": -78.586647
+  },
+  "contact": {
+    "phone": "(919) 878-8400"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "555a9a32-1a98-44ca-9ba8-7a1106155c09",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

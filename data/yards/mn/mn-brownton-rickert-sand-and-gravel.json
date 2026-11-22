@@ -1,0 +1,35 @@
+{
+  "id": "mn-brownton-rickert-sand-and-gravel",
+  "slug": "rickert-sand-and-gravel",
+  "name": "Rickert Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "223 4th Ave N",
+    "city": "Brownton",
+    "state": "MN",
+    "zip": "55312"
+  },
+  "location": {
+    "lat": 44.73391,
+    "lng": -94.351952
+  },
+  "contact": {
+    "phone": "(320) 328-4160"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c30c2270-f70b-4116-b1f1-54dab205835c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

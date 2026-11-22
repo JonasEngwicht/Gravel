@@ -1,0 +1,36 @@
+{
+  "id": "ny-islandia-stoneworks-wholesale-stone-supply",
+  "slug": "stoneworks-wholesale-stone-supply",
+  "name": "Stoneworks - Wholesale Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "163 Bridge Rd",
+    "city": "Islandia",
+    "state": "NY",
+    "zip": "11749"
+  },
+  "location": {
+    "lat": 40.805439,
+    "lng": -73.191734
+  },
+  "contact": {
+    "phone": "(631) 203-4366",
+    "website": "https://www.stoneworksny.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d2aedee-f2b7-4e83-b838-109844ae7e4f",
+    "confidence": 0.909,
+    "merged_records": 1
+  }
+}

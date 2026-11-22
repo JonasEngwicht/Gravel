@@ -1,0 +1,36 @@
+{
+  "id": "sc-atlantic-beach-palmettoscapes-landscape-supply",
+  "slug": "palmettoscapes-landscape-supply",
+  "name": "Palmettoscapes Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2819 Hwy 17 S",
+    "city": "Atlantic Beach",
+    "state": "SC",
+    "zip": "29582"
+  },
+  "location": {
+    "lat": 33.806355,
+    "lng": -78.717346
+  },
+  "contact": {
+    "phone": "(843) 455-9049",
+    "website": "https://www.palmettoscapeslandscapesupply.com/contact"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "29779b13-c596-45ce-aa5f-4d11bdc055a8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

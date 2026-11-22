@@ -1,0 +1,35 @@
+{
+  "id": "tx-el-campo-linda-s-sand-and-gravel",
+  "slug": "linda-s-sand-and-gravel",
+  "name": "Linda's Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1941 FM 1163 Rd",
+    "city": "El Campo",
+    "state": "TX",
+    "zip": "77437"
+  },
+  "location": {
+    "lat": 29.164448,
+    "lng": -96.277359
+  },
+  "contact": {
+    "phone": "(979) 541-7621"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11f6e0f1-1f32-4cf7-b82b-fede76937218",
+    "confidence": 0.788,
+    "merged_records": 1
+  }
+}

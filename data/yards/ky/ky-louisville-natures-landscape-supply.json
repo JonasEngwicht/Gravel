@@ -1,0 +1,36 @@
+{
+  "id": "ky-louisville-natures-landscape-supply",
+  "slug": "natures-landscape-supply",
+  "name": "Natures Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1234 Old Fern Valley Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40219"
+  },
+  "location": {
+    "lat": 38.154972,
+    "lng": -85.692352
+  },
+  "contact": {
+    "phone": "(502) 442-7668",
+    "website": "http://www.naturesmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "39965e8e-4081-4560-a1d4-b4024be186fe",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-austin-austin-wholesale-landscape-supply",
+  "slug": "austin-wholesale-landscape-supply",
+  "name": "Austin Wholesale Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "408 W Braker Ln",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78753"
+  },
+  "location": {
+    "lat": 30.380699,
+    "lng": -97.684044
+  },
+  "contact": {
+    "phone": "(512) 277-3156",
+    "website": "https://yards-direct.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce9394a4-1c65-49f0-bdbb-de5fedaa226b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

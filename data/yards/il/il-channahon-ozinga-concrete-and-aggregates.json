@@ -1,0 +1,48 @@
+{
+  "id": "il-channahon-ozinga-concrete-and-aggregates",
+  "slug": "ozinga-concrete-and-aggregates",
+  "name": "Ozinga | Concrete & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "25039 W Eames St",
+    "city": "Channahon",
+    "state": "IL",
+    "zip": "60410"
+  },
+  "location": {
+    "lat": 41.433155,
+    "lng": -88.221878
+  },
+  "contact": {
+    "phone": "(800) 786-6380",
+    "website": "https://ozinga.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a42c533-9cab-4bff-bc20-fe7188096ae0",
+    "confidence": 0.917,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1103270",
+      "name": "Channahon",
+      "operator": "IM Crushing, LLC",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

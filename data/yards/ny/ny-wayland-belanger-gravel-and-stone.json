@@ -1,0 +1,47 @@
+{
+  "id": "ny-wayland-belanger-gravel-and-stone",
+  "slug": "belanger-gravel-and-stone",
+  "name": "Belanger Gravel and Stone",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10184 State Rte 21",
+    "city": "Wayland",
+    "state": "NY",
+    "zip": "14572"
+  },
+  "location": {
+    "lat": 42.495853,
+    "lng": -77.578804
+  },
+  "contact": {
+    "phone": "(585) 728-3906"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e957cac0-57df-43e7-ae35-48d31385e0ed",
+    "confidence": 0.764,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3002738",
+      "name": "Belanger Brothers",
+      "operator": "Belanger Brothers Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2025-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

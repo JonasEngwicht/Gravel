@@ -1,0 +1,48 @@
+{
+  "id": "ny-victor-syracusa-sand-and-gravel-inc",
+  "slug": "syracusa-sand-and-gravel-inc",
+  "name": "Syracusa Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1389 Malone Rd",
+    "city": "Victor",
+    "state": "NY",
+    "zip": "14564"
+  },
+  "location": {
+    "lat": 42.96912,
+    "lng": -77.449715
+  },
+  "contact": {
+    "phone": "(585) 924-7146",
+    "website": "http://www.syracusasandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6fd4aa54-7194-42e4-bba5-374673479f6e",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3000910",
+      "name": "Syracusa Sand & Gravel Inc",
+      "operator": "Syracusa Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2007-11-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

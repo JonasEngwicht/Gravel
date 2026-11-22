@@ -1,0 +1,35 @@
+{
+  "id": "mi-williamston-mid-michigan-landscape-supplies",
+  "slug": "mid-michigan-landscape-supplies",
+  "name": "Mid-Michigan Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2295 E Grand River Ave",
+    "city": "Williamston",
+    "state": "MI",
+    "zip": "48895"
+  },
+  "location": {
+    "lat": 42.687195,
+    "lng": -84.270889
+  },
+  "contact": {
+    "phone": "(517) 655-4996"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ac9f8b1-560e-4705-b256-16880cc166e7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

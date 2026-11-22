@@ -1,0 +1,35 @@
+{
+  "id": "tn-murfreesboro-tennessee-topsoil-and-gravel",
+  "slug": "tennessee-topsoil-and-gravel",
+  "name": "Tennessee Topsoil and Gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "312 Flat Rock Rd",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37130"
+  },
+  "location": {
+    "lat": 35.837055,
+    "lng": -86.320694
+  },
+  "contact": {
+    "phone": "(615) 596-8325"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ae0aeaf-b08c-4f5f-a4df-ba7e8419707e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

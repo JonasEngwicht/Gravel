@@ -1,0 +1,36 @@
+{
+  "id": "nc-southport-hoffman-ecoworks-landscape-supply",
+  "slug": "hoffman-ecoworks-landscape-supply",
+  "name": "Hoffman EcoWorks Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4923 Trail End Rd SE",
+    "city": "Southport",
+    "state": "NC",
+    "zip": "28461"
+  },
+  "location": {
+    "lat": 33.948517,
+    "lng": -78.044968
+  },
+  "contact": {
+    "phone": "(910) 443-0819",
+    "website": "http://hoffmanecoworks.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eccefe29-42cd-4229-ae76-d4806b049ddc",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

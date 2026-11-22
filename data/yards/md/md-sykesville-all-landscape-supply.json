@@ -1,0 +1,36 @@
+{
+  "id": "md-sykesville-all-landscape-supply",
+  "slug": "all-landscape-supply",
+  "name": "All Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4321 Bartholow Rd",
+    "city": "Sykesville",
+    "state": "MD",
+    "zip": "21784"
+  },
+  "location": {
+    "lat": 39.456654,
+    "lng": -76.99881
+  },
+  "contact": {
+    "phone": "(410) 552-5111",
+    "website": "http://www.alllandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "35df3d89-0783-4925-b63b-aeb72b67c469",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

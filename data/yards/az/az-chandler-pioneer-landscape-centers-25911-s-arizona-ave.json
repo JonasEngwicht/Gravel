@@ -1,0 +1,37 @@
+{
+  "id": "az-chandler-pioneer-landscape-centers-25911-s-arizona-ave",
+  "slug": "pioneer-landscape-centers-25911-s-arizona-ave",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "25911 S Arizona Ave",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85248"
+  },
+  "location": {
+    "lat": 33.212486,
+    "lng": -111.840347
+  },
+  "contact": {
+    "phone": "(480) 802-6508",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82e18d69-dd66-41d8-8366-fc8b30b84d43",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

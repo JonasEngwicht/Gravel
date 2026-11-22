@@ -1,0 +1,36 @@
+{
+  "id": "oh-reynoldsburg-mulch-manufacturing",
+  "slug": "mulch-manufacturing",
+  "name": "Mulch Manufacturing",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6747 Taylor Rd SW",
+    "city": "Reynoldsburg",
+    "state": "OH",
+    "zip": "43068"
+  },
+  "location": {
+    "lat": 39.996788,
+    "lng": -82.764626
+  },
+  "contact": {
+    "phone": "(614) 864-4004",
+    "website": "http://www.mulchmfg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7e56806-8b8a-459b-98fe-15078a5efe38",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

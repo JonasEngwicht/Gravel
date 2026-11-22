@@ -1,0 +1,37 @@
+{
+  "id": "nc-pineville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10126 Industrial Dr",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134"
+  },
+  "location": {
+    "lat": 35.097206,
+    "lng": -80.892746
+  },
+  "contact": {
+    "phone": "(704) 553-9779",
+    "website": "https://www.siteone.com/store/461"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "014ae262-a053-4491-898a-8752e922656d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

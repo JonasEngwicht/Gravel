@@ -1,0 +1,36 @@
+{
+  "id": "mn-carver-minnesota-topsoil",
+  "slug": "minnesota-topsoil",
+  "name": "Minnesota Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "17455 Kelly Lake Rd",
+    "city": "Carver",
+    "state": "MN",
+    "zip": "55315"
+  },
+  "location": {
+    "lat": 44.687634,
+    "lng": -93.70546
+  },
+  "contact": {
+    "phone": "(952) 217-8143",
+    "website": "http://Minnesotatopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0fecc0f8-06f3-441f-b3cc-86b707bece58",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

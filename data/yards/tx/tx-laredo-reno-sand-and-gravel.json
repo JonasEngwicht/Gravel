@@ -1,0 +1,35 @@
+{
+  "id": "tx-laredo-reno-sand-and-gravel",
+  "slug": "reno-sand-and-gravel",
+  "name": "Reno Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1319 Muller Rd",
+    "city": "Laredo",
+    "state": "TX",
+    "zip": "78041"
+  },
+  "location": {
+    "lat": 27.556154,
+    "lng": -99.473488
+  },
+  "contact": {
+    "phone": "(956) 724-3845"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "39e4adbf-0d6b-42d2-a464-a27993717bc7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

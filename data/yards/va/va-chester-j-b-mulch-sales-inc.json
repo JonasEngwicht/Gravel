@@ -1,0 +1,36 @@
+{
+  "id": "va-chester-j-b-mulch-sales-inc",
+  "slug": "j-b-mulch-sales-inc",
+  "name": "J B Mulch Sales Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11395 Chester Rd",
+    "city": "Chester",
+    "state": "VA",
+    "zip": "23831"
+  },
+  "location": {
+    "lat": 37.366634,
+    "lng": -77.446678
+  },
+  "contact": {
+    "phone": "(804) 796-5065",
+    "website": "http://www.jbmulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c512133-2d84-478b-bed5-bba19af86015",
+    "confidence": 0.979,
+    "merged_records": 1
+  }
+}

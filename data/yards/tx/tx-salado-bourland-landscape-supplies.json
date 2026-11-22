@@ -1,0 +1,36 @@
+{
+  "id": "tx-salado-bourland-landscape-supplies",
+  "slug": "bourland-landscape-supplies",
+  "name": "Bourland Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1220 N Robertson Rd",
+    "city": "Salado",
+    "state": "TX",
+    "zip": "76571"
+  },
+  "location": {
+    "lat": 30.95878,
+    "lng": -97.535538
+  },
+  "contact": {
+    "phone": "(254) 613-4444",
+    "website": "http://www.bourlandlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b94515b-ccc7-40e5-b967-71f6e1eeed91",
+    "confidence": 0.928,
+    "merged_records": 1
+  }
+}

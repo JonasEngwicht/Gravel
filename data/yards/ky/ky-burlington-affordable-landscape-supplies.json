@@ -1,0 +1,36 @@
+{
+  "id": "ky-burlington-affordable-landscape-supplies",
+  "slug": "affordable-landscape-supplies",
+  "name": "Affordable Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4346 Bullittsville Rd",
+    "city": "Burlington",
+    "state": "KY",
+    "zip": "41005"
+  },
+  "location": {
+    "lat": 39.058853,
+    "lng": -84.720657
+  },
+  "contact": {
+    "phone": "(859) 586-9142",
+    "website": "http://www.affordablelandscapesupplies.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3e2c59c-29f0-49dc-9893-f05ccece7047",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

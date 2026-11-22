@@ -1,0 +1,36 @@
+{
+  "id": "tx-schertz-tiger-landscaping-supply",
+  "slug": "tiger-landscaping-supply",
+  "name": "Tiger Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21799 FM 2252",
+    "city": "Schertz",
+    "state": "TX",
+    "zip": "78154"
+  },
+  "location": {
+    "lat": 29.628946,
+    "lng": -98.259193
+  },
+  "contact": {
+    "phone": "(210) 903-1003",
+    "website": "https://tigerlandscapingsupplyllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "714b775a-7917-4726-991a-dc388523f0cc",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

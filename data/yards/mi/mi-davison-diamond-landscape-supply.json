@@ -1,0 +1,36 @@
+{
+  "id": "mi-davison-diamond-landscape-supply",
+  "slug": "diamond-landscape-supply",
+  "name": "Diamond Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4340 N State Rd",
+    "city": "Davison",
+    "state": "MI",
+    "zip": "48423"
+  },
+  "location": {
+    "lat": 43.073055,
+    "lng": -83.517265
+  },
+  "contact": {
+    "phone": "(810) 653-2739",
+    "website": "http://www.diamondsupply.rocks/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e1b95c8-9f3d-4bee-9d03-048a2b3e4577",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

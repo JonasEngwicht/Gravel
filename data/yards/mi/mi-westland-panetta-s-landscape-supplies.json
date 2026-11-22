@@ -1,0 +1,36 @@
+{
+  "id": "mi-westland-panetta-s-landscape-supplies",
+  "slug": "panetta-s-landscape-supplies",
+  "name": "Panetta's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8500 Middlebelt Rd",
+    "city": "Westland",
+    "state": "MI",
+    "zip": "48185"
+  },
+  "location": {
+    "lat": 42.351425,
+    "lng": -83.331413
+  },
+  "contact": {
+    "phone": "(734) 421-5299",
+    "website": "http://www.PanettaSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8de6cecb-e12f-461a-8416-4b2249bdd602",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

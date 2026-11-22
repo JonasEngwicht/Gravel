@@ -1,0 +1,37 @@
+{
+  "id": "ny-peekskill-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2 John Walsh Blvd",
+    "city": "Peekskill",
+    "state": "NY",
+    "zip": "10566"
+  },
+  "location": {
+    "lat": 41.277824,
+    "lng": -73.939148
+  },
+  "contact": {
+    "phone": "(914) 736-9056",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8050c664-27e0-4efe-b1bf-78522fa0db79",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

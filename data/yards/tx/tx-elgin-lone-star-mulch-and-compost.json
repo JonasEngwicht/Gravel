@@ -1,0 +1,36 @@
+{
+  "id": "tx-elgin-lone-star-mulch-and-compost",
+  "slug": "lone-star-mulch-and-compost",
+  "name": "Lone Star Mulch and Compost",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2223 Old McDade Rd",
+    "city": "Elgin",
+    "state": "TX",
+    "zip": "78621"
+  },
+  "location": {
+    "lat": 30.297432,
+    "lng": -97.275299
+  },
+  "contact": {
+    "phone": "(512) 285-3970",
+    "website": "http://mikeslonestarmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e43b30ba-dba7-4a5d-b2fe-a316c8478241",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

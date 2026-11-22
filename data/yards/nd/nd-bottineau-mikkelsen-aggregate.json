@@ -1,0 +1,36 @@
+{
+  "id": "nd-bottineau-mikkelsen-aggregate",
+  "slug": "mikkelsen-aggregate",
+  "name": "Mikkelsen Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9826 Lake Rd",
+    "city": "Bottineau",
+    "state": "ND",
+    "zip": "58318"
+  },
+  "location": {
+    "lat": 48.841324,
+    "lng": -100.423988
+  },
+  "contact": {
+    "phone": "(701) 228-2233",
+    "website": "http://www.mikkelsenaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3b8be5b-696c-4892-abea-2d65fdeb7964",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

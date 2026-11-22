@@ -1,0 +1,36 @@
+{
+  "id": "mn-redwood-falls-gordy-serbus-and-sons-gravel",
+  "slug": "gordy-serbus-and-sons-gravel",
+  "name": "Gordy Serbus & Sons Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "71731 310th St",
+    "city": "Redwood Falls",
+    "state": "MN",
+    "zip": "56283"
+  },
+  "location": {
+    "lat": 44.624435,
+    "lng": -95.05764
+  },
+  "contact": {
+    "phone": "(507) 641-3349",
+    "website": "http://www.serbusandsons.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "756be414-c8a2-4d67-9cfd-cd21c9e509f9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

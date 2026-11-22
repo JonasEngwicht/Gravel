@@ -1,0 +1,36 @@
+{
+  "id": "ny-root-rock-of-ages-landscaping-supply",
+  "slug": "rock-of-ages-landscaping-supply",
+  "name": "Rock of Ages Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "158 Monk Rd",
+    "city": "Root",
+    "state": "NY",
+    "zip": "12166"
+  },
+  "location": {
+    "lat": 42.890537,
+    "lng": -74.508209
+  },
+  "contact": {
+    "phone": "(518) 673-3613",
+    "website": "http://www.rockofagessupply.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d059c3d-17de-4417-81a1-ec1c8ad0986c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

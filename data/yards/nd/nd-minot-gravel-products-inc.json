@@ -1,0 +1,36 @@
+{
+  "id": "nd-minot-gravel-products-inc",
+  "slug": "gravel-products-inc",
+  "name": "Gravel Products Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2920 Railway Ave",
+    "city": "Minot",
+    "state": "ND",
+    "zip": "58703"
+  },
+  "location": {
+    "lat": 48.239658,
+    "lng": -101.24749
+  },
+  "contact": {
+    "phone": "(701) 852-4751",
+    "website": "http://www.gravelproductsinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c0a7eca3-6780-43b3-ad58-a1798b4eb368",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

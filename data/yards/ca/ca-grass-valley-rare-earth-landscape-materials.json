@@ -1,0 +1,36 @@
+{
+  "id": "ca-grass-valley-rare-earth-landscape-materials",
+  "slug": "rare-earth-landscape-materials",
+  "name": "Rare Earth Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11750 La Barr Mdws Rd",
+    "city": "Grass Valley",
+    "state": "CA",
+    "zip": "95949"
+  },
+  "location": {
+    "lat": 39.191025,
+    "lng": -121.051559
+  },
+  "contact": {
+    "phone": "(530) 477-9901",
+    "website": "http://www.rareearthlandscapematerials.com/contact.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e4d7828-0092-4c28-a612-5ad26983e23a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fl-bonita-springs-coastal-landscape-supply-of-bonita-llc",
+  "slug": "coastal-landscape-supply-of-bonita-llc",
+  "name": "Coastal Landscape Supply of Bonita LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "24226 Production Cir",
+    "city": "Bonita Springs",
+    "state": "FL",
+    "zip": "34135"
+  },
+  "location": {
+    "lat": 26.38982,
+    "lng": -81.806877
+  },
+  "contact": {
+    "phone": "(239) 498-7226"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "367a93ba-aeeb-4e6d-9a88-27f9284584cd",
+    "confidence": 0.93,
+    "merged_records": 1
+  }
+}

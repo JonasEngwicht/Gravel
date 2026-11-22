@@ -1,0 +1,36 @@
+{
+  "id": "la-youngsville-acadiana-landscape-materials-llc",
+  "slug": "acadiana-landscape-materials-llc",
+  "name": "Acadiana Landscape Materials LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3300 Ch Metairie Pkwy",
+    "city": "Youngsville",
+    "state": "LA",
+    "zip": "70592"
+  },
+  "location": {
+    "lat": 30.082312,
+    "lng": -91.978119
+  },
+  "contact": {
+    "phone": "(337) 573-7222",
+    "website": "https://acadianalm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3369a617-f46f-4ae5-baeb-7f02d1b0034d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-cleveland-fortuna-aggregates-llc",
+  "slug": "fortuna-aggregates-llc",
+  "name": "Fortuna Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2727 Transport Rd",
+    "city": "Cleveland",
+    "state": "OH",
+    "zip": "44115"
+  },
+  "location": {
+    "lat": 41.486099,
+    "lng": -81.670639
+  },
+  "contact": {
+    "phone": "(440) 892-3834",
+    "website": "https://www.fortunaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4a1ddb6-e41e-4db4-9cea-4d740c54bfc3",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

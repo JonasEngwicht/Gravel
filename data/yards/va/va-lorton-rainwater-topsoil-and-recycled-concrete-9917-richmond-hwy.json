@@ -1,0 +1,36 @@
+{
+  "id": "va-lorton-rainwater-topsoil-and-recycled-concrete-9917-richmond-hwy",
+  "slug": "rainwater-topsoil-and-recycled-concrete-9917-richmond-hwy",
+  "name": "Rainwater Topsoil and Recycled Concrete",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9917 Richmond Hwy",
+    "city": "Lorton",
+    "state": "VA",
+    "zip": "22079"
+  },
+  "location": {
+    "lat": 38.686825,
+    "lng": -77.211327
+  },
+  "contact": {
+    "phone": "(703) 339-6310",
+    "website": "http://rainwatertopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "22f01c0a-118b-4e1d-94e7-a020965f7ddb",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

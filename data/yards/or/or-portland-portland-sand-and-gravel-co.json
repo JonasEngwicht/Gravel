@@ -1,0 +1,36 @@
+{
+  "id": "or-portland-portland-sand-and-gravel-co",
+  "slug": "portland-sand-and-gravel-co",
+  "name": "Portland Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10717 SE Division St",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97266"
+  },
+  "location": {
+    "lat": 45.504292,
+    "lng": -122.552361
+  },
+  "contact": {
+    "phone": "(503) 252-3497",
+    "website": "http://www.portlandsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27d502dd-eba6-4be6-a64b-1f19a55d39c7",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

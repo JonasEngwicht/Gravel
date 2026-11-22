@@ -1,0 +1,36 @@
+{
+  "id": "in-greenwood-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "647 Sayre Ct a",
+    "city": "Greenwood",
+    "state": "IN",
+    "zip": "46143"
+  },
+  "location": {
+    "lat": 39.628334,
+    "lng": -86.085106
+  },
+  "contact": {
+    "phone": "(317) 882-6056"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4eef920a-382c-43e1-bb15-c9a6dc8b2db4",
+    "confidence": 0.557,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mn-hastings-solberg-aggregate",
+  "slug": "solberg-aggregate",
+  "name": "Solberg Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15624 Jacob Ave",
+    "city": "Hastings",
+    "state": "MN",
+    "zip": "55033"
+  },
+  "location": {
+    "lat": 44.721512,
+    "lng": -92.903549
+  },
+  "contact": {
+    "phone": "(651) 437-7533",
+    "website": "https://solberg-aggregate-co.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f029232c-0a03-484b-80fb-0a0c9ade610e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

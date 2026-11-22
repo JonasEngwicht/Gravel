@@ -1,0 +1,36 @@
+{
+  "id": "pa-garnet-valley-kovatch-landscaping-and-mulch",
+  "slug": "kovatch-landscaping-and-mulch",
+  "name": "Kovatch Landscaping & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1450 conchester Highway",
+    "city": "Garnet valley",
+    "state": "PA",
+    "zip": "19060"
+  },
+  "location": {
+    "lat": 39.856426,
+    "lng": -75.472336
+  },
+  "contact": {
+    "phone": "(610) 255-3300",
+    "website": "http://www.kovatchlandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb1c395d-a837-4686-a068-b38182ce0d58",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

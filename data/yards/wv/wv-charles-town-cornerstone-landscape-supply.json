@@ -1,0 +1,36 @@
+{
+  "id": "wv-charles-town-cornerstone-landscape-supply",
+  "slug": "cornerstone-landscape-supply",
+  "name": "Cornerstone Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "154 Wolfcraft Way",
+    "city": "Charles Town",
+    "state": "WV",
+    "zip": "25414"
+  },
+  "location": {
+    "lat": 39.303188,
+    "lng": -77.813004
+  },
+  "contact": {
+    "phone": "(304) 707-0437",
+    "website": "http://www.cornerstonelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6bce4145-bf8f-4799-9a36-dd9a913d579d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

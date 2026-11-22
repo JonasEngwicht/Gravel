@@ -1,0 +1,37 @@
+{
+  "id": "pa-patton-twp-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "143 Hawbaker Industrial Dr Ste 109",
+    "city": "Patton Twp",
+    "state": "PA",
+    "zip": "16803"
+  },
+  "location": {
+    "lat": 40.813988,
+    "lng": -77.915894
+  },
+  "contact": {
+    "phone": "(814) 861-3247",
+    "website": "https://www.siteone.com/store/798"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "947e6a29-f3d0-4e28-897b-4e38602f01b2",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ma-east-longmeadow-a-and-b-mulch",
+  "slug": "a-and-b-mulch",
+  "name": "A&B Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "98 Deer Park Dr",
+    "city": "East Longmeadow",
+    "state": "MA",
+    "zip": "01028"
+  },
+  "location": {
+    "lat": 42.03841,
+    "lng": -72.521004
+  },
+  "contact": {
+    "phone": "(413) 595-4096",
+    "website": "http://abmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e1c2e60-b50c-4398-9fd7-80aad638ec66",
+    "confidence": 0.935,
+    "merged_records": 1
+  }
+}

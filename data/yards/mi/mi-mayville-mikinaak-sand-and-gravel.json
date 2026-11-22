@@ -1,0 +1,36 @@
+{
+  "id": "mi-mayville-mikinaak-sand-and-gravel",
+  "slug": "mikinaak-sand-and-gravel",
+  "name": "Mikinaak Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2270 W Snover Rd",
+    "city": "Mayville",
+    "state": "MI",
+    "zip": "48744"
+  },
+  "location": {
+    "lat": 43.350384,
+    "lng": -83.432831
+  },
+  "contact": {
+    "phone": "(989) 843-0087",
+    "website": "http://www.mikinaakllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30c9ca9c-ba69-42d6-a3f4-ff41a7a89fd2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

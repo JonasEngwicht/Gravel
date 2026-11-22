@@ -1,0 +1,36 @@
+{
+  "id": "in-linton-the-yard-landscape-supply",
+  "slug": "the-yard-landscape-supply",
+  "name": "The Yard Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "409 S Main St",
+    "city": "Linton",
+    "state": "IN",
+    "zip": "47441"
+  },
+  "location": {
+    "lat": 39.029678,
+    "lng": -87.165779
+  },
+  "contact": {
+    "phone": "(812) 798-9621",
+    "website": "http://www.theyardlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "67781893-ad73-4964-abc7-e5232eee56bc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

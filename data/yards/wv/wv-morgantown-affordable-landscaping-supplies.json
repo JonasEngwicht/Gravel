@@ -1,0 +1,36 @@
+{
+  "id": "wv-morgantown-affordable-landscaping-supplies",
+  "slug": "affordable-landscaping-supplies",
+  "name": "Affordable Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "273 Point Marion Rd",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26505"
+  },
+  "location": {
+    "lat": 39.660244,
+    "lng": -79.915115
+  },
+  "contact": {
+    "phone": "(304) 291-3400",
+    "website": "http://aflswv.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a97dd962-5f33-4c87-bf04-5691fb853219",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

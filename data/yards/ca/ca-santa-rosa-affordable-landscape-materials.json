@@ -1,0 +1,36 @@
+{
+  "id": "ca-santa-rosa-affordable-landscape-materials",
+  "slug": "affordable-landscape-materials",
+  "name": "Affordable Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1051 Todd Rd",
+    "city": "Santa-Rosa",
+    "state": "CA",
+    "zip": "95407"
+  },
+  "location": {
+    "lat": 38.387127,
+    "lng": -122.751823
+  },
+  "contact": {
+    "phone": "(707) 585-1903",
+    "website": "https://www.davisdemolition.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4e4d965-2452-42cc-aba3-c96a1b273305",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

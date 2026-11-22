@@ -1,0 +1,36 @@
+{
+  "id": "tn-franklin-mid-south-mulch-and-outdoor-services",
+  "slug": "mid-south-mulch-and-outdoor-services",
+  "name": "Mid South Mulch & Outdoor Services",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "430 Lewisburg Ave",
+    "city": "Franklin",
+    "state": "TN",
+    "zip": "37064"
+  },
+  "location": {
+    "lat": 35.912285,
+    "lng": -86.864586
+  },
+  "contact": {
+    "phone": "(615) 599-7550",
+    "website": "https://landscapingservicesfranklin.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "527b7762-8f4b-45a6-9562-a01e84d707ef",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

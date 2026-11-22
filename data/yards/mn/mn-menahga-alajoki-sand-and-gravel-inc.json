@@ -1,0 +1,47 @@
+{
+  "id": "mn-menahga-alajoki-sand-and-gravel-inc",
+  "slug": "alajoki-sand-and-gravel-inc",
+  "name": "Alajoki Sand & Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14787 583rd Ave",
+    "city": "Menahga",
+    "state": "MN",
+    "zip": "56464"
+  },
+  "location": {
+    "lat": 46.786823,
+    "lng": -95.18354
+  },
+  "contact": {
+    "phone": "(218) 564-5900"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c8edce68-921c-49c3-bf14-eb6151cf6e70",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2103426",
+      "name": "Alajoki Pit",
+      "operator": "Alajoki Sand & Gravel, Inc.",
+      "status": "Intermittent",
+      "status_since": "2013-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

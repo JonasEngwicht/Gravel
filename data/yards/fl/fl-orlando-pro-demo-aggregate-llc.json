@@ -1,0 +1,32 @@
+{
+  "id": "fl-orlando-pro-demo-aggregate-llc",
+  "slug": "pro-demo-aggregate-llc",
+  "name": "Pro Demo Aggregate Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2423 S Orange Ave PMB 338",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32806"
+  },
+  "location": {
+    "lat": 28.515318,
+    "lng": -81.376221
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7f05249-1bdb-46c7-8638-aa4cb8e5c676",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

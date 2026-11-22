@@ -1,0 +1,35 @@
+{
+  "id": "wi-madison-ace-mulches-llc",
+  "slug": "ace-mulches-llc",
+  "name": "Ace Mulches LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7313 E Buckeye Rd",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53718"
+  },
+  "location": {
+    "lat": 43.066448,
+    "lng": -89.254868
+  },
+  "contact": {
+    "phone": "(608) 221-9120"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b29517c6-af35-469a-9189-62f24efd47a1",
+    "confidence": 0.955,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "oh-kingsville-nelson-sand-and-gravel",
+  "slug": "nelson-sand-and-gravel",
+  "name": "Nelson Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5720 State Route 193",
+    "city": "Kingsville",
+    "state": "OH",
+    "zip": "44048"
+  },
+  "location": {
+    "lat": 41.882683,
+    "lng": -80.666901
+  },
+  "contact": {
+    "phone": "(440) 224-0198"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "edd4f7c0-c1fb-4c72-a526-2e44d3dcdd07",
+    "confidence": 0.69,
+    "merged_records": 1
+  }
+}

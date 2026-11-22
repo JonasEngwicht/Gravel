@@ -1,0 +1,36 @@
+{
+  "id": "or-klamath-falls-rivers-edge-landscape-supply",
+  "slug": "rivers-edge-landscape-supply",
+  "name": "Rivers Edge Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2901 Memorial Dr",
+    "city": "Klamath Falls",
+    "state": "OR",
+    "zip": "97601"
+  },
+  "location": {
+    "lat": 42.189816,
+    "lng": -121.785912
+  },
+  "contact": {
+    "phone": "(541) 882-3143",
+    "website": "http://www.riversedgenursery.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "888cc564-f551-4458-9ef8-a03525cc9bf9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

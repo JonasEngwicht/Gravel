@@ -1,0 +1,36 @@
+{
+  "id": "al-monroeville-rockhead-sand-and-gravel-llc",
+  "slug": "rockhead-sand-and-gravel-llc",
+  "name": "Rockhead Sand & Gravel, LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4441 S Alabama Ave",
+    "city": "Monroeville",
+    "state": "AL",
+    "zip": "36460"
+  },
+  "location": {
+    "lat": 31.470306,
+    "lng": -87.343712
+  },
+  "contact": {
+    "phone": "(251) 244-0148",
+    "website": "http://www.rockheadsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e035f233-aab2-4894-b339-bd979e6cac70",
+    "confidence": 0.605,
+    "merged_records": 1
+  }
+}

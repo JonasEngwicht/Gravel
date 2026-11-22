@@ -1,0 +1,48 @@
+{
+  "id": "la-denham-springs-mears-sand-and-gravel",
+  "slug": "mears-sand-and-gravel",
+  "name": "Mears Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "40 Mears Rd",
+    "city": "Denham Springs",
+    "state": "LA",
+    "zip": "70706"
+  },
+  "location": {
+    "lat": 30.651821,
+    "lng": -90.902618
+  },
+  "contact": {
+    "phone": "(225) 665-1830",
+    "website": "http://www.mearsgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b8f92fe7-4503-4659-bd29-9db5f804b086",
+    "confidence": 0.99,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1600883",
+      "name": "Mears",
+      "operator": "Mears Sand & Gravel, LLC",
+      "status": "Active",
+      "status_since": "1983-07-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

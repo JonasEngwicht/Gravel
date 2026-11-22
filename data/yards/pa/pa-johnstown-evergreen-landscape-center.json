@@ -1,0 +1,36 @@
+{
+  "id": "pa-johnstown-evergreen-landscape-center",
+  "slug": "evergreen-landscape-center",
+  "name": "Evergreen Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "263 Solomon Run Rd",
+    "city": "Johnstown",
+    "state": "PA",
+    "zip": "15904"
+  },
+  "location": {
+    "lat": 40.301365,
+    "lng": -78.846786
+  },
+  "contact": {
+    "phone": "(814) 269-9597",
+    "website": "https://www.nitterhousemasonry.com/company/locations/evergreen-landscape-center"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9645d9b6-8cab-48a1-9594-ae94d99e6c11",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

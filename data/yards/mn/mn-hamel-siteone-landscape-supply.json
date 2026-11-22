@@ -1,0 +1,37 @@
+{
+  "id": "mn-hamel-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "640 Hamel Rd",
+    "city": "Hamel",
+    "state": "MN",
+    "zip": "55340"
+  },
+  "location": {
+    "lat": 45.04351,
+    "lng": -93.538742
+  },
+  "contact": {
+    "phone": "(763) 478-4725",
+    "website": "https://www.siteone.com/en/store/76"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "922e7e7c-6b36-4c01-b1de-dcabcb575890",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

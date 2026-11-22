@@ -1,0 +1,36 @@
+{
+  "id": "ok-oklahoma-city-custom-wood-fibers-and-cedar-mulch",
+  "slug": "custom-wood-fibers-and-cedar-mulch",
+  "name": "Custom wood fibers and cedar mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "616 N MacArthur Blvd",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73127"
+  },
+  "location": {
+    "lat": 35.473881,
+    "lng": -97.618256
+  },
+  "contact": {
+    "phone": "(405) 745-2270",
+    "website": "http://Customwoodfibers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62154020-dc66-4c97-aaa9-ca9423cf9a7c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "or-bend-shevlin-sand-and-gravel",
+  "slug": "shevlin-sand-and-gravel",
+  "name": "Shevlin Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "63285 Skyline Ranch Rd",
+    "city": "Bend",
+    "state": "OR",
+    "zip": "97703"
+  },
+  "location": {
+    "lat": 44.105042,
+    "lng": -121.346275
+  },
+  "contact": {
+    "phone": "(541) 312-4730"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e733ace2-1b75-41ca-8623-a429415247bd",
+    "confidence": 0.55,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3502931",
+      "name": "Cake Pit",
+      "operator": "Shevlin Sand & Gravel LLC",
+      "status": "Abandoned",
+      "status_since": "2022-02-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

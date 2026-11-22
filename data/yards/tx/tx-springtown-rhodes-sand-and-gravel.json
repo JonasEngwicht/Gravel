@@ -1,0 +1,35 @@
+{
+  "id": "tx-springtown-rhodes-sand-and-gravel",
+  "slug": "rhodes-sand-and-gravel",
+  "name": "Rhodes Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "214 Springfield Ct N",
+    "city": "Springtown",
+    "state": "TX",
+    "zip": "76082"
+  },
+  "location": {
+    "lat": 32.975822,
+    "lng": -97.656868
+  },
+  "contact": {
+    "phone": "(817) 228-7404"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0586b2f-5197-443e-a444-62c120e9111d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

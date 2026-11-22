@@ -1,0 +1,36 @@
+{
+  "id": "fl-ponte-vedra-beach-double-j-s-landscape-supply",
+  "slug": "double-j-s-landscape-supply",
+  "name": "Double J's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "123 Canal Blvd",
+    "city": "Ponte Vedra Beach",
+    "state": "FL",
+    "zip": "32082"
+  },
+  "location": {
+    "lat": 30.176443,
+    "lng": -81.399063
+  },
+  "contact": {
+    "phone": "(904) 285-4573",
+    "website": "http://www.pvmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8b230d2a-5506-49b6-afe2-2592ed6fb001",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

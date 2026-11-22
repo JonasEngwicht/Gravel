@@ -1,0 +1,36 @@
+{
+  "id": "ma-walpole-mf-landscaping-supply",
+  "slug": "mf-landscaping-supply",
+  "name": "MF Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1049 West St",
+    "city": "Walpole",
+    "state": "MA",
+    "zip": "02081"
+  },
+  "location": {
+    "lat": 42.129631,
+    "lng": -71.293205
+  },
+  "contact": {
+    "phone": "(508) 680-0045",
+    "website": "https://mflandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62803e34-898c-4250-ba61-d11c50ab226d",
+    "confidence": 0.886,
+    "merged_records": 1
+  }
+}

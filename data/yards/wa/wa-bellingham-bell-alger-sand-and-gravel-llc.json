@@ -1,0 +1,36 @@
+{
+  "id": "wa-bellingham-bell-alger-sand-and-gravel-llc",
+  "slug": "bell-alger-sand-and-gravel-llc",
+  "name": "Bell./ Alger Sand & Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "983 Old Samish Rd",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98229"
+  },
+  "location": {
+    "lat": 48.690853,
+    "lng": -122.441704
+  },
+  "contact": {
+    "phone": "(360) 733-3483",
+    "website": "http://www.bellalgerllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "58df6cf5-f2d4-4814-80ad-2d82a27ea07a",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pa-north-east-girts-sand-and-gravel-llc",
+  "slug": "girts-sand-and-gravel-llc",
+  "name": "Girts Sand & Gravel, LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11850 Findley Lake Rd",
+    "city": "North East",
+    "state": "PA",
+    "zip": "16428"
+  },
+  "location": {
+    "lat": 42.203537,
+    "lng": -79.798889
+  },
+  "contact": {
+    "phone": "(814) 725-9757"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "682d8599-5785-42a1-9fb1-4ae5e8c2bf80",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3610336",
+      "name": "I-110 Rse89157",
+      "operator": "Girts Sand and Gravel LLC",
+      "status": "Abandoned",
+      "status_since": "2024-04-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fl-tampa-jimco-stone-center",
+  "slug": "jimco-stone-center",
+  "name": "Jimco Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5724 E Adamo Dr",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33619"
+  },
+  "location": {
+    "lat": 27.953268,
+    "lng": -82.389793
+  },
+  "contact": {
+    "phone": "(813) 621-5428"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ddd65ef7-dd05-4247-a8fb-d2b3309b7936",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-mokena-area-landscape-supply-inc",
+  "slug": "area-landscape-supply-inc",
+  "name": "Area Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18851 S, Wolf Rd",
+    "city": "Mokena",
+    "state": "IL",
+    "zip": "60448"
+  },
+  "location": {
+    "lat": 41.546799,
+    "lng": -87.888313
+  },
+  "contact": {
+    "phone": "(708) 479-8400",
+    "website": "https://arealandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1bdec54d-fdbe-4468-b41c-02d63c5361c1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

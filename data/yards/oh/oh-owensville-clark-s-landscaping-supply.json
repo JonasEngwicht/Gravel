@@ -1,0 +1,36 @@
+{
+  "id": "oh-owensville-clark-s-landscaping-supply",
+  "slug": "clark-s-landscaping-supply",
+  "name": "Clark's Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "330 E Main St",
+    "city": "Owensville",
+    "state": "OH",
+    "zip": "45160"
+  },
+  "location": {
+    "lat": 39.125324,
+    "lng": -84.129311
+  },
+  "contact": {
+    "phone": "(513) 732-1566",
+    "website": "https://www.doitbest.com/clarks/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d6950322-8092-409f-b23b-1b84125b62f3",
+    "confidence": 0.971,
+    "merged_records": 1
+  }
+}

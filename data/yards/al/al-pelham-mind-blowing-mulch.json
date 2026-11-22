@@ -1,0 +1,35 @@
+{
+  "id": "al-pelham-mind-blowing-mulch",
+  "slug": "mind-blowing-mulch",
+  "name": "Mind Blowing Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1124 Weybridge Way",
+    "city": "Pelham",
+    "state": "AL",
+    "zip": "35124"
+  },
+  "location": {
+    "lat": 33.26635,
+    "lng": -86.754723
+  },
+  "contact": {
+    "phone": "(205) 777-1471"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd9c0f24-48ee-4ebc-9be8-7cd6c210cfa4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

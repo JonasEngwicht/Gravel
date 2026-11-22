@@ -1,0 +1,36 @@
+{
+  "id": "or-scappoose-scappoose-sand-and-gravel-co",
+  "slug": "scappoose-sand-and-gravel-co",
+  "name": "Scappoose Sand and Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "33485 Crown Zellerbach Rd",
+    "city": "Scappoose",
+    "state": "OR",
+    "zip": "97056"
+  },
+  "location": {
+    "lat": 45.763378,
+    "lng": -122.877174
+  },
+  "contact": {
+    "phone": "(503) 543-8821",
+    "website": "http://www.scappoose.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d8367319-8286-4497-9f01-5206147279fa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

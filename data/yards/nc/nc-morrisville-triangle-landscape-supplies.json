@@ -1,0 +1,35 @@
+{
+  "id": "nc-morrisville-triangle-landscape-supplies",
+  "slug": "triangle-landscape-supplies",
+  "name": "Triangle Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10706 Chapel Hill Rd",
+    "city": "Morrisville",
+    "state": "NC",
+    "zip": "27560"
+  },
+  "location": {
+    "lat": 35.847836,
+    "lng": -78.835365
+  },
+  "contact": {
+    "phone": "(919) 460-4410"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f48dafb-28bb-47f7-8534-a83c93e704aa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-iron-mountain-midwest-asphalt-and-gravel-inc",
+  "slug": "midwest-asphalt-and-gravel-inc",
+  "name": "Midwest Asphalt & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1910 N Stephenson Ave",
+    "city": "Iron Mountain",
+    "state": "MI",
+    "zip": "49801"
+  },
+  "location": {
+    "lat": 45.843819,
+    "lng": -88.050148
+  },
+  "contact": {
+    "phone": "(906) 774-0377",
+    "website": "https://midwestasphaltandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0c64875-e2be-4904-8e98-d959428d590e",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

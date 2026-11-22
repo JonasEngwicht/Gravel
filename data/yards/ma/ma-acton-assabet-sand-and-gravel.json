@@ -1,0 +1,47 @@
+{
+  "id": "ma-acton-assabet-sand-and-gravel",
+  "slug": "assabet-sand-and-gravel",
+  "name": "Assabet Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16 Knox Trl",
+    "city": "Acton",
+    "state": "MA",
+    "zip": "01720"
+  },
+  "location": {
+    "lat": 42.443577,
+    "lng": -71.42775
+  },
+  "contact": {
+    "phone": "(978) 897-7661"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4b3b66fd-cbea-40ab-a3cf-49d70cfd0a9f",
+    "confidence": 0.55,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900282",
+      "name": "Assabet Sand & Gravel Co Inc",
+      "operator": "Assabet Sand & Gravel Co. Inc.",
+      "status": "Abandoned",
+      "status_since": "2012-12-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

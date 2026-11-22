@@ -1,0 +1,48 @@
+{
+  "id": "ct-stafford-springs-stafford-sand-and-gravel-llc",
+  "slug": "stafford-sand-and-gravel-llc",
+  "name": "Stafford Sand & Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "156 Cooper Ln",
+    "city": "Stafford Springs",
+    "state": "CT",
+    "zip": "06076"
+  },
+  "location": {
+    "lat": 41.96505,
+    "lng": -72.346001
+  },
+  "contact": {
+    "phone": "(860) 684-2789",
+    "website": "http://www.staffordsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c9b13e9-f1ad-4d7a-8510-cc78616bf9f3",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0600770",
+      "name": "Stafford Sand And Gravel Llc",
+      "operator": "Stafford Sand And Gravel Llc",
+      "status": "Intermittent",
+      "status_since": "2026-02-24",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

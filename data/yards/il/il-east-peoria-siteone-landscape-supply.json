@@ -1,0 +1,37 @@
+{
+  "id": "il-east-peoria-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "128 Thunderbird Ln",
+    "city": "East Peoria",
+    "state": "IL",
+    "zip": "61611"
+  },
+  "location": {
+    "lat": 40.712414,
+    "lng": -89.535156
+  },
+  "contact": {
+    "phone": "(309) 694-4296",
+    "website": "https://www.siteone.com/en/store/258"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe827373-f951-44f1-bb3b-449c2bba232b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nm-santa-fe-southwest-landscaping-materials",
+  "slug": "southwest-landscaping-materials",
+  "name": "Southwest Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6847 Airport Rd",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87507"
+  },
+  "location": {
+    "lat": 35.634598,
+    "lng": -106.054482
+  },
+  "contact": {
+    "phone": "(505) 471-0770",
+    "website": "http://www.southwestlandscapingmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "947e8652-a55f-467f-8705-2175e214a676",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

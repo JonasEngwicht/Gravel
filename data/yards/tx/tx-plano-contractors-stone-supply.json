@@ -1,0 +1,36 @@
+{
+  "id": "tx-plano-contractors-stone-supply",
+  "slug": "contractors-stone-supply",
+  "name": "Contractors Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6620 K Ave",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074"
+  },
+  "location": {
+    "lat": 33.064423,
+    "lng": -96.68792
+  },
+  "contact": {
+    "phone": "(972) 516-1468",
+    "website": "https://www.contractors-stone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31c91f5f-f355-421c-8435-e828a932200e",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

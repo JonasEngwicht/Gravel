@@ -1,0 +1,32 @@
+{
+  "id": "ar-benton-holland-gravel-co-inc",
+  "slug": "holland-gravel-co-inc",
+  "name": "Holland Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1107 Airlane",
+    "city": "Benton",
+    "state": "AR",
+    "zip": "72015"
+  },
+  "location": {
+    "lat": 34.553135,
+    "lng": -92.60556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fdff3511-5fc4-413f-894c-7a436e4d8a66",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "il-aurora-thom-gravel-and-excavating-inc",
+  "slug": "thom-gravel-and-excavating-inc",
+  "name": "Thom Gravel & Excavating Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "749 Morton Ave",
+    "city": "Aurora",
+    "state": "IL",
+    "zip": "60506"
+  },
+  "location": {
+    "lat": 41.772167,
+    "lng": -88.335396
+  },
+  "contact": {
+    "phone": "(630) 859-1114"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4a2083d1-33eb-4b0f-bc5b-083fcf515464",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

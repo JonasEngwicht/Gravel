@@ -1,0 +1,36 @@
+{
+  "id": "ny-orchard-park-buffalo-and-orchard-park-topsoil",
+  "slug": "buffalo-and-orchard-park-topsoil",
+  "name": "Buffalo & Orchard Park Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3340 N Benzing Rd",
+    "city": "Orchard Park",
+    "state": "NY",
+    "zip": "14127"
+  },
+  "location": {
+    "lat": 42.794041,
+    "lng": -78.779449
+  },
+  "contact": {
+    "phone": "(716) 822-2807",
+    "website": "http://www.buffalonytopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4a886107-1959-4ce0-97a2-38f2794e8949",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

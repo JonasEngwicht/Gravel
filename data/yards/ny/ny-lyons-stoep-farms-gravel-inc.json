@@ -1,0 +1,36 @@
+{
+  "id": "ny-lyons-stoep-farms-gravel-inc",
+  "slug": "stoep-farms-gravel-inc",
+  "name": "Stoep Farms Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "200 Layton St",
+    "city": "Lyons",
+    "state": "NY",
+    "zip": "14489"
+  },
+  "location": {
+    "lat": 43.076298,
+    "lng": -77.007462
+  },
+  "contact": {
+    "phone": "(315) 576-5572",
+    "website": "http://stoepfarmsgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3f75fe2-04a8-4b18-86a3-81baeb659542",
+    "confidence": 0.557,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-richmond-eagle-rock-aggregates-orca-sand-and-gravel",
+  "slug": "eagle-rock-aggregates-orca-sand-and-gravel",
+  "name": "Eagle Rock Aggregates/Orca Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "700 Wright Ave",
+    "city": "Richmond",
+    "state": "CA",
+    "zip": "94804"
+  },
+  "location": {
+    "lat": 37.919586,
+    "lng": -122.363289
+  },
+  "contact": {
+    "phone": "(510) 231-2200",
+    "website": "http://www.polarismaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc731d33-7f69-4d8d-9aa9-666cd6403cd4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

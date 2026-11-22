@@ -1,0 +1,36 @@
+{
+  "id": "ut-heber-city-staker-parson-landscape-centers-a-crh-company",
+  "slug": "staker-parson-landscape-centers-a-crh-company",
+  "name": "Staker Parson Landscape Centers, A CRH Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3595 S 2800 W",
+    "city": "Heber City",
+    "state": "UT",
+    "zip": "84032"
+  },
+  "location": {
+    "lat": 40.463394,
+    "lng": -111.456207
+  },
+  "contact": {
+    "phone": "(801) 409-9500",
+    "website": "https://stakerparson.com/companies/staker-parson-landscape-centers/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f4f8f333-58f1-45b4-aab1-b429a83e6a7d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tn-nashville-c-j-mulch-inc",
+  "slug": "c-j-mulch-inc",
+  "name": "C J Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4614 Amy Lynn Dr",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37218"
+  },
+  "location": {
+    "lat": 36.208141,
+    "lng": -86.88401
+  },
+  "contact": {
+    "phone": "(615) 255-7107"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "230647ac-7674-41ce-a163-8379ca5e9474",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

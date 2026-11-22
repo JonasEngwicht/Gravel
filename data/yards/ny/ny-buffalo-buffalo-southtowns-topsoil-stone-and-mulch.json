@@ -1,0 +1,35 @@
+{
+  "id": "ny-buffalo-buffalo-southtowns-topsoil-stone-and-mulch",
+  "slug": "buffalo-southtowns-topsoil-stone-and-mulch",
+  "name": "Buffalo Southtowns Topsoil, Stone & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3401 Lake Shore Rd",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14219"
+  },
+  "location": {
+    "lat": 42.793449,
+    "lng": -78.845993
+  },
+  "contact": {
+    "phone": "(716) 341-3196"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "84bc14f8-6410-44aa-abc2-46a8041df77d",
+    "confidence": 0.522,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "or-eugene-delta-sand-and-gravel",
+  "slug": "delta-sand-and-gravel",
+  "name": "Delta Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "999 Division Ave",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97404"
+  },
+  "location": {
+    "lat": 44.096642,
+    "lng": -123.108208
+  },
+  "contact": {
+    "phone": "(541) 688-2233",
+    "website": "http://deltasg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "258aad88-b458-4ec6-9adc-62e9402a3ac0",
+    "confidence": 0.989,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3500481",
+      "name": "Delta Pit And Plant",
+      "operator": "Delta Sand & Gravel Company",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 27
+    },
+    {
+      "mine_id": "3503449",
+      "name": "Eugene Plant",
+      "operator": "Knife River Corporation-Northwest",
+      "status": "Intermittent",
+      "status_since": "2009-02-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

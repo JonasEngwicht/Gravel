@@ -1,0 +1,36 @@
+{
+  "id": "ut-copperton-rock-n-yard-landscape-materials",
+  "slug": "rock-n-yard-landscape-materials",
+  "name": "Rock N Yard Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8480 W State Hwy",
+    "city": "Copperton",
+    "state": "UT",
+    "zip": "84006"
+  },
+  "location": {
+    "lat": 40.566345,
+    "lng": -112.093216
+  },
+  "contact": {
+    "phone": "(801) 381-6782",
+    "website": "http://rocknyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d54c17a3-835b-4147-b73d-ae0b5021226f",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

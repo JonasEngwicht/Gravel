@@ -1,0 +1,36 @@
+{
+  "id": "pa-upper-mt-bethel-twp-pcp-landscaping-products",
+  "slug": "pcp-landscaping-products",
+  "name": "PCP Landscaping Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "59 Lake Minsi Dr",
+    "city": "Upper Mt Bethel Twp",
+    "state": "PA",
+    "zip": "18013"
+  },
+  "location": {
+    "lat": 40.900192,
+    "lng": -75.212936
+  },
+  "contact": {
+    "phone": "(610) 442-6976",
+    "website": "https://www.pcplandscapingproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "040b0b87-aa21-4712-b98b-a71b3f848880",
+    "confidence": 0.557,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-palm-desert-siteone-landscape-supply-74991-velie-way",
+  "slug": "siteone-landscape-supply-74991-velie-way",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "74991 Velie Way",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92260"
+  },
+  "location": {
+    "lat": 33.74229,
+    "lng": -116.356827
+  },
+  "contact": {
+    "phone": "(760) 776-4250",
+    "website": "https://www.siteone.com/store/326"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9eef243-eb35-455b-aa49-c7e0862fb531",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

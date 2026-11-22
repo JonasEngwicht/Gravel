@@ -1,0 +1,35 @@
+{
+  "id": "la-westlake-landscape-supply-and-nursery",
+  "slug": "landscape-supply-and-nursery",
+  "name": "Landscape Supply and Nursery",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1505 Sampson St",
+    "city": "Westlake",
+    "state": "LA",
+    "zip": "70669"
+  },
+  "location": {
+    "lat": 30.251663,
+    "lng": -93.258629
+  },
+  "contact": {
+    "phone": "(337) 540-6757"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "238c6123-8698-46f2-a364-8efdcff7e54f",
+    "confidence": 0.879,
+    "merged_records": 1
+  }
+}

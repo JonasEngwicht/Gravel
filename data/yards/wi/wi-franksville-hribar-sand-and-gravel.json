@@ -1,0 +1,36 @@
+{
+  "id": "wi-franksville-hribar-sand-and-gravel",
+  "slug": "hribar-sand-and-gravel",
+  "name": "Hribar Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2905 76th St",
+    "city": "Franksville",
+    "state": "WI",
+    "zip": "53126"
+  },
+  "location": {
+    "lat": 42.792503,
+    "lng": -88.012444
+  },
+  "contact": {
+    "phone": "(262) 835-4760",
+    "website": "https://www.hribarsandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af82fc94-c1b5-4d5d-a0c9-9fb1e570875d",
+    "confidence": 0.966,
+    "merged_records": 2
+  }
+}

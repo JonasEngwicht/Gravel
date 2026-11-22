@@ -1,0 +1,48 @@
+{
+  "id": "ny-bath-knight-settlement-sand-and-gravel",
+  "slug": "knight-settlement-sand-and-gravel",
+  "name": "Knight Settlement Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7291 County Route 15",
+    "city": "Bath",
+    "state": "NY",
+    "zip": "14810"
+  },
+  "location": {
+    "lat": 42.355068,
+    "lng": -77.354294
+  },
+  "contact": {
+    "phone": "(607) 776-2048",
+    "website": "https://knightsettlement.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ea55496-ceb0-4245-9c3a-dfae1db36ffa",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3001289",
+      "name": "Knight Settlement Sand & Gravel LLC",
+      "operator": "Dolomite Group",
+      "status": "Intermittent",
+      "status_since": "2025-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

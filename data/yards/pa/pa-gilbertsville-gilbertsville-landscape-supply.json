@@ -1,0 +1,36 @@
+{
+  "id": "pa-gilbertsville-gilbertsville-landscape-supply",
+  "slug": "gilbertsville-landscape-supply",
+  "name": "Gilbertsville Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "170 Smith Rd",
+    "city": "Gilbertsville",
+    "state": "PA",
+    "zip": "19525"
+  },
+  "location": {
+    "lat": 40.321815,
+    "lng": -75.598991
+  },
+  "contact": {
+    "phone": "(610) 367-5685",
+    "website": "http://www.wrfrielexcavating.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ebd40e43-181d-46ca-b27f-3d28610be690",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

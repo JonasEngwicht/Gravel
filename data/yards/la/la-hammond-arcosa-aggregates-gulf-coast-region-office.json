@@ -1,0 +1,36 @@
+{
+  "id": "la-hammond-arcosa-aggregates-gulf-coast-region-office",
+  "slug": "arcosa-aggregates-gulf-coast-region-office",
+  "name": "Arcosa Aggregates- Gulf Coast Region Office",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "130 Robinhood Dr",
+    "city": "Hammond",
+    "state": "LA",
+    "zip": "70403"
+  },
+  "location": {
+    "lat": 30.499983,
+    "lng": -90.49836
+  },
+  "contact": {
+    "phone": "(225) 667-5868",
+    "website": "https://www.arcosaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a647a963-bb56-47a9-bcbf-c054991840b9",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

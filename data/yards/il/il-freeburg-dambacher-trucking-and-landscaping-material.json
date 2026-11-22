@@ -1,0 +1,35 @@
+{
+  "id": "il-freeburg-dambacher-trucking-and-landscaping-material",
+  "slug": "dambacher-trucking-and-landscaping-material",
+  "name": "Dambacher Trucking & Landscaping Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "609 N Main St",
+    "city": "Freeburg",
+    "state": "IL",
+    "zip": "62243"
+  },
+  "location": {
+    "lat": 38.434753,
+    "lng": -89.913795
+  },
+  "contact": {
+    "phone": "(618) 539-3503"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9672881d-5698-4242-b33c-a75623aede46",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

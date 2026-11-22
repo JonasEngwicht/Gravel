@@ -1,0 +1,36 @@
+{
+  "id": "ma-charlton-larry-s-landscape-supplies",
+  "slug": "larry-s-landscape-supplies",
+  "name": "Larry's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "144 Worcester Rd",
+    "city": "Charlton",
+    "state": "MA",
+    "zip": "01507"
+  },
+  "location": {
+    "lat": 42.144791,
+    "lng": -71.967957
+  },
+  "contact": {
+    "phone": "(508) 248-6004",
+    "website": "http://www.larryslandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "722921a4-542b-4282-874e-d32718ff0b41",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

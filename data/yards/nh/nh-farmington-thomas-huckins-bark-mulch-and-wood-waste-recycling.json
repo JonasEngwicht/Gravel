@@ -1,0 +1,36 @@
+{
+  "id": "nh-farmington-thomas-huckins-bark-mulch-and-wood-waste-recycling",
+  "slug": "thomas-huckins-bark-mulch-and-wood-waste-recycling",
+  "name": "Thomas Huckins Bark Mulch And Wood Waste Recycling",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "282 Chestnut Hill Rd",
+    "city": "Farmington",
+    "state": "NH",
+    "zip": "03835"
+  },
+  "location": {
+    "lat": 43.373058,
+    "lng": -71.026176
+  },
+  "contact": {
+    "phone": "(603) 781-2275",
+    "website": "http://huckinsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c57262dd-8ab2-4f49-b1fe-1e72565a4b17",
+    "confidence": 0.541,
+    "merged_records": 1
+  }
+}

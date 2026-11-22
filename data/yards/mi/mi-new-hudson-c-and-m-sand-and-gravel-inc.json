@@ -1,0 +1,35 @@
+{
+  "id": "mi-new-hudson-c-and-m-sand-and-gravel-inc",
+  "slug": "c-and-m-sand-and-gravel-inc",
+  "name": "C&M Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "29715 Costello Dr",
+    "city": "New Hudson",
+    "state": "MI",
+    "zip": "48165"
+  },
+  "location": {
+    "lat": 42.508465,
+    "lng": -83.609146
+  },
+  "contact": {
+    "phone": "(248) 437-5640"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "23b16a4c-310d-42b0-a486-31cb7156051a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

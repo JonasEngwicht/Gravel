@@ -1,0 +1,48 @@
+{
+  "id": "md-harwood-chaney-enterprises-harwood-md-sand-and-gravel",
+  "slug": "chaney-enterprises-harwood-md-sand-and-gravel",
+  "name": "Chaney Enterprises - Harwood, MD Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4379 Sands Rd",
+    "city": "Harwood",
+    "state": "MD",
+    "zip": "20776"
+  },
+  "location": {
+    "lat": 38.871059,
+    "lng": -76.672386
+  },
+  "contact": {
+    "phone": "(301) 932-5000",
+    "website": "http://chaneyenterprises.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ec82d10f-242d-472c-8957-11fc4065a1f1",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1800763",
+      "name": "Harwood-MD Sand & Gravel",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Active",
+      "status_since": "2013-01-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

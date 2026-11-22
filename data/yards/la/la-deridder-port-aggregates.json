@@ -1,0 +1,36 @@
+{
+  "id": "la-deridder-port-aggregates",
+  "slug": "port-aggregates",
+  "name": "Port Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "200 Decker Rd",
+    "city": "Deridder",
+    "state": "LA",
+    "zip": "70634"
+  },
+  "location": {
+    "lat": 30.814745,
+    "lng": -93.268333
+  },
+  "contact": {
+    "phone": "(337) 463-5226",
+    "website": "http://www.portaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "46bf856d-169d-48c8-b825-b5127e6e49c9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

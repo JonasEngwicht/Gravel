@@ -1,0 +1,37 @@
+{
+  "id": "ct-guilford-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1 Shoreline Dr",
+    "city": "Guilford",
+    "state": "CT",
+    "zip": "06437"
+  },
+  "location": {
+    "lat": 41.280861,
+    "lng": -72.656494
+  },
+  "contact": {
+    "phone": "(203) 453-8945",
+    "website": "https://www.siteone.com/store/768"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c74ca640-ef42-43d6-b43d-a13353877ddf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

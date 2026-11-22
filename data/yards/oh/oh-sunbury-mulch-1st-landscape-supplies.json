@@ -1,0 +1,36 @@
+{
+  "id": "oh-sunbury-mulch-1st-landscape-supplies",
+  "slug": "mulch-1st-landscape-supplies",
+  "name": "Mulch 1st Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9821 E State Route 37",
+    "city": "Sunbury",
+    "state": "OH",
+    "zip": "43074"
+  },
+  "location": {
+    "lat": 40.260262,
+    "lng": -82.886734
+  },
+  "contact": {
+    "phone": "(740) 965-6482",
+    "website": "https://www.mulch1st.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d029d1df-650f-40fb-8c9c-6c55c6311c04",
+    "confidence": 0.797,
+    "merged_records": 1
+  }
+}

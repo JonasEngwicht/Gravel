@@ -1,0 +1,36 @@
+{
+  "id": "va-palmyra-monticello-mulch",
+  "slug": "monticello-mulch",
+  "name": "Monticello Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3647 Lake Monticello Rd",
+    "city": "Palmyra",
+    "state": "VA",
+    "zip": "22963"
+  },
+  "location": {
+    "lat": 37.9175,
+    "lng": -78.302811
+  },
+  "contact": {
+    "phone": "(434) 589-8675",
+    "website": "http://www.monticellomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a9e0c9b-7106-46e0-b39a-6eb0f1cd5949",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

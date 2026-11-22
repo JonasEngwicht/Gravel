@@ -1,0 +1,36 @@
+{
+  "id": "fl-fellsmere-stavola-aggregate-supply",
+  "slug": "stavola-aggregate-supply",
+  "name": "Stavola Aggregate Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "610 Centerlane Rd",
+    "city": "Fellsmere",
+    "state": "FL",
+    "zip": "32948"
+  },
+  "location": {
+    "lat": 27.846794,
+    "lng": -80.62812
+  },
+  "contact": {
+    "phone": "(732) 977-9060",
+    "website": "https://www.stavolaaggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1034336d-ba4d-4a34-84ac-b875a2b8cc39",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

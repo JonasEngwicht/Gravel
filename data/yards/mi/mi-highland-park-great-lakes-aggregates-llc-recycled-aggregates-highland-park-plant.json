@@ -1,0 +1,36 @@
+{
+  "id": "mi-highland-park-great-lakes-aggregates-llc-recycled-aggregates-highland-park-plant",
+  "slug": "great-lakes-aggregates-llc-recycled-aggregates-highland-park-plant",
+  "name": "Great Lakes Aggregates, Llc - Recycled Aggregates Highland Park Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15150 Oakland St",
+    "city": "Highland Park",
+    "state": "MI",
+    "zip": "48203"
+  },
+  "location": {
+    "lat": 42.415447,
+    "lng": -83.088394
+  },
+  "contact": {
+    "phone": "(248) 244-3466",
+    "website": "https://www.greatlakesagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5dbd2f78-a995-4f9f-931b-fbff044a233d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-atlanta-cummin-landscape-supply",
+  "slug": "cummin-landscape-supply",
+  "name": "Cummin Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "724 Memorial Dr SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30316"
+  },
+  "location": {
+    "lat": 33.747108,
+    "lng": -84.363693
+  },
+  "contact": {
+    "phone": "(404) 221-9285",
+    "website": "http://www.cumminlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cbcb81a0-0c26-4d70-aa90-c9a9271af105",
+    "confidence": 0.916,
+    "merged_records": 1
+  }
+}

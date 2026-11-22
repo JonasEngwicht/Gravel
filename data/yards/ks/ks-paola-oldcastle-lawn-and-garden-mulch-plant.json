@@ -1,0 +1,36 @@
+{
+  "id": "ks-paola-oldcastle-lawn-and-garden-mulch-plant",
+  "slug": "oldcastle-lawn-and-garden-mulch-plant",
+  "name": "Oldcastle Lawn & Garden Mulch Plant",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "32200 Lookout Rd",
+    "city": "Paola",
+    "state": "KS",
+    "zip": "66071"
+  },
+  "location": {
+    "lat": 38.545097,
+    "lng": -94.920845
+  },
+  "contact": {
+    "phone": "(913) 294-5800",
+    "website": "https://www.oldcastleapg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44451518-4e9b-4227-bd5a-0b0d03aa675c",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

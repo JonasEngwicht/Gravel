@@ -1,0 +1,36 @@
+{
+  "id": "nc-burlington-king-mulch-landscape-supply-in-burlington-nc",
+  "slug": "king-mulch-landscape-supply-in-burlington-nc",
+  "name": "King Mulch - Landscape Supply in Burlington, NC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2380 Sandy Cross Rd Ste 102",
+    "city": "Burlington",
+    "state": "NC",
+    "zip": "27217"
+  },
+  "location": {
+    "lat": 36.139687,
+    "lng": -79.357674
+  },
+  "contact": {
+    "phone": "(336) 350-8262",
+    "website": "http://www.kingmulchcarolina.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3119e31c-dbb6-40af-91f3-3abf29ac0426",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

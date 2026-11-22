@@ -1,0 +1,37 @@
+{
+  "id": "md-cockeysville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10822 Williamson Ln",
+    "city": "Cockeysville",
+    "state": "MD",
+    "zip": "21030"
+  },
+  "location": {
+    "lat": 39.482349,
+    "lng": -76.652695
+  },
+  "contact": {
+    "phone": "(410) 769-8011",
+    "website": "https://www.siteone.com/en/store/439"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b26302f1-dc95-4d2e-a3b3-25133d1b35ef",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

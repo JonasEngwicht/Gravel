@@ -1,0 +1,36 @@
+{
+  "id": "fl-riverview-tmi-landscape-materials",
+  "slug": "tmi-landscape-materials",
+  "name": "Tmi Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13511 Balm Riverview Rd",
+    "city": "Riverview",
+    "state": "FL",
+    "zip": "33579"
+  },
+  "location": {
+    "lat": 27.791689,
+    "lng": -82.282326
+  },
+  "contact": {
+    "phone": "(813) 672-8836",
+    "website": "http://www.tmilandscapingmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e6c3f65-c103-42eb-9977-a76cb4e06464",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

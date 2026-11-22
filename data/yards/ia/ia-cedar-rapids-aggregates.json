@@ -1,0 +1,36 @@
+{
+  "id": "ia-cedar-rapids-aggregates",
+  "slug": "aggregates",
+  "name": "Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6101 Blairs Ferry Rd",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip": "52411"
+  },
+  "location": {
+    "lat": 42.053925,
+    "lng": -91.746086
+  },
+  "contact": {
+    "phone": "(319) 395-0050",
+    "website": "http://www.aggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e2808f79-363e-45c1-b927-e4f9a0ff4b6c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

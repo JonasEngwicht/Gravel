@@ -1,0 +1,48 @@
+{
+  "id": "ar-little-rock-arkansas-aggregates",
+  "slug": "arkansas-aggregates",
+  "name": "Arkansas Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1910 W 65th St",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72209"
+  },
+  "location": {
+    "lat": 34.689587,
+    "lng": -92.298103
+  },
+  "contact": {
+    "phone": "(501) 565-5333",
+    "website": "http://aa-quarry.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41f88e1a-e23f-4b11-aa62-a58cbd061b3a",
+    "confidence": 0.972,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0301941",
+      "name": "Arkansas Aggregates",
+      "operator": "Qjv, Llc",
+      "status": "Active",
+      "status_since": "2014-01-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

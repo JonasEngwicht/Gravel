@@ -1,0 +1,37 @@
+{
+  "id": "ky-burlington-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "5519 KY-237",
+    "city": "Burlington",
+    "state": "KY",
+    "zip": "41005"
+  },
+  "location": {
+    "lat": 39.029964,
+    "lng": -84.702583
+  },
+  "contact": {
+    "phone": "(859) 586-1173",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "070f771e-b84e-4106-8654-2611e1b6992f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

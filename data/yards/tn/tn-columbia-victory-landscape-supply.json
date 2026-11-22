@@ -1,0 +1,35 @@
+{
+  "id": "tn-columbia-victory-landscape-supply",
+  "slug": "victory-landscape-supply",
+  "name": "Victory Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2526 Pulaski Hwy",
+    "city": "Columbia",
+    "state": "TN",
+    "zip": "38401"
+  },
+  "location": {
+    "lat": 35.583485,
+    "lng": -87.042023
+  },
+  "contact": {
+    "phone": "(931) 540-8828"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "424b84c5-cf8c-4592-b5dc-73cfa940be0a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

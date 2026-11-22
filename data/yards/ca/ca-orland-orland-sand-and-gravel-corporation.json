@@ -1,0 +1,47 @@
+{
+  "id": "ca-orland-orland-sand-and-gravel-corporation",
+  "slug": "orland-sand-and-gravel-corporation",
+  "name": "Orland Sand & Gravel Corporation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6535 Co Rd 9",
+    "city": "Orland",
+    "state": "CA",
+    "zip": "95963"
+  },
+  "location": {
+    "lat": 39.767735,
+    "lng": -122.194122
+  },
+  "contact": {
+    "phone": "(530) 624-8755"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "70f9f672-5b09-48df-9198-67fd91127751",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405156",
+      "name": "Orland Plant",
+      "operator": "Knife River Const",
+      "status": "Active",
+      "status_since": "2016-10-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

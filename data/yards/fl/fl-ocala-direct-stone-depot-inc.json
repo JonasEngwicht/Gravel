@@ -1,0 +1,36 @@
+{
+  "id": "fl-ocala-direct-stone-depot-inc",
+  "slug": "direct-stone-depot-inc",
+  "name": "Direct Stone Depot Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3140 SW 7th St",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34474"
+  },
+  "location": {
+    "lat": 29.179823,
+    "lng": -82.175156
+  },
+  "contact": {
+    "phone": "(352) 622-8828",
+    "website": "http://directstonedepot.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e564a1f6-745d-4d63-8667-163fb0eb7fdb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

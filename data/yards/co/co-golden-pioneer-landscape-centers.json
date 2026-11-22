@@ -1,0 +1,37 @@
+{
+  "id": "co-golden-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "7608 Colorado 93",
+    "city": "Golden",
+    "state": "CO",
+    "zip": "80403"
+  },
+  "location": {
+    "lat": 39.83807,
+    "lng": -105.214066
+  },
+  "contact": {
+    "phone": "(303) 279-4748",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f847e171-e46a-4c0b-85d2-be1566989a5f",
+    "confidence": 0.966,
+    "merged_records": 2
+  }
+}

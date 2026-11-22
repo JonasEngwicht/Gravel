@@ -1,0 +1,36 @@
+{
+  "id": "fl-wildwood-southern-aggregates",
+  "slug": "southern-aggregates",
+  "name": "Southern Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9330 N US Highway 301",
+    "city": "Wildwood",
+    "state": "FL",
+    "zip": "34785"
+  },
+  "location": {
+    "lat": 28.892115,
+    "lng": -82.037338
+  },
+  "contact": {
+    "phone": "(352) 689-0069",
+    "website": "http://www.southernrockyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7026d97e-9418-4b0d-ace6-26bce20dd7c4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

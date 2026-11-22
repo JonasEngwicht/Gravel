@@ -1,0 +1,36 @@
+{
+  "id": "in-bloomington-bloomington-speedway-mulch-and-more",
+  "slug": "bloomington-speedway-mulch-and-more",
+  "name": "Bloomington Speedway Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13 W Dillman Rd",
+    "city": "Bloomington",
+    "state": "IN",
+    "zip": "47403"
+  },
+  "location": {
+    "lat": 39.092903,
+    "lng": -86.544708
+  },
+  "contact": {
+    "phone": "(812) 668-7500",
+    "website": "http://www.bloomingtonmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e337e7ff-9dfc-4680-84de-3ba40ac7eed7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

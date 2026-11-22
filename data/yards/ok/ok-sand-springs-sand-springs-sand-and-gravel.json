@@ -1,0 +1,36 @@
+{
+  "id": "ok-sand-springs-sand-springs-sand-and-gravel",
+  "slug": "sand-springs-sand-and-gravel",
+  "name": "Sand Springs Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11625 OK-51",
+    "city": "Sand Springs",
+    "state": "OK",
+    "zip": "74063"
+  },
+  "location": {
+    "lat": 36.121685,
+    "lng": -96.122673
+  },
+  "contact": {
+    "phone": "(918) 245-3593",
+    "website": "https://www.sandspringssand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ffb7dd0c-94ad-4bfc-a46e-bddc27647b85",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

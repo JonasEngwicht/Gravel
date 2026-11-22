@@ -1,0 +1,36 @@
+{
+  "id": "oh-alexandria-kurtz-bros-mulch-and-soils",
+  "slug": "kurtz-bros-mulch-and-soils",
+  "name": "Kurtz Bros. Mulch & Soils",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2409 Johnstown-Alexandria Rd",
+    "city": "Alexandria",
+    "state": "OH",
+    "zip": "43001"
+  },
+  "location": {
+    "lat": 40.086948,
+    "lng": -82.62262
+  },
+  "contact": {
+    "phone": "(740) 739-4637",
+    "website": "https://www.kbcolumbus.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb721662-8362-41fe-89eb-859a65870062",
+    "confidence": 0.997,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-leola-aggregates-equipment",
+  "slug": "aggregates-equipment",
+  "name": "Aggregates Equipment",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9 Horseshoe Rd",
+    "city": "Leola",
+    "state": "PA",
+    "zip": "17540"
+  },
+  "location": {
+    "lat": 40.085922,
+    "lng": -76.182678
+  },
+  "contact": {
+    "phone": "(717) 656-2131",
+    "website": "http://aeiscreens.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6017063-2a40-49f3-9563-8f49051d160b",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

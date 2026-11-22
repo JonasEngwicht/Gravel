@@ -1,0 +1,36 @@
+{
+  "id": "oh-waynesville-debi-s-mulch",
+  "slug": "debi-s-mulch",
+  "name": "Debi's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2951 E Lytle 5 Points Rd",
+    "city": "Waynesville",
+    "state": "OH",
+    "zip": "45068"
+  },
+  "location": {
+    "lat": 39.562698,
+    "lng": -84.138
+  },
+  "contact": {
+    "phone": "(513) 897-3552",
+    "website": "http://www.debismulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "189f7aef-3dca-42fc-9826-275c1cce0ef9",
+    "confidence": 0.872,
+    "merged_records": 1
+  }
+}

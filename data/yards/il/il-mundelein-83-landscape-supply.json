@@ -1,0 +1,36 @@
+{
+  "id": "il-mundelein-83-landscape-supply",
+  "slug": "83-landscape-supply",
+  "name": "83 Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "29473 N IL Route 83",
+    "city": "Mundelein",
+    "state": "IL",
+    "zip": "60060"
+  },
+  "location": {
+    "lat": 42.29126,
+    "lng": -88.036179
+  },
+  "contact": {
+    "phone": "(847) 802-8088",
+    "website": "http://www.83LandscapeSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74593662-994a-4056-8260-ccb263a35209",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

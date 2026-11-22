@@ -1,0 +1,36 @@
+{
+  "id": "mi-lapeer-lapeer-landscape-supply",
+  "slug": "lapeer-landscape-supply",
+  "name": "Lapeer Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1630 N Lapeer Rd",
+    "city": "Lapeer",
+    "state": "MI",
+    "zip": "48446"
+  },
+  "location": {
+    "lat": 43.069759,
+    "lng": -83.317314
+  },
+  "contact": {
+    "phone": "(810) 664-7780",
+    "website": "https://lapeer-landscape-supplies-mi.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f557c14-3902-4826-a398-f7c04a693d14",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

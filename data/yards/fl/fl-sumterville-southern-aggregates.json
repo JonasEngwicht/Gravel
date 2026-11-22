@@ -1,0 +1,36 @@
+{
+  "id": "fl-sumterville-southern-aggregates",
+  "slug": "southern-aggregates",
+  "name": "Southern Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2294 County Road 526E",
+    "city": "Sumterville",
+    "state": "FL",
+    "zip": "33585"
+  },
+  "location": {
+    "lat": 28.739088,
+    "lng": -82.065544
+  },
+  "contact": {
+    "phone": "(352) 352-1517",
+    "website": "https://www.southernrockyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c82d0e47-6729-475e-acea-ac5f696c9934",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-wichita-falls-steed-landscape-supply-llc",
+  "slug": "steed-landscape-supply-llc",
+  "name": "Steed Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3105 Old Jacksboro Hwy",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "76302"
+  },
+  "location": {
+    "lat": 33.881588,
+    "lng": -98.493149
+  },
+  "contact": {
+    "phone": "(940) 232-8838"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca794ba3-e407-4243-a618-ca9c57d9b37e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pa-west-chester-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1414 Wilmington Pike",
+    "city": "West Chester",
+    "state": "PA",
+    "zip": "19382"
+  },
+  "location": {
+    "lat": 39.897015,
+    "lng": -75.563622
+  },
+  "contact": {
+    "phone": "(610) 455-0540",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d4157c9-5682-4b76-bb83-3ccba7637c05",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

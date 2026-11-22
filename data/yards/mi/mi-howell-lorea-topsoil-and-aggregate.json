@@ -1,0 +1,36 @@
+{
+  "id": "mi-howell-lorea-topsoil-and-aggregate",
+  "slug": "lorea-topsoil-and-aggregate",
+  "name": "LoRea Topsoil & Aggregate",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "120 Lucy Rd",
+    "city": "Howell",
+    "state": "MI",
+    "zip": "48843"
+  },
+  "location": {
+    "lat": 42.599796,
+    "lng": -83.914558
+  },
+  "contact": {
+    "phone": "(517) 292-9204",
+    "website": "http://www.loreatopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "180f1d64-ebf3-4583-b31e-a95afb7c11c5",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tn-memphis-jones-mulch-co-llc",
+  "slug": "jones-mulch-co-llc",
+  "name": "Jones Mulch Co LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6775 Whitten Pl",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38133"
+  },
+  "location": {
+    "lat": 35.188316,
+    "lng": -89.837234
+  },
+  "contact": {
+    "phone": "(901) 377-1758"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f037f26e-9e4d-4ee6-a474-4b21be0fc055",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

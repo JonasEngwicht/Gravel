@@ -1,0 +1,35 @@
+{
+  "id": "or-the-dalles-tygh-valley-sand-and-gravel",
+  "slug": "tygh-valley-sand-and-gravel",
+  "name": "Tygh Valley Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4120 River Rd",
+    "city": "The Dalles",
+    "state": "OR",
+    "zip": "97058"
+  },
+  "location": {
+    "lat": 45.63155,
+    "lng": -121.205429
+  },
+  "contact": {
+    "phone": "(541) 483-2277"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb5fbba5-fcf8-49b5-91f2-e61d8a7dca1c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

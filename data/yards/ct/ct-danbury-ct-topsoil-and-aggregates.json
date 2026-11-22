@@ -1,0 +1,36 @@
+{
+  "id": "ct-danbury-ct-topsoil-and-aggregates",
+  "slug": "ct-topsoil-and-aggregates",
+  "name": "CT Topsoil & Aggregates",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "18 Plumtrees Rd",
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06810"
+  },
+  "location": {
+    "lat": 41.398254,
+    "lng": -73.413429
+  },
+  "contact": {
+    "phone": "(203) 744-4400",
+    "website": "http://www.cttopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4970eafb-0b95-471f-964d-488887d73c2d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

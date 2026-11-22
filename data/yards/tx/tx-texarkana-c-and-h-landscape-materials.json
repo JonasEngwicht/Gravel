@@ -1,0 +1,36 @@
+{
+  "id": "tx-texarkana-c-and-h-landscape-materials",
+  "slug": "c-and-h-landscape-materials",
+  "name": "C and H Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5725 W 7th St",
+    "city": "Texarkana",
+    "state": "TX",
+    "zip": "75501"
+  },
+  "location": {
+    "lat": 33.41502,
+    "lng": -94.121216
+  },
+  "contact": {
+    "phone": "(903) 334-7350",
+    "website": "https://www.chlandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ede5f39-e172-4df1-aed9-55efdac04a56",
+    "confidence": 0.985,
+    "merged_records": 1
+  }
+}

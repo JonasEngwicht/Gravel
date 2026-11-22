@@ -1,0 +1,36 @@
+{
+  "id": "nc-sherrills-ford-lakeside-mulch-and-stone",
+  "slug": "lakeside-mulch-and-stone",
+  "name": "Lakeside Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4141 Rhynland Dr",
+    "city": "Sherrills Ford",
+    "state": "NC",
+    "zip": "28673"
+  },
+  "location": {
+    "lat": 35.580708,
+    "lng": -80.995941
+  },
+  "contact": {
+    "phone": "(828) 478-1321",
+    "website": "http://www.lakesidemulchstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb6e13a0-dd2e-43fd-9b32-55bf5bea2aed",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

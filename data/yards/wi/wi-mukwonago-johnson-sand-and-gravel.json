@@ -1,0 +1,36 @@
+{
+  "id": "wi-mukwonago-johnson-sand-and-gravel",
+  "slug": "johnson-sand-and-gravel",
+  "name": "Johnson Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "W2006 County Road J",
+    "city": "Mukwonago",
+    "state": "WI",
+    "zip": "53149"
+  },
+  "location": {
+    "lat": 42.833454,
+    "lng": -88.400436
+  },
+  "contact": {
+    "phone": "(262) 441-4027",
+    "website": "http://johnsonsandandgravel.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "40536b6c-4f98-41a3-9275-66c521805901",
+    "confidence": 0.511,
+    "merged_records": 1
+  }
+}

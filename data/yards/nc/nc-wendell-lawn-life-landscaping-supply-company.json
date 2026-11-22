@@ -1,0 +1,36 @@
+{
+  "id": "nc-wendell-lawn-life-landscaping-supply-company",
+  "slug": "lawn-life-landscaping-supply-company",
+  "name": "Lawn Life Landscaping Supply Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2612 NC-97",
+    "city": "Wendell",
+    "state": "NC",
+    "zip": "27591"
+  },
+  "location": {
+    "lat": 35.816944,
+    "lng": -78.37645
+  },
+  "contact": {
+    "phone": "(919) 501-3014",
+    "website": "https://lawnlife.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "88dd77dc-bb5c-4c7d-b0de-743ba942b398",
+    "confidence": 0.775,
+    "merged_records": 1
+  }
+}

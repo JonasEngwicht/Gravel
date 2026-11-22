@@ -1,0 +1,36 @@
+{
+  "id": "ga-woodstock-cherokee-landscape-supply-inc",
+  "slug": "cherokee-landscape-supply-inc",
+  "name": "Cherokee Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10125 Hickory Flat Hwy",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30188"
+  },
+  "location": {
+    "lat": 34.127132,
+    "lng": -84.392822
+  },
+  "contact": {
+    "phone": "(770) 475-5700",
+    "website": "https://cherokeelandscapesupplyinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d0239b4-7dff-47f0-a62d-48e7872f3b64",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

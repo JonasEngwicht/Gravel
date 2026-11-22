@@ -1,0 +1,36 @@
+{
+  "id": "ut-american-fork-utah-landscape-products",
+  "slug": "utah-landscape-products",
+  "name": "Utah Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1584 S 580 E",
+    "city": "American Fork",
+    "state": "UT",
+    "zip": "84003"
+  },
+  "location": {
+    "lat": 40.34618,
+    "lng": -111.784088
+  },
+  "contact": {
+    "phone": "(801) 796-7739",
+    "website": "http://utahlandscapeproducts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9c5d9d4-bbd9-415e-8855-254472c94641",
+    "confidence": 0.815,
+    "merged_records": 1
+  }
+}

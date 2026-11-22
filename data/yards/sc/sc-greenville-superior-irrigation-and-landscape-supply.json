@@ -1,0 +1,37 @@
+{
+  "id": "sc-greenville-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "1 N Kings Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29605"
+  },
+  "location": {
+    "lat": 34.802193,
+    "lng": -82.371101
+  },
+  "contact": {
+    "phone": "(864) 299-5424",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/FISGREE"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2cb67f67-7c50-4050-a8bd-e74c91cce6ff",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

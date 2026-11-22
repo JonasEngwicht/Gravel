@@ -1,0 +1,35 @@
+{
+  "id": "ny-macedon-eastern-sand-and-gravel",
+  "slug": "eastern-sand-and-gravel",
+  "name": "Eastern Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1711 Wayneport Rd",
+    "city": "Macedon",
+    "state": "NY",
+    "zip": "14502"
+  },
+  "location": {
+    "lat": 43.069572,
+    "lng": -77.362213
+  },
+  "contact": {
+    "phone": "(315) 986-3571"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dcd6a26f-9ea4-4fd0-914c-fa4a7659de81",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

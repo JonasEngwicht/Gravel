@@ -1,0 +1,36 @@
+{
+  "id": "mi-belleville-yost-sand-and-gravel",
+  "slug": "yost-sand-and-gravel",
+  "name": "Yost Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "45697 Ecorse Rd",
+    "city": "Belleville",
+    "state": "MI",
+    "zip": "48111"
+  },
+  "location": {
+    "lat": 42.247589,
+    "lng": -83.489517
+  },
+  "contact": {
+    "phone": "(734) 697-1183",
+    "website": "http://yostsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb210537-1ef1-4a3c-bf31-4a9cddd2cb62",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

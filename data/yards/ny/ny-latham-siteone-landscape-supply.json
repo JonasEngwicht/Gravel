@@ -1,0 +1,37 @@
+{
+  "id": "ny-latham-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "74 Swatling Rd",
+    "city": "Latham",
+    "state": "NY",
+    "zip": "12110"
+  },
+  "location": {
+    "lat": 42.748348,
+    "lng": -73.734863
+  },
+  "contact": {
+    "phone": "(518) 782-7070",
+    "website": "https://www.siteone.com/store/243"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eea6b755-9b1c-4837-b5d9-6b2255278e17",
+    "confidence": 0.998,
+    "merged_records": 2
+  }
+}

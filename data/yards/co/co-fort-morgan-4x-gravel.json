@@ -1,0 +1,36 @@
+{
+  "id": "co-fort-morgan-4x-gravel",
+  "slug": "4x-gravel",
+  "name": "4X Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "28850 County Road 21",
+    "city": "Fort Morgan",
+    "state": "CO",
+    "zip": "80701"
+  },
+  "location": {
+    "lat": 40.398045,
+    "lng": -103.748764
+  },
+  "contact": {
+    "phone": "(580) 222-5317",
+    "website": "https://www.4xgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d8b5cc1a-e12f-45b0-982b-5e7e2b9ac68f",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

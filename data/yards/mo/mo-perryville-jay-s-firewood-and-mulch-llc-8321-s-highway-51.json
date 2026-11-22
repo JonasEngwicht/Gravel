@@ -1,0 +1,36 @@
+{
+  "id": "mo-perryville-jay-s-firewood-and-mulch-llc-8321-s-highway-51",
+  "slug": "jay-s-firewood-and-mulch-llc-8321-s-highway-51",
+  "name": "Jay's Firewood & Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8321 S Highway 51",
+    "city": "Perryville",
+    "state": "MO",
+    "zip": "63775"
+  },
+  "location": {
+    "lat": 37.627842,
+    "lng": -89.976845
+  },
+  "contact": {
+    "phone": "(844) 584-2463",
+    "website": "https://jaysfirewoodandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f8d8c75-74a6-45d6-b624-dcf5e8975fae",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

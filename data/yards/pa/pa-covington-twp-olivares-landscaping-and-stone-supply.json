@@ -1,0 +1,35 @@
+{
+  "id": "pa-covington-twp-olivares-landscaping-and-stone-supply",
+  "slug": "olivares-landscaping-and-stone-supply",
+  "name": "Olivares Landscaping and Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "471 Drinker Turnpike",
+    "city": "Covington Twp",
+    "state": "PA",
+    "zip": "18424"
+  },
+  "location": {
+    "lat": 41.28228,
+    "lng": -75.509796
+  },
+  "contact": {
+    "phone": "(570) 614-8992"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34838c95-dc5f-476f-9d81-8fa8f540a1fe",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

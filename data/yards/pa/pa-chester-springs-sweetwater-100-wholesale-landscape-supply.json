@@ -1,0 +1,36 @@
+{
+  "id": "pa-chester-springs-sweetwater-100-wholesale-landscape-supply",
+  "slug": "sweetwater-100-wholesale-landscape-supply",
+  "name": "Sweetwater 100 Wholesale Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "976 Pottstown Pike",
+    "city": "Chester Springs",
+    "state": "PA",
+    "zip": "19425"
+  },
+  "location": {
+    "lat": 40.110424,
+    "lng": -75.694229
+  },
+  "contact": {
+    "phone": "(610) 321-1900",
+    "website": "http://sweetwater100.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a6d67a99-a77b-4345-a131-3211c9d02f2b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

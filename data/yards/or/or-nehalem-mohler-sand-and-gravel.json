@@ -1,0 +1,35 @@
+{
+  "id": "or-nehalem-mohler-sand-and-gravel",
+  "slug": "mohler-sand-and-gravel",
+  "name": "Mohler Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "20805 Foss Rd",
+    "city": "Nehalem",
+    "state": "OR",
+    "zip": "97131"
+  },
+  "location": {
+    "lat": 45.694061,
+    "lng": -123.817482
+  },
+  "contact": {
+    "phone": "(503) 368-5157"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4f5d876d-4ae7-4208-a792-5cf12b198f98",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

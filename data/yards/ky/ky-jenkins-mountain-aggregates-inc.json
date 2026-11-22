@@ -1,0 +1,47 @@
+{
+  "id": "ky-jenkins-mountain-aggregates-inc",
+  "slug": "mountain-aggregates-inc",
+  "name": "Mountain Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12536 Highway 805",
+    "city": "Jenkins",
+    "state": "KY",
+    "zip": "41537"
+  },
+  "location": {
+    "lat": 37.19318,
+    "lng": -82.587936
+  },
+  "contact": {
+    "phone": "(859) 299-7001"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0823c17-96c3-4966-b6fc-0a865a5f70a2",
+    "confidence": 0.668,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1500056",
+      "name": "Pine Mountain Stone",
+      "operator": "Mountain Aggregates, Inc",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 23
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nh-plymouth-3-lakes-landscape-supply",
+  "slug": "3-lakes-landscape-supply",
+  "name": "3 Lakes Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10 Hamilton Way",
+    "city": "Plymouth",
+    "state": "NH",
+    "zip": "03264"
+  },
+  "location": {
+    "lat": 43.770706,
+    "lng": -71.750435
+  },
+  "contact": {
+    "phone": "(603) 412-2006",
+    "website": "http://www.3lakeslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "716b3aab-5869-4c28-811b-5dbf0863b1f1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

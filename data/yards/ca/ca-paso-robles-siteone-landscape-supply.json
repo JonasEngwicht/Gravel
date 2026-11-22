@@ -1,0 +1,37 @@
+{
+  "id": "ca-paso-robles-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1108 Paso Robles St",
+    "city": "Paso Robles",
+    "state": "CA",
+    "zip": "93446"
+  },
+  "location": {
+    "lat": 35.626045,
+    "lng": -120.685158
+  },
+  "contact": {
+    "phone": "(805) 239-4317",
+    "website": "https://www.siteone.com/store/314"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c2bb2588-e03f-4ad5-bef0-3964b9c6fd09",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

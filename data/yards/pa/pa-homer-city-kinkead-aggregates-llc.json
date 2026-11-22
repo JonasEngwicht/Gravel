@@ -1,0 +1,48 @@
+{
+  "id": "pa-homer-city-kinkead-aggregates-llc",
+  "slug": "kinkead-aggregates-llc",
+  "name": "Kinkead Aggregates LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2311 PA-56",
+    "city": "Homer City",
+    "state": "PA",
+    "zip": "15748"
+  },
+  "location": {
+    "lat": 40.541576,
+    "lng": -79.122284
+  },
+  "contact": {
+    "phone": "(724) 479-2006",
+    "website": "http://www.kinkeadaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02711229-4ba1-48ab-b994-1dbf7474fccb",
+    "confidence": 0.964,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3609831",
+      "name": "Kinkead Aggregates, Llc",
+      "operator": "Kinkead Aggregates, Llc",
+      "status": "Intermittent",
+      "status_since": "2024-09-03",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

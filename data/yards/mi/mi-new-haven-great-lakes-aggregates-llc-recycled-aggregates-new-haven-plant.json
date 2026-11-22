@@ -1,0 +1,36 @@
+{
+  "id": "mi-new-haven-great-lakes-aggregates-llc-recycled-aggregates-new-haven-plant",
+  "slug": "great-lakes-aggregates-llc-recycled-aggregates-new-haven-plant",
+  "name": "Great Lakes Aggregates, LLC - Recycled Aggregates New Haven Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "57295 Ajax Dr",
+    "city": "New Haven",
+    "state": "MI",
+    "zip": "48048"
+  },
+  "location": {
+    "lat": 42.735268,
+    "lng": -82.785645
+  },
+  "contact": {
+    "phone": "(248) 244-3425",
+    "website": "https://www.greatlakesagg.com/recycled-aggregates/new-haven/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55aff143-3340-4cc1-8e85-1603d02a5cfd",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

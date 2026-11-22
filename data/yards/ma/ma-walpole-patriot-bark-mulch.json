@@ -1,0 +1,36 @@
+{
+  "id": "ma-walpole-patriot-bark-mulch",
+  "slug": "patriot-bark-mulch",
+  "name": "Patriot Bark Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4 County St",
+    "city": "Walpole",
+    "state": "MA",
+    "zip": "02081"
+  },
+  "location": {
+    "lat": 42.202187,
+    "lng": -71.251999
+  },
+  "contact": {
+    "phone": "(508) 653-7727",
+    "website": "https://patriotlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eee83a18-b92f-4b69-b39b-3ebc65520eff",
+    "confidence": 0.822,
+    "merged_records": 1
+  }
+}

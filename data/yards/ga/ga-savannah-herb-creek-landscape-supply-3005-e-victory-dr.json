@@ -1,0 +1,36 @@
+{
+  "id": "ga-savannah-herb-creek-landscape-supply-3005-e-victory-dr",
+  "slug": "herb-creek-landscape-supply-3005-e-victory-dr",
+  "name": "Herb Creek Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3005 E Victory Dr",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31404"
+  },
+  "location": {
+    "lat": 32.036514,
+    "lng": -81.057236
+  },
+  "contact": {
+    "phone": "(912) 356-1575",
+    "website": "https://herbcreek.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab572eca-d4bf-4f89-a46f-a6970f44dfec",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "va-mechanicsville-mulch-unlimited-inc",
+  "slug": "mulch-unlimited-inc",
+  "name": "Mulch Unlimited Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8369 Richfood Rd",
+    "city": "Mechanicsville",
+    "state": "VA",
+    "zip": "23116"
+  },
+  "location": {
+    "lat": 37.636879,
+    "lng": -77.412781
+  },
+  "contact": {
+    "phone": "(804) 730-4166",
+    "website": "http://mulchunlimited.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dec527d8-24a4-4dcc-a2d5-0ba00940c3f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ok-oklahoma-city-hoover-trucking-topsoil-topsoil-fill-dirt-and-dump-truck-oklahoma-city-ok",
+  "slug": "hoover-trucking-topsoil-topsoil-fill-dirt-and-dump-truck-oklahoma-city-ok",
+  "name": "Hoover Trucking Topsoil, Topsoil, Fill Dirt & Dump Truck Oklahoma City, OK",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6957 NW Expressway",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73132"
+  },
+  "location": {
+    "lat": 35.55769,
+    "lng": -97.637596
+  },
+  "contact": {
+    "phone": "(405) 633-2670",
+    "website": "http://www.superpages.com/bp/Oklahoma-City-OK/Hoover-Trucking-Topsoil-Topsoil-Fill-Dirt-Dump-Truck-Oklahoma-City-OK-L2247019791.htm"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d5bbd3f-4ef4-46a1-a295-f2b2c9af8abc",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

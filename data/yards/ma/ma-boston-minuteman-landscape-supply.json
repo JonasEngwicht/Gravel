@@ -1,0 +1,36 @@
+{
+  "id": "ma-boston-minuteman-landscape-supply",
+  "slug": "minuteman-landscape-supply",
+  "name": "Minuteman Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2383 Centre St",
+    "city": "Boston",
+    "state": "MA",
+    "zip": "02132"
+  },
+  "location": {
+    "lat": 42.269321,
+    "lng": -71.162148
+  },
+  "contact": {
+    "phone": "(617) 553-8200",
+    "website": "https://www.minutemanlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "537d4656-f1bd-4072-801b-0f5e70e52b82",
+    "confidence": 0.982,
+    "merged_records": 1
+  }
+}

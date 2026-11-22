@@ -1,0 +1,37 @@
+{
+  "id": "tx-austin-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12015 W Highway 290",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78737"
+  },
+  "location": {
+    "lat": 30.21007,
+    "lng": -97.969139
+  },
+  "contact": {
+    "phone": "(512) 288-8488",
+    "website": "https://www.siteone.com/en/store/320"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59b6d83a-9724-477c-89f7-cf70051eca9e",
+    "confidence": 1.0,
+    "merged_records": 2
+  }
+}

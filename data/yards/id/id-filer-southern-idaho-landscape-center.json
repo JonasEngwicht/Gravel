@@ -1,0 +1,36 @@
+{
+  "id": "id-filer-southern-idaho-landscape-center",
+  "slug": "southern-idaho-landscape-center",
+  "name": "Southern Idaho Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21150 US-30",
+    "city": "Filer",
+    "state": "ID",
+    "zip": "83328"
+  },
+  "location": {
+    "lat": 42.565178,
+    "lng": -114.588028
+  },
+  "contact": {
+    "phone": "(208) 326-2100",
+    "website": "http://www.southernidaholandscapecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb3defb9-35c3-4590-ab9c-e908a6232262",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

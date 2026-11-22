@@ -1,0 +1,36 @@
+{
+  "id": "pa-butler-city-landscape-supply",
+  "slug": "city-landscape-supply",
+  "name": "City Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "603 E Jefferson St",
+    "city": "Butler",
+    "state": "PA",
+    "zip": "16001"
+  },
+  "location": {
+    "lat": 40.861275,
+    "lng": -79.883644
+  },
+  "contact": {
+    "phone": "(724) 504-1227",
+    "website": "http://www.citylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "be0afc24-9a53-4ff1-b773-d66e1d9fb275",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tx-plano-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1200 Summit Ave",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75074"
+  },
+  "location": {
+    "lat": 33.009232,
+    "lng": -96.696693
+  },
+  "contact": {
+    "phone": "(972) 881-0205",
+    "website": "https://www.siteone.com/store/212"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c049d8f-2786-4283-b1ee-e869af845474",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

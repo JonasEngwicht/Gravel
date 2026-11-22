@@ -1,0 +1,36 @@
+{
+  "id": "me-eliot-hissong-ready-mix-and-aggregates",
+  "slug": "hissong-ready-mix-and-aggregates",
+  "name": "Hissong Ready-Mix & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "50 Maclellen Dr",
+    "city": "Eliot",
+    "state": "ME",
+    "zip": "03903"
+  },
+  "location": {
+    "lat": 43.14006,
+    "lng": -70.777084
+  },
+  "contact": {
+    "phone": "(207) 439-3535",
+    "website": "http://hissongreadymix.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb787b85-783c-4c41-a845-c0e4a40129e4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

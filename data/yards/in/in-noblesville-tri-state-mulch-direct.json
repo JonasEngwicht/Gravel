@@ -1,0 +1,36 @@
+{
+  "id": "in-noblesville-tri-state-mulch-direct",
+  "slug": "tri-state-mulch-direct",
+  "name": "Tri-State Mulch Direct",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "15166 River Rd",
+    "city": "Noblesville",
+    "state": "IN",
+    "zip": "46062"
+  },
+  "location": {
+    "lat": 40.011059,
+    "lng": -86.03257
+  },
+  "contact": {
+    "phone": "(317) 776-8862",
+    "website": "https://web.indianaconstructors.org/Contractor/TriState-Forestry-Services,-LLC-2551"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8a77662e-473f-4f8b-9279-a5f9e429e59c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

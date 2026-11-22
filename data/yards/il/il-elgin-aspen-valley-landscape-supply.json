@@ -1,0 +1,36 @@
+{
+  "id": "il-elgin-aspen-valley-landscape-supply",
+  "slug": "aspen-valley-landscape-supply",
+  "name": "Aspen Valley Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2525 Higgins Rd",
+    "city": "Elgin",
+    "state": "IL",
+    "zip": "60124"
+  },
+  "location": {
+    "lat": 42.102848,
+    "lng": -88.341133
+  },
+  "contact": {
+    "phone": "(847) 426-0072",
+    "website": "http://www.aspenvalleyls.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0fe2310-5e35-4afa-93d9-7157b60d2d63",
+    "confidence": 0.68,
+    "merged_records": 1
+  }
+}

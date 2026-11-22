@@ -1,0 +1,36 @@
+{
+  "id": "ny-latham-wunderlich-sand-and-gravel",
+  "slug": "wunderlich-sand-and-gravel",
+  "name": "Wunderlich Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "27 Sparrowbush Rd",
+    "city": "Latham",
+    "state": "NY",
+    "zip": "12110"
+  },
+  "location": {
+    "lat": 42.766628,
+    "lng": -73.777855
+  },
+  "contact": {
+    "phone": "(518) 785-6084",
+    "website": "https://www.wunderlichsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3b6e46a-e98c-489c-b9a7-7c8e63ed393c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

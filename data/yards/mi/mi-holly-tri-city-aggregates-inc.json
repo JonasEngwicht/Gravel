@@ -1,0 +1,35 @@
+{
+  "id": "mi-holly-tri-city-aggregates-inc",
+  "slug": "tri-city-aggregates-inc",
+  "name": "Tri-city Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14300 Shields Rd",
+    "city": "Holly",
+    "state": "MI",
+    "zip": "48442"
+  },
+  "location": {
+    "lat": 42.822475,
+    "lng": -83.560516
+  },
+  "contact": {
+    "phone": "(248) 634-8276"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "427bc2aa-4ff5-4c7d-8fc7-5f1fc574da99",
+    "confidence": 0.974,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "la-st-amant-royal-estates-landscape-supply",
+  "slug": "royal-estates-landscape-supply",
+  "name": "Royal Estates Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "46001 Highway 22",
+    "city": "St Amant",
+    "state": "LA",
+    "zip": "70774"
+  },
+  "location": {
+    "lat": 30.21884,
+    "lng": -90.834702
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0c831410-5b30-416b-93a4-cf3d9931ec37",
+    "confidence": 0.756,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "or-gearhart-westwind-landscape-supply-llc",
+  "slug": "westwind-landscape-supply-llc",
+  "name": "Westwind Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3111 US-101",
+    "city": "Gearhart",
+    "state": "OR",
+    "zip": "97138"
+  },
+  "location": {
+    "lat": 46.021278,
+    "lng": -123.910805
+  },
+  "contact": {
+    "phone": "(503) 717-0489",
+    "website": "http://westwindlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3ec700cc-e510-475f-8bd8-d4eebdb99ba2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

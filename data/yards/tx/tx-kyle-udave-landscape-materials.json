@@ -1,0 +1,36 @@
+{
+  "id": "tx-kyle-udave-landscape-materials",
+  "slug": "udave-landscape-materials",
+  "name": "Udave Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2391 Co Rd 158",
+    "city": "Kyle",
+    "state": "TX",
+    "zip": "78640"
+  },
+  "location": {
+    "lat": 29.949276,
+    "lng": -97.848343
+  },
+  "contact": {
+    "phone": "(512) 676-7601",
+    "website": "https://www.udavelandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ee8a20b-1b1c-4de8-8916-ac58118330fc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

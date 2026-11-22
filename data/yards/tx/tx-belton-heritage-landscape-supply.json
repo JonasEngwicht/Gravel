@@ -1,0 +1,37 @@
+{
+  "id": "tx-belton-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "602 E Loop 121",
+    "city": "Belton",
+    "state": "TX",
+    "zip": "76513"
+  },
+  "location": {
+    "lat": 31.03091,
+    "lng": -97.465782
+  },
+  "contact": {
+    "phone": "(254) 933-3340",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "478e1b59-7b62-4e87-b07b-00c2333578df",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

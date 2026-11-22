@@ -1,0 +1,35 @@
+{
+  "id": "al-auburn-wilson-s-woodyard-garden-center-and-landscape-supplies",
+  "slug": "wilson-s-woodyard-garden-center-and-landscape-supplies",
+  "name": "Wilson's Woodyard, Garden Center, & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2411 Lafayette Pkwy",
+    "city": "Auburn",
+    "state": "AL",
+    "zip": "36801"
+  },
+  "location": {
+    "lat": 32.623493,
+    "lng": -85.475037
+  },
+  "contact": {
+    "phone": "(334) 742-3287"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cffacb10-4fde-4d21-807d-b0997c02b439",
+    "confidence": 0.702,
+    "merged_records": 1
+  }
+}

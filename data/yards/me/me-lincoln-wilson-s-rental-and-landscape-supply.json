@@ -1,0 +1,35 @@
+{
+  "id": "me-lincoln-wilson-s-rental-and-landscape-supply",
+  "slug": "wilson-s-rental-and-landscape-supply",
+  "name": "Wilson's Rental & Landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "36 Fleming St",
+    "city": "Lincoln",
+    "state": "ME",
+    "zip": "04457"
+  },
+  "location": {
+    "lat": 45.365925,
+    "lng": -68.504547
+  },
+  "contact": {
+    "phone": "(207) 290-0032"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf2d3133-b944-45f8-9348-e28a954742f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-napa-crown-hill-stone-supply-llc",
+  "slug": "crown-hill-stone-supply-llc",
+  "name": "Crown Hill Stone Supply LLC",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1865 Tanen St",
+    "city": "Napa",
+    "state": "CA",
+    "zip": "94559"
+  },
+  "location": {
+    "lat": 38.307274,
+    "lng": -122.287003
+  },
+  "contact": {
+    "phone": "(707) 255-1225",
+    "website": "http://www.crownhillstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "01ff6de6-cd57-40eb-adf5-7830d74bd6c7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

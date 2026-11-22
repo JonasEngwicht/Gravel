@@ -1,0 +1,36 @@
+{
+  "id": "tx-robinson-mike-schaeper-sand-and-gravel",
+  "slug": "mike-schaeper-sand-and-gravel",
+  "name": "Mike Schaeper Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1805 W Moonlight Dr",
+    "city": "Robinson",
+    "state": "TX",
+    "zip": "76706"
+  },
+  "location": {
+    "lat": 31.446365,
+    "lng": -97.138626
+  },
+  "contact": {
+    "phone": "(254) 722-7583",
+    "website": "http://www.schaepersandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df74ed2d-0b6e-49ec-b450-e1f6161f55d6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

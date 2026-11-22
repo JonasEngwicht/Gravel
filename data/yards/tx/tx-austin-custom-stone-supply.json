@@ -1,0 +1,36 @@
+{
+  "id": "tx-austin-custom-stone-supply",
+  "slug": "custom-stone-supply",
+  "name": "Custom Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4433 Terry-O Ln",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78745"
+  },
+  "location": {
+    "lat": 30.213289,
+    "lng": -97.759285
+  },
+  "contact": {
+    "phone": "(512) 462-3363",
+    "website": "http://www.customstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "499eaaf9-e1c3-4f1e-af03-abef5f616d64",
+    "confidence": 0.881,
+    "merged_records": 1
+  }
+}

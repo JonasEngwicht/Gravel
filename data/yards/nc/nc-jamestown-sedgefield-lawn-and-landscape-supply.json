@@ -1,0 +1,36 @@
+{
+  "id": "nc-jamestown-sedgefield-lawn-and-landscape-supply",
+  "slug": "sedgefield-lawn-and-landscape-supply",
+  "name": "Sedgefield Lawn & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5111 Mackay Rd",
+    "city": "Jamestown",
+    "state": "NC",
+    "zip": "27282"
+  },
+  "location": {
+    "lat": 36.01667,
+    "lng": -79.901947
+  },
+  "contact": {
+    "phone": "(336) 933-6512",
+    "website": "https://www.sedgefieldlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5797bad4-13c1-4248-95b2-9f13bf6bb9e4",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

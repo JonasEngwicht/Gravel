@@ -1,0 +1,47 @@
+{
+  "id": "mn-savage-prior-lake-aggregates-inc",
+  "slug": "prior-lake-aggregates-inc",
+  "name": "Prior Lake Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8680 160th St SE",
+    "city": "Savage",
+    "state": "MN",
+    "zip": "55372"
+  },
+  "location": {
+    "lat": 44.719616,
+    "lng": -93.388908
+  },
+  "contact": {
+    "phone": "(952) 447-2162"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2bb434d1-b1c7-4713-9e20-0b9620ca441b",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2100722",
+      "name": "Prior Lake Aggregates Inc",
+      "operator": "Bituminous Roadways, Inc.",
+      "status": "Active",
+      "status_since": "2025-10-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

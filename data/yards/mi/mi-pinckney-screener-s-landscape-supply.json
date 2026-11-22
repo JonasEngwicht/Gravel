@@ -1,0 +1,36 @@
+{
+  "id": "mi-pinckney-screener-s-landscape-supply",
+  "slug": "screener-s-landscape-supply",
+  "name": "Screener's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "110 Swarthout Rd",
+    "city": "Pinckney",
+    "state": "MI",
+    "zip": "48169"
+  },
+  "location": {
+    "lat": 42.486229,
+    "lng": -83.926903
+  },
+  "contact": {
+    "phone": "(734) 878-5076",
+    "website": "http://www.screenerslandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c9639210-590d-4bb4-9f53-0dc47ef3acd0",
+    "confidence": 0.56,
+    "merged_records": 1
+  }
+}

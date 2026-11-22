@@ -1,0 +1,36 @@
+{
+  "id": "ny-rochester-sensenig-s-landscape-supply",
+  "slug": "sensenig-s-landscape-supply",
+  "name": "Sensenig's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3670 Buffalo Rd",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14624"
+  },
+  "location": {
+    "lat": 43.140179,
+    "lng": -77.750786
+  },
+  "contact": {
+    "phone": "(585) 594-2221",
+    "website": "https://sensenigs.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe2baef3-f664-46dc-8da7-a964c35875b4",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

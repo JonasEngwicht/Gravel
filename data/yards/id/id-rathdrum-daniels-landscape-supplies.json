@@ -1,0 +1,36 @@
+{
+  "id": "id-rathdrum-daniels-landscape-supplies",
+  "slug": "daniels-landscape-supplies",
+  "name": "Daniels Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2280 Idaho 53",
+    "city": "Rathdrum",
+    "state": "ID",
+    "zip": "83858"
+  },
+  "location": {
+    "lat": 47.816494,
+    "lng": -116.815071
+  },
+  "contact": {
+    "phone": "(208) 687-2851",
+    "website": "https://danielslandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af3bcffe-f2c7-4f0e-ace5-d8eebb6d8f05",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "mi-putnam-twp-delta-sand-and-gravel",
+  "slug": "delta-sand-and-gravel",
+  "name": "Delta Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "110 Swarthout Rd",
+    "city": "Putnam Twp",
+    "state": "MI",
+    "zip": "48169"
+  },
+  "location": {
+    "lat": 42.486282,
+    "lng": -83.926918
+  },
+  "contact": {
+    "phone": "(734) 878-2340",
+    "website": "https://www.delta-sand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11f149d4-f260-499c-8ad2-de206cdea3d7",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003213",
+      "name": "Delta Sand and Gravel, Inc.",
+      "operator": "Delta Sand and Gravel",
+      "status": "Abandoned",
+      "status_since": "2026-08-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

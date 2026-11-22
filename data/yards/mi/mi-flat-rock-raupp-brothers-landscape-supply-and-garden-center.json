@@ -1,0 +1,36 @@
+{
+  "id": "mi-flat-rock-raupp-brothers-landscape-supply-and-garden-center",
+  "slug": "raupp-brothers-landscape-supply-and-garden-center",
+  "name": "Raupp Brothers Landscape Supply and Garden Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "23216 Telegraph Rd",
+    "city": "Flat Rock",
+    "state": "MI",
+    "zip": "48134"
+  },
+  "location": {
+    "lat": 42.136162,
+    "lng": -83.268303
+  },
+  "contact": {
+    "phone": "(734) 671-8800",
+    "website": "http://www.rauppbrothers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "725bdb9f-fa5e-4930-b470-dec624df734e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

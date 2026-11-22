@@ -1,0 +1,36 @@
+{
+  "id": "co-boulder-boulder-recycled-aggregate",
+  "slug": "boulder-recycled-aggregate",
+  "name": "Boulder Recycled Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6405 Valmont Rd",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": "80301"
+  },
+  "location": {
+    "lat": 40.038284,
+    "lng": -105.200577
+  },
+  "contact": {
+    "phone": "(303) 330-0143",
+    "website": "https://www.boulderagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c648218-02b6-4794-b03b-c258059e082c",
+    "confidence": 0.736,
+    "merged_records": 1
+  }
+}

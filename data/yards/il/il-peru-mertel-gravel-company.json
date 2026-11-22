@@ -1,0 +1,36 @@
+{
+  "id": "il-peru-mertel-gravel-company",
+  "slug": "mertel-gravel-company",
+  "name": "Mertel Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2400 Water St",
+    "city": "Peru",
+    "state": "IL",
+    "zip": "61354"
+  },
+  "location": {
+    "lat": 41.319939,
+    "lng": -89.136703
+  },
+  "contact": {
+    "phone": "(815) 223-0468",
+    "website": "https://mertelgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5a68546-d935-430a-a945-c0e8f6e0354e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

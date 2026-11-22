@@ -1,0 +1,36 @@
+{
+  "id": "tn-rockwood-rgm-concrete-and-landscape-supply",
+  "slug": "rgm-concrete-and-landscape-supply",
+  "name": "RGM Concrete and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1681 Post Oak Valley Rd",
+    "city": "Rockwood",
+    "state": "TN",
+    "zip": "37854"
+  },
+  "location": {
+    "lat": 35.841888,
+    "lng": -84.668343
+  },
+  "contact": {
+    "phone": "(865) 258-6072",
+    "website": "https://rgmconcrete.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "143a8e31-7037-437a-a9d1-f0c616d662c6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-taylor-panetta-s-landscape-supplies",
+  "slug": "panetta-s-landscape-supplies",
+  "name": "Panetta's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "20200 Goddard Rd",
+    "city": "Taylor",
+    "state": "MI",
+    "zip": "48180"
+  },
+  "location": {
+    "lat": 42.227638,
+    "lng": -83.232414
+  },
+  "contact": {
+    "phone": "(313) 291-3880",
+    "website": "http://www.panettasupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c1c97eed-8d17-4476-a37f-7a53af73b084",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

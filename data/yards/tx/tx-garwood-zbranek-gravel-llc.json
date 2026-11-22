@@ -1,0 +1,35 @@
+{
+  "id": "tx-garwood-zbranek-gravel-llc",
+  "slug": "zbranek-gravel-llc",
+  "name": "Zbranek Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1109 County Road 180",
+    "city": "Garwood",
+    "state": "TX",
+    "zip": "77442"
+  },
+  "location": {
+    "lat": 29.428337,
+    "lng": -96.382324
+  },
+  "contact": {
+    "phone": "(979) 758-3389"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e08899c8-b7d6-4079-9d02-91b67ab8ec1e",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

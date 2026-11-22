@@ -1,0 +1,36 @@
+{
+  "id": "az-goodyear-all-brite-fencing-and-landscape-materials",
+  "slug": "all-brite-fencing-and-landscape-materials",
+  "name": "All Brite Fencing And Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18421 W McDowell Rd",
+    "city": "Goodyear",
+    "state": "AZ",
+    "zip": "85395"
+  },
+  "location": {
+    "lat": 33.463837,
+    "lng": -112.456543
+  },
+  "contact": {
+    "phone": "(623) 853-9594",
+    "website": "http://www.allbritematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31d9d43c-661f-4d23-940c-d01fdbec47d8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

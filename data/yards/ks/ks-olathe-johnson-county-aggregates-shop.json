@@ -1,0 +1,48 @@
+{
+  "id": "ks-olathe-johnson-county-aggregates-shop",
+  "slug": "johnson-county-aggregates-shop",
+  "name": "Johnson County Aggregates Shop",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "23555 W 151st St",
+    "city": "Olathe",
+    "state": "KS",
+    "zip": "66061"
+  },
+  "location": {
+    "lat": 38.847782,
+    "lng": -94.856354
+  },
+  "contact": {
+    "phone": "(913) 764-4228",
+    "website": "http://www.ashgrove.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "848a89e2-1fad-4606-b8a7-b8bd30ee6380",
+    "confidence": 0.728,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1400068",
+      "name": "Johnson County Aggregates",
+      "operator": "Holliday Sand & Gravel Company, Inc.",
+      "status": "Active",
+      "status_since": "2020-05-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 30
+    }
+  ]
+}

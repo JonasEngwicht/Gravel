@@ -1,0 +1,37 @@
+{
+  "id": "ca-pacoima-siteone-landscape-supply-stone-center",
+  "slug": "siteone-landscape-supply-stone-center",
+  "name": "SiteOne Landscape Supply - Stone Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "13265 Van Nuys Blvd",
+    "city": "Pacoima",
+    "state": "CA",
+    "zip": "91331"
+  },
+  "location": {
+    "lat": 34.266403,
+    "lng": -118.421753
+  },
+  "contact": {
+    "phone": "(747) 225-0765",
+    "website": "https://www.absupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f0c6493-04fc-4e63-89af-9a3ada47994a",
+    "confidence": 0.974,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nc-hampstead-hampstead-mulch-and-stone",
+  "slug": "hampstead-mulch-and-stone",
+  "name": "Hampstead Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12981 US Highway 17",
+    "city": "Hampstead",
+    "state": "NC",
+    "zip": "28443"
+  },
+  "location": {
+    "lat": 34.349461,
+    "lng": -77.731766
+  },
+  "contact": {
+    "phone": "(910) 821-1068"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cdd97c9f-2d5f-4b5a-baa1-de1cc2250bd2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mn-baudette-lavalla-sand-and-gravel",
+  "slug": "lavalla-sand-and-gravel",
+  "name": "Lavalla Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3431 42nd Ave NW",
+    "city": "Baudette",
+    "state": "MN",
+    "zip": "56623"
+  },
+  "location": {
+    "lat": 48.838284,
+    "lng": -94.784821
+  },
+  "contact": {
+    "phone": "(218) 634-3302",
+    "website": "http://www.lavallasandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab200419-0bd9-4193-ac86-1e0a54bb3475",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

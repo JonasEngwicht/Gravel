@@ -1,0 +1,35 @@
+{
+  "id": "nd-jamestown-excavation-services-and-aggregate",
+  "slug": "excavation-services-and-aggregate",
+  "name": "Excavation Services & Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2509 3rd Ave SW",
+    "city": "Jamestown",
+    "state": "ND",
+    "zip": "58401"
+  },
+  "location": {
+    "lat": 46.88179,
+    "lng": -98.709656
+  },
+  "contact": {
+    "phone": "(701) 952-7950"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15f82b2c-48da-41c9-b885-2cce200e8d54",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

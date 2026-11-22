@@ -1,0 +1,36 @@
+{
+  "id": "mi-hemlock-c-and-j-landscape-supply",
+  "slug": "c-and-j-landscape-supply",
+  "name": "C & J Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "16665 Gratiot Rd",
+    "city": "Hemlock",
+    "state": "MI",
+    "zip": "48626"
+  },
+  "location": {
+    "lat": 43.413998,
+    "lng": -84.24295
+  },
+  "contact": {
+    "phone": "(989) 642-2016",
+    "website": "http://cjbarkinc.co/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "65ec0e7f-f5ea-4210-aecf-7d90b1919c60",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

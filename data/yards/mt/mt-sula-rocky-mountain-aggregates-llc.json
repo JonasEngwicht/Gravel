@@ -1,0 +1,36 @@
+{
+  "id": "mt-sula-rocky-mountain-aggregates-llc",
+  "slug": "rocky-mountain-aggregates-llc",
+  "name": "Rocky Mountain Aggregates LLC.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7095 Edwards Rd",
+    "city": "Sula",
+    "state": "MT",
+    "zip": "59871"
+  },
+  "location": {
+    "lat": 45.825314,
+    "lng": -113.960373
+  },
+  "contact": {
+    "phone": "(406) 381-0344",
+    "website": "http://rockymountainaggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "064ef1e7-1743-48bf-9751-6f51614e09a5",
+    "confidence": 0.525,
+    "merged_records": 2
+  }
+}

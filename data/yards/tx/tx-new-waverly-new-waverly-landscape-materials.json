@@ -1,0 +1,36 @@
+{
+  "id": "tx-new-waverly-new-waverly-landscape-materials",
+  "slug": "new-waverly-landscape-materials",
+  "name": "New Waverly Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6462 Fm 1374 Rd",
+    "city": "New Waverly",
+    "state": "TX",
+    "zip": "77358"
+  },
+  "location": {
+    "lat": 30.551924,
+    "lng": -95.503807
+  },
+  "contact": {
+    "phone": "(936) 355-4556",
+    "website": "http://www.newwaverlylandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe6b969e-6a3d-4761-846e-6cce193b7239",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

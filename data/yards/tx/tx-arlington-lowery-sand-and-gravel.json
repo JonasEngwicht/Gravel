@@ -1,0 +1,36 @@
+{
+  "id": "tx-arlington-lowery-sand-and-gravel",
+  "slug": "lowery-sand-and-gravel",
+  "name": "Lowery Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "520 Avenue H E",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76011"
+  },
+  "location": {
+    "lat": 32.76194,
+    "lng": -97.061287
+  },
+  "contact": {
+    "phone": "(817) 265-5572",
+    "website": "https://www.lowerysand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb7159e4-7061-4bd7-85a7-5c0dc12b8ce2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

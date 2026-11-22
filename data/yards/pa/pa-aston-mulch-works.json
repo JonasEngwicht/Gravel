@@ -1,0 +1,36 @@
+{
+  "id": "pa-aston-mulch-works",
+  "slug": "mulch-works",
+  "name": "Mulch Works",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "22 Mt Pleasant Dr",
+    "city": "Aston",
+    "state": "PA",
+    "zip": "19014"
+  },
+  "location": {
+    "lat": 39.873852,
+    "lng": -75.45771
+  },
+  "contact": {
+    "phone": "(888) 214-4628",
+    "website": "http://mulchthis.com/about-us/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "936d61a5-1b6a-4d59-ae15-2770d31e0d47",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

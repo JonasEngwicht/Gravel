@@ -1,0 +1,37 @@
+{
+  "id": "nc-hendersonville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1604 Old Spartanburg Rd",
+    "city": "Hendersonville",
+    "state": "NC",
+    "zip": "28792"
+  },
+  "location": {
+    "lat": 35.298508,
+    "lng": -82.432518
+  },
+  "contact": {
+    "phone": "(828) 233-5222",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd0fe38a-6dbe-4afb-8452-de8f48d18e62",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-paso-robles-sbs-concrete-aggregate-supplies",
+  "slug": "sbs-concrete-aggregate-supplies",
+  "name": "SBS Concrete Aggregate Supplies",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "275 Marquita Ave",
+    "city": "Paso Robles",
+    "state": "CA",
+    "zip": "93446"
+  },
+  "location": {
+    "lat": 35.575726,
+    "lng": -120.693161
+  },
+  "contact": {
+    "phone": "(805) 434-2043",
+    "website": "http://www.sbs-cas.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe5bcc1a-9233-43b1-a48c-aed7070cf089",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

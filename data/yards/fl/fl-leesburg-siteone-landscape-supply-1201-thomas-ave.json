@@ -1,0 +1,37 @@
+{
+  "id": "fl-leesburg-siteone-landscape-supply-1201-thomas-ave",
+  "slug": "siteone-landscape-supply-1201-thomas-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1201 Thomas Ave",
+    "city": "Leesburg",
+    "state": "FL",
+    "zip": "34748"
+  },
+  "location": {
+    "lat": 28.828245,
+    "lng": -81.904541
+  },
+  "contact": {
+    "phone": "(352) 748-6555",
+    "website": "https://www.siteone.com/store/272"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9dafd9c9-5dd3-48c0-bf66-deffb2e6c39b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

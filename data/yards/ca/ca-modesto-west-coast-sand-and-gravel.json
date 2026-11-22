@@ -1,0 +1,36 @@
+{
+  "id": "ca-modesto-west-coast-sand-and-gravel",
+  "slug": "west-coast-sand-and-gravel",
+  "name": "West Coast Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4518 Oakdale Rd",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95357"
+  },
+  "location": {
+    "lat": 37.70422,
+    "lng": -120.957809
+  },
+  "contact": {
+    "phone": "(209) 847-3054",
+    "website": "https://www.wcsg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "80ea8672-fa68-4f58-a072-053f4b9db887",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

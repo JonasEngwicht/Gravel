@@ -1,0 +1,36 @@
+{
+  "id": "ca-el-cajon-san-diego-rock-supply",
+  "slug": "san-diego-rock-supply",
+  "name": "San Diego Rock Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1931 Jamacha Rd",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92019"
+  },
+  "location": {
+    "lat": 32.755447,
+    "lng": -116.927071
+  },
+  "contact": {
+    "phone": "(619) 441-7625",
+    "website": "https://sdrocksupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "20180f7d-46d8-4aee-8efd-ef1ac1f1cb59",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

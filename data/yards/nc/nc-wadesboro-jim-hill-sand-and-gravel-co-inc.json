@@ -1,0 +1,35 @@
+{
+  "id": "nc-wadesboro-jim-hill-sand-and-gravel-co-inc",
+  "slug": "jim-hill-sand-and-gravel-co-inc",
+  "name": "Jim Hill Sand & Gravel Co., Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3447 US-74",
+    "city": "Wadesboro",
+    "state": "NC",
+    "zip": "28170"
+  },
+  "location": {
+    "lat": 34.980927,
+    "lng": -80.131554
+  },
+  "contact": {
+    "phone": "(704) 694-0506"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3efe253-d329-4a18-9bb3-77137cfd78d3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

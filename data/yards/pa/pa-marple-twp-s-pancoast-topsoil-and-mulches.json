@@ -1,0 +1,36 @@
+{
+  "id": "pa-marple-twp-s-pancoast-topsoil-and-mulches",
+  "slug": "s-pancoast-topsoil-and-mulches",
+  "name": "S Pancoast Topsoil and Mulches",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2635 West Chester Pike",
+    "city": "Marple Twp",
+    "state": "PA",
+    "zip": "19008"
+  },
+  "location": {
+    "lat": 39.982327,
+    "lng": -75.363091
+  },
+  "contact": {
+    "phone": "(610) 356-1090",
+    "website": "http://www.topsoilbroomall.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d337f0d-8abf-4e5a-9b87-db7705d54870",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

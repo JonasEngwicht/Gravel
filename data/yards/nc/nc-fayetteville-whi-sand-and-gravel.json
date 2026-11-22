@@ -1,0 +1,35 @@
+{
+  "id": "nc-fayetteville-whi-sand-and-gravel",
+  "slug": "whi-sand-and-gravel",
+  "name": "Whi Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2311 Clinton Rd",
+    "city": "Fayetteville",
+    "state": "NC",
+    "zip": "28312"
+  },
+  "location": {
+    "lat": 35.040562,
+    "lng": -78.830971
+  },
+  "contact": {
+    "phone": "(910) 323-0098"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "01d14ace-b493-4697-928e-021565f12703",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

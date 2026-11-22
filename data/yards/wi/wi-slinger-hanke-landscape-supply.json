@@ -1,0 +1,36 @@
+{
+  "id": "wi-slinger-hanke-landscape-supply",
+  "slug": "hanke-landscape-supply",
+  "name": "Hanke Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4455 State Road 144",
+    "city": "Slinger",
+    "state": "WI",
+    "zip": "53086"
+  },
+  "location": {
+    "lat": 43.35112,
+    "lng": -88.282417
+  },
+  "contact": {
+    "phone": "(262) 644-9486",
+    "website": "http://www.hankelandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "94ce7ad4-3f76-4169-bd51-9dce946767d3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nj-monroe-township-c-fanelli-landscape-supply-and-nursery",
+  "slug": "c-fanelli-landscape-supply-and-nursery",
+  "name": "C-Fanelli Landscape Supply and Nursery",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "439 Buckelew Ave",
+    "city": "Monroe Township",
+    "state": "NJ",
+    "zip": "08831"
+  },
+  "location": {
+    "lat": 40.32859,
+    "lng": -74.408859
+  },
+  "contact": {
+    "phone": "(732) 521-2192",
+    "website": "http://www.fanellilandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb431cce-112b-4cb1-b0c6-1f5753787edb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

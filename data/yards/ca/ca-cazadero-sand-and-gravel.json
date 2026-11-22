@@ -1,0 +1,48 @@
+{
+  "id": "ca-cazadero-sand-and-gravel",
+  "slug": "sand-and-gravel",
+  "name": "Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "600 Austin Creek Rd",
+    "city": "Cazadero",
+    "state": "CA",
+    "zip": "95421"
+  },
+  "location": {
+    "lat": 38.47604,
+    "lng": -123.048126
+  },
+  "contact": {
+    "phone": "(707) 632-5296",
+    "website": "http://sandgraveldepot.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a3d6ce0-bdfd-4599-86dd-316156148973",
+    "confidence": 0.55,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0404981",
+      "name": "Diamond T Natural Resources, LLC",
+      "operator": "Canyon Rock Co., Inc",
+      "status": "Active",
+      "status_since": "1988-11-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

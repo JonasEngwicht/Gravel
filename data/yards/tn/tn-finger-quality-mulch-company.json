@@ -1,0 +1,36 @@
+{
+  "id": "tn-finger-quality-mulch-company",
+  "slug": "quality-mulch-company",
+  "name": "Quality Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "190 Sweet Lips Rd",
+    "city": "Finger",
+    "state": "TN",
+    "zip": "38334"
+  },
+  "location": {
+    "lat": 35.358006,
+    "lng": -88.588448
+  },
+  "contact": {
+    "phone": "(731) 610-7645",
+    "website": "http://qualitymulch.org/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7951ffa-d0de-4862-922b-cf4ed423c5a3",
+    "confidence": 0.739,
+    "merged_records": 1
+  }
+}

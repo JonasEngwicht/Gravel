@@ -1,0 +1,36 @@
+{
+  "id": "ma-littleton-stoneyard-inc",
+  "slug": "stoneyard-inc",
+  "name": "Stoneyard Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2 Spectacle Pond Rd",
+    "city": "Littleton",
+    "state": "MA",
+    "zip": "01460"
+  },
+  "location": {
+    "lat": 42.551952,
+    "lng": -71.528313
+  },
+  "contact": {
+    "phone": "(978) 742-9800",
+    "website": "https://Stoneyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3a0c823-acee-4a3e-8984-5050e3587fd2",
+    "confidence": 0.92,
+    "merged_records": 3
+  }
+}

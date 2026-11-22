@@ -1,0 +1,36 @@
+{
+  "id": "in-chesterton-chesterton-stone-and-landscape-supply",
+  "slug": "chesterton-stone-and-landscape-supply",
+  "name": "Chesterton Stone & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1515 W Indiana Ave",
+    "city": "Chesterton",
+    "state": "IN",
+    "zip": "46304"
+  },
+  "location": {
+    "lat": 41.610706,
+    "lng": -87.072296
+  },
+  "contact": {
+    "phone": "(219) 926-5447",
+    "website": "https://chestertonstoneandlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7877f5d2-ef70-45da-a48d-87e3e07e428d",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

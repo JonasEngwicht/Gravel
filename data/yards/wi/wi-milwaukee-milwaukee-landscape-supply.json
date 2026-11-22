@@ -1,0 +1,36 @@
+{
+  "id": "wi-milwaukee-milwaukee-landscape-supply",
+  "slug": "milwaukee-landscape-supply",
+  "name": "Milwaukee Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6940, 7000 N 76th St",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53223"
+  },
+  "location": {
+    "lat": 43.144432,
+    "lng": -88.005013
+  },
+  "contact": {
+    "phone": "(414) 751-7300",
+    "website": "http://www.halbman.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4bb9a27-21f1-41b9-8a1e-65400664ecbd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

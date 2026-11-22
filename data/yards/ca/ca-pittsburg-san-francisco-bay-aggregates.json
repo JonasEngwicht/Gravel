@@ -1,0 +1,36 @@
+{
+  "id": "ca-pittsburg-san-francisco-bay-aggregates",
+  "slug": "san-francisco-bay-aggregates",
+  "name": "San Francisco Bay Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "895 E 3rd St",
+    "city": "Pittsburg",
+    "state": "CA",
+    "zip": "94565"
+  },
+  "location": {
+    "lat": 38.030479,
+    "lng": -121.87001
+  },
+  "contact": {
+    "phone": "(408) 458-3950",
+    "website": "http://www.sfbayaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b8c4abf-ef56-481f-af20-79651785770b",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

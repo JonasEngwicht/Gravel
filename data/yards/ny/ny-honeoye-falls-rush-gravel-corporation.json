@@ -1,0 +1,36 @@
+{
+  "id": "ny-honeoye-falls-rush-gravel-corporation",
+  "slug": "rush-gravel-corporation",
+  "name": "Rush Gravel Corporation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "130 Kavanaugh Rd",
+    "city": "Honeoye Falls",
+    "state": "NY",
+    "zip": "14472"
+  },
+  "location": {
+    "lat": 42.968052,
+    "lng": -77.651779
+  },
+  "contact": {
+    "phone": "(585) 533-1740",
+    "website": "http://rushgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "717870bc-905e-4a1d-9a0d-b5b6a580e19f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

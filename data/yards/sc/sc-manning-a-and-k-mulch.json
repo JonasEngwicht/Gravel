@@ -1,0 +1,35 @@
+{
+  "id": "sc-manning-a-and-k-mulch",
+  "slug": "a-and-k-mulch",
+  "name": "A & K Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3467 Hwy 301",
+    "city": "Manning",
+    "state": "SC",
+    "zip": "29102"
+  },
+  "location": {
+    "lat": 33.724304,
+    "lng": -80.194885
+  },
+  "contact": {
+    "phone": "(803) 473-4868"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa94c54f-543b-4197-ab61-48471aa62b4c",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

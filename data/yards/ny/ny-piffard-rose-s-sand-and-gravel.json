@@ -1,0 +1,35 @@
+{
+  "id": "ny-piffard-rose-s-sand-and-gravel",
+  "slug": "rose-s-sand-and-gravel",
+  "name": "Rose's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2544 Genesee St",
+    "city": "Piffard",
+    "state": "NY",
+    "zip": "14533"
+  },
+  "location": {
+    "lat": 42.830364,
+    "lng": -77.896057
+  },
+  "contact": {
+    "phone": "(585) 243-2113"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "299a8466-63e9-429a-a594-0f38a60aba0c",
+    "confidence": 0.693,
+    "merged_records": 1
+  }
+}

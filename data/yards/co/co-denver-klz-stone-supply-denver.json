@@ -1,0 +1,36 @@
+{
+  "id": "co-denver-klz-stone-supply-denver",
+  "slug": "klz-stone-supply-denver",
+  "name": "Klz Stone Supply Denver",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "735 S Jason St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80223"
+  },
+  "location": {
+    "lat": 39.703026,
+    "lng": -104.999527
+  },
+  "contact": {
+    "phone": "(303) 732-5900",
+    "website": "http://klzstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7f075aa6-4e2b-44d9-8f4e-e484d4875b36",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

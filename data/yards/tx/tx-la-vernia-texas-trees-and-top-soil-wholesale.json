@@ -1,0 +1,35 @@
+{
+  "id": "tx-la-vernia-texas-trees-and-top-soil-wholesale",
+  "slug": "texas-trees-and-top-soil-wholesale",
+  "name": "Texas Trees and Top Soil Wholesale",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "281 Oak Vine Dr",
+    "city": "La Vernia",
+    "state": "TX",
+    "zip": "78121"
+  },
+  "location": {
+    "lat": 29.339357,
+    "lng": -98.107361
+  },
+  "contact": {
+    "phone": "(210) 316-5038"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a6367aab-fb74-4031-999d-5355c39a9198",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

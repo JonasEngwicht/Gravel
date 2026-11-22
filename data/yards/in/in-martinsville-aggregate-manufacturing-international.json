@@ -1,0 +1,36 @@
+{
+  "id": "in-martinsville-aggregate-manufacturing-international",
+  "slug": "aggregate-manufacturing-international",
+  "name": "Aggregate Manufacturing International",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "30 James Baldwin Dr",
+    "city": "Martinsville",
+    "state": "IN",
+    "zip": "46151"
+  },
+  "location": {
+    "lat": 39.411346,
+    "lng": -86.418304
+  },
+  "contact": {
+    "phone": "(765) 349-5319",
+    "website": "http://ami-crushers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "39d66944-90d3-4e56-970a-7909f823d586",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

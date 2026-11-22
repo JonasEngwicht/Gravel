@@ -1,0 +1,48 @@
+{
+  "id": "oh-gambier-small-s-sand-and-gravel-inc",
+  "slug": "small-s-sand-and-gravel-inc",
+  "name": "Small's Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10229 Killduff Road",
+    "city": "Gambier",
+    "state": "OH",
+    "zip": "43022"
+  },
+  "location": {
+    "lat": 40.377171,
+    "lng": -82.352783
+  },
+  "contact": {
+    "phone": "(740) 427-3677",
+    "website": "https://www.smallssandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "346da636-39e2-415b-bb2d-6476137d672c",
+    "confidence": 0.966,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3303012",
+      "name": "Small's Sand & Gravel, Inc.",
+      "operator": "Small's Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "1999-06-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

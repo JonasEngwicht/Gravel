@@ -1,0 +1,36 @@
+{
+  "id": "mi-commerce-twp-american-landscape-supplies",
+  "slug": "american-landscape-supplies",
+  "name": "American Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1789 Rock Rd",
+    "city": "Commerce Twp",
+    "state": "MI",
+    "zip": "48390"
+  },
+  "location": {
+    "lat": 42.550995,
+    "lng": -83.444809
+  },
+  "contact": {
+    "phone": "(855) 468-6852",
+    "website": "https://americansupplymi.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "20cfce0f-4a07-4c01-9577-c823236a08a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tn-shelbyville-bedford-mulch",
+  "slug": "bedford-mulch",
+  "name": "Bedford Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1405 Union St",
+    "city": "Shelbyville",
+    "state": "TN",
+    "zip": "37160"
+  },
+  "location": {
+    "lat": 35.509331,
+    "lng": -86.49231
+  },
+  "contact": {
+    "phone": "(931) 685-2005",
+    "website": "https://www.bedfordmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3583f302-eaf7-41fc-b444-483d9b1f1cf7",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

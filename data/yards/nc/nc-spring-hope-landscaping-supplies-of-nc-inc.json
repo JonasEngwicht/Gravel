@@ -1,0 +1,36 @@
+{
+  "id": "nc-spring-hope-landscaping-supplies-of-nc-inc",
+  "slug": "landscaping-supplies-of-nc-inc",
+  "name": "Landscaping Supplies of NC, Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8245 Pleasant Grove Church Rd",
+    "city": "Spring Hope",
+    "state": "NC",
+    "zip": "27882"
+  },
+  "location": {
+    "lat": 35.981583,
+    "lng": -78.098122
+  },
+  "contact": {
+    "phone": "(919) 703-5686",
+    "website": "http://landscapingsuppliesofnc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca08c001-4187-4337-9214-09c59e7215c7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

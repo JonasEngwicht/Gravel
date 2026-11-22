@@ -1,0 +1,37 @@
+{
+  "id": "ca-sacramento-heritage-landscape-supply-2549-harris-ave",
+  "slug": "heritage-landscape-supply-2549-harris-ave",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "2549 Harris Ave",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95838"
+  },
+  "location": {
+    "lat": 38.639015,
+    "lng": -121.407341
+  },
+  "contact": {
+    "phone": "(916) 245-1500",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15acce94-4590-4a32-81c7-43302813d8d0",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

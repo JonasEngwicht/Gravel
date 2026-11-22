@@ -1,0 +1,36 @@
+{
+  "id": "ga-sugar-hill-cowart-mulch-products",
+  "slug": "cowart-mulch-products",
+  "name": "Cowart Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "185 Peachtree Industrial Blvd NE",
+    "city": "Sugar Hill",
+    "state": "GA",
+    "zip": "30518"
+  },
+  "location": {
+    "lat": 34.077099,
+    "lng": -84.058296
+  },
+  "contact": {
+    "phone": "(770) 932-6161",
+    "website": "http://www.cowartmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74244dcc-c208-42a1-9b7d-6030f8656001",
+    "confidence": 0.752,
+    "merged_records": 1
+  }
+}

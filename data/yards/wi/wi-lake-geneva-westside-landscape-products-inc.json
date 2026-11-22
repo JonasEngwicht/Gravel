@@ -1,0 +1,36 @@
+{
+  "id": "wi-lake-geneva-westside-landscape-products-inc",
+  "slug": "westside-landscape-products-inc",
+  "name": "Westside Landscape Products, Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "N1882 WI-120",
+    "city": "Lake Geneva",
+    "state": "WI",
+    "zip": "53147"
+  },
+  "location": {
+    "lat": 42.559902,
+    "lng": -88.418289
+  },
+  "contact": {
+    "phone": "(262) 949-4188",
+    "website": "http://www.westsidelandscapeproductsinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4f549013-dfda-4480-b40f-1aed18baceaa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

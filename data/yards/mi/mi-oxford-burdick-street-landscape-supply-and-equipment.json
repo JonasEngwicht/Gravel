@@ -1,0 +1,36 @@
+{
+  "id": "mi-oxford-burdick-street-landscape-supply-and-equipment",
+  "slug": "burdick-street-landscape-supply-and-equipment",
+  "name": "Burdick Street Landscape Supply and Equipment",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "43 E Burdick St",
+    "city": "Oxford",
+    "state": "MI",
+    "zip": "48371"
+  },
+  "location": {
+    "lat": 42.824955,
+    "lng": -83.261841
+  },
+  "contact": {
+    "phone": "(248) 969-2800",
+    "website": "https://www.burdickstreet.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "25a0b1c1-e54c-4ec1-8a70-86ae6ccd914f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

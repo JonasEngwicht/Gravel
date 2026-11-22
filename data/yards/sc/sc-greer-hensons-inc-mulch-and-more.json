@@ -1,0 +1,36 @@
+{
+  "id": "sc-greer-hensons-inc-mulch-and-more",
+  "slug": "hensons-inc-mulch-and-more",
+  "name": "HENSONS' INC. MULCH & MORE",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3190 HIGHWAY 14 N.",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "location": {
+    "lat": 34.984634,
+    "lng": -82.245605
+  },
+  "contact": {
+    "phone": "(864) 879-6941",
+    "website": "https://hensonsinc.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6013b562-9a6b-46db-840f-0b7e97f857e1",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ny-wassaic-harlem-valley-sand-and-gravel-inc",
+  "slug": "harlem-valley-sand-and-gravel-inc",
+  "name": "Harlem Valley Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "138 Kent Rd",
+    "city": "Wassaic",
+    "state": "NY",
+    "zip": "12592"
+  },
+  "location": {
+    "lat": 41.790218,
+    "lng": -73.534554
+  },
+  "contact": {
+    "phone": "(845) 373-8200",
+    "website": "https://harlemvalleysandandgravel.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3d2d0034-d322-4286-bc45-03ba766423a8",
+    "confidence": 0.999,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3001295",
+      "name": "Harlem Valley Sand & Gravel",
+      "operator": "Harlem Valley Sand And Gravel",
+      "status": "Active",
+      "status_since": "2024-05-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

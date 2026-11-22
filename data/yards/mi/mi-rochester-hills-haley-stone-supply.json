@@ -1,0 +1,36 @@
+{
+  "id": "mi-rochester-hills-haley-stone-supply",
+  "slug": "haley-stone-supply",
+  "name": "Haley Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3975 S Rochester Rd",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "zip": "48307"
+  },
+  "location": {
+    "lat": 42.623657,
+    "lng": -83.130562
+  },
+  "contact": {
+    "phone": "(248) 852-5511",
+    "website": "http://www.haleystone.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a195b9ad-5665-4734-8591-5204f357f496",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

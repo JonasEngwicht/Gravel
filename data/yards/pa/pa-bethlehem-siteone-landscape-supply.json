@@ -1,0 +1,37 @@
+{
+  "id": "pa-bethlehem-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4217 Fritch Dr",
+    "city": "Bethlehem",
+    "state": "PA",
+    "zip": "18020"
+  },
+  "location": {
+    "lat": 40.681164,
+    "lng": -75.346123
+  },
+  "contact": {
+    "phone": "(610) 866-6665",
+    "website": "https://www.siteone.com/store/529"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8f4837cc-6283-45f0-b5cc-0781ac9d8c39",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

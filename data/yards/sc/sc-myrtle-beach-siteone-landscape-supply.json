@@ -1,0 +1,37 @@
+{
+  "id": "sc-myrtle-beach-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3141 Mr Joe White Ave",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "zip": "29577"
+  },
+  "location": {
+    "lat": 33.719311,
+    "lng": -78.902199
+  },
+  "contact": {
+    "phone": "(843) 626-4421",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71c24139-472d-41a7-a64d-6e3297df3457",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

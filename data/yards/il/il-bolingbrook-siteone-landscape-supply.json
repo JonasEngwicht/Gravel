@@ -1,0 +1,37 @@
+{
+  "id": "il-bolingbrook-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1 Gateway Ct Ste F",
+    "city": "Bolingbrook",
+    "state": "IL",
+    "zip": "60440"
+  },
+  "location": {
+    "lat": 41.670895,
+    "lng": -88.079185
+  },
+  "contact": {
+    "phone": "(630) 759-3427",
+    "website": "https://www.siteone.com/store/813"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "004594ec-cacc-4a84-8862-582108335710",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

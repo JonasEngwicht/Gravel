@@ -1,0 +1,36 @@
+{
+  "id": "nv-las-vegas-bedrock-landscape-supply",
+  "slug": "bedrock-landscape-supply",
+  "name": "Bedrock Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9185 S Torrey Pines Dr",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89139"
+  },
+  "location": {
+    "lat": 36.022495,
+    "lng": -115.235023
+  },
+  "contact": {
+    "phone": "(702) 638-1112",
+    "website": "https://bedrocklandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44fedd31-3f1e-426a-9a1b-7cec0a647d91",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

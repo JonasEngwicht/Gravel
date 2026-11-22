@@ -1,0 +1,36 @@
+{
+  "id": "ri-wakefield-sherman-geo-sand-and-gravel-co-inc",
+  "slug": "sherman-geo-sand-and-gravel-co-inc",
+  "name": "Sherman Geo Sand & Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "881 Curtis Corner Rd",
+    "city": "Wakefield",
+    "state": "RI",
+    "zip": "02879"
+  },
+  "location": {
+    "lat": 41.452839,
+    "lng": -71.538208
+  },
+  "contact": {
+    "phone": "(401) 789-6304",
+    "website": "http://shermansandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ec3a890e-5df0-4dec-9ce9-e928db799d4d",
+    "confidence": 0.988,
+    "merged_records": 2
+  }
+}

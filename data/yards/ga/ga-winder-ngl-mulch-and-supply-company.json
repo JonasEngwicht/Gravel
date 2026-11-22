@@ -1,0 +1,36 @@
+{
+  "id": "ga-winder-ngl-mulch-and-supply-company",
+  "slug": "ngl-mulch-and-supply-company",
+  "name": "NGL Mulch & Supply Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "624 Atlanta Hwy NW",
+    "city": "Winder",
+    "state": "GA",
+    "zip": "30680"
+  },
+  "location": {
+    "lat": 33.991703,
+    "lng": -83.772652
+  },
+  "contact": {
+    "phone": "(770) 586-0372",
+    "website": "http://www.nglmulchsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df31d8c5-556f-448e-aaf7-8c9ee2acbd98",
+    "confidence": 0.881,
+    "merged_records": 1
+  }
+}

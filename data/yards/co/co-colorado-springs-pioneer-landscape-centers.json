@@ -1,0 +1,37 @@
+{
+  "id": "co-colorado-springs-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "5000 Northpark Dr",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80918"
+  },
+  "location": {
+    "lat": 38.904999,
+    "lng": -104.825821
+  },
+  "contact": {
+    "phone": "(719) 725-6550",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3392c41-5fcf-4b82-a576-6e7ef5677ad1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

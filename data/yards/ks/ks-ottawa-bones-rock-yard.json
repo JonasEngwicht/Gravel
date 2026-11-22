@@ -1,0 +1,36 @@
+{
+  "id": "ks-ottawa-bones-rock-yard",
+  "slug": "bones-rock-yard",
+  "name": "Bones Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3557 Old 59 Highway",
+    "city": "Ottawa",
+    "state": "KS",
+    "zip": "66067"
+  },
+  "location": {
+    "lat": 38.641525,
+    "lng": -95.267075
+  },
+  "contact": {
+    "phone": "(785) 242-3070",
+    "website": "https://bonesrockyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fdde3a03-9f83-4cba-83d8-a9d9ba33c5df",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

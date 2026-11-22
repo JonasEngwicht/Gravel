@@ -1,0 +1,36 @@
+{
+  "id": "or-fairview-dirt-and-aggregate-interchange",
+  "slug": "dirt-and-aggregate-interchange",
+  "name": "Dirt & Aggregate Interchange",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "20905 NE Sandy Blvd",
+    "city": "Fairview",
+    "state": "OR",
+    "zip": "97024"
+  },
+  "location": {
+    "lat": 45.5438,
+    "lng": -122.447464
+  },
+  "contact": {
+    "phone": "(503) 661-5093",
+    "website": "http://dirtagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42c5640c-5ed4-4c56-8810-642196e15c74",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

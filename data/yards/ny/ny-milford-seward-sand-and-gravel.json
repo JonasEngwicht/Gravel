@@ -1,0 +1,48 @@
+{
+  "id": "ny-milford-seward-sand-and-gravel",
+  "slug": "seward-sand-and-gravel",
+  "name": "Seward Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "532 Co Hwy 58",
+    "city": "Milford",
+    "state": "NY",
+    "zip": "13820"
+  },
+  "location": {
+    "lat": 42.477829,
+    "lng": -74.980431
+  },
+  "contact": {
+    "phone": "(607) 432-1653",
+    "website": "http://sewardsandandgravel.com/gravel-company-oneonta"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "76ecceef-84ce-4188-95e1-bd8284e4056b",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3000966",
+      "name": "Main Pit",
+      "operator": "Seward Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "2026-07-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ri-wakefield-south-county-sand-and-gravel-co-inc",
+  "slug": "south-county-sand-and-gravel-co-inc",
+  "name": "South County Sand & Gravel Co., Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "145 Fiore Industrial Dr",
+    "city": "Wakefield",
+    "state": "RI",
+    "zip": "02879"
+  },
+  "location": {
+    "lat": 41.461548,
+    "lng": -71.501625
+  },
+  "contact": {
+    "phone": "(401) 783-4711",
+    "website": "http://www.southcountysandandgravel.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b979b175-dc5d-4cfc-8bba-5a9fa69e5746",
+    "confidence": 0.997,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3700247",
+      "name": "Portable Crusher",
+      "operator": "South County Sand & Gravel CO",
+      "status": "Temporarily Idled",
+      "status_since": "2025-06-12",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "inactive-nearby",
+      "employees": 2
+    }
+  ]
+}

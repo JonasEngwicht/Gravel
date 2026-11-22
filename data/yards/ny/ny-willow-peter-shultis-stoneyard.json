@@ -1,0 +1,35 @@
+{
+  "id": "ny-willow-peter-shultis-stoneyard",
+  "slug": "peter-shultis-stoneyard",
+  "name": "Peter Shultis Stoneyard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "16 Van Wagner Rd",
+    "city": "Willow",
+    "state": "NY",
+    "zip": "12495"
+  },
+  "location": {
+    "lat": 42.074116,
+    "lng": -74.224632
+  },
+  "contact": {
+    "phone": "(845) 679-6943"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc175ee8-319a-4f8f-b44f-3beb57eb3a60",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

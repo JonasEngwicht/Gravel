@@ -1,0 +1,36 @@
+{
+  "id": "mi-whitmore-lake-broadscape-landscape-supplies",
+  "slug": "broadscape-landscape-supplies",
+  "name": "Broadscape Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6350 Whitmore Lake Rd",
+    "city": "Whitmore Lake",
+    "state": "MI",
+    "zip": "48189"
+  },
+  "location": {
+    "lat": 42.368813,
+    "lng": -83.752525
+  },
+  "contact": {
+    "phone": "(734) 213-2233",
+    "website": "http://www.broadscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "28510c2f-340f-435a-8621-e21477225fb2",
+    "confidence": 0.877,
+    "merged_records": 1
+  }
+}

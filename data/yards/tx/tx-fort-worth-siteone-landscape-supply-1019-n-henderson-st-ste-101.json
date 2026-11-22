@@ -1,0 +1,37 @@
+{
+  "id": "tx-fort-worth-siteone-landscape-supply-1019-n-henderson-st-ste-101",
+  "slug": "siteone-landscape-supply-1019-n-henderson-st-ste-101",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1019 N Henderson St Ste 101",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76107"
+  },
+  "location": {
+    "lat": 32.762501,
+    "lng": -97.348526
+  },
+  "contact": {
+    "phone": "(817) 334-7926",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68a90ee1-eb72-46a8-9522-41f4b8dc74ed",
+    "confidence": 0.92,
+    "merged_records": 3
+  }
+}

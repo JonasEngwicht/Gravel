@@ -1,0 +1,35 @@
+{
+  "id": "mn-bemidji-northern-aggregate-and-northern-paving",
+  "slug": "northern-aggregate-and-northern-paving",
+  "name": "Northern Aggregate and Northern Paving",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "49361 US-71",
+    "city": "Bemidji",
+    "state": "MN",
+    "zip": "56601"
+  },
+  "location": {
+    "lat": 47.372677,
+    "lng": -94.862999
+  },
+  "contact": {
+    "phone": "(218) 333-8888"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "658e6053-7360-4aca-a3f5-d0b7818de858",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

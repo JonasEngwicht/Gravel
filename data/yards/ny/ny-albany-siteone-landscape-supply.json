@@ -1,0 +1,37 @@
+{
+  "id": "ny-albany-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12 Walker Way Ste 3",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12205"
+  },
+  "location": {
+    "lat": 42.716564,
+    "lng": -73.838341
+  },
+  "contact": {
+    "phone": "(518) 456-2334",
+    "website": "http://siteone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c180a464-245f-4afa-926d-1d2d7d33d15e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-maple-city-kasson-sand-and-gravel-inc",
+  "slug": "kasson-sand-and-gravel-inc",
+  "name": "Kasson Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10282 S Pierce Rd",
+    "city": "Maple City",
+    "state": "MI",
+    "zip": "49664"
+  },
+  "location": {
+    "lat": 44.830536,
+    "lng": -85.885132
+  },
+  "contact": {
+    "phone": "(231) 228-5455",
+    "website": "https://www.kassonsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7bf59d13-869b-4353-90ca-f92204079f51",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

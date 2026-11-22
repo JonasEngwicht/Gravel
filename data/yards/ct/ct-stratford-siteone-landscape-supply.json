@@ -1,0 +1,37 @@
+{
+  "id": "ct-stratford-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "265 Hathaway Dr",
+    "city": "Stratford",
+    "state": "CT",
+    "zip": "06615"
+  },
+  "location": {
+    "lat": 41.170559,
+    "lng": -73.146172
+  },
+  "contact": {
+    "phone": "(203) 375-6900",
+    "website": "https://www.siteone.com/store/558"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fdaa37bc-c47e-4645-a777-e3899146cda9",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

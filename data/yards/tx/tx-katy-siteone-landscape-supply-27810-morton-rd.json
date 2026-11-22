@@ -1,0 +1,37 @@
+{
+  "id": "tx-katy-siteone-landscape-supply-27810-morton-rd",
+  "slug": "siteone-landscape-supply-27810-morton-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "27810 Morton Rd",
+    "city": "Katy",
+    "state": "TX",
+    "zip": "77493"
+  },
+  "location": {
+    "lat": 29.816904,
+    "lng": -95.85363
+  },
+  "contact": {
+    "phone": "(281) 392-1003",
+    "website": "https://www.siteone.com/en/store/1022"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9054164-af13-4549-8409-0a969b3338c3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wi-middleton-speedway-sand-and-gravel-inc",
+  "slug": "speedway-sand-and-gravel-inc",
+  "name": "Speedway Sand & Gravel, Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8500 Greenway Blvd",
+    "city": "Middleton",
+    "state": "WI",
+    "zip": "53562"
+  },
+  "location": {
+    "lat": 43.089596,
+    "lng": -89.531296
+  },
+  "contact": {
+    "website": "https://www.speedwaysginc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "76032a40-6e44-4bdc-933e-b6f0f9390038",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-mocksville-weathered-rock-stone-mulch-and-more",
+  "slug": "weathered-rock-stone-mulch-and-more",
+  "name": "Weathered Rock Stone, Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1819 US Highway 64 W",
+    "city": "Mocksville",
+    "state": "NC",
+    "zip": "27028"
+  },
+  "location": {
+    "lat": 35.911114,
+    "lng": -80.620522
+  },
+  "contact": {
+    "phone": "(336) 492-5979",
+    "website": "http://www.weatheredrocknc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "16b749c9-9bcd-4af7-a2b7-05b5bbd4add4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

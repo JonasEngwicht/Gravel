@@ -1,0 +1,36 @@
+{
+  "id": "ma-milford-landscape-depot",
+  "slug": "landscape-depot",
+  "name": "Landscape Depot",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "57 Dilla St",
+    "city": "Milford",
+    "state": "MA",
+    "zip": "01757"
+  },
+  "location": {
+    "lat": 42.160313,
+    "lng": -71.515968
+  },
+  "contact": {
+    "phone": "(508) 478-9100",
+    "website": "http://www.landscapedepotsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2daa4386-12e7-4153-bafe-1c43c9c4ed1f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

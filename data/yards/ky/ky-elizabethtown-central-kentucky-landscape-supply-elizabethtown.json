@@ -1,0 +1,36 @@
+{
+  "id": "ky-elizabethtown-central-kentucky-landscape-supply-elizabethtown",
+  "slug": "central-kentucky-landscape-supply-elizabethtown",
+  "name": "Central Kentucky Landscape Supply Elizabethtown",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1239 Bardstown Road",
+    "city": "Elizabethtown",
+    "state": "KY",
+    "zip": "42701"
+  },
+  "location": {
+    "lat": 37.742828,
+    "lng": -85.763733
+  },
+  "contact": {
+    "phone": "(859) 487-1891",
+    "website": "https://www.ckyls.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b25a8704-735a-49cc-98a4-e5c85bc6ca7d",
+    "confidence": 0.62,
+    "merged_records": 1
+  }
+}

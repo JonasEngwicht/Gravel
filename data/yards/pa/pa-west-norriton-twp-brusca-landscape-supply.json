@@ -1,0 +1,36 @@
+{
+  "id": "pa-west-norriton-twp-brusca-landscape-supply",
+  "slug": "brusca-landscape-supply",
+  "name": "Brusca Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "530 N Trooper Rd",
+    "city": "West Norriton Twp",
+    "state": "PA",
+    "zip": "19403"
+  },
+  "location": {
+    "lat": 40.154564,
+    "lng": -75.376663
+  },
+  "contact": {
+    "phone": "(610) 539-5790",
+    "website": "https://www.bruscasupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "761bc308-52b3-43ca-ba4e-cf5468070441",
+    "confidence": 0.978,
+    "merged_records": 1
+  }
+}

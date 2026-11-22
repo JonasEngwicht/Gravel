@@ -1,0 +1,36 @@
+{
+  "id": "ma-bellingham-north-country-mulch",
+  "slug": "north-country-mulch",
+  "name": "North Country Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "236 Maple St",
+    "city": "Bellingham",
+    "state": "MA",
+    "zip": "02019"
+  },
+  "location": {
+    "lat": 42.102268,
+    "lng": -71.447655
+  },
+  "contact": {
+    "phone": "(508) 478-1234",
+    "website": "http://NorthCountryMulchMA.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6aa04b7c-89c4-4e3f-aef5-5ccf4f4cd139",
+    "confidence": 0.979,
+    "merged_records": 1
+  }
+}

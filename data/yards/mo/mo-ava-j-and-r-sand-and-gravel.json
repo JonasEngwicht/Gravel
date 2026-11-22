@@ -1,0 +1,36 @@
+{
+  "id": "mo-ava-j-and-r-sand-and-gravel",
+  "slug": "j-and-r-sand-and-gravel",
+  "name": "J & R Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "Higgins Family Farm, 20404 CR-W-215",
+    "city": "Ava",
+    "state": "MO",
+    "zip": "65608"
+  },
+  "location": {
+    "lat": 36.959763,
+    "lng": -92.51313
+  },
+  "contact": {
+    "phone": "(417) 683-1728",
+    "website": "http://www.jrsandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a120051b-c921-4d18-9636-34623568b5d3",
+    "confidence": 0.629,
+    "merged_records": 1
+  }
+}

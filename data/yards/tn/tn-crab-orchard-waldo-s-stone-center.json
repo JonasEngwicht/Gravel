@@ -1,0 +1,36 @@
+{
+  "id": "tn-crab-orchard-waldo-s-stone-center",
+  "slug": "waldo-s-stone-center",
+  "name": "Waldo's Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "10334 US-70",
+    "city": "Crab Orchard",
+    "state": "TN",
+    "zip": "37723"
+  },
+  "location": {
+    "lat": 35.905014,
+    "lng": -84.871498
+  },
+  "contact": {
+    "phone": "(931) 456-9138",
+    "website": "http://www.waldostonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "318dae47-f22b-46b5-a649-3ac30430bc46",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

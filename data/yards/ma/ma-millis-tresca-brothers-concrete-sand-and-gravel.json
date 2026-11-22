@@ -1,0 +1,36 @@
+{
+  "id": "ma-millis-tresca-brothers-concrete-sand-and-gravel",
+  "slug": "tresca-brothers-concrete-sand-and-gravel",
+  "name": "Tresca Brothers Concrete, Sand, & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "66 Main St",
+    "city": "Millis",
+    "state": "MA",
+    "zip": "02054"
+  },
+  "location": {
+    "lat": 42.179478,
+    "lng": -71.325066
+  },
+  "contact": {
+    "phone": "(508) 376-2957",
+    "website": "https://www.trescaconcrete.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e4eb46f4-d9c2-497d-9750-226f98e64073",
+    "confidence": 0.943,
+    "merged_records": 1
+  }
+}

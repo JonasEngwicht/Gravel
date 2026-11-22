@@ -1,0 +1,35 @@
+{
+  "id": "tx-mt-vernon-brooksey-crow-sand-and-gravel",
+  "slug": "brooksey-crow-sand-and-gravel",
+  "name": "Brooksey Crow Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "36 FM 21",
+    "city": "Mt Vernon",
+    "state": "TX",
+    "zip": "75457"
+  },
+  "location": {
+    "lat": 33.146893,
+    "lng": -95.237411
+  },
+  "contact": {
+    "phone": "(903) 588-5076"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eec634bf-865a-4945-ad22-da4e02e46c86",
+    "confidence": 0.759,
+    "merged_records": 1
+  }
+}

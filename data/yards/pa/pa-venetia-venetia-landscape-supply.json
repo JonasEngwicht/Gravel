@@ -1,0 +1,36 @@
+{
+  "id": "pa-venetia-venetia-landscape-supply",
+  "slug": "venetia-landscape-supply",
+  "name": "Venetia Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "452 Venetia Rd",
+    "city": "Venetia",
+    "state": "PA",
+    "zip": "15367"
+  },
+  "location": {
+    "lat": 40.24461,
+    "lng": -80.053802
+  },
+  "contact": {
+    "phone": "(724) 348-5518",
+    "website": "https://www.venetiasupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "664c8700-cdae-4496-8fd7-d5bc611d43c9",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

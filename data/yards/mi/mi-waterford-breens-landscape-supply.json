@@ -1,0 +1,35 @@
+{
+  "id": "mi-waterford-breens-landscape-supply",
+  "slug": "breens-landscape-supply",
+  "name": "Breens Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4650 Pontiac Lake Rd",
+    "city": "Waterford",
+    "state": "MI",
+    "zip": "48328"
+  },
+  "location": {
+    "lat": 42.653404,
+    "lng": -83.379044
+  },
+  "contact": {
+    "phone": "(248) 674-1127"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "21f67f5e-2d8d-498f-8603-d6b708001230",
+    "confidence": 0.525,
+    "merged_records": 1
+  }
+}

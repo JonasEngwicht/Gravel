@@ -1,0 +1,36 @@
+{
+  "id": "ca-menifee-grower-s-choice-building-and-landscape-materials",
+  "slug": "grower-s-choice-building-and-landscape-materials",
+  "name": "Grower's Choice Building & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "30510 Murrieta Rd",
+    "city": "Menifee",
+    "state": "CA",
+    "zip": "92584"
+  },
+  "location": {
+    "lat": 33.67696,
+    "lng": -117.204842
+  },
+  "contact": {
+    "phone": "(951) 246-1492",
+    "website": "http://www.gcblm.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eef0cabf-2c27-4f15-905d-f77a6a478dce",
+    "confidence": 0.504,
+    "merged_records": 1
+  }
+}

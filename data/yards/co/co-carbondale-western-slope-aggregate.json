@@ -1,0 +1,36 @@
+{
+  "id": "co-carbondale-western-slope-aggregate",
+  "slug": "western-slope-aggregate",
+  "name": "Western Slope Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14682 Highway 82",
+    "city": "Carbondale",
+    "state": "CO",
+    "zip": "81623"
+  },
+  "location": {
+    "lat": 39.413177,
+    "lng": -107.187988
+  },
+  "contact": {
+    "phone": "(970) 989-9735",
+    "website": "http://www.ws-materials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8fe0a8e5-a72e-4699-a2f4-581ac5c8517a",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

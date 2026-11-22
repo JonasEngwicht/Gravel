@@ -1,0 +1,36 @@
+{
+  "id": "il-benton-burkdell-mulch",
+  "slug": "burkdell-mulch",
+  "name": "Burkdell Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12051 Cyril James Rd",
+    "city": "Benton",
+    "state": "IL",
+    "zip": "62812"
+  },
+  "location": {
+    "lat": 38.042091,
+    "lng": -88.880714
+  },
+  "contact": {
+    "phone": "(618) 435-3069",
+    "website": "http://burkdellmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "50e3d81e-8aed-4751-91e0-505fbe1b32b7",
+    "confidence": 0.71,
+    "merged_records": 1
+  }
+}

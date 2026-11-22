@@ -1,0 +1,37 @@
+{
+  "id": "in-south-bend-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3412 Boland Dr",
+    "city": "South Bend",
+    "state": "IN",
+    "zip": "46628"
+  },
+  "location": {
+    "lat": 41.715694,
+    "lng": -86.297882
+  },
+  "contact": {
+    "phone": "(574) 288-9471",
+    "website": "https://www.siteone.com/en/store/589"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a1bb7d7-1266-42da-9ec3-464481771e90",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

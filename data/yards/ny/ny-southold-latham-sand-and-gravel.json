@@ -1,0 +1,36 @@
+{
+  "id": "ny-southold-latham-sand-and-gravel",
+  "slug": "latham-sand-and-gravel",
+  "name": "Latham Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "35180 Middle Rd",
+    "city": "Southold",
+    "state": "NY",
+    "zip": "11958"
+  },
+  "location": {
+    "lat": 41.051556,
+    "lng": -72.45723
+  },
+  "contact": {
+    "phone": "(631) 734-6800",
+    "website": "http://lathamsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6dcea839-a451-483d-9877-0bc9b2d8c500",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nc-shallotte-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2407 Ocean Highway W",
+    "city": "Shallotte",
+    "state": "NC",
+    "zip": "28470"
+  },
+  "location": {
+    "lat": 33.991169,
+    "lng": -78.347588
+  },
+  "contact": {
+    "phone": "(800) 200-6390",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11b28a2e-dd73-4a23-bf86-a536d68795f3",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

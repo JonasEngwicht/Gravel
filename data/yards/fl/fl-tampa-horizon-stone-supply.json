@@ -1,0 +1,36 @@
+{
+  "id": "fl-tampa-horizon-stone-supply",
+  "slug": "horizon-stone-supply",
+  "name": "Horizon Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3701 West Lambright Street",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33614"
+  },
+  "location": {
+    "lat": 28.007757,
+    "lng": -82.503754
+  },
+  "contact": {
+    "phone": "(813) 870-2620",
+    "website": "https://www.horizononline.com/landscape-supply-store/stone-supply-fl/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26fac3dd-4871-4e94-ba30-31427c6a7b13",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

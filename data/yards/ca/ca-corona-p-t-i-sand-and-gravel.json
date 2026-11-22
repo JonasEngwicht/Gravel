@@ -1,0 +1,36 @@
+{
+  "id": "ca-corona-p-t-i-sand-and-gravel",
+  "slug": "p-t-i-sand-and-gravel",
+  "name": "P. T. I. Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14925 River Rd",
+    "city": "Corona",
+    "state": "CA",
+    "zip": "92880"
+  },
+  "location": {
+    "lat": 33.881031,
+    "lng": -117.605728
+  },
+  "contact": {
+    "phone": "(951) 272-0140",
+    "website": "http://www.ptisag.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aac88aec-0dcb-4d33-9e69-9a870cdb7dfd",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

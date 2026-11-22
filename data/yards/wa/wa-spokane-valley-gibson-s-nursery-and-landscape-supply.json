@@ -1,0 +1,36 @@
+{
+  "id": "wa-spokane-valley-gibson-s-nursery-and-landscape-supply",
+  "slug": "gibson-s-nursery-and-landscape-supply",
+  "name": "Gibson's Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1401 S Pines Rd",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99206"
+  },
+  "location": {
+    "lat": 47.644173,
+    "lng": -117.238701
+  },
+  "contact": {
+    "phone": "(509) 928-0973",
+    "website": "http://www.gibsonsnursery.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3334dfbb-bb49-44ef-a397-11e6b78b2815",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

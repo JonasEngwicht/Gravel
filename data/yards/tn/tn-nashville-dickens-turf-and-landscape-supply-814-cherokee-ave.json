@@ -1,0 +1,36 @@
+{
+  "id": "tn-nashville-dickens-turf-and-landscape-supply-814-cherokee-ave",
+  "slug": "dickens-turf-and-landscape-supply-814-cherokee-ave",
+  "name": "Dickens Turf and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "814 Cherokee Ave",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37207"
+  },
+  "location": {
+    "lat": 36.201668,
+    "lng": -86.75544
+  },
+  "contact": {
+    "phone": "(615) 227-1111",
+    "website": "http://www.DickensSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "86f5e415-8ba9-411d-9ad9-70c39c18e1e0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

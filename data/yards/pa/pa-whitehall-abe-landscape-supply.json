@@ -1,0 +1,36 @@
+{
+  "id": "pa-whitehall-abe-landscape-supply",
+  "slug": "abe-landscape-supply",
+  "name": "ABE Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4770 S Church St",
+    "city": "Whitehall",
+    "state": "PA",
+    "zip": "18052"
+  },
+  "location": {
+    "lat": 40.664169,
+    "lng": -75.519653
+  },
+  "contact": {
+    "phone": "(610) 502-1102",
+    "website": "https://abelandscapesupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e6d0dd42-e74b-4009-846c-ba4f84c1eb94",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

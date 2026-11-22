@@ -1,0 +1,35 @@
+{
+  "id": "tx-center-galvan-dirt-and-gravel",
+  "slug": "galvan-dirt-and-gravel",
+  "name": "Galvan Dirt & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2839 State Highway 7 E",
+    "city": "Center",
+    "state": "TX",
+    "zip": "75935"
+  },
+  "location": {
+    "lat": 31.83939,
+    "lng": -94.140434
+  },
+  "contact": {
+    "phone": "(936) 332-7626"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4448dc80-6569-4d4c-a3c0-400c7ca8ef52",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

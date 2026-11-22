@@ -1,0 +1,36 @@
+{
+  "id": "ia-mason-city-north-iowa-sand-and-gravel-inc",
+  "slug": "north-iowa-sand-and-gravel-inc",
+  "name": "North Iowa Sand & Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18237 Killdeer Ave",
+    "city": "Mason City",
+    "state": "IA",
+    "zip": "50401"
+  },
+  "location": {
+    "lat": 43.158562,
+    "lng": -93.299263
+  },
+  "contact": {
+    "phone": "(641) 424-5591",
+    "website": "http://northiowasandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8eac9c41-729b-4448-b836-abf8646a9412",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

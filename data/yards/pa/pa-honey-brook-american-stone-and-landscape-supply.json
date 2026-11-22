@@ -1,0 +1,35 @@
+{
+  "id": "pa-honey-brook-american-stone-and-landscape-supply",
+  "slug": "american-stone-and-landscape-supply",
+  "name": "American Stone & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2290 Horseshoe Pike",
+    "city": "Honey Brook",
+    "state": "PA",
+    "zip": "19344"
+  },
+  "location": {
+    "lat": 40.077908,
+    "lng": -75.853867
+  },
+  "contact": {
+    "phone": "(610) 273-3235"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ea51c75-8cc5-4daa-8176-2c17d2aa72d2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

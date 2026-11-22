@@ -1,0 +1,36 @@
+{
+  "id": "nh-swanzey-monadnock-landscape-supply-llc",
+  "slug": "monadnock-landscape-supply-llc",
+  "name": "Monadnock Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "687 W Swanzey Rd",
+    "city": "Swanzey",
+    "state": "NH",
+    "zip": "03446"
+  },
+  "location": {
+    "lat": 42.87204,
+    "lng": -72.333664
+  },
+  "contact": {
+    "phone": "(603) 762-2512",
+    "website": "https://www.monadnocklandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a99bee8d-4357-43ff-a7dc-ab62c4ae0f3a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

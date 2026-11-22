@@ -1,0 +1,37 @@
+{
+  "id": "tx-corpus-christi-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "4141 Brett St",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78411"
+  },
+  "location": {
+    "lat": 27.719467,
+    "lng": -97.396233
+  },
+  "contact": {
+    "phone": "(361) 814-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a0f24dfa-9c64-4954-8773-7784794996d2",
+    "confidence": 0.923,
+    "merged_records": 1
+  }
+}

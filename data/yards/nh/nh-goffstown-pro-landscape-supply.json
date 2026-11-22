@@ -1,0 +1,36 @@
+{
+  "id": "nh-goffstown-pro-landscape-supply",
+  "slug": "pro-landscape-supply",
+  "name": "PRO Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "236A Mast Rd",
+    "city": "Goffstown",
+    "state": "NH",
+    "zip": "03045"
+  },
+  "location": {
+    "lat": 43.011574,
+    "lng": -71.548454
+  },
+  "contact": {
+    "phone": "(603) 497-4545",
+    "website": "http://www.supplynh.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c769b707-dca3-4f9e-9c9b-439abe4bfa93",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

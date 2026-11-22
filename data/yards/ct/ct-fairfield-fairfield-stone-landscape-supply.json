@@ -1,0 +1,36 @@
+{
+  "id": "ct-fairfield-fairfield-stone-landscape-supply",
+  "slug": "fairfield-stone-landscape-supply",
+  "name": "Fairfield Stone Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "278 Meadow St",
+    "city": "Fairfield",
+    "state": "CT",
+    "zip": "06824"
+  },
+  "location": {
+    "lat": 41.161263,
+    "lng": -73.240463
+  },
+  "contact": {
+    "phone": "(203) 330-0800",
+    "website": "http://www.fairfieldstonect.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62f6540c-5ece-430f-b8ae-c8d6b563523e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

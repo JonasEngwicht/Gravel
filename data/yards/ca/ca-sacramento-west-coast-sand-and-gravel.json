@@ -1,0 +1,36 @@
+{
+  "id": "ca-sacramento-west-coast-sand-and-gravel",
+  "slug": "west-coast-sand-and-gravel",
+  "name": "West Coast Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9411 Elder Creek Rd",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95829"
+  },
+  "location": {
+    "lat": 38.51181,
+    "lng": -121.34845
+  },
+  "contact": {
+    "phone": "(916) 386-8177",
+    "website": "http://www.wcsg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15ea3f63-dc2e-418d-99b2-0ae301e3afa2",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mt-kalispell-white-rock-aggregate",
+  "slug": "white-rock-aggregate",
+  "name": "White Rock Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "304 Jellison Rd",
+    "city": "Kalispell",
+    "state": "MT",
+    "zip": "59901"
+  },
+  "location": {
+    "lat": 48.323818,
+    "lng": -114.236801
+  },
+  "contact": {
+    "phone": "(406) 212-4342",
+    "website": "https://whiterockaggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0b4d893-4351-4d2d-a309-07bee0fbedbd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

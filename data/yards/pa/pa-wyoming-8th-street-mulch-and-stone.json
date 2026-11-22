@@ -1,0 +1,36 @@
+{
+  "id": "pa-wyoming-8th-street-mulch-and-stone",
+  "slug": "8th-street-mulch-and-stone",
+  "name": "8th Street Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "837 W 8th St",
+    "city": "Wyoming",
+    "state": "PA",
+    "zip": "18644"
+  },
+  "location": {
+    "lat": 41.327675,
+    "lng": -75.852112
+  },
+  "contact": {
+    "phone": "(570) 693-1693",
+    "website": "https://altracargo.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "16be6a86-cf65-4b2a-b003-348d3472a79f",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

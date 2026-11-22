@@ -1,0 +1,35 @@
+{
+  "id": "nd-englevale-bear-creek-gravel",
+  "slug": "bear-creek-gravel",
+  "name": "Bear Creek Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "405 4th St",
+    "city": "Englevale",
+    "state": "ND",
+    "zip": "58033"
+  },
+  "location": {
+    "lat": 46.392456,
+    "lng": -97.915359
+  },
+  "contact": {
+    "phone": "(701) 683-9955"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "63d17744-df1d-4d6a-9e75-cb3f4affbb64",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

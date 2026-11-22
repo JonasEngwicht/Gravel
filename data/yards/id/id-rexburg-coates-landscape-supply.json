@@ -1,0 +1,36 @@
+{
+  "id": "id-rexburg-coates-landscape-supply",
+  "slug": "coates-landscape-supply",
+  "name": "Coates Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2690 S 2000 W",
+    "city": "Rexburg",
+    "state": "ID",
+    "zip": "83440"
+  },
+  "location": {
+    "lat": 43.790619,
+    "lng": -111.816917
+  },
+  "contact": {
+    "phone": "(208) 656-0600",
+    "website": "http://coatespower.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f2c0590d-31eb-4b72-9371-c45b3c07145c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

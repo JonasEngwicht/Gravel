@@ -1,0 +1,36 @@
+{
+  "id": "tn-chattanooga-chattanooga-stone-center",
+  "slug": "chattanooga-stone-center",
+  "name": "Chattanooga Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7731 Lee Hwy",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37421"
+  },
+  "location": {
+    "lat": 35.063465,
+    "lng": -85.130394
+  },
+  "contact": {
+    "phone": "(423) 381-0710",
+    "website": "http://www.chattanoogastonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "84b038b2-f217-48d5-a260-08e4a8867d0d",
+    "confidence": 0.713,
+    "merged_records": 1
+  }
+}

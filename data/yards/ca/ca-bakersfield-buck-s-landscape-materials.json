@@ -1,0 +1,36 @@
+{
+  "id": "ca-bakersfield-buck-s-landscape-materials",
+  "slug": "buck-s-landscape-materials",
+  "name": "Buck's Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2600 Taft Hwy",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93313"
+  },
+  "location": {
+    "lat": 35.266987,
+    "lng": -119.030792
+  },
+  "contact": {
+    "phone": "(661) 836-3825",
+    "website": "http://www.buckslandscapematerial.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "03d65a72-7178-4cb3-b55e-19e2777305b1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

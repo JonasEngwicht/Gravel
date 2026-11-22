@@ -1,0 +1,36 @@
+{
+  "id": "mi-muskegon-r-and-r-landscape-supply",
+  "slug": "r-and-r-landscape-supply",
+  "name": "R and R Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1957 Commerce St",
+    "city": "Muskegon",
+    "state": "MI",
+    "zip": "49441"
+  },
+  "location": {
+    "lat": 43.216888,
+    "lng": -86.249573
+  },
+  "contact": {
+    "phone": "(231) 722-2157",
+    "website": "http://rrlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0111823-47ac-4ca7-b09e-f241476c5bcb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

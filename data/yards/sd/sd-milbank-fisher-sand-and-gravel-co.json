@@ -1,0 +1,36 @@
+{
+  "id": "sd-milbank-fisher-sand-and-gravel-co",
+  "slug": "fisher-sand-and-gravel-co",
+  "name": "Fisher Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "48524 150th St",
+    "city": "Milbank",
+    "state": "SD",
+    "zip": "57252"
+  },
+  "location": {
+    "lat": 45.209118,
+    "lng": -96.496948
+  },
+  "contact": {
+    "phone": "(605) 432-1675",
+    "website": "https://www.fisherind.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3e63221-7ad0-4671-bdae-28ddf133f63c",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-spicewood-b-texas-mulch",
+  "slug": "b-texas-mulch",
+  "name": "B Texas Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "201 Paleface Ranch Rd",
+    "city": "Spicewood",
+    "state": "TX",
+    "zip": "78669"
+  },
+  "location": {
+    "lat": 30.440281,
+    "lng": -98.098625
+  },
+  "contact": {
+    "phone": "(512) 680-2710",
+    "website": "http://www.btexasmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c8efaf44-c624-4183-bbdb-7d717a02016c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

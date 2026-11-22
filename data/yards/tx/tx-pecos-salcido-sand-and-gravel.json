@@ -1,0 +1,35 @@
+{
+  "id": "tx-pecos-salcido-sand-and-gravel",
+  "slug": "salcido-sand-and-gravel",
+  "name": "Salcido Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1430 S Oak St",
+    "city": "Pecos",
+    "state": "TX",
+    "zip": "79772"
+  },
+  "location": {
+    "lat": 31.413694,
+    "lng": -103.48954
+  },
+  "contact": {
+    "phone": "(432) 445-4559"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5320f251-731c-4648-8137-ac1ddfa93e41",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

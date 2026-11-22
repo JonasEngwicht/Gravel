@@ -1,0 +1,36 @@
+{
+  "id": "fl-sarasota-total-landscape-supply",
+  "slug": "total-landscape-supply",
+  "name": "Total Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2165 17th St",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34234"
+  },
+  "location": {
+    "lat": 27.352434,
+    "lng": -82.526932
+  },
+  "contact": {
+    "phone": "(941) 955-6287",
+    "website": "http://www.total-landscape-supply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f69c51a3-d7c8-43ee-bb1b-c1bf3cb0cdfa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

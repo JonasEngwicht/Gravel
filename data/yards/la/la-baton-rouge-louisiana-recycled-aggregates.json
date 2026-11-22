@@ -1,0 +1,36 @@
+{
+  "id": "la-baton-rouge-louisiana-recycled-aggregates",
+  "slug": "louisiana-recycled-aggregates",
+  "name": "Louisiana Recycled Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "727 Highlandia Dr",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70810"
+  },
+  "location": {
+    "lat": 30.339098,
+    "lng": -91.025253
+  },
+  "contact": {
+    "phone": "(225) 478-1002",
+    "website": "http://lra-llc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e5cdd84c-34b5-4719-baf8-523017f8d2d2",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

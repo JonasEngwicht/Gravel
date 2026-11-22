@@ -1,0 +1,48 @@
+{
+  "id": "or-central-point-crater-sand-and-gravel",
+  "slug": "crater-sand-and-gravel",
+  "name": "Crater Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7260 Blackwell Rd",
+    "city": "Central Point",
+    "state": "OR",
+    "zip": "97502"
+  },
+  "location": {
+    "lat": 42.419403,
+    "lng": -122.952393
+  },
+  "contact": {
+    "phone": "(541) 664-5148",
+    "website": "http://www.savageredimix.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2364f721-ae8c-4edc-b9b0-58e5f5e1c25b",
+    "confidence": 0.992,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3500541",
+      "name": "Central Rock & Redi-Mix",
+      "operator": "Central Rock & Redi-Mix",
+      "status": "Active",
+      "status_since": "1974-01-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

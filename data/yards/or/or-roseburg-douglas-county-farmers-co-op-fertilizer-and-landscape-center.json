@@ -1,0 +1,36 @@
+{
+  "id": "or-roseburg-douglas-county-farmers-co-op-fertilizer-and-landscape-center",
+  "slug": "douglas-county-farmers-co-op-fertilizer-and-landscape-center",
+  "name": "Douglas County Farmers Co-op Fertilizer and Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7585 OR-99",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "97494"
+  },
+  "location": {
+    "lat": 43.305866,
+    "lng": -123.347107
+  },
+  "contact": {
+    "phone": "(541) 673-3440",
+    "website": "http://www.douglascountyfarmerscoop.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c24d5651-5717-4e55-8a8d-dc817377cae6",
+    "confidence": 0.903,
+    "merged_records": 1
+  }
+}

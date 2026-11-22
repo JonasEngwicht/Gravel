@@ -1,0 +1,37 @@
+{
+  "id": "ia-clive-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "9289 Swanson Blvd Ste 4",
+    "city": "Clive",
+    "state": "IA",
+    "zip": "50325"
+  },
+  "location": {
+    "lat": 41.610317,
+    "lng": -93.745575
+  },
+  "contact": {
+    "phone": "(515) 222-5344",
+    "website": "https://www.siteone.com/store/249"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "215db2d6-813e-4d28-b346-d3929279cb4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

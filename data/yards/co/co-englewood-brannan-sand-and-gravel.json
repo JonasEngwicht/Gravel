@@ -1,0 +1,36 @@
+{
+  "id": "co-englewood-brannan-sand-and-gravel",
+  "slug": "brannan-sand-and-gravel",
+  "name": "Brannan Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2600 W Union Ave",
+    "city": "Englewood",
+    "state": "CO",
+    "zip": "80110"
+  },
+  "location": {
+    "lat": 39.630291,
+    "lng": -105.018127
+  },
+  "contact": {
+    "phone": "(303) 795-1504",
+    "website": "http://www.brannan1.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a4822e5-68ca-4e00-9388-470db95374fd",
+    "confidence": 0.647,
+    "merged_records": 1
+  }
+}

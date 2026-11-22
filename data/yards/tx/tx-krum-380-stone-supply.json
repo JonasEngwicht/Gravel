@@ -1,0 +1,35 @@
+{
+  "id": "tx-krum-380-stone-supply",
+  "slug": "380-stone-supply",
+  "name": "380 Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "16150 US-380",
+    "city": "Krum",
+    "state": "TX",
+    "zip": "76249"
+  },
+  "location": {
+    "lat": 33.239151,
+    "lng": -97.323616
+  },
+  "contact": {
+    "phone": "(940) 398-1113"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "21bdbb00-4b95-4eba-9ed3-a422dfd8ca86",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

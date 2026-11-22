@@ -1,0 +1,36 @@
+{
+  "id": "mi-marysville-blue-water-aggregates",
+  "slug": "blue-water-aggregates",
+  "name": "Blue Water Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "501 Busha Hwy",
+    "city": "Marysville",
+    "state": "MI",
+    "zip": "48040"
+  },
+  "location": {
+    "lat": 42.922844,
+    "lng": -82.461533
+  },
+  "contact": {
+    "phone": "(810) 364-5665",
+    "website": "http://www.hiddenchoices.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06aaa9e3-d048-442f-8d6e-8b569f378dff",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

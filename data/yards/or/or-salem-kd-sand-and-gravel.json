@@ -1,0 +1,35 @@
+{
+  "id": "or-salem-kd-sand-and-gravel",
+  "slug": "kd-sand-and-gravel",
+  "name": "KD Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2650 Dallas Hwy NW",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97304"
+  },
+  "location": {
+    "lat": 44.929062,
+    "lng": -123.080666
+  },
+  "contact": {
+    "phone": "(503) 364-9238"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "144110da-24dd-4076-a777-fc8bb36ee9f2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sc-greenville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "714 Mauldin Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29607"
+  },
+  "location": {
+    "lat": 34.791199,
+    "lng": -82.352264
+  },
+  "contact": {
+    "phone": "(864) 236-0753",
+    "website": "https://www.siteone.com/en/store/85"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b04216c-6604-481c-8931-d0a2064a5916",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pa-weatherly-buck-mountain-landscape-supply",
+  "slug": "buck-mountain-landscape-supply",
+  "name": "Buck Mountain Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "212 Buck Mountain Rd",
+    "city": "Weatherly",
+    "state": "PA",
+    "zip": "18255"
+  },
+  "location": {
+    "lat": 40.982254,
+    "lng": -75.768921
+  },
+  "contact": {
+    "phone": "(570) 582-7179"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72a2f899-d56c-40f3-91d3-02bb5f181986",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

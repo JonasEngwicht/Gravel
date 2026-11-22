@@ -1,0 +1,48 @@
+{
+  "id": "me-dayton-dayton-sand-and-gravel",
+  "slug": "dayton-sand-and-gravel",
+  "name": "Dayton Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "928 Goodwins Mills Rd",
+    "city": "Dayton",
+    "state": "ME",
+    "zip": "04005"
+  },
+  "location": {
+    "lat": 43.535931,
+    "lng": -70.591103
+  },
+  "contact": {
+    "phone": "(207) 499-2306",
+    "website": "http://daytonsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db8063bb-e14f-4420-9b0d-c2884f535ef7",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1700283",
+      "name": "Dayton Pit & Mill",
+      "operator": "Dayton Sand & Gravel Co Inc",
+      "status": "Active",
+      "status_since": "2009-10-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

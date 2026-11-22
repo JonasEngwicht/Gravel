@@ -1,0 +1,36 @@
+{
+  "id": "nc-mill-spring-tim-edwards-farm-and-landscaping-supply",
+  "slug": "tim-edwards-farm-and-landscaping-supply",
+  "name": "Tim Edwards Farm and Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "109 Post Office Rd",
+    "city": "Mill Spring",
+    "state": "NC",
+    "zip": "28756"
+  },
+  "location": {
+    "lat": 35.297573,
+    "lng": -82.163826
+  },
+  "contact": {
+    "phone": "(828) 894-0741",
+    "website": "https://timedwardslandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d087c066-d1e9-4b1b-8f7c-cc4122a9efd2",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

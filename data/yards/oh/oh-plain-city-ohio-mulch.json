@@ -1,0 +1,37 @@
+{
+  "id": "oh-plain-city-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "7320 Industrial Pkwy",
+    "city": "Plain City",
+    "state": "OH",
+    "zip": "43064"
+  },
+  "location": {
+    "lat": 40.117626,
+    "lng": -83.188042
+  },
+  "contact": {
+    "phone": "(614) 733-3944",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c10674a6-905e-41c3-93a3-63acec651150",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

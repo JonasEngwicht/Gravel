@@ -1,0 +1,36 @@
+{
+  "id": "oh-bellbrook-tom-s-mulch-and-landscaping",
+  "slug": "tom-s-mulch-and-landscaping",
+  "name": "Tom's Mulch and Landscaping",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2113 Ferry Rd",
+    "city": "Bellbrook",
+    "state": "OH",
+    "zip": "45305"
+  },
+  "location": {
+    "lat": 39.627777,
+    "lng": -84.074928
+  },
+  "contact": {
+    "phone": "(937) 870-3369",
+    "website": "http://www.tomsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "29bec1f9-ebdd-46a3-92ac-f3b727146834",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

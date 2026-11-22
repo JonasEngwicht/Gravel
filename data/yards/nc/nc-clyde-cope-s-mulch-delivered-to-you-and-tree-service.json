@@ -1,0 +1,36 @@
+{
+  "id": "nc-clyde-cope-s-mulch-delivered-to-you-and-tree-service",
+  "slug": "cope-s-mulch-delivered-to-you-and-tree-service",
+  "name": "Cope'S Mulch Delivered To You And Tree Service",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3958 Panther Creek Rd",
+    "city": "Clyde",
+    "state": "NC",
+    "zip": "28721"
+  },
+  "location": {
+    "lat": 35.62751,
+    "lng": -82.982933
+  },
+  "contact": {
+    "phone": "(828) 734-8001",
+    "website": "http://www.mulchdeliveredtoyou.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b1cbf976-f88a-4d61-9eae-9b5619108622",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-auburn-k-and-a-landscape-supply",
+  "slug": "k-and-a-landscape-supply",
+  "name": "K & A Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "28327 W Valley Hwy N",
+    "city": "Auburn",
+    "state": "WA",
+    "zip": "98001"
+  },
+  "location": {
+    "lat": 47.347172,
+    "lng": -122.251564
+  },
+  "contact": {
+    "phone": "(206) 852-4638",
+    "website": "http://kandalandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3996702-76f1-4d1e-a456-5b7d86c1d9ed",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-el-paso-coronado-dirt-and-gravel",
+  "slug": "coronado-dirt-and-gravel",
+  "name": "Coronado Dirt & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "739 De Leon Dr",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79912"
+  },
+  "location": {
+    "lat": 31.824335,
+    "lng": -106.548889
+  },
+  "contact": {
+    "phone": "(915) 873-1294",
+    "website": "https://www.coronadodumps.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1853169-369e-4b2e-93db-cfb62331a886",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

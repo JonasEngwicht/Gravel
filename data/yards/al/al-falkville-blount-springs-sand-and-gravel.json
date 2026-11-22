@@ -1,0 +1,48 @@
+{
+  "id": "al-falkville-blount-springs-sand-and-gravel",
+  "slug": "blount-springs-sand-and-gravel",
+  "name": "Blount Springs Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "624 E State Crusher Rd",
+    "city": "Falkville",
+    "state": "AL",
+    "zip": "35622"
+  },
+  "location": {
+    "lat": 34.339844,
+    "lng": -86.994942
+  },
+  "contact": {
+    "phone": "(256) 784-9560",
+    "website": "https://www.oregontool.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d56531fa-7634-40d8-a249-6072232d78b2",
+    "confidence": 0.651,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0103100",
+      "name": "Battleground Rock Quarry",
+      "operator": "Wiregrass Construction Co., Inc",
+      "status": "Active",
+      "status_since": "1998-07-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

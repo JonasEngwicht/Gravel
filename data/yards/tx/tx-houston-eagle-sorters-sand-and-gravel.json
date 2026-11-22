@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-eagle-sorters-sand-and-gravel",
+  "slug": "eagle-sorters-sand-and-gravel",
+  "name": "Eagle Sorters Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "231 McClellan Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77339"
+  },
+  "location": {
+    "lat": 30.042597,
+    "lng": -95.262451
+  },
+  "contact": {
+    "phone": "(281) 359-3756",
+    "website": "https://eagle-sorters-sand-gravel-tx.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b2d7a1c-858e-4a57-8748-4da45cdd7822",
+    "confidence": 0.902,
+    "merged_records": 2
+  }
+}

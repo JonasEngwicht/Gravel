@@ -1,0 +1,36 @@
+{
+  "id": "ok-edmond-caldwell-s-top-soil-and-landscaping",
+  "slug": "caldwell-s-top-soil-and-landscaping",
+  "name": "Caldwell's Top Soil and Landscaping",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "22201 N Council Rd",
+    "city": "Edmond",
+    "state": "OK",
+    "zip": "73025"
+  },
+  "location": {
+    "lat": 35.697235,
+    "lng": -97.656715
+  },
+  "contact": {
+    "phone": "(405) 341-5905",
+    "website": "http://www6.caldwellstopsoil.com/?&kw=landscaping+supply&term=Landscaping%20Supply%20Ecommerce%20Inventory%20Management%20Software&term=Topsoil%20Delivery&term=Help%20Desk%20Ticketing%20System&backfill=0&tdfs=1"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab5c016d-17b4-496a-848f-bddf9a1db983",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

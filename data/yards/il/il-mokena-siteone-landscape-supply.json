@@ -1,0 +1,37 @@
+{
+  "id": "il-mokena-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8119 189th St",
+    "city": "Mokena",
+    "state": "IL",
+    "zip": "60448"
+  },
+  "location": {
+    "lat": 41.548077,
+    "lng": -87.814789
+  },
+  "contact": {
+    "phone": "(815) 726-2655",
+    "website": "https://www.siteone.com/en/store/291"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cbead38f-f745-498a-b064-608648ef1cc1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

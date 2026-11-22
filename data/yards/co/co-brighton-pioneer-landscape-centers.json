@@ -1,0 +1,37 @@
+{
+  "id": "co-brighton-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "13505 E 112th Ave",
+    "city": "Brighton",
+    "state": "CO",
+    "zip": "80603"
+  },
+  "location": {
+    "lat": 39.899948,
+    "lng": -104.830147
+  },
+  "contact": {
+    "phone": "(303) 288-6007",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a828373-72d5-4d05-a226-abc3ce5c80b9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

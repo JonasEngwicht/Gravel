@@ -1,0 +1,36 @@
+{
+  "id": "nc-battleboro-edge-aggregates-inc",
+  "slug": "edge-aggregates-inc",
+  "name": "Edge Aggregates, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6563 NC 97 W",
+    "city": "Battleboro",
+    "state": "NC",
+    "zip": "27809"
+  },
+  "location": {
+    "lat": 35.963352,
+    "lng": -77.686485
+  },
+  "contact": {
+    "phone": "(252) 972-3233",
+    "website": "https://www.matthewsedgesand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6d504db-6643-430f-be27-d3108e5ae986",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

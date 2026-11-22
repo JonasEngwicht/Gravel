@@ -1,0 +1,36 @@
+{
+  "id": "va-fairfax-remington-mulch",
+  "slug": "remington-mulch",
+  "name": "Remington Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8524 Lee Hwy",
+    "city": "Fairfax",
+    "state": "VA",
+    "zip": "22031"
+  },
+  "location": {
+    "lat": 38.873844,
+    "lng": -77.240334
+  },
+  "contact": {
+    "phone": "(703) 560-2275",
+    "website": "http://www.remingtonmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "43b1f6a5-f05e-48ba-8ebe-f3b4ba1c2cd5",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "de-millsboro-back-bay-mulch-and-stone",
+  "slug": "back-bay-mulch-and-stone",
+  "name": "Back Bay Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "24808 John J Williams Hwy",
+    "city": "Millsboro",
+    "state": "DE",
+    "zip": "19966"
+  },
+  "location": {
+    "lat": 38.637337,
+    "lng": -75.193871
+  },
+  "contact": {
+    "phone": "(302) 945-8900",
+    "website": "http://www.backbaymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7639034c-e658-4674-a38c-57d393fcdbe7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

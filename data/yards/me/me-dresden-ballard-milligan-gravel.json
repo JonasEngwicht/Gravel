@@ -1,0 +1,36 @@
+{
+  "id": "me-dresden-ballard-milligan-gravel",
+  "slug": "ballard-milligan-gravel",
+  "name": "Ballard-Milligan Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "334 Cedar Grove Rd",
+    "city": "Dresden",
+    "state": "ME",
+    "zip": "04342"
+  },
+  "location": {
+    "lat": 44.117908,
+    "lng": -69.762276
+  },
+  "contact": {
+    "phone": "(207) 504-3737",
+    "website": "http://ballard-milligangravelcorp.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bffd9cb6-e72c-40cf-8920-e21a86531c26",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

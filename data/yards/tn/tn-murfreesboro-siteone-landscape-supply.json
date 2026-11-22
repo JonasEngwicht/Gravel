@@ -1,0 +1,37 @@
+{
+  "id": "tn-murfreesboro-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "9216 Franklin Rd",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37128"
+  },
+  "location": {
+    "lat": 35.845238,
+    "lng": -86.547607
+  },
+  "contact": {
+    "phone": "(615) 907-5700",
+    "website": "https://www.siteone.com/en/store/366"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4084a23-1566-4c78-b5fb-b1de81acef07",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

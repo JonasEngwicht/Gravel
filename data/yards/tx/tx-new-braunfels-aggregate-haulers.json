@@ -1,0 +1,36 @@
+{
+  "id": "tx-new-braunfels-aggregate-haulers",
+  "slug": "aggregate-haulers",
+  "name": "Aggregate Haulers",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4772 FM 482",
+    "city": "New Braunfels",
+    "state": "TX",
+    "zip": "78132"
+  },
+  "location": {
+    "lat": 29.664255,
+    "lng": -98.177071
+  },
+  "contact": {
+    "phone": "(855) 900-4285",
+    "website": "https://www.aggregatehaulers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d228df5-432d-45f7-9c8b-b47d569bf9e9",
+    "confidence": 0.879,
+    "merged_records": 1
+  }
+}

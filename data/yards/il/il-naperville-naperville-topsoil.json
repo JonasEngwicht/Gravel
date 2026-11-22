@@ -1,0 +1,35 @@
+{
+  "id": "il-naperville-naperville-topsoil",
+  "slug": "naperville-topsoil",
+  "name": "Naperville Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "31W066 91st St",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60564"
+  },
+  "location": {
+    "lat": 41.717247,
+    "lng": -88.227066
+  },
+  "contact": {
+    "phone": "(630) 355-1113"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd14ec62-90c1-41b2-bc19-b7ec781a3e4f",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

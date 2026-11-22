@@ -1,0 +1,36 @@
+{
+  "id": "fl-deland-volusia-mulch-and-stone",
+  "slug": "volusia-mulch-and-stone",
+  "name": "Volusia Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2049 West Highway 44",
+    "city": "DeLand",
+    "state": "FL",
+    "zip": "32720"
+  },
+  "location": {
+    "lat": 29.028549,
+    "lng": -81.343765
+  },
+  "contact": {
+    "phone": "(386) 738-2644",
+    "website": "http://www.volusiamulchandstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "36678bd4-d85c-464f-be11-86f4b3d6f9cc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

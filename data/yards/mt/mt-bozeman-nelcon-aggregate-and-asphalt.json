@@ -1,0 +1,48 @@
+{
+  "id": "mt-bozeman-nelcon-aggregate-and-asphalt",
+  "slug": "nelcon-aggregate-and-asphalt",
+  "name": "Nelcon Aggregate & Asphalt",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "675 Hulbert Rd E",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59718"
+  },
+  "location": {
+    "lat": 45.715923,
+    "lng": -111.17234
+  },
+  "contact": {
+    "phone": "(406) 624-0020",
+    "website": "http://www.nelconinc.biz/#!blank/aiwe9"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f4e0a34-364d-4778-b521-82e7bcd13915",
+    "confidence": 0.564,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2402817",
+      "name": "Valley Pit",
+      "operator": "E&H Asphalt",
+      "status": "Intermittent",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

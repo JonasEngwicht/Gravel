@@ -1,0 +1,36 @@
+{
+  "id": "wi-fredonia-hartmann-sand-and-gravel-co-inc",
+  "slug": "hartmann-sand-and-gravel-co-inc",
+  "name": "Hartmann Sand & Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "N 6621 Pioneer Dr",
+    "city": "Fredonia",
+    "state": "WI",
+    "zip": "53021"
+  },
+  "location": {
+    "lat": 43.511066,
+    "lng": -88.001198
+  },
+  "contact": {
+    "phone": "(434) 300-5507",
+    "website": "https://www.hartmannsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "28331575-63f9-48d7-bc90-9da1db7955c3",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

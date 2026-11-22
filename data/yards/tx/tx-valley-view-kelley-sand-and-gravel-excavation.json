@@ -1,0 +1,35 @@
+{
+  "id": "tx-valley-view-kelley-sand-and-gravel-excavation",
+  "slug": "kelley-sand-and-gravel-excavation",
+  "name": "Kelley Sand & Gravel Excavation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10000 FM 2071",
+    "city": "Valley View",
+    "state": "TX",
+    "zip": "76272"
+  },
+  "location": {
+    "lat": 33.49403,
+    "lng": -97.109276
+  },
+  "contact": {
+    "phone": "(940) 665-2119"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52c5458c-0adc-4531-ad9f-7feff7e4fb93",
+    "confidence": 0.735,
+    "merged_records": 1
+  }
+}

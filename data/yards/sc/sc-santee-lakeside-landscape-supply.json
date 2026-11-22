@@ -1,0 +1,35 @@
+{
+  "id": "sc-santee-lakeside-landscape-supply",
+  "slug": "lakeside-landscape-supply",
+  "name": "Lakeside Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "161 Ibis Point Rd",
+    "city": "Santee",
+    "state": "SC",
+    "zip": "29142"
+  },
+  "location": {
+    "lat": 33.53635,
+    "lng": -80.583366
+  },
+  "contact": {
+    "phone": "(803) 854-3184"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14812b79-0cfc-47c5-a510-c46d5ff6e94f",
+    "confidence": 0.915,
+    "merged_records": 1
+  }
+}

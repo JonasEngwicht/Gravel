@@ -1,0 +1,36 @@
+{
+  "id": "pa-pittsburgh-the-barn-landscape-supply",
+  "slug": "the-barn-landscape-supply",
+  "name": "The Barn Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3004 Babcock Blvd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15237"
+  },
+  "location": {
+    "lat": 40.5145,
+    "lng": -80.006622
+  },
+  "contact": {
+    "phone": "(412) 931-7568",
+    "website": "http://thebarnlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1c751f33-2c60-4f97-a64e-816bb6a02797",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "in-plymouth-alligator-aggregate",
+  "slug": "alligator-aggregate",
+  "name": "Alligator Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11707 Pear Rd",
+    "city": "Plymouth",
+    "state": "IN",
+    "zip": "46563"
+  },
+  "location": {
+    "lat": 41.307404,
+    "lng": -86.358345
+  },
+  "contact": {
+    "phone": "(574) 952-0617"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac1b1855-928f-483a-b7cb-53dd0c65fc4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

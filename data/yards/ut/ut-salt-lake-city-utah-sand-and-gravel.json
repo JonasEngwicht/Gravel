@@ -1,0 +1,48 @@
+{
+  "id": "ut-salt-lake-city-utah-sand-and-gravel",
+  "slug": "utah-sand-and-gravel",
+  "name": "Utah Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1264 Beck St",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84116"
+  },
+  "location": {
+    "lat": 40.796925,
+    "lng": -111.906311
+  },
+  "contact": {
+    "phone": "(801) 218-3000",
+    "website": "http://utahsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fdf3073a-d9c9-4c23-96dd-4723ef5baf31",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4202622",
+      "name": "North Salt Lake Mine",
+      "operator": "Utah Sand And Gravel",
+      "status": "Active",
+      "status_since": "2019-10-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "in-noblesville-beaver-gravel",
+  "slug": "beaver-gravel",
+  "name": "Beaver Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16101 River Rd",
+    "city": "Noblesville",
+    "state": "IN",
+    "zip": "46062"
+  },
+  "location": {
+    "lat": 40.02087,
+    "lng": -86.032898
+  },
+  "contact": {
+    "phone": "(317) 773-0679",
+    "website": "http://www.beavermaterials.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77f77d53-bfad-45f7-9a77-6e2b583b2ab4",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200655",
+      "name": "Beaver Gravel Corporation",
+      "operator": "Beaver Gravel Corp",
+      "status": "Active",
+      "status_since": "2001-01-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 20
+    }
+  ]
+}

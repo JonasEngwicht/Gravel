@@ -1,0 +1,36 @@
+{
+  "id": "tx-hondo-texas-stone-yard",
+  "slug": "texas-stone-yard",
+  "name": "Texas Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "444 18th St",
+    "city": "Hondo",
+    "state": "TX",
+    "zip": "78861"
+  },
+  "location": {
+    "lat": 29.349186,
+    "lng": -99.12175
+  },
+  "contact": {
+    "phone": "(210) 827-4844",
+    "website": "http://texasstoneyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c0d18479-033d-4c5a-badb-e7181f744e4a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

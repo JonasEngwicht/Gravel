@@ -1,0 +1,35 @@
+{
+  "id": "ny-port-washington-barker-aggregates-ltd",
+  "slug": "barker-aggregates-ltd",
+  "name": "Barker Aggregates Ltd",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "145 W Shore Rd",
+    "city": "Port Washington",
+    "state": "NY",
+    "zip": "11050"
+  },
+  "location": {
+    "lat": 40.837124,
+    "lng": -73.662689
+  },
+  "contact": {
+    "phone": "(516) 767-5184"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e15a696e-ed4d-4bad-b766-97f33a9fc424",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

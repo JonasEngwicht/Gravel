@@ -1,0 +1,36 @@
+{
+  "id": "wa-port-angeles-blake-sand-and-gravel",
+  "slug": "blake-sand-and-gravel",
+  "name": "Blake Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4001 Tumwater Truck Rte",
+    "city": "Port Angeles",
+    "state": "WA",
+    "zip": "98363"
+  },
+  "location": {
+    "lat": 48.108212,
+    "lng": -123.459801
+  },
+  "contact": {
+    "phone": "(360) 457-3371",
+    "website": "https://www.blakesandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d851fcb-caf5-4403-9286-0336d76cd8cd",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

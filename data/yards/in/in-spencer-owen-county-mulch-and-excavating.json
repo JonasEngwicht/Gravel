@@ -1,0 +1,36 @@
+{
+  "id": "in-spencer-owen-county-mulch-and-excavating",
+  "slug": "owen-county-mulch-and-excavating",
+  "name": "Owen County Mulch & Excavating",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2123 IN-43",
+    "city": "Spencer",
+    "state": "IN",
+    "zip": "47460"
+  },
+  "location": {
+    "lat": 39.259235,
+    "lng": -86.72422
+  },
+  "contact": {
+    "phone": "(812) 585-7318",
+    "website": "http://owencountymulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed55d344-c085-4fe0-8344-a595ee315297",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

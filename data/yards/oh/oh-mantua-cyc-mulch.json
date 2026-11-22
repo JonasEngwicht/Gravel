@@ -1,0 +1,35 @@
+{
+  "id": "oh-mantua-cyc-mulch",
+  "slug": "cyc-mulch",
+  "name": "CYC Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11771 OH-44",
+    "city": "Mantua",
+    "state": "OH",
+    "zip": "44255"
+  },
+  "location": {
+    "lat": 41.312038,
+    "lng": -81.222557
+  },
+  "contact": {
+    "phone": "(330) 732-5120"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "45bcd135-53de-4e14-9ac9-e3af3c3d618b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

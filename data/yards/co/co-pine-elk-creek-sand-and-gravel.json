@@ -1,0 +1,47 @@
+{
+  "id": "co-pine-elk-creek-sand-and-gravel",
+  "slug": "elk-creek-sand-and-gravel",
+  "name": "Elk Creek Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12997 S Elk Creek Rd",
+    "city": "Pine",
+    "state": "CO",
+    "zip": "80470"
+  },
+  "location": {
+    "lat": 39.479179,
+    "lng": -105.367332
+  },
+  "contact": {
+    "phone": "(303) 816-4047",
+    "website": "http://www.virtuallydirt.com/index.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e00d7168-86a1-41ef-9f2e-2a27ea6848e9",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0504761",
+      "name": "Shaffers Crossing Quarry",
+      "operator": "Elk Creek Sand & Gravel LLC",
+      "status": "Abandoned",
+      "status_since": "2019-10-02",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "inactive-nearby"
+    }
+  ]
+}

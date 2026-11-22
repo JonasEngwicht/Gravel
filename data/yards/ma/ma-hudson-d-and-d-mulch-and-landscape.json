@@ -1,0 +1,36 @@
+{
+  "id": "ma-hudson-d-and-d-mulch-and-landscape",
+  "slug": "d-and-d-mulch-and-landscape",
+  "name": "D&D Mulch and Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5C Coolidge St",
+    "city": "Hudson",
+    "state": "MA",
+    "zip": "01749"
+  },
+  "location": {
+    "lat": 42.395447,
+    "lng": -71.586876
+  },
+  "contact": {
+    "phone": "(774) 804-1192",
+    "website": "https://www.ddmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee534a7f-0ec0-4e54-a70e-54519b02239c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

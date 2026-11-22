@@ -1,0 +1,35 @@
+{
+  "id": "me-fairfield-somerset-stone-center",
+  "slug": "somerset-stone-center",
+  "name": "Somerset Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "43 Green Rd",
+    "city": "Fairfield",
+    "state": "ME",
+    "zip": "04937"
+  },
+  "location": {
+    "lat": 44.617573,
+    "lng": -69.662994
+  },
+  "contact": {
+    "phone": "(207) 453-2616"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3125381a-0c2d-4f9a-a6ce-9bc65e2452bf",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "oh-lancaster-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "840 S Columbus St",
+    "city": "Lancaster",
+    "state": "OH",
+    "zip": "43130"
+  },
+  "location": {
+    "lat": 39.70319,
+    "lng": -82.59687
+  },
+  "contact": {
+    "phone": "(740) 689-1120",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a41c2103-2eb2-4fcf-9d22-2d079d38d7a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

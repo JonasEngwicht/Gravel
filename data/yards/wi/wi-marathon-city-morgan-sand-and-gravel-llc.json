@@ -1,0 +1,48 @@
+{
+  "id": "wi-marathon-city-morgan-sand-and-gravel-llc",
+  "slug": "morgan-sand-and-gravel-llc",
+  "name": "Morgan Sand and Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "228975 Granite Falls Trl",
+    "city": "Marathon City",
+    "state": "WI",
+    "zip": "54448"
+  },
+  "location": {
+    "lat": 44.946854,
+    "lng": -89.878014
+  },
+  "contact": {
+    "phone": "(715) 443-2796",
+    "website": "https://morganreadymix.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59db8544-a422-418c-982a-c533ca23481f",
+    "confidence": 0.996,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4700974",
+      "name": "Morgan Pit and Mill",
+      "operator": "Morgan Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "1979-09-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

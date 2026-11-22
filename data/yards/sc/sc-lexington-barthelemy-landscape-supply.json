@@ -1,0 +1,36 @@
+{
+  "id": "sc-lexington-barthelemy-landscape-supply",
+  "slug": "barthelemy-landscape-supply",
+  "name": "Barthelemy Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "199 US-378",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072"
+  },
+  "location": {
+    "lat": 33.984528,
+    "lng": -81.264656
+  },
+  "contact": {
+    "phone": "(803) 200-1051",
+    "website": "http://barthelemylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df1762b5-f065-473a-82aa-90355c0675b3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

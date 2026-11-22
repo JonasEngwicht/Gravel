@@ -1,0 +1,36 @@
+{
+  "id": "co-montrose-delta-timber-and-landscape-supply",
+  "slug": "delta-timber-and-landscape-supply",
+  "name": "Delta Timber & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1915 N Townsend Ave",
+    "city": "Montrose",
+    "state": "CO",
+    "zip": "81401"
+  },
+  "location": {
+    "lat": 38.496296,
+    "lng": -107.89872
+  },
+  "contact": {
+    "phone": "(970) 249-8171",
+    "website": "http://www.deltatimber.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "490632f2-4f8e-44b0-abf2-2b53960b364d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

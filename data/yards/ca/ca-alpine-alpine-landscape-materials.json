@@ -1,0 +1,36 @@
+{
+  "id": "ca-alpine-alpine-landscape-materials",
+  "slug": "alpine-landscape-materials",
+  "name": "Alpine Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1117 Tavern Rd",
+    "city": "Alpine",
+    "state": "CA",
+    "zip": "91901"
+  },
+  "location": {
+    "lat": 32.842091,
+    "lng": -116.781105
+  },
+  "contact": {
+    "phone": "(619) 445-0213",
+    "website": "http://www.alpinelandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c79c33c9-6713-4bd7-8410-142a5171d308",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

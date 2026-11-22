@@ -1,0 +1,36 @@
+{
+  "id": "ks-dodge-city-dc-aggregates-supply",
+  "slug": "dc-aggregates-supply",
+  "name": "DC Aggregates Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1399 S 2nd Ave",
+    "city": "Dodge City",
+    "state": "KS",
+    "zip": "67801"
+  },
+  "location": {
+    "lat": 37.729084,
+    "lng": -100.018593
+  },
+  "contact": {
+    "phone": "(620) 523-1515",
+    "website": "http://www.dcaggregates.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af297c48-bccf-4354-be1c-8ebaab6b98ac",
+    "confidence": 0.52,
+    "merged_records": 1
+  }
+}

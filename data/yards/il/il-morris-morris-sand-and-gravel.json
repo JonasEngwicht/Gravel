@@ -1,0 +1,47 @@
+{
+  "id": "il-morris-morris-sand-and-gravel",
+  "slug": "morris-sand-and-gravel",
+  "name": "Morris Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1900 Cemetery Rd",
+    "city": "Morris",
+    "state": "IL",
+    "zip": "60450"
+  },
+  "location": {
+    "lat": 41.372585,
+    "lng": -88.384827
+  },
+  "contact": {
+    "phone": "(815) 942-9305"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d60ee909-d7f4-451e-aae8-c2c89e8cb8d0",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1103085",
+      "name": "KA-LO Pit",
+      "operator": "Morris Sand & Gravel, Inc.",
+      "status": "Abandoned",
+      "status_since": "2005-03-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

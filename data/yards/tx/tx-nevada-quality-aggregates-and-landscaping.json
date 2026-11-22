@@ -1,0 +1,36 @@
+{
+  "id": "tx-nevada-quality-aggregates-and-landscaping",
+  "slug": "quality-aggregates-and-landscaping",
+  "name": "Quality Aggregates & Landscaping",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15570 County Road 543",
+    "city": "Nevada",
+    "state": "TX",
+    "zip": "75173"
+  },
+  "location": {
+    "lat": 33.065239,
+    "lng": -96.421783
+  },
+  "contact": {
+    "phone": "(903) 328-8010",
+    "website": "http://qualitysng.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e3188cd-2b0e-4455-9f8e-c9bbdace1d0a",
+    "confidence": 0.884,
+    "merged_records": 1
+  }
+}

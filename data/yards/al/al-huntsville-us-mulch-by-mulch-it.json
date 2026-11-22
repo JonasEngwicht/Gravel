@@ -1,0 +1,35 @@
+{
+  "id": "al-huntsville-us-mulch-by-mulch-it",
+  "slug": "us-mulch-by-mulch-it",
+  "name": "US Mulch by Mulch It",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12605 Memorial Pkwy SW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35803"
+  },
+  "location": {
+    "lat": 34.602543,
+    "lng": -86.562187
+  },
+  "contact": {
+    "phone": "(256) 469-3824"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ab6e157-9857-42ac-ac4d-6500224e7d92",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

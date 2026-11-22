@@ -1,0 +1,36 @@
+{
+  "id": "pa-east-norriton-green-stop-landscape-supply",
+  "slug": "green-stop-landscape-supply",
+  "name": "Green Stop Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1022 W Germantown Pike Unit D",
+    "city": "East Norriton",
+    "state": "PA",
+    "zip": "19403"
+  },
+  "location": {
+    "lat": 40.155399,
+    "lng": -75.36734
+  },
+  "contact": {
+    "phone": "(610) 930-3102",
+    "website": "https://greenstopsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0506933d-31d9-42c8-a616-99e15806eb37",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

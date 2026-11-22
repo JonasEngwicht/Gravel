@@ -1,0 +1,35 @@
+{
+  "id": "ca-loomis-valley-rock-landscape-material-inc",
+  "slug": "valley-rock-landscape-material-inc",
+  "name": "Valley Rock Landscape Material, Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4018 Taylor Rd",
+    "city": "Loomis",
+    "state": "CA",
+    "zip": "95650"
+  },
+  "location": {
+    "lat": 38.809765,
+    "lng": -121.209747
+  },
+  "contact": {
+    "phone": "(916) 652-7209"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dbadaf74-7f27-4572-bba2-49c098c2174a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

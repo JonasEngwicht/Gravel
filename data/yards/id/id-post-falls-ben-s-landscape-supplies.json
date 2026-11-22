@@ -1,0 +1,36 @@
+{
+  "id": "id-post-falls-ben-s-landscape-supplies",
+  "slug": "ben-s-landscape-supplies",
+  "name": "Ben's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6179 W Bedrock Rd",
+    "city": "Post Falls",
+    "state": "ID",
+    "zip": "83854"
+  },
+  "location": {
+    "lat": 47.713097,
+    "lng": -117.031418
+  },
+  "contact": {
+    "phone": "(208) 797-6999",
+    "website": "http://benslandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "07c3bdec-7bc9-432a-9b65-4d8a223260ff",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

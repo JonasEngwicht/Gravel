@@ -1,0 +1,36 @@
+{
+  "id": "nc-monroe-visions-landscape-supply-and-design",
+  "slug": "visions-landscape-supply-and-design",
+  "name": "Visions Landscape Supply and Design",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2411 N Rocky River Rd",
+    "city": "Monroe",
+    "state": "NC",
+    "zip": "28110"
+  },
+  "location": {
+    "lat": 35.03627,
+    "lng": -80.60244
+  },
+  "contact": {
+    "phone": "(704) 238-1900",
+    "website": "http://www.visionssupplyanddesign.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c723c568-0d45-486c-b502-5cd135e2fcc5",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

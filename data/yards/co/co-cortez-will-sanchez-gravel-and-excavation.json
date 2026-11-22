@@ -1,0 +1,35 @@
+{
+  "id": "co-cortez-will-sanchez-gravel-and-excavation",
+  "slug": "will-sanchez-gravel-and-excavation",
+  "name": "Will Sanchez Gravel & Excavation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cortez",
+    "state": "CO",
+    "zip": "81321"
+  },
+  "location": {
+    "lat": 37.360939,
+    "lng": -108.592407
+  },
+  "contact": {
+    "phone": "(970) 565-2178",
+    "website": "https://www.willsanchezexcavation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "24f9e08c-595d-4cb5-9d1f-0be3aaff676c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

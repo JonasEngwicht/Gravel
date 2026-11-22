@@ -1,0 +1,48 @@
+{
+  "id": "ca-menifee-north-county-sand-and-gravel",
+  "slug": "north-county-sand-and-gravel",
+  "name": "North County Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "26227 Sherman Rd",
+    "city": "Menifee",
+    "state": "CA",
+    "zip": "92585"
+  },
+  "location": {
+    "lat": 33.740494,
+    "lng": -117.181572
+  },
+  "contact": {
+    "phone": "(951) 928-2881",
+    "website": "http://www.northcountysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06a6976c-1a38-4448-94c8-2e5daa187efa",
+    "confidence": 0.95,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405517",
+      "name": "Fab-Tech 17",
+      "operator": "North County Sand & Gravel Inc",
+      "status": "Abandoned",
+      "status_since": "2012-07-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

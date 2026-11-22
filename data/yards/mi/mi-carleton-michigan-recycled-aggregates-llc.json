@@ -1,0 +1,36 @@
+{
+  "id": "mi-carleton-michigan-recycled-aggregates-llc",
+  "slug": "michigan-recycled-aggregates-llc",
+  "name": "Michigan Recycled Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9250 Telegraph Rd",
+    "city": "Carleton",
+    "state": "MI",
+    "zip": "48117"
+  },
+  "location": {
+    "lat": 42.010273,
+    "lng": -83.349823
+  },
+  "contact": {
+    "phone": "(734) 770-3920",
+    "website": "http://michiganrecycledaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "578cb7f6-c518-4e22-8d79-7657bccabe53",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

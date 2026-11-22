@@ -1,0 +1,47 @@
+{
+  "id": "ga-stockbridge-evans-sand-and-gravel",
+  "slug": "evans-sand-and-gravel",
+  "name": "Evans Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "114 Rock Quarry Rd",
+    "city": "Stockbridge",
+    "state": "GA",
+    "zip": "30281"
+  },
+  "location": {
+    "lat": 33.541134,
+    "lng": -84.225182
+  },
+  "contact": {
+    "phone": "(770) 379-3832"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "20eec105-dc0b-4b92-bc4a-4ceb33857f0c",
+    "confidence": 0.95,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0900071",
+      "name": "Stockbridge Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2009-04-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 48
+    }
+  ]
+}

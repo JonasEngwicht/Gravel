@@ -1,0 +1,36 @@
+{
+  "id": "ny-cheektowaga-custom-topsoil",
+  "slug": "custom-topsoil",
+  "name": "Custom Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "320 Crabapple Ln",
+    "city": "Cheektowaga",
+    "state": "NY",
+    "zip": "14227"
+  },
+  "location": {
+    "lat": 42.885361,
+    "lng": -78.742599
+  },
+  "contact": {
+    "phone": "(716) 668-4444",
+    "website": "http://www.customtopsoil.com/index.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8cc76641-cc84-41ec-ba26-04b6b4af1e71",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

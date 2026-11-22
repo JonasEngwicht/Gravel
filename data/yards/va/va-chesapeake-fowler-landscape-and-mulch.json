@@ -1,0 +1,36 @@
+{
+  "id": "va-chesapeake-fowler-landscape-and-mulch",
+  "slug": "fowler-landscape-and-mulch",
+  "name": "Fowler Landscape & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "630 Carter Rd",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23322"
+  },
+  "location": {
+    "lat": 36.706547,
+    "lng": -76.137245
+  },
+  "contact": {
+    "phone": "(757) 546-7481",
+    "website": "http://www.fowlerlandscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26260ade-d4ae-4627-95fe-327403664ecf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

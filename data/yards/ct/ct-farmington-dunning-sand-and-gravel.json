@@ -1,0 +1,48 @@
+{
+  "id": "ct-farmington-dunning-sand-and-gravel",
+  "slug": "dunning-sand-and-gravel",
+  "name": "Dunning Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "105 Brickyard Rd",
+    "city": "Farmington",
+    "state": "CT",
+    "zip": "06032"
+  },
+  "location": {
+    "lat": 41.747746,
+    "lng": -72.853889
+  },
+  "contact": {
+    "phone": "(860) 677-1616",
+    "website": "http://www.dunningsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7420454b-9fde-4363-a4f8-d74d8a81e556",
+    "confidence": 0.974,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0600221",
+      "name": "Brickyard Pit And Mill",
+      "operator": "Dunning Industries Inc",
+      "status": "Active",
+      "status_since": "2024-11-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

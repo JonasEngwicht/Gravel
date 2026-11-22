@@ -1,0 +1,48 @@
+{
+  "id": "mi-pinckney-fyke-washed-sand-and-gravel-inc",
+  "slug": "fyke-washed-sand-and-gravel-inc",
+  "name": "Fyke Washed Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8800 Pinckney Rd",
+    "city": "Pinckney",
+    "state": "MI",
+    "zip": "48169"
+  },
+  "location": {
+    "lat": 42.473511,
+    "lng": -83.937859
+  },
+  "contact": {
+    "phone": "(734) 878-4850",
+    "website": "http://www.fykegravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f9e7b96-1da3-4700-8a82-2a26bcf9a946",
+    "confidence": 0.983,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2003000",
+      "name": "Fyke Washed Sand & Gravel Inc",
+      "operator": "A & E Agg Inc",
+      "status": "Active",
+      "status_since": "2012-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

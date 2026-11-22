@@ -1,0 +1,47 @@
+{
+  "id": "me-smithfield-churchill-sand-and-gravel",
+  "slug": "churchill-sand-and-gravel",
+  "name": "Churchill Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "759 Village Road",
+    "city": "Smithfield",
+    "state": "ME",
+    "zip": "04978"
+  },
+  "location": {
+    "lat": 44.626694,
+    "lng": -69.822372
+  },
+  "contact": {
+    "phone": "(207) 314-5669"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "434aa87e-af37-4c7a-85fe-360ce54f80fd",
+    "confidence": 0.71,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1700490",
+      "name": "Churchill Sand and Gravel",
+      "operator": "Churchill Sand and Gravel",
+      "status": "Abandoned",
+      "status_since": "2021-12-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

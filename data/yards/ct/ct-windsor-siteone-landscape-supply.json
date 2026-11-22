@@ -1,0 +1,37 @@
+{
+  "id": "ct-windsor-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "899 Marshall Phelps Rd",
+    "city": "Windsor",
+    "state": "CT",
+    "zip": "06095"
+  },
+  "location": {
+    "lat": 41.862568,
+    "lng": -72.684326
+  },
+  "contact": {
+    "phone": "(860) 688-0598",
+    "website": "https://www.siteone.com/store/633"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c26f290-f8ba-4709-befc-98bc0e961a2a",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

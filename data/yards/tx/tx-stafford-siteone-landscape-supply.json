@@ -1,0 +1,37 @@
+{
+  "id": "tx-stafford-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10410 Mula Rd",
+    "city": "Stafford",
+    "state": "TX",
+    "zip": "77477"
+  },
+  "location": {
+    "lat": 29.632887,
+    "lng": -95.561562
+  },
+  "contact": {
+    "phone": "(281) 498-0904",
+    "website": "https://www.siteone.com/store/518"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d7c2a57-a3e6-401c-b1d5-6705801aeb9f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-newnan-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2226 Highway 34 E",
+    "city": "Newnan",
+    "state": "GA",
+    "zip": "30265"
+  },
+  "location": {
+    "lat": 33.404922,
+    "lng": -84.708611
+  },
+  "contact": {
+    "phone": "(770) 252-0006",
+    "website": "http://www.moremulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "281be204-de6c-4b40-af70-006211e536fd",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-chillicothe-a-1-limestone-sand-and-gravel",
+  "slug": "a-1-limestone-sand-and-gravel",
+  "name": "A-1 Limestone, Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "550 Marietta Rd",
+    "city": "Chillicothe",
+    "state": "OH",
+    "zip": "45601"
+  },
+  "location": {
+    "lat": 39.354469,
+    "lng": -82.968422
+  },
+  "contact": {
+    "phone": "(740) 851-5099",
+    "website": "https://www.a1limestonechillicothe.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0d7da859-6417-4437-90ee-53c0dc42b7c6",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nc-pineville-siteone-landscape-supply-11601-downs-rd",
+  "slug": "siteone-landscape-supply-11601-downs-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "11601 Downs Rd",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134"
+  },
+  "location": {
+    "lat": 35.105904,
+    "lng": -80.907433
+  },
+  "contact": {
+    "phone": "(704) 583-0711",
+    "website": "https://www.siteone.com/store/186"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3678bcff-8b42-4c21-808d-5731c3fa045e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

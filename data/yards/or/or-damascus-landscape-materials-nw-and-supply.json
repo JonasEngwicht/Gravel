@@ -1,0 +1,36 @@
+{
+  "id": "or-damascus-landscape-materials-nw-and-supply",
+  "slug": "landscape-materials-nw-and-supply",
+  "name": "Landscape Materials NW and Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "24010 SE Hwy 212",
+    "city": "Damascus",
+    "state": "OR",
+    "zip": "97089"
+  },
+  "location": {
+    "lat": 45.417423,
+    "lng": -122.416023
+  },
+  "contact": {
+    "phone": "(503) 669-1268",
+    "website": "https://www.lmnwsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a0e05bf-4427-4db8-9516-839de5ed5348",
+    "confidence": 0.979,
+    "merged_records": 1
+  }
+}

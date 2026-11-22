@@ -1,0 +1,48 @@
+{
+  "id": "wi-stevens-point-wimme-sand-and-gravel",
+  "slug": "wimme-sand-and-gravel",
+  "name": "Wimme Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4641 Custer Rd",
+    "city": "Stevens Point",
+    "state": "WI",
+    "zip": "54482"
+  },
+  "location": {
+    "lat": 44.448666,
+    "lng": -89.426376
+  },
+  "contact": {
+    "phone": "(715) 344-6396",
+    "website": "https://www.wimmesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6f17ee0-7ff1-4641-bab6-3930d86f7b6f",
+    "confidence": 0.992,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4701419",
+      "name": "Wimme Pit",
+      "operator": "Wimme Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2025-10-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

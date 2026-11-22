@@ -1,0 +1,37 @@
+{
+  "id": "fl-port-orange-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5553 S Ridgewood Ave",
+    "city": "Port Orange",
+    "state": "FL",
+    "zip": "32127"
+  },
+  "location": {
+    "lat": 29.117844,
+    "lng": -80.974998
+  },
+  "contact": {
+    "phone": "(386) 760-7875",
+    "website": "https://www.siteone.com/en/store/738"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f10f3c7-e695-4217-b60d-c613339350c3",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

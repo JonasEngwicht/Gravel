@@ -1,0 +1,35 @@
+{
+  "id": "md-elkton-roger-s-landscaping-supplies",
+  "slug": "roger-s-landscaping-supplies",
+  "name": "Roger's Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1336 W Pulaski Hwy",
+    "city": "Elkton",
+    "state": "MD",
+    "zip": "21921"
+  },
+  "location": {
+    "lat": 39.609856,
+    "lng": -75.901802
+  },
+  "contact": {
+    "phone": "(410) 398-5995"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7f89c79f-e5ca-4edd-88d7-ae15ec75820b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-rutherfordton-carpenter-mulch-products-inc",
+  "slug": "carpenter-mulch-products-inc",
+  "name": "Carpenter Mulch Products Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "161 Belt Ct",
+    "city": "Rutherfordton",
+    "state": "NC",
+    "zip": "28139"
+  },
+  "location": {
+    "lat": 35.301338,
+    "lng": -81.943916
+  },
+  "contact": {
+    "phone": "(828) 245-0032",
+    "website": "http://carpentermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11ddf847-91ae-46be-880c-2e87f5bd8cd8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

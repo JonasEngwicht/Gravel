@@ -1,0 +1,36 @@
+{
+  "id": "ct-danbury-ea-landscape-center",
+  "slug": "ea-landscape-center",
+  "name": "EA Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "64 Sugar Hollow Rd",
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06810"
+  },
+  "location": {
+    "lat": 41.336025,
+    "lng": -73.470886
+  },
+  "contact": {
+    "phone": "(203) 730-8136",
+    "website": "http://ealandscapec.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d91c0e0a-869d-4e91-8028-53ebeecfae0c",
+    "confidence": 0.913,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ut-provo-utah-rock-yard",
+  "slug": "utah-rock-yard",
+  "name": "Utah Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "370 N Draper Ln Unit B",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601"
+  },
+  "location": {
+    "lat": 40.238678,
+    "lng": -111.687241
+  },
+  "contact": {
+    "phone": "(801) 310-8704",
+    "website": "http://www.utahrockyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8fb3914-ffa1-440f-8506-1d3ac0f4cd32",
+    "confidence": 0.914,
+    "merged_records": 1
+  }
+}

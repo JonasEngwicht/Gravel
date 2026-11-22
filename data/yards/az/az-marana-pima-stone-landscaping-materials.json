@@ -1,0 +1,36 @@
+{
+  "id": "az-marana-pima-stone-landscaping-materials",
+  "slug": "pima-stone-landscaping-materials",
+  "name": "Pima Stone| Landscaping materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7920 W Avra Valley Rd",
+    "city": "Marana",
+    "state": "AZ",
+    "zip": "85653"
+  },
+  "location": {
+    "lat": 32.399197,
+    "lng": -111.134483
+  },
+  "contact": {
+    "phone": "(520) 616-0922",
+    "website": "https://pimastoneaz.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26e6fac4-0b02-415e-867f-be358dc21943",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

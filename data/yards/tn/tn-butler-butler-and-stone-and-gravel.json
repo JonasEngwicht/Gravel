@@ -1,0 +1,48 @@
+{
+  "id": "tn-butler-butler-and-stone-and-gravel",
+  "slug": "butler-and-stone-and-gravel",
+  "name": "Butler and Stone and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1571 Doe Creek Rd",
+    "city": "Butler",
+    "state": "TN",
+    "zip": "37640"
+  },
+  "location": {
+    "lat": 36.38409,
+    "lng": -81.946373
+  },
+  "contact": {
+    "phone": "(423) 768-2602",
+    "website": "http://www.ButlerStoneandGravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6c944864-b022-4573-b284-be5a7fa2dc09",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4003114",
+      "name": "Butler Stone",
+      "operator": "Butler Stone",
+      "status": "Active",
+      "status_since": "2024-06-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

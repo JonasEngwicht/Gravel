@@ -1,0 +1,35 @@
+{
+  "id": "ma-newbury-east-coast-sand-and-gravel",
+  "slug": "east-coast-sand-and-gravel",
+  "name": "East Coast Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "90 Hanover St",
+    "city": "Newbury",
+    "state": "MA",
+    "zip": "01951"
+  },
+  "location": {
+    "lat": 42.791065,
+    "lng": -70.875526
+  },
+  "contact": {
+    "phone": "(978) 462-0008"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eff2b458-1161-415f-9ddd-d40d366c244c",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

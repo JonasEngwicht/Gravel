@@ -1,0 +1,36 @@
+{
+  "id": "tx-tomball-mulch-king",
+  "slug": "mulch-king",
+  "name": "Mulch King",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12622 Boudreaux Rd",
+    "city": "Tomball",
+    "state": "TX",
+    "zip": "77375"
+  },
+  "location": {
+    "lat": 30.055225,
+    "lng": -95.610306
+  },
+  "contact": {
+    "phone": "(281) 351-5422",
+    "website": "http://www.mulchking.org/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "809cc149-2987-449c-adbc-9a3b4f8951b3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

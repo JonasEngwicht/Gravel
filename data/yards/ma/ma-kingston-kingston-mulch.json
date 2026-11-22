@@ -1,0 +1,36 @@
+{
+  "id": "ma-kingston-kingston-mulch",
+  "slug": "kingston-mulch",
+  "name": "Kingston Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "191 Summer St",
+    "city": "Kingston",
+    "state": "MA",
+    "zip": "02364"
+  },
+  "location": {
+    "lat": 42.013779,
+    "lng": -70.733009
+  },
+  "contact": {
+    "phone": "(781) 585-3671",
+    "website": "http://www.kingstonmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4c1dc3c-b61c-4ad5-84c2-68d254c812e1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

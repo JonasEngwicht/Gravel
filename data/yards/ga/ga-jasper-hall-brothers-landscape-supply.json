@@ -1,0 +1,36 @@
+{
+  "id": "ga-jasper-hall-brothers-landscape-supply",
+  "slug": "hall-brothers-landscape-supply",
+  "name": "Hall Brothers Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1924 Hwy 53",
+    "city": "Jasper",
+    "state": "GA",
+    "zip": "30143"
+  },
+  "location": {
+    "lat": 34.465366,
+    "lng": -84.463066
+  },
+  "contact": {
+    "phone": "(706) 299-6812",
+    "website": "http://hallbrotherslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff7f6ef9-777d-4fb5-b34f-3a922bd90fee",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

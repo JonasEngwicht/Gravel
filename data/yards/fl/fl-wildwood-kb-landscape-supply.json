@@ -1,0 +1,36 @@
+{
+  "id": "fl-wildwood-kb-landscape-supply",
+  "slug": "kb-landscape-supply",
+  "name": "KB Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4144 E County Rd 462",
+    "city": "Wildwood",
+    "state": "FL",
+    "zip": "34785"
+  },
+  "location": {
+    "lat": 28.883833,
+    "lng": -82.034561
+  },
+  "contact": {
+    "phone": "(352) 748-7625",
+    "website": "http://kblawn.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a7005558-2a92-4291-8a36-e97a889c1ecb",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

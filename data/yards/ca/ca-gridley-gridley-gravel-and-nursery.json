@@ -1,0 +1,35 @@
+{
+  "id": "ca-gridley-gridley-gravel-and-nursery",
+  "slug": "gridley-gravel-and-nursery",
+  "name": "Gridley Gravel & Nursery",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "867 CA-99",
+    "city": "Gridley",
+    "state": "CA",
+    "zip": "95948"
+  },
+  "location": {
+    "lat": 39.336514,
+    "lng": -121.684242
+  },
+  "contact": {
+    "phone": "(530) 870-0990"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "111f5ca8-4ab2-4a48-a636-efae07d5cdbf",
+    "confidence": 0.569,
+    "merged_records": 1
+  }
+}

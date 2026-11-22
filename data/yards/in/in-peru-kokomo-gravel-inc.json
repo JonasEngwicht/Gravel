@@ -1,0 +1,48 @@
+{
+  "id": "in-peru-kokomo-gravel-inc",
+  "slug": "kokomo-gravel-inc",
+  "name": "Kokomo Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2969 E Paw Paw Pike",
+    "city": "Peru",
+    "state": "IN",
+    "zip": "46970"
+  },
+  "location": {
+    "lat": 40.769127,
+    "lng": -86.016647
+  },
+  "contact": {
+    "phone": "(765) 473-4000",
+    "website": "http://www.kokomogravelinc.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8f1c652c-243c-4cbd-a7d2-aacdfafbb894",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202303",
+      "name": "Peru Plant",
+      "operator": "Kokomo Gravel Inc",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "oh-middletown-watson-gravel-inc",
+  "slug": "watson-gravel-inc",
+  "name": "Watson Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2100 S Main St",
+    "city": "Middletown",
+    "state": "OH",
+    "zip": "45044"
+  },
+  "location": {
+    "lat": 39.493992,
+    "lng": -84.420731
+  },
+  "contact": {
+    "phone": "(513) 422-3781",
+    "website": "http://www.watsongravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb911c80-4ff9-4fbe-8f3e-a2e9be8300bf",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301560",
+      "name": "Watson Gravel Inc. (Middletown Plant)",
+      "operator": "Watson Gravel, Inc.",
+      "status": "Active",
+      "status_since": "1992-12-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

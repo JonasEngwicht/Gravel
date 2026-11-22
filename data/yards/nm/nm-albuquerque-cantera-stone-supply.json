@@ -1,0 +1,35 @@
+{
+  "id": "nm-albuquerque-cantera-stone-supply",
+  "slug": "cantera-stone-supply",
+  "name": "Cantera Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "9123 4th St NW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87114"
+  },
+  "location": {
+    "lat": 35.185276,
+    "lng": -106.621407
+  },
+  "contact": {
+    "phone": "(505) 804-7217"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0aff238e-2530-432f-9acc-1c208387596d",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

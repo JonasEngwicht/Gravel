@@ -1,0 +1,36 @@
+{
+  "id": "az-phoenix-the-stone-yard-llc",
+  "slug": "the-stone-yard-llc",
+  "name": "The Stone Yard Llc.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1739 W Park View Ln",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85085"
+  },
+  "location": {
+    "lat": 33.707226,
+    "lng": -112.097031
+  },
+  "contact": {
+    "phone": "(623) 505-7771",
+    "website": "http://www.thestoneyardaz.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3378bc76-a68e-4902-a189-48594c9442e7",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

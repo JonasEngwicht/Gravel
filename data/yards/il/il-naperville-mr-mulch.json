@@ -1,0 +1,35 @@
+{
+  "id": "il-naperville-mr-mulch",
+  "slug": "mr-mulch",
+  "name": "Mr. Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "31W339 Schoger Dr",
+    "city": "Naperville",
+    "state": "IL",
+    "zip": "60564"
+  },
+  "location": {
+    "lat": 41.723251,
+    "lng": -88.233711
+  },
+  "contact": {
+    "phone": "(630) 585-9663"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8d9b15b-6a0f-4712-920b-85930dcb6619",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

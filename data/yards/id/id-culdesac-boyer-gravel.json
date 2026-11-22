@@ -1,0 +1,35 @@
+{
+  "id": "id-culdesac-boyer-gravel",
+  "slug": "boyer-gravel",
+  "name": "Boyer Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "24325 Garden Gulch Rd",
+    "city": "Culdesac",
+    "state": "ID",
+    "zip": "83524"
+  },
+  "location": {
+    "lat": 46.409184,
+    "lng": -116.775383
+  },
+  "contact": {
+    "phone": "(208) 843-2551"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac931345-1cd7-492e-8d98-6aa05ac4fd7b",
+    "confidence": 0.898,
+    "merged_records": 2
+  }
+}

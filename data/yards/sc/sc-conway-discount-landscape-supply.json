@@ -1,0 +1,36 @@
+{
+  "id": "sc-conway-discount-landscape-supply",
+  "slug": "discount-landscape-supply",
+  "name": "Discount Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1130 US-501",
+    "city": "Conway",
+    "state": "SC",
+    "zip": "29526"
+  },
+  "location": {
+    "lat": 33.809467,
+    "lng": -79.026482
+  },
+  "contact": {
+    "phone": "(843) 347-1080",
+    "website": "https://www.discountlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba5efc90-b09b-4705-abb4-3ed4c4f86d10",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

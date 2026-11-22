@@ -1,0 +1,36 @@
+{
+  "id": "ga-cumming-a1-heritage-landscape-supply",
+  "slug": "a1-heritage-landscape-supply",
+  "name": "A1-Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3615 Canton Highway",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30040"
+  },
+  "location": {
+    "lat": 34.238232,
+    "lng": -84.227654
+  },
+  "contact": {
+    "phone": "(770) 781-9949",
+    "website": "https://www.a1hls.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e4b7ed35-4910-41f0-b45c-fb29fe9cc8ea",
+    "confidence": 0.966,
+    "merged_records": 2
+  }
+}

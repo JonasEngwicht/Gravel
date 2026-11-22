@@ -1,0 +1,36 @@
+{
+  "id": "ny-darien-tommy-topsoil",
+  "slug": "tommy-topsoil",
+  "name": "Tommy Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1262 Herkimer Rd",
+    "city": "Darien",
+    "state": "NY",
+    "zip": "14040"
+  },
+  "location": {
+    "lat": 42.891171,
+    "lng": -78.39566
+  },
+  "contact": {
+    "phone": "(716) 545-8781",
+    "website": "http://tomtopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85f8d8a4-cbdb-45d0-a75e-152b191b8aa2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

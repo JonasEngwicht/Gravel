@@ -1,0 +1,36 @@
+{
+  "id": "ca-cool-aggregate-production-services",
+  "slug": "aggregate-production-services",
+  "name": "Aggregate Production Services",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1791 Cherokee Ct",
+    "city": "Cool",
+    "state": "CA",
+    "zip": "95614"
+  },
+  "location": {
+    "lat": 38.923809,
+    "lng": -120.939133
+  },
+  "contact": {
+    "phone": "(530) 889-2927",
+    "website": "http://www.aggregateproductionservices.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d40cd5e-12d4-41c1-9a7b-7e6992d0f041",
+    "confidence": 0.501,
+    "merged_records": 1
+  }
+}

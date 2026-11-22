@@ -1,0 +1,48 @@
+{
+  "id": "pa-millerton-t-m-t-gravel-and-contracting",
+  "slug": "t-m-t-gravel-and-contracting",
+  "name": "T-M-T Gravel And Contracting",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8792 Rte 549",
+    "city": "Millerton",
+    "state": "PA",
+    "zip": "16936"
+  },
+  "location": {
+    "lat": 41.969151,
+    "lng": -76.918556
+  },
+  "contact": {
+    "phone": "(570) 537-2637",
+    "website": "https://tmtgravel.com/contact"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64622b91-0240-4e8c-a5d5-84bc1a2805da",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3609875",
+      "name": "Brown Pit",
+      "operator": "TMT Gravel and Contracting Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-05-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

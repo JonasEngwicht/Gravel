@@ -1,0 +1,36 @@
+{
+  "id": "tx-friendswood-mulch-x-press",
+  "slug": "mulch-x-press",
+  "name": "Mulch X-Press",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4424 FM-2351",
+    "city": "Friendswood",
+    "state": "TX",
+    "zip": "77546"
+  },
+  "location": {
+    "lat": 29.553249,
+    "lng": -95.18515
+  },
+  "contact": {
+    "phone": "(281) 286-2700",
+    "website": "http://www.mulchx-press.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9aef7be6-bdcb-4d40-9f69-13c6f16fe58a",
+    "confidence": 0.975,
+    "merged_records": 1
+  }
+}

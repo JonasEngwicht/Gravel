@@ -1,0 +1,36 @@
+{
+  "id": "ga-tifton-d-and-d-construction-and-rock-yard",
+  "slug": "d-and-d-construction-and-rock-yard",
+  "name": "D & D Construction and Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3635 US Highway 82 W",
+    "city": "Tifton",
+    "state": "GA",
+    "zip": "31793"
+  },
+  "location": {
+    "lat": 31.44055,
+    "lng": -83.571983
+  },
+  "contact": {
+    "phone": "(229) 382-5639",
+    "website": "http://www.danddconstruction.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "171828e7-e8c7-43fd-bafb-edeb19c4904c",
+    "confidence": 0.941,
+    "merged_records": 1
+  }
+}

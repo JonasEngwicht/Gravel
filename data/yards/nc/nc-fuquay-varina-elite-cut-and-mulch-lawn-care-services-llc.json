@@ -1,0 +1,36 @@
+{
+  "id": "nc-fuquay-varina-elite-cut-and-mulch-lawn-care-services-llc",
+  "slug": "elite-cut-and-mulch-lawn-care-services-llc",
+  "name": "Elite Cut & Mulch Lawn Care Services, LLC.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1440 Old Honeycutt Rd",
+    "city": "Fuquay-Varina",
+    "state": "NC",
+    "zip": "27526"
+  },
+  "location": {
+    "lat": 35.580299,
+    "lng": -78.74575
+  },
+  "contact": {
+    "phone": "(919) 274-7498",
+    "website": "http://www.elitecutandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "adc3577b-b1cd-4147-8a69-189228c6e898",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

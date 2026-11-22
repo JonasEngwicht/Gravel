@@ -1,0 +1,36 @@
+{
+  "id": "mo-strafford-missouri-landscape-supply-llc",
+  "slug": "missouri-landscape-supply-llc",
+  "name": "Missouri Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "300 S Jefferson St",
+    "city": "Strafford",
+    "state": "MO",
+    "zip": "65757"
+  },
+  "location": {
+    "lat": 37.268242,
+    "lng": -93.115334
+  },
+  "contact": {
+    "phone": "(417) 736-6064",
+    "website": "http://missourilandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "421e694b-a111-455d-8a79-07aa39bcf3c6",
+    "confidence": 0.754,
+    "merged_records": 1
+  }
+}

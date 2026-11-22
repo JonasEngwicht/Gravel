@@ -1,0 +1,36 @@
+{
+  "id": "in-middlebury-elkhart-county-gravel",
+  "slug": "elkhart-county-gravel",
+  "name": "Elkhart County Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "56570 Co Rd 35",
+    "city": "Middlebury",
+    "state": "IN",
+    "zip": "46540"
+  },
+  "location": {
+    "lat": 41.675724,
+    "lng": -85.738297
+  },
+  "contact": {
+    "phone": "(574) 825-7913",
+    "website": "http://www.elkhartcountygravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6453d8e7-615d-4252-931e-e5b82aa0d4e0",
+    "confidence": 0.965,
+    "merged_records": 1
+  }
+}

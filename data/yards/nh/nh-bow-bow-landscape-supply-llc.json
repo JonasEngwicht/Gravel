@@ -1,0 +1,35 @@
+{
+  "id": "nh-bow-bow-landscape-supply-llc",
+  "slug": "bow-landscape-supply-llc",
+  "name": "Bow Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1506 NH-3A",
+    "city": "Bow",
+    "state": "NH",
+    "zip": "03304"
+  },
+  "location": {
+    "lat": 43.122711,
+    "lng": -71.48053
+  },
+  "contact": {
+    "phone": "(603) 608-7337"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e0fdef02-cf48-450d-80d8-a60c65883623",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

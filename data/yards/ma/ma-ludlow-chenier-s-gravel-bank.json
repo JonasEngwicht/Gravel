@@ -1,0 +1,48 @@
+{
+  "id": "ma-ludlow-chenier-s-gravel-bank",
+  "slug": "chenier-s-gravel-bank",
+  "name": "Chenier's Gravel Bank",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "405 Munsing St",
+    "city": "Ludlow",
+    "state": "MA",
+    "zip": "01056"
+  },
+  "location": {
+    "lat": 42.200573,
+    "lng": -72.469711
+  },
+  "contact": {
+    "phone": "(413) 583-2930",
+    "website": "https://chenier-s-gravel-bank.hub.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3fca4e6-c6aa-4980-8051-acd70589c6f8",
+    "confidence": 0.999,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1900567",
+      "name": "Chenier's Gravel Bank Inc",
+      "operator": "Chenier's Gravel Bank Inc",
+      "status": "Active",
+      "status_since": "2024-12-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

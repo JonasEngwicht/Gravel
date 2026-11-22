@@ -1,0 +1,48 @@
+{
+  "id": "il-palestine-lawrence-gravel-inc",
+  "slug": "lawrence-gravel-inc",
+  "name": "Lawrence Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14252 1775th St",
+    "city": "Palestine",
+    "state": "IL",
+    "zip": "62451"
+  },
+  "location": {
+    "lat": 39.06049,
+    "lng": -87.621437
+  },
+  "contact": {
+    "phone": "(618) 563-4400",
+    "website": "https://www.lawrencegravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc37c87d-9129-4bf5-a334-d9b0e7e906df",
+    "confidence": 0.913,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1101081",
+      "name": "Lawrence Gravel, Inc. #2",
+      "operator": "Lawrence Gravel Inc",
+      "status": "Active",
+      "status_since": "2013-10-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

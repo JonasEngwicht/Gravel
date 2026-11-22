@@ -1,0 +1,36 @@
+{
+  "id": "ca-brea-eagle-golf-and-landscape-products",
+  "slug": "eagle-golf-and-landscape-products",
+  "name": "Eagle Golf & Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2913 Saturn St",
+    "city": "Brea",
+    "state": "CA",
+    "zip": "92821"
+  },
+  "location": {
+    "lat": 33.9095,
+    "lng": -117.858925
+  },
+  "contact": {
+    "phone": "(800) 213-2453",
+    "website": "https://eaglegolfandlandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc35fb74-9d8b-4ca0-a6e8-ac9717917932",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

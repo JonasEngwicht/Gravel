@@ -1,0 +1,36 @@
+{
+  "id": "ut-salt-lake-city-eagle-rock-supply",
+  "slug": "eagle-rock-supply",
+  "name": "Eagle Rock Supply:",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "813 W 1700 S",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104"
+  },
+  "location": {
+    "lat": 40.732536,
+    "lng": -111.914246
+  },
+  "contact": {
+    "phone": "(801) 978-0787",
+    "website": "https://www.eaglerocksupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "23a53357-383a-4768-8d65-21feb0366632",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

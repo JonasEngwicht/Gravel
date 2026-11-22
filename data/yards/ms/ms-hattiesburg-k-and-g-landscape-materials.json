@@ -1,0 +1,35 @@
+{
+  "id": "ms-hattiesburg-k-and-g-landscape-materials",
+  "slug": "k-and-g-landscape-materials",
+  "name": "K and G Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "181 Monroe Rd",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39401"
+  },
+  "location": {
+    "lat": 31.373287,
+    "lng": -89.297447
+  },
+  "contact": {
+    "phone": "(601) 602-4011"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "63290eb3-8837-4489-b87a-181c54ddf010",
+    "confidence": 0.881,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-webberville-applegate-mulch",
+  "slug": "applegate-mulch",
+  "name": "Applegate Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1000 Highview Dr",
+    "city": "Webberville",
+    "state": "MI",
+    "zip": "48892"
+  },
+  "location": {
+    "lat": 42.663494,
+    "lng": -84.192444
+  },
+  "contact": {
+    "phone": "(800) 627-7536",
+    "website": "http://www.applegatemulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f19e2caa-f433-46e7-b78f-162eef1e5680",
+    "confidence": 0.735,
+    "merged_records": 1
+  }
+}

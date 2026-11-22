@@ -1,0 +1,36 @@
+{
+  "id": "ky-bowling-green-southern-ky-mulch-inc",
+  "slug": "southern-ky-mulch-inc",
+  "name": "Southern Ky Mulch Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1341 Memphis Junction Rd",
+    "city": "Bowling Green",
+    "state": "KY",
+    "zip": "42101"
+  },
+  "location": {
+    "lat": 36.942093,
+    "lng": -86.490547
+  },
+  "contact": {
+    "phone": "(270) 779-6699",
+    "website": "http://www.southernkymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "252035cf-ff51-4aa1-830c-c8e1e09a4345",
+    "confidence": 0.872,
+    "merged_records": 1
+  }
+}

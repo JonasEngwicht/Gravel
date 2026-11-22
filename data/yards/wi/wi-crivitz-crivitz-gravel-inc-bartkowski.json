@@ -1,0 +1,35 @@
+{
+  "id": "wi-crivitz-crivitz-gravel-inc-bartkowski",
+  "slug": "crivitz-gravel-inc-bartkowski",
+  "name": "Crivitz Gravel Inc-Bartkowski",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "W7397 Noquebay Rd",
+    "city": "Crivitz",
+    "state": "WI",
+    "zip": "54114"
+  },
+  "location": {
+    "lat": 45.25119,
+    "lng": -87.967697
+  },
+  "contact": {
+    "phone": "(715) 854-7983"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "61b839d7-9a95-4eab-b1d0-b15adec98cb3",
+    "confidence": 0.587,
+    "merged_records": 1
+  }
+}

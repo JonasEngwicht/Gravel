@@ -1,0 +1,37 @@
+{
+  "id": "ma-pembroke-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "120 Corporate Park Dr",
+    "city": "Pembroke",
+    "state": "MA",
+    "zip": "02359"
+  },
+  "location": {
+    "lat": 42.100471,
+    "lng": -70.770493
+  },
+  "contact": {
+    "phone": "(781) 829-4800",
+    "website": "https://www.siteone.com/en/store/603"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa05819b-86a3-49a3-be42-79f2b4fb7e50",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

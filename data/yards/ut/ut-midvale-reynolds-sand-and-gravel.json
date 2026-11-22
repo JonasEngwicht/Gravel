@@ -1,0 +1,35 @@
+{
+  "id": "ut-midvale-reynolds-sand-and-gravel",
+  "slug": "reynolds-sand-and-gravel",
+  "name": "Reynolds Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6867 S 700 W  Ste A",
+    "city": "Midvale",
+    "state": "UT",
+    "zip": "84047"
+  },
+  "location": {
+    "lat": 40.62664,
+    "lng": -111.909309
+  },
+  "contact": {
+    "phone": "(801) 566-2110"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "45446bfd-e940-4dc0-9c11-7f67173f88a0",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

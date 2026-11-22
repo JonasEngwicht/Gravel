@@ -1,0 +1,36 @@
+{
+  "id": "ne-omaha-tim-s-mulch",
+  "slug": "tim-s-mulch",
+  "name": "Tim's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7502 Crown Point Ave",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68134"
+  },
+  "location": {
+    "lat": 41.312805,
+    "lng": -96.029541
+  },
+  "contact": {
+    "phone": "(402) 905-7354",
+    "website": "http://www.timsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed2698bb-981f-48fa-a313-6f52d87cbdb5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

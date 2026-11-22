@@ -1,0 +1,36 @@
+{
+  "id": "id-nampa-rambo-sand-and-gravel-inc",
+  "slug": "rambo-sand-and-gravel-inc",
+  "name": "Rambo Sand & Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2700 S Middleton Rd",
+    "city": "Nampa",
+    "state": "ID",
+    "zip": "83686"
+  },
+  "location": {
+    "lat": 43.541283,
+    "lng": -116.606125
+  },
+  "contact": {
+    "phone": "(208) 466-2402",
+    "website": "https://www.rambosand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2eafff4c-46aa-49ce-b292-c7eae9651384",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

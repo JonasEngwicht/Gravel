@@ -1,0 +1,36 @@
+{
+  "id": "pa-pittston-by-pass-mulch",
+  "slug": "by-pass-mulch",
+  "name": "By Pass Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1093 S Township Blvd.",
+    "city": "Pittston",
+    "state": "PA",
+    "zip": "18640"
+  },
+  "location": {
+    "lat": 41.307468,
+    "lng": -75.797112
+  },
+  "contact": {
+    "phone": "(570) 655-8550",
+    "website": "https://www.bypassmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb508af4-7787-4d8e-b872-f4199308efd9",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

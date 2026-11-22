@@ -1,0 +1,36 @@
+{
+  "id": "fl-sanford-keller-landscape-supply",
+  "slug": "keller-landscape-supply",
+  "name": "Keller Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3350 Saint Johns Pkwy",
+    "city": "Sanford",
+    "state": "FL",
+    "zip": "32771"
+  },
+  "location": {
+    "lat": 28.805777,
+    "lng": -81.305153
+  },
+  "contact": {
+    "phone": "(407) 416-7866",
+    "website": "https://www.kellerlandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d7f9064-a4ec-4945-b5ec-750d9ff2e5d5",
+    "confidence": 0.917,
+    "merged_records": 1
+  }
+}

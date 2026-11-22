@@ -1,0 +1,36 @@
+{
+  "id": "wa-monroe-builders-supply-topsoil",
+  "slug": "builders-supply-topsoil",
+  "name": "Builders Supply Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "18543 Cascade View Dr",
+    "city": "Monroe",
+    "state": "WA",
+    "zip": "98272"
+  },
+  "location": {
+    "lat": 47.865162,
+    "lng": -121.982147
+  },
+  "contact": {
+    "phone": "(360) 794-7785",
+    "website": "http://www.builderstopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "07923c36-b6b6-48ef-b40b-de748ae865fd",
+    "confidence": 0.895,
+    "merged_records": 2
+  }
+}

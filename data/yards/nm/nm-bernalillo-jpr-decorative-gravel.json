@@ -1,0 +1,35 @@
+{
+  "id": "nm-bernalillo-jpr-decorative-gravel",
+  "slug": "jpr-decorative-gravel",
+  "name": "Jpr Decorative Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1332 Calle Baack",
+    "city": "Bernalillo",
+    "state": "NM",
+    "zip": "87004"
+  },
+  "location": {
+    "lat": 35.312672,
+    "lng": -106.578957
+  },
+  "contact": {
+    "website": "https://jprgravelnm.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "371cf2cb-7aff-456c-86db-17d5e249f5c6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

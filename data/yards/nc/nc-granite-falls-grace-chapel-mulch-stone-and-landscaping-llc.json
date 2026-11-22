@@ -1,0 +1,35 @@
+{
+  "id": "nc-granite-falls-grace-chapel-mulch-stone-and-landscaping-llc",
+  "slug": "grace-chapel-mulch-stone-and-landscaping-llc",
+  "name": "Grace Chapel Mulch, Stone and landscaping LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4828 Grace Chapel Rd",
+    "city": "Granite Falls",
+    "state": "NC",
+    "zip": "28630"
+  },
+  "location": {
+    "lat": 35.799568,
+    "lng": -81.362038
+  },
+  "contact": {
+    "phone": "(828) 493-2397"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6e499b8c-7754-4ba3-8c6a-ecc64055a958",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

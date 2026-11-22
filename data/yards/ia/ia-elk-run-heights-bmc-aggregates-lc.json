@@ -1,0 +1,48 @@
+{
+  "id": "ia-elk-run-heights-bmc-aggregates-lc",
+  "slug": "bmc-aggregates-lc",
+  "name": "BMC Aggregates LC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "101 Bmc Dr",
+    "city": "Elk Run Heights",
+    "state": "IA",
+    "zip": "50707"
+  },
+  "location": {
+    "lat": 42.463264,
+    "lng": -92.245811
+  },
+  "contact": {
+    "phone": "(319) 235-6583",
+    "website": "http://www.bmcaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abc54e45-c57d-43d0-a78b-ba9449b1ee19",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1300686",
+      "name": "Gilbertville Sand",
+      "operator": "BMC Aggregates LC",
+      "status": "Active",
+      "status_since": "2015-08-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

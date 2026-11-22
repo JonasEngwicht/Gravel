@@ -1,0 +1,36 @@
+{
+  "id": "ga-marietta-bulks-landscape-supply",
+  "slug": "bulks-landscape-supply",
+  "name": "Bulks Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4586 Canton Rd",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066"
+  },
+  "location": {
+    "lat": 34.061913,
+    "lng": -84.518929
+  },
+  "contact": {
+    "phone": "(770) 580-0000",
+    "website": "http://bulks.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a8ca6726-ba1f-4c3f-b336-7e0dda232f86",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

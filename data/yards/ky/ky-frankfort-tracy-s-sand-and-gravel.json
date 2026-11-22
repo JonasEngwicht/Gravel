@@ -1,0 +1,36 @@
+{
+  "id": "ky-frankfort-tracy-s-sand-and-gravel",
+  "slug": "tracy-s-sand-and-gravel",
+  "name": "Tracy's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6700 US-127 North",
+    "city": "Frankfort",
+    "state": "KY",
+    "zip": "40601"
+  },
+  "location": {
+    "lat": 38.25629,
+    "lng": -84.851707
+  },
+  "contact": {
+    "phone": "(502) 352-2458",
+    "website": "http://www.tracysandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0b5d228-ee21-4240-8c4c-483c5e1c0633",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

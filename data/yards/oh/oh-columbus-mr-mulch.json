@@ -1,0 +1,36 @@
+{
+  "id": "oh-columbus-mr-mulch",
+  "slug": "mr-mulch",
+  "name": "Mr. Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6469 Nicholas Dr",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43235"
+  },
+  "location": {
+    "lat": 40.088768,
+    "lng": -83.062881
+  },
+  "contact": {
+    "phone": "(614) 792-8686",
+    "website": "https://www.mrmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "510356d2-c093-4b17-af42-efef8d39df11",
+    "confidence": 0.99,
+    "merged_records": 2
+  }
+}

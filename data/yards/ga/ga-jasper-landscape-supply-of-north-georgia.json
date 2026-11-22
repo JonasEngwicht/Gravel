@@ -1,0 +1,36 @@
+{
+  "id": "ga-jasper-landscape-supply-of-north-georgia",
+  "slug": "landscape-supply-of-north-georgia",
+  "name": "Landscape Supply of North Georgia",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "26 Liberty Pkwy",
+    "city": "Jasper",
+    "state": "GA",
+    "zip": "30143"
+  },
+  "location": {
+    "lat": 34.431358,
+    "lng": -84.429962
+  },
+  "contact": {
+    "phone": "(706) 253-4050",
+    "website": "http://landscpaesupplyofga.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ac3c7a7-c632-488a-9f4d-fa85ec6277af",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

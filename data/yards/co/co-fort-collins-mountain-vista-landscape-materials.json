@@ -1,0 +1,35 @@
+{
+  "id": "co-fort-collins-mountain-vista-landscape-materials",
+  "slug": "mountain-vista-landscape-materials",
+  "name": "Mountain Vista Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1014 NE Frontage Rd",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80524"
+  },
+  "location": {
+    "lat": 40.599934,
+    "lng": -104.999771
+  },
+  "contact": {
+    "phone": "(970) 829-6565"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9063de1-3341-4999-9c53-edebd04b4166",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

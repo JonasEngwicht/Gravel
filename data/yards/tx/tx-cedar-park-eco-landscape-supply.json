@@ -1,0 +1,36 @@
+{
+  "id": "tx-cedar-park-eco-landscape-supply",
+  "slug": "eco-landscape-supply",
+  "name": "Eco Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1715 Whitestone Blvd",
+    "city": "Cedar Park",
+    "state": "TX",
+    "zip": "78613"
+  },
+  "location": {
+    "lat": 30.514629,
+    "lng": -97.852341
+  },
+  "contact": {
+    "phone": "(512) 359-5507",
+    "website": "http://www.ecolandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59f9c973-82e5-4b3f-b039-f22e0b0f4405",
+    "confidence": 0.791,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "md-silver-spring-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2730 Pittman Dr",
+    "city": "Silver Spring",
+    "state": "MD",
+    "zip": "20910"
+  },
+  "location": {
+    "lat": 39.001278,
+    "lng": -77.058311
+  },
+  "contact": {
+    "phone": "(301) 587-4016",
+    "website": "https://www.siteone.com/store/602"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "125d3086-196e-4c6a-8a67-e63a27822bbf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

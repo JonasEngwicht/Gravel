@@ -1,0 +1,36 @@
+{
+  "id": "fl-bradenton-oneco-sarasota-aggregate-terminal",
+  "slug": "oneco-sarasota-aggregate-terminal",
+  "name": "Oneco Sarasota Aggregate Terminal",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5335 18th Street East",
+    "city": "Bradenton",
+    "state": "FL",
+    "zip": "34203"
+  },
+  "location": {
+    "lat": 27.445862,
+    "lng": -82.541817
+  },
+  "contact": {
+    "phone": "(855) 293-7741",
+    "website": "https://www.cemexusa.com/-/oneco-sarasota-aggregate-terminal"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ae0c919a-359e-4fb4-ab4c-5d4463ce5e61",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

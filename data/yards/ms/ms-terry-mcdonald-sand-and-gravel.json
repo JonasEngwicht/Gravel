@@ -1,0 +1,36 @@
+{
+  "id": "ms-terry-mcdonald-sand-and-gravel",
+  "slug": "mcdonald-sand-and-gravel",
+  "name": "McDonald Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1365 Jenkins Rd",
+    "city": "Terry",
+    "state": "MS",
+    "zip": "39170"
+  },
+  "location": {
+    "lat": 32.120945,
+    "lng": -90.318298
+  },
+  "contact": {
+    "phone": "(601) 946-4840",
+    "website": "http://www.macdonaldsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c2b2d816-3c25-419b-864d-94481858fa3c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

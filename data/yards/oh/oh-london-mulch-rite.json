@@ -1,0 +1,36 @@
+{
+  "id": "oh-london-mulch-rite",
+  "slug": "mulch-rite",
+  "name": "Mulch Rite",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4855 Rosedale Milford Center Rd",
+    "city": "London",
+    "state": "OH",
+    "zip": "43140"
+  },
+  "location": {
+    "lat": 40.074924,
+    "lng": -83.198135
+  },
+  "contact": {
+    "phone": "(614) 893-5049",
+    "website": "http://www.mulchrite.com/mulchstore/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3e2d467-a20e-4832-a0e4-6e76bf8955c1",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "or-roseburg-umpqua-aggregate-resources-excavation-and-paving",
+  "slug": "umpqua-aggregate-resources-excavation-and-paving",
+  "name": "Umpqua Aggregate Resources Excavation & Paving",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "424 Del Rio Rd",
+    "city": "Roseburg",
+    "state": "OR",
+    "zip": "97471"
+  },
+  "location": {
+    "lat": 43.293468,
+    "lng": -123.359711
+  },
+  "contact": {
+    "phone": "(541) 673-1088"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "360b20c8-7f18-4b5e-80ce-c39afb54ee4e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

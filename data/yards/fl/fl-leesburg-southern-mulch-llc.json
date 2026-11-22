@@ -1,0 +1,35 @@
+{
+  "id": "fl-leesburg-southern-mulch-llc",
+  "slug": "southern-mulch-llc",
+  "name": "Southern Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2523 W Main St",
+    "city": "Leesburg",
+    "state": "FL",
+    "zip": "34748"
+  },
+  "location": {
+    "lat": 28.812824,
+    "lng": -81.906792
+  },
+  "contact": {
+    "phone": "(352) 319-8197"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5eab11a-9f82-4242-907d-3d811089c0ce",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

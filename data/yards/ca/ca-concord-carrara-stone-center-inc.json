@@ -1,0 +1,36 @@
+{
+  "id": "ca-concord-carrara-stone-center-inc",
+  "slug": "carrara-stone-center-inc",
+  "name": "Carrara Stone Center Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1440 Franquette Ave",
+    "city": "Concord",
+    "state": "CA",
+    "zip": "94520"
+  },
+  "location": {
+    "lat": 37.968658,
+    "lng": -122.04924
+  },
+  "contact": {
+    "phone": "(925) 510-0988",
+    "website": "http://www.carrarasc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fea45e19-ddbd-40e4-8662-a46f1f3a7190",
+    "confidence": 0.778,
+    "merged_records": 1
+  }
+}

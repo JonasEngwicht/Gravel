@@ -1,0 +1,37 @@
+{
+  "id": "ca-shingle-springs-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4045 Sunset Ln",
+    "city": "Shingle Springs",
+    "state": "CA",
+    "zip": "95682"
+  },
+  "location": {
+    "lat": 38.661053,
+    "lng": -120.934143
+  },
+  "contact": {
+    "phone": "(530) 677-0357",
+    "website": "https://www.siteone.com/store/310"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ebc03d52-06b0-429a-91a1-695fd7e344c9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

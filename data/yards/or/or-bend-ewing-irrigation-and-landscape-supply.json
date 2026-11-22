@@ -1,0 +1,37 @@
+{
+  "id": "or-bend-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "1013 SE Paiute Way",
+    "city": "Bend",
+    "state": "OR",
+    "zip": "97702"
+  },
+  "location": {
+    "lat": 44.039726,
+    "lng": -121.293327
+  },
+  "contact": {
+    "phone": "(541) 318-6938",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "785ca75a-e0f7-4c00-b1c4-3f93931e62d0",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

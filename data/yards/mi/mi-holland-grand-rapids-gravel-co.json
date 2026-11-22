@@ -1,0 +1,36 @@
+{
+  "id": "mi-holland-grand-rapids-gravel-co",
+  "slug": "grand-rapids-gravel-co",
+  "name": "Grand Rapids Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "13180 Quincy St",
+    "city": "Holland",
+    "state": "MI",
+    "zip": "49424"
+  },
+  "location": {
+    "lat": 42.839077,
+    "lng": -86.107399
+  },
+  "contact": {
+    "phone": "(616) 538-9000",
+    "website": "https://grgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e23d4b8d-37c4-4b1c-8b6a-1a4a3757850f",
+    "confidence": 0.859,
+    "merged_records": 1
+  }
+}

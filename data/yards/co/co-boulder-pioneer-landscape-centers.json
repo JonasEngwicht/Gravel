@@ -1,0 +1,37 @@
+{
+  "id": "co-boulder-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "6379 Valmont Rd",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": "80301"
+  },
+  "location": {
+    "lat": 40.034389,
+    "lng": -105.202995
+  },
+  "contact": {
+    "phone": "(303) 440-7625",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff6b08a2-e663-44c6-a9d9-6fd91b39f797",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

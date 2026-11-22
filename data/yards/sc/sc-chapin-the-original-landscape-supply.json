@@ -1,0 +1,36 @@
+{
+  "id": "sc-chapin-the-original-landscape-supply",
+  "slug": "the-original-landscape-supply",
+  "name": "The Original Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2815 Dutch Fork Rd",
+    "city": "Chapin",
+    "state": "SC",
+    "zip": "29036"
+  },
+  "location": {
+    "lat": 34.136536,
+    "lng": -81.306221
+  },
+  "contact": {
+    "phone": "(803) 960-7729",
+    "website": "http://theoriginallandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba62cd16-df37-4131-801c-934c2f84b939",
+    "confidence": 0.99,
+    "merged_records": 2
+  }
+}

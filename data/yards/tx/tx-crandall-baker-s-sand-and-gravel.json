@@ -1,0 +1,35 @@
+{
+  "id": "tx-crandall-baker-s-sand-and-gravel",
+  "slug": "baker-s-sand-and-gravel",
+  "name": "Baker's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "13311 FM 3039",
+    "city": "Crandall",
+    "state": "TX",
+    "zip": "75114"
+  },
+  "location": {
+    "lat": 32.617569,
+    "lng": -96.459229
+  },
+  "contact": {
+    "phone": "(972) 472-3666"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4f8a4fe-8d51-4559-8670-28002ecd3162",
+    "confidence": 0.556,
+    "merged_records": 1
+  }
+}

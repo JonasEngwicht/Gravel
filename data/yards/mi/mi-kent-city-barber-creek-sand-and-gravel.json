@@ -1,0 +1,47 @@
+{
+  "id": "mi-kent-city-barber-creek-sand-and-gravel",
+  "slug": "barber-creek-sand-and-gravel",
+  "name": "Barber Creek Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15666 Barber Creek Ave",
+    "city": "Kent City",
+    "state": "MI",
+    "zip": "49330"
+  },
+  "location": {
+    "lat": 43.249866,
+    "lng": -85.720779
+  },
+  "contact": {
+    "phone": "(616) 675-7619"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cdc57c2f-3ff9-45b5-ad4e-ded1c230aeb2",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2002842",
+      "name": "Wash Plant I",
+      "operator": "Barber Creek Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "1990-05-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

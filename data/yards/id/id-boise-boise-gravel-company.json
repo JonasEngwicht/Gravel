@@ -1,0 +1,36 @@
+{
+  "id": "id-boise-boise-gravel-company",
+  "slug": "boise-gravel-company",
+  "name": "Boise Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4301 S Federal Way",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83716"
+  },
+  "location": {
+    "lat": 43.563568,
+    "lng": -116.180496
+  },
+  "contact": {
+    "phone": "(208) 860-7702",
+    "website": "http://boisegravelcompany.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc5e4d15-6f5e-46d8-a69e-43d096d235b1",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

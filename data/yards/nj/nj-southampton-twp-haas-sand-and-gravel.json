@@ -1,0 +1,36 @@
+{
+  "id": "nj-southampton-twp-haas-sand-and-gravel",
+  "slug": "haas-sand-and-gravel",
+  "name": "Haas Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1812 Route 206",
+    "city": "Southampton Twp",
+    "state": "NJ",
+    "zip": "08088"
+  },
+  "location": {
+    "lat": 39.894299,
+    "lng": -74.740234
+  },
+  "contact": {
+    "phone": "(609) 388-1070",
+    "website": "http://haastree.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3f89045-8e13-4dbf-bb25-d012bfa5cb46",
+    "confidence": 0.589,
+    "merged_records": 1
+  }
+}

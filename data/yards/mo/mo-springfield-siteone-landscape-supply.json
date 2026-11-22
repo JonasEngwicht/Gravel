@@ -1,0 +1,37 @@
+{
+  "id": "mo-springfield-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5236 S Campbell Ave",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65810"
+  },
+  "location": {
+    "lat": 37.119011,
+    "lng": -93.296165
+  },
+  "contact": {
+    "phone": "(417) 881-6675",
+    "website": "https://www.siteone.com/store/182"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "33e11e4f-9e1f-4582-bab1-ec2ce291ddea",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

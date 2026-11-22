@@ -1,0 +1,35 @@
+{
+  "id": "sc-georgetown-georgetown-landscaping-supplies",
+  "slug": "georgetown-landscaping-supplies",
+  "name": "Georgetown Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2221 N Fraser St",
+    "city": "Georgetown",
+    "state": "SC",
+    "zip": "29440"
+  },
+  "location": {
+    "lat": 33.406536,
+    "lng": -79.287827
+  },
+  "contact": {
+    "phone": "(843) 359-1015"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0fad5a1d-f554-4198-946d-92f86cb60280",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

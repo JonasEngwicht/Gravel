@@ -1,0 +1,36 @@
+{
+  "id": "ia-davenport-quint-city-stone-center",
+  "slug": "quint-city-stone-center",
+  "name": "Quint City Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7221 Northwest Blvd",
+    "city": "Davenport",
+    "state": "IA",
+    "zip": "52806"
+  },
+  "location": {
+    "lat": 41.594666,
+    "lng": -90.612579
+  },
+  "contact": {
+    "phone": "(563) 207-4598",
+    "website": "http://qcstonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a300c0c-47f4-41df-8d3e-19c7235c4c65",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

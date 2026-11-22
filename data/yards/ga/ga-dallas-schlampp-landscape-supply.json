@@ -1,0 +1,36 @@
+{
+  "id": "ga-dallas-schlampp-landscape-supply",
+  "slug": "schlampp-landscape-supply",
+  "name": "Schlampp Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8575 Dallas Acworth Hwy",
+    "city": "Dallas",
+    "state": "GA",
+    "zip": "30132"
+  },
+  "location": {
+    "lat": 34.008297,
+    "lng": -84.756897
+  },
+  "contact": {
+    "phone": "(770) 575-2087",
+    "website": "http://www.schlampplandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa6258e9-5bcb-4e19-b17e-1b3d47d3f98e",
+    "confidence": 0.911,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "oh-hamilton-welch-sand-and-gravel",
+  "slug": "welch-sand-and-gravel",
+  "name": "Welch Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11489 Hamilton Cleves Rd",
+    "city": "Hamilton",
+    "state": "OH",
+    "zip": "45013"
+  },
+  "location": {
+    "lat": 39.295898,
+    "lng": -84.671844
+  },
+  "contact": {
+    "phone": "(513) 738-3438",
+    "website": "https://www.welchsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "edf42f26-4f8e-4ade-af52-a6b4e5214aee",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3302359",
+      "name": "Ross Pit",
+      "operator": "Welch Sand & Gravel Inc.",
+      "status": "Active",
+      "status_since": "2024-02-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

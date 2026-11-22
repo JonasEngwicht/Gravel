@@ -1,0 +1,36 @@
+{
+  "id": "mi-dewitt-hammond-farms-landscape-supply",
+  "slug": "hammond-farms-landscape-supply",
+  "name": "Hammond Farms Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1070 W Clark Rd",
+    "city": "Dewitt",
+    "state": "MI",
+    "zip": "48820"
+  },
+  "location": {
+    "lat": 42.814213,
+    "lng": -84.544273
+  },
+  "contact": {
+    "phone": "(517) 668-0788",
+    "website": "http://www.hammondfarms.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "86d1c4e9-af6f-409d-a14b-a163b7b2d921",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

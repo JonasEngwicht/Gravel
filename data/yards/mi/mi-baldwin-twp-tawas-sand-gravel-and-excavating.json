@@ -1,0 +1,35 @@
+{
+  "id": "mi-baldwin-twp-tawas-sand-gravel-and-excavating",
+  "slug": "tawas-sand-gravel-and-excavating",
+  "name": "Tawas Sand Gravel and Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1760 S U.S. 23",
+    "city": "Baldwin Twp",
+    "state": "MI",
+    "zip": "48730"
+  },
+  "location": {
+    "lat": 44.291069,
+    "lng": -83.451797
+  },
+  "contact": {
+    "phone": "(989) 362-2431"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd240fb2-d1c9-4aa1-8536-3075df98f3c6",
+    "confidence": 0.54,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "mn-rosemount-solberg-aggregate-co",
+  "slug": "solberg-aggregate-co",
+  "name": "Solberg Aggregate Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3615 145th St E",
+    "city": "Rosemount",
+    "state": "MN",
+    "zip": "55068"
+  },
+  "location": {
+    "lat": 44.739506,
+    "lng": -93.033142
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee65c9c2-e868-4471-91da-080584e24a9d",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

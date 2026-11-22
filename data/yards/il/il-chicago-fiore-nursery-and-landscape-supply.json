@@ -1,0 +1,36 @@
+{
+  "id": "il-chicago-fiore-nursery-and-landscape-supply",
+  "slug": "fiore-nursery-and-landscape-supply",
+  "name": "Fiore Nursery and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2901 W Ferdinand St",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60612"
+  },
+  "location": {
+    "lat": 41.889732,
+    "lng": -87.698692
+  },
+  "contact": {
+    "phone": "(773) 533-1414",
+    "website": "http://www.cjfiore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a947909-284c-4472-a462-f4a6b66a50c3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

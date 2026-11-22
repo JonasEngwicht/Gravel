@@ -1,0 +1,35 @@
+{
+  "id": "ca-acton-devore-sand-and-gravel",
+  "slug": "devore-sand-and-gravel",
+  "name": "Devore Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "605-609 Sierra Hwy",
+    "city": "Acton",
+    "state": "CA",
+    "zip": "93510"
+  },
+  "location": {
+    "lat": 34.500874,
+    "lng": -118.118591
+  },
+  "contact": {
+    "phone": "(661) 269-1826"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "05fe93c4-b9fa-4908-9831-f50f94f0594c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

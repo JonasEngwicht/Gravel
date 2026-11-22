@@ -1,0 +1,48 @@
+{
+  "id": "pa-slippery-rock-three-rivers-aggregates-144-brandon-rd",
+  "slug": "three-rivers-aggregates-144-brandon-rd",
+  "name": "Three Rivers Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "144 Brandon Rd",
+    "city": "Slippery Rock",
+    "state": "PA",
+    "zip": "16057"
+  },
+  "location": {
+    "lat": 41.019466,
+    "lng": -80.12114
+  },
+  "contact": {
+    "phone": "(724) 738-0111",
+    "website": "http://www.threeriversaggs.com/TRAWebsite.nsf/web/ContactUs?openDocument"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "65bc3bfb-b0d6-44a7-9210-70c5c8fff675",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3609568",
+      "name": "Black Run",
+      "operator": "Three Rivers Aggregate Holding LLC",
+      "status": "Active",
+      "status_since": "2022-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

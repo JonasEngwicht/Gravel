@@ -1,0 +1,37 @@
+{
+  "id": "ca-hesperia-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "11060 G Ave",
+    "city": "Hesperia",
+    "state": "CA",
+    "zip": "92345"
+  },
+  "location": {
+    "lat": 34.452374,
+    "lng": -117.279358
+  },
+  "contact": {
+    "phone": "(760) 244-3621",
+    "website": "https://www.siteone.com/store/154"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0055957-b3b8-451a-b4ef-e2936e518bc0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ms-fulton-fulton-stone-yard",
+  "slug": "fulton-stone-yard",
+  "name": "Fulton Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1114 E Main St",
+    "city": "Fulton",
+    "state": "MS",
+    "zip": "38843"
+  },
+  "location": {
+    "lat": 34.278095,
+    "lng": -88.37664
+  },
+  "contact": {
+    "phone": "(662) 862-9959"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ff2807c-8ce5-4552-8f9f-8eb6efc21ea7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

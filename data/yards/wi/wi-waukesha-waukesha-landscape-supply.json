@@ -1,0 +1,36 @@
+{
+  "id": "wi-waukesha-waukesha-landscape-supply",
+  "slug": "waukesha-landscape-supply",
+  "name": "Waukesha Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1631 Arcadian Ave",
+    "city": "Waukesha",
+    "state": "WI",
+    "zip": "53186"
+  },
+  "location": {
+    "lat": 43.011879,
+    "lng": -88.206108
+  },
+  "contact": {
+    "phone": "(262) 894-4317",
+    "website": "http://www.waukeshalandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90561f8f-110d-4182-90e9-9c792d64162a",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

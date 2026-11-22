@@ -1,0 +1,36 @@
+{
+  "id": "ny-rockville-centre-mulch-better-lawn-care",
+  "slug": "mulch-better-lawn-care",
+  "name": "Mulch Better Lawn Care",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "265 Sunrise Hwy  Ste 514",
+    "city": "Rockville Centre",
+    "state": "NY",
+    "zip": "11570"
+  },
+  "location": {
+    "lat": 40.657619,
+    "lng": -73.64476
+  },
+  "contact": {
+    "phone": "(516) 206-2225",
+    "website": "https://mulch-better-lawn-care.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "332fb03c-6298-4646-a380-1a25c7f81957",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

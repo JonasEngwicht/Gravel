@@ -1,0 +1,36 @@
+{
+  "id": "pa-colmar-klaumenzer-s-309-mulch-yard",
+  "slug": "klaumenzer-s-309-mulch-yard",
+  "name": "Klaumenzer's 309 mulch yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "793 Bethlehem Pike",
+    "city": "Colmar",
+    "state": "PA",
+    "zip": "18915"
+  },
+  "location": {
+    "lat": 40.280815,
+    "lng": -75.261856
+  },
+  "contact": {
+    "phone": "(215) 822-3327",
+    "website": "http://www.309mulchyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe801fd4-c433-4ed7-8438-b0df3dcf9f08",
+    "confidence": 0.888,
+    "merged_records": 1
+  }
+}

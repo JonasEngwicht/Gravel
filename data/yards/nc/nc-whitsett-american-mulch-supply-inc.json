@@ -1,0 +1,35 @@
+{
+  "id": "nc-whitsett-american-mulch-supply-inc",
+  "slug": "american-mulch-supply-inc",
+  "name": "American Mulch Supply Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7116 Burlington Rd",
+    "city": "Whitsett",
+    "state": "NC",
+    "zip": "27377"
+  },
+  "location": {
+    "lat": 36.077095,
+    "lng": -79.565353
+  },
+  "contact": {
+    "phone": "(336) 451-9415"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b94bbd2-6c14-469c-9f05-287ebc5bf7c0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

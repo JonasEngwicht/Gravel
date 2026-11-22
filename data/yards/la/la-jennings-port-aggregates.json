@@ -1,0 +1,36 @@
+{
+  "id": "la-jennings-port-aggregates",
+  "slug": "port-aggregates",
+  "name": "Port Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5108 S Cutting St",
+    "city": "Jennings",
+    "state": "LA",
+    "zip": "70546"
+  },
+  "location": {
+    "lat": 30.191933,
+    "lng": -92.654945
+  },
+  "contact": {
+    "phone": "(337) 616-8999",
+    "website": "http://www.portaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8b4063e2-0df7-4344-9888-5f2f85ae4fe6",
+    "confidence": 0.893,
+    "merged_records": 2
+  }
+}

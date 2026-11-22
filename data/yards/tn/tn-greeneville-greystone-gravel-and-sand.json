@@ -1,0 +1,35 @@
+{
+  "id": "tn-greeneville-greystone-gravel-and-sand",
+  "slug": "greystone-gravel-and-sand",
+  "name": "Greystone Gravel & Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1980 Greystone Rd",
+    "city": "Greeneville",
+    "state": "TN",
+    "zip": "37743"
+  },
+  "location": {
+    "lat": 36.095093,
+    "lng": -82.744133
+  },
+  "contact": {
+    "phone": "(423) 638-5269"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ca9946e-bfd4-4e8a-bb12-9f94d547e36a",
+    "confidence": 0.68,
+    "merged_records": 1
+  }
+}

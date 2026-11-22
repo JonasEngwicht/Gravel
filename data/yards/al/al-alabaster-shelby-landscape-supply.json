@@ -1,0 +1,35 @@
+{
+  "id": "al-alabaster-shelby-landscape-supply",
+  "slug": "shelby-landscape-supply",
+  "name": "Shelby Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8163 Highway 119",
+    "city": "Alabaster",
+    "state": "AL",
+    "zip": "35007"
+  },
+  "location": {
+    "lat": 33.19907,
+    "lng": -86.827415
+  },
+  "contact": {
+    "phone": "(205) 663-6133"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53ede9fd-5864-4e44-b97c-da2af3b10b75",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

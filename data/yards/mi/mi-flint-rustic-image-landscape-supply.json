@@ -1,0 +1,35 @@
+{
+  "id": "mi-flint-rustic-image-landscape-supply",
+  "slug": "rustic-image-landscape-supply",
+  "name": "Rustic Image Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5249 Miller Rd",
+    "city": "Flint",
+    "state": "MI",
+    "zip": "48507"
+  },
+  "location": {
+    "lat": 42.973827,
+    "lng": -83.780167
+  },
+  "contact": {
+    "phone": "(810) 720-1630"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b09f152-e5ed-4a3c-bced-2378844b6300",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

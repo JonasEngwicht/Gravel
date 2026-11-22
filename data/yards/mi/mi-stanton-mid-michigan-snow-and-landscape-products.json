@@ -1,0 +1,36 @@
+{
+  "id": "mi-stanton-mid-michigan-snow-and-landscape-products",
+  "slug": "mid-michigan-snow-and-landscape-products",
+  "name": "Mid Michigan Snow & Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4604 W Stanton Rd",
+    "city": "Stanton",
+    "state": "MI",
+    "zip": "48888"
+  },
+  "location": {
+    "lat": 43.300484,
+    "lng": -85.176025
+  },
+  "contact": {
+    "phone": "(989) 287-1566",
+    "website": "http://midmichigan-products.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "22eda0fb-f1b9-4c72-b90f-63721ca3502c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

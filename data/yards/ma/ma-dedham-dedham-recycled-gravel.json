@@ -1,0 +1,36 @@
+{
+  "id": "ma-dedham-dedham-recycled-gravel",
+  "slug": "dedham-recycled-gravel",
+  "name": "Dedham Recycled Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "200 Legacy Blvd",
+    "city": "Dedham",
+    "state": "MA",
+    "zip": "02026"
+  },
+  "location": {
+    "lat": 42.232548,
+    "lng": -71.173645
+  },
+  "contact": {
+    "phone": "(781) 329-4111",
+    "website": "https://recycledgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e8fc6b1-c2e3-4ef0-bcce-b78007ca7c7f",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

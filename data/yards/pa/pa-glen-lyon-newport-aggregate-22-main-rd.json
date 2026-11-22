@@ -1,0 +1,36 @@
+{
+  "id": "pa-glen-lyon-newport-aggregate-22-main-rd",
+  "slug": "newport-aggregate-22-main-rd",
+  "name": "Newport Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "22 main rd",
+    "city": "Glen Lyon",
+    "state": "PA",
+    "zip": "18617"
+  },
+  "location": {
+    "lat": 41.175266,
+    "lng": -76.067329
+  },
+  "contact": {
+    "phone": "(570) 736-6612",
+    "website": "http://newportaggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd44cd2c-ab88-40d4-9af7-638c15da1907",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

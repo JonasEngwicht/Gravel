@@ -1,0 +1,36 @@
+{
+  "id": "mi-detroit-detroit-landscape-supply",
+  "slug": "detroit-landscape-supply",
+  "name": "Detroit Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1300 Maple St",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48226"
+  },
+  "location": {
+    "lat": 42.341373,
+    "lng": -83.037514
+  },
+  "contact": {
+    "phone": "(313) 284-2478",
+    "website": "http://wegotdirt.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77cf4a3d-0a20-4679-80b4-543fe6299a08",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

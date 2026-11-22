@@ -1,0 +1,37 @@
+{
+  "id": "va-richmond-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2210 Perl Rd",
+    "city": "Richmond",
+    "state": "VA",
+    "zip": "23230"
+  },
+  "location": {
+    "lat": 37.59882,
+    "lng": -77.509949
+  },
+  "contact": {
+    "phone": "(804) 855-1770",
+    "website": "https://www.siteone.com/store/262"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0512eefa-830c-4545-bfce-866538b78e4c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mn-stillwater-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "8400 60th St N",
+    "city": "Stillwater",
+    "state": "MN",
+    "zip": "55082"
+  },
+  "location": {
+    "lat": 45.038765,
+    "lng": -92.935989
+  },
+  "contact": {
+    "phone": "(651) 748-3158",
+    "website": "https://www.siteone.com/en/store/1015"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6328ed24-2eaf-4d11-a650-35a3beeb4166",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

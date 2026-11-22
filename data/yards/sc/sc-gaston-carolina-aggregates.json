@@ -1,0 +1,36 @@
+{
+  "id": "sc-gaston-carolina-aggregates",
+  "slug": "carolina-aggregates",
+  "name": "Carolina Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "662 Boy Scout Rd",
+    "city": "Gaston",
+    "state": "SC",
+    "zip": "29053"
+  },
+  "location": {
+    "lat": 33.855251,
+    "lng": -81.106392
+  },
+  "contact": {
+    "phone": "(803) 834-0605",
+    "website": "http://www.carolinaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2258490-f66c-4803-8808-66831d619084",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

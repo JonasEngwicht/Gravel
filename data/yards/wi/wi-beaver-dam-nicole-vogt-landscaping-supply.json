@@ -1,0 +1,36 @@
+{
+  "id": "wi-beaver-dam-nicole-vogt-landscaping-supply",
+  "slug": "nicole-vogt-landscaping-supply",
+  "name": "Nicole Vogt Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "N 8559 WI-33",
+    "city": "Beaver Dam",
+    "state": "WI",
+    "zip": "53916"
+  },
+  "location": {
+    "lat": 43.504921,
+    "lng": -88.853981
+  },
+  "contact": {
+    "phone": "(920) 210-2000",
+    "website": "http://vogtlandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b303af20-4e7c-4047-b613-69a26298de07",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

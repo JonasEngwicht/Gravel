@@ -1,0 +1,36 @@
+{
+  "id": "nc-holly-ridge-topsail-landscaping-supply-sheds-and-more",
+  "slug": "topsail-landscaping-supply-sheds-and-more",
+  "name": "Topsail Landscaping Supply, Sheds and More",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "850 US-17 N",
+    "city": "Holly Ridge",
+    "state": "NC",
+    "zip": "28445"
+  },
+  "location": {
+    "lat": 34.505932,
+    "lng": -77.537582
+  },
+  "contact": {
+    "phone": "(910) 803-0682",
+    "website": "http://carolinacoastalgardens.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3d6fa21d-19f9-4e5a-9c82-1d5cb396c04e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

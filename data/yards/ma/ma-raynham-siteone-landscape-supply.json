@@ -1,0 +1,37 @@
+{
+  "id": "ma-raynham-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "95 Ryan Dr Ste 4 Ste 4",
+    "city": "Raynham",
+    "state": "MA",
+    "zip": "02767"
+  },
+  "location": {
+    "lat": 41.97718,
+    "lng": -71.072929
+  },
+  "contact": {
+    "phone": "(508) 828-2332",
+    "website": "https://www.siteone.com/en/store/720"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97145863-89ae-47ab-b176-0f5e3529db54",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

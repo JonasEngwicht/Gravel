@@ -1,0 +1,37 @@
+{
+  "id": "tx-fort-worth-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1421 Markum Ranch Rd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76126"
+  },
+  "location": {
+    "lat": 32.690849,
+    "lng": -97.518921
+  },
+  "contact": {
+    "phone": "(817) 249-2700",
+    "website": "https://www.siteone.com/store/134"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a42c9247-6b02-4e8f-ba9d-172d79b28f8e",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

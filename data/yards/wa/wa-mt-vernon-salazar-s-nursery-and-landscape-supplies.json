@@ -1,0 +1,36 @@
+{
+  "id": "wa-mt-vernon-salazar-s-nursery-and-landscape-supplies",
+  "slug": "salazar-s-nursery-and-landscape-supplies",
+  "name": "Salazar's Nursery & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1121 W Division St",
+    "city": "Mt Vernon",
+    "state": "WA",
+    "zip": "98273"
+  },
+  "location": {
+    "lat": 48.42223,
+    "lng": -122.350266
+  },
+  "contact": {
+    "phone": "(360) 428-2896",
+    "website": "http://salazarsnursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b9a882b8-1b36-48bc-b7d6-53ffef58e1d6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

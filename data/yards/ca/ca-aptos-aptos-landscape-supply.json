@@ -1,0 +1,36 @@
+{
+  "id": "ca-aptos-aptos-landscape-supply",
+  "slug": "aptos-landscape-supply",
+  "name": "Aptos Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5035 Freedom Blvd",
+    "city": "Aptos",
+    "state": "CA",
+    "zip": "95003"
+  },
+  "location": {
+    "lat": 36.985977,
+    "lng": -121.836311
+  },
+  "contact": {
+    "phone": "(831) 688-6211",
+    "website": "http://www.aptoslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2fb16353-171d-4656-854f-604f5a5b34f8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

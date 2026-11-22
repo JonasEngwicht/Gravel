@@ -1,0 +1,36 @@
+{
+  "id": "nh-swanzey-ground-up-landscape-materials",
+  "slug": "ground-up-landscape-materials",
+  "name": "Ground Up Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "387 Monadnock Hwy",
+    "city": "Swanzey",
+    "state": "NH",
+    "zip": "03446"
+  },
+  "location": {
+    "lat": 42.888035,
+    "lng": -72.243286
+  },
+  "contact": {
+    "phone": "(603) 593-8806",
+    "website": "http://grounduplandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "592423e3-0809-4679-9dc3-ae52bb2f5a41",
+    "confidence": 0.588,
+    "merged_records": 1
+  }
+}

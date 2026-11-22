@@ -1,0 +1,37 @@
+{
+  "id": "fl-stuart-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3147 SE Lionel Ter",
+    "city": "Stuart",
+    "state": "FL",
+    "zip": "34997"
+  },
+  "location": {
+    "lat": 27.147194,
+    "lng": -80.209061
+  },
+  "contact": {
+    "phone": "(772) 223-0079",
+    "website": "https://www.siteone.com/en/store/470"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82427102-4a0b-49d6-a9f3-c6e372085c61",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

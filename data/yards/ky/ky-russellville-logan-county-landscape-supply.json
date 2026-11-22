@@ -1,0 +1,35 @@
+{
+  "id": "ky-russellville-logan-county-landscape-supply",
+  "slug": "logan-county-landscape-supply",
+  "name": "Logan County Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "227 Emerson Bypass Rd",
+    "city": "Russellville",
+    "state": "KY",
+    "zip": "42276"
+  },
+  "location": {
+    "lat": 36.835545,
+    "lng": -86.912186
+  },
+  "contact": {
+    "phone": "(270) 893-5157"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa20d3a9-ef99-489f-a9af-0e4fdedd87af",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-martinez-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "130 S Buchanan Cir Ste A",
+    "city": "Martinez",
+    "state": "CA",
+    "zip": "94553"
+  },
+  "location": {
+    "lat": 37.989628,
+    "lng": -122.06958
+  },
+  "contact": {
+    "phone": "(925) 680-7620",
+    "website": "https://www.siteone.com/en/store/303"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62d28661-9aff-41b2-9b3f-f61ee7bffffa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

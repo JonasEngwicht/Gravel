@@ -1,0 +1,36 @@
+{
+  "id": "tx-cleveland-river-aggregates",
+  "slug": "river-aggregates",
+  "name": "River Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5071 FM 787 Rd W",
+    "city": "Cleveland",
+    "state": "TX",
+    "zip": "77327"
+  },
+  "location": {
+    "lat": 30.447617,
+    "lng": -94.841202
+  },
+  "contact": {
+    "phone": "(281) 592-0503",
+    "website": "http://www.riveraggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af2c6f7f-f551-462e-94d7-7d4997b2a821",
+    "confidence": 0.663,
+    "merged_records": 1
+  }
+}

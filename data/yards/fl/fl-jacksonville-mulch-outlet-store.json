@@ -1,0 +1,36 @@
+{
+  "id": "fl-jacksonville-mulch-outlet-store",
+  "slug": "mulch-outlet-store",
+  "name": "Mulch Outlet Store",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2480 Lane Ave N",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32254"
+  },
+  "location": {
+    "lat": 30.35314,
+    "lng": -81.754219
+  },
+  "contact": {
+    "phone": "(904) 374-2678",
+    "website": "https://www.mulchmfg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d6ef0e0d-fd82-42ac-a3d2-f47187f5b967",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

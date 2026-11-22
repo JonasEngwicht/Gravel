@@ -1,0 +1,36 @@
+{
+  "id": "ma-south-grafton-d-and-d-mulch-and-landscape",
+  "slug": "d-and-d-mulch-and-landscape",
+  "name": "D&D Mulch and Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "281 Providence Rd",
+    "city": "South Grafton",
+    "state": "MA",
+    "zip": "01560"
+  },
+  "location": {
+    "lat": 42.177105,
+    "lng": -71.681313
+  },
+  "contact": {
+    "phone": "(508) 839-4721",
+    "website": "https://www.ddmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4064ff4f-c2d5-44be-87c4-25aa4ccdc58e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

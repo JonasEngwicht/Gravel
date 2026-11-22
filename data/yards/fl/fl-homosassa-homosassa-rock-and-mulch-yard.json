@@ -1,0 +1,36 @@
+{
+  "id": "fl-homosassa-homosassa-rock-and-mulch-yard",
+  "slug": "homosassa-rock-and-mulch-yard",
+  "name": "Homosassa Rock and Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7289 W Grover Cleveland Blvd",
+    "city": "Homosassa",
+    "state": "FL",
+    "zip": "34446"
+  },
+  "location": {
+    "lat": 28.804144,
+    "lng": -82.555168
+  },
+  "contact": {
+    "phone": "(352) 765-3758",
+    "website": "https://www.chronicleonline.com/marketplace/agriculture/agricultural_crops_services/ornamental_nursery_products/homosassa-mulch-and-rock-yard/business_2936959285.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "57615cd0-9830-4c5f-80e8-cb33b54c0172",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

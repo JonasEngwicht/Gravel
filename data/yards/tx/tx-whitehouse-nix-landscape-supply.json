@@ -1,0 +1,36 @@
+{
+  "id": "tx-whitehouse-nix-landscape-supply",
+  "slug": "nix-landscape-supply",
+  "name": "Nix Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14651 TX-110",
+    "city": "Whitehouse",
+    "state": "TX",
+    "zip": "75791"
+  },
+  "location": {
+    "lat": 32.266541,
+    "lng": -95.24028
+  },
+  "contact": {
+    "phone": "(903) 581-9400",
+    "website": "http://nixlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d58ee32-e527-49d0-9770-78910638f71f",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

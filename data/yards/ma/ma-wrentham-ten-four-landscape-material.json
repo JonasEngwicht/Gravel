@@ -1,0 +1,36 @@
+{
+  "id": "ma-wrentham-ten-four-landscape-material",
+  "slug": "ten-four-landscape-material",
+  "name": "Ten Four Landscape Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "26 Industrial Rd",
+    "city": "Wrentham",
+    "state": "MA",
+    "zip": "02093"
+  },
+  "location": {
+    "lat": 42.075809,
+    "lng": -71.360588
+  },
+  "contact": {
+    "phone": "(508) 505-5416",
+    "website": "http://www.tenfournursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "242ce34a-4ac5-42de-9701-bffc963037b7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

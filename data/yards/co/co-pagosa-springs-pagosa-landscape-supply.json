@@ -1,0 +1,36 @@
+{
+  "id": "co-pagosa-springs-pagosa-landscape-supply",
+  "slug": "pagosa-landscape-supply",
+  "name": "Pagosa Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "38 Vista Blvd # C",
+    "city": "Pagosa Springs",
+    "state": "CO",
+    "zip": "81147"
+  },
+  "location": {
+    "lat": 37.248333,
+    "lng": -107.089684
+  },
+  "contact": {
+    "phone": "(970) 731-1303",
+    "website": "http://pagosasupply.com/supply"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3d4a392c-f46f-46ae-9efc-68ec16a7fec3",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-magnolia-1488-mulch-yard",
+  "slug": "1488-mulch-yard",
+  "name": "1488 Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9802 Fm 1488 Rd",
+    "city": "Magnolia",
+    "state": "TX",
+    "zip": "77354"
+  },
+  "location": {
+    "lat": 30.221962,
+    "lng": -95.619797
+  },
+  "contact": {
+    "phone": "(281) 252-4651"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e717f5c-7ed4-4fc4-828e-27baaa743d61",
+    "confidence": 0.924,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ia-waukee-mulch-mart",
+  "slug": "mulch-mart",
+  "name": "Mulch Mart",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "125 N 10th St",
+    "city": "Waukee",
+    "state": "IA",
+    "zip": "50263"
+  },
+  "location": {
+    "lat": 41.611935,
+    "lng": -93.884712
+  },
+  "contact": {
+    "phone": "(515) 978-6852",
+    "website": "http://www.mulchmartofiowa.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6e1d0029-7858-4cb7-8453-ee70f3796646",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

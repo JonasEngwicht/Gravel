@@ -1,0 +1,36 @@
+{
+  "id": "fl-north-fort-myers-bayshore-concrete-and-landscape-materials",
+  "slug": "bayshore-concrete-and-landscape-materials",
+  "name": "Bayshore Concrete & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8100 Bayshore Rd",
+    "city": "North Fort Myers",
+    "state": "FL",
+    "zip": "33917"
+  },
+  "location": {
+    "lat": 26.714766,
+    "lng": -81.823586
+  },
+  "contact": {
+    "phone": "(239) 543-3001",
+    "website": "http://www.bayshoreconcrete.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37e15ee0-a601-40b4-b4e1-56c2f9764acd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "fl-jacksonville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8618 Philips Hwy",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32256"
+  },
+  "location": {
+    "lat": 30.210989,
+    "lng": -81.580803
+  },
+  "contact": {
+    "phone": "(904) 880-0999",
+    "website": "https://www.siteone.com/en/store/21"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b14d883c-7743-46a7-a378-c3ef6b2a0a0e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

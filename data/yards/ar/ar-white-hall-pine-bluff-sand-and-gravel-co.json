@@ -1,0 +1,35 @@
+{
+  "id": "ar-white-hall-pine-bluff-sand-and-gravel-co",
+  "slug": "pine-bluff-sand-and-gravel-co",
+  "name": "Pine Bluff Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1501 Heartwood St",
+    "city": "White Hall",
+    "state": "AR",
+    "zip": "71602"
+  },
+  "location": {
+    "lat": 34.257366,
+    "lng": -92.088226
+  },
+  "contact": {
+    "phone": "(870) 534-7120"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "991c0c34-6b61-43a3-b8cf-ce8f6fc22d19",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

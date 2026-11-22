@@ -1,0 +1,36 @@
+{
+  "id": "wa-arlington-reece-aggregates-and-recycling",
+  "slug": "reece-aggregates-and-recycling",
+  "name": "Reece Aggregates and Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5802 Cemetery Rd",
+    "city": "Arlington",
+    "state": "WA",
+    "zip": "98223"
+  },
+  "location": {
+    "lat": 48.176556,
+    "lng": -122.153168
+  },
+  "contact": {
+    "phone": "(360) 403-7520",
+    "website": "https://reeceaggregatesandrecycling.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "338cae1d-d8ee-4948-903e-3340d5583086",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "az-peoria-south-west-sand-and-gravel-inc",
+  "slug": "south-west-sand-and-gravel-inc",
+  "name": "South West Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "27212 N 107th Ave",
+    "city": "Peoria",
+    "state": "AZ",
+    "zip": "85382"
+  },
+  "location": {
+    "lat": 33.730801,
+    "lng": -112.292923
+  },
+  "contact": {
+    "phone": "(623) 566-2020"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "98389fe8-2b05-4b2d-b58b-e5e78bab0258",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-wexford-wholesale-mulch-and-gravel",
+  "slug": "wholesale-mulch-and-gravel",
+  "name": "Wholesale Mulch & Gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "533B Rochester Road",
+    "city": "Wexford",
+    "state": "PA",
+    "zip": "15237"
+  },
+  "location": {
+    "lat": 40.53709,
+    "lng": -80.051285
+  },
+  "contact": {
+    "phone": "(412) 369-4704",
+    "website": "http://www.wholesalemulchandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74de3680-574c-4a26-b84f-1a3ce9e68ddb",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

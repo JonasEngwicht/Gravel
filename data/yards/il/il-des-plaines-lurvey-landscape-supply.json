@@ -1,0 +1,36 @@
+{
+  "id": "il-des-plaines-lurvey-landscape-supply",
+  "slug": "lurvey-landscape-supply",
+  "name": "Lurvey Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2550 Dempster St",
+    "city": "Des Plaines",
+    "state": "IL",
+    "zip": "60016"
+  },
+  "location": {
+    "lat": 42.0396,
+    "lng": -87.861115
+  },
+  "contact": {
+    "phone": "(847) 299-8333",
+    "website": "https://lurveys.com/retail/locations-hours/landscape-supply-des-plaines"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f3e03af-42ef-4b86-a886-d52e381d0bb4",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

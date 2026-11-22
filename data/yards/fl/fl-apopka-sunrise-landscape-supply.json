@@ -1,0 +1,35 @@
+{
+  "id": "fl-apopka-sunrise-landscape-supply",
+  "slug": "sunrise-landscape-supply",
+  "name": "Sunrise Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2916 Apopka Blvd",
+    "city": "Apopka",
+    "state": "FL",
+    "zip": "32703"
+  },
+  "location": {
+    "lat": 28.634174,
+    "lng": -81.454094
+  },
+  "contact": {
+    "phone": "(407) 299-3366"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42d228af-3258-4f8e-9f4b-914a5db5d63b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

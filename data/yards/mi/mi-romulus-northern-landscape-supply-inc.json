@@ -1,0 +1,35 @@
+{
+  "id": "mi-romulus-northern-landscape-supply-inc",
+  "slug": "northern-landscape-supply-inc",
+  "name": "Northern Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6656 Beverly Plz",
+    "city": "Romulus",
+    "state": "MI",
+    "zip": "48174"
+  },
+  "location": {
+    "lat": 42.256542,
+    "lng": -83.335236
+  },
+  "contact": {
+    "phone": "(734) 595-4800"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "24fa2de8-28c1-4637-8aee-935106d8913b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

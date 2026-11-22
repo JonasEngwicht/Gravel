@@ -1,0 +1,36 @@
+{
+  "id": "ky-madisonville-madisonville-sand-and-gravel-inc",
+  "slug": "madisonville-sand-and-gravel-inc",
+  "name": "Madisonville Sand And Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "510 McCoy Ave",
+    "city": "Madisonville",
+    "state": "KY",
+    "zip": "42431"
+  },
+  "location": {
+    "lat": 37.32122,
+    "lng": -87.494392
+  },
+  "contact": {
+    "phone": "(270) 825-4677",
+    "website": "https://madisonville-sand-and-gravel-inc.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa4d9ef1-1903-4ce1-8249-8af4881a591e",
+    "confidence": 0.968,
+    "merged_records": 1
+  }
+}

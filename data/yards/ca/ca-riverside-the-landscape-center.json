@@ -1,0 +1,36 @@
+{
+  "id": "ca-riverside-the-landscape-center",
+  "slug": "the-landscape-center",
+  "name": "The Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2651 Gratton St",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92504"
+  },
+  "location": {
+    "lat": 33.901394,
+    "lng": -117.432549
+  },
+  "contact": {
+    "phone": "(951) 352-8383",
+    "website": "http://www.tlcnurseries.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f57c9136-b9db-4cfc-b19c-47355b3e75d4",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

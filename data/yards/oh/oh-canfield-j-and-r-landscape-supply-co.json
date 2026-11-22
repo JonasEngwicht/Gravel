@@ -1,0 +1,35 @@
+{
+  "id": "oh-canfield-j-and-r-landscape-supply-co",
+  "slug": "j-and-r-landscape-supply-co",
+  "name": "J and R Landscape Supply Co",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7400 Akron Canfield Rd",
+    "city": "Canfield",
+    "state": "OH",
+    "zip": "44406"
+  },
+  "location": {
+    "lat": 41.025341,
+    "lng": -80.7892
+  },
+  "contact": {
+    "phone": "(330) 533-2743"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d8360bd3-f6cf-4e11-b99c-3c71b8bcc1d3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-carlsbad-stone-depot-and-more",
+  "slug": "stone-depot-and-more",
+  "name": "Stone Depot & More",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5245 Avenida Encinas",
+    "city": "Carlsbad",
+    "state": "CA",
+    "zip": "92008"
+  },
+  "location": {
+    "lat": 33.129391,
+    "lng": -117.328232
+  },
+  "contact": {
+    "phone": "(760) 744-2125",
+    "website": "https://www.stonedepotca.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "18481d07-7022-4154-b480-1ccd244d91ee",
+    "confidence": 0.946,
+    "merged_records": 1
+  }
+}

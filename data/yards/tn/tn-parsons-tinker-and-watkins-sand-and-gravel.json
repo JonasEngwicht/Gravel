@@ -1,0 +1,35 @@
+{
+  "id": "tn-parsons-tinker-and-watkins-sand-and-gravel",
+  "slug": "tinker-and-watkins-sand-and-gravel",
+  "name": "Tinker & Watkins Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1340 Perryville Rd",
+    "city": "Parsons",
+    "state": "TN",
+    "zip": "38363"
+  },
+  "location": {
+    "lat": 35.619061,
+    "lng": -88.041954
+  },
+  "contact": {
+    "phone": "(731) 847-3311"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c465e5b-4f38-41aa-bda1-b0959c4437f5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

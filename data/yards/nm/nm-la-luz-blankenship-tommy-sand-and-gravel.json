@@ -1,0 +1,47 @@
+{
+  "id": "nm-la-luz-blankenship-tommy-sand-and-gravel",
+  "slug": "blankenship-tommy-sand-and-gravel",
+  "name": "Blankenship Tommy Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "177 Griffin Rd",
+    "city": "La-Luz",
+    "state": "NM",
+    "zip": "88337"
+  },
+  "location": {
+    "lat": 32.990932,
+    "lng": -105.958954
+  },
+  "contact": {
+    "phone": "(575) 404-7667"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5aeafe7b-fd7f-425b-9c1f-c9adee2da82f",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2901986",
+      "name": "R D Blankenship Dirt Work Llc",
+      "operator": "R D Blankenship Dirt Work LLC",
+      "status": "Active",
+      "status_since": "1990-04-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

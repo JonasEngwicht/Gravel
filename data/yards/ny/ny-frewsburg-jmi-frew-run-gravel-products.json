@@ -1,0 +1,48 @@
+{
+  "id": "ny-frewsburg-jmi-frew-run-gravel-products",
+  "slug": "jmi-frew-run-gravel-products",
+  "name": "Jmi Frew Run Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1060 Frew Run Rd",
+    "city": "Frewsburg",
+    "state": "NY",
+    "zip": "14738"
+  },
+  "location": {
+    "lat": 42.040421,
+    "lng": -79.129677
+  },
+  "contact": {
+    "phone": "(716) 569-4712",
+    "website": "https://www.jamestownmacadam.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7a3bb29-9aa7-4774-877e-3a6643340b07",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3002865",
+      "name": "Frew Run Aggregates",
+      "operator": "Jamestown Macadam Inc",
+      "status": "Active",
+      "status_since": "2022-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

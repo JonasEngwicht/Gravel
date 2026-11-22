@@ -1,0 +1,36 @@
+{
+  "id": "ny-westbury-stasi-wholesale-stone-supply",
+  "slug": "stasi-wholesale-stone-supply",
+  "name": "Stasi Wholesale Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "422 Maple Ave Unit 1",
+    "city": "Westbury",
+    "state": "NY",
+    "zip": "11590"
+  },
+  "location": {
+    "lat": 40.756088,
+    "lng": -73.584175
+  },
+  "contact": {
+    "phone": "(516) 997-1988",
+    "website": "http://stasibrothers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a562ed9b-391a-4eac-bc2d-d610f0a344c0",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

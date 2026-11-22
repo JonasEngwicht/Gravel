@@ -1,0 +1,37 @@
+{
+  "id": "ca-gilroy-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7110 Alexander St",
+    "city": "Gilroy",
+    "state": "CA",
+    "zip": "95020"
+  },
+  "location": {
+    "lat": 37.003063,
+    "lng": -121.564056
+  },
+  "contact": {
+    "phone": "(408) 847-8793",
+    "website": "https://www.siteone.com/store/153"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "99c428e7-3108-4d47-aa83-3b0d4633b66d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

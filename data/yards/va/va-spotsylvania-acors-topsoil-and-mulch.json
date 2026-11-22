@@ -1,0 +1,36 @@
+{
+  "id": "va-spotsylvania-acors-topsoil-and-mulch",
+  "slug": "acors-topsoil-and-mulch",
+  "name": "Acors Topsoil & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6601 Macklin Dr",
+    "city": "Spotsylvania",
+    "state": "VA",
+    "zip": "22553"
+  },
+  "location": {
+    "lat": 38.235977,
+    "lng": -77.559166
+  },
+  "contact": {
+    "phone": "(540) 891-2431",
+    "website": "http://www.acorstopsoilandmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "247ca34a-01dc-42bd-9df3-613a4ab40bfb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

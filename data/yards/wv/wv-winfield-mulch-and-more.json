@@ -1,0 +1,36 @@
+{
+  "id": "wv-winfield-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch&more",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4643 Winfield Rd",
+    "city": "Winfield",
+    "state": "WV",
+    "zip": "25213"
+  },
+  "location": {
+    "lat": 38.541546,
+    "lng": -81.956879
+  },
+  "contact": {
+    "phone": "(304) 586-2659",
+    "website": "http://www.mulchmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5dfa1cbb-4333-475d-bbcc-14625de5a08f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

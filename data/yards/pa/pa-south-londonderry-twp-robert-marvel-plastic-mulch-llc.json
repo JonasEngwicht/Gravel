@@ -1,0 +1,36 @@
+{
+  "id": "pa-south-londonderry-twp-robert-marvel-plastic-mulch-llc",
+  "slug": "robert-marvel-plastic-mulch-llc",
+  "name": "Robert Marvel Plastic Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2425 Horseshoe Pike",
+    "city": "South Londonderry Twp",
+    "state": "PA",
+    "zip": "17078"
+  },
+  "location": {
+    "lat": 40.28064,
+    "lng": -76.563766
+  },
+  "contact": {
+    "phone": "(717) 838-0976",
+    "website": "https://www.robertmarvel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7013b43f-0407-44af-8ac6-dfd9ccfac428",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

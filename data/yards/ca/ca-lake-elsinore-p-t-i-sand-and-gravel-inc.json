@@ -1,0 +1,36 @@
+{
+  "id": "ca-lake-elsinore-p-t-i-sand-and-gravel-inc",
+  "slug": "p-t-i-sand-and-gravel-inc",
+  "name": "P.T.I. Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "28737 Highway 74",
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "zip": "92532"
+  },
+  "location": {
+    "lat": 33.704166,
+    "lng": -117.326241
+  },
+  "contact": {
+    "phone": "(951) 272-0140",
+    "website": "http://www.ptisag.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d383db5d-3e62-4d84-ac1c-3db3a66a5175",
+    "confidence": 0.687,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-aurora-best-firewood-and-mulch",
+  "slug": "best-firewood-and-mulch",
+  "name": "Best Firewood and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1955 E New York St",
+    "city": "Aurora",
+    "state": "IL",
+    "zip": "60502"
+  },
+  "location": {
+    "lat": 41.759514,
+    "lng": -88.26796
+  },
+  "contact": {
+    "phone": "(630) 851-3062",
+    "website": "http://www.bestfirewoodandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3036b501-00ea-44f7-84ba-b513956852c1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "md-harwood-harwood-landscaping-products",
+  "slug": "harwood-landscaping-products",
+  "name": "Harwood Landscaping Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4534 Old Solomons Island Rd",
+    "city": "Harwood",
+    "state": "MD",
+    "zip": "20776"
+  },
+  "location": {
+    "lat": 38.862896,
+    "lng": -76.618332
+  },
+  "contact": {
+    "phone": "(410) 867-1766",
+    "website": "http://www.harwoodstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "069a6105-2774-452c-9e65-10f442e37365",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

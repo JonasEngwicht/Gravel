@@ -1,0 +1,36 @@
+{
+  "id": "wv-petersburg-grant-couny-mulch",
+  "slug": "grant-couny-mulch",
+  "name": "Grant Couny Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "635 Highway 42",
+    "city": "Petersburg",
+    "state": "WV",
+    "zip": "26847"
+  },
+  "location": {
+    "lat": 38.992947,
+    "lng": -79.122925
+  },
+  "contact": {
+    "phone": "(304) 749-7451",
+    "website": "http://www.gcmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ae45a085-531c-40c7-b496-6f9cf2bf5440",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

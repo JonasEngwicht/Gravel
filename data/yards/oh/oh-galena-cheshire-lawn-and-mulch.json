@@ -1,0 +1,36 @@
+{
+  "id": "oh-galena-cheshire-lawn-and-mulch",
+  "slug": "cheshire-lawn-and-mulch",
+  "name": "Cheshire Lawn & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2399 Africa Rd",
+    "city": "Galena",
+    "state": "OH",
+    "zip": "43021"
+  },
+  "location": {
+    "lat": 40.238083,
+    "lng": -82.961906
+  },
+  "contact": {
+    "phone": "(740) 548-8100",
+    "website": "http://www.cheshiremarketpizza.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c6264858-cf45-45d3-b915-74a644fff78e",
+    "confidence": 0.585,
+    "merged_records": 1
+  }
+}

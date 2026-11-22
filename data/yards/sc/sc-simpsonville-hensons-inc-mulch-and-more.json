@@ -1,0 +1,36 @@
+{
+  "id": "sc-simpsonville-hensons-inc-mulch-and-more",
+  "slug": "hensons-inc-mulch-and-more",
+  "name": "HENSONS' INC. MULCH & MORE",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3679 S. INDUSTRIAL BLVD.",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29681"
+  },
+  "location": {
+    "lat": 34.710915,
+    "lng": -82.245071
+  },
+  "contact": {
+    "phone": "(864) 963-9330",
+    "website": "https://hensonsinc.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ca1eebe-bf1a-48d6-b84d-c468d4bbf3d4",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

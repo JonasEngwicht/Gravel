@@ -1,0 +1,58 @@
+{
+  "id": "pa-coplay-new-enterprise-stone-and-lime-co-inc-ormrod-aggregates",
+  "slug": "new-enterprise-stone-and-lime-co-inc-ormrod-aggregates",
+  "name": "New Enterprise Stone & Lime Co., Inc. -- Ormrod Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2500 Quarry St",
+    "city": "Coplay",
+    "state": "PA",
+    "zip": "18037"
+  },
+  "location": {
+    "lat": 40.665287,
+    "lng": -75.544739
+  },
+  "contact": {
+    "phone": "(800) 543-3860",
+    "website": "https://www.nesl.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "acc43bdd-f0bf-486b-b7af-2ae6b20b5186",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3600051",
+      "name": "Egypt Quarry",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Active",
+      "status_since": "2022-06-06",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    },
+    {
+      "mine_id": "3604646",
+      "name": "Ormrod Quarry",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Active",
+      "status_since": "2022-06-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 23
+    }
+  ]
+}

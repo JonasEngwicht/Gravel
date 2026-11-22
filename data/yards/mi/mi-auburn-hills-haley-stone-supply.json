@@ -1,0 +1,36 @@
+{
+  "id": "mi-auburn-hills-haley-stone-supply",
+  "slug": "haley-stone-supply",
+  "name": "Haley Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3600 Lapeer Rd",
+    "city": "Auburn Hills",
+    "state": "MI",
+    "zip": "48326"
+  },
+  "location": {
+    "lat": 42.694889,
+    "lng": -83.241577
+  },
+  "contact": {
+    "phone": "(248) 276-9300",
+    "website": "http://www.haleystone.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53fa20b8-f67a-4f2c-a3bf-2ecdc0a675c8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

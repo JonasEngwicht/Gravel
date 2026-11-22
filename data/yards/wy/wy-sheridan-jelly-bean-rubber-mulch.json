@@ -1,0 +1,36 @@
+{
+  "id": "wy-sheridan-jelly-bean-rubber-mulch",
+  "slug": "jelly-bean-rubber-mulch",
+  "name": "Jelly Bean Rubber Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "30 N Gould St",
+    "city": "Sheridan",
+    "state": "WY",
+    "zip": "82801"
+  },
+  "location": {
+    "lat": 44.797771,
+    "lng": -106.954956
+  },
+  "contact": {
+    "phone": "(877) 249-8818",
+    "website": "https://jellybeanrubbermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8bb40d76-390f-4411-a7fc-be128c9953df",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

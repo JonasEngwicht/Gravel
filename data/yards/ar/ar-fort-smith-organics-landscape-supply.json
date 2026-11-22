@@ -1,0 +1,35 @@
+{
+  "id": "ar-fort-smith-organics-landscape-supply",
+  "slug": "organics-landscape-supply",
+  "name": "Organics Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4800 Industrial Dr",
+    "city": "Fort Smith",
+    "state": "AR",
+    "zip": "72916"
+  },
+  "location": {
+    "lat": 35.32291,
+    "lng": -94.381195
+  },
+  "contact": {
+    "phone": "(479) 459-7211"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "38062725-1628-4af7-9fb4-a808761b78c2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

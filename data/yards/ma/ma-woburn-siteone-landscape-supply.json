@@ -1,0 +1,37 @@
+{
+  "id": "ma-woburn-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "21 Wheeling Ave",
+    "city": "Woburn",
+    "state": "MA",
+    "zip": "01801"
+  },
+  "location": {
+    "lat": 42.500801,
+    "lng": -71.141205
+  },
+  "contact": {
+    "phone": "(781) 938-6464",
+    "website": "https://www.siteone.com/store/111"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "88e347cd-9282-4e4d-a7bf-7083c208e3fe",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

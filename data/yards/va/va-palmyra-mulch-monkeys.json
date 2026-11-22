@@ -1,0 +1,36 @@
+{
+  "id": "va-palmyra-mulch-monkeys",
+  "slug": "mulch-monkeys",
+  "name": "Mulch Monkeys",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11 Garden Ln",
+    "city": "Palmyra",
+    "state": "VA",
+    "zip": "22963"
+  },
+  "location": {
+    "lat": 37.909214,
+    "lng": -78.347519
+  },
+  "contact": {
+    "phone": "(434) 589-1256",
+    "website": "http://www.mulchmonkeys.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "061444aa-7078-4795-97e2-340ceb5110eb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

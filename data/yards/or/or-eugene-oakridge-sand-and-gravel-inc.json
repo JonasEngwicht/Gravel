@@ -1,0 +1,36 @@
+{
+  "id": "or-eugene-oakridge-sand-and-gravel-inc",
+  "slug": "oakridge-sand-and-gravel-inc",
+  "name": "Oakridge Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2295 Coburg Rd Ste 105",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97401"
+  },
+  "location": {
+    "lat": 44.086624,
+    "lng": -123.066925
+  },
+  "contact": {
+    "phone": "(541) 636-4836",
+    "website": "https://oakridgesand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6051131a-799e-4976-b1d2-f637a354ef23",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

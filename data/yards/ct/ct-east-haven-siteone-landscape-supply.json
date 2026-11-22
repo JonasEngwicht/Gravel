@@ -1,0 +1,37 @@
+{
+  "id": "ct-east-haven-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10 Mill St",
+    "city": "East Haven",
+    "state": "CT",
+    "zip": "06512"
+  },
+  "location": {
+    "lat": 41.319946,
+    "lng": -72.851814
+  },
+  "contact": {
+    "phone": "(203) 467-6260",
+    "website": "https://www.siteone.com/en/store/604"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a0bba250-a8eb-4a50-9a08-c93e4972413f",
+    "confidence": 0.992,
+    "merged_records": 2
+  }
+}

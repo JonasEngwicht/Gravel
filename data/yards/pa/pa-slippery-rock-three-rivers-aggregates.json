@@ -1,0 +1,48 @@
+{
+  "id": "pa-slippery-rock-three-rivers-aggregates",
+  "slug": "three-rivers-aggregates",
+  "name": "Three Rivers Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "773 Reese Rd",
+    "city": "Slippery Rock",
+    "state": "PA",
+    "zip": "16057"
+  },
+  "location": {
+    "lat": 41.048996,
+    "lng": -80.149055
+  },
+  "contact": {
+    "phone": "(724) 530-2663",
+    "website": "http://threeriversaggs.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1428d6c7-4412-497e-8b09-dbee976430ca",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3607870",
+      "name": "Reese Road",
+      "operator": "Three Rivers Aggregate Holding LLC",
+      "status": "Active",
+      "status_since": "2022-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

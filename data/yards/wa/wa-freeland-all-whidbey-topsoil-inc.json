@@ -1,0 +1,36 @@
+{
+  "id": "wa-freeland-all-whidbey-topsoil-inc",
+  "slug": "all-whidbey-topsoil-inc",
+  "name": "All Whidbey Topsoil Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5690 Cameron Rd",
+    "city": "Freeland",
+    "state": "WA",
+    "zip": "98249"
+  },
+  "location": {
+    "lat": 48.004025,
+    "lng": -122.543282
+  },
+  "contact": {
+    "phone": "(360) 331-7645",
+    "website": "http://www.whidbeystopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0c731c54-7e7f-4557-8924-5db806d84095",
+    "confidence": 0.912,
+    "merged_records": 2
+  }
+}

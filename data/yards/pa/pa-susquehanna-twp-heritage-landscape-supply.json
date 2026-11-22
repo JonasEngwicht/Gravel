@@ -1,0 +1,37 @@
+{
+  "id": "pa-susquehanna-twp-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "4021 N 6th St",
+    "city": "Susquehanna Twp",
+    "state": "PA",
+    "zip": "17110"
+  },
+  "location": {
+    "lat": 40.31802,
+    "lng": -76.894478
+  },
+  "contact": {
+    "phone": "(717) 238-9730",
+    "website": "http://www.watsonsupplyinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4b982cbb-c510-438e-9952-ebf5009ca3a8",
+    "confidence": 0.976,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sd-hill-city-dakota-stone-mining-and-stone-supply",
+  "slug": "dakota-stone-mining-and-stone-supply",
+  "name": "Dakota Stone Mining & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "23863 Palmer Gulch Rd",
+    "city": "Hill City",
+    "state": "SD",
+    "zip": "57745"
+  },
+  "location": {
+    "lat": 43.945721,
+    "lng": -103.5261
+  },
+  "contact": {
+    "phone": "(605) 574-2760",
+    "website": "http://www.dakotastone.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c154bdde-433e-43c7-b888-10adbe6e5b21",
+    "confidence": 0.897,
+    "merged_records": 1
+  }
+}

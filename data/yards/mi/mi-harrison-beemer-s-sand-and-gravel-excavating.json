@@ -1,0 +1,36 @@
+{
+  "id": "mi-harrison-beemer-s-sand-and-gravel-excavating",
+  "slug": "beemer-s-sand-and-gravel-excavating",
+  "name": "Beemer's Sand & Gravel Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5527 E. Townline Lake Road",
+    "city": "Harrison",
+    "state": "MI",
+    "zip": "48625"
+  },
+  "location": {
+    "lat": 44.03191,
+    "lng": -84.737717
+  },
+  "contact": {
+    "phone": "(989) 539-3211",
+    "website": "https://www.beemerssand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d34f9d9d-b063-4d99-9f83-86353e01a274",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

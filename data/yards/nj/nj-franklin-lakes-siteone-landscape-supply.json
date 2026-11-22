@@ -1,0 +1,37 @@
+{
+  "id": "nj-franklin-lakes-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "779 Susquehanna Ave",
+    "city": "Franklin Lakes",
+    "state": "NJ",
+    "zip": "07417"
+  },
+  "location": {
+    "lat": 41.024029,
+    "lng": -74.204407
+  },
+  "contact": {
+    "phone": "(201) 560-1005",
+    "website": "https://www.siteone.com/store/144"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "56eaa2fb-1405-4579-90ff-29026686b84b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

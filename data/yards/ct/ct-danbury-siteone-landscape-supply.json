@@ -1,0 +1,37 @@
+{
+  "id": "ct-danbury-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "42 Old Ridgebury Rd 3",
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06810"
+  },
+  "location": {
+    "lat": 41.38382,
+    "lng": -73.514885
+  },
+  "contact": {
+    "phone": "(203) 207-5000",
+    "website": "https://www.siteone.com/store/954"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0a4761d7-6bf6-45cf-bc64-34b220336d06",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-kissimmee-landscape-products",
+  "slug": "landscape-products",
+  "name": "Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1045 Garden St",
+    "city": "Kissimmee",
+    "state": "FL",
+    "zip": "34744"
+  },
+  "location": {
+    "lat": 28.335989,
+    "lng": -81.394501
+  },
+  "contact": {
+    "phone": "(407) 932-0900",
+    "website": "https://www.landscapeproductsinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3447d8d6-ef3c-48a5-86f0-01d02ae4cfd2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

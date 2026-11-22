@@ -1,0 +1,35 @@
+{
+  "id": "ky-la-grange-louisville-mulch-and-stone",
+  "slug": "louisville-mulch-and-stone",
+  "name": "Louisville Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2800 Interior Way",
+    "city": "La Grange",
+    "state": "KY",
+    "zip": "40031"
+  },
+  "location": {
+    "lat": 38.386192,
+    "lng": -85.416565
+  },
+  "contact": {
+    "phone": "(502) 222-4545"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "324a5b33-6c11-4bbd-8362-afd245b4963b",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

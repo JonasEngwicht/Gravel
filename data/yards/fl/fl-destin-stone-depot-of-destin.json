@@ -1,0 +1,35 @@
+{
+  "id": "fl-destin-stone-depot-of-destin",
+  "slug": "stone-depot-of-destin",
+  "name": "Stone Depot Of Destin",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "160 Azalea Dr",
+    "city": "Destin",
+    "state": "FL",
+    "zip": "32541"
+  },
+  "location": {
+    "lat": 30.39716,
+    "lng": -86.504395
+  },
+  "contact": {
+    "phone": "(850) 650-7625"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c2462ad-7af0-42e3-8ac0-830ad5e47e18",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

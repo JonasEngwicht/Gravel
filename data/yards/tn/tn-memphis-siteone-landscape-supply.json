@@ -1,0 +1,37 @@
+{
+  "id": "tn-memphis-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5970 Macon Cv",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38134"
+  },
+  "location": {
+    "lat": 35.16291,
+    "lng": -89.864357
+  },
+  "contact": {
+    "phone": "(901) 373-6164",
+    "website": "https://www.siteone.com/store/59"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "275a5768-7433-499c-a074-cae0c87e3622",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

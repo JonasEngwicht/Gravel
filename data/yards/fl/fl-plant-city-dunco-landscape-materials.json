@@ -1,0 +1,35 @@
+{
+  "id": "fl-plant-city-dunco-landscape-materials",
+  "slug": "dunco-landscape-materials",
+  "name": "Dunco Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3115 Sammonds Road",
+    "city": "Plant City",
+    "state": "FL",
+    "zip": "33563"
+  },
+  "location": {
+    "lat": 28.010365,
+    "lng": -82.155479
+  },
+  "contact": {
+    "phone": "(813) 752-7799"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a6c11c37-0824-44ce-9269-3e2f717d3dda",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

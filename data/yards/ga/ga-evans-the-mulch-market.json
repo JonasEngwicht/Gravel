@@ -1,0 +1,35 @@
+{
+  "id": "ga-evans-the-mulch-market",
+  "slug": "the-mulch-market",
+  "name": "The Mulch Market",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4674 Washington Rd",
+    "city": "Evans",
+    "state": "GA",
+    "zip": "30809"
+  },
+  "location": {
+    "lat": 33.554684,
+    "lng": -82.157745
+  },
+  "contact": {
+    "phone": "(706) 830-0127"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c72d6e83-9dc6-4160-bde8-f24f93b8208a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mo-new-florence-missouri-mulch",
+  "slug": "missouri-mulch",
+  "name": "Missouri Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "55 Stave Mill Rd",
+    "city": "New Florence",
+    "state": "MO",
+    "zip": "63363"
+  },
+  "location": {
+    "lat": 38.885193,
+    "lng": -91.453163
+  },
+  "contact": {
+    "phone": "(573) 252-2520",
+    "website": "http://www.missourimulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c17503b-e454-4fe4-be90-96e534dc2e7b",
+    "confidence": 0.585,
+    "merged_records": 1
+  }
+}

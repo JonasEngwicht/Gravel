@@ -1,0 +1,36 @@
+{
+  "id": "nc-mooresville-home-place-landscaping-supplies",
+  "slug": "home-place-landscaping-supplies",
+  "name": "Home Place Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "595 Fern Hill Rd",
+    "city": "Mooresville",
+    "state": "NC",
+    "zip": "28117"
+  },
+  "location": {
+    "lat": 35.651131,
+    "lng": -80.890747
+  },
+  "contact": {
+    "phone": "(704) 622-7561",
+    "website": "https://www.hplandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c65146eb-918d-497c-a367-75d8e0d68bf1",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

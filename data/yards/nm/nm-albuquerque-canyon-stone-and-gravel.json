@@ -1,0 +1,36 @@
+{
+  "id": "nm-albuquerque-canyon-stone-and-gravel",
+  "slug": "canyon-stone-and-gravel",
+  "name": "Canyon Stone and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9610 4th St NW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87114"
+  },
+  "location": {
+    "lat": 35.189774,
+    "lng": -106.616699
+  },
+  "contact": {
+    "phone": "(505) 315-7243",
+    "website": "https://canyonstonenm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d88091c-740b-4395-9bc7-9ff34cfebb44",
+    "confidence": 0.899,
+    "merged_records": 1
+  }
+}

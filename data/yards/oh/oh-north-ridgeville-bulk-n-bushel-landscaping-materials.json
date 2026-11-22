@@ -1,0 +1,36 @@
+{
+  "id": "oh-north-ridgeville-bulk-n-bushel-landscaping-materials",
+  "slug": "bulk-n-bushel-landscaping-materials",
+  "name": "Bulk-N-Bushel Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "33146 Center Ridge Rd",
+    "city": "North Ridgeville",
+    "state": "OH",
+    "zip": "44039"
+  },
+  "location": {
+    "lat": 41.405331,
+    "lng": -81.984062
+  },
+  "contact": {
+    "phone": "(440) 327-9728",
+    "website": "http://www.bulknbushel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7999f717-531d-43ce-b954-f19174cecec2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

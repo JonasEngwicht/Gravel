@@ -1,0 +1,36 @@
+{
+  "id": "wa-connell-connell-sand-and-gravel",
+  "slug": "connell-sand-and-gravel",
+  "name": "Connell Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "200 W Date St",
+    "city": "Connell",
+    "state": "WA",
+    "zip": "99326"
+  },
+  "location": {
+    "lat": 46.656906,
+    "lng": -118.86335
+  },
+  "contact": {
+    "phone": "(509) 234-3221",
+    "website": "http://newlawn.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af29f3a7-dfee-44da-a742-c4422d1a17d5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

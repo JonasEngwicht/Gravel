@@ -1,0 +1,48 @@
+{
+  "id": "wa-lacey-miles-sand-and-gravel",
+  "slug": "miles-sand-and-gravel",
+  "name": "Miles Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6538 Gravel Ln NE #1372",
+    "city": "Lacey",
+    "state": "WA",
+    "zip": "98516"
+  },
+  "location": {
+    "lat": 47.064743,
+    "lng": -122.794434
+  },
+  "contact": {
+    "phone": "(360) 491-7777",
+    "website": "http://www.milessandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aaaa1a54-ce2b-4398-a7e0-c7cb33568e81",
+    "confidence": 0.99,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4500670",
+      "name": "Lacey",
+      "operator": "Miles Sand & Gravel Company",
+      "status": "Active",
+      "status_since": "2020-04-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

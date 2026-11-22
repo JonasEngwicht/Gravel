@@ -1,0 +1,36 @@
+{
+  "id": "ca-yuba-city-the-rock-yard",
+  "slug": "the-rock-yard",
+  "name": "The Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "710 N George Washington Blvd",
+    "city": "Yuba City",
+    "state": "CA",
+    "zip": "95993"
+  },
+  "location": {
+    "lat": 39.135811,
+    "lng": -121.672134
+  },
+  "contact": {
+    "phone": "(530) 671-7625",
+    "website": "http://therockyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c97b9c4-f465-423c-b842-577ce5cda9c2",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

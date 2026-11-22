@@ -1,0 +1,48 @@
+{
+  "id": "ma-barnstable-cape-cod-aggregates-corp",
+  "slug": "cape-cod-aggregates-corp",
+  "name": "Cape Cod Aggregates Corp",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1550 Phinney's Ln",
+    "city": "Barnstable",
+    "state": "MA",
+    "zip": "02630"
+  },
+  "location": {
+    "lat": 41.681877,
+    "lng": -70.305336
+  },
+  "contact": {
+    "phone": "(508) 775-3716",
+    "website": "http://www.capecodagg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "25fb8e00-450c-4761-bbdf-a3df061af5b0",
+    "confidence": 0.978,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900321",
+      "name": "Hyannis Plant",
+      "operator": "Cape Cod Aggregates Corp",
+      "status": "Intermittent",
+      "status_since": "2024-12-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

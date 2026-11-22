@@ -1,0 +1,36 @@
+{
+  "id": "pa-rillton-earth-elements-landscape-supply",
+  "slug": "earth-elements-landscape-supply",
+  "name": "Earth Elements Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10799 Rillton Guffey Rd",
+    "city": "Rillton",
+    "state": "PA",
+    "zip": "15678"
+  },
+  "location": {
+    "lat": 40.285885,
+    "lng": -79.732231
+  },
+  "contact": {
+    "phone": "(724) 446-5296",
+    "website": "https://www.earthelementssupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d880b79a-67ab-43cd-91c7-604ca0f12180",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

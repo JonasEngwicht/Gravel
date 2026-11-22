@@ -1,0 +1,36 @@
+{
+  "id": "nc-kings-mountain-rivers-edge-landscape-supply",
+  "slug": "rivers-edge-landscape-supply",
+  "name": "Rivers Edge Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2186 County Line Rd",
+    "city": "Kings Mountain",
+    "state": "NC",
+    "zip": "28086"
+  },
+  "location": {
+    "lat": 35.329865,
+    "lng": -81.355904
+  },
+  "contact": {
+    "phone": "(704) 435-3757",
+    "website": "http://riversedgelandscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b611e7dc-81ba-45bc-8cba-ec7fd370200c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "fl-tampa-american-aggregates-llc",
+  "slug": "american-aggregates-llc",
+  "name": "American Aggregates, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4219 Maritime Blvd",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33605"
+  },
+  "location": {
+    "lat": 27.909327,
+    "lng": -82.437263
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c35772ef-0edb-4060-8ec3-7b031363537d",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-levittown-dynamic-stone-supply",
+  "slug": "dynamic-stone-supply",
+  "name": "Dynamic Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "310 Yardley Ave",
+    "city": "Levittown",
+    "state": "PA",
+    "zip": "19054"
+  },
+  "location": {
+    "lat": 40.192204,
+    "lng": -74.817558
+  },
+  "contact": {
+    "phone": "(302) 604-9189",
+    "website": "http://dynamicstonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0ac2ba5-e2b1-4024-8b1a-bbfa47f0212c",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

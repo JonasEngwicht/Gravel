@@ -1,0 +1,32 @@
+{
+  "id": "tx-houston-schooleys-landscape-material-company",
+  "slug": "schooleys-landscape-material-company",
+  "name": "Schooley’s Landscape Material Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3414 De Soto St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77091"
+  },
+  "location": {
+    "lat": 29.854736,
+    "lng": -95.458313
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb8d975e-3910-4eff-91f9-58f29575bee4",
+    "confidence": 0.559,
+    "merged_records": 1
+  }
+}

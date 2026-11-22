@@ -1,0 +1,36 @@
+{
+  "id": "ct-guilford-cmi-equipment-and-landscape-supply",
+  "slug": "cmi-equipment-and-landscape-supply",
+  "name": "CMI Equipment & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2392A Boston Post Rd",
+    "city": "Guilford",
+    "state": "CT",
+    "zip": "06437"
+  },
+  "location": {
+    "lat": 41.30769,
+    "lng": -72.721436
+  },
+  "contact": {
+    "phone": "(203) 287-1742",
+    "website": "https://cmiequipment.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d89e02b-5122-47d5-a094-055d1d6b1e71",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

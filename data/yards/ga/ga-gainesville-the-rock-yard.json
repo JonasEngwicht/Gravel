@@ -1,0 +1,36 @@
+{
+  "id": "ga-gainesville-the-rock-yard",
+  "slug": "the-rock-yard",
+  "name": "The Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2348 Monroe Dr",
+    "city": "Gainesville",
+    "state": "GA",
+    "zip": "30507"
+  },
+  "location": {
+    "lat": 34.268559,
+    "lng": -83.811584
+  },
+  "contact": {
+    "phone": "(770) 534-4040",
+    "website": "https://theROCKYARDinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abba4471-2a97-4510-9d37-c883d08b5a5f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

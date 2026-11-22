@@ -1,0 +1,37 @@
+{
+  "id": "ny-west-nyack-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "210 W Nyack Rd",
+    "city": "West Nyack",
+    "state": "NY",
+    "zip": "10994"
+  },
+  "location": {
+    "lat": 41.097095,
+    "lng": -73.995842
+  },
+  "contact": {
+    "phone": "(845) 627-0607",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5408f2e2-4c42-425c-88a4-24cb3d579ed7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

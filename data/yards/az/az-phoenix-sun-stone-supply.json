@@ -1,0 +1,36 @@
+{
+  "id": "az-phoenix-sun-stone-supply",
+  "slug": "sun-stone-supply",
+  "name": "Sun Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3232 W Virginia Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85009"
+  },
+  "location": {
+    "lat": 33.477077,
+    "lng": -112.129631
+  },
+  "contact": {
+    "phone": "(602) 353-1618",
+    "website": "http://www.sunstoneus.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a4413cb4-7bba-4cf4-9a6d-41b3998542a5",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

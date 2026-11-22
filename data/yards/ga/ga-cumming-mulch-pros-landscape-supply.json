@@ -1,0 +1,36 @@
+{
+  "id": "ga-cumming-mulch-pros-landscape-supply",
+  "slug": "mulch-pros-landscape-supply",
+  "name": "Mulch Pros Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7404 Majors Rd",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30040"
+  },
+  "location": {
+    "lat": 34.154533,
+    "lng": -84.196243
+  },
+  "contact": {
+    "phone": "(678) 496-2743",
+    "website": "https://mulchpros.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "33191c3f-d14e-44f1-8062-a426ee047fee",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

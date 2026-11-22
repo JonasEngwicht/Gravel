@@ -1,0 +1,37 @@
+{
+  "id": "in-indianapolis-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "8420 Zionsville Rd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46268"
+  },
+  "location": {
+    "lat": 39.90839,
+    "lng": -86.263023
+  },
+  "contact": {
+    "phone": "(317) 595-5984",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "328848e1-e871-4e50-8eb1-0cd59d629231",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

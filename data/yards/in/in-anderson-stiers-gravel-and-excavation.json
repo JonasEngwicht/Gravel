@@ -1,0 +1,48 @@
+{
+  "id": "in-anderson-stiers-gravel-and-excavation",
+  "slug": "stiers-gravel-and-excavation",
+  "name": "Stiers Gravel & Excavation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4728 Alexandria Pike",
+    "city": "Anderson",
+    "state": "IN",
+    "zip": "46012"
+  },
+  "location": {
+    "lat": 40.17485,
+    "lng": -85.663818
+  },
+  "contact": {
+    "phone": "(765) 644-0267",
+    "website": "http://stiersgravelandexcavation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1f66d89a-cad2-4cae-9250-63cdcfd524b1",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202327",
+      "name": "Stanley Stiers Gravel",
+      "operator": "Stanley R. Stiers Enterprises L.L.C.",
+      "status": "Active",
+      "status_since": "2026-10-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

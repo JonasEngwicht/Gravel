@@ -1,0 +1,36 @@
+{
+  "id": "wi-milwaukee-advance-landscape-center-sod-mulch-and-topsoil",
+  "slug": "advance-landscape-center-sod-mulch-and-topsoil",
+  "name": "Advance Landscape Center, Sod, Mulch & Topsoil",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5970 S Howell Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53207"
+  },
+  "location": {
+    "lat": 42.93594,
+    "lng": -87.909103
+  },
+  "contact": {
+    "phone": "(414) 483-0299",
+    "website": "http://advance-landscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e215eb5c-5077-4671-8f1e-7ddcb1ceef06",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

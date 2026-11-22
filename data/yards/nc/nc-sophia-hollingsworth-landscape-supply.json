@@ -1,0 +1,36 @@
+{
+  "id": "nc-sophia-hollingsworth-landscape-supply",
+  "slug": "hollingsworth-landscape-supply",
+  "name": "Hollingsworth Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1972 Hollingsworth Farm Dr",
+    "city": "Sophia",
+    "state": "NC",
+    "zip": "27350"
+  },
+  "location": {
+    "lat": 35.823433,
+    "lng": -79.866188
+  },
+  "contact": {
+    "phone": "(336) 799-1922",
+    "website": "http://Hollingsworthlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c086bfa-8575-4fcc-9649-160d1d85fc5e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mi-brant-twp-everett-excavating-and-landscaping-supplies",
+  "slug": "everett-excavating-and-landscaping-supplies",
+  "name": "Everett Excavating & Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13906 M-52",
+    "city": "Brant Twp",
+    "state": "MI",
+    "zip": "48616"
+  },
+  "location": {
+    "lat": 43.216606,
+    "lng": -84.1698
+  },
+  "contact": {
+    "phone": "(989) 845-2259"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c831df3f-783c-44a6-b9da-59cadde69ec2",
+    "confidence": 0.973,
+    "merged_records": 1
+  }
+}

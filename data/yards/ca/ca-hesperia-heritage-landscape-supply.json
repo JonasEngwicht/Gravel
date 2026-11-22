@@ -1,0 +1,37 @@
+{
+  "id": "ca-hesperia-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "10930 I Ave",
+    "city": "Hesperia",
+    "state": "CA",
+    "zip": "92345"
+  },
+  "location": {
+    "lat": 34.44981,
+    "lng": -117.277733
+  },
+  "contact": {
+    "phone": "(760) 949-2733",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d5d2910-dd32-44ab-a856-6b5f751e1562",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

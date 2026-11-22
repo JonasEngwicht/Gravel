@@ -1,0 +1,36 @@
+{
+  "id": "il-summit-infinity-landscaping-supply",
+  "slug": "infinity-landscaping-supply",
+  "name": "Infinity Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5140 W Lawndale Ave",
+    "city": "Summit",
+    "state": "IL",
+    "zip": "60501"
+  },
+  "location": {
+    "lat": 41.797791,
+    "lng": -87.824181
+  },
+  "contact": {
+    "phone": "(708) 723-0334",
+    "website": "http://infinitylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1c541679-11f7-489a-97d6-2adb44fe0f73",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

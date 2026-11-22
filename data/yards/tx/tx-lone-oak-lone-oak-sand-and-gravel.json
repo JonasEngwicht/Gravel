@@ -1,0 +1,35 @@
+{
+  "id": "tx-lone-oak-lone-oak-sand-and-gravel",
+  "slug": "lone-oak-sand-and-gravel",
+  "name": "Lone Oak Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "300 US Highway 69 N",
+    "city": "Lone Oak",
+    "state": "TX",
+    "zip": "75453"
+  },
+  "location": {
+    "lat": 32.990887,
+    "lng": -95.934555
+  },
+  "contact": {
+    "phone": "(903) 268-9520"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "86dac810-b8f0-43e3-83c2-0808be96617a",
+    "confidence": 0.783,
+    "merged_records": 2
+  }
+}

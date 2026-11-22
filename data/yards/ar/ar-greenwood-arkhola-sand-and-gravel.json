@@ -1,0 +1,48 @@
+{
+  "id": "ar-greenwood-arkhola-sand-and-gravel",
+  "slug": "arkhola-sand-and-gravel",
+  "name": "Arkhola Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2118 Gate Nine Rd",
+    "city": "Greenwood",
+    "state": "AR",
+    "zip": "72936"
+  },
+  "location": {
+    "lat": 35.243088,
+    "lng": -94.318695
+  },
+  "contact": {
+    "phone": "(479) 996-4188",
+    "website": "http://www.seancook.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a6c09da-f617-44c4-b46a-af7bc8c84722",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0300429",
+      "name": "Jenny Lind Quarry",
+      "operator": "Arkhola",
+      "status": "Active",
+      "status_since": "2025-10-03",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

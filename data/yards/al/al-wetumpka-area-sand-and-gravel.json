@@ -1,0 +1,48 @@
+{
+  "id": "al-wetumpka-area-sand-and-gravel",
+  "slug": "area-sand-and-gravel",
+  "name": "Area Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "188 Redland Rd",
+    "city": "Wetumpka",
+    "state": "AL",
+    "zip": "36093"
+  },
+  "location": {
+    "lat": 32.460232,
+    "lng": -86.191582
+  },
+  "contact": {
+    "phone": "(334) 567-1850",
+    "website": "https://www.areasandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "46ce693c-a849-4972-8084-67cc78e121c6",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0103169",
+      "name": "Pecan Grove Plant",
+      "operator": "Area Sand & Gravel Inc",
+      "status": "Abandoned",
+      "status_since": "2010-03-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

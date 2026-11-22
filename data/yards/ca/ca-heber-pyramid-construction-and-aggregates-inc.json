@@ -1,0 +1,36 @@
+{
+  "id": "ca-heber-pyramid-construction-and-aggregates-inc",
+  "slug": "pyramid-construction-and-aggregates-inc",
+  "name": "Pyramid Construction And Aggregates, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "839 Dogwood Rd",
+    "city": "Heber",
+    "state": "CA",
+    "zip": "92249"
+  },
+  "location": {
+    "lat": 32.710789,
+    "lng": -115.534622
+  },
+  "contact": {
+    "phone": "(760) 337-5839",
+    "website": "http://www.pyramidca.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81e90eb7-ab13-49b9-b789-6353fb2053f8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

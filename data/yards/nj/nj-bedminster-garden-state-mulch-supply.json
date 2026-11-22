@@ -1,0 +1,36 @@
+{
+  "id": "nj-bedminster-garden-state-mulch-supply",
+  "slug": "garden-state-mulch-supply",
+  "name": "Garden State Mulch Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1225 US-206",
+    "city": "Bedminster",
+    "state": "NJ",
+    "zip": "07921"
+  },
+  "location": {
+    "lat": 40.672398,
+    "lng": -74.645332
+  },
+  "contact": {
+    "phone": "(908) 524-1234",
+    "website": "http://www.gardenstatemulchsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "013e98b6-d7a1-4d90-9edd-5dc01d5bcace",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

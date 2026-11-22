@@ -1,0 +1,37 @@
+{
+  "id": "wa-issaquah-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "720 1st Ave NE",
+    "city": "Issaquah",
+    "state": "WA",
+    "zip": "98027"
+  },
+  "location": {
+    "lat": 47.537949,
+    "lng": -122.032616
+  },
+  "contact": {
+    "phone": "(425) 557-3400",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "35266089-7dbd-4561-8942-e999c6c4cddb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

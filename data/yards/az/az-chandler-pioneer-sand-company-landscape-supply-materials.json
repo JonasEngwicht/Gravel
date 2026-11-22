@@ -1,0 +1,36 @@
+{
+  "id": "az-chandler-pioneer-sand-company-landscape-supply-materials",
+  "slug": "pioneer-sand-company-landscape-supply-materials",
+  "name": "Pioneer Sand Company - Landscape Supply Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11243 E Willis Rd",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85286"
+  },
+  "location": {
+    "lat": 33.282227,
+    "lng": -111.840935
+  },
+  "contact": {
+    "phone": "(480) 722-1800",
+    "website": "http://www.pioneersand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5594528b-f50f-4847-8053-7353bf63da58",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

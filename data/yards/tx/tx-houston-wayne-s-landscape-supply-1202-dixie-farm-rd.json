@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-wayne-s-landscape-supply-1202-dixie-farm-rd",
+  "slug": "wayne-s-landscape-supply-1202-dixie-farm-rd",
+  "name": "Wayne's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1202 Dixie Farm Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77089"
+  },
+  "location": {
+    "lat": 29.585173,
+    "lng": -95.18721
+  },
+  "contact": {
+    "phone": "(281) 484-2275",
+    "website": "http://www.wayneslandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ad58a39-c028-44c1-a3dd-23dd5a13b267",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

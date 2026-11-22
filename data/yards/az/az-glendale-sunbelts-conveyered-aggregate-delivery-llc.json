@@ -1,0 +1,35 @@
+{
+  "id": "az-glendale-sunbelts-conveyered-aggregate-delivery-llc",
+  "slug": "sunbelts-conveyered-aggregate-delivery-llc",
+  "name": "Sunbelts Conveyered Aggregate Delivery, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10923 W Northview Ave",
+    "city": "Glendale",
+    "state": "AZ",
+    "zip": "85307"
+  },
+  "location": {
+    "lat": 33.541767,
+    "lng": -112.295403
+  },
+  "contact": {
+    "phone": "(623) 935-7141"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8788c3c2-304f-4e57-b900-7ff64019273c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

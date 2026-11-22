@@ -1,0 +1,36 @@
+{
+  "id": "mt-livingston-fisher-sand-and-gravel",
+  "slug": "fisher-sand-and-gravel",
+  "name": "Fisher Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "Swingley Road",
+    "city": "Livingston",
+    "state": "MT",
+    "zip": "59047"
+  },
+  "location": {
+    "lat": 45.671974,
+    "lng": -110.502045
+  },
+  "contact": {
+    "phone": "(406) 222-6429",
+    "website": "http://fisherind.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "13737fef-b281-40f3-a854-66956017fd3a",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

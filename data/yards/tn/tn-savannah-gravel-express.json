@@ -1,0 +1,36 @@
+{
+  "id": "tn-savannah-gravel-express",
+  "slug": "gravel-express",
+  "name": "Gravel Express",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "Main Street",
+    "city": "Savannah",
+    "state": "TN",
+    "zip": "38372"
+  },
+  "location": {
+    "lat": 35.224926,
+    "lng": -88.249329
+  },
+  "contact": {
+    "phone": "(731) 607-9558",
+    "website": "http://gravelexpressllc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "46e33e8c-305d-447d-85c9-67521aa7e852",
+    "confidence": 0.953,
+    "merged_records": 1
+  }
+}

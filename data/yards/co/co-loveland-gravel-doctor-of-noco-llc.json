@@ -1,0 +1,36 @@
+{
+  "id": "co-loveland-gravel-doctor-of-noco-llc",
+  "slug": "gravel-doctor-of-noco-llc",
+  "name": "Gravel Doctor of NoCo LLC.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3162 Sanford Cir",
+    "city": "Loveland",
+    "state": "CO",
+    "zip": "80538"
+  },
+  "location": {
+    "lat": 40.426517,
+    "lng": -105.120529
+  },
+  "contact": {
+    "phone": "(970) 218-0163",
+    "website": "http://www.graveldoctornoco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ae9d4ff1-a453-4135-9772-b94b30985d29",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-asheville-asheville-mulch-yard",
+  "slug": "asheville-mulch-yard",
+  "name": "Asheville Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "326 Merrimon Avenue",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28801"
+  },
+  "location": {
+    "lat": 35.609955,
+    "lng": -82.554863
+  },
+  "contact": {
+    "phone": "(828) 484-8131",
+    "website": "http://www.ashevillemulchyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2978e217-cc22-4804-8465-74bc3d097994",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

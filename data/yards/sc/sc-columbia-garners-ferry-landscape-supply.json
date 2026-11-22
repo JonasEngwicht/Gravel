@@ -1,0 +1,36 @@
+{
+  "id": "sc-columbia-garners-ferry-landscape-supply",
+  "slug": "garners-ferry-landscape-supply",
+  "name": "Garners Ferry Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7726 Garners Ferry Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29209"
+  },
+  "location": {
+    "lat": 33.957626,
+    "lng": -80.932785
+  },
+  "contact": {
+    "phone": "(803) 783-4717",
+    "website": "http://www.garnersferry.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0eadd9a6-8ddf-4240-a49a-06be84e667af",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

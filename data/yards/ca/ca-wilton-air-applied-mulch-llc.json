@@ -1,0 +1,36 @@
+{
+  "id": "ca-wilton-air-applied-mulch-llc",
+  "slug": "air-applied-mulch-llc",
+  "name": "Air Applied Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10250 Badger Creek Ln",
+    "city": "Wilton",
+    "state": "CA",
+    "zip": "95693"
+  },
+  "location": {
+    "lat": 38.384731,
+    "lng": -121.247787
+  },
+  "contact": {
+    "phone": "(916) 529-1995",
+    "website": "http://www.airapplied.com/contact-us-916-529-1995.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5009971-ed44-4683-b8ae-87854b9adfff",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

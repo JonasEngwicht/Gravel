@@ -1,0 +1,36 @@
+{
+  "id": "id-meridian-busy-bee-sand-and-gravel-inc",
+  "slug": "busy-bee-sand-and-gravel-inc",
+  "name": "Busy Bee Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1320 S Black Cat Rd",
+    "city": "Meridian",
+    "state": "ID",
+    "zip": "83642"
+  },
+  "location": {
+    "lat": 43.590816,
+    "lng": -116.452759
+  },
+  "contact": {
+    "phone": "(208) 888-1011",
+    "website": "http://www.busybeesand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fdc332ea-d12e-4c0f-8c69-9c20e3e19f18",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

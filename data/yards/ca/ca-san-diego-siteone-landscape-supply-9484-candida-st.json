@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-diego-siteone-landscape-supply-9484-candida-st",
+  "slug": "siteone-landscape-supply-9484-candida-st",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "9484 Candida St",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92126"
+  },
+  "location": {
+    "lat": 32.895584,
+    "lng": -117.122292
+  },
+  "contact": {
+    "phone": "(858) 536-3470",
+    "website": "https://www.siteone.com/en/store/287"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a87a666-24a0-4c03-bfe2-2d53376fe52f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

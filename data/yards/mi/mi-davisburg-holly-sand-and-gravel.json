@@ -1,0 +1,48 @@
+{
+  "id": "mi-davisburg-holly-sand-and-gravel",
+  "slug": "holly-sand-and-gravel",
+  "name": "Holly Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16240 Tindall Rd",
+    "city": "Davisburg",
+    "state": "MI",
+    "zip": "48350"
+  },
+  "location": {
+    "lat": 42.788387,
+    "lng": -83.528603
+  },
+  "contact": {
+    "phone": "(248) 634-9471",
+    "website": "http://www.edwclevy.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb3410cd-c401-4f81-9c9e-fca1fdeffc0d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2000741",
+      "name": "Holly Sand and Gravel",
+      "operator": "Burroughs Materials Corp",
+      "status": "Active",
+      "status_since": "2012-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 21
+    }
+  ]
+}

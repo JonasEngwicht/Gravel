@@ -1,0 +1,35 @@
+{
+  "id": "co-carbondale-sopris-tree-and-landscape-supply",
+  "slug": "sopris-tree-and-landscape-supply",
+  "name": "Sopris Tree & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15450 Highway 82",
+    "city": "Carbondale",
+    "state": "CO",
+    "zip": "81623"
+  },
+  "location": {
+    "lat": 39.408852,
+    "lng": -107.160309
+  },
+  "contact": {
+    "phone": "(970) 963-6464"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c78e8aaa-4282-4f17-b5e6-e91ffed04c66",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "id-burley-aztec-gravel-and-excavation",
+  "slug": "aztec-gravel-and-excavation",
+  "name": "Aztec Gravel & Excavation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "530 south, Hwy 27",
+    "city": "Burley",
+    "state": "ID",
+    "zip": "83318"
+  },
+  "location": {
+    "lat": 42.455643,
+    "lng": -113.793663
+  },
+  "contact": {
+    "phone": "(208) 678-1222",
+    "website": "http://www.aztecgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c39af37c-bfa9-457d-a690-009193bd79d0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

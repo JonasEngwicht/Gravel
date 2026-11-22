@@ -1,0 +1,36 @@
+{
+  "id": "wi-two-rivers-badgerland-aggregates-llc",
+  "slug": "badgerland-aggregates-llc",
+  "name": "Badgerland Aggregates, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1322 33rd St",
+    "city": "Two Rivers",
+    "state": "WI",
+    "zip": "54241"
+  },
+  "location": {
+    "lat": 44.164326,
+    "lng": -87.566536
+  },
+  "contact": {
+    "phone": "(920) 657-1586",
+    "website": "http://badgerlandaggs.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "645f7cd3-d869-4ceb-8d55-8b80599e8c41",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ca-redding-chuck-wolf-sand-and-gravel",
+  "slug": "chuck-wolf-sand-and-gravel",
+  "name": "Chuck Wolf Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8790 Old Oregon Trl",
+    "city": "Redding",
+    "state": "CA",
+    "zip": "96002"
+  },
+  "location": {
+    "lat": 40.543377,
+    "lng": -122.295685
+  },
+  "contact": {
+    "phone": "(530) 945-3038",
+    "website": "http://chuckwolfsand-gravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "889e1b3a-85d6-4fe3-915d-61fb283c61cf",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405582",
+      "name": "Chuck Wolf Sand & Gravel",
+      "operator": "Chuck Wolf Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2006-04-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

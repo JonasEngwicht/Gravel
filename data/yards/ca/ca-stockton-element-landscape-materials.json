@@ -1,0 +1,36 @@
+{
+  "id": "ca-stockton-element-landscape-materials",
+  "slug": "element-landscape-materials",
+  "name": "Element Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3487 E Munford Ave",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95215"
+  },
+  "location": {
+    "lat": 37.929516,
+    "lng": -121.231537
+  },
+  "contact": {
+    "phone": "(209) 464-8701",
+    "website": "http://www.elementlandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2434df2a-2d8f-4077-8e32-956237aef029",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

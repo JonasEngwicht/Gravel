@@ -1,0 +1,47 @@
+{
+  "id": "nv-las-vegas-impact-sand-and-gravel",
+  "slug": "impact-sand-and-gravel",
+  "name": "Impact Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9325 S Jones Blvd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89139"
+  },
+  "location": {
+    "lat": 36.018578,
+    "lng": -115.227951
+  },
+  "contact": {
+    "phone": "(702) 851-9275"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5847731-897e-48a4-92b9-8b1e5a3ada57",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2602375",
+      "name": "Blue Diamond Crusher",
+      "operator": "Las Vegas Paving Corp",
+      "status": "Active",
+      "status_since": "2000-05-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 20
+    }
+  ]
+}

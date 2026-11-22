@@ -1,0 +1,36 @@
+{
+  "id": "oh-oakwood-savarino-brothers-garden-center-and-landscape-materials",
+  "slug": "savarino-brothers-garden-center-and-landscape-materials",
+  "name": "Savarino Brothers Garden Center & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "24670 Broadway Ave",
+    "city": "Oakwood",
+    "state": "OH",
+    "zip": "44146"
+  },
+  "location": {
+    "lat": 41.362694,
+    "lng": -81.505348
+  },
+  "contact": {
+    "phone": "(440) 439-5358",
+    "website": "http://savarinobrothers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df0291f4-6c92-4ae4-9bdd-c65534deaf70",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

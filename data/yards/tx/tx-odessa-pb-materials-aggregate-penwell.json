@@ -1,0 +1,36 @@
+{
+  "id": "tx-odessa-pb-materials-aggregate-penwell",
+  "slug": "pb-materials-aggregate-penwell",
+  "name": "PB Materials Aggregate - Penwell",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18200 I-20",
+    "city": "Odessa",
+    "state": "TX",
+    "zip": "79763"
+  },
+  "location": {
+    "lat": 31.764008,
+    "lng": -102.557655
+  },
+  "contact": {
+    "phone": "(432) 214-4110",
+    "website": "https://pb-materials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "91eb516c-d0f4-4270-9840-b39009266332",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

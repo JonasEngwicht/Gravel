@@ -1,0 +1,35 @@
+{
+  "id": "wy-dubois-albright-sand-and-gravel-inc",
+  "slug": "albright-sand-and-gravel-inc",
+  "name": "Albright Sand & Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9710 4619 US-26",
+    "city": "Dubois",
+    "state": "WY",
+    "zip": "82513"
+  },
+  "location": {
+    "lat": 43.599182,
+    "lng": -109.787025
+  },
+  "contact": {
+    "phone": "(307) 455-2346"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdfd4439-cdd1-4a5b-87e2-a8ce74c04bcd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

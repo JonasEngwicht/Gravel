@@ -1,0 +1,36 @@
+{
+  "id": "sc-ridgeland-bella-mulch",
+  "slug": "bella-mulch",
+  "name": "Bella Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "385 Schinger Ave",
+    "city": "Ridgeland",
+    "state": "SC",
+    "zip": "29936"
+  },
+  "location": {
+    "lat": 32.322506,
+    "lng": -80.939903
+  },
+  "contact": {
+    "phone": "(843) 593-8180",
+    "website": "https://bellamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8b67a1af-3d49-4822-b5fe-32610abe2c9d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

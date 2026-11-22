@@ -1,0 +1,37 @@
+{
+  "id": "va-norfolk-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1147 Harmony Rd",
+    "city": "Norfolk",
+    "state": "VA",
+    "zip": "23502"
+  },
+  "location": {
+    "lat": 36.860882,
+    "lng": -76.219009
+  },
+  "contact": {
+    "phone": "(757) 461-7661",
+    "website": "https://www.siteone.com/store/484"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64631534-9e06-44aa-a66d-c4d27eec54ed",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

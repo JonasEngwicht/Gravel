@@ -1,0 +1,35 @@
+{
+  "id": "mo-perryville-d-s-firewood-and-mulch",
+  "slug": "d-s-firewood-and-mulch",
+  "name": "D's Firewood & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2319 Pcr 704",
+    "city": "Perryville",
+    "state": "MO",
+    "zip": "63775"
+  },
+  "location": {
+    "lat": 37.705627,
+    "lng": -89.918159
+  },
+  "contact": {
+    "phone": "(573) 768-9962"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "80b2bec1-e17f-4d7d-bd69-37fff3a2515f",
+    "confidence": 0.841,
+    "merged_records": 1
+  }
+}

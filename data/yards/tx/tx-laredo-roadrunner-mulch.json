@@ -1,0 +1,36 @@
+{
+  "id": "tx-laredo-roadrunner-mulch",
+  "slug": "roadrunner-mulch",
+  "name": "Roadrunner Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14408 Investment Ave",
+    "city": "Laredo",
+    "state": "TX",
+    "zip": "78045"
+  },
+  "location": {
+    "lat": 27.626518,
+    "lng": -99.533012
+  },
+  "contact": {
+    "phone": "(956) 251-4053",
+    "website": "http://www.roadrunnermulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "612f233a-af55-4149-bd41-68ff485b87b4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

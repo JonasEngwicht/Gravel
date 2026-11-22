@@ -1,0 +1,37 @@
+{
+  "id": "ks-olathe-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "15170 S Hamilton St Ste A",
+    "city": "Olathe",
+    "state": "KS",
+    "zip": "66062"
+  },
+  "location": {
+    "lat": 38.853054,
+    "lng": -94.811508
+  },
+  "contact": {
+    "phone": "(913) 780-3004",
+    "website": "https://www.siteone.com/en/store/45"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ee35cab-5bb2-48d3-b373-fea00c78b6e8",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

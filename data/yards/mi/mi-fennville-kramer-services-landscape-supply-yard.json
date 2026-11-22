@@ -1,0 +1,36 @@
+{
+  "id": "mi-fennville-kramer-services-landscape-supply-yard",
+  "slug": "kramer-services-landscape-supply-yard",
+  "name": "Kramer Services Landscape Supply Yard",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6802 124th Ave",
+    "city": "Fennville",
+    "state": "MI",
+    "zip": "49408"
+  },
+  "location": {
+    "lat": 42.593117,
+    "lng": -86.211876
+  },
+  "contact": {
+    "phone": "(269) 251-4943",
+    "website": "http://www.kramerservices.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ef1a450-b72c-468c-ba53-bdfb0304f598",
+    "confidence": 0.779,
+    "merged_records": 1
+  }
+}

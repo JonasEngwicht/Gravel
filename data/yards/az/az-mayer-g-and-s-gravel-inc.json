@@ -1,0 +1,36 @@
+{
+  "id": "az-mayer-g-and-s-gravel-inc",
+  "slug": "g-and-s-gravel-inc",
+  "name": "G & S Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11500 E Finley Rd",
+    "city": "Mayer",
+    "state": "AZ",
+    "zip": "86333"
+  },
+  "location": {
+    "lat": 34.428219,
+    "lng": -112.260696
+  },
+  "contact": {
+    "phone": "(928) 632-9359",
+    "website": "http://www.gsgravelinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8e0f3a7d-6319-4103-a140-74b8ed66b54f",
+    "confidence": 0.717,
+    "merged_records": 1
+  }
+}

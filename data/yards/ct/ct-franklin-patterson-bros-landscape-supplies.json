@@ -1,0 +1,35 @@
+{
+  "id": "ct-franklin-patterson-bros-landscape-supplies",
+  "slug": "patterson-bros-landscape-supplies",
+  "name": "Patterson Bros Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "828 CT-32",
+    "city": "Franklin",
+    "state": "CT",
+    "zip": "06254"
+  },
+  "location": {
+    "lat": 41.64249,
+    "lng": -72.161972
+  },
+  "contact": {
+    "phone": "(860) 705-4454"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7b0e88a-d5b6-4647-b1be-7cce9d3c180b",
+    "confidence": 0.532,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-burlington-cascade-stone-supply",
+  "slug": "cascade-stone-supply",
+  "name": "Cascade Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "712 N Hill Blvd",
+    "city": "Burlington",
+    "state": "WA",
+    "zip": "98233"
+  },
+  "location": {
+    "lat": 48.470749,
+    "lng": -122.335365
+  },
+  "contact": {
+    "phone": "(360) 757-8090",
+    "website": "https://cascadestonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27a4a136-fdb6-43b5-9dd1-74bf0c8461f6",
+    "confidence": 0.95,
+    "merged_records": 2
+  }
+}

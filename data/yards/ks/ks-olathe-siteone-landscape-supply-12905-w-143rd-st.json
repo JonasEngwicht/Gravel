@@ -1,0 +1,37 @@
+{
+  "id": "ks-olathe-siteone-landscape-supply-12905-w-143rd-st",
+  "slug": "siteone-landscape-supply-12905-w-143rd-st",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12905 W 143rd St",
+    "city": "Olathe",
+    "state": "KS",
+    "zip": "66062"
+  },
+  "location": {
+    "lat": 38.868374,
+    "lng": -94.735962
+  },
+  "contact": {
+    "phone": "(913) 897-7010",
+    "website": "https://www.siteone.com/store/367"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1a9e900-8c50-45d7-9159-6f55bc09c91e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

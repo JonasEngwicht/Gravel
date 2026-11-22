@@ -1,0 +1,36 @@
+{
+  "id": "il-sandwich-tri-county-landscape-supply",
+  "slug": "tri-county-landscape-supply",
+  "name": "Tri-County Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2600 E Church St",
+    "city": "Sandwich",
+    "state": "IL",
+    "zip": "60548"
+  },
+  "location": {
+    "lat": 41.648205,
+    "lng": -88.587463
+  },
+  "contact": {
+    "phone": "(815) 786-6852",
+    "website": "https://www.tri-countylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0dc35c58-1c11-4bb4-9100-99028e3dc292",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

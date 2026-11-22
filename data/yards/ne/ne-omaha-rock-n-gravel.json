@@ -1,0 +1,36 @@
+{
+  "id": "ne-omaha-rock-n-gravel",
+  "slug": "rock-n-gravel",
+  "name": "Rock N Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1941 S 42nd St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68105"
+  },
+  "location": {
+    "lat": 41.241314,
+    "lng": -95.975189
+  },
+  "contact": {
+    "phone": "(402) 502-8385",
+    "website": "http://www.rockngravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8002308a-e5ee-49b4-945f-1462841e389f",
+    "confidence": 0.626,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-indian-trail-andolina-landscaping-materials-indian-trail-nc",
+  "slug": "andolina-landscaping-materials-indian-trail-nc",
+  "name": "Andolina Landscaping Materials, Indian Trail NC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4300 Indian Trail Fairview Rd",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079"
+  },
+  "location": {
+    "lat": 35.087658,
+    "lng": -80.654182
+  },
+  "contact": {
+    "phone": "(704) 882-1610",
+    "website": "https://www.andolinamaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd0d5479-190c-49d8-8b8a-a93ebdcd0581",
+    "confidence": 0.911,
+    "merged_records": 1
+  }
+}

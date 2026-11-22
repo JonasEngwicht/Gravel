@@ -1,0 +1,37 @@
+{
+  "id": "ca-hayward-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "30132 Industrial Pkwy SW",
+    "city": "Hayward",
+    "state": "CA",
+    "zip": "94544"
+  },
+  "location": {
+    "lat": 37.608826,
+    "lng": -122.065689
+  },
+  "contact": {
+    "phone": "(510) 471-0755",
+    "website": "https://www.siteone.com/en/store/418"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ad547399-b9f7-44d8-a363-aed9ad02b865",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

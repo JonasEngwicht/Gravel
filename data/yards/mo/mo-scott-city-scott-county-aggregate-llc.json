@@ -1,0 +1,48 @@
+{
+  "id": "mo-scott-city-scott-county-aggregate-llc",
+  "slug": "scott-county-aggregate-llc",
+  "name": "Scott County Aggregate LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2200 E Outer Rd",
+    "city": "Scott City",
+    "state": "MO",
+    "zip": "63780"
+  },
+  "location": {
+    "lat": 37.228256,
+    "lng": -89.559387
+  },
+  "contact": {
+    "phone": "(573) 270-4942",
+    "website": "http://www.ScottCountyAggregateLLC.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "519ef3d9-b885-4494-acaa-9fce537f9610",
+    "confidence": 0.607,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2302459",
+      "name": "Colt Rock and Lime, LLC - Scott City",
+      "operator": "Colt Rock and Lime, LLC",
+      "status": "Intermittent",
+      "status_since": "2024-04-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

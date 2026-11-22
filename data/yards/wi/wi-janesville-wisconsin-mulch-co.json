@@ -1,0 +1,35 @@
+{
+  "id": "wi-janesville-wisconsin-mulch-co",
+  "slug": "wisconsin-mulch-co",
+  "name": "Wisconsin Mulch Co.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4332 E County Road O",
+    "city": "Janesville",
+    "state": "WI",
+    "zip": "53546"
+  },
+  "location": {
+    "lat": 42.663193,
+    "lng": -88.958199
+  },
+  "contact": {
+    "phone": "(608) 352-4472"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31b08b79-a191-4bd5-97a0-9e200cabae4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

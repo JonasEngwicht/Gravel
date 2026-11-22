@@ -1,0 +1,48 @@
+{
+  "id": "sc-graniteville-full-circle-aggregates",
+  "slug": "full-circle-aggregates",
+  "name": "Full Circle Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "581 Rainbow Falls Rd",
+    "city": "Graniteville",
+    "state": "SC",
+    "zip": "29829"
+  },
+  "location": {
+    "lat": 33.587143,
+    "lng": -81.878654
+  },
+  "contact": {
+    "phone": "(803) 809-4735",
+    "website": "http://www.fullcirclesand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "364d3aad-39b5-470e-9154-62c92e9d264b",
+    "confidence": 0.95,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3800747",
+      "name": "Full Circle Aggregates LLC",
+      "operator": "Full Circle Aggregates LLC",
+      "status": "Active",
+      "status_since": "2016-04-25",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

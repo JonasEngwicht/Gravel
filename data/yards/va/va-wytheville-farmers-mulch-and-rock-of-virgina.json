@@ -1,0 +1,35 @@
+{
+  "id": "va-wytheville-farmers-mulch-and-rock-of-virgina",
+  "slug": "farmers-mulch-and-rock-of-virgina",
+  "name": "Farmers Mulch & Rock of Virgina",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "212 E Lee Hwy",
+    "city": "Wytheville",
+    "state": "VA",
+    "zip": "24382"
+  },
+  "location": {
+    "lat": 36.945484,
+    "lng": -81.028023
+  },
+  "contact": {
+    "phone": "(276) 625-6018"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d0d13f6-0705-4aa4-860d-8fbe0761b149",
+    "confidence": 0.961,
+    "merged_records": 1
+  }
+}

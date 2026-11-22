@@ -1,0 +1,36 @@
+{
+  "id": "tn-maryville-out-of-eden-bulk-landscape-materials",
+  "slug": "out-of-eden-bulk-landscape-materials",
+  "name": "Out of Eden Bulk Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2928 US-411",
+    "city": "Maryville",
+    "state": "TN",
+    "zip": "37801"
+  },
+  "location": {
+    "lat": 35.709274,
+    "lng": -84.028656
+  },
+  "contact": {
+    "phone": "(865) 261-2377",
+    "website": "https://www.outofedengarden.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e17ec097-dc82-4913-b243-0e557e2ee1dc",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

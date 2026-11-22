@@ -1,0 +1,35 @@
+{
+  "id": "ga-leesburg-conyers-concrete-and-asphalt-rock-and-stone-yard",
+  "slug": "conyers-concrete-and-asphalt-rock-and-stone-yard",
+  "name": "Conyers Concrete and Asphalt Rock and Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1562 US-19 S",
+    "city": "Leesburg",
+    "state": "GA",
+    "zip": "31763"
+  },
+  "location": {
+    "lat": 31.631802,
+    "lng": -84.177032
+  },
+  "contact": {
+    "phone": "(229) 435-9874"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "99fca9b0-172e-484b-a6e9-452cee6d739e",
+    "confidence": 0.971,
+    "merged_records": 1
+  }
+}

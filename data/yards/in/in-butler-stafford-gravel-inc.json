@@ -1,0 +1,48 @@
+{
+  "id": "in-butler-stafford-gravel-inc",
+  "slug": "stafford-gravel-inc",
+  "name": "Stafford Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4225 County Road 79",
+    "city": "Butler",
+    "state": "IN",
+    "zip": "46721"
+  },
+  "location": {
+    "lat": 41.38269,
+    "lng": -84.810936
+  },
+  "contact": {
+    "phone": "(800) 354-5435",
+    "website": "https://staffordgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31645583-b74a-4966-b3b3-803d92803c40",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202451",
+      "name": "Stafford Gravel Inc",
+      "operator": "Stafford Gravel Inc",
+      "status": "Active",
+      "status_since": "2012-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

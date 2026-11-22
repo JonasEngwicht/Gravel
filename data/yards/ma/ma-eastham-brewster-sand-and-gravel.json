@@ -1,0 +1,36 @@
+{
+  "id": "ma-eastham-brewster-sand-and-gravel",
+  "slug": "brewster-sand-and-gravel",
+  "name": "Brewster Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2780 Nauset Rd",
+    "city": "Eastham",
+    "state": "MA",
+    "zip": "02642"
+  },
+  "location": {
+    "lat": 41.864788,
+    "lng": -69.982162
+  },
+  "contact": {
+    "phone": "(508) 255-0404",
+    "website": "https://brewstersandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dcccfda5-5f07-4495-a47b-4d225273cc31",
+    "confidence": 0.966,
+    "merged_records": 2
+  }
+}

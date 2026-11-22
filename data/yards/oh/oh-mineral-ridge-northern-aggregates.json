@@ -1,0 +1,36 @@
+{
+  "id": "oh-mineral-ridge-northern-aggregates",
+  "slug": "northern-aggregates",
+  "name": "Northern Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1311 Salt Springs Rd",
+    "city": "Mineral Ridge",
+    "state": "OH",
+    "zip": "44440"
+  },
+  "location": {
+    "lat": 41.161766,
+    "lng": -80.77137
+  },
+  "contact": {
+    "phone": "(330) 307-9524",
+    "website": "http://northernagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eff80441-826c-498d-85e1-95c85263cc58",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

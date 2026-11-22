@@ -1,0 +1,36 @@
+{
+  "id": "id-cascade-o-k-gravel-works-llc",
+  "slug": "o-k-gravel-works-llc",
+  "name": "O K Gravel Works LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11146 Highway 55",
+    "city": "Cascade",
+    "state": "ID",
+    "zip": "83611"
+  },
+  "location": {
+    "lat": 44.475277,
+    "lng": -115.998154
+  },
+  "contact": {
+    "phone": "(208) 271-6121",
+    "website": "http://Okgravelworks.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d668b65d-3331-45b0-b321-abd5359f5024",
+    "confidence": 0.855,
+    "merged_records": 1
+  }
+}

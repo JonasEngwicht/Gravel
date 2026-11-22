@@ -1,0 +1,36 @@
+{
+  "id": "wi-menomonee-falls-monsen-trucking-and-topsoil",
+  "slug": "monsen-trucking-and-topsoil",
+  "name": "Monsen Trucking & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "N56W16421 Silver Spring Dr",
+    "city": "Menomonee Falls",
+    "state": "WI",
+    "zip": "53051"
+  },
+  "location": {
+    "lat": 43.118137,
+    "lng": -88.116425
+  },
+  "contact": {
+    "phone": "(262) 252-3749",
+    "website": "http://Monsentopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a5124638-626b-4699-a391-dca0d578ab36",
+    "confidence": 0.864,
+    "merged_records": 1
+  }
+}

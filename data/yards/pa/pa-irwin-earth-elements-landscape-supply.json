@@ -1,0 +1,36 @@
+{
+  "id": "pa-irwin-earth-elements-landscape-supply",
+  "slug": "earth-elements-landscape-supply",
+  "name": "Earth Elements Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11340 Center Hwy",
+    "city": "Irwin",
+    "state": "PA",
+    "zip": "15642"
+  },
+  "location": {
+    "lat": 40.32951,
+    "lng": -79.731918
+  },
+  "contact": {
+    "phone": "(724) 590-5921",
+    "website": "http://earthelementssupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b449a09c-4197-4b9e-97f8-8dbb2f53efdf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

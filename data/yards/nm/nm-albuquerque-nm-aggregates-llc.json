@@ -1,0 +1,32 @@
+{
+  "id": "nm-albuquerque-nm-aggregates-llc",
+  "slug": "nm-aggregates-llc",
+  "name": "Nm Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5700 University Blvd Se Ste 310",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87106"
+  },
+  "location": {
+    "lat": 34.98756,
+    "lng": -106.61351
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a0bbf126-c073-4d6a-ab96-c39dae7072cb",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

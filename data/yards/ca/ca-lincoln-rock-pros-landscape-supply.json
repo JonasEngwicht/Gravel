@@ -1,0 +1,36 @@
+{
+  "id": "ca-lincoln-rock-pros-landscape-supply",
+  "slug": "rock-pros-landscape-supply",
+  "name": "Rock Pros Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2920 Lesvos Ct",
+    "city": "Lincoln",
+    "state": "CA",
+    "zip": "95648"
+  },
+  "location": {
+    "lat": 38.83947,
+    "lng": -121.326714
+  },
+  "contact": {
+    "phone": "(916) 409-5051",
+    "website": "http://www.rockproslandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "23e6f148-f4b1-44e1-aa03-54f0f4921720",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

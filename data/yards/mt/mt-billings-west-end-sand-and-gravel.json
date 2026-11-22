@@ -1,0 +1,36 @@
+{
+  "id": "mt-billings-west-end-sand-and-gravel",
+  "slug": "west-end-sand-and-gravel",
+  "name": "West End Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6848 Neibauer Rd",
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59106"
+  },
+  "location": {
+    "lat": 45.725529,
+    "lng": -108.692436
+  },
+  "contact": {
+    "phone": "(406) 208-9576",
+    "website": "http://westendsandandgravelinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d4735a36-f79f-42df-baa1-a1921df78f8f",
+    "confidence": 0.774,
+    "merged_records": 1
+  }
+}

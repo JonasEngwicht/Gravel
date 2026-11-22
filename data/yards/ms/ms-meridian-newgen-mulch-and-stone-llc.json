@@ -1,0 +1,35 @@
+{
+  "id": "ms-meridian-newgen-mulch-and-stone-llc",
+  "slug": "newgen-mulch-and-stone-llc",
+  "name": "NewGen Mulch & Stone LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "989 NE Industrial Park Rd",
+    "city": "Meridian",
+    "state": "MS",
+    "zip": "39301"
+  },
+  "location": {
+    "lat": 32.413456,
+    "lng": -88.632881
+  },
+  "contact": {
+    "phone": "(601) 482-1815"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b477ed5-1812-422a-a7cf-3d483d05e8b5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

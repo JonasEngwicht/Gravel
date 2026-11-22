@@ -1,0 +1,36 @@
+{
+  "id": "fl-jacksonville-mulch-man",
+  "slug": "mulch-man",
+  "name": "MULCH MAN",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8564 Normandy Blvd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32221"
+  },
+  "location": {
+    "lat": 30.288277,
+    "lng": -81.794373
+  },
+  "contact": {
+    "phone": "(904) 235-3186",
+    "website": "http://mulchmanflorida.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b891695-888a-4e6c-b288-32e968012eda",
+    "confidence": 0.852,
+    "merged_records": 1
+  }
+}

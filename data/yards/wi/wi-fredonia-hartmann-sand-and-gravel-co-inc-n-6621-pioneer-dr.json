@@ -1,0 +1,58 @@
+{
+  "id": "wi-fredonia-hartmann-sand-and-gravel-co-inc-n-6621-pioneer-dr",
+  "slug": "hartmann-sand-and-gravel-co-inc-n-6621-pioneer-dr",
+  "name": "Hartmann Sand & Gravel Co. Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "N. 6621 Pioneer Dr.",
+    "city": "Fredonia",
+    "state": "WI",
+    "zip": "53021"
+  },
+  "location": {
+    "lat": 43.517223,
+    "lng": -88.006676
+  },
+  "contact": {
+    "phone": "(262) 692-2252",
+    "website": "http://hartmannsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "76137d08-878a-483f-a4f8-7f2142c38b83",
+    "confidence": 0.982,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4700853",
+      "name": "Hartmann Pit",
+      "operator": "Hartmann Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2011-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    },
+    {
+      "mine_id": "4703488",
+      "name": "Grabinger Pit",
+      "operator": "Hartmann Sand & Gravel Company Inc",
+      "status": "Intermittent",
+      "status_since": "2020-06-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

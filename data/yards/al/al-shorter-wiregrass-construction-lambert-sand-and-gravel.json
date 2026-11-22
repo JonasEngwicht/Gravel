@@ -1,0 +1,48 @@
+{
+  "id": "al-shorter-wiregrass-construction-lambert-sand-and-gravel",
+  "slug": "wiregrass-construction-lambert-sand-and-gravel",
+  "name": "Wiregrass Construction - Lambert Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1552 Banks McDade Rd",
+    "city": "Shorter",
+    "state": "AL",
+    "zip": "36075"
+  },
+  "location": {
+    "lat": 32.400967,
+    "lng": -85.992981
+  },
+  "contact": {
+    "phone": "(334) 725-2255",
+    "website": "https://wiregrassconstruction.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "08d41c52-3cd0-4dc1-a9da-dad2e0770a8f",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0103363",
+      "name": "Lambert Materials",
+      "operator": "Wiregrass Construction Co., Inc.",
+      "status": "Active",
+      "status_since": "2007-10-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

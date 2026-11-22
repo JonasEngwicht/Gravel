@@ -1,0 +1,37 @@
+{
+  "id": "nc-apex-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12660 US 64 Hwy E",
+    "city": "Apex",
+    "state": "NC",
+    "zip": "27523"
+  },
+  "location": {
+    "lat": 35.738262,
+    "lng": -78.963661
+  },
+  "contact": {
+    "phone": "(919) 303-7290",
+    "website": "http://www.johndeerelandscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aeebd24d-5c80-42c4-b10f-047a701b1629",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

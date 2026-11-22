@@ -1,0 +1,36 @@
+{
+  "id": "ga-fort-valley-southern-accent-landscape-supply",
+  "slug": "southern-accent-landscape-supply",
+  "name": "Southern Accent Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1438 Housers Mill Rd",
+    "city": "Fort Valley",
+    "state": "GA",
+    "zip": "31030"
+  },
+  "location": {
+    "lat": 32.567284,
+    "lng": -83.752296
+  },
+  "contact": {
+    "phone": "(478) 333-6683",
+    "website": "http://www.southernaccentlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a447570-40ae-4ee1-8cd5-b5fde3767b04",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-wayland-rhino-seed-and-landscape-supply",
+  "slug": "rhino-seed-and-landscape-supply",
+  "name": "Rhino Seed & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1113 Electric Ave",
+    "city": "Wayland",
+    "state": "MI",
+    "zip": "49348"
+  },
+  "location": {
+    "lat": 42.767517,
+    "lng": -85.650978
+  },
+  "contact": {
+    "phone": "(269) 792-2242",
+    "website": "http://www.rhinoseed.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "03618f83-2945-4a7c-b018-e84a8287f8b3",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

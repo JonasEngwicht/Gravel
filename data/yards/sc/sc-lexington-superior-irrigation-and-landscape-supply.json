@@ -1,0 +1,37 @@
+{
+  "id": "sc-lexington-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "4668 Augusta Rd",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29073"
+  },
+  "location": {
+    "lat": 33.976227,
+    "lng": -81.176674
+  },
+  "contact": {
+    "phone": "(803) 573-5353",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/SILCOLU/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a505e71c-8829-4306-800a-9ccf17bd794a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

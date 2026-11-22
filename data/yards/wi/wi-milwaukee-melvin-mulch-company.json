@@ -1,0 +1,36 @@
+{
+  "id": "wi-milwaukee-melvin-mulch-company",
+  "slug": "melvin-mulch-company",
+  "name": "Melvin Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "240 E College Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53207"
+  },
+  "location": {
+    "lat": 42.930492,
+    "lng": -87.906982
+  },
+  "contact": {
+    "phone": "(414) 769-9663",
+    "website": "http://www.melvinmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c18478e-8a3a-48d1-a196-96265e23b0ac",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

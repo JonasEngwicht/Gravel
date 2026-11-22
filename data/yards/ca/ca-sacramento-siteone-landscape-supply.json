@@ -1,0 +1,37 @@
+{
+  "id": "ca-sacramento-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6901 Bradshaw Rd",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95829"
+  },
+  "location": {
+    "lat": 38.501656,
+    "lng": -121.332458
+  },
+  "contact": {
+    "phone": "(916) 366-3966",
+    "website": "https://www.siteone.com/store/322"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1cd76ac1-cfb4-48b1-b915-b42e28a1b754",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

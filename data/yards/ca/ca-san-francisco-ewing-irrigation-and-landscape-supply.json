@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-francisco-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "1618 Jerrold Ave",
+    "city": "San Francisco",
+    "state": "CA",
+    "zip": "94124"
+  },
+  "location": {
+    "lat": 37.739159,
+    "lng": -122.390038
+  },
+  "contact": {
+    "phone": "(415) 695-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "664cd919-cf63-45cb-bd83-648a5643be8a",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

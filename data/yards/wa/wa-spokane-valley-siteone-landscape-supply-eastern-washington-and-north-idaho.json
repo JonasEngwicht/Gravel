@@ -1,0 +1,37 @@
+{
+  "id": "wa-spokane-valley-siteone-landscape-supply-eastern-washington-and-north-idaho",
+  "slug": "siteone-landscape-supply-eastern-washington-and-north-idaho",
+  "name": "SiteOne Landscape Supply - Eastern Washington & North Idaho",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5901 E Sprague Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99212"
+  },
+  "location": {
+    "lat": 47.657433,
+    "lng": -117.325081
+  },
+  "contact": {
+    "phone": "(509) 467-0685",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd4d703d-cfcb-454c-914c-984291d50f34",
+    "confidence": 0.914,
+    "merged_records": 1
+  }
+}

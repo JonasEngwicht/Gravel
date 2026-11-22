@@ -1,0 +1,48 @@
+{
+  "id": "mt-eureka-kootenai-sand-and-gravel",
+  "slug": "kootenai-sand-and-gravel",
+  "name": "Kootenai Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "986 US Highway 93 N",
+    "city": "Eureka",
+    "state": "MT",
+    "zip": "59917"
+  },
+  "location": {
+    "lat": 48.897953,
+    "lng": -115.054039
+  },
+  "contact": {
+    "phone": "(406) 297-7635",
+    "website": "https://www.kootenaisandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "316f4045-bc50-4480-9b39-c4c90bfe5fa9",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2402443",
+      "name": "Wash Plant",
+      "operator": "Kootenai Sand & Gravel, Inc.",
+      "status": "Abandoned",
+      "status_since": "2024-11-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

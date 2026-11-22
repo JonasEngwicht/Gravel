@@ -1,0 +1,36 @@
+{
+  "id": "co-aurora-bighorn-landscape-materials",
+  "slug": "bighorn-landscape-materials",
+  "name": "Bighorn Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7721 S Parker Rd",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80016"
+  },
+  "location": {
+    "lat": 39.577637,
+    "lng": -104.793991
+  },
+  "contact": {
+    "phone": "(303) 690-5714",
+    "website": "http://www.bighornrocks.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82c66bc1-501b-4316-9e9e-27568aeed624",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

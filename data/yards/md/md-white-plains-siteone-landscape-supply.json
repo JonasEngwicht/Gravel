@@ -1,0 +1,37 @@
+{
+  "id": "md-white-plains-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10735 Demarr Rd",
+    "city": "White Plains",
+    "state": "MD",
+    "zip": "20695"
+  },
+  "location": {
+    "lat": 38.588604,
+    "lng": -76.940407
+  },
+  "contact": {
+    "phone": "(301) 374-2554",
+    "website": "https://www.siteone.com/en/store/771"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dfa9a2a4-9e93-47ba-91e6-682949ed311b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

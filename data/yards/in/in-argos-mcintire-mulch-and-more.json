@@ -1,0 +1,35 @@
+{
+  "id": "in-argos-mcintire-mulch-and-more",
+  "slug": "mcintire-mulch-and-more",
+  "name": "McIntire Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "209 Pond St",
+    "city": "Argos",
+    "state": "IN",
+    "zip": "46501"
+  },
+  "location": {
+    "lat": 41.233608,
+    "lng": -86.253624
+  },
+  "contact": {
+    "phone": "(574) 892-5637"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "faa0513c-7fad-458d-be47-3b496ef68440",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

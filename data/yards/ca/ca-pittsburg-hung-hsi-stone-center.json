@@ -1,0 +1,36 @@
+{
+  "id": "ca-pittsburg-hung-hsi-stone-center",
+  "slug": "hung-hsi-stone-center",
+  "name": "Hung Hsi Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "556 Clark Ave",
+    "city": "Pittsburg",
+    "state": "CA",
+    "zip": "94565"
+  },
+  "location": {
+    "lat": 38.012451,
+    "lng": -121.879562
+  },
+  "contact": {
+    "phone": "(415) 321-9633",
+    "website": "https://www.hunghsistore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8e0cab14-2e76-46e3-ac0e-676660d19b1e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

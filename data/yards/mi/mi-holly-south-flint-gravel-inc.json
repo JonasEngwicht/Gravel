@@ -1,0 +1,35 @@
+{
+  "id": "mi-holly-south-flint-gravel-inc",
+  "slug": "south-flint-gravel-inc",
+  "name": "South Flint Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6090 Belford Rd",
+    "city": "Holly",
+    "state": "MI",
+    "zip": "48442"
+  },
+  "location": {
+    "lat": 42.85133,
+    "lng": -83.586868
+  },
+  "contact": {
+    "phone": "(248) 634-3231"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abb998a7-5af8-4740-8877-6a3b17c76bab",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

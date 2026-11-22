@@ -1,0 +1,36 @@
+{
+  "id": "mn-pine-city-hopkins-sand-and-gravel",
+  "slug": "hopkins-sand-and-gravel",
+  "name": "Hopkins Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "24865 Co Hwy 61",
+    "city": "Pine City",
+    "state": "MN",
+    "zip": "55063"
+  },
+  "location": {
+    "lat": 45.911194,
+    "lng": -92.959404
+  },
+  "contact": {
+    "phone": "(320) 629-2522",
+    "website": "http://hopkinsgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "65d5ddee-757f-4d1c-b93d-4c793d07add4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "ca-corona-chandler-aggregates",
+  "slug": "chandler-aggregates",
+  "name": "Chandler Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "24867 Maitri Rd",
+    "city": "Corona",
+    "state": "CA",
+    "zip": "92883"
+  },
+  "location": {
+    "lat": 33.757893,
+    "lng": -117.481766
+  },
+  "contact": {
+    "phone": "(951) 277-9110",
+    "website": "http://www.wernercorp.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4b0f197-a4b4-45b5-8884-8886be35ce5e",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0403871",
+      "name": "Mayhew Plant",
+      "operator": "MAMR LLC DBA Maitri Road Recycling",
+      "status": "Active",
+      "status_since": "2025-10-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    },
+    {
+      "mine_id": "0404157",
+      "name": "Maitri Sand and Gravel",
+      "operator": "Martin Marietta Southern California Aggregates,LLC",
+      "status": "Active",
+      "status_since": "2024-10-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

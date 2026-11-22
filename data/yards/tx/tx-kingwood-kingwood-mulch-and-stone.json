@@ -1,0 +1,36 @@
+{
+  "id": "tx-kingwood-kingwood-mulch-and-stone",
+  "slug": "kingwood-mulch-and-stone",
+  "name": "Kingwood Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2625 Mills Branch Dr",
+    "city": "Kingwood",
+    "state": "TX",
+    "zip": "77345"
+  },
+  "location": {
+    "lat": 30.071405,
+    "lng": -95.170479
+  },
+  "contact": {
+    "phone": "(281) 359-2739",
+    "website": "https://www.kingwoodmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c368d505-b8b2-442a-b6f1-a71692c73498",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

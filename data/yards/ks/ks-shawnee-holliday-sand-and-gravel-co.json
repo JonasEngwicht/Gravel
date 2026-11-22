@@ -1,0 +1,36 @@
+{
+  "id": "ks-shawnee-holliday-sand-and-gravel-co",
+  "slug": "holliday-sand-and-gravel-co",
+  "name": "Holliday Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9660 Legler Rd",
+    "city": "Shawnee",
+    "state": "KS",
+    "zip": "66219"
+  },
+  "location": {
+    "lat": 38.95314,
+    "lng": -94.773071
+  },
+  "contact": {
+    "phone": "(913) 492-5920",
+    "website": "https://www.hollidaysand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02172355-7648-4f5a-8ec6-f26a913c5558",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

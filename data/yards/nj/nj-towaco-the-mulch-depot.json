@@ -1,0 +1,36 @@
+{
+  "id": "nj-towaco-the-mulch-depot",
+  "slug": "the-mulch-depot",
+  "name": "The Mulch Depot",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3 Como Ct",
+    "city": "Towaco",
+    "state": "NJ",
+    "zip": "07082"
+  },
+  "location": {
+    "lat": 40.931957,
+    "lng": -74.339195
+  },
+  "contact": {
+    "phone": "(973) 263-0440",
+    "website": "http://www.themulchdepot.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c9a87bb4-7019-47ac-b20e-9debe79b7f3a",
+    "confidence": 0.941,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tn-gallatin-the-gravel-company",
+  "slug": "the-gravel-company",
+  "name": "The Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1415 Old Hwy 109 N",
+    "city": "Gallatin",
+    "state": "TN",
+    "zip": "37066"
+  },
+  "location": {
+    "lat": 36.4258,
+    "lng": -86.461479
+  },
+  "contact": {
+    "phone": "(615) 206-1416",
+    "website": "http://www.thegravelcompany.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ad21d97d-8554-496a-859b-e7da89c1db40",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

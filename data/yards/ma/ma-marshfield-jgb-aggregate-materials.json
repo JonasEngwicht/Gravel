@@ -1,0 +1,36 @@
+{
+  "id": "ma-marshfield-jgb-aggregate-materials",
+  "slug": "jgb-aggregate-materials",
+  "name": "JGB Aggregate Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "147 Clay Pit Rd",
+    "city": "Marshfield",
+    "state": "MA",
+    "zip": "02050"
+  },
+  "location": {
+    "lat": 42.110634,
+    "lng": -70.711632
+  },
+  "contact": {
+    "phone": "(781) 834-0200",
+    "website": "http://www.jgbaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c620855d-bade-41a6-a841-4d5bdcae86df",
+    "confidence": 0.53,
+    "merged_records": 1
+  }
+}

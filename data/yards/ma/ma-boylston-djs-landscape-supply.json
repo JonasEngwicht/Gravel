@@ -1,0 +1,36 @@
+{
+  "id": "ma-boylston-djs-landscape-supply",
+  "slug": "djs-landscape-supply",
+  "name": "DJ’s Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2 Elmwood Pl",
+    "city": "Boylston",
+    "state": "MA",
+    "zip": "01505"
+  },
+  "location": {
+    "lat": 42.333584,
+    "lng": -71.747871
+  },
+  "contact": {
+    "phone": "(774) 364-2937",
+    "website": "http://www.djslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27312eb4-e294-4325-a234-f004aa1206bc",
+    "confidence": 0.541,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-ottawa-lake-lumber-jacks-quality-firewood-and-mulch",
+  "slug": "lumber-jacks-quality-firewood-and-mulch",
+  "name": "Lumber Jacks Quality Firewood and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6838 Memorial Hwy",
+    "city": "Ottawa Lake",
+    "state": "MI",
+    "zip": "49267"
+  },
+  "location": {
+    "lat": 41.736038,
+    "lng": -83.720123
+  },
+  "contact": {
+    "phone": "(419) 882-6275",
+    "website": "http://www.lumberjacksfirewood.org/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "140853d0-74fd-4cc9-bf50-7ed0122f9938",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

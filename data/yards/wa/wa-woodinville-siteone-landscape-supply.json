@@ -1,0 +1,37 @@
+{
+  "id": "wa-woodinville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "13930 NE 190th St",
+    "city": "Woodinville",
+    "state": "WA",
+    "zip": "98072"
+  },
+  "location": {
+    "lat": 47.765511,
+    "lng": -122.15377
+  },
+  "contact": {
+    "phone": "(425) 485-6167",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8767984b-330f-43c2-803d-b3b0e51e8cbe",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

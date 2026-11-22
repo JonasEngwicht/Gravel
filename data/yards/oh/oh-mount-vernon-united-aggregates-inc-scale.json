@@ -1,0 +1,48 @@
+{
+  "id": "oh-mount-vernon-united-aggregates-inc-scale",
+  "slug": "united-aggregates-inc-scale",
+  "name": "United Aggregates Inc Scale",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14220 Parrott Ext",
+    "city": "Mount Vernon",
+    "state": "OH",
+    "zip": "43050"
+  },
+  "location": {
+    "lat": 40.376408,
+    "lng": -82.494637
+  },
+  "contact": {
+    "phone": "(740) 397-0000",
+    "website": "https://www.unitedaggregates.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb8035dc-bb37-4eea-8a8f-8523ec439a8b",
+    "confidence": 1.0,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301612",
+      "name": "United Aggregates, Inc.",
+      "operator": "United Aggregates Inc",
+      "status": "Active",
+      "status_since": "1999-10-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 25
+    }
+  ]
+}

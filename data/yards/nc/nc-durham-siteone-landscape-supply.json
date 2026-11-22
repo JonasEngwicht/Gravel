@@ -1,0 +1,37 @@
+{
+  "id": "nc-durham-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6408 Leesville Rd",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27703"
+  },
+  "location": {
+    "lat": 35.935108,
+    "lng": -78.777779
+  },
+  "contact": {
+    "phone": "(919) 767-1413",
+    "website": "https://www.siteone.com/store/156"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff423792-d7e2-493e-9a9c-81617ac17388",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

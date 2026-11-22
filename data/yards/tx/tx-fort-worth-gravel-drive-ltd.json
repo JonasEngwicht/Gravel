@@ -1,0 +1,35 @@
+{
+  "id": "tx-fort-worth-gravel-drive-ltd",
+  "slug": "gravel-drive-ltd",
+  "name": "Gravel Drive Ltd",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7433 Pebble Dr",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76118"
+  },
+  "location": {
+    "lat": 32.79398,
+    "lng": -97.219475
+  },
+  "contact": {
+    "phone": "(817) 595-8809"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4bc2735f-7aae-48de-9b0b-526a265a45aa",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

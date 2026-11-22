@@ -1,0 +1,36 @@
+{
+  "id": "wi-kiel-kiel-sand-and-gravel",
+  "slug": "kiel-sand-and-gravel",
+  "name": "Kiel Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21434 WI-57",
+    "city": "Kiel",
+    "state": "WI",
+    "zip": "53042"
+  },
+  "location": {
+    "lat": 43.904888,
+    "lng": -87.990303
+  },
+  "contact": {
+    "phone": "(920) 894-3890",
+    "website": "http://kielsandandgravelinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "623efd54-f6d6-4024-a836-9e05a54c4bc5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

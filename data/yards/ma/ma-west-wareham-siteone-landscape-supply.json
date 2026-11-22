@@ -1,0 +1,37 @@
+{
+  "id": "ma-west-wareham-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6 Little Brook Rd",
+    "city": "West Wareham",
+    "state": "MA",
+    "zip": "02576"
+  },
+  "location": {
+    "lat": 41.783077,
+    "lng": -70.753983
+  },
+  "contact": {
+    "phone": "(508) 291-6152",
+    "website": "https://www.siteone.com/store/777"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "18170ee0-0757-461b-9608-872470b1f4fa",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

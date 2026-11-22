@@ -1,0 +1,36 @@
+{
+  "id": "fl-tampa-seffner-rock-and-gravel",
+  "slug": "seffner-rock-and-gravel",
+  "name": "Seffner Rock & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9715 US-92",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33610"
+  },
+  "location": {
+    "lat": 27.994888,
+    "lng": -82.34124
+  },
+  "contact": {
+    "phone": "(813) 626-8884",
+    "website": "http://seffnerrock.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "96e07f7c-981a-41f7-940a-b568438c1ec9",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

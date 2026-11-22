@@ -1,0 +1,37 @@
+{
+  "id": "ca-solvang-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1130 Mission Dr Unit C",
+    "city": "Solvang",
+    "state": "CA",
+    "zip": "93463"
+  },
+  "location": {
+    "lat": 34.596008,
+    "lng": -120.156258
+  },
+  "contact": {
+    "phone": "(805) 688-5455",
+    "website": "https://www.siteone.com/store/408"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82c05918-ad86-4565-a028-77614d3ef741",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

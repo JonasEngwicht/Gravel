@@ -1,0 +1,35 @@
+{
+  "id": "pa-chambersburg-pinola-mulch-and-stone",
+  "slug": "pinola-mulch-and-stone",
+  "name": "Pinola Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8611 Rowe Run Rd",
+    "city": "Chambersburg",
+    "state": "PA",
+    "zip": "17202"
+  },
+  "location": {
+    "lat": 40.032536,
+    "lng": -77.594948
+  },
+  "contact": {
+    "phone": "(717) 532-9543"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1681510-090a-4264-bcd0-c44a985161d8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

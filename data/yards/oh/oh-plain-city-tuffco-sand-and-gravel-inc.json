@@ -1,0 +1,47 @@
+{
+  "id": "oh-plain-city-tuffco-sand-and-gravel-inc",
+  "slug": "tuffco-sand-and-gravel-inc",
+  "name": "Tuffco Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8195 Old State Route 161",
+    "city": "Plain City",
+    "state": "OH",
+    "zip": "43064"
+  },
+  "location": {
+    "lat": 40.105469,
+    "lng": -83.251312
+  },
+  "contact": {
+    "phone": "(614) 873-3977"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c0385955-ea03-4504-91ac-1bd1b7a52724",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304368",
+      "name": "Sand and Gravel Quarry",
+      "operator": "Savko Materials 1, LLC",
+      "status": "Active",
+      "status_since": "2026-10-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

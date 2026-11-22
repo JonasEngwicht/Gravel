@@ -1,0 +1,35 @@
+{
+  "id": "nm-las-vegas-pachecos-landscape-supply-and-excavation",
+  "slug": "pachecos-landscape-supply-and-excavation",
+  "name": "Pachecos Landscape Supply & Excavation",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "353 NM Highway 65",
+    "city": "Las Vegas",
+    "state": "NM",
+    "zip": "87701"
+  },
+  "location": {
+    "lat": 35.646149,
+    "lng": -105.270752
+  },
+  "contact": {
+    "phone": "(505) 210-0421"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da7b3d43-261d-4100-90b7-53630a037246",
+    "confidence": 0.522,
+    "merged_records": 1
+  }
+}

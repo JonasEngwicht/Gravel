@@ -1,0 +1,36 @@
+{
+  "id": "ne-plainview-mulch-n-more",
+  "slug": "mulch-n-more",
+  "name": "Mulch N More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "85808 538 Ave",
+    "city": "Plainview",
+    "state": "NE",
+    "zip": "68769"
+  },
+  "location": {
+    "lat": 42.264713,
+    "lng": -97.75634
+  },
+  "contact": {
+    "phone": "(402) 582-3334",
+    "website": "http://mulchx-press.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b296a86-08ca-4c3c-a168-d8151ad64e5c",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

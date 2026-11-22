@@ -1,0 +1,47 @@
+{
+  "id": "ny-gloversville-herba-sand-and-gravel",
+  "slug": "herba-sand-and-gravel",
+  "name": "Herba Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "311 Sand Hill Rd",
+    "city": "Gloversville",
+    "state": "NY",
+    "zip": "12078"
+  },
+  "location": {
+    "lat": 43.056816,
+    "lng": -74.245552
+  },
+  "contact": {
+    "phone": "(518) 883-5538"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64238fd6-f689-476c-9ddd-ad7c7bc1036a",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3002184",
+      "name": "Mayfield Pit And Plant",
+      "operator": "Herba Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2022-10-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

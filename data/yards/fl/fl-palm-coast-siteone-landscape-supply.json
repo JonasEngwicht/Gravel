@@ -1,0 +1,37 @@
+{
+  "id": "fl-palm-coast-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3 Hargrove Grade",
+    "city": "Palm Coast",
+    "state": "FL",
+    "zip": "32137"
+  },
+  "location": {
+    "lat": 29.555777,
+    "lng": -81.268295
+  },
+  "contact": {
+    "phone": "(386) 597-7282",
+    "website": "https://www.siteone.com/en/store/731"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ddc34de8-4a60-48cc-bd36-2ff486af21a2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

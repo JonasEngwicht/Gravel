@@ -1,0 +1,36 @@
+{
+  "id": "ca-sacramento-village-nurseries-landscape-center",
+  "slug": "village-nurseries-landscape-center",
+  "name": "Village Nurseries Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6901 Bradshaw Rd",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95829"
+  },
+  "location": {
+    "lat": 38.503239,
+    "lng": -121.33493
+  },
+  "contact": {
+    "phone": "(916) 366-3966",
+    "website": "http://www.villagenurserieslc.com/Locations/SacramentoLandscapeCenter.aspx"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2135b0df-ff87-4be3-b5fc-6329def53672",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

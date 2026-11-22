@@ -1,0 +1,36 @@
+{
+  "id": "il-crystal-lake-whispering-hills-garden-and-landscape-center",
+  "slug": "whispering-hills-garden-and-landscape-center",
+  "name": "Whispering Hills Garden & Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8109 S Illinois Rte 31",
+    "city": "Crystal Lake",
+    "state": "IL",
+    "zip": "60014"
+  },
+  "location": {
+    "lat": 42.211002,
+    "lng": -88.28717
+  },
+  "contact": {
+    "phone": "(847) 658-5610",
+    "website": "https://www.whisperinghillsnursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4758025-6613-4437-9d92-03588f927632",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

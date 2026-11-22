@@ -1,0 +1,35 @@
+{
+  "id": "wa-loon-lake-loon-lake-sand-and-gravel",
+  "slug": "loon-lake-sand-and-gravel",
+  "name": "Loon Lake Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4072 Highway 292 #A",
+    "city": "Loon Lake",
+    "state": "WA",
+    "zip": "99148"
+  },
+  "location": {
+    "lat": 48.065182,
+    "lng": -117.644531
+  },
+  "contact": {
+    "phone": "(509) 233-2401"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "570ef607-79ac-4389-a362-f162ff735c35",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

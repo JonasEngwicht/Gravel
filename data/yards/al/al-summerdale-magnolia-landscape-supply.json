@@ -1,0 +1,36 @@
+{
+  "id": "al-summerdale-magnolia-landscape-supply",
+  "slug": "magnolia-landscape-supply",
+  "name": "Magnolia Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "117 State Highway 59 S",
+    "city": "Summerdale",
+    "state": "AL",
+    "zip": "36580"
+  },
+  "location": {
+    "lat": 30.484985,
+    "lng": -87.707397
+  },
+  "contact": {
+    "phone": "(251) 989-7171",
+    "website": "http://magnolialandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b1dd2d7a-0613-48b0-8f2a-63d72f6ff156",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wv-st-albans-american-asphalt-and-aggregates",
+  "slug": "american-asphalt-and-aggregates",
+  "name": "American Asphalt & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "248 Industrial Rd",
+    "city": "St Albans",
+    "state": "WV",
+    "zip": "25177"
+  },
+  "location": {
+    "lat": 38.409847,
+    "lng": -81.858269
+  },
+  "contact": {
+    "phone": "(304) 727-6197",
+    "website": "http://www.gsbprocess.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aafcc901-275a-44e6-8a1f-35f8f9adc710",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "la-lake-charles-port-aggregates-821-w-lincoln-rd",
+  "slug": "port-aggregates-821-w-lincoln-rd",
+  "name": "Port Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "821 W Lincoln Rd",
+    "city": "Lake Charles",
+    "state": "LA",
+    "zip": "70605"
+  },
+  "location": {
+    "lat": 30.108595,
+    "lng": -93.220566
+  },
+  "contact": {
+    "phone": "(337) 477-4480"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc843b69-80d2-47ee-93c1-4c72708838b3",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

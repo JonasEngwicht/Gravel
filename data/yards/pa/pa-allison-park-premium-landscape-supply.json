@@ -1,0 +1,36 @@
+{
+  "id": "pa-allison-park-premium-landscape-supply",
+  "slug": "premium-landscape-supply",
+  "name": "Premium Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4802 Gibsonia Rd",
+    "city": "Allison Park",
+    "state": "PA",
+    "zip": "15101"
+  },
+  "location": {
+    "lat": 40.598713,
+    "lng": -79.890327
+  },
+  "contact": {
+    "phone": "(412) 965-6833",
+    "website": "http://www.premiumlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ee1f0fd-02e8-4b6f-9aeb-cdf72f599fb2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

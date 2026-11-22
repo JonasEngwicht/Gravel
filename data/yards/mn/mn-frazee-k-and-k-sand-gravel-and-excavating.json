@@ -1,0 +1,35 @@
+{
+  "id": "mn-frazee-k-and-k-sand-gravel-and-excavating",
+  "slug": "k-and-k-sand-gravel-and-excavating",
+  "name": "K & K Sand, Gravel & Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12542 Rew Ln",
+    "city": "Frazee",
+    "state": "MN",
+    "zip": "56544"
+  },
+  "location": {
+    "lat": 46.75407,
+    "lng": -95.764755
+  },
+  "contact": {
+    "phone": "(218) 846-3440"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "449166bb-68ad-4063-81c7-80ab51557652",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

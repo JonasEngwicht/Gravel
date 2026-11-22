@@ -1,0 +1,36 @@
+{
+  "id": "tx-dallas-klz-stone-supply",
+  "slug": "klz-stone-supply",
+  "name": "KLZ Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "11129 Zodiac Ln #300",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75229"
+  },
+  "location": {
+    "lat": 32.887703,
+    "lng": -96.88459
+  },
+  "contact": {
+    "phone": "(972) 807-6187",
+    "website": "http://klzstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "63b51d4b-2574-4c32-8749-171c3899125b",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-marble-falls-gravel-guys",
+  "slug": "gravel-guys",
+  "name": "Gravel Guys",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2301 Cr 120a",
+    "city": "Marble Falls",
+    "state": "TX",
+    "zip": "78654"
+  },
+  "location": {
+    "lat": 30.668949,
+    "lng": -98.350578
+  },
+  "contact": {
+    "phone": "(830) 220-2737"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d535057-46c1-4089-8038-37142e134085",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

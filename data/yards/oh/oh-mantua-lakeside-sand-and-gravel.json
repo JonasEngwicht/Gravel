@@ -1,0 +1,48 @@
+{
+  "id": "oh-mantua-lakeside-sand-and-gravel",
+  "slug": "lakeside-sand-and-gravel",
+  "name": "Lakeside Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3498 Frost Rd",
+    "city": "Mantua",
+    "state": "OH",
+    "zip": "44255"
+  },
+  "location": {
+    "lat": 41.26104,
+    "lng": -81.262398
+  },
+  "contact": {
+    "phone": "(330) 274-2569",
+    "website": "http://www.lakesidesandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "def970f1-f2b4-461a-afb3-aa5452df9880",
+    "confidence": 1.0,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301543",
+      "name": "Lakeside Sand & Gravel Inc",
+      "operator": "Lakeside Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2007-03-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 28
+    }
+  ]
+}

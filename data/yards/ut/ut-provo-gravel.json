@@ -1,0 +1,35 @@
+{
+  "id": "ut-provo-gravel",
+  "slug": "gravel",
+  "name": "Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "25 W 400 S  Ste 202",
+    "city": "Provo",
+    "state": "UT",
+    "zip": "84601"
+  },
+  "location": {
+    "lat": 40.228226,
+    "lng": -111.659027
+  },
+  "contact": {
+    "website": "https://www.graveltravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "35fa8219-dd84-49ca-960b-2636b4c3ebb5",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

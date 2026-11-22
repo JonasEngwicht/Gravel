@@ -1,0 +1,36 @@
+{
+  "id": "tx-hutchins-the-organic-recycler-mulch-compost-and-soil",
+  "slug": "the-organic-recycler-mulch-compost-and-soil",
+  "name": "The Organic Recycler - Mulch, Compost & Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2600 Post Oak Rd",
+    "city": "Hutchins",
+    "state": "TX",
+    "zip": "75141"
+  },
+  "location": {
+    "lat": 32.635048,
+    "lng": -96.667831
+  },
+  "contact": {
+    "phone": "(817) 437-2277",
+    "website": "https://theorganicrecycler.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "218614fd-4336-4e74-ad4b-048a08c87789",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

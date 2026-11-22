@@ -1,0 +1,35 @@
+{
+  "id": "ar-rogers-boulders-landscaping-material",
+  "slug": "boulders-landscaping-material",
+  "name": "Boulders Landscaping Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "231 Blevins Ln",
+    "city": "Rogers",
+    "state": "AR",
+    "zip": "72756"
+  },
+  "location": {
+    "lat": 36.405533,
+    "lng": -94.072533
+  },
+  "contact": {
+    "phone": "(479) 278-7191"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72015a00-c3df-4e2d-a178-294a98c76ca7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

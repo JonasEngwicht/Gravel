@@ -1,0 +1,47 @@
+{
+  "id": "or-eagle-creek-eagle-creek-gravel",
+  "slug": "eagle-creek-gravel",
+  "name": "Eagle Creek Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "25375 SE Talons Rd",
+    "city": "Eagle Creek",
+    "state": "OR",
+    "zip": "97022"
+  },
+  "location": {
+    "lat": 45.340626,
+    "lng": -122.355354
+  },
+  "contact": {
+    "phone": "(503) 630-3505"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "577009bf-fe96-485a-a128-4ed445f0269f",
+    "confidence": 0.835,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3503866",
+      "name": "Plant 1",
+      "operator": "Eagle Creek Rock Products, L.L.C",
+      "status": "Active",
+      "status_since": "2022-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

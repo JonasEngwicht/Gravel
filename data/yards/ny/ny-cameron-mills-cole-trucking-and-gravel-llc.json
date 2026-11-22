@@ -1,0 +1,47 @@
+{
+  "id": "ny-cameron-mills-cole-trucking-and-gravel-llc",
+  "slug": "cole-trucking-and-gravel-llc",
+  "name": "Cole Trucking & Gravel LLC.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6014 Lewis Rd",
+    "city": "Cameron Mills",
+    "state": "NY",
+    "zip": "14820"
+  },
+  "location": {
+    "lat": 42.175522,
+    "lng": -77.359665
+  },
+  "contact": {
+    "phone": "(607) 368-3975"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "138ee500-25ad-4d70-ac0b-b33cfc2cf4f1",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3004035",
+      "name": "Cole Gravel Pit",
+      "operator": "Cole Trucking and Gravel",
+      "status": "Abandoned",
+      "status_since": "2020-05-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

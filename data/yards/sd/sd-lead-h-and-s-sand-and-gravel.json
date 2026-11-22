@@ -1,0 +1,35 @@
+{
+  "id": "sd-lead-h-and-s-sand-and-gravel",
+  "slug": "h-and-s-sand-and-gravel",
+  "name": "H and S Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11481 Brownsville Rd",
+    "city": "Lead",
+    "state": "SD",
+    "zip": "57754"
+  },
+  "location": {
+    "lat": 44.276257,
+    "lng": -103.758675
+  },
+  "contact": {
+    "phone": "(605) 584-1416"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "16094e90-f2ac-42c5-abc6-997946502157",
+    "confidence": 0.522,
+    "merged_records": 1
+  }
+}

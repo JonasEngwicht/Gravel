@@ -1,0 +1,37 @@
+{
+  "id": "oh-newark-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "1602 E Main St",
+    "city": "Newark",
+    "state": "OH",
+    "zip": "43055"
+  },
+  "location": {
+    "lat": 40.062485,
+    "lng": -82.341171
+  },
+  "contact": {
+    "phone": "(740) 345-4464",
+    "website": "http://www.ohiomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83fc4fd5-f4de-43ff-bbda-9bfd3be450c1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

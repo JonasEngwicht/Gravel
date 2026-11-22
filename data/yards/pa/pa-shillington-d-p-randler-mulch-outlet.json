@@ -1,0 +1,36 @@
+{
+  "id": "pa-shillington-d-p-randler-mulch-outlet",
+  "slug": "d-p-randler-mulch-outlet",
+  "name": "D P Randler Mulch Outlet",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1205 Lancaster Ave",
+    "city": "Shillington",
+    "state": "PA",
+    "zip": "19607"
+  },
+  "location": {
+    "lat": 40.29995,
+    "lng": -75.992775
+  },
+  "contact": {
+    "phone": "(610) 796-2770",
+    "website": "https://www.dprandler.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe09af69-69af-49b1-9bda-48b112c4bbd2",
+    "confidence": 0.966,
+    "merged_records": 2
+  }
+}

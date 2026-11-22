@@ -1,0 +1,37 @@
+{
+  "id": "ga-alpharetta-siteone-landscape-supply-3000-trotters-pkwy",
+  "slug": "siteone-landscape-supply-3000-trotters-pkwy",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3000 Trotters Pkwy",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004"
+  },
+  "location": {
+    "lat": 34.126476,
+    "lng": -84.22657
+  },
+  "contact": {
+    "phone": "(770) 475-4403",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3e52d38-465f-4eec-b1bf-612ac35457ef",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

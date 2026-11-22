@@ -1,0 +1,35 @@
+{
+  "id": "fl-oviedo-mulch-for-you",
+  "slug": "mulch-for-you",
+  "name": "Mulch For You",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "371 W Mitchell Hammock Rd",
+    "city": "Oviedo",
+    "state": "FL",
+    "zip": "32765"
+  },
+  "location": {
+    "lat": 28.656565,
+    "lng": -81.215965
+  },
+  "contact": {
+    "phone": "(407) 359-9774"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c9a92b08-feef-41ef-ad30-770fb2f025ea",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

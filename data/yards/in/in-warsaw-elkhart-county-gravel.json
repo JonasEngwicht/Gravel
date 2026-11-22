@@ -1,0 +1,36 @@
+{
+  "id": "in-warsaw-elkhart-county-gravel",
+  "slug": "elkhart-county-gravel",
+  "name": "Elkhart County Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2142 W 300 N",
+    "city": "Warsaw",
+    "state": "IN",
+    "zip": "46580"
+  },
+  "location": {
+    "lat": 41.277615,
+    "lng": -85.887581
+  },
+  "contact": {
+    "phone": "(574) 269-4717",
+    "website": "https://elkhartcountygravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "50a7bd70-4535-41de-a61f-444312ead8fc",
+    "confidence": 0.51,
+    "merged_records": 1
+  }
+}

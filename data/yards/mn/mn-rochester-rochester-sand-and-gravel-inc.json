@@ -1,0 +1,36 @@
+{
+  "id": "mn-rochester-rochester-sand-and-gravel-inc",
+  "slug": "rochester-sand-and-gravel-inc",
+  "name": "Rochester Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4105 E River Rd NE",
+    "city": "Rochester",
+    "state": "MN",
+    "zip": "55906"
+  },
+  "location": {
+    "lat": 44.065063,
+    "lng": -92.458855
+  },
+  "contact": {
+    "phone": "(507) 288-7447",
+    "website": "http://www.rochsg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdbe6a50-3ec0-48a8-8073-e2e55720daed",
+    "confidence": 0.933,
+    "merged_records": 2
+  }
+}

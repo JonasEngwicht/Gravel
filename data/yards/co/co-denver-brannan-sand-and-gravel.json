@@ -1,0 +1,36 @@
+{
+  "id": "co-denver-brannan-sand-and-gravel",
+  "slug": "brannan-sand-and-gravel",
+  "name": "Brannan Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5880 Lipan St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80216"
+  },
+  "location": {
+    "lat": 39.802612,
+    "lng": -104.999001
+  },
+  "contact": {
+    "phone": "(303) 534-1231",
+    "website": "http://www.brannan1.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dca11ede-83ac-4296-a332-33235b7b65a4",
+    "confidence": 0.81,
+    "merged_records": 1
+  }
+}

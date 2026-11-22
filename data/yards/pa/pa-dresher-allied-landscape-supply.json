@@ -1,0 +1,36 @@
+{
+  "id": "pa-dresher-allied-landscape-supply",
+  "slug": "allied-landscape-supply",
+  "name": "Allied Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1752 Limekiln Pike",
+    "city": "Dresher",
+    "state": "PA",
+    "zip": "19025"
+  },
+  "location": {
+    "lat": 40.133354,
+    "lng": -75.167183
+  },
+  "contact": {
+    "phone": "(267) 607-3956",
+    "website": "http://alliedlandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0eb2485f-fb5f-4246-ad8f-60e57a1bb471",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

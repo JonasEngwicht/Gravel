@@ -1,0 +1,37 @@
+{
+  "id": "mo-nixa-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "1210 Eaglecrest St",
+    "city": "Nixa",
+    "state": "MO",
+    "zip": "65714"
+  },
+  "location": {
+    "lat": 37.064323,
+    "lng": -93.308212
+  },
+  "contact": {
+    "phone": "(417) 725-5490",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0b9c2a1a-fe85-43f9-8e2a-01295b7d9b8f",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

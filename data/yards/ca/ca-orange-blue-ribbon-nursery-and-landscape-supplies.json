@@ -1,0 +1,36 @@
+{
+  "id": "ca-orange-blue-ribbon-nursery-and-landscape-supplies",
+  "slug": "blue-ribbon-nursery-and-landscape-supplies",
+  "name": "Blue Ribbon Nursery and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1425 N Santiago Blvd",
+    "city": "Orange",
+    "state": "CA",
+    "zip": "92869"
+  },
+  "location": {
+    "lat": 33.811176,
+    "lng": -117.798012
+  },
+  "contact": {
+    "phone": "(714) 633-3666",
+    "website": "http://www.blueribbonoc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f258944-19f0-4528-896b-82185949d2e1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

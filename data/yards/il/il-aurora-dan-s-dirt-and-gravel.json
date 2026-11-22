@@ -1,0 +1,36 @@
+{
+  "id": "il-aurora-dan-s-dirt-and-gravel",
+  "slug": "dan-s-dirt-and-gravel",
+  "name": "Dan's Dirt and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1212 5th St",
+    "city": "Aurora",
+    "state": "IL",
+    "zip": "60505"
+  },
+  "location": {
+    "lat": 41.732437,
+    "lng": -88.313255
+  },
+  "contact": {
+    "phone": "(630) 479-6622",
+    "website": "http://www.dansdirtandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4f00fc20-561b-40b3-8571-14ea02e3fe15",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

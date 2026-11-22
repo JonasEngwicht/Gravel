@@ -1,0 +1,36 @@
+{
+  "id": "oh-highland-heights-highland-landscape-supply",
+  "slug": "highland-landscape-supply",
+  "name": "Highland Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5860 Wilson Mills Rd",
+    "city": "Highland Heights",
+    "state": "OH",
+    "zip": "44143"
+  },
+  "location": {
+    "lat": 41.537983,
+    "lng": -81.468224
+  },
+  "contact": {
+    "phone": "(440) 442-9093",
+    "website": "https://www.instagram.com/highlandlandscapesupply/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7f01d432-f73f-428f-8086-4056ac929309",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

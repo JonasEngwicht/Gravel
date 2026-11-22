@@ -1,0 +1,36 @@
+{
+  "id": "ga-milledgeville-bedrock-mulch-and-mower",
+  "slug": "bedrock-mulch-and-mower",
+  "name": "Bedrock Mulch & Mower",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3048 N Columbia St",
+    "city": "Milledgeville",
+    "state": "GA",
+    "zip": "31061"
+  },
+  "location": {
+    "lat": 33.18251,
+    "lng": -83.290939
+  },
+  "contact": {
+    "phone": "(478) 453-9900",
+    "website": "http://www.bedrockmulchandmower.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75b06768-e590-4643-8203-d1c3b40c47e9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

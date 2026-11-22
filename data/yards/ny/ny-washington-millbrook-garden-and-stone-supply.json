@@ -1,0 +1,36 @@
+{
+  "id": "ny-washington-millbrook-garden-and-stone-supply",
+  "slug": "millbrook-garden-and-stone-supply",
+  "name": "Millbrook Garden and Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3783 US-44",
+    "city": "Washington",
+    "state": "NY",
+    "zip": "12545"
+  },
+  "location": {
+    "lat": 41.795528,
+    "lng": -73.65184
+  },
+  "contact": {
+    "phone": "(845) 677-5872",
+    "website": "http://www.millbrookgardenandstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5891a03f-b23d-4bf7-9b18-78733cc1e427",
+    "confidence": 0.82,
+    "merged_records": 1
+  }
+}

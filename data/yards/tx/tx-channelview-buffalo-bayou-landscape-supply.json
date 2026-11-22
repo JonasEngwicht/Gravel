@@ -1,0 +1,35 @@
+{
+  "id": "tx-channelview-buffalo-bayou-landscape-supply",
+  "slug": "buffalo-bayou-landscape-supply",
+  "name": "Buffalo Bayou Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15724 Garlang St",
+    "city": "Channelview",
+    "state": "TX",
+    "zip": "77530"
+  },
+  "location": {
+    "lat": 29.774265,
+    "lng": -95.125084
+  },
+  "contact": {
+    "phone": "(713) 534-3369"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b2d981f2-7c4c-44c0-9f4a-89ca8ee6cec6",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

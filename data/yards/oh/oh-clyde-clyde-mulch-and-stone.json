@@ -1,0 +1,36 @@
+{
+  "id": "oh-clyde-clyde-mulch-and-stone",
+  "slug": "clyde-mulch-and-stone",
+  "name": "Clyde Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "555 N Woodland Ave",
+    "city": "Clyde",
+    "state": "OH",
+    "zip": "43410"
+  },
+  "location": {
+    "lat": 41.308495,
+    "lng": -82.989342
+  },
+  "contact": {
+    "phone": "(419) 547-6882",
+    "website": "http://clydemulchandstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6aa215ec-9a1b-47fa-b1ab-9911d0664ac3",
+    "confidence": 0.978,
+    "merged_records": 1
+  }
+}

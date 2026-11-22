@@ -1,0 +1,36 @@
+{
+  "id": "oh-columbus-kurtz-bros-mulch-and-soils",
+  "slug": "kurtz-bros-mulch-and-soils",
+  "name": "Kurtz Bros. Mulch & Soils",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "777 Frank Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43223"
+  },
+  "location": {
+    "lat": 39.91362,
+    "lng": -83.022743
+  },
+  "contact": {
+    "phone": "(614) 491-0868",
+    "website": "https://www.kbcolumbus.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d32d7a9-03e4-45c4-a336-fd606f96588d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

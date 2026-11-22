@@ -1,0 +1,36 @@
+{
+  "id": "nm-albuquerque-mud-monsters-pond-and-landscape-supply",
+  "slug": "mud-monsters-pond-and-landscape-supply",
+  "name": "Mud Monsters Pond and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5101 Edith Blvd NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87107"
+  },
+  "location": {
+    "lat": 35.132095,
+    "lng": -106.630409
+  },
+  "contact": {
+    "phone": "(505) 217-2856",
+    "website": "Http://www.MudMonsters.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4e575977-7431-49e6-b662-d57524a01b8f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

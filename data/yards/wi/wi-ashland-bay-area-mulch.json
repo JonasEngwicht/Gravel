@@ -1,0 +1,36 @@
+{
+  "id": "wi-ashland-bay-area-mulch",
+  "slug": "bay-area-mulch",
+  "name": "Bay Area Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "505 Sanborn Ave",
+    "city": "Ashland",
+    "state": "WI",
+    "zip": "54806"
+  },
+  "location": {
+    "lat": 46.576912,
+    "lng": -90.906517
+  },
+  "contact": {
+    "phone": "(715) 209-1980",
+    "website": "http://www.wevegotworms.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6becc0cc-1cb2-443b-a297-df798095654d",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

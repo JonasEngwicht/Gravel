@@ -1,0 +1,36 @@
+{
+  "id": "in-crown-point-niemeyer-landscape-supply",
+  "slug": "niemeyer-landscape-supply",
+  "name": "Niemeyer Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "810 N Indiana Ave",
+    "city": "Crown Point",
+    "state": "IN",
+    "zip": "46307"
+  },
+  "location": {
+    "lat": 41.426334,
+    "lng": -87.354568
+  },
+  "contact": {
+    "phone": "(219) 663-1042",
+    "website": "http://www.niemeyerstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "603f788c-842e-4646-b0ce-e2ef5b8485b8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

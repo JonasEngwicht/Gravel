@@ -1,0 +1,36 @@
+{
+  "id": "tx-garwood-hanson-aggregate-south-central",
+  "slug": "hanson-aggregate-south-central",
+  "name": "Hanson Aggregate South Central",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1924 County Road 111",
+    "city": "Garwood",
+    "state": "TX",
+    "zip": "77442"
+  },
+  "location": {
+    "lat": 29.501747,
+    "lng": -96.445702
+  },
+  "contact": {
+    "phone": "(979) 758-3662",
+    "website": "http://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0a00334e-e37b-467e-9b6e-6de5ab5b6af9",
+    "confidence": 0.916,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-new-bern-the-natural-stone-yard-llc",
+  "slug": "the-natural-stone-yard-llc",
+  "name": "The Natural Stone Yard, LLC",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1606 US-70",
+    "city": "New Bern",
+    "state": "NC",
+    "zip": "28560"
+  },
+  "location": {
+    "lat": 35.07296,
+    "lng": -77.026199
+  },
+  "contact": {
+    "phone": "(252) 633-3964",
+    "website": "http://www.thenaturalstoneyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ae53ff9-688c-4b49-a4b1-18b0fbd8ed9b",
+    "confidence": 0.948,
+    "merged_records": 1
+  }
+}

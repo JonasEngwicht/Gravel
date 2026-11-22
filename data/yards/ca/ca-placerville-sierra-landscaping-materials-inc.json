@@ -1,0 +1,36 @@
+{
+  "id": "ca-placerville-sierra-landscaping-materials-inc",
+  "slug": "sierra-landscaping-materials-inc",
+  "name": "Sierra Landscaping Materials, Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5850 Mother Lode Dr",
+    "city": "Placerville",
+    "state": "CA",
+    "zip": "95667"
+  },
+  "location": {
+    "lat": 38.685165,
+    "lng": -120.865974
+  },
+  "contact": {
+    "phone": "(530) 626-4137",
+    "website": "http://sierralandscapingmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "16d8dbfb-0b40-4533-af8a-7fda2a32ad91",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

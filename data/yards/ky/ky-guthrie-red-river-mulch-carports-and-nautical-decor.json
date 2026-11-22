@@ -1,0 +1,36 @@
+{
+  "id": "ky-guthrie-red-river-mulch-carports-and-nautical-decor",
+  "slug": "red-river-mulch-carports-and-nautical-decor",
+  "name": "Red River Mulch, Carports & Nautical Decor",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9501 Russellville Rd",
+    "city": "Guthrie",
+    "state": "KY",
+    "zip": "42234"
+  },
+  "location": {
+    "lat": 36.652615,
+    "lng": -87.187645
+  },
+  "contact": {
+    "phone": "(270) 483-1051",
+    "website": "https://redrivermulchky.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d59a35a1-521d-4707-ac81-0610c0abace8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

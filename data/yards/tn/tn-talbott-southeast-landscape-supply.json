@@ -1,0 +1,35 @@
+{
+  "id": "tn-talbott-southeast-landscape-supply",
+  "slug": "southeast-landscape-supply",
+  "name": "Southeast Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6021 W Andrew Johnson Hwy",
+    "city": "Talbott",
+    "state": "TN",
+    "zip": "37877"
+  },
+  "location": {
+    "lat": 36.177567,
+    "lng": -83.394218
+  },
+  "contact": {
+    "phone": "(423) 616-0370"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e209bc2a-af8a-48b0-9c99-351bf4dcef57",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

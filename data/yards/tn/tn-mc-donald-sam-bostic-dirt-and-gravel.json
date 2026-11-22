@@ -1,0 +1,36 @@
+{
+  "id": "tn-mc-donald-sam-bostic-dirt-and-gravel",
+  "slug": "sam-bostic-dirt-and-gravel",
+  "name": "Sam Bostic Dirt & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2247 Bancroft Rd",
+    "city": "Mc Donald",
+    "state": "TN",
+    "zip": "37353"
+  },
+  "location": {
+    "lat": 35.1217,
+    "lng": -84.996422
+  },
+  "contact": {
+    "phone": "(423) 645-6584",
+    "website": "http://www.dirtandgravelooltewah.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8d9e13a-884d-4484-9eca-f6d5267e5de0",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

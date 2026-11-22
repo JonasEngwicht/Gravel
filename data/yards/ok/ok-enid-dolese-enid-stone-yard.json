@@ -1,0 +1,36 @@
+{
+  "id": "ok-enid-dolese-enid-stone-yard",
+  "slug": "dolese-enid-stone-yard",
+  "name": "Dolese Enid Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6324 U S 81",
+    "city": "Enid",
+    "state": "OK",
+    "zip": "73701"
+  },
+  "location": {
+    "lat": 36.326077,
+    "lng": -97.892197
+  },
+  "contact": {
+    "phone": "(580) 234-2967",
+    "website": "https://www.dolese.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8e7662b3-40be-4140-bcda-56f69e6ab733",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

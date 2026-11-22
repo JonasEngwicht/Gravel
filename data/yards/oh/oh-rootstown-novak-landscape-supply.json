@@ -1,0 +1,35 @@
+{
+  "id": "oh-rootstown-novak-landscape-supply",
+  "slug": "novak-landscape-supply",
+  "name": "Novak landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3939 OH-14",
+    "city": "Rootstown",
+    "state": "OH",
+    "zip": "44272"
+  },
+  "location": {
+    "lat": 41.095943,
+    "lng": -81.143578
+  },
+  "contact": {
+    "phone": "(330) 281-5422"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f06064b-555b-407f-b9c8-7f10439b5c90",
+    "confidence": 0.576,
+    "merged_records": 1
+  }
+}

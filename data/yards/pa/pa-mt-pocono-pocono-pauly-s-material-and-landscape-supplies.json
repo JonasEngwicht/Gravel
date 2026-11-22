@@ -1,0 +1,35 @@
+{
+  "id": "pa-mt-pocono-pocono-pauly-s-material-and-landscape-supplies",
+  "slug": "pocono-pauly-s-material-and-landscape-supplies",
+  "name": "Pocono Pauly's Material and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1819 Route 611",
+    "city": "Mt Pocono",
+    "state": "PA",
+    "zip": "18344"
+  },
+  "location": {
+    "lat": 41.100311,
+    "lng": -75.333397
+  },
+  "contact": {
+    "phone": "(570) 580-4770"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3314d5dc-3d19-442a-b2fe-71fdef093495",
+    "confidence": 0.86,
+    "merged_records": 1
+  }
+}

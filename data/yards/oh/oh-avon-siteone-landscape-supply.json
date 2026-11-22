@@ -1,0 +1,37 @@
+{
+  "id": "oh-avon-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1354 Lear Industrial Pkwy",
+    "city": "Avon",
+    "state": "OH",
+    "zip": "44011"
+  },
+  "location": {
+    "lat": 41.470219,
+    "lng": -81.992882
+  },
+  "contact": {
+    "phone": "(440) 934-1482",
+    "website": "https://www.siteone.com/store/492"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d157eb3-5a71-4bd3-86da-1b4ea953e79f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

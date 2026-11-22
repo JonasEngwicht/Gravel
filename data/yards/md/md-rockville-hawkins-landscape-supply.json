@@ -1,0 +1,36 @@
+{
+  "id": "md-rockville-hawkins-landscape-supply",
+  "slug": "hawkins-landscape-supply",
+  "name": "Hawkins Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "16 Southlawn Ct",
+    "city": "Rockville",
+    "state": "MD",
+    "zip": "20850"
+  },
+  "location": {
+    "lat": 39.103027,
+    "lng": -77.134766
+  },
+  "contact": {
+    "phone": "(240) 313-8485",
+    "website": "https://www.hawkinsmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "213762ff-043b-4948-90e7-1b3eadc6045c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

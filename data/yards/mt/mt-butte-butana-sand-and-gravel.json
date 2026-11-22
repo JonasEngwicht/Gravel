@@ -1,0 +1,36 @@
+{
+  "id": "mt-butte-butana-sand-and-gravel",
+  "slug": "butana-sand-and-gravel",
+  "name": "Butana Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1901 S Franklin St",
+    "city": "Butte",
+    "state": "MT",
+    "zip": "59701"
+  },
+  "location": {
+    "lat": 45.991554,
+    "lng": -112.544106
+  },
+  "contact": {
+    "phone": "(406) 494-2867",
+    "website": "http://www.butanasandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d735d436-f394-498c-b246-e7149a1b5eaf",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

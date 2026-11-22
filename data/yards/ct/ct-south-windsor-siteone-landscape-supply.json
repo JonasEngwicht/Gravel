@@ -1,0 +1,37 @@
+{
+  "id": "ct-south-windsor-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "171 Commerce Way",
+    "city": "South Windsor",
+    "state": "CT",
+    "zip": "06074"
+  },
+  "location": {
+    "lat": 41.858536,
+    "lng": -72.593857
+  },
+  "contact": {
+    "phone": "(860) 282-7661",
+    "website": "https://www.siteone.com/store/456"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf41c7dc-70c3-444a-9c1c-56afae591cff",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

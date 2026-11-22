@@ -1,0 +1,36 @@
+{
+  "id": "ca-watsonville-tri-county-landscape-supply",
+  "slug": "tri-county-landscape-supply",
+  "name": "Tri-County Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "71 Elkhorn Rd",
+    "city": "Watsonville",
+    "state": "CA",
+    "zip": "95076"
+  },
+  "location": {
+    "lat": 36.877365,
+    "lng": -121.747078
+  },
+  "contact": {
+    "phone": "(831) 728-0111",
+    "website": "http://www.tricountylandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0fef1a4e-0c68-474c-b9d4-a3cdcb8c4cc7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

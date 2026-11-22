@@ -1,0 +1,35 @@
+{
+  "id": "pa-hollidaysburg-snowberger-s-soil-and-mulch-sale",
+  "slug": "snowberger-s-soil-and-mulch-sale",
+  "name": "Snowberger's Soil & Mulch Sale",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "522 Reservoir Rd",
+    "city": "Hollidaysburg",
+    "state": "PA",
+    "zip": "16648"
+  },
+  "location": {
+    "lat": 40.371815,
+    "lng": -78.410431
+  },
+  "contact": {
+    "phone": "(814) 696-7645"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89d9edb2-5930-4c5a-92d8-929ea7a075e5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

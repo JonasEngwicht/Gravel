@@ -1,0 +1,36 @@
+{
+  "id": "mi-ingham-twp-sunrise-aggregates-llc",
+  "slug": "sunrise-aggregates-llc",
+  "name": "Sunrise Aggregates LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2105 Carter Rd",
+    "city": "Ingham Twp",
+    "state": "MI",
+    "zip": "48819"
+  },
+  "location": {
+    "lat": 42.53664,
+    "lng": -84.273781
+  },
+  "contact": {
+    "phone": "(517) 623-1000",
+    "website": "https://sunrise-aggregates-llc.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3737d23f-e296-4aef-a99a-23ce731d6ca6",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

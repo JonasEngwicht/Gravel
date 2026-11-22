@@ -1,0 +1,36 @@
+{
+  "id": "mi-south-haven-coastal-landscape-supply",
+  "slug": "coastal-landscape-supply",
+  "name": "Coastal Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12490 M-140",
+    "city": "South Haven",
+    "state": "MI",
+    "zip": "49090"
+  },
+  "location": {
+    "lat": 42.372231,
+    "lng": -86.268784
+  },
+  "contact": {
+    "phone": "(269) 637-4601",
+    "website": "http://www.coastaloutdoorlivinginc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba41072f-fff3-404f-9563-706f2f1e2bde",
+    "confidence": 0.846,
+    "merged_records": 1
+  }
+}

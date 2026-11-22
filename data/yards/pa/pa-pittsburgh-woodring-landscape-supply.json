@@ -1,0 +1,35 @@
+{
+  "id": "pa-pittsburgh-woodring-landscape-supply",
+  "slug": "woodring-landscape-supply",
+  "name": "Woodring Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "458 Davidson Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15239"
+  },
+  "location": {
+    "lat": 40.469215,
+    "lng": -79.766998
+  },
+  "contact": {
+    "phone": "(412) 798-6522"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "43f28d43-d9ef-4a60-85b5-aae2f025d7ea",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

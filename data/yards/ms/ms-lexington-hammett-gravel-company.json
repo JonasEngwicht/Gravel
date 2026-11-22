@@ -1,0 +1,36 @@
+{
+  "id": "ms-lexington-hammett-gravel-company",
+  "slug": "hammett-gravel-company",
+  "name": "Hammett Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "72 Hammett Dr",
+    "city": "Lexington",
+    "state": "MS",
+    "zip": "39095"
+  },
+  "location": {
+    "lat": 33.110744,
+    "lng": -90.036453
+  },
+  "contact": {
+    "phone": "(662) 834-1867",
+    "website": "http://hammett-gravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "679b3e39-78fe-4a27-bea6-30b9c01c553e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-austin-queen-bee-trucking-and-landscape-materials",
+  "slug": "queen-bee-trucking-and-landscape-materials",
+  "name": "Queen Bee Trucking & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10203 FM 812",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78719"
+  },
+  "location": {
+    "lat": 30.154593,
+    "lng": -97.672966
+  },
+  "contact": {
+    "phone": "(512) 614-4771"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cfbcf114-cb4b-46d8-b49b-631117e2d70f",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

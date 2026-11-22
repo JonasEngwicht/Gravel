@@ -1,0 +1,36 @@
+{
+  "id": "ma-cambridge-boston-sand-and-gravel",
+  "slug": "boston-sand-and-gravel",
+  "name": "Boston Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "180 New Rutherford Ave",
+    "city": "Cambridge",
+    "state": "MA",
+    "zip": "02129"
+  },
+  "location": {
+    "lat": 42.371178,
+    "lng": -71.068001
+  },
+  "contact": {
+    "phone": "(617) 242-5540",
+    "website": "http://www.bostonsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "32d6bef5-4090-4296-b273-fbce16e8ac51",
+    "confidence": 0.887,
+    "merged_records": 1
+  }
+}

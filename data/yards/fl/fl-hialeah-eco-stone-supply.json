@@ -1,0 +1,36 @@
+{
+  "id": "fl-hialeah-eco-stone-supply",
+  "slug": "eco-stone-supply",
+  "name": "Eco Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2761 W 77th Pl",
+    "city": "Hialeah",
+    "state": "FL",
+    "zip": "33016"
+  },
+  "location": {
+    "lat": 25.892942,
+    "lng": -80.338989
+  },
+  "contact": {
+    "phone": "(786) 315-1315",
+    "website": "https://www.ecostonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ef20198-8b1a-4f33-88f6-61dc2add4e74",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-south-san-francisco-broadmoor-landscape-supply",
+  "slug": "broadmoor-landscape-supply",
+  "name": "Broadmoor Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1350 El Camino Real",
+    "city": "South San Francisco",
+    "state": "CA",
+    "zip": "94080"
+  },
+  "location": {
+    "lat": 37.661404,
+    "lng": -122.441559
+  },
+  "contact": {
+    "phone": "(650) 761-1515",
+    "website": "http://broadmoorlandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e1949f7-80bf-4204-9ff1-5aa94d2278b2",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

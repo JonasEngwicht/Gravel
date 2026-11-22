@@ -1,0 +1,48 @@
+{
+  "id": "md-jessup-laurel-sand-and-gravel",
+  "slug": "laurel-sand-and-gravel",
+  "name": "Laurel Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8422 Washington Blvd",
+    "city": "Jessup",
+    "state": "MD",
+    "zip": "20794"
+  },
+  "location": {
+    "lat": 39.152546,
+    "lng": -76.805634
+  },
+  "contact": {
+    "phone": "(301) 953-8973",
+    "website": "https://aggmgt.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c82f7c6f-5eea-4ece-9f7a-fe13a86d0140",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1800768",
+      "name": "Savage Stone",
+      "operator": "Savage Stone, LLC",
+      "status": "Active",
+      "status_since": "2007-05-03",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 54
+    }
+  ]
+}

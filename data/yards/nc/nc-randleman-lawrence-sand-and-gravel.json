@@ -1,0 +1,35 @@
+{
+  "id": "nc-randleman-lawrence-sand-and-gravel",
+  "slug": "lawrence-sand-and-gravel",
+  "name": "Lawrence Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "195 Hockett Dairy Rd",
+    "city": "Randleman",
+    "state": "NC",
+    "zip": "27317"
+  },
+  "location": {
+    "lat": 35.902065,
+    "lng": -79.815208
+  },
+  "contact": {
+    "phone": "(336) 669-2634"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ebac3a8-1540-4d10-91c2-9c39dff1a170",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

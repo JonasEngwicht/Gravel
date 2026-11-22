@@ -1,0 +1,36 @@
+{
+  "id": "tx-rowlett-sod-shack-eco-mulch-and-sod-rowlett",
+  "slug": "sod-shack-eco-mulch-and-sod-rowlett",
+  "name": "Sod Shack-Eco Mulch & Sod Rowlett",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1200 Lakeview Pkwy",
+    "city": "Rowlett",
+    "state": "TX",
+    "zip": "75088"
+  },
+  "location": {
+    "lat": 32.908283,
+    "lng": -96.589615
+  },
+  "contact": {
+    "phone": "(469) 560-7755",
+    "website": "http://www.sodshack.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6338819b-e882-4f7f-a64a-4aaab7582064",
+    "confidence": 0.738,
+    "merged_records": 1
+  }
+}

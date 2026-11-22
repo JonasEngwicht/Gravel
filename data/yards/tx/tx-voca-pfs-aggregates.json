@@ -1,0 +1,36 @@
+{
+  "id": "tx-voca-pfs-aggregates",
+  "slug": "pfs-aggregates",
+  "name": "PFS Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "22 County Rd 222",
+    "city": "Voca",
+    "state": "TX",
+    "zip": "76887"
+  },
+  "location": {
+    "lat": 30.971998,
+    "lng": -99.124588
+  },
+  "contact": {
+    "phone": "(325) 239-5239",
+    "website": "https://www.pfsaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba5e1475-8219-4665-8a30-da638c7fa74c",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

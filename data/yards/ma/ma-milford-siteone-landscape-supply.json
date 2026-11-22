@@ -1,0 +1,37 @@
+{
+  "id": "ma-milford-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6 Commercial Way",
+    "city": "Milford",
+    "state": "MA",
+    "zip": "01757"
+  },
+  "location": {
+    "lat": 42.140945,
+    "lng": -71.493164
+  },
+  "contact": {
+    "phone": "(508) 966-0305",
+    "website": "https://www.siteone.com/en/store/652"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "84ad2fdc-7cad-4c05-ac07-120375950a23",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

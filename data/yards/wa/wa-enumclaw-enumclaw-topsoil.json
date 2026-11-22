@@ -1,0 +1,35 @@
+{
+  "id": "wa-enumclaw-enumclaw-topsoil",
+  "slug": "enumclaw-topsoil",
+  "name": "enumclaw topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "244th Ave SE",
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98022"
+  },
+  "location": {
+    "lat": 47.383179,
+    "lng": -122.022362
+  },
+  "contact": {
+    "phone": "(206) 795-9139"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3cf21e5-0763-4b0b-9641-3723d7b8c91f",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

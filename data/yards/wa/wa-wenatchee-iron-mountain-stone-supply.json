@@ -1,0 +1,36 @@
+{
+  "id": "wa-wenatchee-iron-mountain-stone-supply",
+  "slug": "iron-mountain-stone-supply",
+  "name": "Iron Mountain Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4697 Squilchuck Rd",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801"
+  },
+  "location": {
+    "lat": 47.342575,
+    "lng": -120.335411
+  },
+  "contact": {
+    "phone": "(509) 885-4034",
+    "website": "http://ironmtnsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abf63706-c254-446b-8dcc-84aef6435c93",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

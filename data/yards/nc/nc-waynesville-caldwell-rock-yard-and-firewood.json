@@ -1,0 +1,36 @@
+{
+  "id": "nc-waynesville-caldwell-rock-yard-and-firewood",
+  "slug": "caldwell-rock-yard-and-firewood",
+  "name": "Caldwell Rock Yard and Firewood",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1078 Jonathan Creek Rd",
+    "city": "Waynesville",
+    "state": "NC",
+    "zip": "28785"
+  },
+  "location": {
+    "lat": 35.53656,
+    "lng": -83.026291
+  },
+  "contact": {
+    "phone": "(828) 226-1118",
+    "website": "http://www.caldwelltruckingandexcavating.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1b29ca5-691e-429c-a02d-126d7b360b54",
+    "confidence": 0.914,
+    "merged_records": 1
+  }
+}

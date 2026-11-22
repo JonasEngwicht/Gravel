@@ -1,0 +1,36 @@
+{
+  "id": "az-tucson-acme-sand-and-gravel",
+  "slug": "acme-sand-and-gravel",
+  "name": "Acme Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7777 E 22nd St",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85710"
+  },
+  "location": {
+    "lat": 32.206882,
+    "lng": -110.827217
+  },
+  "contact": {
+    "phone": "(520) 296-6231",
+    "website": "http://www.AcmeSand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b86099c8-68ee-4625-8111-3753bd87e448",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

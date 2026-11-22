@@ -1,0 +1,37 @@
+{
+  "id": "tx-katy-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "26118 Clay Rd",
+    "city": "Katy",
+    "state": "TX",
+    "zip": "77493"
+  },
+  "location": {
+    "lat": 29.831429,
+    "lng": -95.825996
+  },
+  "contact": {
+    "phone": "(281) 398-9388",
+    "website": "https://www.siteone.com/store/552"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a1e338e-ef09-4ef2-b71b-56872dee599e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

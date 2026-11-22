@@ -1,0 +1,36 @@
+{
+  "id": "oh-orient-darby-landscape-supply",
+  "slug": "darby-landscape-supply",
+  "name": "Darby Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8075 Harrisburg Pike",
+    "city": "Orient",
+    "state": "OH",
+    "zip": "43146"
+  },
+  "location": {
+    "lat": 39.80978,
+    "lng": -83.16259
+  },
+  "contact": {
+    "phone": "(614) 419-7883",
+    "website": "http://darbylandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71a259a7-b810-432e-883f-9c836a6973c9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

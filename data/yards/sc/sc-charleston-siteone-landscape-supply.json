@@ -1,0 +1,37 @@
+{
+  "id": "sc-charleston-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "637 Marina Dr",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29492"
+  },
+  "location": {
+    "lat": 32.887932,
+    "lng": -79.933044
+  },
+  "contact": {
+    "phone": "(843) 216-1788",
+    "website": "https://www.siteone.com/store/122"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ca31a30-0144-4f07-bbfe-67840770094e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

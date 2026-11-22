@@ -1,0 +1,36 @@
+{
+  "id": "ar-timbo-alco-stone-supply",
+  "slug": "alco-stone-supply",
+  "name": "Alco Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1983 Horton Hill Rd",
+    "city": "Timbo",
+    "state": "AR",
+    "zip": "72680"
+  },
+  "location": {
+    "lat": 35.915005,
+    "lng": -92.39283
+  },
+  "contact": {
+    "phone": "(870) 746-5300",
+    "website": "http://www.alcostonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81ee1cdb-5b54-4924-96fb-f6ba83dc3a7d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

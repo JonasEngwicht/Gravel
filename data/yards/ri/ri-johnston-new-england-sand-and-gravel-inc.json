@@ -1,0 +1,47 @@
+{
+  "id": "ri-johnston-new-england-sand-and-gravel-inc",
+  "slug": "new-england-sand-and-gravel-inc",
+  "name": "New England Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "100 Armento St",
+    "city": "Johnston",
+    "state": "RI",
+    "zip": "02919"
+  },
+  "location": {
+    "lat": 41.855263,
+    "lng": -71.48719
+  },
+  "contact": {
+    "phone": "(401) 233-2300"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0455673d-4fcc-497e-8ef0-7f0bef8468d6",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3700107",
+      "name": "Acme Mine and Mill",
+      "operator": "New England Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2010-08-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

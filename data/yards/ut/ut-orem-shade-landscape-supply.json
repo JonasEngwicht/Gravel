@@ -1,0 +1,36 @@
+{
+  "id": "ut-orem-shade-landscape-supply",
+  "slug": "shade-landscape-supply",
+  "name": "Shade Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "435 S Geneva Rd #5862",
+    "city": "Orem",
+    "state": "UT",
+    "zip": "84058"
+  },
+  "location": {
+    "lat": 40.289101,
+    "lng": -111.733315
+  },
+  "contact": {
+    "phone": "(801) 225-4357",
+    "website": "http://shadehomeandgarden.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b25c200-ea05-42d4-9f76-57f9a9e596c1",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

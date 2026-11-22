@@ -1,0 +1,36 @@
+{
+  "id": "nc-charlotte-markham-landscape-products",
+  "slug": "markham-landscape-products",
+  "name": "Markham Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6300 Lakeview Rd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28269"
+  },
+  "location": {
+    "lat": 35.338955,
+    "lng": -80.832802
+  },
+  "contact": {
+    "phone": "(704) 599-3511",
+    "website": "http://www.markhamlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "56311011-fc96-4a41-b10d-cae1d0520028",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

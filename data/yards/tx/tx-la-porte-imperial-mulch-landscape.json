@@ -1,0 +1,35 @@
+{
+  "id": "tx-la-porte-imperial-mulch-landscape",
+  "slug": "imperial-mulch-landscape",
+  "name": "Imperial Mulch Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3109 Clarksville St",
+    "city": "La Porte",
+    "state": "TX",
+    "zip": "77571"
+  },
+  "location": {
+    "lat": 29.663954,
+    "lng": -95.093735
+  },
+  "contact": {
+    "phone": "(281) 542-1609"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0c2025c7-b9e1-4042-86f8-0944f4fa277d",
+    "confidence": 0.562,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-granite-city-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4308 Horseshoe Lake Rd",
+    "city": "Granite City",
+    "state": "IL",
+    "zip": "62040"
+  },
+  "location": {
+    "lat": 38.706875,
+    "lng": -90.065338
+  },
+  "contact": {
+    "website": "https://www.siteone.com/store/717"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3368e24-250f-467f-a9f5-15326d3d5d3c",
+    "confidence": 0.877,
+    "merged_records": 1
+  }
+}

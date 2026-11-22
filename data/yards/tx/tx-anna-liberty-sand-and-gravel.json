@@ -1,0 +1,36 @@
+{
+  "id": "tx-anna-liberty-sand-and-gravel",
+  "slug": "liberty-sand-and-gravel",
+  "name": "Liberty Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "500 Highview Ln",
+    "city": "Anna",
+    "state": "TX",
+    "zip": "75409"
+  },
+  "location": {
+    "lat": 33.328182,
+    "lng": -96.598778
+  },
+  "contact": {
+    "phone": "(972) 924-8065",
+    "website": "http://www.needrock.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "66e065c1-df40-4f5a-896e-46837055115c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

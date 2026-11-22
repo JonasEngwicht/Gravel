@@ -1,0 +1,37 @@
+{
+  "id": "il-batavia-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1330 Pierson Dr",
+    "city": "Batavia",
+    "state": "IL",
+    "zip": "60510"
+  },
+  "location": {
+    "lat": 41.864895,
+    "lng": -88.26519
+  },
+  "contact": {
+    "phone": "(630) 406-0380",
+    "website": "https://www.siteone.com/en/store/521"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e3b6c31-062a-4ee7-8c72-bca221485126",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

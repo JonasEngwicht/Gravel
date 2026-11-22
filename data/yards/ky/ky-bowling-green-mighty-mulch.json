@@ -1,0 +1,36 @@
+{
+  "id": "ky-bowling-green-mighty-mulch",
+  "slug": "mighty-mulch",
+  "name": "Mighty Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "201 Tobacco Rd",
+    "city": "Bowling Green",
+    "state": "KY",
+    "zip": "42101"
+  },
+  "location": {
+    "lat": 37.007027,
+    "lng": -86.426567
+  },
+  "contact": {
+    "phone": "(270) 842-8503",
+    "website": "http://southlandpallet.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04db76df-d019-4917-b347-534c711ae0c3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

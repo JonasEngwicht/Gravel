@@ -1,0 +1,36 @@
+{
+  "id": "nv-minden-genoa-trees-and-landscape-materials",
+  "slug": "genoa-trees-and-landscape-materials",
+  "name": "Genoa Trees & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2181 US-395",
+    "city": "Minden",
+    "state": "NV",
+    "zip": "89423"
+  },
+  "location": {
+    "lat": 38.996479,
+    "lng": -119.77549
+  },
+  "contact": {
+    "phone": "(775) 782-5605",
+    "website": "http://GenoaTrees.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "265548b0-872f-40a8-8681-bd50c559823c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

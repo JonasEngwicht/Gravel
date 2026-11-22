@@ -1,0 +1,36 @@
+{
+  "id": "wi-arthur-cresent-landscaping-supply",
+  "slug": "cresent-landscaping-supply",
+  "name": "Cresent Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13874 WI-27",
+    "city": "Arthur",
+    "state": "WI",
+    "zip": "54727"
+  },
+  "location": {
+    "lat": 45.044468,
+    "lng": -91.147293
+  },
+  "contact": {
+    "phone": "(715) 289-4470",
+    "website": "https://crescent-landscaping-supplies-wi.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d9012ec8-d6c3-4459-8204-75856c60f2d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

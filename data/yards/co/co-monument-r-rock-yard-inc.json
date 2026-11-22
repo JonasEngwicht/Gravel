@@ -1,0 +1,35 @@
+{
+  "id": "co-monument-r-rock-yard-inc",
+  "slug": "r-rock-yard-inc",
+  "name": "R Rock Yard Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "16140 Old Denver Rd",
+    "city": "Monument",
+    "state": "CO",
+    "zip": "80132"
+  },
+  "location": {
+    "lat": 39.066513,
+    "lng": -104.859695
+  },
+  "contact": {
+    "phone": "(719) 488-0928"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d6315672-6dba-45dd-9e84-b6f1d2c38293",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

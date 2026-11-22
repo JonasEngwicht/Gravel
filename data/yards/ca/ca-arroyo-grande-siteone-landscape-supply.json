@@ -1,0 +1,37 @@
+{
+  "id": "ca-arroyo-grande-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "200 Traffic Way # C",
+    "city": "Arroyo Grande",
+    "state": "CA",
+    "zip": "93420"
+  },
+  "location": {
+    "lat": 35.121197,
+    "lng": -120.578529
+  },
+  "contact": {
+    "phone": "(805) 481-7855",
+    "website": "https://www.siteone.com/store/313"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a67382f0-e4d3-4e64-ac3e-895c41388b4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

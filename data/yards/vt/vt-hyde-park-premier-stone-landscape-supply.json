@@ -1,0 +1,36 @@
+{
+  "id": "vt-hyde-park-premier-stone-landscape-supply",
+  "slug": "premier-stone-landscape-supply",
+  "name": "Premier Stone Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "29 Deer Run Ln",
+    "city": "Hyde Park",
+    "state": "VT",
+    "zip": "05655"
+  },
+  "location": {
+    "lat": 44.674953,
+    "lng": -72.593704
+  },
+  "contact": {
+    "phone": "(802) 635-8300",
+    "website": "http://premierstonevt.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8fe2a222-da04-417b-8fd7-b7f2a88abdfd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

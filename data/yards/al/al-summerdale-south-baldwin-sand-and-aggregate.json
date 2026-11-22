@@ -1,0 +1,36 @@
+{
+  "id": "al-summerdale-south-baldwin-sand-and-aggregate",
+  "slug": "south-baldwin-sand-and-aggregate",
+  "name": "South Baldwin Sand & Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18342 Couch Plant Rd",
+    "city": "Summerdale",
+    "state": "AL",
+    "zip": "36580"
+  },
+  "location": {
+    "lat": 30.507158,
+    "lng": -87.714989
+  },
+  "contact": {
+    "phone": "(251) 979-0082",
+    "website": "https://south-baldwin-sand-aggregate-llc.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "88c67dcc-526a-4841-bc96-851adc014c56",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

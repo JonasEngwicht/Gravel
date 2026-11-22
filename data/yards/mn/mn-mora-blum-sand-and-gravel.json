@@ -1,0 +1,35 @@
+{
+  "id": "mn-mora-blum-sand-and-gravel",
+  "slug": "blum-sand-and-gravel",
+  "name": "Blum Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2632 MN-65",
+    "city": "Mora",
+    "state": "MN",
+    "zip": "55051"
+  },
+  "location": {
+    "lat": 45.969009,
+    "lng": -93.27726
+  },
+  "contact": {
+    "phone": "(320) 679-6813"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e404b60-7a14-461e-aeac-395d70b7eb6e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

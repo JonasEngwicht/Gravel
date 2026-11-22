@@ -1,0 +1,36 @@
+{
+  "id": "wi-waukesha-russ-s-mulch-and-topsoil",
+  "slug": "russ-s-mulch-and-topsoil",
+  "name": "Russ's Mulch & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "W220N1600 Jericho Ct",
+    "city": "Waukesha",
+    "state": "WI",
+    "zip": "53186"
+  },
+  "location": {
+    "lat": 43.052071,
+    "lng": -88.187225
+  },
+  "contact": {
+    "phone": "(262) 408-2255",
+    "website": "http://www.russmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42570094-13d1-49a0-adda-31f415adabc8",
+    "confidence": 0.845,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "id-filer-the-rock-yard",
+  "slug": "the-rock-yard",
+  "name": "The Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "21356 US-30",
+    "city": "Filer",
+    "state": "ID",
+    "zip": "83328"
+  },
+  "location": {
+    "lat": 42.564327,
+    "lng": -114.545776
+  },
+  "contact": {
+    "phone": "(208) 749-6265",
+    "website": "http://Therockyard.co/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3b8e533-add2-48ca-8723-63fd7414d502",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

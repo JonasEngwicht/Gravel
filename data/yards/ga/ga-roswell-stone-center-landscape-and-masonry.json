@@ -1,0 +1,36 @@
+{
+  "id": "ga-roswell-stone-center-landscape-and-masonry",
+  "slug": "stone-center-landscape-and-masonry",
+  "name": "Stone Center | Landscape & Masonry",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "11385 Alpharetta Hwy",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30076"
+  },
+  "location": {
+    "lat": 34.057541,
+    "lng": -84.325577
+  },
+  "contact": {
+    "phone": "(770) 664-6637",
+    "website": "https://thestonecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f8a1e1a-276c-4863-b620-0deba832ed3e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

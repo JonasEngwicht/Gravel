@@ -1,0 +1,37 @@
+{
+  "id": "id-meridian-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2755 E Lanark St",
+    "city": "Meridian",
+    "state": "ID",
+    "zip": "83642"
+  },
+  "location": {
+    "lat": 43.607014,
+    "lng": -116.359848
+  },
+  "contact": {
+    "phone": "(208) 288-2102",
+    "website": "https://www.siteone.com/store/119"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1621245-ab14-4f61-bff1-4787b258adb0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

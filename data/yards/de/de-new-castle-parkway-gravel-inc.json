@@ -1,0 +1,35 @@
+{
+  "id": "de-new-castle-parkway-gravel-inc",
+  "slug": "parkway-gravel-inc",
+  "name": "Parkway Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "820 Federal School Ln",
+    "city": "New Castle",
+    "state": "DE",
+    "zip": "19720"
+  },
+  "location": {
+    "lat": 39.630043,
+    "lng": -75.628975
+  },
+  "contact": {
+    "phone": "(302) 328-5182"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0dba98f2-f3c3-4561-92af-0ebfc3285918",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

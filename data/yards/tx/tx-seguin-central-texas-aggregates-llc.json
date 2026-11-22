@@ -1,0 +1,35 @@
+{
+  "id": "tx-seguin-central-texas-aggregates-llc",
+  "slug": "central-texas-aggregates-llc",
+  "name": "Central Texas Aggregates, LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1626 N Austin St",
+    "city": "Seguin",
+    "state": "TX",
+    "zip": "78155"
+  },
+  "location": {
+    "lat": 29.822016,
+    "lng": -98.004173
+  },
+  "contact": {
+    "phone": "(830) 305-6877"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5571009e-296c-4b1e-976b-1fe4418acdd4",
+    "confidence": 0.581,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "co-fort-collins-summit-view-landscape-supply",
+  "slug": "summit-view-landscape-supply",
+  "name": "Summit View Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1911 E Mulberry St",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80524"
+  },
+  "location": {
+    "lat": 40.580006,
+    "lng": -105.042473
+  },
+  "contact": {
+    "phone": "(970) 495-6827"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5aad486-eabc-433d-b6f8-fa3502ccae12",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

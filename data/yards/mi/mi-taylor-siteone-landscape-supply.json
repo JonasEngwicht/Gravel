@@ -1,0 +1,37 @@
+{
+  "id": "mi-taylor-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "22600 Pennsylvania Rd",
+    "city": "Taylor",
+    "state": "MI",
+    "zip": "48180"
+  },
+  "location": {
+    "lat": 42.184227,
+    "lng": -83.254318
+  },
+  "contact": {
+    "phone": "(734) 284-8314",
+    "website": "https://www.siteone.com/store/61"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "40cb8781-e403-4022-807f-fcb2c362b5df",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

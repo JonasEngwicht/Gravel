@@ -1,0 +1,36 @@
+{
+  "id": "wa-chehalis-i-5-landscape-supply",
+  "slug": "i-5-landscape-supply",
+  "name": "I-5 Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "162 Bond Rd",
+    "city": "Chehalis",
+    "state": "WA",
+    "zip": "98532"
+  },
+  "location": {
+    "lat": 46.601601,
+    "lng": -122.903564
+  },
+  "contact": {
+    "phone": "(360) 748-3772",
+    "website": "http://landsculptures.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ec6cd1ee-659f-40c7-95e0-3ebda4bf45ab",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ne-omaha-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "3625 S 149th St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68144"
+  },
+  "location": {
+    "lat": 41.226948,
+    "lng": -96.147789
+  },
+  "contact": {
+    "phone": "(402) 896-1600",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "995d7653-55bc-47af-b254-e67b46650cc5",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

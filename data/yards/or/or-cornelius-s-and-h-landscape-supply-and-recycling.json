@@ -1,0 +1,36 @@
+{
+  "id": "or-cornelius-s-and-h-landscape-supply-and-recycling",
+  "slug": "s-and-h-landscape-supply-and-recycling",
+  "name": "S and H Landscape Supply and Recycling",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1045 N 4th Ave",
+    "city": "Cornelius",
+    "state": "OR",
+    "zip": "97113"
+  },
+  "location": {
+    "lat": 45.527786,
+    "lng": -123.066803
+  },
+  "contact": {
+    "phone": "(503) 357-6090",
+    "website": "http://www.shbark.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3dd1338-fd5f-40f0-a649-28099efd389c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

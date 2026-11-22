@@ -1,0 +1,36 @@
+{
+  "id": "va-springfield-remington-mulch-and-firewood",
+  "slug": "remington-mulch-and-firewood",
+  "name": "Remington Mulch & Firewood",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7920 Woodruff Ct",
+    "city": "Springfield",
+    "state": "VA",
+    "zip": "22151"
+  },
+  "location": {
+    "lat": 38.806515,
+    "lng": -77.218781
+  },
+  "contact": {
+    "phone": "(571) 565-3565",
+    "website": "https://www.remingtonmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9717109e-5e47-4d8b-8623-565f4ab56736",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

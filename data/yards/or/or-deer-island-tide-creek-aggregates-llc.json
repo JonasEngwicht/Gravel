@@ -1,0 +1,48 @@
+{
+  "id": "or-deer-island-tide-creek-aggregates-llc",
+  "slug": "tide-creek-aggregates-llc",
+  "name": "Tide Creek Aggregates, LLC.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "33877 Rock Quarry Rd",
+    "city": "Deer Island",
+    "state": "OR",
+    "zip": "97054"
+  },
+  "location": {
+    "lat": 45.960773,
+    "lng": -122.869591
+  },
+  "contact": {
+    "phone": "(503) 397-5180",
+    "website": "https://tide-creek-aggregate-llc.business.site/?m=true"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30e27a69-84b6-4b09-9ad9-f02adb4e6077",
+    "confidence": 0.877,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3502479",
+      "name": "Tide Creek Rock Inc.",
+      "operator": "Tide Creek Aggregates LLC",
+      "status": "Intermittent",
+      "status_since": "2025-11-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

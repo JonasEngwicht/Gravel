@@ -1,0 +1,48 @@
+{
+  "id": "ma-sunderland-delta-sand-and-gravel-inc",
+  "slug": "delta-sand-and-gravel-inc",
+  "name": "Delta Sand and Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "562 Amherst Rd",
+    "city": "Sunderland",
+    "state": "MA",
+    "zip": "01375"
+  },
+  "location": {
+    "lat": 42.437424,
+    "lng": -72.546532
+  },
+  "contact": {
+    "phone": "(413) 665-4051",
+    "website": "https://www.delta-sand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b1b938a-359e-4999-b0fc-1d381ca41a65",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900369",
+      "name": "Sunderland Gravel Pit",
+      "operator": "Delta Sand And Gravel, Inc.",
+      "status": "Intermittent",
+      "status_since": "1983-01-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

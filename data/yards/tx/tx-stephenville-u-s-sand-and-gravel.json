@@ -1,0 +1,36 @@
+{
+  "id": "tx-stephenville-u-s-sand-and-gravel",
+  "slug": "u-s-sand-and-gravel",
+  "name": "U.S. Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1111 N Graham St",
+    "city": "Stephenville",
+    "state": "TX",
+    "zip": "76401"
+  },
+  "location": {
+    "lat": 32.228504,
+    "lng": -98.207321
+  },
+  "contact": {
+    "phone": "(254) 434-4277",
+    "website": "http://Ussandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15d638d7-1204-4fdc-a8b4-6392d7d2a12c",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

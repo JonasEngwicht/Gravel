@@ -1,0 +1,48 @@
+{
+  "id": "mi-snover-albrecht-sand-and-gravel-co",
+  "slug": "albrecht-sand-and-gravel-co",
+  "name": "Albrecht Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3790 W Sanilac Rd",
+    "city": "Snover",
+    "state": "MI",
+    "zip": "48472"
+  },
+  "location": {
+    "lat": 43.417606,
+    "lng": -82.981926
+  },
+  "contact": {
+    "phone": "(810) 672-9272",
+    "website": "http://www.albrechtsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2676dfa2-7101-43be-838c-41b3c4cb1580",
+    "confidence": 0.804,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2002858",
+      "name": "Wash Plant",
+      "operator": "Albrecht Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2014-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

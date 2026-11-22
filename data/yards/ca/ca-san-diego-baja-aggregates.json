@@ -1,0 +1,44 @@
+{
+  "id": "ca-san-diego-baja-aggregates",
+  "slug": "baja-aggregates",
+  "name": "Baja Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7525 Mission Gorge Rd  Ste B",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92120"
+  },
+  "location": {
+    "lat": 32.806767,
+    "lng": -117.076805
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "76aa8bb1-7f42-4896-bd73-5ee0e7c0f25c",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0400089",
+      "name": "Mission Gorge Plant",
+      "operator": "Superior Ready Mix Concrete L P",
+      "status": "Active",
+      "status_since": "1973-05-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 25
+    }
+  ]
+}

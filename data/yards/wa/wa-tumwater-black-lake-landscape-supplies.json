@@ -1,0 +1,36 @@
+{
+  "id": "wa-tumwater-black-lake-landscape-supplies",
+  "slug": "black-lake-landscape-supplies",
+  "name": "Black Lake Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2935 Black Lake Blvd SW",
+    "city": "Tumwater",
+    "state": "WA",
+    "zip": "98512"
+  },
+  "location": {
+    "lat": 47.021816,
+    "lng": -122.959801
+  },
+  "contact": {
+    "phone": "(360) 570-1562",
+    "website": "http://blacklakelandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "20ccdd8e-36e8-4be2-b6d0-2e9abafd1e84",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

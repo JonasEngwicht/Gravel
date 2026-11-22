@@ -1,0 +1,36 @@
+{
+  "id": "va-springfield-springfield-topsoil",
+  "slug": "springfield-topsoil",
+  "name": "Springfield Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6869 Springfield Blvd",
+    "city": "Springfield",
+    "state": "VA",
+    "zip": "22150"
+  },
+  "location": {
+    "lat": 38.777943,
+    "lng": -77.183716
+  },
+  "contact": {
+    "phone": "(703) 249-4896",
+    "website": "http://www.springfieldtopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e325c403-f751-4f94-85c8-1d76e419c74e",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

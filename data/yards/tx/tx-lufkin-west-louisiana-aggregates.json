@@ -1,0 +1,36 @@
+{
+  "id": "tx-lufkin-west-louisiana-aggregates",
+  "slug": "west-louisiana-aggregates",
+  "name": "West Louisiana Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "204 E Burke Ave",
+    "city": "Lufkin",
+    "state": "TX",
+    "zip": "75901"
+  },
+  "location": {
+    "lat": 31.336538,
+    "lng": -94.728317
+  },
+  "contact": {
+    "phone": "(318) 272-6606",
+    "website": "https://westlouisianaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5eb46683-d239-42a3-8d00-ce3b310a0267",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

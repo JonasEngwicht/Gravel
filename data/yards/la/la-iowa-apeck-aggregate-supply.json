@@ -1,0 +1,35 @@
+{
+  "id": "la-iowa-apeck-aggregate-supply",
+  "slug": "apeck-aggregate-supply",
+  "name": "Apeck Aggregate Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21185 S Frontage Rd",
+    "city": "Iowa",
+    "state": "LA",
+    "zip": "70647"
+  },
+  "location": {
+    "lat": 30.245871,
+    "lng": -92.947052
+  },
+  "contact": {
+    "phone": "(337) 588-4321"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "29404000-f45d-4e76-8aeb-cc712aea1ee5",
+    "confidence": 0.682,
+    "merged_records": 2
+  }
+}

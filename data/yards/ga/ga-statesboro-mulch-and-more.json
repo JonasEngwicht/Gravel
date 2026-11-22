@@ -1,0 +1,36 @@
+{
+  "id": "ga-statesboro-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "22659 Highway 80 E",
+    "city": "Statesboro",
+    "state": "GA",
+    "zip": "30461"
+  },
+  "location": {
+    "lat": 32.423809,
+    "lng": -81.729622
+  },
+  "contact": {
+    "phone": "(912) 871-6673",
+    "website": "http://mysouthernservices.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1a82c245-168f-4fd8-a64c-e7cb037833d2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

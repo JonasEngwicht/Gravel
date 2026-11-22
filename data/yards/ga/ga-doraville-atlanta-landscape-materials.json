@@ -1,0 +1,36 @@
+{
+  "id": "ga-doraville-atlanta-landscape-materials",
+  "slug": "atlanta-landscape-materials",
+  "name": "Atlanta Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5996 Buford Hwy NE",
+    "city": "Doraville",
+    "state": "GA",
+    "zip": "30340"
+  },
+  "location": {
+    "lat": 33.913822,
+    "lng": -84.262932
+  },
+  "contact": {
+    "phone": "(770) 936-8462",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/ATLDORA/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe4b716e-d33e-4a4c-9e18-8af25286e2ae",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-batavia-batavia-mulch",
+  "slug": "batavia-mulch",
+  "name": "Batavia Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1210 Lyon Rd",
+    "city": "Batavia",
+    "state": "IL",
+    "zip": "60510"
+  },
+  "location": {
+    "lat": 41.864193,
+    "lng": -88.284485
+  },
+  "contact": {
+    "phone": "(630) 406-0667",
+    "website": "http://www.bataviamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9fb81db-ac2a-4e23-a288-b3b0713fc261",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

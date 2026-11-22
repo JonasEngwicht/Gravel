@@ -1,0 +1,36 @@
+{
+  "id": "tx-liberty-hill-whittlesey-landscape-supplies",
+  "slug": "whittlesey-landscape-supplies",
+  "name": "Whittlesey Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14775 W SH 29",
+    "city": "Liberty Hill",
+    "state": "TX",
+    "zip": "78642"
+  },
+  "location": {
+    "lat": 30.674816,
+    "lng": -97.926529
+  },
+  "contact": {
+    "phone": "(512) 515-1336",
+    "website": "https://www.989rock.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb4de518-6fe3-4df2-83a3-2a606344e591",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

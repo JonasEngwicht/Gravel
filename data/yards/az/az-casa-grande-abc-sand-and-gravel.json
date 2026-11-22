@@ -1,0 +1,35 @@
+{
+  "id": "az-casa-grande-abc-sand-and-gravel",
+  "slug": "abc-sand-and-gravel",
+  "name": "ABC Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5731 N Simpier Ln",
+    "city": "Casa Grande",
+    "state": "AZ",
+    "zip": "85122"
+  },
+  "location": {
+    "lat": 32.932171,
+    "lng": -111.757637
+  },
+  "contact": {
+    "phone": "(480) 247-1707"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a945b28-15d6-4284-9540-680553af9b54",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

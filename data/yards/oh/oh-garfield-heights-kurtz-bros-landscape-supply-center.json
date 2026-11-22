@@ -1,0 +1,36 @@
+{
+  "id": "oh-garfield-heights-kurtz-bros-landscape-supply-center",
+  "slug": "kurtz-bros-landscape-supply-center",
+  "name": "Kurtz Bros. - Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13532 Broadway Ave",
+    "city": "Garfield Heights",
+    "state": "OH",
+    "zip": "44125"
+  },
+  "location": {
+    "lat": 41.427368,
+    "lng": -81.587936
+  },
+  "contact": {
+    "phone": "(216) 986-7032",
+    "website": "http://www.kurtz-bros.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dfb9aabf-3d27-4ce6-a3ec-b559ab40bd3c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

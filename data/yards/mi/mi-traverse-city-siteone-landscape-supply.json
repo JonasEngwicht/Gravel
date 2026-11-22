@@ -1,0 +1,37 @@
+{
+  "id": "mi-traverse-city-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "486 W Welch Ct",
+    "city": "Traverse City",
+    "state": "MI",
+    "zip": "49686"
+  },
+  "location": {
+    "lat": 44.731567,
+    "lng": -85.585129
+  },
+  "contact": {
+    "phone": "(231) 933-9090",
+    "website": "https://www.siteone.com/store/58"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c023d31-5a71-408d-b26f-23c36158ce3d",
+    "confidence": 0.951,
+    "merged_records": 2
+  }
+}

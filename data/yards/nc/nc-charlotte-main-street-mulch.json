@@ -1,0 +1,36 @@
+{
+  "id": "nc-charlotte-main-street-mulch",
+  "slug": "main-street-mulch",
+  "name": "Main Street Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "15720 Brixham Hill Ave Ste 300",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277"
+  },
+  "location": {
+    "lat": 35.058449,
+    "lng": -80.852112
+  },
+  "contact": {
+    "phone": "(704) 396-4960",
+    "website": "https://mainstreetmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ffd9504a-7373-4c95-9b8d-ef8781d767ec",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

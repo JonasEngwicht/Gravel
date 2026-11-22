@@ -1,0 +1,36 @@
+{
+  "id": "ca-petaluma-sonomarin-landscape-materials",
+  "slug": "sonomarin-landscape-materials",
+  "name": "Sonomarin Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2500 Petaluma Blvd N",
+    "city": "Petaluma",
+    "state": "CA",
+    "zip": "94952"
+  },
+  "location": {
+    "lat": 38.256237,
+    "lng": -122.652664
+  },
+  "contact": {
+    "phone": "(707) 762-0505",
+    "website": "http://www.sonomarinscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2a40fae1-3e86-4c2d-9266-6e2fbc141cf0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

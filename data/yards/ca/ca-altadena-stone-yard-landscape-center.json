@@ -1,0 +1,36 @@
+{
+  "id": "ca-altadena-stone-yard-landscape-center",
+  "slug": "stone-yard-landscape-center",
+  "name": "Stone Yard Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "525 W Woodbury Rd",
+    "city": "Altadena",
+    "state": "CA",
+    "zip": "91001"
+  },
+  "location": {
+    "lat": 34.183811,
+    "lng": -118.161896
+  },
+  "contact": {
+    "phone": "(626) 798-3233",
+    "website": "http://www.stoneyardca.com/home"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac924c0c-0bb5-4936-8182-b40d80538c2d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

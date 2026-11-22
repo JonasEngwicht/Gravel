@@ -1,0 +1,36 @@
+{
+  "id": "ga-peachtree-corners-green-landscape-supply",
+  "slug": "green-landscape-supply",
+  "name": "Green Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5000 S Peachtree St",
+    "city": "Peachtree Corners",
+    "state": "GA",
+    "zip": "30071"
+  },
+  "location": {
+    "lat": 33.931946,
+    "lng": -84.226563
+  },
+  "contact": {
+    "phone": "(770) 717-5565",
+    "website": "https://www.greenlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c8536c87-f7c0-4966-953c-61f3c0356db8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

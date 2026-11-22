@@ -1,0 +1,36 @@
+{
+  "id": "co-grand-junction-brickyard-masonry-and-landscape-supply",
+  "slug": "brickyard-masonry-and-landscape-supply",
+  "name": "Brickyard Masonry and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2860 I-70BL",
+    "city": "Grand Junction",
+    "state": "CO",
+    "zip": "81501"
+  },
+  "location": {
+    "lat": 39.07169,
+    "lng": -108.523048
+  },
+  "contact": {
+    "phone": "(970) 242-5575",
+    "website": "http://www.brickyardcolorado.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74dcadaf-8050-49d4-bd52-b404520409be",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

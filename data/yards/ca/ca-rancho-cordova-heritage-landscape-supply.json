@@ -1,0 +1,37 @@
+{
+  "id": "ca-rancho-cordova-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "11493 Refinement Rd",
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "zip": "95742"
+  },
+  "location": {
+    "lat": 38.568043,
+    "lng": -121.252899
+  },
+  "contact": {
+    "phone": "(916) 851-8484",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52e317c2-898b-4a73-8328-e012309aa2a9",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

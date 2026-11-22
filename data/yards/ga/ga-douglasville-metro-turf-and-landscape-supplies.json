@@ -1,0 +1,36 @@
+{
+  "id": "ga-douglasville-metro-turf-and-landscape-supplies",
+  "slug": "metro-turf-and-landscape-supplies",
+  "name": "Metro Turf & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3835 Kings Hwy",
+    "city": "Douglasville",
+    "state": "GA",
+    "zip": "30135"
+  },
+  "location": {
+    "lat": 33.701576,
+    "lng": -84.771927
+  },
+  "contact": {
+    "phone": "(678) 697-2108",
+    "website": "http://www.metroturfllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1e086246-4592-4f9e-ab8a-7ce207dcae87",
+    "confidence": 0.929,
+    "merged_records": 1
+  }
+}

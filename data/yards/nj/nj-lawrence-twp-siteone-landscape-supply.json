@@ -1,0 +1,37 @@
+{
+  "id": "nj-lawrence-twp-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "209 Bakers Basin Rd",
+    "city": "Lawrence Twp",
+    "state": "NJ",
+    "zip": "08648"
+  },
+  "location": {
+    "lat": 40.27351,
+    "lng": -74.704399
+  },
+  "contact": {
+    "phone": "(609) 844-1075",
+    "website": "https://www.siteone.com/en/store/642"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f263ec25-d8a3-4d4e-a9e6-abb9d2410eb1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

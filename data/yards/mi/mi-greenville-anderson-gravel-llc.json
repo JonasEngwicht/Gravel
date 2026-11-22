@@ -1,0 +1,47 @@
+{
+  "id": "mi-greenville-anderson-gravel-llc",
+  "slug": "anderson-gravel-llc",
+  "name": "Anderson Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8437 W Snows Lake Rd",
+    "city": "Greenville",
+    "state": "MI",
+    "zip": "48838"
+  },
+  "location": {
+    "lat": 43.133522,
+    "lng": -85.242744
+  },
+  "contact": {
+    "phone": "(616) 754-5336"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8b40f876-dc31-415c-b010-c109ef0e24f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2002002",
+      "name": "Shook Gravel Pit",
+      "operator": "Shook Asphalt Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "1985-09-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

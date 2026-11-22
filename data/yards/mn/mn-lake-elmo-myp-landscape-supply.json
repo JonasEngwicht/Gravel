@@ -1,0 +1,36 @@
+{
+  "id": "mn-lake-elmo-myp-landscape-supply",
+  "slug": "myp-landscape-supply",
+  "name": "MYP Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9591 60th St N",
+    "city": "Lake Elmo",
+    "state": "MN",
+    "zip": "55042"
+  },
+  "location": {
+    "lat": 45.035091,
+    "lng": -92.912323
+  },
+  "contact": {
+    "phone": "(651) 755-3880",
+    "website": "http://www.myplandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e69dce08-c349-4b37-8d48-67ed10b3d061",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

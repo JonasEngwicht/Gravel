@@ -1,0 +1,48 @@
+{
+  "id": "ma-middleborough-byrne-sand-and-gravel",
+  "slug": "byrne-sand-and-gravel",
+  "name": "Byrne Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "210 Wood St",
+    "city": "Middleborough",
+    "state": "MA",
+    "zip": "02346"
+  },
+  "location": {
+    "lat": 41.884781,
+    "lng": -70.883774
+  },
+  "contact": {
+    "phone": "(508) 947-0724",
+    "website": "http://byrnesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f4d7d730-c1a1-4cd3-99a0-722630c88ba3",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900689",
+      "name": "W L Byrne, Inc",
+      "operator": "W L Byrne, Inc",
+      "status": "Active",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

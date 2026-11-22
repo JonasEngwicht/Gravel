@@ -1,0 +1,36 @@
+{
+  "id": "pa-york-eshbach-mulch-products",
+  "slug": "eshbach-mulch-products",
+  "name": "Eshbach Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "299 Burgs Ln",
+    "city": "York",
+    "state": "PA",
+    "zip": "17406"
+  },
+  "location": {
+    "lat": 40.025928,
+    "lng": -76.565933
+  },
+  "contact": {
+    "phone": "(717) 252-4800",
+    "website": "https://www.eshbachmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b33743eb-4829-4b6c-82fd-245e469b97e1",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

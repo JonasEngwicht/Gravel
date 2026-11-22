@@ -1,0 +1,36 @@
+{
+  "id": "ut-west-jordan-wasatch-topsoil",
+  "slug": "wasatch-topsoil",
+  "name": "Wasatch Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9625 Bagley Park Rd",
+    "city": "West Jordan",
+    "state": "UT",
+    "zip": "84081"
+  },
+  "location": {
+    "lat": 40.576782,
+    "lng": -112.014923
+  },
+  "contact": {
+    "phone": "(801) 455-4595",
+    "website": "https://www.wasatchtopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4721161-33fc-4b5f-9ccc-0b641cc4c2f4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

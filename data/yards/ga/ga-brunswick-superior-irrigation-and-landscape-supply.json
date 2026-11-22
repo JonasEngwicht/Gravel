@@ -1,0 +1,37 @@
+{
+  "id": "ga-brunswick-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "128 Shell Drive",
+    "city": "Brunswick",
+    "state": "GA",
+    "zip": "31520"
+  },
+  "location": {
+    "lat": 31.199032,
+    "lng": -81.496498
+  },
+  "contact": {
+    "phone": "(912) 554-2270",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/FISBRUN/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "22915657-b155-4910-92a7-1762f23176d6",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

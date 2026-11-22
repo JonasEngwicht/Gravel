@@ -1,0 +1,36 @@
+{
+  "id": "nc-wilmington-jet-mulch",
+  "slug": "jet-mulch",
+  "name": "Jet Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6138 Carolina Beach Rd",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28412"
+  },
+  "location": {
+    "lat": 34.115074,
+    "lng": -77.90094
+  },
+  "contact": {
+    "phone": "(910) 686-5111",
+    "website": "http://www.jetmulchwil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "605d94b8-ea9f-4dcc-950e-ded89c614694",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

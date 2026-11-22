@@ -1,0 +1,36 @@
+{
+  "id": "al-foley-jojo-s-landscape-supply-and-more",
+  "slug": "jojo-s-landscape-supply-and-more",
+  "name": "JoJo's Landscape Supply & More",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21550 US-98",
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535"
+  },
+  "location": {
+    "lat": 30.406324,
+    "lng": -87.657036
+  },
+  "contact": {
+    "phone": "(251) 514-5656",
+    "website": "http://jojoslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1305f7da-4908-4311-a2ef-9f7bb55a87f7",
+    "confidence": 0.622,
+    "merged_records": 1
+  }
+}

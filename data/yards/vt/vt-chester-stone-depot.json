@@ -1,0 +1,36 @@
+{
+  "id": "vt-chester-stone-depot",
+  "slug": "stone-depot",
+  "name": "Stone Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3643 VT-103",
+    "city": "Chester",
+    "state": "VT",
+    "zip": "05143"
+  },
+  "location": {
+    "lat": 43.326229,
+    "lng": -72.611031
+  },
+  "contact": {
+    "phone": "(802) 875-6565",
+    "website": "http://www.allstonevermont.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55faa518-372e-4cc8-9619-c9faf0fcaf05",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

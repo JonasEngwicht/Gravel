@@ -1,0 +1,37 @@
+{
+  "id": "az-surprise-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "13415 W Westgate Dr",
+    "city": "Surprise",
+    "state": "AZ",
+    "zip": "85378"
+  },
+  "location": {
+    "lat": 33.639908,
+    "lng": -112.348648
+  },
+  "contact": {
+    "phone": "(623) 584-5901",
+    "website": "https://www.siteone.com/store/160"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74a1770f-d8cc-4012-8692-5104f968ecbb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

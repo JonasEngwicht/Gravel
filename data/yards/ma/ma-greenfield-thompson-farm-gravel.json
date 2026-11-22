@@ -1,0 +1,36 @@
+{
+  "id": "ma-greenfield-thompson-farm-gravel",
+  "slug": "thompson-farm-gravel",
+  "name": "Thompson Farm Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "340 Leyden Rd",
+    "city": "Greenfield",
+    "state": "MA",
+    "zip": "01301"
+  },
+  "location": {
+    "lat": 42.62392,
+    "lng": -72.60881
+  },
+  "contact": {
+    "phone": "(413) 774-4756",
+    "website": "https://sites.google.com/site/thompsonfarmgravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1e223330-c605-4f9e-850b-22b72a099531",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

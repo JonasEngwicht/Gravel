@@ -1,0 +1,35 @@
+{
+  "id": "mn-vining-les-freske-aggregates-and-clay",
+  "slug": "les-freske-aggregates-and-clay",
+  "name": "Les Freske Aggregates & Clay",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "46600 Hillview Dr",
+    "city": "Vining",
+    "state": "MN",
+    "zip": "56588"
+  },
+  "location": {
+    "lat": 46.144669,
+    "lng": -95.517471
+  },
+  "contact": {
+    "phone": "(612) 819-2051"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c2c974b8-ede4-4def-a365-388ef6b56ccd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-holly-ridge-atlantic-mulch-and-stone",
+  "slug": "atlantic-mulch-and-stone",
+  "name": "Atlantic Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "234 Lloyd St",
+    "city": "Holly Ridge",
+    "state": "NC",
+    "zip": "28445"
+  },
+  "location": {
+    "lat": 34.499725,
+    "lng": -77.551003
+  },
+  "contact": {
+    "phone": "(910) 803-0363",
+    "website": "https://atlanticmulchstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "000f4b59-dcd2-45d9-98d1-9c92313087e8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

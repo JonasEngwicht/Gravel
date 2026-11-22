@@ -1,0 +1,47 @@
+{
+  "id": "in-peru-east-side-aggregates-inc",
+  "slug": "east-side-aggregates-inc",
+  "name": "East Side Aggregates, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3455 E Wabash Rd",
+    "city": "Peru",
+    "state": "IN",
+    "zip": "46970"
+  },
+  "location": {
+    "lat": 40.764664,
+    "lng": -86.007927
+  },
+  "contact": {
+    "website": "https://www.eastsideagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "18a6ed21-6efe-4abb-af1e-acbfc2e71049",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1201813",
+      "name": "East Side Aggregates Inc",
+      "operator": "East Side Aggregates Inc",
+      "status": "Active",
+      "status_since": "2026-10-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

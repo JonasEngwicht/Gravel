@@ -1,0 +1,37 @@
+{
+  "id": "ny-orchard-park-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4140 S Taylor Rd",
+    "city": "Orchard Park",
+    "state": "NY",
+    "zip": "14127"
+  },
+  "location": {
+    "lat": 42.770798,
+    "lng": -78.765366
+  },
+  "contact": {
+    "phone": "(716) 662-1818",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b96a6bdb-9ed0-4aca-95c6-1bafe7de1d24",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

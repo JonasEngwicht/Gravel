@@ -1,0 +1,37 @@
+{
+  "id": "tn-nashville-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "2837 Logan St",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37211"
+  },
+  "location": {
+    "lat": 36.113224,
+    "lng": -86.741554
+  },
+  "contact": {
+    "phone": "(629) 249-2837",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/SILNASH/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "00d0ffb3-f321-4b65-a4d1-38ccb5e42854",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

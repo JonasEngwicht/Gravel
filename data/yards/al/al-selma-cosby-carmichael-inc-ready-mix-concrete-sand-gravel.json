@@ -1,0 +1,48 @@
+{
+  "id": "al-selma-cosby-carmichael-inc-ready-mix-concrete-sand-gravel",
+  "slug": "cosby-carmichael-inc-ready-mix-concrete-sand-gravel",
+  "name": "Cosby-Carmichael Inc - Ready Mix Concrete, Sand, Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "637 River Rd",
+    "city": "Selma",
+    "state": "AL",
+    "zip": "36703"
+  },
+  "location": {
+    "lat": 32.402439,
+    "lng": -86.988014
+  },
+  "contact": {
+    "phone": "(334) 874-7411",
+    "website": "http://www.cosbycarmichael.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41ae40c6-6f55-4924-b473-b3e52a1a7165",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0100678",
+      "name": "Cosby #1 Pit",
+      "operator": "Cosby-Carmichael Inc",
+      "status": "Active",
+      "status_since": "1972-02-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

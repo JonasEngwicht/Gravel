@@ -1,0 +1,48 @@
+{
+  "id": "mo-riverside-holliday-sand-and-gravel",
+  "slug": "holliday-sand-and-gravel",
+  "name": "Holliday Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3501 NW Zeke Rd",
+    "city": "Riverside",
+    "state": "MO",
+    "zip": "64150"
+  },
+  "location": {
+    "lat": 39.16312,
+    "lng": -94.611664
+  },
+  "contact": {
+    "phone": "(816) 741-6466",
+    "website": "https://www.hollidaysand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "86456ea8-182e-466e-846d-f0af050b3e46",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2302035",
+      "name": "Riverside Plant #11",
+      "operator": "Holliday Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2025-10-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

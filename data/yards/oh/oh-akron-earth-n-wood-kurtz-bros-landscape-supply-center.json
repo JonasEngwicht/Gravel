@@ -1,0 +1,36 @@
+{
+  "id": "oh-akron-earth-n-wood-kurtz-bros-landscape-supply-center",
+  "slug": "earth-n-wood-kurtz-bros-landscape-supply-center",
+  "name": "Earth 'n Wood / Kurtz Bros. - Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2436 South Arlington Road",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44319"
+  },
+  "location": {
+    "lat": 41.005009,
+    "lng": -81.492317
+  },
+  "contact": {
+    "phone": "(330) 644-1900",
+    "website": "https://www.kurtz-bros.com/akron?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7eb1b293-95dd-44eb-8172-f97ba4619955",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

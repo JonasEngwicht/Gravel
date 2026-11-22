@@ -1,0 +1,36 @@
+{
+  "id": "mo-river-bend-riverbend-rock-and-mulch",
+  "slug": "riverbend-rock-and-mulch",
+  "name": "Riverbend Rock & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "15101 Industrial Dr",
+    "city": "River Bend",
+    "state": "MO",
+    "zip": "64058"
+  },
+  "location": {
+    "lat": 39.173206,
+    "lng": -94.393066
+  },
+  "contact": {
+    "phone": "(816) 257-7625",
+    "website": "http://riverbendrockandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd12ec5c-4593-44a4-8ccb-0fbd9a37c7a4",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

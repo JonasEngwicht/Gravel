@@ -1,0 +1,35 @@
+{
+  "id": "ga-peachtree-corners-best-atlanta-mulch",
+  "slug": "best-atlanta-mulch",
+  "name": "Best Atlanta Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4708 S Old Peachtree Rd",
+    "city": "Peachtree Corners",
+    "state": "GA",
+    "zip": "30071"
+  },
+  "location": {
+    "lat": 33.966751,
+    "lng": -84.185707
+  },
+  "contact": {
+    "phone": "(404) 925-4346"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "86197563-4747-416f-bc0b-5f6930c5db0d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

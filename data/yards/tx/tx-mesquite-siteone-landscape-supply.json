@@ -1,0 +1,37 @@
+{
+  "id": "tx-mesquite-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2945 E Meadows Blvd",
+    "city": "Mesquite",
+    "state": "TX",
+    "zip": "75150"
+  },
+  "location": {
+    "lat": 32.803967,
+    "lng": -96.660927
+  },
+  "contact": {
+    "phone": "(972) 681-5511",
+    "website": "https://www.siteone.com/store/210"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a74bd378-8008-4f58-bcd3-2220e047eeff",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

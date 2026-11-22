@@ -1,0 +1,35 @@
+{
+  "id": "nc-winston-salem-wallburg-mulch-sand-and-gravel",
+  "slug": "wallburg-mulch-sand-and-gravel",
+  "name": "Wallburg mulch sand & gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8490 N NC-109",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27107"
+  },
+  "location": {
+    "lat": 36.009354,
+    "lng": -80.137283
+  },
+  "contact": {
+    "phone": "(336) 769-4042"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca35b628-12f2-49bd-b315-be59905e4566",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

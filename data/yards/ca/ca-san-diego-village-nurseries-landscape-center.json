@@ -1,0 +1,36 @@
+{
+  "id": "ca-san-diego-village-nurseries-landscape-center",
+  "slug": "village-nurseries-landscape-center",
+  "name": "Village Nurseries Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5400 Governor Dr",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92122"
+  },
+  "location": {
+    "lat": 32.859047,
+    "lng": -117.182053
+  },
+  "contact": {
+    "phone": "(858) 552-0592",
+    "website": "https://www.villagenurserieslc.com/locations/miramar-landscape-center"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "50c7b0ad-dc46-4f36-8488-ae9dcae8b856",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

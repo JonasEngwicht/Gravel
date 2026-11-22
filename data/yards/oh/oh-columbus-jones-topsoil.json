@@ -1,0 +1,36 @@
+{
+  "id": "oh-columbus-jones-topsoil",
+  "slug": "jones-topsoil",
+  "name": "Jones Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "350 Frank Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43207"
+  },
+  "location": {
+    "lat": 39.924931,
+    "lng": -83.000595
+  },
+  "contact": {
+    "phone": "(614) 443-4611",
+    "website": "http://www.jonestopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ce2cbb8-b458-468a-80f3-289b24681673",
+    "confidence": 0.98,
+    "merged_records": 1
+  }
+}

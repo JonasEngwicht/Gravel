@@ -1,0 +1,36 @@
+{
+  "id": "il-marengo-coral-lake-sand-and-gravel",
+  "slug": "coral-lake-sand-and-gravel",
+  "name": "Coral Lake Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8920 S Il Route 23",
+    "city": "Marengo",
+    "state": "IL",
+    "zip": "60152"
+  },
+  "location": {
+    "lat": 42.235439,
+    "lng": -88.628357
+  },
+  "contact": {
+    "phone": "(815) 568-1538",
+    "website": "http://www.geskeandsonsinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0c3303f-828d-44dd-a5a8-0841bb96cf7f",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

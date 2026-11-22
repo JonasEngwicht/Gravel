@@ -1,0 +1,37 @@
+{
+  "id": "ny-rochester-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "51 Goodway Dr S",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14623"
+  },
+  "location": {
+    "lat": 43.091152,
+    "lng": -77.579155
+  },
+  "contact": {
+    "phone": "(585) 427-2070",
+    "website": "http://siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e96c1bd4-938e-480a-8116-7e1ad8e45994",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

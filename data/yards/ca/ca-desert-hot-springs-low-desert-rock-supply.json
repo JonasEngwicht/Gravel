@@ -1,0 +1,36 @@
+{
+  "id": "ca-desert-hot-springs-low-desert-rock-supply",
+  "slug": "low-desert-rock-supply",
+  "name": "Low Desert Rock Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "65005 Dillon Rd",
+    "city": "Desert Hot Springs",
+    "state": "CA",
+    "zip": "92240"
+  },
+  "location": {
+    "lat": 33.924156,
+    "lng": -116.526695
+  },
+  "contact": {
+    "phone": "(760) 272-4973",
+    "website": "http://www.Lowdesertrocksupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0455f52-c7d3-41b5-ac3e-e9996b1f517a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

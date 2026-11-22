@@ -1,0 +1,36 @@
+{
+  "id": "va-henrico-landscape-supply",
+  "slug": "landscape-supply",
+  "name": "Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12115 Ridgefield Pkwy",
+    "city": "Henrico",
+    "state": "VA",
+    "zip": "23233"
+  },
+  "location": {
+    "lat": 37.623859,
+    "lng": -77.641663
+  },
+  "contact": {
+    "phone": "(804) 754-3590",
+    "website": "http://www.landscapesupplyva.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71438842-7a06-46db-9665-aada1615c578",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

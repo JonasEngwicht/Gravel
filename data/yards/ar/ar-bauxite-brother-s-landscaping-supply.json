@@ -1,0 +1,35 @@
+{
+  "id": "ar-bauxite-brother-s-landscaping-supply",
+  "slug": "brother-s-landscaping-supply",
+  "name": "Brother's Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4702 Bauxite Hwy",
+    "city": "Bauxite",
+    "state": "AR",
+    "zip": "72011"
+  },
+  "location": {
+    "lat": 34.556068,
+    "lng": -92.532463
+  },
+  "contact": {
+    "phone": "(501) 249-7552"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04e82027-677f-4981-a25d-3e82dded5836",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

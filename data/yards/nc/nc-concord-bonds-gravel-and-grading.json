@@ -1,0 +1,35 @@
+{
+  "id": "nc-concord-bonds-gravel-and-grading",
+  "slug": "bonds-gravel-and-grading",
+  "name": "Bonds Gravel & Grading",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "635 Pitts School Rd",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28027"
+  },
+  "location": {
+    "lat": 35.366409,
+    "lng": -80.660553
+  },
+  "contact": {
+    "phone": "(704) 782-5771"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41529c49-6e64-41a6-9a24-4b55c23b37be",
+    "confidence": 0.526,
+    "merged_records": 1
+  }
+}

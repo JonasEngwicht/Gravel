@@ -1,0 +1,35 @@
+{
+  "id": "nd-kindred-rustad-s-sand-and-gravel",
+  "slug": "rustad-s-sand-and-gravel",
+  "name": "Rustad's Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16220 ND-46",
+    "city": "Kindred",
+    "state": "ND",
+    "zip": "58051"
+  },
+  "location": {
+    "lat": 46.629093,
+    "lng": -97.017181
+  },
+  "contact": {
+    "phone": "(701) 428-3896"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a58feb2-8481-412e-9796-523ac5ad8034",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

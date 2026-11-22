@@ -1,0 +1,36 @@
+{
+  "id": "pa-franklin-twp-waynesburg-landscape-supply",
+  "slug": "waynesburg-landscape-supply",
+  "name": "Waynesburg Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "222 Tollgate Run",
+    "city": "Franklin Twp",
+    "state": "PA",
+    "zip": "15370"
+  },
+  "location": {
+    "lat": 39.904148,
+    "lng": -80.198479
+  },
+  "contact": {
+    "phone": "(724) 627-5829",
+    "website": "http://www.waynesburgboro.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0984d8c8-f2e5-461b-a3a1-a20a8e0102ba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

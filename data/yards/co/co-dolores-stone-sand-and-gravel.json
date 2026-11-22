@@ -1,0 +1,36 @@
+{
+  "id": "co-dolores-stone-sand-and-gravel",
+  "slug": "stone-sand-and-gravel",
+  "name": "Stone Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "27701 Road T",
+    "city": "Dolores",
+    "state": "CO",
+    "zip": "81323"
+  },
+  "location": {
+    "lat": 37.453007,
+    "lng": -108.548119
+  },
+  "contact": {
+    "phone": "(970) 882-3399",
+    "website": "https://smithsmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f4536101-522c-405c-85db-39c8f0322e20",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm-mayhill-penasco-gravel-corp",
+  "slug": "penasco-gravel-corp",
+  "name": "Penasco Gravel, Corp.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1853 Rio Penasco Rd",
+    "city": "Mayhill",
+    "state": "NM",
+    "zip": "88339"
+  },
+  "location": {
+    "lat": 32.85244,
+    "lng": -105.51207
+  },
+  "contact": {
+    "phone": "(575) 687-2506",
+    "website": "https://www.penascogravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "768f492c-02d1-473c-a1a2-ef6814178079",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2902374",
+      "name": "Penasco Sand and Gravel",
+      "operator": "Penasco Sand and Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "2015-10-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

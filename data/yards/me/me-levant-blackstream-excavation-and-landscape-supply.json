@@ -1,0 +1,35 @@
+{
+  "id": "me-levant-blackstream-excavation-and-landscape-supply",
+  "slug": "blackstream-excavation-and-landscape-supply",
+  "name": "Blackstream Excavation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3749 Union St",
+    "city": "Levant",
+    "state": "ME",
+    "zip": "04456"
+  },
+  "location": {
+    "lat": 44.874973,
+    "lng": -68.954903
+  },
+  "contact": {
+    "phone": "(207) 631-3021"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "272219b3-afad-45dc-91e5-c9aab9b61b8b",
+    "confidence": 0.6,
+    "merged_records": 1
+  }
+}

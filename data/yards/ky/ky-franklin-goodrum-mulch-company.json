@@ -1,0 +1,35 @@
+{
+  "id": "ky-franklin-goodrum-mulch-company",
+  "slug": "goodrum-mulch-company",
+  "name": "Goodrum Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "600 W Madison St",
+    "city": "Franklin",
+    "state": "KY",
+    "zip": "42134"
+  },
+  "location": {
+    "lat": 36.721729,
+    "lng": -86.586411
+  },
+  "contact": {
+    "phone": "(270) 586-6509"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1bd4078-dc6f-4d37-8579-cd2ffbb68f09",
+    "confidence": 0.572,
+    "merged_records": 1
+  }
+}

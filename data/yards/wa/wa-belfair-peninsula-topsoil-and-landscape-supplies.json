@@ -1,0 +1,36 @@
+{
+  "id": "wa-belfair-peninsula-topsoil-and-landscape-supplies",
+  "slug": "peninsula-topsoil-and-landscape-supplies",
+  "name": "Peninsula Topsoil & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "50 Peninsula Blvd",
+    "city": "Belfair",
+    "state": "WA",
+    "zip": "98528"
+  },
+  "location": {
+    "lat": 47.463608,
+    "lng": -122.812637
+  },
+  "contact": {
+    "phone": "(360) 275-1000",
+    "website": "http://www.peninsulatopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72ea4a23-ec72-4bde-8292-3b556a8830ad",
+    "confidence": 0.999,
+    "merged_records": 2
+  }
+}

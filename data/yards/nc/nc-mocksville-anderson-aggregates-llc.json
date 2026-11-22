@@ -1,0 +1,36 @@
+{
+  "id": "nc-mocksville-anderson-aggregates-llc",
+  "slug": "anderson-aggregates-llc",
+  "name": "Anderson Aggregates LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "175 Powell Rd",
+    "city": "Mocksville",
+    "state": "NC",
+    "zip": "27028"
+  },
+  "location": {
+    "lat": 35.919121,
+    "lng": -80.629532
+  },
+  "contact": {
+    "phone": "(336) 492-2157",
+    "website": "http://andersonaggregatesllc.placeweb.site/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "982b0069-7718-42c3-8c9f-cc24b9f2cbc9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

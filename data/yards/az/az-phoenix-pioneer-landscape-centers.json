@@ -1,0 +1,37 @@
+{
+  "id": "az-phoenix-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "1639 E Deer Valley Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85024"
+  },
+  "location": {
+    "lat": 33.688484,
+    "lng": -112.046631
+  },
+  "contact": {
+    "phone": "(623) 869-7400",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b79094cd-e6b2-4f32-b4ce-93f531d5ccb4",
+    "confidence": 0.971,
+    "merged_records": 1
+  }
+}

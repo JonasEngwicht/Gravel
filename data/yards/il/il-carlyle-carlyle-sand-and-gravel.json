@@ -1,0 +1,35 @@
+{
+  "id": "il-carlyle-carlyle-sand-and-gravel",
+  "slug": "carlyle-sand-and-gravel",
+  "name": "Carlyle Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11842 IL-127",
+    "city": "Carlyle",
+    "state": "IL",
+    "zip": "62231"
+  },
+  "location": {
+    "lat": 38.59251,
+    "lng": -89.372925
+  },
+  "contact": {
+    "phone": "(618) 594-8263"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44219fee-b6a9-47f7-8aad-29fd58fbcc20",
+    "confidence": 0.946,
+    "merged_records": 1
+  }
+}

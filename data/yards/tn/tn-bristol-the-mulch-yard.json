@@ -1,0 +1,36 @@
+{
+  "id": "tn-bristol-the-mulch-yard",
+  "slug": "the-mulch-yard",
+  "name": "The Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1440 Highway 11 W",
+    "city": "Bristol",
+    "state": "TN",
+    "zip": "37620"
+  },
+  "location": {
+    "lat": 36.589283,
+    "lng": -82.270752
+  },
+  "contact": {
+    "phone": "(423) 573-2277",
+    "website": "http://bristolmulchyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19e5872f-a167-4ad5-9328-66932cd0055a",
+    "confidence": 0.693,
+    "merged_records": 2
+  }
+}

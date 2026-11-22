@@ -1,0 +1,36 @@
+{
+  "id": "ia-storm-lake-reding-gravel-and-excavating-company",
+  "slug": "reding-gravel-and-excavating-company",
+  "name": "Reding Gravel & Excavating Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1420 Richland Dr",
+    "city": "Storm Lake",
+    "state": "IA",
+    "zip": "50588"
+  },
+  "location": {
+    "lat": 42.640556,
+    "lng": -95.182571
+  },
+  "contact": {
+    "phone": "(712) 732-4059",
+    "website": "https://rgealgona.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6cf05ffd-1950-48ac-9a49-c470d785f257",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wv-bunker-hill-seasonal-services-garden-center-and-landscape-supply",
+  "slug": "seasonal-services-garden-center-and-landscape-supply",
+  "name": "Seasonal Services Garden Center & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9109 Winchester Ave",
+    "city": "Bunker Hill",
+    "state": "WV",
+    "zip": "25413"
+  },
+  "location": {
+    "lat": 39.343147,
+    "lng": -78.049774
+  },
+  "contact": {
+    "phone": "(304) 229-2914",
+    "website": "http://Seasonalservicesgardencenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d26ce9f-5ad0-41c2-b168-58c3ced4d510",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

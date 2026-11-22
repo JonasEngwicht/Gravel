@@ -1,0 +1,36 @@
+{
+  "id": "ms-shubuta-vossburg-sand-and-gravel",
+  "slug": "vossburg-sand-and-gravel",
+  "name": "Vossburg Sand & gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "181 Americana Dr",
+    "city": "Shubuta",
+    "state": "MS",
+    "zip": "39360"
+  },
+  "location": {
+    "lat": 31.955286,
+    "lng": -88.787231
+  },
+  "contact": {
+    "phone": "(601) 776-7477",
+    "website": "https://vossburgsandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a08ffeff-413f-4981-a11c-5b9086d2c056",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

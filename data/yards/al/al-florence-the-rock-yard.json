@@ -1,0 +1,36 @@
+{
+  "id": "al-florence-the-rock-yard",
+  "slug": "the-rock-yard",
+  "name": "The Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "101 S Wilson Dam Rd",
+    "city": "Florence",
+    "state": "AL",
+    "zip": "35630"
+  },
+  "location": {
+    "lat": 34.823277,
+    "lng": -87.625221
+  },
+  "contact": {
+    "phone": "(256) 712-5451",
+    "website": "http://www.greenvalleynurseries.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "666eb5a2-7a65-46c2-9d55-0a36a0e03b46",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-san-jose-greenwaste-zanker-landscape-materials",
+  "slug": "greenwaste-zanker-landscape-materials",
+  "name": "GreenWaste Zanker Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "705 Los Esteros Rd",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95134"
+  },
+  "location": {
+    "lat": 37.438175,
+    "lng": -121.950066
+  },
+  "contact": {
+    "phone": "(408) 586-9292",
+    "website": "https://www.zankerlandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4862ac2e-9aa5-4bb2-a524-80e22b95a3d9",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

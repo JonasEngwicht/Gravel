@@ -1,0 +1,36 @@
+{
+  "id": "fl-longwood-mulch-for-you",
+  "slug": "mulch-for-you",
+  "name": "Mulch For You",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1705 EE Williamson Rd",
+    "city": "Longwood",
+    "state": "FL",
+    "zip": "32779"
+  },
+  "location": {
+    "lat": 28.712692,
+    "lng": -81.383095
+  },
+  "contact": {
+    "phone": "(407) 869-9003",
+    "website": "http://www.mulchforyou.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df4d9387-920a-4f4c-8271-ef929a6cc6de",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

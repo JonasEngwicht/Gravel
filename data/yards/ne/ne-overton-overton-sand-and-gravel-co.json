@@ -1,0 +1,48 @@
+{
+  "id": "ne-overton-overton-sand-and-gravel-co",
+  "slug": "overton-sand-and-gravel-co",
+  "name": "Overton Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "44440 Drive 749",
+    "city": "Overton",
+    "state": "NE",
+    "zip": "68863"
+  },
+  "location": {
+    "lat": 40.692066,
+    "lng": -99.521423
+  },
+  "contact": {
+    "phone": "(308) 987-2300",
+    "website": "https://overton-sand-gravel-co-ne.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d245a444-d9a6-46b3-a534-4e3f8e207c10",
+    "confidence": 0.626,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2501066",
+      "name": "Smith Portable Dredge",
+      "operator": "Overton Sand & Gravel Company",
+      "status": "Intermittent",
+      "status_since": "2026-09-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

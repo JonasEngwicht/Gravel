@@ -1,0 +1,36 @@
+{
+  "id": "nj-toms-river-a-c-hesse-landscape-supply",
+  "slug": "a-c-hesse-landscape-supply",
+  "name": "A.C. Hesse Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2165 US-9",
+    "city": "Toms River",
+    "state": "NJ",
+    "zip": "08755"
+  },
+  "location": {
+    "lat": 40.032742,
+    "lng": -74.222656
+  },
+  "contact": {
+    "phone": "(732) 901-5600",
+    "website": "https://www.achesse.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b24147ae-c749-456f-805e-7901c58d9e40",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

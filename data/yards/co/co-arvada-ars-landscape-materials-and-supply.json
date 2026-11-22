@@ -1,0 +1,36 @@
+{
+  "id": "co-arvada-ars-landscape-materials-and-supply",
+  "slug": "ars-landscape-materials-and-supply",
+  "name": "ARS Landscape Materials and Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14448 W 96th Ave",
+    "city": "Arvada",
+    "state": "CO",
+    "zip": "80005"
+  },
+  "location": {
+    "lat": 39.869946,
+    "lng": -105.163261
+  },
+  "contact": {
+    "phone": "(303) 431-4675",
+    "website": "http://www.arslandscapematerialsandsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c7d50c56-2b3c-4e13-b564-20c582c63245",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

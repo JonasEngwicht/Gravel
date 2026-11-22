@@ -1,0 +1,37 @@
+{
+  "id": "ne-lincoln-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "370 SW 25th St Ste 3",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68522"
+  },
+  "location": {
+    "lat": 40.81023,
+    "lng": -96.755646
+  },
+  "contact": {
+    "phone": "(402) 476-2334",
+    "website": "https://www.siteone.com/store/620"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f9b860d-8e03-4526-8c7e-69f6445c1f8f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

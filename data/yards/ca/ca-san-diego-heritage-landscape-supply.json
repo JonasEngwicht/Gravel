@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-diego-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "9332 Clairemont Mesa Blvd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92123"
+  },
+  "location": {
+    "lat": 32.832249,
+    "lng": -117.128525
+  },
+  "contact": {
+    "phone": "(858) 514-4200",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "791af954-3803-4f28-bb61-103e8fa90f0e",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

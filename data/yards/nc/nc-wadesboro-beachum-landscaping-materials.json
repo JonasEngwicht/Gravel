@@ -1,0 +1,36 @@
+{
+  "id": "nc-wadesboro-beachum-landscaping-materials",
+  "slug": "beachum-landscaping-materials",
+  "name": "Beachum Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "84 US-52",
+    "city": "Wadesboro",
+    "state": "NC",
+    "zip": "28170"
+  },
+  "location": {
+    "lat": 34.979271,
+    "lng": -80.090813
+  },
+  "contact": {
+    "phone": "(704) 475-2625",
+    "website": "http://www.beachumlandscapingmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c621eaae-655a-4695-a6d7-cc19204623cc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

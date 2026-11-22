@@ -1,0 +1,48 @@
+{
+  "id": "ca-willits-grist-creek-aggregates",
+  "slug": "grist-creek-aggregates",
+  "name": "Grist Creek Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "37342 Covelo Rd",
+    "city": "Willits",
+    "state": "CA",
+    "zip": "95490"
+  },
+  "location": {
+    "lat": 39.567768,
+    "lng": -123.398483
+  },
+  "contact": {
+    "phone": "(707) 984-6626",
+    "website": "http://www.gristcreek.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89012a5f-c4f1-4231-b4d1-ac141e61100d",
+    "confidence": 0.69,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405833",
+      "name": "Grist Creek Aggregates, Longvale Plant",
+      "operator": "Grist Creek Aggregates LLC",
+      "status": "Active",
+      "status_since": "2019-09-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

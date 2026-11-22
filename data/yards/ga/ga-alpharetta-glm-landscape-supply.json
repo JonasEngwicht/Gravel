@@ -1,0 +1,36 @@
+{
+  "id": "ga-alpharetta-glm-landscape-supply",
+  "slug": "glm-landscape-supply",
+  "name": "GLM Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13975 Ga-9",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004"
+  },
+  "location": {
+    "lat": 34.123039,
+    "lng": -84.270424
+  },
+  "contact": {
+    "phone": "(770) 664-8200",
+    "website": "https://www.glmlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d4d4f547-a903-4d6f-bff4-7f8b7eac852d",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

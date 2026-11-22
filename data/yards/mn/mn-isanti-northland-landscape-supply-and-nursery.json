@@ -1,0 +1,36 @@
+{
+  "id": "mn-isanti-northland-landscape-supply-and-nursery",
+  "slug": "northland-landscape-supply-and-nursery",
+  "name": "Northland Landscape Supply & Nursery",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "29905 MN-65",
+    "city": "Isanti",
+    "state": "MN",
+    "zip": "55040"
+  },
+  "location": {
+    "lat": 45.511517,
+    "lng": -93.233925
+  },
+  "contact": {
+    "phone": "(763) 444-6314",
+    "website": "http://www.northland-landscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7a47c5c-81ff-492e-bf9e-2c208c268e96",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

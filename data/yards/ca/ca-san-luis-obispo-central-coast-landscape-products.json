@@ -1,0 +1,36 @@
+{
+  "id": "ca-san-luis-obispo-central-coast-landscape-products",
+  "slug": "central-coast-landscape-products",
+  "name": "Central Coast Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "445 Prado Rd",
+    "city": "San Luis Obispo",
+    "state": "CA",
+    "zip": "93401"
+  },
+  "location": {
+    "lat": 35.25285,
+    "lng": -120.658455
+  },
+  "contact": {
+    "phone": "(805) 595-3478",
+    "website": "http://cclandscapeproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a7f62d50-8777-49d6-82d0-9bd516a3dac4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

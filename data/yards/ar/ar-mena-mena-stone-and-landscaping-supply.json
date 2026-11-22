@@ -1,0 +1,36 @@
+{
+  "id": "ar-mena-mena-stone-and-landscaping-supply",
+  "slug": "mena-stone-and-landscaping-supply",
+  "name": "Mena Stone & Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2400 AR-88",
+    "city": "Mena",
+    "state": "AR",
+    "zip": "71953"
+  },
+  "location": {
+    "lat": 34.586304,
+    "lng": -94.205727
+  },
+  "contact": {
+    "phone": "(479) 394-3882",
+    "website": "http://www.menastone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14974356-3f78-4b86-b18b-4ce637966e7e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

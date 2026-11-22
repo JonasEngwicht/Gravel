@@ -1,0 +1,36 @@
+{
+  "id": "va-virginia-beach-kw1-mulch",
+  "slug": "kw1-mulch",
+  "name": "KW1 Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2593 Mulch Landing Rd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23453"
+  },
+  "location": {
+    "lat": 36.795334,
+    "lng": -76.056488
+  },
+  "contact": {
+    "phone": "(757) 368-3722",
+    "website": "http://kw1.llc/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d9a72d47-7939-484b-a515-f3446e88f5cd",
+    "confidence": 0.922,
+    "merged_records": 1
+  }
+}

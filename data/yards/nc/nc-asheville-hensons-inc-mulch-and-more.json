@@ -1,0 +1,36 @@
+{
+  "id": "nc-asheville-hensons-inc-mulch-and-more",
+  "slug": "hensons-inc-mulch-and-more",
+  "name": "Hensons' Inc Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "116 Pond Rd",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28806"
+  },
+  "location": {
+    "lat": 35.544399,
+    "lng": -82.605896
+  },
+  "contact": {
+    "phone": "(828) 665-0200",
+    "website": "http://www.hensonsinc.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e2b24e6-257a-4dbd-b9c2-fddddf7ac91a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

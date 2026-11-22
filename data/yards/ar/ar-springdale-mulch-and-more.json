@@ -1,0 +1,36 @@
+{
+  "id": "ar-springdale-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3106 S Thompson St",
+    "city": "Springdale",
+    "state": "AR",
+    "zip": "72764"
+  },
+  "location": {
+    "lat": 36.156307,
+    "lng": -94.145317
+  },
+  "contact": {
+    "phone": "(479) 751-5400",
+    "website": "https://www.springdale-mulch-more.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b45eed9-b43b-4817-b20d-4da2d0f9df6e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

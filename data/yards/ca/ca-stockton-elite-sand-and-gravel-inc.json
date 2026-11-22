@@ -1,0 +1,35 @@
+{
+  "id": "ca-stockton-elite-sand-and-gravel-inc",
+  "slug": "elite-sand-and-gravel-inc",
+  "name": "Elite Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "147 W Worth St",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95206"
+  },
+  "location": {
+    "lat": 37.943657,
+    "lng": -121.290993
+  },
+  "contact": {
+    "phone": "(209) 232-9427"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d1b76bb0-302d-459f-ac01-64386cfdcfe6",
+    "confidence": 0.625,
+    "merged_records": 1
+  }
+}

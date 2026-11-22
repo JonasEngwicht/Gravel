@@ -1,0 +1,36 @@
+{
+  "id": "mo-grandview-mulch-smart",
+  "slug": "mulch-smart",
+  "name": "Mulch Smart",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "721 Main St",
+    "city": "Grandview",
+    "state": "MO",
+    "zip": "64030"
+  },
+  "location": {
+    "lat": 38.889137,
+    "lng": -94.536316
+  },
+  "contact": {
+    "phone": "(816) 941-9600",
+    "website": "http://www.mulchsmartkc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "16a25f45-fd0a-47c7-9e6e-66aa93ec6b14",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

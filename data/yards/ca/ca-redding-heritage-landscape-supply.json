@@ -1,0 +1,37 @@
+{
+  "id": "ca-redding-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "2570 Tarmac Rd",
+    "city": "Redding",
+    "state": "CA",
+    "zip": "96003"
+  },
+  "location": {
+    "lat": 40.572811,
+    "lng": -122.322556
+  },
+  "contact": {
+    "phone": "(530) 222-0101",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06a2338a-1c16-4224-937e-65eac344693b",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-canton-davis-sand-and-gravel",
+  "slug": "davis-sand-and-gravel",
+  "name": "Davis Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1130 W Locust St",
+    "city": "Canton",
+    "state": "IL",
+    "zip": "61520"
+  },
+  "location": {
+    "lat": 40.560169,
+    "lng": -90.066948
+  },
+  "contact": {
+    "phone": "(309) 647-0019",
+    "website": "https://www.cantonreadymix.com/aggregate"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ec96d2e-46db-42d8-acc2-54fc0b2d7973",
+    "confidence": 0.77,
+    "merged_records": 2
+  }
+}

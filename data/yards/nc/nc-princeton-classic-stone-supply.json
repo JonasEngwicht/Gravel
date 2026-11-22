@@ -1,0 +1,36 @@
+{
+  "id": "nc-princeton-classic-stone-supply",
+  "slug": "classic-stone-supply",
+  "name": "Classic Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4767 US-70 E",
+    "city": "Princeton",
+    "state": "NC",
+    "zip": "27569"
+  },
+  "location": {
+    "lat": 35.477356,
+    "lng": -78.225716
+  },
+  "contact": {
+    "phone": "(919) 965-8822",
+    "website": "http://www.classicstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d148847-0aeb-41c5-8fa6-1c8cb23c782b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

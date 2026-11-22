@@ -1,0 +1,35 @@
+{
+  "id": "nj-hackensack-breen-topsoil-inc",
+  "slug": "breen-topsoil-inc",
+  "name": "Breen Topsoil Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "319 W Pleasantview Ave",
+    "city": "Hackensack",
+    "state": "NJ",
+    "zip": "07601"
+  },
+  "location": {
+    "lat": 40.874569,
+    "lng": -74.06514
+  },
+  "contact": {
+    "phone": "(201) 457-3333"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fee67ea8-7aa9-402d-9f13-ce579017b67d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ut-garland-rock-and-roll-construction-products-llc-u-cart-concrete-and-landscaping-products",
+  "slug": "rock-and-roll-construction-products-llc-u-cart-concrete-and-landscaping-products",
+  "name": "Rock and Roll Construction Products LLC. U-Cart Concrete & Landscaping Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14720 N 6000 W",
+    "city": "Garland",
+    "state": "UT",
+    "zip": "84312"
+  },
+  "location": {
+    "lat": 41.777351,
+    "lng": -112.163284
+  },
+  "contact": {
+    "phone": "(435) 279-4272"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f8ac718-42bd-4dcb-82a7-8ce028425fc4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

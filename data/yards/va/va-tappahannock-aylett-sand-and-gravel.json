@@ -1,0 +1,36 @@
+{
+  "id": "va-tappahannock-aylett-sand-and-gravel",
+  "slug": "aylett-sand-and-gravel",
+  "name": "Aylett Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1251 Tappahannock Blvd",
+    "city": "Tappahannock",
+    "state": "VA",
+    "zip": "22560"
+  },
+  "location": {
+    "lat": 37.913174,
+    "lng": -76.860641
+  },
+  "contact": {
+    "phone": "(804) 443-2366",
+    "website": "http://essexconcrete.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f6c2234c-d101-4223-af89-b571b9b90a79",
+    "confidence": 0.72,
+    "merged_records": 1
+  }
+}

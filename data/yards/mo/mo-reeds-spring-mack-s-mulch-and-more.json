@@ -1,0 +1,36 @@
+{
+  "id": "mo-reeds-spring-mack-s-mulch-and-more",
+  "slug": "mack-s-mulch-and-more",
+  "name": "Mack's Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "53 Macks Wy",
+    "city": "Reeds Spring",
+    "state": "MO",
+    "zip": "65737"
+  },
+  "location": {
+    "lat": 36.728001,
+    "lng": -93.373817
+  },
+  "contact": {
+    "phone": "(417) 527-2291",
+    "website": "http://macksmulchandmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f3bf701-f93a-4089-83c3-70fb76faae16",
+    "confidence": 0.913,
+    "merged_records": 1
+  }
+}

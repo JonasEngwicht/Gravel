@@ -1,0 +1,36 @@
+{
+  "id": "id-twin-falls-ida-stone-supply",
+  "slug": "ida-stone-supply",
+  "name": "IDA Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "261 Addison Ave W",
+    "city": "Twin Falls",
+    "state": "ID",
+    "zip": "83301"
+  },
+  "location": {
+    "lat": 42.56321,
+    "lng": -114.483803
+  },
+  "contact": {
+    "phone": "(208) 829-7625",
+    "website": "http://www.idastone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e9acb76-dd43-4b83-b754-fbac0c1e5985",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

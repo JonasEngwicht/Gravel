@@ -1,0 +1,36 @@
+{
+  "id": "nh-merrimack-merrimack-landscape-materials",
+  "slug": "merrimack-landscape-materials",
+  "name": "Merrimack Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12 Wright Ave",
+    "city": "Merrimack",
+    "state": "NH",
+    "zip": "03054"
+  },
+  "location": {
+    "lat": 42.854481,
+    "lng": -71.488419
+  },
+  "contact": {
+    "phone": "(603) 577-0789",
+    "website": "https://merrimacklandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0aa87208-fd69-4ebe-82c2-4cfcff4f3bf9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

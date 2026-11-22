@@ -1,0 +1,36 @@
+{
+  "id": "il-springfield-central-stone-and-landscape-supply",
+  "slug": "central-stone-and-landscape-supply",
+  "name": "Central Stone & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3216 Brickler Rd  # 8853",
+    "city": "Springfield",
+    "state": "IL",
+    "zip": "62707"
+  },
+  "location": {
+    "lat": 39.850788,
+    "lng": -89.575745
+  },
+  "contact": {
+    "phone": "(217) 788-0820",
+    "website": "https://www.centralstone.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0603b21b-e37a-4394-9503-04741235d0ad",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

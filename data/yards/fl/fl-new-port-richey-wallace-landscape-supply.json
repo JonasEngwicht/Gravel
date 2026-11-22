@@ -1,0 +1,36 @@
+{
+  "id": "fl-new-port-richey-wallace-landscape-supply",
+  "slug": "wallace-landscape-supply",
+  "name": "Wallace Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9616 Moon Lake Rd",
+    "city": "New Port Richey",
+    "state": "FL",
+    "zip": "34654"
+  },
+  "location": {
+    "lat": 28.29707,
+    "lng": -82.61776
+  },
+  "contact": {
+    "phone": "(727) 856-3048",
+    "website": "http://www.WallaceLandscapeSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "824bc457-9b98-4ee9-955f-36ae57105f8d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

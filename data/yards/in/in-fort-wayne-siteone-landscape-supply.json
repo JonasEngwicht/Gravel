@@ -1,0 +1,37 @@
+{
+  "id": "in-fort-wayne-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6250 Cross Creek Blvd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46818"
+  },
+  "location": {
+    "lat": 41.136154,
+    "lng": -85.166733
+  },
+  "contact": {
+    "phone": "(260) 451-0668",
+    "website": "https://www.siteone.com/store/553"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c8882741-a2ca-47d1-85c5-5ee31a2bace1",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

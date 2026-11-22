@@ -1,0 +1,36 @@
+{
+  "id": "wa-spokane-valley-broadway-landscape-supply",
+  "slug": "broadway-landscape-supply",
+  "name": "Broadway Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7121 E Cataldo Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99212"
+  },
+  "location": {
+    "lat": 47.665955,
+    "lng": -117.308891
+  },
+  "contact": {
+    "phone": "(509) 922-2266",
+    "website": "https://broadway.bulkdelivery.app/catalog"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "284a2c76-25e6-4959-b2a9-b488ef48be00",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

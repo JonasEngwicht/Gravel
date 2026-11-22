@@ -1,0 +1,35 @@
+{
+  "id": "mi-emmett-todd-meldrums-stone-yard",
+  "slug": "todd-meldrums-stone-yard",
+  "name": "Todd Meldrums Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "11112 Burt Rd",
+    "city": "Emmett",
+    "state": "MI",
+    "zip": "48022"
+  },
+  "location": {
+    "lat": 42.986324,
+    "lng": -82.767441
+  },
+  "contact": {
+    "phone": "(810) 384-1555"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b017a1e8-7bde-4d88-8536-5e6d71db52bd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

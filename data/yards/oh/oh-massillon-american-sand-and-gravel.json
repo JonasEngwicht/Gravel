@@ -1,0 +1,47 @@
+{
+  "id": "oh-massillon-american-sand-and-gravel",
+  "slug": "american-sand-and-gravel",
+  "name": "American Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9500 Forty Corners Rd NW",
+    "city": "Massillon",
+    "state": "OH",
+    "zip": "44647"
+  },
+  "location": {
+    "lat": 40.840244,
+    "lng": -81.524979
+  },
+  "contact": {
+    "phone": "(330) 832-8888"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aecc33ec-5728-4ab1-bc46-96553537f7c9",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304210",
+      "name": "American Sand & Gravel - Plant #4",
+      "operator": "American Sand and Gravel",
+      "status": "Active",
+      "status_since": "2011-10-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

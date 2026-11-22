@@ -1,0 +1,35 @@
+{
+  "id": "tx-spring-2920-mulch",
+  "slug": "2920-mulch",
+  "name": "2920 Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6211 FM 2920 Rd",
+    "city": "Spring",
+    "state": "TX",
+    "zip": "77379"
+  },
+  "location": {
+    "lat": 30.07346,
+    "lng": -95.518753
+  },
+  "contact": {
+    "phone": "(832) 639-8575"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa5d1579-f0d4-403c-aac2-b07f2160d3e5",
+    "confidence": 0.833,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tx-mckinney-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1501 Mercury Cir",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75071"
+  },
+  "location": {
+    "lat": 33.21521,
+    "lng": -96.611382
+  },
+  "contact": {
+    "phone": "(469) 742-0953",
+    "website": "https://www.siteone.com/store/202"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "960fff2a-a4d9-43da-a755-83d6e7bd18f3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

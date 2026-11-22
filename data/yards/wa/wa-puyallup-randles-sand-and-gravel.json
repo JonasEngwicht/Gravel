@@ -1,0 +1,48 @@
+{
+  "id": "wa-puyallup-randles-sand-and-gravel",
+  "slug": "randles-sand-and-gravel",
+  "name": "Randles Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5802 192nd St E",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98375"
+  },
+  "location": {
+    "lat": 47.080498,
+    "lng": -122.353889
+  },
+  "contact": {
+    "phone": "(253) 531-6800",
+    "website": "https://randlessandandgravel.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d5a9f432-0b89-4500-9103-ed546440899c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503073",
+      "name": "Fredrickson Pit",
+      "operator": "Randles Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2014-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

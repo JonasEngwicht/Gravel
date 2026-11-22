@@ -1,0 +1,36 @@
+{
+  "id": "fl-ormond-beach-weedo-s-landscape-supply",
+  "slug": "weedo-s-landscape-supply",
+  "name": "Weedo's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1071 S Nova Rd",
+    "city": "Ormond Beach",
+    "state": "FL",
+    "zip": "32174"
+  },
+  "location": {
+    "lat": 29.254524,
+    "lng": -81.071419
+  },
+  "contact": {
+    "phone": "(386) 672-1837",
+    "website": "https://www.weedoslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9e86e7c-2055-46ef-a5bc-2585e7152210",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

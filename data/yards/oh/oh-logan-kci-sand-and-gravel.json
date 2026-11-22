@@ -1,0 +1,48 @@
+{
+  "id": "oh-logan-kci-sand-and-gravel",
+  "slug": "kci-sand-and-gravel",
+  "name": "Kci Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16281 Haydenville Rd",
+    "city": "Logan",
+    "state": "OH",
+    "zip": "43138"
+  },
+  "location": {
+    "lat": 39.490032,
+    "lng": -82.331268
+  },
+  "contact": {
+    "phone": "(740) 380-6300",
+    "website": "https://kilbarger.com/kci-sand-&-gravel"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "66552d5a-13ca-4564-bcfb-b8b27a7d2f9d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304466",
+      "name": "KCI Sand and Gravel",
+      "operator": "Kilbarger Construction Inc",
+      "status": "Temporarily Idled",
+      "status_since": "2026-03-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

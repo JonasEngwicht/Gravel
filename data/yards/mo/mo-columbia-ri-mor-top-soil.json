@@ -1,0 +1,36 @@
+{
+  "id": "mo-columbia-ri-mor-top-soil",
+  "slug": "ri-mor-top-soil",
+  "name": "Ri-mor Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3300 Brown Station Rd",
+    "city": "Columbia",
+    "state": "MO",
+    "zip": "65202"
+  },
+  "location": {
+    "lat": 38.984032,
+    "lng": -92.291428
+  },
+  "contact": {
+    "phone": "(573) 474-8378",
+    "website": "https://rimortopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ae9c6705-06d1-4ce3-913f-b8c8d3ffb806",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-battle-creek-rightway-lawncare-and-landscape-supplies",
+  "slug": "rightway-lawncare-and-landscape-supplies",
+  "name": "RightWay Lawncare and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "97 Kenosha Ave",
+    "city": "Battle Creek",
+    "state": "MI",
+    "zip": "49014"
+  },
+  "location": {
+    "lat": 42.305878,
+    "lng": -85.183563
+  },
+  "contact": {
+    "phone": "(269) 306-0836",
+    "website": "http://www.riversedgesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "097082b7-79a4-47ce-b4e5-4d32656805c7",
+    "confidence": 0.539,
+    "merged_records": 1
+  }
+}

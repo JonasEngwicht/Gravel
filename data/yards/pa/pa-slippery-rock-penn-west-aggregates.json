@@ -1,0 +1,36 @@
+{
+  "id": "pa-slippery-rock-penn-west-aggregates",
+  "slug": "penn-west-aggregates",
+  "name": "Penn West Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "296 Currie Rd",
+    "city": "Slippery Rock",
+    "state": "PA",
+    "zip": "16057"
+  },
+  "location": {
+    "lat": 40.969349,
+    "lng": -80.144501
+  },
+  "contact": {
+    "phone": "(724) 368-8040",
+    "website": "http://www.westpennaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "646d356f-a4b3-4b06-a61f-a7c289ec190b",
+    "confidence": 0.567,
+    "merged_records": 1
+  }
+}

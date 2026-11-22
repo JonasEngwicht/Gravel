@@ -1,0 +1,37 @@
+{
+  "id": "fl-west-palm-beach-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3635 Fiscal Ct",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "zip": "33404"
+  },
+  "location": {
+    "lat": 26.796291,
+    "lng": -80.093422
+  },
+  "contact": {
+    "phone": "(561) 844-8088",
+    "website": "https://www.siteone.com/store/75"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "128a21b5-1e53-4e5f-87bb-8b30a95a7521",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

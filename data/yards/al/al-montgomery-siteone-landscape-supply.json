@@ -1,0 +1,37 @@
+{
+  "id": "al-montgomery-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "700 Enterprise Ct",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36117"
+  },
+  "location": {
+    "lat": 32.402245,
+    "lng": -86.215202
+  },
+  "contact": {
+    "phone": "(334) 395-8080",
+    "website": "https://www.siteone.com/store/65"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e4b89a9-7c8c-44fc-89b0-9240905aab5f",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

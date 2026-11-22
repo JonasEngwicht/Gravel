@@ -1,0 +1,36 @@
+{
+  "id": "nh-tilton-tilton-landscape-center",
+  "slug": "tilton-landscape-center",
+  "name": "Tilton Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "256 Laconia Rd",
+    "city": "Tilton",
+    "state": "NH",
+    "zip": "03276"
+  },
+  "location": {
+    "lat": 43.462223,
+    "lng": -71.549751
+  },
+  "contact": {
+    "phone": "(603) 286-2248",
+    "website": "https://tilton-landscape-center.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4a863b3d-361a-47c8-bd05-64123be6c23f",
+    "confidence": 0.565,
+    "merged_records": 1
+  }
+}

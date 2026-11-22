@@ -1,0 +1,36 @@
+{
+  "id": "mi-brown-city-bechtel-sand-and-gravel",
+  "slug": "bechtel-sand-and-gravel",
+  "name": "Bechtel Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5278 Churchill Rd",
+    "city": "Brown City",
+    "state": "MI",
+    "zip": "48416"
+  },
+  "location": {
+    "lat": 43.190609,
+    "lng": -83.055
+  },
+  "contact": {
+    "phone": "(810) 346-2041",
+    "website": "https://www.bechtel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b203697d-da74-49c4-89dd-ef8eba4c77a5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mi-troy-siteone-landscape-supply-corporate-office",
+  "slug": "siteone-landscape-supply-corporate-office",
+  "name": "SiteOne Landscape Supply Corporate Office",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "650 Stephenson Hwy",
+    "city": "Troy",
+    "state": "MI",
+    "zip": "48083"
+  },
+  "location": {
+    "lat": 42.540108,
+    "lng": -83.117744
+  },
+  "contact": {
+    "phone": "(248) 588-2100",
+    "website": "https://siteone.com/store/900"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "079f9b71-5356-40cf-9d08-1f40c9d14b93",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

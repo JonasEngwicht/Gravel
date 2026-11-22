@@ -1,0 +1,36 @@
+{
+  "id": "pa-rochester-beaver-concrete-and-gravel-co",
+  "slug": "beaver-concrete-and-gravel-co",
+  "name": "Beaver Concrete And Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "600 Railroad St",
+    "city": "Rochester",
+    "state": "PA",
+    "zip": "15074"
+  },
+  "location": {
+    "lat": 40.698505,
+    "lng": -80.275154
+  },
+  "contact": {
+    "phone": "(724) 774-5100",
+    "website": "https://sapnaconsulting.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c0765f06-d104-40b3-91cc-27fc1fabd69c",
+    "confidence": 0.732,
+    "merged_records": 1
+  }
+}

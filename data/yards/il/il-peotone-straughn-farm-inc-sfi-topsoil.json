@@ -1,0 +1,36 @@
+{
+  "id": "il-peotone-straughn-farm-inc-sfi-topsoil",
+  "slug": "straughn-farm-inc-sfi-topsoil",
+  "name": "Straughn Farm Inc SFI Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11571 N 4000E Rd",
+    "city": "Peotone",
+    "state": "IL",
+    "zip": "60468"
+  },
+  "location": {
+    "lat": 41.289253,
+    "lng": -87.799706
+  },
+  "contact": {
+    "phone": "(630) 768-4172",
+    "website": "https://sfitopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e4451be8-4f8a-4347-858d-f3ebc251c699",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

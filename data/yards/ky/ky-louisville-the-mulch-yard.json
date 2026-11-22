@@ -1,0 +1,35 @@
+{
+  "id": "ky-louisville-the-mulch-yard",
+  "slug": "the-mulch-yard",
+  "name": "The Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11671 Blankenbaker Access Dr",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40299"
+  },
+  "location": {
+    "lat": 38.196457,
+    "lng": -85.548752
+  },
+  "contact": {
+    "phone": "(502) 376-0357"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55a6fbe3-b22f-420a-9817-d46753b47579",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

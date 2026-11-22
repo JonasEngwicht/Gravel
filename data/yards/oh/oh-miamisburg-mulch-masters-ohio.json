@@ -1,0 +1,36 @@
+{
+  "id": "oh-miamisburg-mulch-masters-ohio",
+  "slug": "mulch-masters-ohio",
+  "name": "Mulch Masters Ohio",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "721 Richard St",
+    "city": "Miamisburg",
+    "state": "OH",
+    "zip": "45342"
+  },
+  "location": {
+    "lat": 39.65086,
+    "lng": -84.27906
+  },
+  "contact": {
+    "phone": "(855) 685-2448",
+    "website": "https://www.mulchmastersohio.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7960daaf-63de-4ea3-89e0-2c17de5a3a8a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

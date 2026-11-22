@@ -1,0 +1,36 @@
+{
+  "id": "tx-round-rock-whittlesey-landscape-supplies",
+  "slug": "whittlesey-landscape-supplies",
+  "name": "Whittlesey Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3219 S Interstate 35",
+    "city": "Round Rock",
+    "state": "TX",
+    "zip": "78664"
+  },
+  "location": {
+    "lat": 30.474182,
+    "lng": -97.671364
+  },
+  "contact": {
+    "phone": "(512) 989-7625",
+    "website": "http://www.989rock.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a6de7b48-1cf1-4e11-89fa-78515811bb73",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

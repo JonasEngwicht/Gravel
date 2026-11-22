@@ -1,0 +1,35 @@
+{
+  "id": "fl-west-park-gravel-shop",
+  "slug": "gravel-shop",
+  "name": "Gravel Shop",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5730 SW 23rd St",
+    "city": "West Park",
+    "state": "FL",
+    "zip": "33023"
+  },
+  "location": {
+    "lat": 25.989582,
+    "lng": -80.201416
+  },
+  "contact": {
+    "phone": "(844) 331-9393"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dee7447b-914b-495d-8dae-256c4b1a45f4",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

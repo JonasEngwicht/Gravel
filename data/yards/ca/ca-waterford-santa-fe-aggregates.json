@@ -1,0 +1,47 @@
+{
+  "id": "ca-waterford-santa-fe-aggregates",
+  "slug": "santa-fe-aggregates",
+  "name": "Santa Fe Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "17300 Yosemite Blvd",
+    "city": "Waterford",
+    "state": "CA",
+    "zip": "95386"
+  },
+  "location": {
+    "lat": 37.6441,
+    "lng": -120.66761
+  },
+  "contact": {
+    "phone": "(209) 874-1495"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8614abe6-cb23-41e9-a86b-fd1473310494",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405016",
+      "name": "La Grange Pit & Mill",
+      "operator": "Santa Fe Aggregates Inc",
+      "status": "Intermittent",
+      "status_since": "2026-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

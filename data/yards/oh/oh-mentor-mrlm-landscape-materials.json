@@ -1,0 +1,36 @@
+{
+  "id": "oh-mentor-mrlm-landscape-materials",
+  "slug": "mrlm-landscape-materials",
+  "name": "MRLM Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6011 Heisley Rd",
+    "city": "Mentor",
+    "state": "OH",
+    "zip": "44060"
+  },
+  "location": {
+    "lat": 41.707035,
+    "lng": -81.303925
+  },
+  "contact": {
+    "phone": "(440) 357-6756",
+    "website": "https://mrlmllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed030b1b-56fe-442d-8627-82c6452dc3d1",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

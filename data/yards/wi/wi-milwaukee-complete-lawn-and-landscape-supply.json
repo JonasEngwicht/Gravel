@@ -1,0 +1,36 @@
+{
+  "id": "wi-milwaukee-complete-lawn-and-landscape-supply",
+  "slug": "complete-lawn-and-landscape-supply",
+  "name": "Complete Lawn and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7900 W Clinton Ave",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53223"
+  },
+  "location": {
+    "lat": 43.151806,
+    "lng": -88.008965
+  },
+  "contact": {
+    "phone": "(414) 393-9101",
+    "website": "https://cllsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea10a825-0907-48dd-a283-761f35a2a136",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ut-ogden-phw-landscape-products",
+  "slug": "phw-landscape-products",
+  "name": "PHW Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9549 W 900 S",
+    "city": "Ogden",
+    "state": "UT",
+    "zip": "84404"
+  },
+  "location": {
+    "lat": 41.249874,
+    "lng": -112.210464
+  },
+  "contact": {
+    "phone": "(801) 999-0553",
+    "website": "http://phwlandscapeproductsutah.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d6de200-218c-455f-a90e-d77ccfecce64",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-goleta-santa-barbara-sand-and-topsoil",
+  "slug": "santa-barbara-sand-and-topsoil",
+  "name": "Santa Barbara Sand & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "345 Ellwood Canyon Rd",
+    "city": "Goleta",
+    "state": "CA",
+    "zip": "93117"
+  },
+  "location": {
+    "lat": 34.44355,
+    "lng": -119.896927
+  },
+  "contact": {
+    "phone": "(805) 966-3909",
+    "website": "http://www.santabarbarasandandtopsoil.com/#!contact/crdp"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7371fe00-4d4f-4ea8-b37a-c010812eb287",
+    "confidence": 0.886,
+    "merged_records": 1
+  }
+}

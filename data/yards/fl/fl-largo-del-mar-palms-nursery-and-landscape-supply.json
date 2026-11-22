@@ -1,0 +1,36 @@
+{
+  "id": "fl-largo-del-mar-palms-nursery-and-landscape-supply",
+  "slug": "del-mar-palms-nursery-and-landscape-supply",
+  "name": "Del Mar Palms Nursery and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8791 Ulmerton Rd",
+    "city": "Largo",
+    "state": "FL",
+    "zip": "33771"
+  },
+  "location": {
+    "lat": 27.894672,
+    "lng": -82.760506
+  },
+  "contact": {
+    "phone": "(727) 484-4449",
+    "website": "http://www.delmarpalms.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8353b28a-9e4c-4ef0-b5d2-2d778a84de3e",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sc-piedmont-topsoil-and-gravel-delivered-nw-white-and-company",
+  "slug": "topsoil-and-gravel-delivered-nw-white-and-company",
+  "name": "Topsoil & Gravel Delivered - Nw White & Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2605 River Rd",
+    "city": "Piedmont",
+    "state": "SC",
+    "zip": "29673"
+  },
+  "location": {
+    "lat": 34.766579,
+    "lng": -82.476028
+  },
+  "contact": {
+    "phone": "(864) 220-9353",
+    "website": "https://nwwhite.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d729a47e-aabd-4cf9-82ce-d9d5c14fcfed",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

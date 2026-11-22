@@ -1,0 +1,36 @@
+{
+  "id": "ga-lawrenceville-luxury-landscape-supply",
+  "slug": "luxury-landscape-supply",
+  "name": "Luxury Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "366 Reynolds Rd",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30043"
+  },
+  "location": {
+    "lat": 33.981102,
+    "lng": -83.98127
+  },
+  "contact": {
+    "phone": "(770) 513-3733",
+    "website": "http://www.Luxurylandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "adafe6b3-ec77-4638-801a-0b0c4efa7f4b",
+    "confidence": 0.945,
+    "merged_records": 1
+  }
+}

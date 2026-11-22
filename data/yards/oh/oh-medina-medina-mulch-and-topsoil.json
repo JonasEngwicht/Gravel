@@ -1,0 +1,36 @@
+{
+  "id": "oh-medina-medina-mulch-and-topsoil",
+  "slug": "medina-mulch-and-topsoil",
+  "name": "Medina Mulch and Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1095 Lake Rd",
+    "city": "Medina",
+    "state": "OH",
+    "zip": "44256"
+  },
+  "location": {
+    "lat": 41.110405,
+    "lng": -81.896477
+  },
+  "contact": {
+    "phone": "(330) 391-7620",
+    "website": "http://www.medinamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b6fcabc-4395-4f8e-87e7-09a8ce95f4a5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

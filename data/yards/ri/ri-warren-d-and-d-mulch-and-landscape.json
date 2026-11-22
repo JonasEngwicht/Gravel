@@ -1,0 +1,36 @@
+{
+  "id": "ri-warren-d-and-d-mulch-and-landscape",
+  "slug": "d-and-d-mulch-and-landscape",
+  "name": "D&D Mulch and Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "379 Market St",
+    "city": "Warren",
+    "state": "RI",
+    "zip": "02885"
+  },
+  "location": {
+    "lat": 41.751324,
+    "lng": -71.270882
+  },
+  "contact": {
+    "phone": "(401) 245-2227",
+    "website": "https://www.ddmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1af67cab-ee34-49f4-9764-f76997e13d1c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

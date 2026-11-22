@@ -1,0 +1,44 @@
+{
+  "id": "tx-garwood-eagle-lake-aggregates-inc",
+  "slug": "eagle-lake-aggregates-inc",
+  "name": "Eagle Lake Aggregates, Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1823 County Road 111",
+    "city": "Garwood",
+    "state": "TX",
+    "zip": "77442"
+  },
+  "location": {
+    "lat": 29.494131,
+    "lng": -96.462479
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ec4c5ea-85ad-48b8-b6dd-672e01186ecc",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4105645",
+      "name": "Eagle Lake",
+      "operator": "Eagle Lake Aggregates, Inc",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

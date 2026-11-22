@@ -1,0 +1,36 @@
+{
+  "id": "tx-sachse-eubanks-sand-and-gravel",
+  "slug": "eubanks-sand-and-gravel",
+  "name": "Eubanks Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5390 Pleasant Valley Road",
+    "city": "Sachse",
+    "state": "TX",
+    "zip": "75048"
+  },
+  "location": {
+    "lat": 32.969856,
+    "lng": -96.553947
+  },
+  "contact": {
+    "phone": "(972) 442-6231",
+    "website": "http://eubankssandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d75f41a-f52f-4455-bf1a-fac56e97df1e",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

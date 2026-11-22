@@ -1,0 +1,36 @@
+{
+  "id": "ut-willard-stone-supply-and-monument",
+  "slug": "stone-supply-and-monument",
+  "name": "Stone Supply and Monument",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3975 US-89",
+    "city": "Willard",
+    "state": "UT",
+    "zip": "84414"
+  },
+  "location": {
+    "lat": 41.338478,
+    "lng": -112.030029
+  },
+  "contact": {
+    "phone": "(801) 782-6434",
+    "website": "http://stonesupplymonument.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1c7010e9-2659-479e-a40b-96ce1336f6fc",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

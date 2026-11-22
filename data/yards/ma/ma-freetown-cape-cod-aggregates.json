@@ -1,0 +1,36 @@
+{
+  "id": "ma-freetown-cape-cod-aggregates",
+  "slug": "cape-cod-aggregates",
+  "name": "Cape Cod Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9 Bryant St",
+    "city": "Freetown",
+    "state": "MA",
+    "zip": "02702"
+  },
+  "location": {
+    "lat": 41.815796,
+    "lng": -71.041611
+  },
+  "contact": {
+    "phone": "(508) 644-3373",
+    "website": "http://www.capecodagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "928e425a-175e-4169-81ed-21c8a54d7d22",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

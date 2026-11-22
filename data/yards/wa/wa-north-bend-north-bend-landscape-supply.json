@@ -1,0 +1,36 @@
+{
+  "id": "wa-north-bend-north-bend-landscape-supply",
+  "slug": "north-bend-landscape-supply",
+  "name": "North Bend Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "43300 SE North Bend Way",
+    "city": "North Bend",
+    "state": "WA",
+    "zip": "98045"
+  },
+  "location": {
+    "lat": 47.483418,
+    "lng": -121.76181
+  },
+  "contact": {
+    "phone": "(425) 888-6502",
+    "website": "http://northbendlandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ace7e6b7-75c6-41ec-aaf8-34b0a73fb1a5",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

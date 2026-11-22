@@ -1,0 +1,36 @@
+{
+  "id": "nc-raleigh-aggregate-group-llc",
+  "slug": "aggregate-group-llc",
+  "name": "Aggregate Group, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3200 Glen Royal Rd  Ste 102",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27617"
+  },
+  "location": {
+    "lat": 35.882999,
+    "lng": -78.746048
+  },
+  "contact": {
+    "phone": "(919) 322-0166",
+    "website": "https://ag.company"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "733d5e0d-f83c-4b58-ab01-50327043dd23",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

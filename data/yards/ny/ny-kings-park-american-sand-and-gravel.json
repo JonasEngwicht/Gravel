@@ -1,0 +1,36 @@
+{
+  "id": "ny-kings-park-american-sand-and-gravel",
+  "slug": "american-sand-and-gravel",
+  "name": "American Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "131 Old Northport Rd",
+    "city": "Kings Park",
+    "state": "NY",
+    "zip": "11754"
+  },
+  "location": {
+    "lat": 40.869221,
+    "lng": -73.27005
+  },
+  "contact": {
+    "phone": "(631) 269-5544",
+    "website": "https://cq-amateur-radio.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75bfdae9-36f9-43d3-be94-5223f692cb67",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

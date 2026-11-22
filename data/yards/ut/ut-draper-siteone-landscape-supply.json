@@ -1,0 +1,37 @@
+{
+  "id": "ut-draper-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "11623 S State St",
+    "city": "Draper",
+    "state": "UT",
+    "zip": "84020"
+  },
+  "location": {
+    "lat": 40.539959,
+    "lng": -111.890381
+  },
+  "contact": {
+    "phone": "(801) 572-1882",
+    "website": "https://www.siteone.com/store/372"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "223f2797-fb02-4e10-bca9-2231f1bac20e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

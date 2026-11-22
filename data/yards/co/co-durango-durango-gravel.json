@@ -1,0 +1,35 @@
+{
+  "id": "co-durango-durango-gravel",
+  "slug": "durango-gravel",
+  "name": "Durango Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "995 Highway 3",
+    "city": "Durango",
+    "state": "CO",
+    "zip": "81301"
+  },
+  "location": {
+    "lat": 37.243656,
+    "lng": -107.865456
+  },
+  "contact": {
+    "phone": "(970) 259-3995"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "924ca2d4-99d5-490c-8922-71c2342f7722",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-dayton-champion-mulch-and-landscape-supply",
+  "slug": "champion-mulch-and-landscape-supply",
+  "name": "Champion Mulch & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3600 Valley St",
+    "city": "Dayton",
+    "state": "OH",
+    "zip": "45424"
+  },
+  "location": {
+    "lat": 39.803867,
+    "lng": -84.119392
+  },
+  "contact": {
+    "phone": "(937) 228-2730",
+    "website": "https://gotochampion.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f2a5eab1-34cc-4201-a596-bde06d0ecf2e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

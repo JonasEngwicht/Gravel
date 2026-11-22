@@ -1,0 +1,36 @@
+{
+  "id": "tx-el-paso-villalva-sand-and-gravel",
+  "slug": "villalva-sand-and-gravel",
+  "name": "Villalva Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12450 Pellicano Dr",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79928"
+  },
+  "location": {
+    "lat": 31.725964,
+    "lng": -106.258102
+  },
+  "contact": {
+    "phone": "(915) 922-9963",
+    "website": "https://villalva-sand-and-gravel.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "beff934b-0c25-4a6c-a8cf-159ca7dfb78f",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-roseville-dale-s-landscaping-supply",
+  "slug": "dale-s-landscaping-supply",
+  "name": "Dale's Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "16720 E 13 Mile Rd",
+    "city": "Roseville",
+    "state": "MI",
+    "zip": "48066"
+  },
+  "location": {
+    "lat": 42.523884,
+    "lng": -82.949097
+  },
+  "contact": {
+    "phone": "(586) 778-1919",
+    "website": "http://www.daleslandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c81dbc3-8e3a-40be-a2dc-dfe60f86b0e8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

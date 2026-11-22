@@ -1,0 +1,36 @@
+{
+  "id": "mn-rochester-milestone-materials-rochester-landscape-supply-center",
+  "slug": "milestone-materials-rochester-landscape-supply-center",
+  "name": "Milestone Materials Rochester Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1331 75th St NE",
+    "city": "Rochester",
+    "state": "MN",
+    "zip": "55906"
+  },
+  "location": {
+    "lat": 44.108017,
+    "lng": -92.446556
+  },
+  "contact": {
+    "phone": "(507) 289-1739",
+    "website": "https://www.milestonematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64e29eec-b899-4159-b033-cf79d5ac8456",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

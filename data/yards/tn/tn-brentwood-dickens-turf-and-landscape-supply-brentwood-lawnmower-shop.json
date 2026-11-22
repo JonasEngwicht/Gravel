@@ -1,0 +1,36 @@
+{
+  "id": "tn-brentwood-dickens-turf-and-landscape-supply-brentwood-lawnmower-shop",
+  "slug": "dickens-turf-and-landscape-supply-brentwood-lawnmower-shop",
+  "name": "Dickens Turf & Landscape Supply - Brentwood Lawnmower Shop",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "130 Frierson St",
+    "city": "Brentwood",
+    "state": "TN",
+    "zip": "37027"
+  },
+  "location": {
+    "lat": 36.035339,
+    "lng": -86.783936
+  },
+  "contact": {
+    "phone": "(615) 373-0700",
+    "website": "http://www.brentwoodlawnmower.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eeb8b13f-6abb-4844-91ac-f2f850804293",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ma-sudbury-d-and-d-mulch-and-landscape",
+  "slug": "d-and-d-mulch-and-landscape",
+  "name": "D&D Mulch and Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "33 Boston Post Rd",
+    "city": "Sudbury",
+    "state": "MA",
+    "zip": "01776"
+  },
+  "location": {
+    "lat": 42.361897,
+    "lng": -71.386429
+  },
+  "contact": {
+    "phone": "(508) 620-9090",
+    "website": "https://www.ddmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "40b83c1c-1e6d-4003-8b7e-9c8e76024723",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

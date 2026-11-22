@@ -1,0 +1,35 @@
+{
+  "id": "va-dayton-riverside-plants-and-mulch",
+  "slug": "riverside-plants-and-mulch",
+  "name": "Riverside Plants & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6377 W Dry River Rd",
+    "city": "Dayton",
+    "state": "VA",
+    "zip": "22821"
+  },
+  "location": {
+    "lat": 38.415485,
+    "lng": -78.980194
+  },
+  "contact": {
+    "phone": "(540) 879-9354"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "45246335-d646-4b75-a41a-322991bf146f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

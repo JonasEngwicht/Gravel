@@ -1,0 +1,36 @@
+{
+  "id": "pa-harrisburg-nye-s-landscape-mulch-sales",
+  "slug": "nye-s-landscape-mulch-sales",
+  "name": "Nye's Landscape Mulch Sales",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6221 Jonestown Rd",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17112"
+  },
+  "location": {
+    "lat": 40.320961,
+    "lng": -76.780037
+  },
+  "contact": {
+    "phone": "(717) 545-1242",
+    "website": "http://www.nyesmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "94ffc75a-df3b-4592-8698-2d479fcdcebc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

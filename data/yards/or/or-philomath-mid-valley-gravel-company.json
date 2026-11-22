@@ -1,0 +1,36 @@
+{
+  "id": "or-philomath-mid-valley-gravel-company",
+  "slug": "mid-valley-gravel-company",
+  "name": "Mid-Valley Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "705 Clemens Mill Rd",
+    "city": "Philomath",
+    "state": "OR",
+    "zip": "97370"
+  },
+  "location": {
+    "lat": 44.550663,
+    "lng": -123.339005
+  },
+  "contact": {
+    "phone": "(541) 929-2200",
+    "website": "http://www.midvalleygravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf3dcf25-26b5-48f9-a379-1b556ce823db",
+    "confidence": 0.856,
+    "merged_records": 1
+  }
+}

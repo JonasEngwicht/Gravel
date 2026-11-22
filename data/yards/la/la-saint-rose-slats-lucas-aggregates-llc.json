@@ -1,0 +1,35 @@
+{
+  "id": "la-saint-rose-slats-lucas-aggregates-llc",
+  "slug": "slats-lucas-aggregates-llc",
+  "name": "Slats Lucas Aggregates, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "115 James Dr W  Ste 150",
+    "city": "Saint Rose",
+    "state": "LA",
+    "zip": "70087"
+  },
+  "location": {
+    "lat": 29.979208,
+    "lng": -90.285217
+  },
+  "contact": {
+    "phone": "(504) 308-0060"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "61436431-9534-4f64-ad7e-edc7fbae976a",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

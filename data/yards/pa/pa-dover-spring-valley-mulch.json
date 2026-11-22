@@ -1,0 +1,36 @@
+{
+  "id": "pa-dover-spring-valley-mulch",
+  "slug": "spring-valley-mulch",
+  "name": "Spring Valley Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2470 Millcreek Rd",
+    "city": "Dover",
+    "state": "PA",
+    "zip": "17315"
+  },
+  "location": {
+    "lat": 40.029686,
+    "lng": -76.818146
+  },
+  "contact": {
+    "phone": "(717) 292-3476",
+    "website": "http://springvalleymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d158b5cf-26fc-48b5-8f50-db4cdbf85f7c",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

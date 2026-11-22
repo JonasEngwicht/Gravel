@@ -1,0 +1,36 @@
+{
+  "id": "oh-ottawa-ohio-concrete-crushing-and-aggregates",
+  "slug": "ohio-concrete-crushing-and-aggregates",
+  "name": "Ohio Concrete Crushing and Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6247 Rd 11",
+    "city": "Ottawa",
+    "state": "OH",
+    "zip": "45875"
+  },
+  "location": {
+    "lat": 41.090275,
+    "lng": -84.072952
+  },
+  "contact": {
+    "phone": "(419) 615-8656",
+    "website": "http://www.ohioconcretecrushing.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "78bef163-c741-47c6-a258-dca4adc90766",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

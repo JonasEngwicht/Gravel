@@ -1,0 +1,36 @@
+{
+  "id": "ca-chico-focal-point-discount-landscape-supplies-llc",
+  "slug": "focal-point-discount-landscape-supplies-llc",
+  "name": "Focal Point Discount Landscape Supplies LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "395 E 20th St",
+    "city": "Chico",
+    "state": "CA",
+    "zip": "95928"
+  },
+  "location": {
+    "lat": 39.721272,
+    "lng": -121.821022
+  },
+  "contact": {
+    "phone": "(530) 487-7444",
+    "website": "https://www.focalpointlandscapeca.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82ad222f-d19d-420e-a67d-f9b708b1ba3f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

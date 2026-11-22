@@ -1,0 +1,36 @@
+{
+  "id": "in-cedar-lake-forever-green-landscape-center",
+  "slug": "forever-green-landscape-center",
+  "name": "Forever Green Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9961 W 109th Ave",
+    "city": "Cedar Lake",
+    "state": "IN",
+    "zip": "46303"
+  },
+  "location": {
+    "lat": 41.420624,
+    "lng": -87.455696
+  },
+  "contact": {
+    "phone": "(219) 365-3344",
+    "website": "http://www.forevergreenlc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3cd3a24-de4c-4f27-a567-49ea2664a55a",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

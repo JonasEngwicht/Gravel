@@ -1,0 +1,35 @@
+{
+  "id": "ks-bucyrus-johnson-county-topsoil-and-landscape-materials",
+  "slug": "johnson-county-topsoil-and-landscape-materials",
+  "name": "Johnson County Topsoil & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8410 W 199th St",
+    "city": "Bucyrus",
+    "state": "KS",
+    "zip": "66013"
+  },
+  "location": {
+    "lat": 38.768131,
+    "lng": -94.682571
+  },
+  "contact": {
+    "phone": "(913) 681-2629"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "926d7d19-5ac8-4719-931e-9d8c18012d17",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

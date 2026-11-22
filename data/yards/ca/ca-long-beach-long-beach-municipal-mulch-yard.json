@@ -1,0 +1,35 @@
+{
+  "id": "ca-long-beach-long-beach-municipal-mulch-yard",
+  "slug": "long-beach-municipal-mulch-yard",
+  "name": "Long Beach Municipal Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2755 Orange Ave",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90806"
+  },
+  "location": {
+    "lat": 33.807835,
+    "lng": -118.176743
+  },
+  "contact": {
+    "phone": "(562) 570-6356"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dcde5549-2747-485d-8593-0a28f04df02c",
+    "confidence": 0.6,
+    "merged_records": 1
+  }
+}

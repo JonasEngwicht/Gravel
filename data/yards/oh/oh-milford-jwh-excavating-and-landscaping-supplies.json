@@ -1,0 +1,35 @@
+{
+  "id": "oh-milford-jwh-excavating-and-landscaping-supplies",
+  "slug": "jwh-excavating-and-landscaping-supplies",
+  "name": "JWH Excavating and Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1882 State Route 131",
+    "city": "Milford",
+    "state": "OH",
+    "zip": "45150"
+  },
+  "location": {
+    "lat": 39.176121,
+    "lng": -84.171791
+  },
+  "contact": {
+    "phone": "(513) 625-3478"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b79f9cf6-f0c4-4343-93c2-bb170835ae91",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "or-portland-mt-scott-bark-mulch",
+  "slug": "mt-scott-bark-mulch",
+  "name": "MT. Scott Bark Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6904 SE Foster Rd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97206"
+  },
+  "location": {
+    "lat": 45.487659,
+    "lng": -122.592392
+  },
+  "contact": {
+    "phone": "(503) 774-3241",
+    "website": "http://www.mtscottfuel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb3e0144-32d2-479a-a5e3-a5ed7cf8a264",
+    "confidence": 0.998,
+    "merged_records": 2
+  }
+}

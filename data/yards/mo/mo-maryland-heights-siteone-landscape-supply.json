@@ -1,0 +1,37 @@
+{
+  "id": "mo-maryland-heights-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2135 Schuetz Rd",
+    "city": "Maryland Heights",
+    "state": "MO",
+    "zip": "63146"
+  },
+  "location": {
+    "lat": 38.698513,
+    "lng": -90.429916
+  },
+  "contact": {
+    "phone": "(314) 991-3535",
+    "website": "https://www.siteone.com/store/25"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "adcaff9f-6d6d-4a79-94dd-352256e66e9f",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

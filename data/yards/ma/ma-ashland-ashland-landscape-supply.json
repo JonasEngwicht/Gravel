@@ -1,0 +1,36 @@
+{
+  "id": "ma-ashland-ashland-landscape-supply",
+  "slug": "ashland-landscape-supply",
+  "name": "Ashland Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18 Waverly St",
+    "city": "Ashland",
+    "state": "MA",
+    "zip": "01721"
+  },
+  "location": {
+    "lat": 42.262997,
+    "lng": -71.449448
+  },
+  "contact": {
+    "phone": "(508) 881-0001",
+    "website": "http://www.ashlandlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e2cc295f-fd3c-49a7-86d2-4b38ee24f819",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-bangor-kaiser-s-mulch",
+  "slug": "kaiser-s-mulch",
+  "name": "Kaiser's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6 Flicksville Rd",
+    "city": "Bangor",
+    "state": "PA",
+    "zip": "18013"
+  },
+  "location": {
+    "lat": 40.841007,
+    "lng": -75.211945
+  },
+  "contact": {
+    "phone": "(610) 588-8111",
+    "website": "https://kaiser-s-mulch.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8f3200a-d623-4cb6-9213-d44e09f34aa3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "in-zionsville-gravel-conveyors",
+  "slug": "gravel-conveyors",
+  "name": "Gravel Conveyors",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5005 W 106th St",
+    "city": "Zionsville",
+    "state": "IN",
+    "zip": "46077"
+  },
+  "location": {
+    "lat": 39.939327,
+    "lng": -86.24353
+  },
+  "contact": {
+    "phone": "(317) 873-8686",
+    "website": "https://gravelconveyors.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42e5ff8b-0f06-4037-a5eb-e36efa4d5b04",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

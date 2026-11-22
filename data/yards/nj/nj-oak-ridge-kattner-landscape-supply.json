@@ -1,0 +1,36 @@
+{
+  "id": "nj-oak-ridge-kattner-landscape-supply",
+  "slug": "kattner-landscape-supply",
+  "name": "Kattner Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3050 RT-23",
+    "city": "Oak Ridge",
+    "state": "NJ",
+    "zip": "07438"
+  },
+  "location": {
+    "lat": 41.057053,
+    "lng": -74.465523
+  },
+  "contact": {
+    "phone": "(973) 208-9955",
+    "website": "http://www.kattnerlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6872aae7-9e80-4064-aacf-eec295c2bee3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

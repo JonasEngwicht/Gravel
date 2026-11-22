@@ -1,0 +1,36 @@
+{
+  "id": "nc-candler-snipes-hauling-and-gravel",
+  "slug": "snipes-hauling-and-gravel",
+  "name": "Snipes Hauling & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1 Old Candler Town Rd",
+    "city": "Candler",
+    "state": "NC",
+    "zip": "28715"
+  },
+  "location": {
+    "lat": 35.53796,
+    "lng": -82.686081
+  },
+  "contact": {
+    "phone": "(828) 216-4062",
+    "website": "https://snipeshaulingandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "36496e19-a2a1-49f6-8e72-545b6509bbb4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

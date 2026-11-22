@@ -1,0 +1,36 @@
+{
+  "id": "oh-akron-driveway-dave-gravel-driveway-restoration",
+  "slug": "driveway-dave-gravel-driveway-restoration",
+  "name": "Driveway Dave - Gravel Driveway Restoration",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1475 Massillon Rd",
+    "city": "Akron",
+    "state": "OH",
+    "zip": "44306"
+  },
+  "location": {
+    "lat": 41.021461,
+    "lng": -81.463058
+  },
+  "contact": {
+    "phone": "(330) 524-3648",
+    "website": "https://graveldrivewayrestoration.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7f291d4e-01e6-498e-9206-f40bc904a3fa",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

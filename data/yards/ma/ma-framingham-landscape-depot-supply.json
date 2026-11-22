@@ -1,0 +1,36 @@
+{
+  "id": "ma-framingham-landscape-depot-supply",
+  "slug": "landscape-depot-supply",
+  "name": "Landscape Depot Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "350 Irving St",
+    "city": "Framingham",
+    "state": "MA",
+    "zip": "01702"
+  },
+  "location": {
+    "lat": 42.271362,
+    "lng": -71.408531
+  },
+  "contact": {
+    "phone": "(508) 620-2988",
+    "website": "https://www.landscapedepotsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c354ede-afd5-4a17-a4ec-4128c7525b2b",
+    "confidence": 0.966,
+    "merged_records": 2
+  }
+}

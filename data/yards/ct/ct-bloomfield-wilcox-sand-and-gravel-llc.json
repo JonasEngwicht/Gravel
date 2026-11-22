@@ -1,0 +1,35 @@
+{
+  "id": "ct-bloomfield-wilcox-sand-and-gravel-llc",
+  "slug": "wilcox-sand-and-gravel-llc",
+  "name": "Wilcox Sand & Gravel Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "83 Old Windsor Rd",
+    "city": "Bloomfield",
+    "state": "CT",
+    "zip": "06002"
+  },
+  "location": {
+    "lat": 41.860046,
+    "lng": -72.692642
+  },
+  "contact": {
+    "website": "https://wilcox-sand-gravel-llc.hub.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "93401b43-5600-44cc-86aa-5434f637d6b0",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

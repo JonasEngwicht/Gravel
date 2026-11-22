@@ -1,0 +1,37 @@
+{
+  "id": "la-baton-rouge-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6911 Exchequer Dr",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70809"
+  },
+  "location": {
+    "lat": 30.379084,
+    "lng": -91.049805
+  },
+  "contact": {
+    "phone": "(225) 293-6400",
+    "website": "https://www.siteone.com/store/520"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d12a8b4-26f5-4bfc-a761-1a99a407dae6",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

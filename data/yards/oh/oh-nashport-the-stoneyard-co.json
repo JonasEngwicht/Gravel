@@ -1,0 +1,36 @@
+{
+  "id": "oh-nashport-the-stoneyard-co",
+  "slug": "the-stoneyard-co",
+  "name": "The Stoneyard Co.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6095 Newark Rd",
+    "city": "Nashport",
+    "state": "OH",
+    "zip": "43830"
+  },
+  "location": {
+    "lat": 40.028713,
+    "lng": -82.101532
+  },
+  "contact": {
+    "phone": "(740) 455-9575",
+    "website": "https://www.stoneyardco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "95782407-b3f8-46f0-b658-21580b21e8c1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

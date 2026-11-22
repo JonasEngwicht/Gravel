@@ -1,0 +1,48 @@
+{
+  "id": "mi-galesburg-aggregate-resources",
+  "slug": "aggregate-resources",
+  "name": "Aggregate Resources",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14500 E Michigan Ave",
+    "city": "Galesburg",
+    "state": "MI",
+    "zip": "49053"
+  },
+  "location": {
+    "lat": 42.281441,
+    "lng": -85.346489
+  },
+  "contact": {
+    "phone": "(269) 746-4275",
+    "website": "http://www.aggregateresources.net/1/326/aggregate_resources_galesburg_mi.asp"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75f2017e-1727-49f9-994a-effc29ebe10e",
+    "confidence": 0.972,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2002436",
+      "name": "Aggregate Resources Gravel Pit",
+      "operator": "Aggregate Resources, Inc.",
+      "status": "Active",
+      "status_since": "2015-05-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

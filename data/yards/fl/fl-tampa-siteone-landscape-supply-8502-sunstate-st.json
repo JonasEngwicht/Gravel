@@ -1,0 +1,37 @@
+{
+  "id": "fl-tampa-siteone-landscape-supply-8502-sunstate-st",
+  "slug": "siteone-landscape-supply-8502-sunstate-st",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8502 Sunstate St",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33634"
+  },
+  "location": {
+    "lat": 28.029339,
+    "lng": -82.528664
+  },
+  "contact": {
+    "phone": "(813) 889-8041",
+    "website": "https://www.siteone.com/store/406"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eccc86af-d784-4789-8933-b21500a32da5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

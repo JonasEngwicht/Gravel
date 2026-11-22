@@ -1,0 +1,37 @@
+{
+  "id": "al-pelham-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "1980 Huntley Pkwy",
+    "city": "Pelham",
+    "state": "AL",
+    "zip": "35124"
+  },
+  "location": {
+    "lat": 33.265072,
+    "lng": -86.793633
+  },
+  "contact": {
+    "phone": "(205) 621-2116",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/FISPELH/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f58679eb-2b76-4a61-b9e2-076dc1e35cf2",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

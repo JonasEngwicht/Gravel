@@ -1,0 +1,36 @@
+{
+  "id": "tx-georgetown-austin-landscape-supplies",
+  "slug": "austin-landscape-supplies",
+  "name": "Austin Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5317 S I-35 Frontage Rd",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78626"
+  },
+  "location": {
+    "lat": 30.590763,
+    "lng": -97.690735
+  },
+  "contact": {
+    "phone": "(512) 930-2311",
+    "website": "http://www.austinlandscapesupplies.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fce38174-328f-47be-b3da-ea2fd1d3eecd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm-deming-deming-sand-and-gravel",
+  "slug": "deming-sand-and-gravel",
+  "name": "Deming Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5525 Country Club Rd SE",
+    "city": "Deming",
+    "state": "NM",
+    "zip": "88030"
+  },
+  "location": {
+    "lat": 32.201473,
+    "lng": -107.733482
+  },
+  "contact": {
+    "phone": "(575) 546-9656",
+    "website": "http://www.demingsg.com/home"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe3f66bb-0f7a-43ce-83c4-31ce5ccfd462",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2902250",
+      "name": "Deming Sand & Gravel LLC",
+      "operator": "Deming Sand & Gravel LLC",
+      "status": "Abandoned",
+      "status_since": "2025-09-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

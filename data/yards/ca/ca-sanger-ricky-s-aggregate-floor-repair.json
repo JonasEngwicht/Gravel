@@ -1,0 +1,36 @@
+{
+  "id": "ca-sanger-ricky-s-aggregate-floor-repair",
+  "slug": "ricky-s-aggregate-floor-repair",
+  "name": "Ricky's Aggregate Floor Repair",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1299 Tucker",
+    "city": "Sanger",
+    "state": "CA",
+    "zip": "93657"
+  },
+  "location": {
+    "lat": 36.698109,
+    "lng": -119.54554
+  },
+  "contact": {
+    "phone": "(559) 875-0997",
+    "website": "https://www.concretenetwork.com/concrete/exposedaggregate"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4478e037-3c0c-4581-85e2-acde794350c6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

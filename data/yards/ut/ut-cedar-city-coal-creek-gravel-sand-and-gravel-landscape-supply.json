@@ -1,0 +1,36 @@
+{
+  "id": "ut-cedar-city-coal-creek-gravel-sand-and-gravel-landscape-supply",
+  "slug": "coal-creek-gravel-sand-and-gravel-landscape-supply",
+  "name": "Coal Creek Gravel - Sand & Gravel - Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2114 W 850 N Ste B",
+    "city": "Cedar City",
+    "state": "UT",
+    "zip": "84721"
+  },
+  "location": {
+    "lat": 37.692108,
+    "lng": -113.088478
+  },
+  "contact": {
+    "phone": "(435) 263-0306",
+    "website": "http://coalcreekgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "58acfc1f-93e0-435f-8f83-89426185fcfd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

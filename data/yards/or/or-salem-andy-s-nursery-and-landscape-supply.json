@@ -1,0 +1,36 @@
+{
+  "id": "or-salem-andy-s-nursery-and-landscape-supply",
+  "slug": "andy-s-nursery-and-landscape-supply",
+  "name": "Andy's Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6494 Fruitland Rd NE",
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97317"
+  },
+  "location": {
+    "lat": 44.940643,
+    "lng": -122.928612
+  },
+  "contact": {
+    "phone": "(503) 689-8468",
+    "website": "http://www.andysnursery.co/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "91e7149e-0cf9-4b88-b887-04c6b477b567",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

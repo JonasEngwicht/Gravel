@@ -1,0 +1,36 @@
+{
+  "id": "oh-waynesville-roxanna-mulch-and-topsoil",
+  "slug": "roxanna-mulch-and-topsoil",
+  "name": "Roxanna Mulch & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1985 Roxanna New Burlington Rd",
+    "city": "Waynesville",
+    "state": "OH",
+    "zip": "45068"
+  },
+  "location": {
+    "lat": 39.581585,
+    "lng": -84.01812
+  },
+  "contact": {
+    "phone": "(937) 862-9308",
+    "website": "http://www.rmt.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "56bc9f55-7b49-4283-a463-7ef9259103de",
+    "confidence": 0.799,
+    "merged_records": 1
+  }
+}

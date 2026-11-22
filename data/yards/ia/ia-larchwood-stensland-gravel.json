@@ -1,0 +1,48 @@
+{
+  "id": "ia-larchwood-stensland-gravel",
+  "slug": "stensland-gravel",
+  "name": "Stensland Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1741 Ashley Ave",
+    "city": "Larchwood",
+    "state": "IA",
+    "zip": "51241"
+  },
+  "location": {
+    "lat": 43.398094,
+    "lng": -96.527542
+  },
+  "contact": {
+    "phone": "(712) 477-2280",
+    "website": "https://www.stengravco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74aba687-d6d3-4dee-94c1-a0a6da914a77",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1302279",
+      "name": "Crusher (S Pit)",
+      "operator": "Stensland Gravel Co.",
+      "status": "Abandoned",
+      "status_since": "2019-09-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

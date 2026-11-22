@@ -1,0 +1,36 @@
+{
+  "id": "mi-freeland-salzburg-landscape-supplies",
+  "slug": "salzburg-landscape-supplies",
+  "name": "Salzburg Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2626 W Salzburg Rd",
+    "city": "Freeland",
+    "state": "MI",
+    "zip": "48623"
+  },
+  "location": {
+    "lat": 43.583664,
+    "lng": -84.153435
+  },
+  "contact": {
+    "phone": "(989) 496-2335",
+    "website": "http://www.salzburglandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eacf286c-70e0-4189-a010-d63674f52667",
+    "confidence": 0.933,
+    "merged_records": 2
+  }
+}

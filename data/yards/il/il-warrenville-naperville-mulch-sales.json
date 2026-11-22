@@ -1,0 +1,36 @@
+{
+  "id": "il-warrenville-naperville-mulch-sales",
+  "slug": "naperville-mulch-sales",
+  "name": "Naperville Mulch Sales",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4S361 River Rd #4",
+    "city": "Warrenville",
+    "state": "IL",
+    "zip": "60563"
+  },
+  "location": {
+    "lat": 41.806202,
+    "lng": -88.186401
+  },
+  "contact": {
+    "phone": "(630) 355-3553",
+    "website": "http://napervillemulch.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "65906d2f-0336-43e9-8882-ebfab5d317bc",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-sylvania-a-and-j-landscape-center",
+  "slug": "a-and-j-landscape-center",
+  "name": "A & J Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8061 Sylvania Ave",
+    "city": "Sylvania",
+    "state": "OH",
+    "zip": "43560"
+  },
+  "location": {
+    "lat": 41.687717,
+    "lng": -83.736992
+  },
+  "contact": {
+    "phone": "(419) 842-8733",
+    "website": "https://www.aandjlandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c4a3f4c-3025-448a-84e8-6fb05ec6df51",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pa-oley-jku-trucking-and-landscaping-supplies",
+  "slug": "jku-trucking-and-landscaping-supplies",
+  "name": "JKU Trucking & Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "798 Memorial Hwy",
+    "city": "Oley",
+    "state": "PA",
+    "zip": "19547"
+  },
+  "location": {
+    "lat": 40.397011,
+    "lng": -75.806572
+  },
+  "contact": {
+    "phone": "(610) 987-0924"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83bdbd20-b124-4a6d-8f86-4b6301690871",
+    "confidence": 0.957,
+    "merged_records": 1
+  }
+}

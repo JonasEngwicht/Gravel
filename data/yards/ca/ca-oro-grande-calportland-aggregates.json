@@ -1,0 +1,48 @@
+{
+  "id": "ca-oro-grande-calportland-aggregates",
+  "slug": "calportland-aggregates",
+  "name": "CalPortland Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "19409 National Trails Hwy",
+    "city": "Oro Grande",
+    "state": "CA",
+    "zip": "92368"
+  },
+  "location": {
+    "lat": 34.606758,
+    "lng": -117.336021
+  },
+  "contact": {
+    "phone": "(760) 269-1118",
+    "website": "https://www.calportland.com/locations/california/oro-grande-aggregate-plant/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f939fc3-ec48-4dd1-aee6-8009b4171480",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405906",
+      "name": "Oro Grande Aggregates",
+      "operator": "CalPortland",
+      "status": "Abandoned",
+      "status_since": "2016-09-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

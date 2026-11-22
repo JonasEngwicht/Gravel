@@ -1,0 +1,36 @@
+{
+  "id": "nc-apex-atlantic-mulch",
+  "slug": "atlantic-mulch",
+  "name": "Atlantic Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2420 Ten Ten Rd",
+    "city": "Apex",
+    "state": "NC",
+    "zip": "27539"
+  },
+  "location": {
+    "lat": 35.715294,
+    "lng": -78.812355
+  },
+  "contact": {
+    "phone": "(919) 859-5503",
+    "website": "http://www.atlantic-mulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a2034e66-4113-4522-a355-5c84a5dcfe3d",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

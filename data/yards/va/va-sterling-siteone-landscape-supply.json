@@ -1,0 +1,37 @@
+{
+  "id": "va-sterling-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "22713 Commerce Center Ct Ste 110",
+    "city": "Sterling",
+    "state": "VA",
+    "zip": "20166"
+  },
+  "location": {
+    "lat": 38.98735,
+    "lng": -77.470573
+  },
+  "contact": {
+    "phone": "(703) 661-8262",
+    "website": "https://www.siteone.com/store/41"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81b95cf7-5c77-45c1-9502-59624b298c0e",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

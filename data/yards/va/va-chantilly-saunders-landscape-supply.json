@@ -1,0 +1,36 @@
+{
+  "id": "va-chantilly-saunders-landscape-supply",
+  "slug": "saunders-landscape-supply",
+  "name": "Saunders Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14016 Sullyfield Cir Suite F",
+    "city": "Chantilly",
+    "state": "VA",
+    "zip": "20151"
+  },
+  "location": {
+    "lat": 38.893162,
+    "lng": -77.433472
+  },
+  "contact": {
+    "phone": "(703) 764-4831",
+    "website": "https://saundersls.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a210213-eed9-4b3c-a0d0-04c971858baa",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

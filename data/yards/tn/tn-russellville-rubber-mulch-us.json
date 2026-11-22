@@ -1,0 +1,36 @@
+{
+  "id": "tn-russellville-rubber-mulch-us",
+  "slug": "rubber-mulch-us",
+  "name": "Rubber Mulch US",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1224 Little Mountain Rd",
+    "city": "Russellville",
+    "state": "TN",
+    "zip": "37860"
+  },
+  "location": {
+    "lat": 36.231827,
+    "lng": -83.184753
+  },
+  "contact": {
+    "phone": "(423) 438-4007",
+    "website": "https://www.rubbermulchus.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b7d39bf-67ab-4211-bf93-4835393ab2a0",
+    "confidence": 0.902,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ct-union-village-landscaping-and-landscape-supply",
+  "slug": "village-landscaping-and-landscape-supply",
+  "name": "Village Landscaping & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1030 Buckley Hwy",
+    "city": "Union",
+    "state": "CT",
+    "zip": "06076"
+  },
+  "location": {
+    "lat": 42.000298,
+    "lng": -72.154648
+  },
+  "contact": {
+    "phone": "(508) 439-2740"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1683310-9529-4aac-8c3d-0d16ff6d1e64",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

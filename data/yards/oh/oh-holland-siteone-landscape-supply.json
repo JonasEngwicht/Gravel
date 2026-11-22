@@ -1,0 +1,37 @@
+{
+  "id": "oh-holland-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10300 Geiser Rd",
+    "city": "Holland",
+    "state": "OH",
+    "zip": "43528"
+  },
+  "location": {
+    "lat": 41.60791,
+    "lng": -83.788857
+  },
+  "contact": {
+    "phone": "(419) 867-1675",
+    "website": "https://www.siteone.com/store/170"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b06cf4b-5442-484e-acd3-5c94f371aa2f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

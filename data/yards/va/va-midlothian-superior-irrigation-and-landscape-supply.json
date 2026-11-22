@@ -1,0 +1,37 @@
+{
+  "id": "va-midlothian-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "12250 Deertree Pl",
+    "city": "Midlothian",
+    "state": "VA",
+    "zip": "23112"
+  },
+  "location": {
+    "lat": 37.442318,
+    "lng": -77.622238
+  },
+  "contact": {
+    "phone": "(804) 491-8555",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/SILRICH/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e8b5d00-c2bf-4d12-97bd-d33cea6af86e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

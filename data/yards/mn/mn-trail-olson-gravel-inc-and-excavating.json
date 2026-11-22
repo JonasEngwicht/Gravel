@@ -1,0 +1,36 @@
+{
+  "id": "mn-trail-olson-gravel-inc-and-excavating",
+  "slug": "olson-gravel-inc-and-excavating",
+  "name": "Olson Gravel Inc and Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "34508 State Highway 92 SE",
+    "city": "Trail",
+    "state": "MN",
+    "zip": "56684"
+  },
+  "location": {
+    "lat": 47.783169,
+    "lng": -95.740425
+  },
+  "contact": {
+    "phone": "(218) 280-0367",
+    "website": "http://www.olsongravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62435611-d532-4445-9f44-b3854113dfcc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-temple-93-nursery-and-landscape-supply",
+  "slug": "93-nursery-and-landscape-supply",
+  "name": "93 Nursery and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5300 W Farm To Market 93",
+    "city": "Temple",
+    "state": "TX",
+    "zip": "76502"
+  },
+  "location": {
+    "lat": 31.044809,
+    "lng": -97.42421
+  },
+  "contact": {
+    "phone": "(254) 616-9889"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0093d38-e5c3-4ed5-9332-2fcabf07a20e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "wa-rochester-martin-sand-and-gravel",
+  "slug": "martin-sand-and-gravel",
+  "name": "Martin Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6500 196th Ave SW",
+    "city": "Rochester",
+    "state": "WA",
+    "zip": "98579"
+  },
+  "location": {
+    "lat": 46.804695,
+    "lng": -123.019478
+  },
+  "contact": {
+    "phone": "(360) 736-2851",
+    "website": "https://martinsng.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f17826ee-1d24-49cf-b21a-7893da838388",
+    "confidence": 0.55,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4500657",
+      "name": "Martin Pit",
+      "operator": "Martin Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2012-09-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

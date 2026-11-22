@@ -1,0 +1,36 @@
+{
+  "id": "mi-grand-rapids-greenleaf-landscape-supply",
+  "slug": "greenleaf-landscape-supply",
+  "name": "Greenleaf Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "201 N Park St NW",
+    "city": "Grand Rapids",
+    "state": "MI",
+    "zip": "49544"
+  },
+  "location": {
+    "lat": 43.026165,
+    "lng": -85.664185
+  },
+  "contact": {
+    "phone": "(616) 784-0794",
+    "website": "http://www.greenleafsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c2262cb-8ed1-4323-9ed3-585a720ebca4",
+    "confidence": 0.964,
+    "merged_records": 1
+  }
+}

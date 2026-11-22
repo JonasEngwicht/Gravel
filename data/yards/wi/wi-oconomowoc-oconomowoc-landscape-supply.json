@@ -1,0 +1,36 @@
+{
+  "id": "wi-oconomowoc-oconomowoc-landscape-supply",
+  "slug": "oconomowoc-landscape-supply",
+  "name": "Oconomowoc Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "N68W37850 County Road K",
+    "city": "Oconomowoc",
+    "state": "WI",
+    "zip": "53066"
+  },
+  "location": {
+    "lat": 43.143688,
+    "lng": -88.497147
+  },
+  "contact": {
+    "phone": "(262) 567-1777",
+    "website": "http://www.OLSGC.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cab8a4d7-5c99-46e6-b134-645f77408e7b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

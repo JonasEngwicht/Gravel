@@ -1,0 +1,37 @@
+{
+  "id": "ms-canton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2498 US 51",
+    "city": "Canton",
+    "state": "MS",
+    "zip": "39046"
+  },
+  "location": {
+    "lat": 32.557938,
+    "lng": -90.061043
+  },
+  "contact": {
+    "phone": "(601) 829-4001",
+    "website": "https://www.siteone.com/en/store/181"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34643711-2b01-48c3-a422-1ac15eae7480",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

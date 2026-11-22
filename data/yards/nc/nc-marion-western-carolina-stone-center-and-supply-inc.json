@@ -1,0 +1,36 @@
+{
+  "id": "nc-marion-western-carolina-stone-center-and-supply-inc",
+  "slug": "western-carolina-stone-center-and-supply-inc",
+  "name": "Western Carolina Stone Center and Supply Inc.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4291 US-221 S",
+    "city": "Marion",
+    "state": "NC",
+    "zip": "28752"
+  },
+  "location": {
+    "lat": 35.640877,
+    "lng": -81.985397
+  },
+  "contact": {
+    "phone": "(828) 756-4430",
+    "website": "https://western-carolina-stone-center-and-supply-inc.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5b896ef-064f-491a-96c9-2f1eff4aded6",
+    "confidence": 0.75,
+    "merged_records": 2
+  }
+}

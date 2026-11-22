@@ -1,0 +1,36 @@
+{
+  "id": "mn-burnsville-specialized-environmental-technologies-inc-the-mulch-store",
+  "slug": "specialized-environmental-technologies-inc-the-mulch-store",
+  "name": "Specialized Environmental Technologies, Inc. The Mulch Store",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1030 Cliff Rd W",
+    "city": "Burnsville",
+    "state": "MN",
+    "zip": "55337"
+  },
+  "location": {
+    "lat": 44.780834,
+    "lng": -93.311684
+  },
+  "contact": {
+    "phone": "(952) 890-9375",
+    "website": "http://setmn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5599c3a-5a4e-46c6-a272-4e1b5311169c",
+    "confidence": 0.807,
+    "merged_records": 2
+  }
+}

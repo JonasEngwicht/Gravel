@@ -1,0 +1,36 @@
+{
+  "id": "tx-hutchins-stone-depot-of-texas",
+  "slug": "stone-depot-of-texas",
+  "name": "Stone Depot of Texas",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "I-45 Service Rd",
+    "city": "Hutchins",
+    "state": "TX",
+    "zip": "75141"
+  },
+  "location": {
+    "lat": 32.653576,
+    "lng": -96.713562
+  },
+  "contact": {
+    "phone": "(972) 707-7900",
+    "website": "http://www.stonedepottx.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed0baec1-c95c-4cfa-ac06-70adf221544f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

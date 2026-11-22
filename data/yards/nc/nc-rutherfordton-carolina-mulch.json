@@ -1,0 +1,35 @@
+{
+  "id": "nc-rutherfordton-carolina-mulch",
+  "slug": "carolina-mulch",
+  "name": "Carolina Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7509 Poors Ford Rd",
+    "city": "Rutherfordton",
+    "state": "NC",
+    "zip": "28139"
+  },
+  "location": {
+    "lat": 35.224548,
+    "lng": -81.999611
+  },
+  "contact": {
+    "phone": "(828) 817-1267"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97f77bc8-4975-4238-9371-bfb14d835dd7",
+    "confidence": 0.521,
+    "merged_records": 1
+  }
+}

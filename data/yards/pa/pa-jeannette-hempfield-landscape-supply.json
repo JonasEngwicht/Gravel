@@ -1,0 +1,36 @@
+{
+  "id": "pa-jeannette-hempfield-landscape-supply",
+  "slug": "hempfield-landscape-supply",
+  "name": "Hempfield Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1125 Lowry Ave",
+    "city": "Jeannette",
+    "state": "PA",
+    "zip": "15644"
+  },
+  "location": {
+    "lat": 40.313255,
+    "lng": -79.620079
+  },
+  "contact": {
+    "phone": "(724) 522-1511",
+    "website": "http://www.barbishinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8a5ae6e9-0052-4784-8bf1-0d6ec2477e26",
+    "confidence": 0.508,
+    "merged_records": 1
+  }
+}

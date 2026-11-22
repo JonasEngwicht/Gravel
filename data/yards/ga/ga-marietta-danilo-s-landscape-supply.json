@@ -1,0 +1,36 @@
+{
+  "id": "ga-marietta-danilo-s-landscape-supply",
+  "slug": "danilo-s-landscape-supply",
+  "name": "Danilo's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "515 Cobb Pkwy N",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30062"
+  },
+  "location": {
+    "lat": 33.963051,
+    "lng": -84.5317
+  },
+  "contact": {
+    "phone": "(470) 658-3754",
+    "website": "https://www.daniloslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "66d512ef-b728-4d91-b7ae-b2bf88bb721f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

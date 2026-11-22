@@ -1,0 +1,37 @@
+{
+  "id": "fl-brooksville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "15380 Aviation Loop Dr",
+    "city": "Brooksville",
+    "state": "FL",
+    "zip": "34604"
+  },
+  "location": {
+    "lat": 28.480478,
+    "lng": -82.474739
+  },
+  "contact": {
+    "phone": "(352) 799-3119",
+    "website": "https://www.siteone.com/store/770"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b79c00ad-d013-4ee9-8f21-7bbd5e23bd50",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

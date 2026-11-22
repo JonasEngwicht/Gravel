@@ -1,0 +1,36 @@
+{
+  "id": "wa-centralia-lael-s-landscape-and-stone-supply",
+  "slug": "lael-s-landscape-and-stone-supply",
+  "name": "Lael's Landscape and Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1301 W Reynolds Ave",
+    "city": "Centralia",
+    "state": "WA",
+    "zip": "98531"
+  },
+  "location": {
+    "lat": 46.735283,
+    "lng": -122.968079
+  },
+  "contact": {
+    "phone": "(360) 807-2018",
+    "website": "http://www.laelssupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "749496b7-e5da-4069-a50f-72063bcebcf4",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

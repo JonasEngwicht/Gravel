@@ -1,0 +1,36 @@
+{
+  "id": "va-rustburg-the-stone-yard-at-hkn",
+  "slug": "the-stone-yard-at-hkn",
+  "name": "The Stone Yard at HKN",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1469 Sunnymeade Rd",
+    "city": "Rustburg",
+    "state": "VA",
+    "zip": "24588"
+  },
+  "location": {
+    "lat": 37.319374,
+    "lng": -79.153023
+  },
+  "contact": {
+    "phone": "(434) 266-1262",
+    "website": "https://www.huckleberryknobnursery.com/natural-stone/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12dd505b-425a-4167-a4a0-2540e4221a30",
+    "confidence": 0.836,
+    "merged_records": 1
+  }
+}

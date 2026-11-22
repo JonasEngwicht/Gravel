@@ -1,0 +1,36 @@
+{
+  "id": "nd-grand-forks-r-and-r-dirt-and-gravel",
+  "slug": "r-and-r-dirt-and-gravel",
+  "name": "R & R Dirt & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3510 Chestnut St",
+    "city": "Grand Forks",
+    "state": "ND",
+    "zip": "58201"
+  },
+  "location": {
+    "lat": 47.885864,
+    "lng": -97.031006
+  },
+  "contact": {
+    "phone": "(701) 795-5605",
+    "website": "https://www.rrdirtandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db1c6815-37d2-43e9-bef7-709b78f85d99",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

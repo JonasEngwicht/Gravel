@@ -1,0 +1,36 @@
+{
+  "id": "nc-wilmington-seaside-mulch",
+  "slug": "seaside-mulch",
+  "name": "Seaside Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "201 N Green Meadows Dr",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28405"
+  },
+  "location": {
+    "lat": 34.256428,
+    "lng": -77.846825
+  },
+  "contact": {
+    "phone": "(910) 791-2100",
+    "website": "http://www.SeasideMulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1e40943e-3a29-40cb-8d1b-21899c6f0382",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

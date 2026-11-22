@@ -1,0 +1,37 @@
+{
+  "id": "ct-brookfield-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "549 Federal Rd",
+    "city": "Brookfield",
+    "state": "CT",
+    "zip": "06804"
+  },
+  "location": {
+    "lat": 41.464596,
+    "lng": -73.40947
+  },
+  "contact": {
+    "phone": "(203) 775-4722",
+    "website": "https://www.siteone.com/en/store/703"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77c65be9-d0e0-41b1-bdc9-a87ff0432b0a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

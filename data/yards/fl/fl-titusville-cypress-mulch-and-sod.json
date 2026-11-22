@@ -1,0 +1,36 @@
+{
+  "id": "fl-titusville-cypress-mulch-and-sod",
+  "slug": "cypress-mulch-and-sod",
+  "name": "Cypress Mulch and Sod",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7300 US-1",
+    "city": "Titusville",
+    "state": "FL",
+    "zip": "32780"
+  },
+  "location": {
+    "lat": 28.503777,
+    "lng": -80.784096
+  },
+  "contact": {
+    "phone": "(321) 267-4312",
+    "website": "http://www.cypressmulchandsod.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "254503a5-c4dd-47b6-ac89-065a16248f4c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

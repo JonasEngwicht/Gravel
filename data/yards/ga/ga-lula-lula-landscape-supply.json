@@ -1,0 +1,35 @@
+{
+  "id": "ga-lula-lula-landscape-supply",
+  "slug": "lula-landscape-supply",
+  "name": "LULA Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6727 Old Cornelia Hwy",
+    "city": "Lula",
+    "state": "GA",
+    "zip": "30554"
+  },
+  "location": {
+    "lat": 34.404797,
+    "lng": -83.650017
+  },
+  "contact": {
+    "phone": "(770) 869-9877"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bcb47add-60ff-4736-8bfb-b4002d0541ba",
+    "confidence": 0.573,
+    "merged_records": 1
+  }
+}

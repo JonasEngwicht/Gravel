@@ -1,0 +1,36 @@
+{
+  "id": "ga-savannah-daly-organics-mulch-topsoil-and-compost",
+  "slug": "daly-organics-mulch-topsoil-and-compost",
+  "name": "Daly Organics- Mulch, Topsoil, & Compost",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4140 Ogeechee Rd",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31405"
+  },
+  "location": {
+    "lat": 32.052471,
+    "lng": -81.162178
+  },
+  "contact": {
+    "phone": "(912) 803-0744",
+    "website": "https://dalyorganics.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd4066fb-008b-4b12-a96a-c423399b5dce",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

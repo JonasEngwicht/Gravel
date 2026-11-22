@@ -1,0 +1,35 @@
+{
+  "id": "ok-tulsa-tulsa-topsoil-and-shale",
+  "slug": "tulsa-topsoil-and-shale",
+  "name": "Tulsa Topsoil and Shale",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4500 W 21st St S",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74107"
+  },
+  "location": {
+    "lat": 36.1325,
+    "lng": -96.042152
+  },
+  "contact": {
+    "phone": "(918) 845-2939"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d05a31eb-0bba-4fbe-9988-34d8cde8bfce",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

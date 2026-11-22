@@ -1,0 +1,36 @@
+{
+  "id": "wi-casco-casco-sand-and-gravel",
+  "slug": "casco-sand-and-gravel",
+  "name": "Casco Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "E3160 Co Rd T",
+    "city": "Casco",
+    "state": "WI",
+    "zip": "54205"
+  },
+  "location": {
+    "lat": 44.530876,
+    "lng": -87.610085
+  },
+  "contact": {
+    "phone": "(920) 837-7632",
+    "website": "http://www.cascosandngravelco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d9628d7-5da4-400a-9b07-c396045bb82a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

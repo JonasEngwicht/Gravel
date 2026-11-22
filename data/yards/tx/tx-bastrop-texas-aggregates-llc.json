@@ -1,0 +1,48 @@
+{
+  "id": "tx-bastrop-texas-aggregates-llc",
+  "slug": "texas-aggregates-llc",
+  "name": "Texas Aggregates LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "421 Old Perkins Rd",
+    "city": "Bastrop",
+    "state": "TX",
+    "zip": "78602"
+  },
+  "location": {
+    "lat": 30.137516,
+    "lng": -97.350632
+  },
+  "contact": {
+    "phone": "(512) 303-4215",
+    "website": "https://www.texagg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d1c448c-49d8-4bc8-a4b8-69670d5d4e15",
+    "confidence": 0.922,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4104172",
+      "name": "Bastrop Plant",
+      "operator": "Texas Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2000-06-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

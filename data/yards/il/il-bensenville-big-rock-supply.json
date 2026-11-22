@@ -1,0 +1,36 @@
+{
+  "id": "il-bensenville-big-rock-supply",
+  "slug": "big-rock-supply",
+  "name": "Big Rock Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "330 Meyer Rd",
+    "city": "Bensenville",
+    "state": "IL",
+    "zip": "60106"
+  },
+  "location": {
+    "lat": 41.966194,
+    "lng": -87.943901
+  },
+  "contact": {
+    "phone": "(630) 350-2300",
+    "website": "http://www.BigRockSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "51e24abd-a69c-4390-98ce-574ef82c5848",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

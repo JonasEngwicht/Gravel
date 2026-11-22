@@ -1,0 +1,48 @@
+{
+  "id": "wa-granite-falls-menzel-lake-gravel",
+  "slug": "menzel-lake-gravel",
+  "name": "Menzel Lake Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7800 Menzel Lake Rd",
+    "city": "Granite Falls",
+    "state": "WA",
+    "zip": "98252"
+  },
+  "location": {
+    "lat": 48.066002,
+    "lng": -121.93737
+  },
+  "contact": {
+    "phone": "(360) 691-0396",
+    "website": "http://www.menzellakegravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8cc4dbf-84fe-4b03-98cc-af1ea72c2885",
+    "confidence": 0.996,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503405",
+      "name": "Menzel Lake Gravel",
+      "operator": "Lake Industries LLC",
+      "status": "Active",
+      "status_since": "1999-08-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

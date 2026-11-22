@@ -1,0 +1,48 @@
+{
+  "id": "nj-belvidere-harmony-sand-and-gravel",
+  "slug": "harmony-sand-and-gravel",
+  "name": "Harmony Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "126 Foul Rift Rd",
+    "city": "Belvidere",
+    "state": "NJ",
+    "zip": "07823"
+  },
+  "location": {
+    "lat": 40.811878,
+    "lng": -75.093201
+  },
+  "contact": {
+    "phone": "(908) 475-4710",
+    "website": "http://www.harmonysandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e921a22-d0ba-451c-997e-30c7bc869c10",
+    "confidence": 0.921,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2800970",
+      "name": "Harmony Sand & Gravel Inc PL #2",
+      "operator": "Harmony Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2013-01-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

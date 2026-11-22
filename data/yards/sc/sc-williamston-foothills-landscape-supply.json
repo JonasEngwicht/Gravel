@@ -1,0 +1,36 @@
+{
+  "id": "sc-williamston-foothills-landscape-supply",
+  "slug": "foothills-landscape-supply",
+  "name": "Foothills Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10 Foster Rd",
+    "city": "Williamston",
+    "state": "SC",
+    "zip": "29697"
+  },
+  "location": {
+    "lat": 34.613514,
+    "lng": -82.501579
+  },
+  "contact": {
+    "phone": "(864) 626-3484",
+    "website": "http://www.foothillslandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c2f47d85-56fc-420e-982a-6023f8315f05",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

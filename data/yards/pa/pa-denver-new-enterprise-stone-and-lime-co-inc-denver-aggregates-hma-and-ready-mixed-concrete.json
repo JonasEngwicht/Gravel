@@ -1,0 +1,48 @@
+{
+  "id": "pa-denver-new-enterprise-stone-and-lime-co-inc-denver-aggregates-hma-and-ready-mixed-concrete",
+  "slug": "new-enterprise-stone-and-lime-co-inc-denver-aggregates-hma-and-ready-mixed-concrete",
+  "name": "New Enterprise Stone & Lime Co., Inc. -- Denver Aggregates Hma And Ready Mixed Concrete",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "74 Kurtz Rd",
+    "city": "Denver",
+    "state": "PA",
+    "zip": "17517"
+  },
+  "location": {
+    "lat": 40.224041,
+    "lng": -76.116791
+  },
+  "contact": {
+    "phone": "(800) 543-3860",
+    "website": "https://www.nesl.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e6427cb4-8531-43db-ae90-36fe14784b99",
+    "confidence": 0.943,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3600130",
+      "name": "Denver Quarry",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Active",
+      "status_since": "2012-08-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 16
+    }
+  ]
+}

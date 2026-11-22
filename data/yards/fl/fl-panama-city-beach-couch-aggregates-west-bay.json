@@ -1,0 +1,35 @@
+{
+  "id": "fl-panama-city-beach-couch-aggregates-west-bay",
+  "slug": "couch-aggregates-west-bay",
+  "name": "Couch Aggregates West Bay",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8017 Highway 79",
+    "city": "Panama City Beach",
+    "state": "FL",
+    "zip": "32413"
+  },
+  "location": {
+    "lat": 30.297297,
+    "lng": -85.857307
+  },
+  "contact": {
+    "phone": "(850) 588-8147"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "933110f6-4100-42e1-9805-efc1eba6c9c7",
+    "confidence": 0.714,
+    "merged_records": 1
+  }
+}

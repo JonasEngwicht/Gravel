@@ -1,0 +1,36 @@
+{
+  "id": "wi-verona-keleny-top-soil",
+  "slug": "keleny-top-soil",
+  "name": "Keleny Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7486 Valley View Rd",
+    "city": "Verona",
+    "state": "WI",
+    "zip": "53593"
+  },
+  "location": {
+    "lat": 43.04657,
+    "lng": -89.568665
+  },
+  "contact": {
+    "phone": "(608) 833-4835",
+    "website": "https://www.kelenytopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ed024d1-1282-47b7-bd08-2378d489f4d4",
+    "confidence": 0.948,
+    "merged_records": 2
+  }
+}

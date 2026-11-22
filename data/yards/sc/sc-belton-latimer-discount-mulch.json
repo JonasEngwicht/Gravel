@@ -1,0 +1,35 @@
+{
+  "id": "sc-belton-latimer-discount-mulch",
+  "slug": "latimer-discount-mulch",
+  "name": "Latimer Discount Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1101 Anderson St",
+    "city": "Belton",
+    "state": "SC",
+    "zip": "29627"
+  },
+  "location": {
+    "lat": 34.510902,
+    "lng": -82.516495
+  },
+  "contact": {
+    "phone": "(864) 338-0739"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "24d384be-b505-4e03-9bed-03052c43fcff",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

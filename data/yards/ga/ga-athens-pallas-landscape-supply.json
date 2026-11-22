@@ -1,0 +1,36 @@
+{
+  "id": "ga-athens-pallas-landscape-supply",
+  "slug": "pallas-landscape-supply",
+  "name": "Pallas Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4598 Atlanta Hwy",
+    "city": "Athens",
+    "state": "GA",
+    "zip": "30606"
+  },
+  "location": {
+    "lat": 33.940422,
+    "lng": -83.49366
+  },
+  "contact": {
+    "phone": "(706) 850-8555",
+    "website": "http://www.PallasLandscapeSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e6f3b48-f9c6-43eb-b19a-cf8c91baf9f9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

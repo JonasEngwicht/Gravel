@@ -1,0 +1,35 @@
+{
+  "id": "pa-west-hazleton-924-landscape-supply",
+  "slug": "924-landscape-supply",
+  "name": "924 Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "358 Old Cranberry Road Rear",
+    "city": "West Hazleton",
+    "state": "PA",
+    "zip": "18202"
+  },
+  "location": {
+    "lat": 40.955231,
+    "lng": -75.996178
+  },
+  "contact": {
+    "phone": "(570) 401-6464"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "174df56a-1719-46b6-aa39-81bd5570e54f",
+    "confidence": 0.92,
+    "merged_records": 3
+  }
+}

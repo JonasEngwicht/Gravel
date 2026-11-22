@@ -1,0 +1,37 @@
+{
+  "id": "nh-nashua-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "456 W Hollis St",
+    "city": "Nashua",
+    "state": "NH",
+    "zip": "03062"
+  },
+  "location": {
+    "lat": 42.747589,
+    "lng": -71.495949
+  },
+  "contact": {
+    "phone": "(603) 882-1368",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3123041f-3c60-48c0-8a87-db2224429d13",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ar-hot-springs-lakeside-landscape-supply-inc",
+  "slug": "lakeside-landscape-supply-inc",
+  "name": "Lakeside Landscape Supply, Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "777 Carpenter Dam Rd",
+    "city": "Hot Springs",
+    "state": "AR",
+    "zip": "71901"
+  },
+  "location": {
+    "lat": 34.460007,
+    "lng": -93.026161
+  },
+  "contact": {
+    "phone": "(501) 262-9288",
+    "website": "http://www.landscapedesignhotsprings.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15a960a8-59dc-41dc-984c-98af243f93d5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "co-arvada-bedrock-landscaping-materials",
+  "slug": "bedrock-landscaping-materials",
+  "name": "Bedrock Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5401 W 52nd Ave",
+    "city": "Arvada",
+    "state": "CO",
+    "zip": "80002"
+  },
+  "location": {
+    "lat": 39.791374,
+    "lng": -105.057686
+  },
+  "contact": {
+    "phone": "(303) 432-7222",
+    "website": "http://www.bedrockrocks.us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ee938ab-f7d8-40b6-89d4-cb0f1add0a80",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

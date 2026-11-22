@@ -1,0 +1,35 @@
+{
+  "id": "fl-lake-worth-florida-soils-and-aggregates-llc",
+  "slug": "florida-soils-and-aggregates-llc",
+  "name": "Florida Soils & Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3705 Bellevue Ave",
+    "city": "Lake Worth",
+    "state": "FL",
+    "zip": "33461"
+  },
+  "location": {
+    "lat": 26.620123,
+    "lng": -80.087746
+  },
+  "contact": {
+    "phone": "(772) 336-9663"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "be7f3c19-7b5f-4c10-9fda-10e17e574712",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

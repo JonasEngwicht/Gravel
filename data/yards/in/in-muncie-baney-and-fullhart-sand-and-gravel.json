@@ -1,0 +1,35 @@
+{
+  "id": "in-muncie-baney-and-fullhart-sand-and-gravel",
+  "slug": "baney-and-fullhart-sand-and-gravel",
+  "name": "Baney & Fullhart Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2500 N Shirey Rd",
+    "city": "Muncie",
+    "state": "IN",
+    "zip": "47303"
+  },
+  "location": {
+    "lat": 40.214081,
+    "lng": -85.345833
+  },
+  "contact": {
+    "phone": "(765) 289-1442"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e74aa9c1-b696-459d-99a3-2271c9919202",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

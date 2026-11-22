@@ -1,0 +1,36 @@
+{
+  "id": "fl-fort-myers-sosa-s-landscape-supplies",
+  "slug": "sosa-s-landscape-supplies",
+  "name": "Sosa's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "16751 Link Ct",
+    "city": "Fort Myers",
+    "state": "FL",
+    "zip": "33912"
+  },
+  "location": {
+    "lat": 26.496521,
+    "lng": -81.823952
+  },
+  "contact": {
+    "phone": "(239) 710-0143",
+    "website": "https://www.sosalandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ecc2c2a-728c-4e86-a52c-9bc45e938eae",
+    "confidence": 0.92,
+    "merged_records": 3
+  }
+}

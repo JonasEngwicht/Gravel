@@ -1,0 +1,36 @@
+{
+  "id": "ny-greece-rochester-topsoil-wny",
+  "slug": "rochester-topsoil-wny",
+  "name": "Rochester Topsoil WNY",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3702 Latta Rd",
+    "city": "Greece",
+    "state": "NY",
+    "zip": "14612"
+  },
+  "location": {
+    "lat": 43.253998,
+    "lng": -77.745323
+  },
+  "contact": {
+    "phone": "(585) 710-2321",
+    "website": "http://www.rochestertopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "57f46942-69ab-4f50-aa67-7af7d7755a8b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

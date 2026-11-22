@@ -1,0 +1,36 @@
+{
+  "id": "nj-lakewood-rubber-mulch",
+  "slug": "rubber-mulch",
+  "name": "Rubber Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1985 Rutgers Blvd",
+    "city": "Lakewood",
+    "state": "NJ",
+    "zip": "08701"
+  },
+  "location": {
+    "lat": 40.077881,
+    "lng": -74.208931
+  },
+  "contact": {
+    "phone": "(888) 492-7529",
+    "website": "https://rubbermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71d0e6ba-0c69-4929-b0e9-0c61094c2398",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

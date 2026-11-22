@@ -1,0 +1,36 @@
+{
+  "id": "mo-wentzville-kurtz-nursery-and-top-soil-co",
+  "slug": "kurtz-nursery-and-top-soil-co",
+  "name": "Kurtz Nursery & Top Soil Co.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2054 Swaying Oaks Rd",
+    "city": "Wentzville",
+    "state": "MO",
+    "zip": "63385"
+  },
+  "location": {
+    "lat": 38.870884,
+    "lng": -90.808197
+  },
+  "contact": {
+    "phone": "(636) 332-1928",
+    "website": "http://www.kurtztopsoilandmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9afb0c1b-9819-4627-ab79-d07d52f97adf",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

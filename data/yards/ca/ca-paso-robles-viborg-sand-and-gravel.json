@@ -1,0 +1,36 @@
+{
+  "id": "ca-paso-robles-viborg-sand-and-gravel",
+  "slug": "viborg-sand-and-gravel",
+  "name": "Viborg Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1529 N River Rd",
+    "city": "Paso Robles",
+    "state": "CA",
+    "zip": "93446"
+  },
+  "location": {
+    "lat": 35.630505,
+    "lng": -120.683174
+  },
+  "contact": {
+    "phone": "(805) 238-4368",
+    "website": "https://app.gethearth.com/partners/viborg-sand-and-gravel/sara/apply"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7f9d35b-8aa1-40ce-86f6-fb3705cc39a2",
+    "confidence": 0.839,
+    "merged_records": 2
+  }
+}

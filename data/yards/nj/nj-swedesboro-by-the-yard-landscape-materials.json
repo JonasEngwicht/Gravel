@@ -1,0 +1,35 @@
+{
+  "id": "nj-swedesboro-by-the-yard-landscape-materials",
+  "slug": "by-the-yard-landscape-materials",
+  "name": "By the Yard Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2003 Kings Hwy",
+    "city": "Swedesboro",
+    "state": "NJ",
+    "zip": "08085"
+  },
+  "location": {
+    "lat": 39.73637,
+    "lng": -75.319168
+  },
+  "contact": {
+    "phone": "(856) 832-4403"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2a7b61f0-4d69-4b92-b3fe-29f5394ee09b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

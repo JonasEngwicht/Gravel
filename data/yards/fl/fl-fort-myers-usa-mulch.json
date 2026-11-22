@@ -1,0 +1,36 @@
+{
+  "id": "fl-fort-myers-usa-mulch",
+  "slug": "usa-mulch",
+  "name": "USA Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "16575 Gator Rd",
+    "city": "Fort Myers",
+    "state": "FL",
+    "zip": "33912"
+  },
+  "location": {
+    "lat": 26.500168,
+    "lng": -81.824791
+  },
+  "contact": {
+    "phone": "(239) 489-3455",
+    "website": "http://www.usamulchllc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55ad1888-e1c3-45c5-bca6-2a5a0ff2d636",
+    "confidence": 0.895,
+    "merged_records": 1
+  }
+}

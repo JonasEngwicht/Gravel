@@ -1,0 +1,35 @@
+{
+  "id": "ar-morrilton-petit-jean-valley-landscape-supply",
+  "slug": "petit-jean-valley-landscape-supply",
+  "name": "Petit Jean Valley Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "880 AR-9",
+    "city": "Morrilton",
+    "state": "AR",
+    "zip": "72110"
+  },
+  "location": {
+    "lat": 35.12249,
+    "lng": -92.748917
+  },
+  "contact": {
+    "phone": "(501) 889-4099"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "40243edd-32be-43f3-9fc6-c2ffba4c5689",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

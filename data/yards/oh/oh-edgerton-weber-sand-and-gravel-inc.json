@@ -1,0 +1,48 @@
+{
+  "id": "oh-edgerton-weber-sand-and-gravel-inc",
+  "slug": "weber-sand-and-gravel-inc",
+  "name": "Weber Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2000 Casebere Miller Rd",
+    "city": "Edgerton",
+    "state": "OH",
+    "zip": "43517"
+  },
+  "location": {
+    "lat": 41.412472,
+    "lng": -84.781494
+  },
+  "contact": {
+    "phone": "(419) 298-2388",
+    "website": "http://pahlreadymix.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e05b616e-72c8-4c2f-9053-406314574f1e",
+    "confidence": 0.75,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3302402",
+      "name": "Weber Sand & Gravel Inc.",
+      "operator": "Weber Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "1999-12-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

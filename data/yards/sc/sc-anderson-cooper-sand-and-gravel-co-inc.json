@@ -1,0 +1,36 @@
+{
+  "id": "sc-anderson-cooper-sand-and-gravel-co-inc",
+  "slug": "cooper-sand-and-gravel-co-inc",
+  "name": "Cooper Sand & Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "204 Nalley Dr",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621"
+  },
+  "location": {
+    "lat": 34.539471,
+    "lng": -82.60276
+  },
+  "contact": {
+    "phone": "(864) 224-5156",
+    "website": "http://www.coopersand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e063b9a1-0e18-4027-8b4d-0ddcbe66337b",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

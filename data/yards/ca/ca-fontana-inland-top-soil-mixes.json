@@ -1,0 +1,35 @@
+{
+  "id": "ca-fontana-inland-top-soil-mixes",
+  "slug": "inland-top-soil-mixes",
+  "name": "Inland Top Soil Mixes",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11091 Mulberry Ave",
+    "city": "Fontana",
+    "state": "CA",
+    "zip": "92337"
+  },
+  "location": {
+    "lat": 34.052147,
+    "lng": -117.506172
+  },
+  "contact": {
+    "phone": "(909) 829-8953"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d316767-d1e9-40a1-97e9-48e6a87b8935",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

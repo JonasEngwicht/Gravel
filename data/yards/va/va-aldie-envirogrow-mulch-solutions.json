@@ -1,0 +1,35 @@
+{
+  "id": "va-aldie-envirogrow-mulch-solutions",
+  "slug": "envirogrow-mulch-solutions",
+  "name": "Envirogrow / Mulch Solutions",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "24050 Youngwood Ln",
+    "city": "Aldie",
+    "state": "VA",
+    "zip": "20105"
+  },
+  "location": {
+    "lat": 38.952675,
+    "lng": -77.547279
+  },
+  "contact": {
+    "website": "https://www.mulchsolutions.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c82ed4e0-106e-4b83-9a8a-97429990bb27",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

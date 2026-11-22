@@ -1,0 +1,48 @@
+{
+  "id": "ut-cedar-city-red-cedar-rock-landscape-supply",
+  "slug": "red-cedar-rock-landscape-supply",
+  "name": "Red Cedar Rock Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1425 N Main St",
+    "city": "Cedar City",
+    "state": "UT",
+    "zip": "84721"
+  },
+  "location": {
+    "lat": 37.703255,
+    "lng": -113.064079
+  },
+  "contact": {
+    "phone": "(435) 586-0490",
+    "website": "https://redcedarrocklandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "03c2a278-632d-467b-bb93-4fb543a1829e",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4202270",
+      "name": "Cedar City Pit",
+      "operator": "Western Rock Products",
+      "status": "Intermittent",
+      "status_since": "2026-07-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

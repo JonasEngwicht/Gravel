@@ -1,0 +1,37 @@
+{
+  "id": "mi-commerce-twp-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1855 Rock Rd",
+    "city": "Commerce Twp",
+    "state": "MI",
+    "zip": "48390"
+  },
+  "location": {
+    "lat": 42.552803,
+    "lng": -83.445328
+  },
+  "contact": {
+    "phone": "(248) 960-1882",
+    "website": "https://www.siteone.com/store/34"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd79c69a-df65-4f07-8d34-e72837adc2b8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

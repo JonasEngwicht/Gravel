@@ -1,0 +1,36 @@
+{
+  "id": "il-chicago-heights-clarke-s-garden-center-and-stone-depot",
+  "slug": "clarke-s-garden-center-and-stone-depot",
+  "name": "Clarke's Garden Center and Stone Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2061 E Lincoln Hwy",
+    "city": "Chicago Heights",
+    "state": "IL",
+    "zip": "60411"
+  },
+  "location": {
+    "lat": 41.507412,
+    "lng": -87.566895
+  },
+  "contact": {
+    "phone": "(708) 758-8500",
+    "website": "http://www.clarkesgardencenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b39c843-cfbc-4a11-bb79-b972372767d8",
+    "confidence": 1.0,
+    "merged_records": 2
+  }
+}

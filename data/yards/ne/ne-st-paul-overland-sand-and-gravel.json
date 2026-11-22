@@ -1,0 +1,35 @@
+{
+  "id": "ne-st-paul-overland-sand-and-gravel",
+  "slug": "overland-sand-and-gravel",
+  "name": "Overland Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "406 4th St",
+    "city": "St Paul",
+    "state": "NE",
+    "zip": "68873"
+  },
+  "location": {
+    "lat": 41.209595,
+    "lng": -98.454781
+  },
+  "contact": {
+    "phone": "(308) 754-7890"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9870ebb-6dd5-4797-81f1-2831de16c75d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

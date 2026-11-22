@@ -1,0 +1,32 @@
+{
+  "id": "nj-jackson-aggregate-paving",
+  "slug": "aggregate-paving",
+  "name": "Aggregate Paving",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "322 Brewers Bridge Rd",
+    "city": "Jackson",
+    "state": "NJ",
+    "zip": "08527"
+  },
+  "location": {
+    "lat": 40.102329,
+    "lng": -74.273361
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4737bbee-a59d-4a4e-9f72-a33189e1a7cd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

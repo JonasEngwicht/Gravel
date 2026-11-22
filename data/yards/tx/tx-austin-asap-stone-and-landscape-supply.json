@@ -1,0 +1,36 @@
+{
+  "id": "tx-austin-asap-stone-and-landscape-supply",
+  "slug": "asap-stone-and-landscape-supply",
+  "name": "ASAP Stone and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12517 Anderson Mill Rd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78726"
+  },
+  "location": {
+    "lat": 30.459265,
+    "lng": -97.837685
+  },
+  "contact": {
+    "phone": "(512) 263-7744",
+    "website": "https://www.asapstonesupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f76f72fa-3c9f-44e0-afb2-1f056766701f",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

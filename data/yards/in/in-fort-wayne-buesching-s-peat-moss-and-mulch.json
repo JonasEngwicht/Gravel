@@ -1,0 +1,36 @@
+{
+  "id": "in-fort-wayne-buesching-s-peat-moss-and-mulch",
+  "slug": "buesching-s-peat-moss-and-mulch",
+  "name": "Buesching's Peat Moss & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9134 W Cook Rd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46818"
+  },
+  "location": {
+    "lat": 41.147221,
+    "lng": -85.262749
+  },
+  "contact": {
+    "phone": "(260) 625-3358",
+    "website": "http://bueschings.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44e9b3a3-00ac-4486-858d-e1c4b4dcb318",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-indian-trail-hill-sand-and-gravel",
+  "slug": "hill-sand-and-gravel",
+  "name": "Hill Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6100 Indian Trail Fairview Rd",
+    "city": "Indian Trail",
+    "state": "NC",
+    "zip": "28079"
+  },
+  "location": {
+    "lat": 35.103127,
+    "lng": -80.63002
+  },
+  "contact": {
+    "phone": "(704) 882-7263",
+    "website": "http://www.hillsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "58eea46c-c558-4337-a627-c280f0f62d9e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "ny-amenia-amenia-sand-and-gravel",
+  "slug": "amenia-sand-and-gravel",
+  "name": "Amenia Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "307 Leedsville Rd",
+    "city": "Amenia",
+    "state": "NY",
+    "zip": "12501"
+  },
+  "location": {
+    "lat": 41.840752,
+    "lng": -73.514503
+  },
+  "contact": {
+    "phone": "(845) 373-8151",
+    "website": "http://www.ameniarealty.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc01e681-e439-4050-948b-12edd607a587",
+    "confidence": 0.561,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3000806",
+      "name": "South Amenia",
+      "operator": "Amenia Sand & Gravel Inc",
+      "status": "Abandoned",
+      "status_since": "2011-07-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

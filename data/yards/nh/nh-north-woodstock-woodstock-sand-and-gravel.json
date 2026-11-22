@@ -1,0 +1,36 @@
+{
+  "id": "nh-north-woodstock-woodstock-sand-and-gravel",
+  "slug": "woodstock-sand-and-gravel",
+  "name": "Woodstock Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "277 Daniel Webster Hwy",
+    "city": "North Woodstock",
+    "state": "NH",
+    "zip": "03262"
+  },
+  "location": {
+    "lat": 44.011448,
+    "lng": -71.683449
+  },
+  "contact": {
+    "phone": "(603) 728-5546",
+    "website": "http://gothomson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f03e7189-6c1f-4215-a4ce-25bee207293a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-atlanta-bulk-aggregate-golf",
+  "slug": "bulk-aggregate-golf",
+  "name": "Bulk Aggregate Golf",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2931 Paces Ferry Rd SE",
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "30339"
+  },
+  "location": {
+    "lat": 33.866386,
+    "lng": -84.467461
+  },
+  "contact": {
+    "phone": "(770) 438-7955",
+    "website": "http://www.bulkagg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "294073be-7dee-4078-a7a0-016dfefce5bd",
+    "confidence": 0.831,
+    "merged_records": 1
+  }
+}

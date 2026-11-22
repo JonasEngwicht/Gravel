@@ -1,0 +1,35 @@
+{
+  "id": "wa-shelton-deer-creek-garden-and-landscape-supply",
+  "slug": "deer-creek-garden-and-landscape-supply",
+  "name": "Deer Creek Garden & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5962 WA-3",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584"
+  },
+  "location": {
+    "lat": 47.265163,
+    "lng": -123.007767
+  },
+  "contact": {
+    "phone": "(360) 462-2202"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a7a1785-ae18-45c7-a745-94893d3406ad",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

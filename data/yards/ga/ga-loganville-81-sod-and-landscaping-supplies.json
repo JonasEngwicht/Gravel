@@ -1,0 +1,35 @@
+{
+  "id": "ga-loganville-81-sod-and-landscaping-supplies",
+  "slug": "81-sod-and-landscaping-supplies",
+  "name": "81 Sod & Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1441 Hwy 81",
+    "city": "Loganville",
+    "state": "GA",
+    "zip": "30052"
+  },
+  "location": {
+    "lat": 33.76796,
+    "lng": -83.851357
+  },
+  "contact": {
+    "phone": "(770) 351-7499"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "87ff98bf-a2c9-4ddc-881b-74c7fb4cce4e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "in-plainfield-happy-valley-sand-and-gravel",
+  "slug": "happy-valley-sand-and-gravel",
+  "name": "Happy Valley Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4232 E US Highway 40",
+    "city": "Plainfield",
+    "state": "IN",
+    "zip": "46168"
+  },
+  "location": {
+    "lat": 39.688282,
+    "lng": -86.449097
+  },
+  "contact": {
+    "phone": "(317) 839-6800",
+    "website": "https://happy-valley-sand-gravel-inc.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3d61764-1006-4e9b-87c7-199f4a88811f",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

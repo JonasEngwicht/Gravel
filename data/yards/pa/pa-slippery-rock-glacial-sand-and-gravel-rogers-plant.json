@@ -1,0 +1,47 @@
+{
+  "id": "pa-slippery-rock-glacial-sand-and-gravel-rogers-plant",
+  "slug": "glacial-sand-and-gravel-rogers-plant",
+  "name": "Glacial Sand & Gravel Rogers Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1070 W Liberty Rd",
+    "city": "Slippery Rock",
+    "state": "PA",
+    "zip": "16057"
+  },
+  "location": {
+    "lat": 41.004688,
+    "lng": -80.083908
+  },
+  "contact": {
+    "phone": "(724) 368-0045"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a7c2e3a-fc7b-4e8f-9053-b2326fe4c0c5",
+    "confidence": 0.722,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3609832",
+      "name": "Rodgers",
+      "operator": "Glacial Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2025-10-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

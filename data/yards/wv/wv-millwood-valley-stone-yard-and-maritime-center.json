@@ -1,0 +1,36 @@
+{
+  "id": "wv-millwood-valley-stone-yard-and-maritime-center",
+  "slug": "valley-stone-yard-and-maritime-center",
+  "name": "Valley Stone Yard & Maritime Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "360 Valley Rd",
+    "city": "Millwood",
+    "state": "WV",
+    "zip": "25262"
+  },
+  "location": {
+    "lat": 38.889362,
+    "lng": -81.846489
+  },
+  "contact": {
+    "phone": "(304) 273-5555",
+    "website": "https://www.valleystoneyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b2e1bd0-acc7-476e-b2c9-24f6d262d6f8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

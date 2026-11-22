@@ -1,0 +1,37 @@
+{
+  "id": "wa-spokane-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "110 E Pacific Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99202"
+  },
+  "location": {
+    "lat": 47.655281,
+    "lng": -117.409363
+  },
+  "contact": {
+    "phone": "(509) 326-4440",
+    "website": "https://www.siteone.com/store/357"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "554a4ebf-6982-4aab-9962-e8fc24ab91f8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

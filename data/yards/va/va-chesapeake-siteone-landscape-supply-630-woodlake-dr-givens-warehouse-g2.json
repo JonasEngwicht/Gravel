@@ -1,0 +1,37 @@
+{
+  "id": "va-chesapeake-siteone-landscape-supply-630-woodlake-dr-givens-warehouse-g2",
+  "slug": "siteone-landscape-supply-630-woodlake-dr-givens-warehouse-g2",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "630 Woodlake Dr, Givens Warehouse G2",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23320"
+  },
+  "location": {
+    "lat": 36.787601,
+    "lng": -76.241661
+  },
+  "contact": {
+    "phone": "(800) 446-8195",
+    "website": "https://www.siteone.com/store/822"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "350640de-1c45-42b1-b96c-a34703010cd7",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

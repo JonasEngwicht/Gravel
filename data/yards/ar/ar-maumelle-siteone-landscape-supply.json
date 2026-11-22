@@ -1,0 +1,37 @@
+{
+  "id": "ar-maumelle-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "601 Murphy Dr",
+    "city": "Maumelle",
+    "state": "AR",
+    "zip": "72113"
+  },
+  "location": {
+    "lat": 34.862289,
+    "lng": -92.396698
+  },
+  "contact": {
+    "phone": "(501) 791-3484",
+    "website": "https://www.siteone.com/store/572"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02250dfa-9d34-48fb-a174-a94d08b63835",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

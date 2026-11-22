@@ -1,0 +1,36 @@
+{
+  "id": "or-tualatin-valley-landscape-center",
+  "slug": "valley-landscape-center",
+  "name": "Valley Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18230 SW Pacific Hwy",
+    "city": "Tualatin",
+    "state": "OR",
+    "zip": "97062"
+  },
+  "location": {
+    "lat": 45.387424,
+    "lng": -122.80706
+  },
+  "contact": {
+    "phone": "(503) 692-0606",
+    "website": "http://www.valleylandscapecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "494542ee-9d83-4469-a4ae-a7ec4f068ea4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

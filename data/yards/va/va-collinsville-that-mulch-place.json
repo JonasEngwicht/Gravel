@@ -1,0 +1,35 @@
+{
+  "id": "va-collinsville-that-mulch-place",
+  "slug": "that-mulch-place",
+  "name": "That Mulch Place",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4040 Virginia Ave",
+    "city": "Collinsville",
+    "state": "VA",
+    "zip": "24078"
+  },
+  "location": {
+    "lat": 36.73373,
+    "lng": -79.923813
+  },
+  "contact": {
+    "phone": "(276) 647-1498"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2245fd8a-ed0a-41ee-bc92-7bd160d4a809",
+    "confidence": 0.596,
+    "merged_records": 1
+  }
+}

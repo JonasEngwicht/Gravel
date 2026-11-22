@@ -1,0 +1,35 @@
+{
+  "id": "mn-mankato-total-landscape-supply",
+  "slug": "total-landscape-supply",
+  "name": "Total Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3400 3rd Ave",
+    "city": "Mankato",
+    "state": "MN",
+    "zip": "56001"
+  },
+  "location": {
+    "lat": 44.203857,
+    "lng": -93.995827
+  },
+  "contact": {
+    "phone": "(507) 642-7625"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6751105d-c259-40cd-bc3f-a95b3d262b09",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

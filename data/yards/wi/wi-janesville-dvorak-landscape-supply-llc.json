@@ -1,0 +1,36 @@
+{
+  "id": "wi-janesville-dvorak-landscape-supply-llc",
+  "slug": "dvorak-landscape-supply-llc",
+  "name": "Dvorak Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1643 Center Ave",
+    "city": "Janesville",
+    "state": "WI",
+    "zip": "53546"
+  },
+  "location": {
+    "lat": 42.655579,
+    "lng": -89.030861
+  },
+  "contact": {
+    "phone": "(608) 757-0561",
+    "website": "http://www.dvoraklandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "674cd05a-268f-4363-bdf4-0674f85f9348",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

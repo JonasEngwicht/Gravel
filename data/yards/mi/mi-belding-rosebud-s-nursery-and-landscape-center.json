@@ -1,0 +1,35 @@
+{
+  "id": "mi-belding-rosebud-s-nursery-and-landscape-center",
+  "slug": "rosebud-s-nursery-and-landscape-center",
+  "name": "Rosebud's Nursery and Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1135 W State St",
+    "city": "Belding",
+    "state": "MI",
+    "zip": "48809"
+  },
+  "location": {
+    "lat": 43.088795,
+    "lng": -85.24511
+  },
+  "contact": {
+    "phone": "(616) 890-1255"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12191115-63f0-4640-af05-a571369390d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

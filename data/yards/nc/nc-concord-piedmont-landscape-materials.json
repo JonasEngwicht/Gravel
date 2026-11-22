@@ -1,0 +1,36 @@
+{
+  "id": "nc-concord-piedmont-landscape-materials",
+  "slug": "piedmont-landscape-materials",
+  "name": "Piedmont Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4754 Poplar Tent Rd",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28027"
+  },
+  "location": {
+    "lat": 35.41785,
+    "lng": -80.6567
+  },
+  "contact": {
+    "phone": "(704) 666-8767",
+    "website": "https://piedmontlandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2bc3f6af-f50e-4ed3-b802-7bcc3c41060a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

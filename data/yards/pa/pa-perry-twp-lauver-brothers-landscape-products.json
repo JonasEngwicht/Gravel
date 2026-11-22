@@ -1,0 +1,35 @@
+{
+  "id": "pa-perry-twp-lauver-brothers-landscape-products",
+  "slug": "lauver-brothers-landscape-products",
+  "name": "Lauver Brothers Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9016 PA-104",
+    "city": "Perry Twp",
+    "state": "PA",
+    "zip": "17853"
+  },
+  "location": {
+    "lat": 40.736973,
+    "lng": -77.01339
+  },
+  "contact": {
+    "phone": "(570) 539-2552"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41b273e8-e0d7-40ce-85b1-9f436f7d5ec8",
+    "confidence": 0.704,
+    "merged_records": 1
+  }
+}

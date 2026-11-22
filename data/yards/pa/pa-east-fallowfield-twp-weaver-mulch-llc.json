@@ -1,0 +1,36 @@
+{
+  "id": "pa-east-fallowfield-twp-weaver-mulch-llc",
+  "slug": "weaver-mulch-llc",
+  "name": "Weaver Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3186 Strasburg Rd",
+    "city": "East Fallowfield Twp",
+    "state": "PA",
+    "zip": "19320"
+  },
+  "location": {
+    "lat": 39.959137,
+    "lng": -75.870583
+  },
+  "contact": {
+    "phone": "(610) 383-6818",
+    "website": "https://weavermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "664f953a-c63b-46ab-89c7-4f210277dd47",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

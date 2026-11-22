@@ -1,0 +1,58 @@
+{
+  "id": "wa-dallesport-hood-river-sand-gravel-and-ready",
+  "slug": "hood-river-sand-gravel-and-ready",
+  "name": "Hood River Sand Gravel and Ready",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "137 Tidyman Rd",
+    "city": "Dallesport",
+    "state": "WA",
+    "zip": "98617"
+  },
+  "location": {
+    "lat": 45.635349,
+    "lng": -121.154427
+  },
+  "contact": {
+    "phone": "(509) 767-1141",
+    "website": "http://www.hrsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f9bac5f-081a-43ce-9bbe-48fbc25aefba",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3503311",
+      "name": "Portable Screening Plant",
+      "operator": "Hood River Sand & Gravel Redi Mix, Inc.",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    },
+    {
+      "mine_id": "4501882",
+      "name": "Circle T Ranch Pit",
+      "operator": "Granite Construction Company",
+      "status": "Intermittent",
+      "status_since": "2026-02-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

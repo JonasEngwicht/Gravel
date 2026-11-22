@@ -1,0 +1,36 @@
+{
+  "id": "oh-clinton-true-mulch",
+  "slug": "true-mulch",
+  "name": "True Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6161 S Main St",
+    "city": "Clinton",
+    "state": "OH",
+    "zip": "44216"
+  },
+  "location": {
+    "lat": 40.923046,
+    "lng": -81.535645
+  },
+  "contact": {
+    "phone": "(330) 882-1999",
+    "website": "http://www.truemulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9773dffd-2011-4582-a937-c240abfe6e9f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "al-altoona-southern-landscape-products",
+  "slug": "southern-landscape-products",
+  "name": "Southern Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8513-8423 Fairview Cove Rd",
+    "city": "Altoona",
+    "state": "AL",
+    "zip": "35952"
+  },
+  "location": {
+    "lat": 34.096558,
+    "lng": -86.229553
+  },
+  "contact": {
+    "phone": "(205) 589-2047",
+    "website": "http://www.anniebt.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34b7df94-bb77-463e-957d-5af3b6d0a3db",
+    "confidence": 0.509,
+    "merged_records": 1
+  }
+}

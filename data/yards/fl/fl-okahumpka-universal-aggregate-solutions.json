@@ -1,0 +1,36 @@
+{
+  "id": "fl-okahumpka-universal-aggregate-solutions",
+  "slug": "universal-aggregate-solutions",
+  "name": "Universal Aggregate Solutions",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "26825 Haywood Worm Farm Rd",
+    "city": "Okahumpka",
+    "state": "FL",
+    "zip": "34762"
+  },
+  "location": {
+    "lat": 28.738377,
+    "lng": -81.889153
+  },
+  "contact": {
+    "phone": "(803) 293-0764",
+    "website": "https://www.universalaggregatesolutions.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb4f0043-87a9-4abb-a839-cd3c043d4f25",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

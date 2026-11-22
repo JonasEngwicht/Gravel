@@ -1,0 +1,36 @@
+{
+  "id": "fl-navarre-the-rock-yard",
+  "slug": "the-rock-yard",
+  "name": "The Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7004 Navarre Pkwy",
+    "city": "Navarre",
+    "state": "FL",
+    "zip": "32566"
+  },
+  "location": {
+    "lat": 30.402693,
+    "lng": -86.930435
+  },
+  "contact": {
+    "phone": "(850) 530-1900",
+    "website": "https://randlproducts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e518ae3-2950-40fb-a1a9-4e61ba7ad981",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

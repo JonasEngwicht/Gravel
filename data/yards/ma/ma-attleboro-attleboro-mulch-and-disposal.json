@@ -1,0 +1,35 @@
+{
+  "id": "ma-attleboro-attleboro-mulch-and-disposal",
+  "slug": "attleboro-mulch-and-disposal",
+  "name": "Attleboro Mulch & Disposal",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "129 Richardson Ave",
+    "city": "Attleboro",
+    "state": "MA",
+    "zip": "02703"
+  },
+  "location": {
+    "lat": 41.959167,
+    "lng": -71.256264
+  },
+  "contact": {
+    "phone": "(508) 250-2296"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "567f15d8-d128-416e-ad31-81220e6801c0",
+    "confidence": 0.822,
+    "merged_records": 1
+  }
+}

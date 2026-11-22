@@ -1,0 +1,36 @@
+{
+  "id": "wa-wenatchee-wenatchee-sand-and-gravel-a-crh-company",
+  "slug": "wenatchee-sand-and-gravel-a-crh-company",
+  "name": "Wenatchee Sand & Gravel, A Crh Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1351 S Wenatchee Ave",
+    "city": "Wenatchee",
+    "state": "WA",
+    "zip": "98801"
+  },
+  "location": {
+    "lat": 47.40509,
+    "lng": -120.2995
+  },
+  "contact": {
+    "phone": "(509) 663-5141",
+    "website": "https://www.wenatcheesandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "22ce087c-4271-40c7-8369-38edede36959",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

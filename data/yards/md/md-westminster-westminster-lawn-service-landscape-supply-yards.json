@@ -1,0 +1,36 @@
+{
+  "id": "md-westminster-westminster-lawn-service-landscape-supply-yards",
+  "slug": "westminster-lawn-service-landscape-supply-yards",
+  "name": "Westminster Lawn Service Landscape Supply Yards",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "113 John St",
+    "city": "Westminster",
+    "state": "MD",
+    "zip": "21157"
+  },
+  "location": {
+    "lat": 39.579777,
+    "lng": -76.993233
+  },
+  "contact": {
+    "phone": "(410) 848-2212",
+    "website": "http://www.westminsterlawn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "05c3d4d5-7143-4670-837b-ed4d592157a4",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

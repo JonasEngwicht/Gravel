@@ -1,0 +1,36 @@
+{
+  "id": "ky-bowling-green-custom-cut-lawn-and-mulch-llc",
+  "slug": "custom-cut-lawn-and-mulch-llc",
+  "name": "Custom Cut Lawn & Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "17 W Main Ave",
+    "city": "Bowling Green",
+    "state": "KY",
+    "zip": "42101"
+  },
+  "location": {
+    "lat": 36.997459,
+    "lng": -86.445412
+  },
+  "contact": {
+    "phone": "(270) 282-8716",
+    "website": "http://customcutlawn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc55fa10-691a-4909-bfe7-24dcf02e43ab",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

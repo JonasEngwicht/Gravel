@@ -1,0 +1,36 @@
+{
+  "id": "tx-burnet-premium-landscape-supply",
+  "slug": "premium-landscape-supply",
+  "name": "Premium Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1799 E Polk St",
+    "city": "Burnet",
+    "state": "TX",
+    "zip": "78611"
+  },
+  "location": {
+    "lat": 30.756853,
+    "lng": -98.210442
+  },
+  "contact": {
+    "phone": "(512) 201-1284",
+    "website": "http://www.premiumlandscapesupplycompany.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a0f0349-6d15-467a-9bf5-9ecc48898124",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ca-oroville-feather-river-aggregates",
+  "slug": "feather-river-aggregates",
+  "name": "Feather River Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1342 Cherokee Rd",
+    "city": "Oroville",
+    "state": "CA",
+    "zip": "95965"
+  },
+  "location": {
+    "lat": 39.56517,
+    "lng": -121.546379
+  },
+  "contact": {
+    "phone": "(530) 712-5660",
+    "website": "http://www.featherriveraggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37456534-5f9d-4b2b-928b-c317f72102de",
+    "confidence": 0.896,
+    "merged_records": 3
+  },
+  "msha": [
+    {
+      "mine_id": "0405407",
+      "name": "Morris Ravine Mine",
+      "operator": "Mineral Resources LLC",
+      "status": "Active",
+      "status_since": "2001-02-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

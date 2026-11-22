@@ -1,0 +1,35 @@
+{
+  "id": "oh-gnadenhutten-stocker-sand-and-gravel-co",
+  "slug": "stocker-sand-and-gravel-co",
+  "name": "Stocker Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8669 State Route 36 SW",
+    "city": "Gnadenhutten",
+    "state": "OH",
+    "zip": "44629"
+  },
+  "location": {
+    "lat": 40.410805,
+    "lng": -81.348846
+  },
+  "contact": {
+    "phone": "(740) 254-4635"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d04bdf46-978a-45bc-beeb-28c665ca2a90",
+    "confidence": 0.635,
+    "merged_records": 1
+  }
+}

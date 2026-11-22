@@ -1,0 +1,48 @@
+{
+  "id": "wi-plymouth-crystal-lake-sand-and-gravel",
+  "slug": "crystal-lake-sand-and-gravel",
+  "name": "Crystal Lake Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "N7330 Highview Rd",
+    "city": "Plymouth",
+    "state": "WI",
+    "zip": "53073"
+  },
+  "location": {
+    "lat": 43.806667,
+    "lng": -88.005219
+  },
+  "contact": {
+    "phone": "(920) 876-2426",
+    "website": "http://crystallakewi.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "988a5c1e-e79d-42a3-89de-4df615d87e45",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4703920",
+      "name": "Crystal Lake Sand and Gravel",
+      "operator": "Summit Sand & Aggregates",
+      "status": "Abandoned",
+      "status_since": "2025-06-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

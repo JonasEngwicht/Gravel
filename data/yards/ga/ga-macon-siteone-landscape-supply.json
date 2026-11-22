@@ -1,0 +1,37 @@
+{
+  "id": "ga-macon-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6478 Thomaston Rd",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31220"
+  },
+  "location": {
+    "lat": 32.851192,
+    "lng": -83.771164
+  },
+  "contact": {
+    "phone": "(478) 471-1990",
+    "website": "https://www.siteone.com/en/store/176"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4f33e8c0-49cf-442b-9c46-692d86b361d5",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

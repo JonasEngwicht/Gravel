@@ -1,0 +1,36 @@
+{
+  "id": "tx-lockhart-duran-gravel-co",
+  "slug": "duran-gravel-co",
+  "name": "Duran Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1325 Lovers Ln",
+    "city": "Lockhart",
+    "state": "TX",
+    "zip": "78644"
+  },
+  "location": {
+    "lat": 29.882088,
+    "lng": -97.656204
+  },
+  "contact": {
+    "phone": "(512) 855-1661",
+    "website": "https://www.durangravelco.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c49a7d0a-6bdf-43cd-ad2e-a4c0a9c637c8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "md-baltimore-a-and-m-landscape-supply-llc",
+  "slug": "a-and-m-landscape-supply-llc",
+  "name": "A&M Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "512 Earls Rd",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21220"
+  },
+  "location": {
+    "lat": 39.358513,
+    "lng": -76.393097
+  },
+  "contact": {
+    "phone": "(410) 335-5951",
+    "website": "https://amlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d40d1b40-f653-43bc-83da-e3f9f306ae3f",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

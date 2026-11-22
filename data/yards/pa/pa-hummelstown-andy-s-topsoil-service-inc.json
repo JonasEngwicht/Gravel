@@ -1,0 +1,36 @@
+{
+  "id": "pa-hummelstown-andy-s-topsoil-service-inc",
+  "slug": "andy-s-topsoil-service-inc",
+  "name": "Andy's Topsoil Service Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1434 Kaylor Rd",
+    "city": "Hummelstown",
+    "state": "PA",
+    "zip": "17036"
+  },
+  "location": {
+    "lat": 40.229588,
+    "lng": -76.692764
+  },
+  "contact": {
+    "phone": "(717) 566-4248",
+    "website": "http://www.demolitionharrisburg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dfe784fd-2d09-4248-972f-a9c18e45ef39",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

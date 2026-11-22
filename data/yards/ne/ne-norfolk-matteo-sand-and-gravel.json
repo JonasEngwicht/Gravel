@@ -1,0 +1,48 @@
+{
+  "id": "ne-norfolk-matteo-sand-and-gravel",
+  "slug": "matteo-sand-and-gravel",
+  "name": "Matteo Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2410 N Airport Rd",
+    "city": "Norfolk",
+    "state": "NE",
+    "zip": "68701"
+  },
+  "location": {
+    "lat": 41.999924,
+    "lng": -97.441353
+  },
+  "contact": {
+    "phone": "(402) 371-7229",
+    "website": "https://matteo-sand-and-gravel.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c8a02318-02e0-4a47-808a-6666c0049754",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2501211",
+      "name": "Matteo Sand & Gravel Co. Inc.",
+      "operator": "Matteo Sand & Gravel Co. Inc.",
+      "status": "Active",
+      "status_since": "2024-10-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

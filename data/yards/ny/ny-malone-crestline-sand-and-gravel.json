@@ -1,0 +1,48 @@
+{
+  "id": "ny-malone-crestline-sand-and-gravel",
+  "slug": "crestline-sand-and-gravel",
+  "name": "Crestline Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15275 State Route 30",
+    "city": "Malone",
+    "state": "NY",
+    "zip": "12953"
+  },
+  "location": {
+    "lat": 44.889206,
+    "lng": -74.289574
+  },
+  "contact": {
+    "phone": "(518) 651-5154",
+    "website": "https://www.titussandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3fd5614-8130-41b5-b98d-ec800cde4e9c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3003862",
+      "name": "Route 30 Pit",
+      "operator": "Collins Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2026-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

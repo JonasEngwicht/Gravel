@@ -1,0 +1,36 @@
+{
+  "id": "nc-king-river-rock-supply-house",
+  "slug": "river-rock-supply-house",
+  "name": "River Rock Supply House",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6103 NC-66",
+    "city": "King",
+    "state": "NC",
+    "zip": "27021"
+  },
+  "location": {
+    "lat": 36.310322,
+    "lng": -80.33165
+  },
+  "contact": {
+    "phone": "(336) 624-9355",
+    "website": "https://www.camelcitycompanies.com/landscape-materials"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b659471-acf2-4965-a350-139f91c1657d",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

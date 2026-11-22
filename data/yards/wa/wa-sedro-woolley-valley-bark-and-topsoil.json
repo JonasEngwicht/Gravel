@@ -1,0 +1,35 @@
+{
+  "id": "wa-sedro-woolley-valley-bark-and-topsoil",
+  "slug": "valley-bark-and-topsoil",
+  "name": "Valley Bark & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "489 Cook Rd",
+    "city": "Sedro Woolley",
+    "state": "WA",
+    "zip": "98284"
+  },
+  "location": {
+    "lat": 48.507114,
+    "lng": -122.247467
+  },
+  "contact": {
+    "phone": "(360) 856-5147"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7695230d-b1b0-4ee1-a09c-5ed7ed800dc4",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

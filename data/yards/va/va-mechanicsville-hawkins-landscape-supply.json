@@ -1,0 +1,36 @@
+{
+  "id": "va-mechanicsville-hawkins-landscape-supply",
+  "slug": "hawkins-landscape-supply",
+  "name": "Hawkins Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10402 Chamberlayne Rd",
+    "city": "Mechanicsville",
+    "state": "VA",
+    "zip": "23116"
+  },
+  "location": {
+    "lat": 37.694042,
+    "lng": -77.382935
+  },
+  "contact": {
+    "phone": "(804) 659-9663",
+    "website": "https://www.hawkinsmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68ac82fd-576a-48b9-be89-ebd21aef2b8e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

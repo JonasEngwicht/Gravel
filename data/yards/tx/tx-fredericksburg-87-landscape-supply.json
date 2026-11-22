@@ -1,0 +1,36 @@
+{
+  "id": "tx-fredericksburg-87-landscape-supply",
+  "slug": "87-landscape-supply",
+  "name": "87 Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1719 US-87",
+    "city": "Fredericksburg",
+    "state": "TX",
+    "zip": "78624"
+  },
+  "location": {
+    "lat": 30.291964,
+    "lng": -98.893303
+  },
+  "contact": {
+    "phone": "(830) 992-3767",
+    "website": "https://87landscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "18b39149-a385-436d-8270-ed68c75eb5ed",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ma-framingham-cv-s-bark-mulch",
+  "slug": "cv-s-bark-mulch",
+  "name": "CV's Bark Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "494 Franklin St",
+    "city": "Framingham",
+    "state": "MA",
+    "zip": "01702"
+  },
+  "location": {
+    "lat": 42.291016,
+    "lng": -71.431564
+  },
+  "contact": {
+    "phone": "(508) 872-7630",
+    "website": "http://www.cvsbarkmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2f41e4b-0e84-4f6f-90e6-9100ba89df40",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

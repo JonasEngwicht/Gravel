@@ -1,0 +1,36 @@
+{
+  "id": "nc-pittsboro-camco-landscape-supplies",
+  "slug": "camco-landscape-supplies",
+  "name": "Camco Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7688 US-64 E",
+    "city": "Pittsboro",
+    "state": "NC",
+    "zip": "27312"
+  },
+  "location": {
+    "lat": 35.734146,
+    "lng": -79.311546
+  },
+  "contact": {
+    "phone": "(919) 542-2185",
+    "website": "https://www.camcolandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0592b1b6-8509-44e6-b0bf-691cf86e4c00",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

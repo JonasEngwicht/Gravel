@@ -1,0 +1,36 @@
+{
+  "id": "in-martinsville-forest-commodities-inc-mulch-stone-decorative-aggegrates-and-hardscapes",
+  "slug": "forest-commodities-inc-mulch-stone-decorative-aggegrates-and-hardscapes",
+  "name": "Forest Commodities Inc. Mulch, Stone, Decorative Aggegrates and Hardscapes",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1789 Old State Road 67 W",
+    "city": "Martinsville",
+    "state": "IN",
+    "zip": "46151"
+  },
+  "location": {
+    "lat": 39.401417,
+    "lng": -86.522163
+  },
+  "contact": {
+    "phone": "(765) 349-3291",
+    "website": "https://forestcommodities.com/shop/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdf7cfb1-d332-4760-ba70-69dc5999b751",
+    "confidence": 0.655,
+    "merged_records": 1
+  }
+}

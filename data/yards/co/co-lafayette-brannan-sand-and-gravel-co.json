@@ -1,0 +1,36 @@
+{
+  "id": "co-lafayette-brannan-sand-and-gravel-co",
+  "slug": "brannan-sand-and-gravel-co",
+  "name": "Brannan Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1240 Rock Creek Cir",
+    "city": "Lafayette",
+    "state": "CO",
+    "zip": "80026"
+  },
+  "location": {
+    "lat": 39.974792,
+    "lng": -105.0746
+  },
+  "contact": {
+    "phone": "(303) 604-0688",
+    "website": "http://www.brannan1.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a85a36b-c1b5-4912-ac6e-106765a3447e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

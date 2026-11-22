@@ -1,0 +1,35 @@
+{
+  "id": "ny-islip-we-supply-mulch-and-firewood",
+  "slug": "we-supply-mulch-and-firewood",
+  "name": "We Supply Mulch and Firewood",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1200 Suffolk Ave",
+    "city": "Islip",
+    "state": "NY",
+    "zip": "11717"
+  },
+  "location": {
+    "lat": 40.785641,
+    "lng": -73.22596
+  },
+  "contact": {
+    "phone": "(631) 994-1211"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0298afdb-e2be-46a5-a2e6-77c342608dc6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

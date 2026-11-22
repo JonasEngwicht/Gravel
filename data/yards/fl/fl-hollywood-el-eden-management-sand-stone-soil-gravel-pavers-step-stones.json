@@ -1,0 +1,36 @@
+{
+  "id": "fl-hollywood-el-eden-management-sand-stone-soil-gravel-pavers-step-stones",
+  "slug": "el-eden-management-sand-stone-soil-gravel-pavers-step-stones",
+  "name": "El Eden Management (Sand, Stone, Soil, Gravel, Pavers, step stones)",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6310 Johnson St",
+    "city": "Hollywood",
+    "state": "FL",
+    "zip": "33024"
+  },
+  "location": {
+    "lat": 26.017393,
+    "lng": -80.214508
+  },
+  "contact": {
+    "phone": "(954) 374-3888",
+    "website": "https://eledenmgt.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f5d3e588-914d-4f69-a0bc-e52c08137260",
+    "confidence": 0.968,
+    "merged_records": 1
+  }
+}

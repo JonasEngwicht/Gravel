@@ -1,0 +1,35 @@
+{
+  "id": "mt-glendive-fisher-sand-and-gravel-co",
+  "slug": "fisher-sand-and-gravel-co",
+  "name": "Fisher Sand and Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "497 Highway 200 South",
+    "city": "Glendive",
+    "state": "MT",
+    "zip": "59330"
+  },
+  "location": {
+    "lat": 47.10453,
+    "lng": -104.851746
+  },
+  "contact": {
+    "phone": "(406) 687-3383"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a046c037-86bc-438d-b616-2fc7fac9c71d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

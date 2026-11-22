@@ -1,0 +1,36 @@
+{
+  "id": "ms-hattiesburg-halo-landscape-supply",
+  "slug": "halo-landscape-supply",
+  "name": "Halo Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3858 US 49",
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39401"
+  },
+  "location": {
+    "lat": 31.178759,
+    "lng": -89.247086
+  },
+  "contact": {
+    "phone": "(601) 408-8523",
+    "website": "http://halolandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5fc9a67-02ba-4bea-bcd9-333aa06c8749",
+    "confidence": 0.603,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-youngsville-cedar-creek-landscape-supply",
+  "slug": "cedar-creek-landscape-supply",
+  "name": "Cedar Creek Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2842 Cedar Crk Rd",
+    "city": "Youngsville",
+    "state": "NC",
+    "zip": "27596"
+  },
+  "location": {
+    "lat": 36.026791,
+    "lng": -78.461487
+  },
+  "contact": {
+    "phone": "(919) 886-1506",
+    "website": "https://www.cedarcreeklandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc4c8af5-5757-47e0-a398-5a233e693a22",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

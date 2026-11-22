@@ -1,0 +1,36 @@
+{
+  "id": "ga-buford-southern-landscape-supply",
+  "slug": "southern-landscape-supply",
+  "name": "Southern Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4548 Thompson Mill Rd",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30518"
+  },
+  "location": {
+    "lat": 34.118706,
+    "lng": -83.97467
+  },
+  "contact": {
+    "phone": "(770) 945-5551",
+    "website": "http://www.southernlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dfd3d68d-6b60-4e0b-b4c0-ed3db420be00",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

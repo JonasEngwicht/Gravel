@@ -1,0 +1,36 @@
+{
+  "id": "wa-poulsbo-kitsap-topsoil",
+  "slug": "kitsap-topsoil",
+  "name": "Kitsap Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "26094 Bond Rd NE",
+    "city": "Poulsbo",
+    "state": "WA",
+    "zip": "98346"
+  },
+  "location": {
+    "lat": 47.799603,
+    "lng": -122.580254
+  },
+  "contact": {
+    "phone": "(360) 326-2743",
+    "website": "http://www.northkitsaptopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "914b1f68-03e3-471d-a7b4-b5a5a01a5aaf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

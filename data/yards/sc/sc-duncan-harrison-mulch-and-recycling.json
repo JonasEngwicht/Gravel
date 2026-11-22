@@ -1,0 +1,36 @@
+{
+  "id": "sc-duncan-harrison-mulch-and-recycling",
+  "slug": "harrison-mulch-and-recycling",
+  "name": "Harrison Mulch and Recycling",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "114 Usac Dr",
+    "city": "Duncan",
+    "state": "SC",
+    "zip": "29334"
+  },
+  "location": {
+    "lat": 34.882771,
+    "lng": -82.130966
+  },
+  "contact": {
+    "phone": "(864) 497-2425",
+    "website": "https://www.harrisonmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "88886201-85d3-4617-b5f0-fd9495a3445e",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

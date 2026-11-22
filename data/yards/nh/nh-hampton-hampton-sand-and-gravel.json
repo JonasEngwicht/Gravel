@@ -1,0 +1,35 @@
+{
+  "id": "nh-hampton-hampton-sand-and-gravel",
+  "slug": "hampton-sand-and-gravel",
+  "name": "Hampton Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "564 Lafayette Rd",
+    "city": "Hampton",
+    "state": "NH",
+    "zip": "03842"
+  },
+  "location": {
+    "lat": 42.944138,
+    "lng": -70.835716
+  },
+  "contact": {
+    "phone": "(603) 601-2275"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1e82ffb-ce95-43ba-a287-8769a97c9922",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

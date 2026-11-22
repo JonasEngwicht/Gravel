@@ -1,0 +1,48 @@
+{
+  "id": "nh-ossipee-pine-river-sand-and-gravel-llc",
+  "slug": "pine-river-sand-and-gravel-llc",
+  "name": "Pine River Sand And Gravel Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "125 Duncan Lake Rd",
+    "city": "Ossipee",
+    "state": "NH",
+    "zip": "03864"
+  },
+  "location": {
+    "lat": 43.717911,
+    "lng": -71.091087
+  },
+  "contact": {
+    "phone": "(603) 539-3656",
+    "website": "http://www.pineriversandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52f5fd75-f0ec-4457-8786-7b80159fb6e5",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2700520",
+      "name": "Pine River Sand And Gravel",
+      "operator": "Pine River Sand And Gravel, Llc",
+      "status": "Intermittent",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

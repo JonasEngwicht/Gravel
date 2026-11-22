@@ -1,0 +1,36 @@
+{
+  "id": "il-plainfield-western-landscape-supply",
+  "slug": "western-landscape-supply",
+  "name": "Western Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15510 S Joliet Rd",
+    "city": "Plainfield",
+    "state": "IL",
+    "zip": "60544"
+  },
+  "location": {
+    "lat": 41.600082,
+    "lng": -88.195839
+  },
+  "contact": {
+    "phone": "(815) 436-0017",
+    "website": "http://www.westernlandscape.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc5a66bf-3eac-4e82-9142-97c247e334af",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

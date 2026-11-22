@@ -1,0 +1,35 @@
+{
+  "id": "mt-corvallis-valley-irrigation-and-landscape-supply",
+  "slug": "valley-irrigation-and-landscape-supply",
+  "name": "Valley Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1316 Eastside Hwy",
+    "city": "Corvallis",
+    "state": "MT",
+    "zip": "59828"
+  },
+  "location": {
+    "lat": 46.329746,
+    "lng": -114.112862
+  },
+  "contact": {
+    "phone": "(406) 363-3599"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b561d15-049c-46bd-8158-825f21b59edd",
+    "confidence": 0.962,
+    "merged_records": 1
+  }
+}

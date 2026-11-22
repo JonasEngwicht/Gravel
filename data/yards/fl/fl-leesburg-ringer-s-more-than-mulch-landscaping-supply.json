@@ -1,0 +1,36 @@
+{
+  "id": "fl-leesburg-ringer-s-more-than-mulch-landscaping-supply",
+  "slug": "ringer-s-more-than-mulch-landscaping-supply",
+  "name": "Ringer's More than Mulch Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "31570 Progress Rd",
+    "city": "Leesburg",
+    "state": "FL",
+    "zip": "34748"
+  },
+  "location": {
+    "lat": 28.807775,
+    "lng": -81.927528
+  },
+  "contact": {
+    "phone": "(352) 787-0781",
+    "website": "http://Ringersmorethanmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "08b2b653-d292-498f-9ac3-f6583f674d2d",
+    "confidence": 0.93,
+    "merged_records": 1
+  }
+}

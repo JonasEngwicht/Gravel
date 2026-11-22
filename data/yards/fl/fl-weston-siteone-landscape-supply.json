@@ -1,0 +1,37 @@
+{
+  "id": "fl-weston-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1800 N Commerce Pkwy Ste 3",
+    "city": "Weston",
+    "state": "FL",
+    "zip": "33326"
+  },
+  "location": {
+    "lat": 26.094877,
+    "lng": -80.364616
+  },
+  "contact": {
+    "phone": "(954) 217-9147",
+    "website": "https://www.siteone.com/store/617"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1276cedd-057b-4bf4-ba7c-d6a8bf728bcc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

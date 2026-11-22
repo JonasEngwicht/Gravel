@@ -1,0 +1,37 @@
+{
+  "id": "in-indianapolis-siteone-landscape-supply-8569-zionsville-rd",
+  "slug": "siteone-landscape-supply-8569-zionsville-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8569 Zionsville Rd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46268"
+  },
+  "location": {
+    "lat": 39.909359,
+    "lng": -86.258354
+  },
+  "contact": {
+    "phone": "(317) 876-7792",
+    "website": "https://www.siteone.com/store/723"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bfbca552-08f9-4afd-aab2-ceb2b7285363",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-ennis-jjo-transport-sand-and-gravel",
+  "slug": "jjo-transport-sand-and-gravel",
+  "name": "JJO Transport Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "302 Main St",
+    "city": "Ennis",
+    "state": "TX",
+    "zip": "75119"
+  },
+  "location": {
+    "lat": 32.269341,
+    "lng": -96.696404
+  },
+  "contact": {
+    "phone": "(469) 383-9274"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb968be6-469f-42eb-9ff9-02c7a5c3bda6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

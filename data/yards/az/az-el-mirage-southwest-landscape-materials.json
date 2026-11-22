@@ -1,0 +1,35 @@
+{
+  "id": "az-el-mirage-southwest-landscape-materials",
+  "slug": "southwest-landscape-materials",
+  "name": "Southwest Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10291 N El Mirage Rd",
+    "city": "El Mirage",
+    "state": "AZ",
+    "zip": "85335"
+  },
+  "location": {
+    "lat": 33.577724,
+    "lng": -112.32402
+  },
+  "contact": {
+    "phone": "(623) 536-3261"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "286f1336-d650-4bca-b087-408cec10c573",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

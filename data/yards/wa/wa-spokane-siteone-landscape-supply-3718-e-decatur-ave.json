@@ -1,0 +1,37 @@
+{
+  "id": "wa-spokane-siteone-landscape-supply-3718-e-decatur-ave",
+  "slug": "siteone-landscape-supply-3718-e-decatur-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3718 E Decatur Ave",
+    "city": "Spokane",
+    "state": "WA",
+    "zip": "99217"
+  },
+  "location": {
+    "lat": 47.713573,
+    "lng": -117.354546
+  },
+  "contact": {
+    "phone": "(509) 847-0060",
+    "website": "https://www.siteone.com/en/store/359"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a95ecee5-5f69-4c7e-8b17-1eb02c0711ff",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

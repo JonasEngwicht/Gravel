@@ -1,0 +1,36 @@
+{
+  "id": "il-volo-the-mulch-center",
+  "slug": "the-mulch-center",
+  "name": "The Mulch Center",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "27601 W Sullivan Lake Rd",
+    "city": "Volo",
+    "state": "IL",
+    "zip": "60041"
+  },
+  "location": {
+    "lat": 42.34296,
+    "lng": -88.172234
+  },
+  "contact": {
+    "phone": "(815) 331-8834",
+    "website": "https://mulchcenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f0e0b61-68db-4c24-afd7-144b90aca47c",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

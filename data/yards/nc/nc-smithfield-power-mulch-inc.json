@@ -1,0 +1,36 @@
+{
+  "id": "nc-smithfield-power-mulch-inc",
+  "slug": "power-mulch-inc",
+  "name": "Power Mulch Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1401 S Brightleaf Blvd",
+    "city": "Smithfield",
+    "state": "NC",
+    "zip": "27577"
+  },
+  "location": {
+    "lat": 35.493042,
+    "lng": -78.356773
+  },
+  "contact": {
+    "phone": "(919) 938-4141",
+    "website": "http://www.powermulchinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f6cfeeed-71be-47bc-8131-d501f653b4ea",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

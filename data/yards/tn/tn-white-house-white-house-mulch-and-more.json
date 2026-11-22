@@ -1,0 +1,36 @@
+{
+  "id": "tn-white-house-white-house-mulch-and-more",
+  "slug": "white-house-mulch-and-more",
+  "name": "White House Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2961 Union Rd",
+    "city": "White House",
+    "state": "TN",
+    "zip": "37188"
+  },
+  "location": {
+    "lat": 36.463604,
+    "lng": -86.692886
+  },
+  "contact": {
+    "phone": "(615) 334-6999",
+    "website": "http://www.whitehousemulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b804a0bf-6f90-4003-9b5a-61b62e50b0bf",
+    "confidence": 0.968,
+    "merged_records": 1
+  }
+}

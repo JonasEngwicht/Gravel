@@ -1,0 +1,35 @@
+{
+  "id": "nc-hillsborough-can-do-landscape-materials-and-services",
+  "slug": "can-do-landscape-materials-and-services",
+  "name": "Can Do Landscape Materials and Services",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "214 Phelps Rd",
+    "city": "Hillsborough",
+    "state": "NC",
+    "zip": "27278"
+  },
+  "location": {
+    "lat": 36.136696,
+    "lng": -79.117111
+  },
+  "contact": {
+    "phone": "(919) 732-5343"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "610c3d13-37d7-45da-8dc1-36e3a3a3552c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

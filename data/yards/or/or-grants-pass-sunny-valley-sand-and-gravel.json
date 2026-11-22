@@ -1,0 +1,36 @@
+{
+  "id": "or-grants-pass-sunny-valley-sand-and-gravel",
+  "slug": "sunny-valley-sand-and-gravel",
+  "name": "Sunny Valley Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1867 Williams Hwy #260",
+    "city": "Grants Pass",
+    "state": "OR",
+    "zip": "97527"
+  },
+  "location": {
+    "lat": 42.417149,
+    "lng": -123.338219
+  },
+  "contact": {
+    "phone": "(541) 244-2644",
+    "website": "http://sunnyvalleysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c1ff444-1d41-40c8-b628-3e9e1370e6a4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

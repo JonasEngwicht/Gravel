@@ -1,0 +1,36 @@
+{
+  "id": "nc-winston-salem-stone-center-landscape-and-masonry",
+  "slug": "stone-center-landscape-and-masonry",
+  "name": "Stone Center | Landscape & Masonry",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2460 Armstrong Dr",
+    "city": "Winston Salem",
+    "state": "NC",
+    "zip": "27103"
+  },
+  "location": {
+    "lat": 36.039589,
+    "lng": -80.315498
+  },
+  "contact": {
+    "phone": "(336) 774-6544",
+    "website": "https://macpinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf01d291-8ce3-4a1a-b7b0-e6fa1fdec823",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

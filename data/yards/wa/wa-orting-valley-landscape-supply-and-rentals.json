@@ -1,0 +1,36 @@
+{
+  "id": "wa-orting-valley-landscape-supply-and-rentals",
+  "slug": "valley-landscape-supply-and-rentals",
+  "name": "Valley Landscape Supply and Rentals",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "19119 Orting Kapowsin Hwy E",
+    "city": "Orting",
+    "state": "WA",
+    "zip": "98360"
+  },
+  "location": {
+    "lat": 47.081917,
+    "lng": -122.216217
+  },
+  "contact": {
+    "phone": "(253) 820-6907",
+    "website": "https://www.valleylandscapesupply.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c80dc34-cb0f-43ad-b68c-0a6113dd0c3f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

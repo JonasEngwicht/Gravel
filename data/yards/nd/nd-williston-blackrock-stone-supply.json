@@ -1,0 +1,36 @@
+{
+  "id": "nd-williston-blackrock-stone-supply",
+  "slug": "blackrock-stone-supply",
+  "name": "Blackrock Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1201 2nd St W",
+    "city": "Williston",
+    "state": "ND",
+    "zip": "58801"
+  },
+  "location": {
+    "lat": 48.145084,
+    "lng": -103.641151
+  },
+  "contact": {
+    "phone": "(701) 774-7625",
+    "website": "http://www.blackrockstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6465d1a-677f-418a-935a-555574c7ddea",
+    "confidence": 0.506,
+    "merged_records": 1
+  }
+}

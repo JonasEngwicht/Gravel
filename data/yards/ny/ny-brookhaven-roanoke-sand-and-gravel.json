@@ -1,0 +1,48 @@
+{
+  "id": "ny-brookhaven-roanoke-sand-and-gravel",
+  "slug": "roanoke-sand-and-gravel",
+  "name": "Roanoke Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "104 Rocky Point Rd",
+    "city": "Brookhaven",
+    "state": "NY",
+    "zip": "11953"
+  },
+  "location": {
+    "lat": 40.891399,
+    "lng": -72.945099
+  },
+  "contact": {
+    "phone": "(631) 924-4100",
+    "website": "http://roanokesand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e030929-3fbc-47f9-a126-340b3c86121b",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3000956",
+      "name": "Roanoke Sand & Gravel Corporation",
+      "operator": "Roanoke Sand & Gravel Corporation",
+      "status": "Active",
+      "status_since": "1982-12-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

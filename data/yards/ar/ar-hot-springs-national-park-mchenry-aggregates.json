@@ -1,0 +1,58 @@
+{
+  "id": "ar-hot-springs-national-park-mchenry-aggregates",
+  "slug": "mchenry-aggregates",
+  "name": "McHenry Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "994 Fox Pass Cutoff",
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "zip": "71901"
+  },
+  "location": {
+    "lat": 34.568321,
+    "lng": -93.00914
+  },
+  "contact": {
+    "phone": "(501) 321-4942",
+    "website": "http://www.mchenryaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02345a63-f228-4159-98bf-839ee21318d9",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0301949",
+      "name": "McHenry Aggregates",
+      "operator": "McHenry Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2009-03-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 3
+    },
+    {
+      "mine_id": "0302098",
+      "name": "McHenry Fountain Lake Gravel Pit",
+      "operator": "McHenry Aggregates, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-09-19",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

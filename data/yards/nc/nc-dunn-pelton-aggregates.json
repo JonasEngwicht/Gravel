@@ -1,0 +1,36 @@
+{
+  "id": "nc-dunn-pelton-aggregates",
+  "slug": "pelton-aggregates",
+  "name": "Pelton Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "470 Webb Road",
+    "city": "Dunn",
+    "state": "NC",
+    "zip": "28334"
+  },
+  "location": {
+    "lat": 35.345585,
+    "lng": -78.546188
+  },
+  "contact": {
+    "phone": "(919) 270-6635",
+    "website": "https://www.peltonaggregates-nc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e62f1c9-54f9-4625-a922-1efe09600428",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "oh-plain-city-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7801 Corporate Blvd Unit A",
+    "city": "Plain City",
+    "state": "OH",
+    "zip": "43064"
+  },
+  "location": {
+    "lat": 40.127048,
+    "lng": -83.194061
+  },
+  "contact": {
+    "phone": "(614) 504-9000",
+    "website": "https://www.siteone.com/store/431"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e2fd2135-cd28-4aa5-9cc4-b99131778d5e",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

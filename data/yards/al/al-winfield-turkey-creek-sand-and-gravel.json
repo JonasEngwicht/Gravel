@@ -1,0 +1,36 @@
+{
+  "id": "al-winfield-turkey-creek-sand-and-gravel",
+  "slug": "turkey-creek-sand-and-gravel",
+  "name": "Turkey Creek Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "347 County Road 24",
+    "city": "Winfield",
+    "state": "AL",
+    "zip": "35594"
+  },
+  "location": {
+    "lat": 33.871414,
+    "lng": -87.772217
+  },
+  "contact": {
+    "phone": "(205) 487-3635",
+    "website": "http://www.turkeycreeksandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb074133-cd01-4b75-ab7c-c0e799d31b59",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ma-shrewsbury-landscape-depot-supply",
+  "slug": "landscape-depot-supply",
+  "name": "Landscape Depot Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "957 Boston Tpke",
+    "city": "Shrewsbury",
+    "state": "MA",
+    "zip": "01545"
+  },
+  "location": {
+    "lat": 42.281101,
+    "lng": -71.676239
+  },
+  "contact": {
+    "phone": "(508) 366-9400"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb8503ad-3046-4ba3-8d42-841288bd9ee5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

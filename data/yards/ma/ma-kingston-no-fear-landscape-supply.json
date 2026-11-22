@@ -1,0 +1,35 @@
+{
+  "id": "ma-kingston-no-fear-landscape-supply",
+  "slug": "no-fear-landscape-supply",
+  "name": "No Fear Landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "63 Wapping Rd",
+    "city": "Kingston",
+    "state": "MA",
+    "zip": "02364"
+  },
+  "location": {
+    "lat": 41.992287,
+    "lng": -70.757111
+  },
+  "contact": {
+    "phone": "(339) 832-0126"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6220d0f3-4a5c-4c85-9ddc-86419c564a83",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

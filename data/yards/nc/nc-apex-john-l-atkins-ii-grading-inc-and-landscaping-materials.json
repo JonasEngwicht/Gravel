@@ -1,0 +1,36 @@
+{
+  "id": "nc-apex-john-l-atkins-ii-grading-inc-and-landscaping-materials",
+  "slug": "john-l-atkins-ii-grading-inc-and-landscaping-materials",
+  "name": "John L. Atkins II Grading Inc. and Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3724 Johnson Pond Rd",
+    "city": "Apex",
+    "state": "NC",
+    "zip": "27539"
+  },
+  "location": {
+    "lat": 35.670742,
+    "lng": -78.723244
+  },
+  "contact": {
+    "phone": "(919) 779-2539",
+    "website": "http://www.johnatkinsgrading.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bcd129ba-bd19-4534-9d12-f217e2e29455",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

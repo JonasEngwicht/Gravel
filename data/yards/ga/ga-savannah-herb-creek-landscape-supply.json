@@ -1,0 +1,36 @@
+{
+  "id": "ga-savannah-herb-creek-landscape-supply",
+  "slug": "herb-creek-landscape-supply",
+  "name": "Herb Creek Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7402 Skidaway Rd",
+    "city": "Savannah",
+    "state": "GA",
+    "zip": "31406"
+  },
+  "location": {
+    "lat": 31.985401,
+    "lng": -81.073997
+  },
+  "contact": {
+    "phone": "(912) 691-0108",
+    "website": "https://herbcreek.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b916b4ef-17ac-498a-8705-8579c1770ca0",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

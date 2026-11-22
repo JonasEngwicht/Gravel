@@ -1,0 +1,36 @@
+{
+  "id": "pa-cochranton-kennedy-landscape-supplies",
+  "slug": "kennedy-landscape-supplies",
+  "name": "Kennedy Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "27567 Lippert Rd",
+    "city": "Cochranton",
+    "state": "PA",
+    "zip": "16314"
+  },
+  "location": {
+    "lat": 41.566231,
+    "lng": -79.990471
+  },
+  "contact": {
+    "phone": "(814) 425-7903",
+    "website": "http://kennedylandscapesupplies.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ff1a3cb-fe87-4b59-a251-302fc2a294d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

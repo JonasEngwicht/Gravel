@@ -1,0 +1,36 @@
+{
+  "id": "il-carbondale-burkdell-mulch",
+  "slug": "burkdell-mulch",
+  "name": "Burkdell Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1300 N Illinois Ave",
+    "city": "Carbondale",
+    "state": "IL",
+    "zip": "62901"
+  },
+  "location": {
+    "lat": 37.740475,
+    "lng": -89.219299
+  },
+  "contact": {
+    "phone": "(618) 549-2211",
+    "website": "https://burkdell-mulch-il-1.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c6060d62-5dcf-4fe9-81bf-6a9e2a625630",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

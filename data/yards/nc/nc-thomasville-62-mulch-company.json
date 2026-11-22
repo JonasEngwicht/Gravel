@@ -1,0 +1,35 @@
+{
+  "id": "nc-thomasville-62-mulch-company",
+  "slug": "62-mulch-company",
+  "name": "62 Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "501 Cloniger Dr",
+    "city": "Thomasville",
+    "state": "NC",
+    "zip": "27360"
+  },
+  "location": {
+    "lat": 35.866993,
+    "lng": -80.056374
+  },
+  "contact": {
+    "phone": "(336) 313-6788"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ac3af9c-e650-44a5-8047-fc52c700468c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

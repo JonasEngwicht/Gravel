@@ -1,0 +1,36 @@
+{
+  "id": "la-jennings-port-aggregates-inc",
+  "slug": "port-aggregates-inc",
+  "name": "Port Aggregates, Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "314 N Main St",
+    "city": "Jennings",
+    "state": "LA",
+    "zip": "70546"
+  },
+  "location": {
+    "lat": 30.222935,
+    "lng": -92.657654
+  },
+  "contact": {
+    "phone": "(337) 824-7625",
+    "website": "https://www.portaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "23ae78b8-5b98-456c-8d72-2da2c396f468",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

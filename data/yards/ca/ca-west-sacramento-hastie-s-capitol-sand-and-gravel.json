@@ -1,0 +1,36 @@
+{
+  "id": "ca-west-sacramento-hastie-s-capitol-sand-and-gravel",
+  "slug": "hastie-s-capitol-sand-and-gravel",
+  "name": "Hastie's Capitol Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3222 W Capitol Ave",
+    "city": "West Sacramento",
+    "state": "CA",
+    "zip": "95691"
+  },
+  "location": {
+    "lat": 38.579571,
+    "lng": -121.554375
+  },
+  "contact": {
+    "phone": "(916) 374-9935",
+    "website": "http://www.hastiessandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14e342ea-9a8b-4a62-a5a5-6261c0ea170c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

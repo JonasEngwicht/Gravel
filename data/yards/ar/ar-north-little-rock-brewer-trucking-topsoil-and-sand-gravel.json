@@ -1,0 +1,36 @@
+{
+  "id": "ar-north-little-rock-brewer-trucking-topsoil-and-sand-gravel",
+  "slug": "brewer-trucking-topsoil-and-sand-gravel",
+  "name": "Brewer Trucking -Topsoil & Sand/Gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12627 State Rte 165",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72117"
+  },
+  "location": {
+    "lat": 34.730579,
+    "lng": -92.130608
+  },
+  "contact": {
+    "phone": "(501) 580-1701",
+    "website": "https://www.brewertruckingco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c0a6080-9c5d-499a-bd73-45cd8d9f6880",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

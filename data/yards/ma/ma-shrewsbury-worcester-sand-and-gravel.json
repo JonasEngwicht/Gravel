@@ -1,0 +1,48 @@
+{
+  "id": "ma-shrewsbury-worcester-sand-and-gravel",
+  "slug": "worcester-sand-and-gravel",
+  "name": "Worcester Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "182 Holden St",
+    "city": "Shrewsbury",
+    "state": "MA",
+    "zip": "01545"
+  },
+  "location": {
+    "lat": 42.303596,
+    "lng": -71.753639
+  },
+  "contact": {
+    "phone": "(508) 852-1683",
+    "website": "https://www.worcestersandandgravelco.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd8cc600-8c0b-444c-8605-eb5abd15ae92",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900956",
+      "name": "Worcester Sand & Stone",
+      "operator": "Worcester Sand & Stone",
+      "status": "Active",
+      "status_since": "2025-04-11",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "active-nearby",
+      "employees": 17
+    }
+  ]
+}

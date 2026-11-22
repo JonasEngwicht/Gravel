@@ -1,0 +1,58 @@
+{
+  "id": "wv-parsons-ace-aggregates",
+  "slug": "ace-aggregates",
+  "name": "ACE Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9899 Mountaineer Hwy",
+    "city": "Parsons",
+    "state": "WV",
+    "zip": "26287"
+  },
+  "location": {
+    "lat": 39.193974,
+    "lng": -79.823547
+  },
+  "contact": {
+    "phone": "(304) 457-5671",
+    "website": "http://www.AceAggregatesLLC.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f347a7b-2061-432f-98cd-4e77e3248aad",
+    "confidence": 0.888,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4607788",
+      "name": "Philippi Quarry",
+      "operator": "Ace Aggregates",
+      "status": "Active",
+      "status_since": "2022-03-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 18
+    },
+    {
+      "mine_id": "4609636",
+      "name": "Shiloh Quarry",
+      "operator": "Shiloh Quarry Llc",
+      "status": "Active",
+      "status_since": "2024-04-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 17
+    }
+  ]
+}

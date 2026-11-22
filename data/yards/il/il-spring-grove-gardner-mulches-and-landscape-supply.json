@@ -1,0 +1,36 @@
+{
+  "id": "il-spring-grove-gardner-mulches-and-landscape-supply",
+  "slug": "gardner-mulches-and-landscape-supply",
+  "name": "Gardner Mulches and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7701 Blivin St",
+    "city": "Spring Grove",
+    "state": "IL",
+    "zip": "60081"
+  },
+  "location": {
+    "lat": 42.439407,
+    "lng": -88.240662
+  },
+  "contact": {
+    "phone": "(815) 675-6083",
+    "website": "https://gardnermulches.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42e4c91e-1ad5-429b-badf-151cc61f5a31",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

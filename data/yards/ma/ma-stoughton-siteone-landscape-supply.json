@@ -1,0 +1,37 @@
+{
+  "id": "ma-stoughton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "387 Page St Ste 5A",
+    "city": "Stoughton",
+    "state": "MA",
+    "zip": "02072"
+  },
+  "location": {
+    "lat": 42.148991,
+    "lng": -71.072189
+  },
+  "contact": {
+    "phone": "(781) 341-4746",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "87617b6f-c579-48e2-a9c6-d78de16da03a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

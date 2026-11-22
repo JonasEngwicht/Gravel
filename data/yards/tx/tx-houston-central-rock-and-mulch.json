@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-central-rock-and-mulch",
+  "slug": "central-rock-and-mulch",
+  "name": "Central Rock and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "403 Yale St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77007"
+  },
+  "location": {
+    "lat": 29.77803,
+    "lng": -95.399506
+  },
+  "contact": {
+    "phone": "(713) 887-7624",
+    "website": "https://centralrockandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "21e8d2f4-b4a1-48fe-aba5-464648f9cbac",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

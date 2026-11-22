@@ -1,0 +1,37 @@
+{
+  "id": "ct-ledyard-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "18 Lorenz Industrial Pkwy",
+    "city": "Ledyard",
+    "state": "CT",
+    "zip": "06339"
+  },
+  "location": {
+    "lat": 41.405018,
+    "lng": -72.02877
+  },
+  "contact": {
+    "phone": "(860) 464-9752",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0e9fa47-743a-4281-b454-38e026b68892",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "co-dolores-stone-sand-and-gravel-12092-highway-145",
+  "slug": "stone-sand-and-gravel-12092-highway-145",
+  "name": "Stone Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12092 Highway 145",
+    "city": "Dolores",
+    "state": "CO",
+    "zip": "81323"
+  },
+  "location": {
+    "lat": 37.386932,
+    "lng": -108.55323
+  },
+  "contact": {
+    "phone": "(970) 565-4788",
+    "website": "http://www.stonesandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e15c7bb2-5dc1-4fef-a3bb-01333561b1fe",
+    "confidence": 0.506,
+    "merged_records": 1
+  }
+}

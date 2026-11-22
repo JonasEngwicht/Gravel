@@ -1,0 +1,37 @@
+{
+  "id": "fl-port-richey-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6721 Industrial Ave",
+    "city": "Port Richey",
+    "state": "FL",
+    "zip": "34668"
+  },
+  "location": {
+    "lat": 28.278654,
+    "lng": -82.703377
+  },
+  "contact": {
+    "phone": "(727) 849-1522",
+    "website": "https://www.siteone.com/store/437"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdb5ff31-67c4-4fb3-93c3-372f905e0b1e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

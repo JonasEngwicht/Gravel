@@ -1,0 +1,36 @@
+{
+  "id": "wa-burlington-miles-sand-and-gravel",
+  "slug": "miles-sand-and-gravel",
+  "name": "Miles Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "663 Pease Rd",
+    "city": "Burlington",
+    "state": "WA",
+    "zip": "98233"
+  },
+  "location": {
+    "lat": 48.458374,
+    "lng": -122.327271
+  },
+  "contact": {
+    "phone": "(360) 757-0055",
+    "website": "https://www.milessandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a11d0b4-fb18-4673-a473-e14b66d46d38",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

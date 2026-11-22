@@ -1,0 +1,36 @@
+{
+  "id": "in-indianapolis-indiana-mulch-and-stone-llc",
+  "slug": "indiana-mulch-and-stone-llc",
+  "name": "Indiana Mulch and Stone LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1451 S West St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46225"
+  },
+  "location": {
+    "lat": 39.748421,
+    "lng": -86.16745
+  },
+  "contact": {
+    "phone": "(317) 638-8334",
+    "website": "http://www.indianamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d119e60-c550-428f-8d43-ac1a56e4b27b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

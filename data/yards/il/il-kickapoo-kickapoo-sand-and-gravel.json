@@ -1,0 +1,48 @@
+{
+  "id": "il-kickapoo-kickapoo-sand-and-gravel",
+  "slug": "kickapoo-sand-and-gravel",
+  "name": "Kickapoo Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9305 W Grange Hall Rd",
+    "city": "Kickapoo",
+    "state": "IL",
+    "zip": "61559"
+  },
+  "location": {
+    "lat": 40.813164,
+    "lng": -89.736877
+  },
+  "contact": {
+    "phone": "(309) 243-9200",
+    "website": "http://kickapoosand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "32fc9e87-f544-4a4e-91d6-1da3902d0509",
+    "confidence": 0.995,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1102379",
+      "name": "Kickapoo Sand & Gravel",
+      "operator": "Kickapoo Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "1977-08-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mi-brighton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7540 Whitmore Lake Rd",
+    "city": "Brighton",
+    "state": "MI",
+    "zip": "48116"
+  },
+  "location": {
+    "lat": 42.49202,
+    "lng": -83.758652
+  },
+  "contact": {
+    "phone": "(810) 231-1107",
+    "website": "https://www.siteone.com/en/store/99"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72bb68c5-2090-47a7-894b-1817e8e82a3f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

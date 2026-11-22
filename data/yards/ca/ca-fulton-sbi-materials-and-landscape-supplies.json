@@ -1,0 +1,36 @@
+{
+  "id": "ca-fulton-sbi-materials-and-landscape-supplies",
+  "slug": "sbi-materials-and-landscape-supplies",
+  "name": "SBI Materials and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1000 River Rd Ste A",
+    "city": "Fulton",
+    "state": "CA",
+    "zip": "95439"
+  },
+  "location": {
+    "lat": 38.495014,
+    "lng": -122.767303
+  },
+  "contact": {
+    "phone": "(707) 284-8989",
+    "website": "https://sbimaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2be04d15-d549-4f7e-94d9-381a6a4b2350",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

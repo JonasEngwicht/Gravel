@@ -1,0 +1,36 @@
+{
+  "id": "sc-greenville-mulch-in-motion",
+  "slug": "mulch-in-motion",
+  "name": "Mulch In Motion",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "15 Beverly Rd",
+    "city": "Greenville",
+    "state": "SC",
+    "zip": "29609"
+  },
+  "location": {
+    "lat": 34.894661,
+    "lng": -82.371719
+  },
+  "contact": {
+    "phone": "(864) 346-8524",
+    "website": "http://www.mulchinmotion.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "05eeaa18-d1a2-42e3-87e4-38948bc7bbcd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

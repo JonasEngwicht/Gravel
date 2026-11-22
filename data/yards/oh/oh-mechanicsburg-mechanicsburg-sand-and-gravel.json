@@ -1,0 +1,36 @@
+{
+  "id": "oh-mechanicsburg-mechanicsburg-sand-and-gravel",
+  "slug": "mechanicsburg-sand-and-gravel",
+  "name": "Mechanicsburg Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5734 State Route 4",
+    "city": "Mechanicsburg",
+    "state": "OH",
+    "zip": "43044"
+  },
+  "location": {
+    "lat": 40.039059,
+    "lng": -83.646774
+  },
+  "contact": {
+    "phone": "(937) 834-2606",
+    "website": "http://www.mechanicsburgsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dbe4162f-685d-4bdd-a9f9-ca85d4d74f23",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

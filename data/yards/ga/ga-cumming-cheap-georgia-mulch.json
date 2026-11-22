@@ -1,0 +1,36 @@
+{
+  "id": "ga-cumming-cheap-georgia-mulch",
+  "slug": "cheap-georgia-mulch",
+  "name": "Cheap Georgia Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2670 Business Dr",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30040"
+  },
+  "location": {
+    "lat": 34.238468,
+    "lng": -84.204826
+  },
+  "contact": {
+    "phone": "(770) 919-5100",
+    "website": "https://cheapgeorgiamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9299f29-ab6b-4a02-8dd9-f9221481278c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

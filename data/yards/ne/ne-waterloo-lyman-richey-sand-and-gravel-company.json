@@ -1,0 +1,36 @@
+{
+  "id": "ne-waterloo-lyman-richey-sand-and-gravel-company",
+  "slug": "lyman-richey-sand-and-gravel-company",
+  "name": "Lyman-richey Sand & Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "910 N 264th St",
+    "city": "Waterloo",
+    "state": "NE",
+    "zip": "68069"
+  },
+  "location": {
+    "lat": 41.267059,
+    "lng": -96.332153
+  },
+  "contact": {
+    "phone": "(402) 359-5828",
+    "website": "https://www.lymanrichey.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d05f7b5-83db-42ee-9416-903294981378",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

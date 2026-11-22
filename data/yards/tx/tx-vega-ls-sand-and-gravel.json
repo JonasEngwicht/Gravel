@@ -1,0 +1,35 @@
+{
+  "id": "tx-vega-ls-sand-and-gravel",
+  "slug": "ls-sand-and-gravel",
+  "name": "LS Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7501 US-385",
+    "city": "Vega",
+    "state": "TX",
+    "zip": "79092"
+  },
+  "location": {
+    "lat": 35.363243,
+    "lng": -102.345291
+  },
+  "contact": {
+    "phone": "(806) 267-0218"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f7db68d-4ed5-43fa-b807-3825251917d5",
+    "confidence": 0.664,
+    "merged_records": 1
+  }
+}

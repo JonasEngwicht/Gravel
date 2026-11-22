@@ -1,0 +1,36 @@
+{
+  "id": "il-peotone-bricks-blocks-and-rocks-landscape-supply-co",
+  "slug": "bricks-blocks-and-rocks-landscape-supply-co",
+  "name": "Bricks Blocks & Rocks Landscape Supply Co.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "29441 S Route 50",
+    "city": "Peotone",
+    "state": "IL",
+    "zip": "60468"
+  },
+  "location": {
+    "lat": 41.354668,
+    "lng": -87.777496
+  },
+  "contact": {
+    "phone": "(708) 258-9790",
+    "website": "http://www.bricksblocksrocks.closeby.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ccdbef0-b4c8-49e0-9c18-71537f668107",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

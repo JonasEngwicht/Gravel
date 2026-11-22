@@ -1,0 +1,36 @@
+{
+  "id": "oh-north-canton-earth-n-wood-kurtz-bros-landscape-supply-center",
+  "slug": "earth-n-wood-kurtz-bros-landscape-supply-center",
+  "name": "Earth 'n Wood / Kurtz Bros. - Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5335 Strausser Street Northwest",
+    "city": "North Canton",
+    "state": "OH",
+    "zip": "44720"
+  },
+  "location": {
+    "lat": 40.892715,
+    "lng": -81.447395
+  },
+  "contact": {
+    "phone": "(330) 499-8309",
+    "website": "https://www.kurtz-bros.com/north-canton?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8b5470d-4ad4-44c6-99b3-df850c22ef10",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

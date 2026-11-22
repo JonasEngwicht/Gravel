@@ -1,0 +1,36 @@
+{
+  "id": "pa-worthington-topsoil",
+  "slug": "topsoil",
+  "name": "Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "193 Top Soil Dr",
+    "city": "Worthington",
+    "state": "PA",
+    "zip": "16262"
+  },
+  "location": {
+    "lat": 40.851826,
+    "lng": -79.671402
+  },
+  "contact": {
+    "phone": "(724) 297-3670",
+    "website": "http://www.topsoilinc.vpweb.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "60febf39-342a-4851-a4a9-2858ceff1dc8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

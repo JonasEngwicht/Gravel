@@ -1,0 +1,36 @@
+{
+  "id": "ny-east-fishkill-west-hook-sand-and-gravel",
+  "slug": "west-hook-sand-and-gravel",
+  "name": "West Hook Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "25 W Hook Rd",
+    "city": "East Fishkill",
+    "state": "NY",
+    "zip": "12533"
+  },
+  "location": {
+    "lat": 41.520069,
+    "lng": -73.852097
+  },
+  "contact": {
+    "phone": "(845) 897-3316",
+    "website": "http://www.westhooksandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a6160038-b8f3-4da3-bac1-81d5f5ac82cb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

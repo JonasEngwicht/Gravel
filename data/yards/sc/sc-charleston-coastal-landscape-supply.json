@@ -1,0 +1,36 @@
+{
+  "id": "sc-charleston-coastal-landscape-supply",
+  "slug": "coastal-landscape-supply",
+  "name": "Coastal Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "810 Saint Andrews Blvd",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29407"
+  },
+  "location": {
+    "lat": 32.790741,
+    "lng": -79.985779
+  },
+  "contact": {
+    "phone": "(843) 277-2653",
+    "website": "http://www.coastallandscapeandsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5378084d-4e1e-4749-b7b2-bea88af33842",
+    "confidence": 0.786,
+    "merged_records": 1
+  }
+}

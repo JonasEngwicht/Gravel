@@ -1,0 +1,36 @@
+{
+  "id": "vt-hardwick-gravel-construction-co-inc",
+  "slug": "gravel-construction-co-inc",
+  "name": "Gravel Construction Co., Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "20 Blizzard Way",
+    "city": "Hardwick",
+    "state": "VT",
+    "zip": "05843"
+  },
+  "location": {
+    "lat": 44.520699,
+    "lng": -72.409721
+  },
+  "contact": {
+    "phone": "(802) 472-3776",
+    "website": "https://www.gravelconstruction.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc2013e2-8c51-4940-8c2d-e8558aa8fa1c",
+    "confidence": 0.632,
+    "merged_records": 1
+  }
+}

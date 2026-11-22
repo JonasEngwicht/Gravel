@@ -1,0 +1,35 @@
+{
+  "id": "ky-salt-lick-triple-k-mulch",
+  "slug": "triple-k-mulch",
+  "name": "Triple K Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12031 US-60",
+    "city": "Salt Lick",
+    "state": "KY",
+    "zip": "40371"
+  },
+  "location": {
+    "lat": 38.13475,
+    "lng": -83.571709
+  },
+  "contact": {
+    "phone": "(606) 683-2338"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15e41633-f2d8-4a3e-add4-91f1e041607f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nj-seaside-heights-ortley-stone-and-gravel",
+  "slug": "ortley-stone-and-gravel",
+  "name": "Ortley Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1628 Bay Blvd",
+    "city": "Seaside Heights",
+    "state": "NJ",
+    "zip": "08751"
+  },
+  "location": {
+    "lat": 39.949898,
+    "lng": -74.077904
+  },
+  "contact": {
+    "phone": "(732) 793-3662"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7ed89e1-32b1-4ae1-838a-8e32ef467a41",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

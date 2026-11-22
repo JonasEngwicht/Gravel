@@ -1,0 +1,35 @@
+{
+  "id": "nc-albemarle-greentop-stone-and-mulch-llc",
+  "slug": "greentop-stone-and-mulch-llc",
+  "name": "Greentop Stone & Mulch, LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "20977 Indian Mound Road Ext",
+    "city": "Albemarle",
+    "state": "NC",
+    "zip": "28001"
+  },
+  "location": {
+    "lat": 35.314274,
+    "lng": -80.103287
+  },
+  "contact": {
+    "phone": "(980) 581-6200"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd0c9a53-5422-44ab-aef6-019c66e774ce",
+    "confidence": 0.696,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "az-surprise-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "13460 W Westgate Dr",
+    "city": "Surprise",
+    "state": "AZ",
+    "zip": "85378"
+  },
+  "location": {
+    "lat": 33.641392,
+    "lng": -112.349655
+  },
+  "contact": {
+    "phone": "(623) 583-6307",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6e0dac45-55b2-42d3-9837-d5c5021caa05",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

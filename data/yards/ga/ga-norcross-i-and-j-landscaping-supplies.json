@@ -1,0 +1,36 @@
+{
+  "id": "ga-norcross-i-and-j-landscaping-supplies",
+  "slug": "i-and-j-landscaping-supplies",
+  "name": "I & J Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4768 S Old Peachtree Rd",
+    "city": "Norcross",
+    "state": "GA",
+    "zip": "30071"
+  },
+  "location": {
+    "lat": 33.966473,
+    "lng": -84.188393
+  },
+  "contact": {
+    "phone": "(470) 321-3262",
+    "website": "http://www.ijpinestraw.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f640cdd2-19c4-4376-a9f0-536ceee4aaf6",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

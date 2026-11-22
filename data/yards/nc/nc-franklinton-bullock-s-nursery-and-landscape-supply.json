@@ -1,0 +1,36 @@
+{
+  "id": "nc-franklinton-bullock-s-nursery-and-landscape-supply",
+  "slug": "bullock-s-nursery-and-landscape-supply",
+  "name": "Bullock's Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3640 NC-56",
+    "city": "Franklinton",
+    "state": "NC",
+    "zip": "27525"
+  },
+  "location": {
+    "lat": 36.139359,
+    "lng": -78.570259
+  },
+  "contact": {
+    "phone": "(919) 964-8320",
+    "website": "http://www.bullockslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e0462199-9ecd-4166-87e8-37209f404169",
+    "confidence": 0.944,
+    "merged_records": 1
+  }
+}

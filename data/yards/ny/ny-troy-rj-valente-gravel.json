@@ -1,0 +1,36 @@
+{
+  "id": "ny-troy-rj-valente-gravel",
+  "slug": "rj-valente-gravel",
+  "name": "Rj Valente Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1 Monroe St",
+    "city": "Troy",
+    "state": "NY",
+    "zip": "12180"
+  },
+  "location": {
+    "lat": 42.717587,
+    "lng": -73.698715
+  },
+  "contact": {
+    "phone": "(518) 271-6000",
+    "website": "https://www.rjvalente.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6068a204-b818-4c51-a142-a6e2a4c1297b",
+    "confidence": 0.702,
+    "merged_records": 1
+  }
+}

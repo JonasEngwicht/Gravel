@@ -1,0 +1,36 @@
+{
+  "id": "mi-clarkston-country-oaks-landscape-supply",
+  "slug": "country-oaks-landscape-supply",
+  "name": "Country Oaks Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5904 Dixie Hwy",
+    "city": "Clarkston",
+    "state": "MI",
+    "zip": "48346"
+  },
+  "location": {
+    "lat": 42.707516,
+    "lng": -83.405075
+  },
+  "contact": {
+    "phone": "(248) 623-2640",
+    "website": "http://www.countryoakslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf2c4951-80ca-45ed-a1c7-c155c1ad4d24",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

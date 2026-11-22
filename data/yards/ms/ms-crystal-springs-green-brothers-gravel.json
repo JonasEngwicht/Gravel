@@ -1,0 +1,47 @@
+{
+  "id": "ms-crystal-springs-green-brothers-gravel",
+  "slug": "green-brothers-gravel",
+  "name": "Green Brothers Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5179 Harmony Rd",
+    "city": "Crystal Springs",
+    "state": "MS",
+    "zip": "39059"
+  },
+  "location": {
+    "lat": 31.935749,
+    "lng": -90.282242
+  },
+  "contact": {
+    "phone": "(601) 948-8210",
+    "website": "http://greenbrothersgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8050f166-c112-4cfd-a40d-71094289d40e",
+    "confidence": 0.905,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2200650",
+      "name": "Harmony Mine & Mill",
+      "operator": "Green Brothers Gravel Company, Inc.",
+      "status": "Abandoned",
+      "status_since": "2022-02-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

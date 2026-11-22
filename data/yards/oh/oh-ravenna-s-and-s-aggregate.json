@@ -1,0 +1,36 @@
+{
+  "id": "oh-ravenna-s-and-s-aggregate",
+  "slug": "s-and-s-aggregate",
+  "name": "S and S Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2952 Webb Rd",
+    "city": "Ravenna",
+    "state": "OH",
+    "zip": "44266"
+  },
+  "location": {
+    "lat": 41.213932,
+    "lng": -81.289612
+  },
+  "contact": {
+    "phone": "(330) 626-0622",
+    "website": "http://www.shellyandsands.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6218337-93ed-43da-88f5-a6f9d15e4081",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

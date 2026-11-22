@@ -1,0 +1,37 @@
+{
+  "id": "fl-kissimmee-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "1045 Garden St",
+    "city": "Kissimmee",
+    "state": "FL",
+    "zip": "34744"
+  },
+  "location": {
+    "lat": 28.335451,
+    "lng": -81.394447
+  },
+  "contact": {
+    "phone": "(407) 847-9817",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6c049f70-5a1f-49ed-bb65-2687d32c1073",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

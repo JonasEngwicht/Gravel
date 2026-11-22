@@ -1,0 +1,35 @@
+{
+  "id": "ar-bearden-b-and-b-gravel-plant",
+  "slug": "b-and-b-gravel-plant",
+  "name": "B & B Gravel Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1257 Highway 9",
+    "city": "Bearden",
+    "state": "AR",
+    "zip": "71720"
+  },
+  "location": {
+    "lat": 33.768162,
+    "lng": -92.702866
+  },
+  "contact": {
+    "phone": "(870) 687-3397"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "253564d4-9ff8-47d0-a81c-b5adfbde25e1",
+    "confidence": 0.56,
+    "merged_records": 1
+  }
+}

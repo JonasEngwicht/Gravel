@@ -1,0 +1,35 @@
+{
+  "id": "sc-charleston-southern-standard-stone-and-mulch",
+  "slug": "southern-standard-stone-and-mulch",
+  "name": "Southern Standard Stone & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2658 Clements Ferry Rd",
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29492"
+  },
+  "location": {
+    "lat": 32.887039,
+    "lng": -79.931564
+  },
+  "contact": {
+    "website": "https://southern-standard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f480b6e3-391c-42e2-99b2-d11125981d50",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

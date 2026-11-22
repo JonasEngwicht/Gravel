@@ -1,0 +1,37 @@
+{
+  "id": "az-peoria-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "11450 W Northern Ave Ste #2",
+    "city": "Peoria",
+    "state": "AZ",
+    "zip": "85345"
+  },
+  "location": {
+    "lat": 33.5518,
+    "lng": -112.303749
+  },
+  "contact": {
+    "phone": "(623) 977-4800",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6387dd81-a45e-41dc-9503-2ddb027a28c8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

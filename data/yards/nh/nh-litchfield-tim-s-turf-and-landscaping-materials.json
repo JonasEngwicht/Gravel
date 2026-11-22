@@ -1,0 +1,36 @@
+{
+  "id": "nh-litchfield-tim-s-turf-and-landscaping-materials",
+  "slug": "tim-s-turf-and-landscaping-materials",
+  "name": "Tim's Turf & Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15 Colby Rd",
+    "city": "Litchfield",
+    "state": "NH",
+    "zip": "03052"
+  },
+  "location": {
+    "lat": 42.881184,
+    "lng": -71.461067
+  },
+  "contact": {
+    "phone": "(603) 424-1210",
+    "website": "http://www.Timsturf.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d99f4cc-cedd-4a52-b02a-4b395d65a4fd",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

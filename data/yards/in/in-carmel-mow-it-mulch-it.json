@@ -1,0 +1,32 @@
+{
+  "id": "in-carmel-mow-it-mulch-it",
+  "slug": "mow-it-mulch-it",
+  "name": "Mow It Mulch It",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "148 Maplecrest Dr",
+    "city": "Carmel",
+    "state": "IN",
+    "zip": "46033"
+  },
+  "location": {
+    "lat": 39.976131,
+    "lng": -86.10759
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11f27066-f639-4bee-8ac9-496c06b5ec76",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

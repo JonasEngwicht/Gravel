@@ -1,0 +1,47 @@
+{
+  "id": "mi-brighton-twp-natural-aggregates-corporation",
+  "slug": "natural-aggregates-corporation",
+  "name": "Natural Aggregates Corporation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3362 Muir",
+    "city": "Brighton Twp",
+    "state": "MI",
+    "zip": "48380"
+  },
+  "location": {
+    "lat": 42.55619,
+    "lng": -83.681793
+  },
+  "contact": {
+    "phone": "(248) 685-1502",
+    "website": "https://natural-aggregates-corporation.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "048da88f-1bca-41a1-9350-508f7857641b",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2001051",
+      "name": "Milford Plant",
+      "operator": "Natural Aggregates Corporation",
+      "status": "Abandoned",
+      "status_since": "2025-07-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

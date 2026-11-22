@@ -1,0 +1,48 @@
+{
+  "id": "mt-libby-remp-sand-and-gravel",
+  "slug": "remp-sand-and-gravel",
+  "name": "Remp Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "238 Remps Extension Rd",
+    "city": "Libby",
+    "state": "MT",
+    "zip": "59923"
+  },
+  "location": {
+    "lat": 48.404198,
+    "lng": -115.553352
+  },
+  "contact": {
+    "phone": "(406) 293-5573",
+    "website": "http://www.remps.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f222014b-5b82-48c5-81b3-e5c22d5b2ea2",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2401967",
+      "name": "Crusher #3",
+      "operator": "Remp Sand & Gravel Inc",
+      "status": "Abandoned",
+      "status_since": "2019-10-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

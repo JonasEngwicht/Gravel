@@ -1,0 +1,35 @@
+{
+  "id": "pa-ephrata-quality-mulch-products-llc",
+  "slug": "quality-mulch-products-llc",
+  "name": "Quality Mulch Products, LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "265 Hahnstown Rd",
+    "city": "Ephrata",
+    "state": "PA",
+    "zip": "17522"
+  },
+  "location": {
+    "lat": 40.173344,
+    "lng": -76.113594
+  },
+  "contact": {
+    "phone": "(717) 738-1312"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab9b6454-da2d-4cf3-ab67-efd8d469bb9f",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

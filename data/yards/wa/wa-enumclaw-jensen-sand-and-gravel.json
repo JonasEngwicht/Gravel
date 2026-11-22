@@ -1,0 +1,36 @@
+{
+  "id": "wa-enumclaw-jensen-sand-and-gravel",
+  "slug": "jensen-sand-and-gravel",
+  "name": "Jensen Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "548 Dickson Ave",
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98022"
+  },
+  "location": {
+    "lat": 47.197323,
+    "lng": -121.985298
+  },
+  "contact": {
+    "phone": "(360) 825-3750",
+    "website": "https://www.jensensandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ee9872b-0415-4b95-bbee-1a52f7fe1ae4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

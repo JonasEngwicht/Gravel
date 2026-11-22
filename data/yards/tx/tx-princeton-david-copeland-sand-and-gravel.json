@@ -1,0 +1,36 @@
+{
+  "id": "tx-princeton-david-copeland-sand-and-gravel",
+  "slug": "david-copeland-sand-and-gravel",
+  "name": "David Copeland Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "891 E Princeton Dr",
+    "city": "Princeton",
+    "state": "TX",
+    "zip": "75407"
+  },
+  "location": {
+    "lat": 33.172588,
+    "lng": -96.490639
+  },
+  "contact": {
+    "phone": "(972) 734-2158",
+    "website": "https://davidcopeland.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6fe8f60a-7ed4-4301-a4d1-581a54379971",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

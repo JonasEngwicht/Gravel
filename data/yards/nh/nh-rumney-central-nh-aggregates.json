@@ -1,0 +1,35 @@
+{
+  "id": "nh-rumney-central-nh-aggregates",
+  "slug": "central-nh-aggregates",
+  "name": "Central Nh Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "935 E Rumney Rd",
+    "city": "Rumney",
+    "state": "NH",
+    "zip": "03266"
+  },
+  "location": {
+    "lat": 43.80489,
+    "lng": -71.760132
+  },
+  "contact": {
+    "phone": "(603) 786-2886"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "792a92e0-45f0-4086-a04e-aca2e9295407",
+    "confidence": 0.663,
+    "merged_records": 1
+  }
+}

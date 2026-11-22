@@ -1,0 +1,36 @@
+{
+  "id": "tx-waco-twisted-nail-sand-and-gravel",
+  "slug": "twisted-nail-sand-and-gravel",
+  "name": "Twisted Nail Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "266 Pioneer Pkwy",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76708"
+  },
+  "location": {
+    "lat": 31.624132,
+    "lng": -97.209351
+  },
+  "contact": {
+    "phone": "(254) 651-3597",
+    "website": "http://www.twistednail.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ae29d1f-5616-447b-9c86-76516ccfcb19",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

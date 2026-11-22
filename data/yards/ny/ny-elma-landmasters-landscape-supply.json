@@ -1,0 +1,35 @@
+{
+  "id": "ny-elma-landmasters-landscape-supply",
+  "slug": "landmasters-landscape-supply",
+  "name": "Landmasters- Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3021 Transit Rd",
+    "city": "Elma",
+    "state": "NY",
+    "zip": "14059"
+  },
+  "location": {
+    "lat": 42.849941,
+    "lng": -78.696739
+  },
+  "contact": {
+    "phone": "(716) 771-1304"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4e40206d-9eff-4de5-813b-41292dd72712",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

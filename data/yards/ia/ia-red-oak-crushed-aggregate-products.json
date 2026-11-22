@@ -1,0 +1,36 @@
+{
+  "id": "ia-red-oak-crushed-aggregate-products",
+  "slug": "crushed-aggregate-products",
+  "name": "Crushed Aggregate Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1720 E Ave",
+    "city": "Red Oak",
+    "state": "IA",
+    "zip": "51566"
+  },
+  "location": {
+    "lat": 41.054317,
+    "lng": -95.287148
+  },
+  "contact": {
+    "phone": "(712) 623-2199",
+    "website": "https://socaldrivingschool.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04aaa6c2-b80c-4c10-86c9-0c33dc4a460d",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

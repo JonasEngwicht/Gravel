@@ -1,0 +1,37 @@
+{
+  "id": "ar-springdale-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "3902 Kelley Ave",
+    "city": "Springdale",
+    "state": "AR",
+    "zip": "72762"
+  },
+  "location": {
+    "lat": 36.177891,
+    "lng": -94.173203
+  },
+  "contact": {
+    "phone": "(479) 927-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5cda4bab-5beb-43af-9072-882b544a1d9d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

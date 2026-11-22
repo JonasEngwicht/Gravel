@@ -1,0 +1,36 @@
+{
+  "id": "ky-brandenburg-outdoor-specialties-landscape-supply",
+  "slug": "outdoor-specialties-landscape-supply",
+  "name": "Outdoor Specialties Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1205 Armory Rd",
+    "city": "Brandenburg",
+    "state": "KY",
+    "zip": "40108"
+  },
+  "location": {
+    "lat": 37.983349,
+    "lng": -86.170288
+  },
+  "contact": {
+    "phone": "(270) 422-7700",
+    "website": "http://outdoorspecialties.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ca97487-92c6-4a6e-ae4f-2e15679f7888",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

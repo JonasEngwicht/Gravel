@@ -1,0 +1,36 @@
+{
+  "id": "co-fort-morgan-morgan-sand-and-gravel-inc",
+  "slug": "morgan-sand-and-gravel-inc",
+  "name": "Morgan Sand and Gravel INC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21215 Highway 52",
+    "city": "Fort Morgan",
+    "state": "CO",
+    "zip": "80701"
+  },
+  "location": {
+    "lat": 40.308155,
+    "lng": -103.80114
+  },
+  "contact": {
+    "phone": "(970) 867-8074",
+    "website": "http://morganreadymix.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7372a3e5-8754-469c-a6be-8568288a6c7e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

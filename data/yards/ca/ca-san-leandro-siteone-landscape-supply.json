@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-leandro-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2100 Davis St",
+    "city": "San Leandro",
+    "state": "CA",
+    "zip": "94577"
+  },
+  "location": {
+    "lat": 37.718174,
+    "lng": -122.185539
+  },
+  "contact": {
+    "phone": "(510) 562-1247",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "663397a4-22e3-40b1-9880-290bb963c560",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

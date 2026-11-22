@@ -1,0 +1,36 @@
+{
+  "id": "pa-elverson-black-lab-landscape-supply",
+  "slug": "black-lab-landscape-supply",
+  "name": "Black Lab Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "100 Warwick Rd",
+    "city": "Elverson",
+    "state": "PA",
+    "zip": "19520"
+  },
+  "location": {
+    "lat": 40.163486,
+    "lng": -75.775566
+  },
+  "contact": {
+    "phone": "(610) 924-2744",
+    "website": "http://www.blacklabsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9bcd649c-a110-47bd-b6d3-91a62c92432f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

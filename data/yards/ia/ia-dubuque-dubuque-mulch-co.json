@@ -1,0 +1,36 @@
+{
+  "id": "ia-dubuque-dubuque-mulch-co",
+  "slug": "dubuque-mulch-co",
+  "name": "Dubuque Mulch Co",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10492 Route 52 S",
+    "city": "Dubuque",
+    "state": "IA",
+    "zip": "52003"
+  },
+  "location": {
+    "lat": 42.447521,
+    "lng": -90.650452
+  },
+  "contact": {
+    "phone": "(563) 582-0587",
+    "website": "http://www.dubuquemulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7fb8d05e-e128-4edf-b744-14b24227852c",
+    "confidence": 0.988,
+    "merged_records": 1
+  }
+}

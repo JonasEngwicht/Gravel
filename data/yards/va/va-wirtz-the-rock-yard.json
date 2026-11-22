@@ -1,0 +1,36 @@
+{
+  "id": "va-wirtz-the-rock-yard",
+  "slug": "the-rock-yard",
+  "name": "The Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7074 Booker T Washington Hwy",
+    "city": "Wirtz",
+    "state": "VA",
+    "zip": "24184"
+  },
+  "location": {
+    "lat": 37.103146,
+    "lng": -79.81694
+  },
+  "contact": {
+    "phone": "(540) 488-4372",
+    "website": "http://www.therockyardva.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75dfa312-01e6-44af-9e4a-8695123ad45a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wi-sturgeon-bay-lily-bay-sand-and-gravel-llc",
+  "slug": "lily-bay-sand-and-gravel-llc",
+  "name": "Lily Bay Sand & Gravel Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1451 Clay Banks Rd",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "zip": "54235"
+  },
+  "location": {
+    "lat": 44.806435,
+    "lng": -87.362846
+  },
+  "contact": {
+    "phone": "(920) 743-2312",
+    "website": "https://www.lilybaysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dfae6d41-f6ff-470d-bd68-53450c734d09",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

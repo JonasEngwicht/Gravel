@@ -1,0 +1,35 @@
+{
+  "id": "nj-white-twp-bill-griffett-stone-and-gravel-supply",
+  "slug": "bill-griffett-stone-and-gravel-supply",
+  "name": "Bill Griffett Stone And Gravel Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "426 US-46",
+    "city": "White Twp",
+    "state": "NJ",
+    "zip": "07823"
+  },
+  "location": {
+    "lat": 40.835709,
+    "lng": -75.020935
+  },
+  "contact": {
+    "phone": "(908) 475-4670"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "67757350-53ba-4322-8f6d-c2669b9081b5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nh-west-lebanon-twin-state-sand-and-gravel-co-inc",
+  "slug": "twin-state-sand-and-gravel-co-inc",
+  "name": "Twin State Sand and Gravel Co., Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "73 Elm St W",
+    "city": "West Lebanon",
+    "state": "NH",
+    "zip": "03784"
+  },
+  "location": {
+    "lat": 43.638161,
+    "lng": -72.311073
+  },
+  "contact": {
+    "phone": "(603) 298-8705",
+    "website": "http://twinstatesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d37b5255-53ff-4ec6-b74e-f7ab81067177",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2700070",
+      "name": "Twin State Sand & Gravel Co., Inc.",
+      "operator": "Twin State Sand & Gravel Company Inc",
+      "status": "Abandoned",
+      "status_since": "2015-04-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

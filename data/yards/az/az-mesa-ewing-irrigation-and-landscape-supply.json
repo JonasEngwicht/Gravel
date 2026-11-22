@@ -1,0 +1,37 @@
+{
+  "id": "az-mesa-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "1921 S Horne",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85204"
+  },
+  "location": {
+    "lat": 33.380306,
+    "lng": -111.814217
+  },
+  "contact": {
+    "phone": "(480) 633-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c3ff89f-e965-4630-9fbf-603f6c14768e",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "or-canby-canby-landscape-supply",
+  "slug": "canby-landscape-supply",
+  "name": "Canby Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "24420 S Hwy 99 E",
+    "city": "Canby",
+    "state": "OR",
+    "zip": "97013"
+  },
+  "location": {
+    "lat": 45.253571,
+    "lng": -122.71376
+  },
+  "contact": {
+    "phone": "(503) 266-5522",
+    "website": "http://www.canbylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e76081b-040d-4af6-a546-3b17ffe07906",
+    "confidence": 0.99,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3500497",
+      "name": "Canby Sand & Gravel DBA CalPortland",
+      "operator": "CalPortland Company",
+      "status": "Active",
+      "status_since": "1991-08-22",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 6
+    },
+    {
+      "mine_id": "3503508",
+      "name": "Canby Pit",
+      "operator": "HM Pacific Northwest, Inc.",
+      "status": "Active",
+      "status_since": "2000-11-12",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

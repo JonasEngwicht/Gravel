@@ -1,0 +1,36 @@
+{
+  "id": "ct-west-haven-soundview-landscape-supply",
+  "slug": "soundview-landscape-supply",
+  "name": "Soundview Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "50 Industry Dr",
+    "city": "West Haven",
+    "state": "CT",
+    "zip": "06516"
+  },
+  "location": {
+    "lat": 41.289951,
+    "lng": -72.984909
+  },
+  "contact": {
+    "phone": "(203) 931-1230",
+    "website": "http://www.soundviewlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a06bd7f2-7b29-4df8-b173-36180105e1b6",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

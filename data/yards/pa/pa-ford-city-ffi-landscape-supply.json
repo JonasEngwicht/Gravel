@@ -1,0 +1,36 @@
+{
+  "id": "pa-ford-city-ffi-landscape-supply",
+  "slug": "ffi-landscape-supply",
+  "name": "FFI Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "347 Main St",
+    "city": "Ford City",
+    "state": "PA",
+    "zip": "16226"
+  },
+  "location": {
+    "lat": 40.766167,
+    "lng": -79.527489
+  },
+  "contact": {
+    "phone": "(724) 763-3000",
+    "website": "https://lenapegardencenter.godaddysites.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e01f7d0e-f19a-4ff3-9933-00f670ca53d5",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

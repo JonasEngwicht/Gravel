@@ -1,0 +1,36 @@
+{
+  "id": "oh-orrville-woodland-mulch",
+  "slug": "woodland-mulch",
+  "name": "Woodland Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2569 Kidron Rd",
+    "city": "Orrville",
+    "state": "OH",
+    "zip": "44667"
+  },
+  "location": {
+    "lat": 40.768127,
+    "lng": -81.745255
+  },
+  "contact": {
+    "phone": "(330) 857-1503",
+    "website": "http://www.woodlandmulchoh.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0214fb74-aa61-461f-b8a1-e560df2806cb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

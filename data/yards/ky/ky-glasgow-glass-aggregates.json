@@ -1,0 +1,35 @@
+{
+  "id": "ky-glasgow-glass-aggregates",
+  "slug": "glass-aggregates",
+  "name": "Glass Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2870 N Jackson Hwy",
+    "city": "Glasgow",
+    "state": "KY",
+    "zip": "42141"
+  },
+  "location": {
+    "lat": 37.033199,
+    "lng": -85.90406
+  },
+  "contact": {
+    "phone": "(270) 651-6645"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6623ef78-640f-4435-a302-219c7d3da994",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

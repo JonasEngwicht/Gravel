@@ -1,0 +1,48 @@
+{
+  "id": "wi-hartford-cedar-lake-sand-and-gravel-co",
+  "slug": "cedar-lake-sand-and-gravel-co",
+  "name": "Cedar Lake Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5189 Aurora Rd",
+    "city": "Hartford",
+    "state": "WI",
+    "zip": "53027"
+  },
+  "location": {
+    "lat": 43.381664,
+    "lng": -88.309875
+  },
+  "contact": {
+    "phone": "(262) 644-5125",
+    "website": "https://www.cedarlakestorage.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6136e00b-5caf-47e9-843e-307758a8662f",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4703376",
+      "name": "Portable Wash Plant 1",
+      "operator": "Cedar Lake Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2015-08-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

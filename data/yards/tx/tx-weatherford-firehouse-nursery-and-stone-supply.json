@@ -1,0 +1,36 @@
+{
+  "id": "tx-weatherford-firehouse-nursery-and-stone-supply",
+  "slug": "firehouse-nursery-and-stone-supply",
+  "name": "Firehouse Nursery & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3392 Mineral Wells Hwy",
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76088"
+  },
+  "location": {
+    "lat": 32.767658,
+    "lng": -97.861938
+  },
+  "contact": {
+    "phone": "(682) 333-4105",
+    "website": "http://www.firehouselandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b7a656c-fdf5-4118-a25c-d1c32e15e469",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

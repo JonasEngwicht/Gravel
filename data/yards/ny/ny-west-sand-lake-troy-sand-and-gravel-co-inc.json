@@ -1,0 +1,47 @@
+{
+  "id": "ny-west-sand-lake-troy-sand-and-gravel-co-inc",
+  "slug": "troy-sand-and-gravel-co-inc",
+  "name": "Troy Sand & Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "34 Grange Rd",
+    "city": "West Sand Lake",
+    "state": "NY",
+    "zip": "12196"
+  },
+  "location": {
+    "lat": 42.646912,
+    "lng": -73.598236
+  },
+  "contact": {
+    "phone": "(518) 674-2854"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f0bc40c-efcb-4d99-b8ee-4ccf1e43c675",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3000981",
+      "name": "West Sand Lake Pit & Mill",
+      "operator": "Troy Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2020-01-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

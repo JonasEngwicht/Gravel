@@ -1,0 +1,36 @@
+{
+  "id": "ar-norman-circle-s-ouachita-aggregates",
+  "slug": "circle-s-ouachita-aggregates",
+  "name": "Circle S Ouachita Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2770 Highway 8 W",
+    "city": "Norman",
+    "state": "AR",
+    "zip": "71960"
+  },
+  "location": {
+    "lat": 34.451813,
+    "lng": -93.78096
+  },
+  "contact": {
+    "phone": "(870) 681-4406",
+    "website": "http://circlesmine.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "16b10c34-aceb-4ff1-ada8-0263d6e31048",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

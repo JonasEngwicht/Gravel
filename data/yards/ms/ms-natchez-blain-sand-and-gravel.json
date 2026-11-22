@@ -1,0 +1,35 @@
+{
+  "id": "ms-natchez-blain-sand-and-gravel",
+  "slug": "blain-sand-and-gravel",
+  "name": "Blain Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "693 Highway 61 N",
+    "city": "Natchez",
+    "state": "MS",
+    "zip": "39120"
+  },
+  "location": {
+    "lat": 31.572498,
+    "lng": -91.321609
+  },
+  "contact": {
+    "phone": "(601) 442-4162"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ef14027-c8a7-4281-8dbc-23a74cded5bd",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "al-loxley-loxley-landscape-supply",
+  "slug": "loxley-landscape-supply",
+  "name": "Loxley LandScape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "17846 County Road 68",
+    "city": "Loxley",
+    "state": "AL",
+    "zip": "36551"
+  },
+  "location": {
+    "lat": 30.632877,
+    "lng": -87.719337
+  },
+  "contact": {
+    "phone": "(251) 504-5325",
+    "website": "http://LoxleyDirtPit.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a1495c9-9df6-4562-81fa-c73d2a65c217",
+    "confidence": 0.915,
+    "merged_records": 1
+  }
+}

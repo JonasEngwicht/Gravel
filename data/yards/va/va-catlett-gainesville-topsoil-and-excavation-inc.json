@@ -1,0 +1,36 @@
+{
+  "id": "va-catlett-gainesville-topsoil-and-excavation-inc",
+  "slug": "gainesville-topsoil-and-excavation-inc",
+  "name": "Gainesville Topsoil & Excavation, Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3328 Catlett Rd",
+    "city": "Catlett",
+    "state": "VA",
+    "zip": "20119"
+  },
+  "location": {
+    "lat": 38.665867,
+    "lng": -77.636116
+  },
+  "contact": {
+    "phone": "(703) 754-4523",
+    "website": "https://gainesvilletopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0033bfd0-c3f7-43d3-897c-bb7f836a4708",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "vt-vernon-vermont-mulch-co",
+  "slug": "vermont-mulch-co",
+  "name": "Vermont Mulch Co",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1367 Fort Bridgman Rd",
+    "city": "Vernon",
+    "state": "VT",
+    "zip": "05354"
+  },
+  "location": {
+    "lat": 42.789219,
+    "lng": -72.532127
+  },
+  "contact": {
+    "phone": "(802) 257-1300",
+    "website": "http://www.thevermontmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e222b942-ac2b-4bb7-b680-923b283f8b42",
+    "confidence": 0.908,
+    "merged_records": 1
+  }
+}

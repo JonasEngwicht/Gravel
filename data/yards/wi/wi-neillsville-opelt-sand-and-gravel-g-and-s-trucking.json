@@ -1,0 +1,35 @@
+{
+  "id": "wi-neillsville-opelt-sand-and-gravel-g-and-s-trucking",
+  "slug": "opelt-sand-and-gravel-g-and-s-trucking",
+  "name": "Opelt Sand & Gravel/G&S Trucking",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "N2179 Opelt Ave",
+    "city": "Neillsville",
+    "state": "WI",
+    "zip": "54456"
+  },
+  "location": {
+    "lat": 44.49469,
+    "lng": -90.65023
+  },
+  "contact": {
+    "phone": "(715) 743-3019"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e86b1701-8f44-4416-a291-40a58ce4329f",
+    "confidence": 0.536,
+    "merged_records": 1
+  }
+}

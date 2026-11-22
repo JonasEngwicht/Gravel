@@ -1,0 +1,35 @@
+{
+  "id": "oh-milan-milan-mulch-stone-and-supply",
+  "slug": "milan-mulch-stone-and-supply",
+  "name": "Milan Mulch, Stone & Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "21 N Main St",
+    "city": "Milan",
+    "state": "OH",
+    "zip": "44846"
+  },
+  "location": {
+    "lat": 41.299625,
+    "lng": -82.609253
+  },
+  "contact": {
+    "phone": "(419) 744-0281"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59b70cc9-6cd0-45c7-99eb-9158b0791585",
+    "confidence": 0.519,
+    "merged_records": 1
+  }
+}

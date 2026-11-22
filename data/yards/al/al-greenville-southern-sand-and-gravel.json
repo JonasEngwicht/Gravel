@@ -1,0 +1,35 @@
+{
+  "id": "al-greenville-southern-sand-and-gravel",
+  "slug": "southern-sand-and-gravel",
+  "name": "Southern Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "540 N Conecuh St",
+    "city": "Greenville",
+    "state": "AL",
+    "zip": "36037"
+  },
+  "location": {
+    "lat": 31.836313,
+    "lng": -86.616058
+  },
+  "contact": {
+    "phone": "(334) 382-3472"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e58ae7cb-f59e-4c92-8c6c-a05e8d7dfcec",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

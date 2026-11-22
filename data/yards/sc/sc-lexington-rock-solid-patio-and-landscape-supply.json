@@ -1,0 +1,36 @@
+{
+  "id": "sc-lexington-rock-solid-patio-and-landscape-supply",
+  "slug": "rock-solid-patio-and-landscape-supply",
+  "name": "Rock Solid Patio & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1530 N Lake Dr",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072"
+  },
+  "location": {
+    "lat": 34.026829,
+    "lng": -81.219681
+  },
+  "contact": {
+    "phone": "(803) 356-7625",
+    "website": "http://www.rocksolidhardscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bac601c7-a461-4d47-a7be-004ec09fe10d",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "pa-conneaut-lake-lakeland-aggregates-inc",
+  "slug": "lakeland-aggregates-inc",
+  "name": "Lakeland Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11203 Ellion Rd",
+    "city": "Conneaut Lake",
+    "state": "PA",
+    "zip": "16316"
+  },
+  "location": {
+    "lat": 41.61871,
+    "lng": -80.278168
+  },
+  "contact": {
+    "phone": "(814) 382-5345"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba0a43bc-eee7-42d7-8f19-ddc297313de8",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3603162",
+      "name": "Lakeland Aggregates",
+      "operator": "Lakeland Aggregates, Inc.",
+      "status": "Intermittent",
+      "status_since": "2013-02-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

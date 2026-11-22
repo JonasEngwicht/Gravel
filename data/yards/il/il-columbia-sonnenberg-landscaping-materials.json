@@ -1,0 +1,36 @@
+{
+  "id": "il-columbia-sonnenberg-landscaping-materials",
+  "slug": "sonnenberg-landscaping-materials",
+  "name": "Sonnenberg Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8526 Hanover Industrial Dr",
+    "city": "Columbia",
+    "state": "IL",
+    "zip": "62236"
+  },
+  "location": {
+    "lat": 38.390297,
+    "lng": -90.167641
+  },
+  "contact": {
+    "phone": "(618) 939-9121",
+    "website": "http://www.sonnenberglandscaping.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4ae1332-9581-44b8-a826-bef3801dbc78",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

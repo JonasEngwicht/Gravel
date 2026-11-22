@@ -1,0 +1,36 @@
+{
+  "id": "pa-allentown-valley-stone-supply",
+  "slug": "valley-stone-supply",
+  "name": "Valley Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1650 E Race St",
+    "city": "Allentown",
+    "state": "PA",
+    "zip": "18109"
+  },
+  "location": {
+    "lat": 40.659782,
+    "lng": -75.445206
+  },
+  "contact": {
+    "phone": "(610) 443-0190",
+    "website": "http://www.valleystonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62d377e1-d1e3-401a-a78a-5980b72e6f79",
+    "confidence": 0.955,
+    "merged_records": 1
+  }
+}

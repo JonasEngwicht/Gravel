@@ -1,0 +1,36 @@
+{
+  "id": "nd-mayville-krb-gravel",
+  "slug": "krb-gravel",
+  "name": "Krb Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "823 Main St W",
+    "city": "Mayville",
+    "state": "ND",
+    "zip": "58257"
+  },
+  "location": {
+    "lat": 47.497818,
+    "lng": -97.344818
+  },
+  "contact": {
+    "phone": "(701) 788-8927",
+    "website": "https://www.advancedgrainhandling.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7971e18-3a97-4c3c-b7c3-4d29255e2b0b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

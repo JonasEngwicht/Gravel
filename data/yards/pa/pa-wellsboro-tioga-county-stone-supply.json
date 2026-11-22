@@ -1,0 +1,35 @@
+{
+  "id": "pa-wellsboro-tioga-county-stone-supply",
+  "slug": "tioga-county-stone-supply",
+  "name": "Tioga County Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3016 Stony Fork Rd",
+    "city": "Wellsboro",
+    "state": "PA",
+    "zip": "16901"
+  },
+  "location": {
+    "lat": 41.667343,
+    "lng": -77.361671
+  },
+  "contact": {
+    "phone": "(570) 396-1745"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6732e9e7-a6de-4e59-99b2-a0b4a08f1151",
+    "confidence": 0.577,
+    "merged_records": 1
+  }
+}

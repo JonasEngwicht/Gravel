@@ -1,0 +1,36 @@
+{
+  "id": "il-willowbrook-tameling-s-landscape-supply",
+  "slug": "tameling-s-landscape-supply",
+  "name": "Tameling's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7500 S Madison St",
+    "city": "Willowbrook",
+    "state": "IL",
+    "zip": "60527"
+  },
+  "location": {
+    "lat": 41.753269,
+    "lng": -87.936218
+  },
+  "contact": {
+    "phone": "(630) 323-7171",
+    "website": "http://www.tamelings.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a5e5f43f-0ec1-4222-bf22-2c5a09aba149",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

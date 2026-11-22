@@ -1,0 +1,36 @@
+{
+  "id": "pa-lancaster-legacy-landscape-materials-inc",
+  "slug": "legacy-landscape-materials-inc",
+  "name": "Legacy Landscape Materials Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "743 Beaver Valley Pike",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17602"
+  },
+  "location": {
+    "lat": 39.982964,
+    "lng": -76.250565
+  },
+  "contact": {
+    "phone": "(717) 464-9633",
+    "website": "http://www.legacylandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc06b37f-9c2a-4116-b6e2-4e66c4fbe879",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

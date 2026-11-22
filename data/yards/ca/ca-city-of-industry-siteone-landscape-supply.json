@@ -1,0 +1,37 @@
+{
+  "id": "ca-city-of-industry-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "16025 Robin Way",
+    "city": "City Of Industry",
+    "state": "CA",
+    "zip": "91745"
+  },
+  "location": {
+    "lat": 34.010178,
+    "lng": -117.957108
+  },
+  "contact": {
+    "phone": "(626) 968-0047",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b2c8641-6b13-4295-bfba-78ed1b055ec5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

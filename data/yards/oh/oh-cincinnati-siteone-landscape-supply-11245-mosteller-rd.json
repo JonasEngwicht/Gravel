@@ -1,0 +1,37 @@
+{
+  "id": "oh-cincinnati-siteone-landscape-supply-11245-mosteller-rd",
+  "slug": "siteone-landscape-supply-11245-mosteller-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "11245 Mosteller Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45241"
+  },
+  "location": {
+    "lat": 39.275494,
+    "lng": -84.430794
+  },
+  "contact": {
+    "phone": "(513) 771-1056",
+    "website": "https://www.siteone.com/store/672"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f77a9ac7-e1fe-4eec-be03-ad6d450d6a0a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

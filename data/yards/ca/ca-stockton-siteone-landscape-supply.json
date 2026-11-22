@@ -1,0 +1,37 @@
+{
+  "id": "ca-stockton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1610 N Broadway Ave",
+    "city": "Stockton",
+    "state": "CA",
+    "zip": "95205"
+  },
+  "location": {
+    "lat": 37.978401,
+    "lng": -121.251381
+  },
+  "contact": {
+    "phone": "(209) 465-4082",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b36181b9-6531-468a-aebd-5498ce5b0ed6",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

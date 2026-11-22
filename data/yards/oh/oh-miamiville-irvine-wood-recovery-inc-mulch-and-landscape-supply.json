@@ -1,0 +1,36 @@
+{
+  "id": "oh-miamiville-irvine-wood-recovery-inc-mulch-and-landscape-supply",
+  "slug": "irvine-wood-recovery-inc-mulch-and-landscape-supply",
+  "name": "Irvine Wood Recovery Inc - Mulch & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "110 Glendale Milford Rd",
+    "city": "Miamiville",
+    "state": "OH",
+    "zip": "45147"
+  },
+  "location": {
+    "lat": 39.212002,
+    "lng": -84.294334
+  },
+  "contact": {
+    "phone": "(513) 831-0060",
+    "website": "http://www.irvinewoodrecovery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f55a5d1-f3b9-4016-8466-c8705874da4a",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

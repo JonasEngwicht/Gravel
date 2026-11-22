@@ -1,0 +1,48 @@
+{
+  "id": "pa-hopwood-coolspring-stone-supply",
+  "slug": "coolspring-stone-supply",
+  "name": "Coolspring Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1122 Coolspring Jumonville Rd",
+    "city": "Hopwood",
+    "state": "PA",
+    "zip": "15445"
+  },
+  "location": {
+    "lat": 39.897697,
+    "lng": -79.64595
+  },
+  "contact": {
+    "phone": "(724) 437-5200",
+    "website": "http://www.goldeneagleconstructionco.com/#!coolspring-stone-supply/c1x3x"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4dcfb423-86ab-4a0f-8d89-e9c287ab8f08",
+    "confidence": 0.634,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3600155",
+      "name": "Coolspring Mining Inc",
+      "operator": "Coolspring Stone Supply Inc",
+      "status": "Active",
+      "status_since": "2023-01-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 47
+    }
+  ]
+}

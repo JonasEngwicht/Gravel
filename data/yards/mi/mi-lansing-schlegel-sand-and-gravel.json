@@ -1,0 +1,36 @@
+{
+  "id": "mi-lansing-schlegel-sand-and-gravel",
+  "slug": "schlegel-sand-and-gravel",
+  "name": "Schlegel Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16527 Wood Rd",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48906"
+  },
+  "location": {
+    "lat": 42.775387,
+    "lng": -84.52243
+  },
+  "contact": {
+    "phone": "(517) 487-5961",
+    "website": "https://www.schlegelsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8983de30-bdb8-4350-b97d-3a3fe2a851b1",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nm-santa-fe-albert-montano-sand-and-gravel",
+  "slug": "albert-montano-sand-and-gravel",
+  "name": "Albert Montano Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4519 Agua Fria St",
+    "city": "Santa Fe",
+    "state": "NM",
+    "zip": "87507"
+  },
+  "location": {
+    "lat": 35.652916,
+    "lng": -106.029236
+  },
+  "contact": {
+    "phone": "(505) 989-7921",
+    "website": "http://www.montanosandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "158f481b-7eb5-4eaa-8c55-87127406029a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

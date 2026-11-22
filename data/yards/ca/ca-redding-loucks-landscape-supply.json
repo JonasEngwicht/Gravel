@@ -1,0 +1,36 @@
+{
+  "id": "ca-redding-loucks-landscape-supply",
+  "slug": "loucks-landscape-supply",
+  "name": "Loucks Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6023 Churn Crk Rd",
+    "city": "Redding",
+    "state": "CA",
+    "zip": "96002"
+  },
+  "location": {
+    "lat": 40.481415,
+    "lng": -122.294548
+  },
+  "contact": {
+    "phone": "(530) 378-2220",
+    "website": "http://www.lassenmaterial.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e30af7d1-ca88-4d0a-9377-c57de5219b32",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

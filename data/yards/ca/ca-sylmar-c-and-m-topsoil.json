@@ -1,0 +1,36 @@
+{
+  "id": "ca-sylmar-c-and-m-topsoil",
+  "slug": "c-and-m-topsoil",
+  "name": "C & M Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12101 Lopez Canyon Rd",
+    "city": "Sylmar",
+    "state": "CA",
+    "zip": "91342"
+  },
+  "location": {
+    "lat": 34.292934,
+    "lng": -118.400177
+  },
+  "contact": {
+    "phone": "(818) 899-5485",
+    "website": "http://cmtopsoils.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f9a8853-b9f9-4c64-b06b-dfd97bbcd382",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

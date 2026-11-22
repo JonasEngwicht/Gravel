@@ -1,0 +1,36 @@
+{
+  "id": "tx-lewisville-dfw-stone-supply",
+  "slug": "dfw-stone-supply",
+  "name": "DFW Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1057 TX-121 BUS",
+    "city": "Lewisville",
+    "state": "TX",
+    "zip": "75057"
+  },
+  "location": {
+    "lat": 33.045364,
+    "lng": -96.971199
+  },
+  "contact": {
+    "phone": "(972) 310-1234",
+    "website": "https://dfwstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e56b6c7a-c51d-4a32-912f-e46733f8c8ca",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

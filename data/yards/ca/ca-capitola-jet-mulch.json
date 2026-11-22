@@ -1,0 +1,35 @@
+{
+  "id": "ca-capitola-jet-mulch",
+  "slug": "jet-mulch",
+  "name": "Jet Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4245 Capitola Rd  # 20",
+    "city": "Capitola",
+    "state": "CA",
+    "zip": "95010"
+  },
+  "location": {
+    "lat": 36.97401,
+    "lng": -121.962234
+  },
+  "contact": {
+    "phone": "(866) 306-8524"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3105c843-3777-48ae-b697-4813b1a64df2",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

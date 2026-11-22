@@ -1,0 +1,36 @@
+{
+  "id": "tx-dallas-willie-s-stone-supply",
+  "slug": "willie-s-stone-supply",
+  "name": "Willie's Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "10528 Luna Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75220"
+  },
+  "location": {
+    "lat": 32.867805,
+    "lng": -96.919579
+  },
+  "contact": {
+    "phone": "(214) 339-3000",
+    "website": "http://www.williesstonesupply.com/index.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "283e07a7-b802-430a-b3b6-02e2ca1ca2f0",
+    "confidence": 0.503,
+    "merged_records": 1
+  }
+}

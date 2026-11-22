@@ -1,0 +1,36 @@
+{
+  "id": "sc-north-augusta-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "320 Edgefield Rd",
+    "city": "North Augusta",
+    "state": "SC",
+    "zip": "29841"
+  },
+  "location": {
+    "lat": 33.530041,
+    "lng": -81.947044
+  },
+  "contact": {
+    "phone": "(803) 278-4005",
+    "website": "http://www.scmulchandmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af6a4392-d764-4096-a85a-13f8bd26c70e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

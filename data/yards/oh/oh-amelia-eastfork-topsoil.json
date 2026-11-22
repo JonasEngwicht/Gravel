@@ -1,0 +1,35 @@
+{
+  "id": "oh-amelia-eastfork-topsoil",
+  "slug": "eastfork-topsoil",
+  "name": "Eastfork Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2093A OH-125",
+    "city": "Amelia",
+    "state": "OH",
+    "zip": "45102"
+  },
+  "location": {
+    "lat": 39.010208,
+    "lng": -84.178078
+  },
+  "contact": {
+    "phone": "(513) 797-4917"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ecf1bc2b-d90d-4dde-9930-56e8a4d41f4b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

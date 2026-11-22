@@ -1,0 +1,37 @@
+{
+  "id": "tx-college-station-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3312 State Highway 6 S",
+    "city": "College Station",
+    "state": "TX",
+    "zip": "77845"
+  },
+  "location": {
+    "lat": 30.592258,
+    "lng": -96.292816
+  },
+  "contact": {
+    "phone": "(979) 696-6443",
+    "website": "https://www.siteone.com/store/162"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "998b0824-08d5-4f28-af9c-e0ef241989a8",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

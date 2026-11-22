@@ -1,0 +1,36 @@
+{
+  "id": "ma-framingham-cornerstone-landscape-supplies",
+  "slug": "cornerstone-landscape-supplies",
+  "name": "Cornerstone Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "63 Morton St",
+    "city": "Framingham",
+    "state": "MA",
+    "zip": "01702"
+  },
+  "location": {
+    "lat": 42.278782,
+    "lng": -71.403008
+  },
+  "contact": {
+    "phone": "(508) 820-9700",
+    "website": "http://www.clsupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85808087-8570-435b-bdd7-094e25aa691d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-cumming-southern-landscape-supply",
+  "slug": "southern-landscape-supply",
+  "name": "Southern Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2235 Pendley Rd",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30041"
+  },
+  "location": {
+    "lat": 34.164238,
+    "lng": -84.160393
+  },
+  "contact": {
+    "phone": "(770) 205-9393",
+    "website": "https://www.southernlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b2770fa-4ff6-4c47-a8ba-9b595c77177e",
+    "confidence": 0.99,
+    "merged_records": 2
+  }
+}

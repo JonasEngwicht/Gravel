@@ -1,0 +1,37 @@
+{
+  "id": "ca-el-cajon-siteone-landscape-supply-13288-highway-8-business",
+  "slug": "siteone-landscape-supply-13288-highway-8-business",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "13288 Highway 8 Business",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92021"
+  },
+  "location": {
+    "lat": 32.832134,
+    "lng": -116.90612
+  },
+  "contact": {
+    "phone": "(619) 561-6003",
+    "website": "https://www.siteone.com/en/store/1039"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97d3c276-8a69-406e-806a-26cd9f92accb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

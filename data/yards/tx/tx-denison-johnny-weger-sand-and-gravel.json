@@ -1,0 +1,36 @@
+{
+  "id": "tx-denison-johnny-weger-sand-and-gravel",
+  "slug": "johnny-weger-sand-and-gravel",
+  "name": "Johnny Weger Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "309 E Crawford St",
+    "city": "Denison",
+    "state": "TX",
+    "zip": "75021"
+  },
+  "location": {
+    "lat": 33.753384,
+    "lng": -96.531738
+  },
+  "contact": {
+    "phone": "(903) 465-2445",
+    "website": "http://www.johnnywegersandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a885368b-f6c9-4540-b194-e4746bd113c0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

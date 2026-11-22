@@ -1,0 +1,36 @@
+{
+  "id": "mt-helena-helena-sand-and-gravel",
+  "slug": "helena-sand-and-gravel",
+  "name": "Helena Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2209 Airport Rd",
+    "city": "Helena",
+    "state": "MT",
+    "zip": "59601"
+  },
+  "location": {
+    "lat": 46.600777,
+    "lng": -112.002144
+  },
+  "contact": {
+    "phone": "(406) 442-1185",
+    "website": "http://helenasandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f2157077-0f48-4fd8-859d-ae88f44d5261",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

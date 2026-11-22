@@ -1,0 +1,37 @@
+{
+  "id": "fl-gainesville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2320 NW 71st Pl",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32653"
+  },
+  "location": {
+    "lat": 29.720051,
+    "lng": -82.35656
+  },
+  "contact": {
+    "phone": "(352) 371-8011",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0c62c66b-1002-4e2c-b2ca-e5cfb7fda95f",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

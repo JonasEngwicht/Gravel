@@ -1,0 +1,36 @@
+{
+  "id": "ct-bethany-nature-s-harvest-mulch-company-llc",
+  "slug": "nature-s-harvest-mulch-company-llc",
+  "name": "Nature's Harvest Mulch Company, LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "845 Carrington Rd",
+    "city": "Bethany",
+    "state": "CT",
+    "zip": "06524"
+  },
+  "location": {
+    "lat": 41.463348,
+    "lng": -72.967827
+  },
+  "contact": {
+    "phone": "(203) 758-3725",
+    "website": "http://naturesharvestmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9007fb3e-eb27-4299-b01b-611137001355",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

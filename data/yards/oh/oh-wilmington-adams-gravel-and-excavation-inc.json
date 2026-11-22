@@ -1,0 +1,35 @@
+{
+  "id": "oh-wilmington-adams-gravel-and-excavation-inc",
+  "slug": "adams-gravel-and-excavation-inc",
+  "name": "Adams Gravel & Excavation Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1479 OH-730",
+    "city": "Wilmington",
+    "state": "OH",
+    "zip": "45177"
+  },
+  "location": {
+    "lat": 39.431568,
+    "lng": -83.85112
+  },
+  "contact": {
+    "phone": "(937) 382-0436"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26da61d5-f498-4a73-a654-5644a30cb862",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}
