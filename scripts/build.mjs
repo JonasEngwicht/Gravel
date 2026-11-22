@@ -10,6 +10,7 @@ import { fileURLToPath } from 'node:url';
 import { coverage } from '../src/calc/core.js';
 import { SEITEN } from './seiten.mjs';
 import { ladeYards, verzeichnisSeiten, BASIS } from './verzeichnis.mjs';
+import { rechtlicheSeiten } from './rechtliches.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'public');
@@ -71,6 +72,7 @@ function fuss() {
   <p><strong>${esc(SITE.name)}</strong> – free calculators for mulch, gravel, stone and soil.</p>
   <nav aria-label="All calculators">${SEITEN.filter((s) => s.pfad !== '/').map((s) => `<a href="${s.pfad}">${esc(s.h1)}</a>`).join('')}<a href="${BASIS}">Landscape supply yards near you</a></nav>
   <p class="klein">Results are estimates based on typical material weights. Densities vary by supplier and moisture – confirm with your supplier before ordering.</p>
+  <nav class="recht" aria-label="Legal"><a href="/imprint/">Imprint</a><a href="/privacy/">Privacy</a><a href="mailto:${esc(SITE.operator.email)}">Contact</a></nav>
 </div></footer>
 <script type="module" src="/assets/app.js?v=${VERSION}"></script>
 </body>
@@ -188,6 +190,20 @@ for (const seite of SEITEN) {
   const ziel = join(OUT, seite.pfad, 'index.html');
   mkdirSync(dirname(ziel), { recursive: true });
   writeFileSync(ziel, seiteBauen(seite).replace(/<table>/g, '<div class="tabelle"><table>').replace(/<\/table>/g, '</table></div>'));
+}
+
+// Rechtliches: Imprint und Privacy Policy (noindex, nicht in der Sitemap)
+for (const r of rechtlicheSeiten(SITE, esc)) {
+  const ziel = join(OUT, r.pfad, 'index.html');
+  mkdirSync(dirname(ziel), { recursive: true });
+  writeFileSync(ziel, `${kopf({ ...r, noindex: true, ld: [] })}
+<main>
+<section class="held"><div class="breit"><h1>${esc(r.h1)}</h1><p class="unter">${esc(r.intro)}</p></div></section>
+<div class="breit"><article class="inhalt recht-text">
+${r.inhalt}
+</article></div>
+</main>
+${fuss()}`);
 }
 
 // Verzeichnis: Übersicht, Staaten, Städte, Unternehmen

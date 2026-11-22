@@ -287,6 +287,7 @@ ${fuss()}` });
     ${y.status === 'active' ? '<p class="klein"><strong>Verified listing.</strong></p>' : `<p class="klein">${ausMsha
       ? 'Listed from federal mine records (MSHA). Many pits and quarries sell mainly to contractors – call ahead to ask whether they serve homeowners.'
       : 'We have not verified this listing yet. Please call ahead to confirm materials, prices and opening hours.'}</p>`}
+    <p class="klein">Is this your business? <a href="mailto:${esc(SITE.operator?.email || '')}?subject=${encodeURIComponent(`Listing: ${y.name} (${y.id})`)}">Request a correction or removal</a>.</p>
   </div>
   <div class="betrieb-info">
     <h2>About</h2>
