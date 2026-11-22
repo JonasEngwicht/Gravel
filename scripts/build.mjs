@@ -66,10 +66,22 @@ function fuss() {
 </html>`;
 }
 
+// Zusatzinfos für die eigene Auswahlliste (static/auswahl.js): Farbfeld und eine Zeile Erklärung je Material
+const FARBEN = {
+  'hardwood-mulch': '#6b4423', 'pine-bark-mulch': '#8b5a2b', 'rubber-mulch': '#7a3428', 'pea-gravel': '#c9b79c',
+  'crushed-stone-57': '#8e8e8a', 'crusher-run': '#9d978d', 'river-rock': '#a08d79', 'landscape-rock': '#c7a27a',
+  'decomposed-granite': '#c49a6c', topsoil: '#3e2c1e', compost: '#2f2418', 'garden-soil': '#4a3526',
+  'fill-dirt': '#8a6a4a', 'masonry-sand': '#d9c49a', 'paver-sand': '#cdb88f', 'play-sand': '#eadbb5',
+};
+const VERKAUF = { cy: 'cubic yard', ton: 'ton', bag: 'bag' };
+const zoll = (d) => ({ 0.25: '¼', 0.5: '½' }[d] || d);
+const matInfo = (m) => `${zoll(m.depth_range_in[0])}–${zoll(m.depth_range_in[1])}″ deep · by the ${m.sold_by.map((x) => VERKAUF[x]).join(', ').replace(/, ([^,]*)$/, ' or $1')}`;
+const matExtras = (m) => ` data-farbe="${FARBEN[m.id] || '#9a8a78'}" data-info="${esc(matInfo(m))}"`;
+
 function rechner(seite) {
   const opt = MAT.categories.map((c) => `<optgroup label="${esc(c.label)}">${MAT.materials.filter((m) => m.category === c.id)
-    .map((m) => `<option value="${m.id}"${m.id === seite.material ? ' selected' : ''}>${esc(m.label)}</option>`).join('')}</optgroup>`).join('');
-  const proj = MAT.projects.map((p) => `<option value="${p.id}">${esc(p.label)}</option>`).join('');
+    .map((m) => `<option value="${m.id}"${matExtras(m)}${m.id === seite.material ? ' selected' : ''}>${esc(m.label)}</option>`).join('')}</optgroup>`).join('');
+  const proj = MAT.projects.map((p) => `<option value="${p.id}" data-farbe="${FARBEN[p.material] || ''}" data-info="${esc(`${matById[p.material].label}, ${zoll(p.depth_in)}″ deep`)}">${esc(p.label)}</option>`).join('');
   const m = matById[seite.material];
   const cfg = { material: seite.material, depth: seite.tiefe ?? m.default_depth_in, nurVolumen: !!seite.nurVolumen, shape: seite.form || 'rectangle', cta: !seite.eingebettet };
   return `<form class="rechner" id="rechner" novalidate data-cfg='${esc(JSON.stringify(cfg))}'>
@@ -300,7 +312,7 @@ const kacheln = (liste) => `<ul class="kacheln">${liste.map((s) => `<li><a href=
 function umrechnerForm(seite) {
   const m = matById[seite.material];
   const opt = MAT.categories.map((c) => `<optgroup label="${esc(c.label)}">${MAT.materials.filter((x) => x.category === c.id)
-    .map((x) => `<option value="${x.id}" data-t="${x.density_tons_per_cy}" data-min="${x.density_range[0]}" data-max="${x.density_range[1]}"${x.id === m.id ? ' selected' : ''}>${esc(x.label)}</option>`).join('')}</optgroup>`).join('');
+    .map((x) => `<option value="${x.id}" data-t="${x.density_tons_per_cy}" data-min="${x.density_range[0]}" data-max="${x.density_range[1]}" data-farbe="${FARBEN[x.id] || '#9a8a78'}" data-info="≈ ${x.density_tons_per_cy} tons per cubic yard"${x.id === m.id ? ' selected' : ''}>${esc(x.label)}</option>`).join('')}</optgroup>`).join('');
   return `<form class="rechner" id="umrechner" novalidate>
   <div class="spalten">
     <fieldset class="eingabe">
