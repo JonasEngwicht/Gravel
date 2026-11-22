@@ -1,0 +1,41 @@
+{
+  "id": "ak-fairbanks-university-redi-mix-primary-wash-plant",
+  "slug": "university-redi-mix-primary-wash-plant",
+  "name": "University Redi-Mix – Primary Wash Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fairbanks",
+    "state": "AK",
+    "zip": "99703"
+  },
+  "location": {
+    "lat": 64.797777,
+    "lng": -147.539166
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5000444"
+  },
+  "msha": [
+    {
+      "mine_id": "5000444",
+      "name": "Primary Wash Plant",
+      "operator": "University Redi-Mix",
+      "status": "Intermittent",
+      "status_since": "1988-06-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

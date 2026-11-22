@@ -1,0 +1,41 @@
+{
+  "id": "ok-thackerville-exit-5-sand-and-gravel",
+  "slug": "exit-5-sand-and-gravel",
+  "name": "Exit 5 Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Thackerville",
+    "state": "OK",
+    "zip": "73459"
+  },
+  "location": {
+    "lat": 33.793333,
+    "lng": -97.143056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401436"
+  },
+  "msha": [
+    {
+      "mine_id": "3401436",
+      "name": "Exit 5 Sand & Gravel",
+      "operator": "Exit 5 Sand & Gravel, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-04-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

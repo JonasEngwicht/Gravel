@@ -1,0 +1,41 @@
+{
+  "id": "vt-dummerston-derrig-excavating-simeon-pit",
+  "slug": "derrig-excavating-simeon-pit",
+  "name": "Derrig Excavating – Simeon Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Dummerston",
+    "state": "VT",
+    "zip": "03466"
+  },
+  "location": {
+    "lat": 42.916667,
+    "lng": -72.526389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300478"
+  },
+  "msha": [
+    {
+      "mine_id": "4300478",
+      "name": "Simeon Pit",
+      "operator": "Derrig Excavating Inc",
+      "status": "Intermittent",
+      "status_since": "2022-10-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

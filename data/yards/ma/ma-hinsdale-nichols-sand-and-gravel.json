@@ -1,0 +1,41 @@
+{
+  "id": "ma-hinsdale-nichols-sand-and-gravel",
+  "slug": "nichols-sand-and-gravel",
+  "name": "Nichols Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hinsdale",
+    "state": "MA",
+    "zip": "01235"
+  },
+  "location": {
+    "lat": 42.433333,
+    "lng": -73.116389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901187"
+  },
+  "msha": [
+    {
+      "mine_id": "1901187",
+      "name": "Pit 2",
+      "operator": "Nichols Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2009-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

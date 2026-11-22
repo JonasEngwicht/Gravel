@@ -1,0 +1,41 @@
+{
+  "id": "ar-star-city-southeast-gravel-smith-gravel-pit",
+  "slug": "southeast-gravel-smith-gravel-pit",
+  "name": "Southeast Gravel – Smith Gravel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Star City",
+    "state": "AR",
+    "zip": "71667"
+  },
+  "location": {
+    "lat": 33.897222,
+    "lng": -91.841389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301146"
+  },
+  "msha": [
+    {
+      "mine_id": "0301146",
+      "name": "Smith Gravel Pit",
+      "operator": "Southeast Gravel Company",
+      "status": "Active",
+      "status_since": "2024-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

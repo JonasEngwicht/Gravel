@@ -1,0 +1,41 @@
+{
+  "id": "tx-sullivan-terra-firma-materials-shorty-s-pit",
+  "slug": "terra-firma-materials-shorty-s-pit",
+  "name": "Terra Firma Materials – Shorty's Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sullivan",
+    "state": "TX",
+    "zip": "78565"
+  },
+  "location": {
+    "lat": 26.273333,
+    "lng": -98.594444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105782"
+  },
+  "msha": [
+    {
+      "mine_id": "4105782",
+      "name": "Shorty's Pit",
+      "operator": "Terra Firma Materials, L.L.C.",
+      "status": "Intermittent",
+      "status_since": "2025-02-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

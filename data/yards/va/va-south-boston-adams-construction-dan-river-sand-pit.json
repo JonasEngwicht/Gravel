@@ -1,0 +1,41 @@
+{
+  "id": "va-south-boston-adams-construction-dan-river-sand-pit",
+  "slug": "adams-construction-dan-river-sand-pit",
+  "name": "Adams Construction – Dan River Sand Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "South Boston",
+    "state": "VA",
+    "zip": "24592"
+  },
+  "location": {
+    "lat": 36.673889,
+    "lng": -78.958056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406967"
+  },
+  "msha": [
+    {
+      "mine_id": "4406967",
+      "name": "Dan River Sand Pit",
+      "operator": "Adams Construction Co",
+      "status": "Intermittent",
+      "status_since": "2025-11-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

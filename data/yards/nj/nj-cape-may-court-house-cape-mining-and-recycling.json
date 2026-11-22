@@ -1,0 +1,41 @@
+{
+  "id": "nj-cape-may-court-house-cape-mining-and-recycling",
+  "slug": "cape-mining-and-recycling",
+  "name": "Cape Mining and Recycling",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cape May Court House",
+    "state": "NJ",
+    "zip": "08210"
+  },
+  "location": {
+    "lat": 39.098889,
+    "lng": -74.833611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2801019"
+  },
+  "msha": [
+    {
+      "mine_id": "2801019",
+      "name": "Cape Mining and Recycling LLC",
+      "operator": "Cape Mining and Recycling LLC",
+      "status": "Intermittent",
+      "status_since": "2018-08-20",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-lagrange-lagrange-sand-supply",
+  "slug": "lagrange-sand-supply",
+  "name": "Lagrange Sand Supply",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lagrange",
+    "state": "TX",
+    "zip": "78945"
+  },
+  "location": {
+    "lat": 29.926944,
+    "lng": -96.940833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105622"
+  },
+  "msha": [
+    {
+      "mine_id": "4105622",
+      "name": "Lagrange Sand Supply",
+      "operator": "Lagrange Sand Supply",
+      "status": "Active",
+      "status_since": "2022-07-20",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wa-enumclaw-green-section-30-franklin-ridge-sand-and-gravel",
+  "slug": "green-section-30-franklin-ridge-sand-and-gravel",
+  "name": "Green Section 30 – Franklin Ridge Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98010"
+  },
+  "location": {
+    "lat": 47.277778,
+    "lng": -121.967778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503415"
+  },
+  "msha": [
+    {
+      "mine_id": "4503415",
+      "name": "Franklin Ridge Sand & Gravel",
+      "operator": "Green Section 30 LLC",
+      "status": "Active",
+      "status_since": "2018-01-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

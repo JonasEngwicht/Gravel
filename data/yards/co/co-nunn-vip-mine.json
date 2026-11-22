@@ -1,0 +1,41 @@
+{
+  "id": "co-nunn-vip-mine",
+  "slug": "vip-mine",
+  "name": "VIP Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Nunn",
+    "state": "CO",
+    "zip": "80650"
+  },
+  "location": {
+    "lat": 40.708889,
+    "lng": -104.781944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0505171"
+  },
+  "msha": [
+    {
+      "mine_id": "0505171",
+      "name": "VIP Mine",
+      "operator": "VIP Mine LLC",
+      "status": "Active",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

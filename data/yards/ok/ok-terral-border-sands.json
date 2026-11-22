@@ -1,0 +1,41 @@
+{
+  "id": "ok-terral-border-sands",
+  "slug": "border-sands",
+  "name": "Border Sands",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Terral",
+    "state": "OK",
+    "zip": "73565"
+  },
+  "location": {
+    "lat": 33.926111,
+    "lng": -97.956389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402192"
+  },
+  "msha": [
+    {
+      "mine_id": "3402192",
+      "name": "Border Sands, LLC",
+      "operator": "Border Sands, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-10-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

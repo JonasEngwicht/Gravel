@@ -1,0 +1,41 @@
+{
+  "id": "ia-ocheyedan-cemstone-products-ocheyedan-sand-and-gravel",
+  "slug": "cemstone-products-ocheyedan-sand-and-gravel",
+  "name": "Cemstone Products – Ocheyedan Sand &Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ocheyedan",
+    "state": "IA",
+    "zip": "51354"
+  },
+  "location": {
+    "lat": 43.386944,
+    "lng": -95.537222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300747"
+  },
+  "msha": [
+    {
+      "mine_id": "1300747",
+      "name": "Ocheyedan Sand &Gravel",
+      "operator": "Cemstone Products Company",
+      "status": "Active",
+      "status_since": "2026-10-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

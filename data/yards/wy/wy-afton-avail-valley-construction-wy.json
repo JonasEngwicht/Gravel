@@ -1,0 +1,41 @@
+{
+  "id": "wy-afton-avail-valley-construction-wy",
+  "slug": "avail-valley-construction-wy",
+  "name": "Avail Valley Construction-WY",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Afton",
+    "state": "WY",
+    "zip": "82935"
+  },
+  "location": {
+    "lat": 41.878056,
+    "lng": -109.819167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4801638"
+  },
+  "msha": [
+    {
+      "mine_id": "4801638",
+      "name": "Avail Valley Construction-WY LLC",
+      "operator": "Avail Valley Construction-WY, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-07-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

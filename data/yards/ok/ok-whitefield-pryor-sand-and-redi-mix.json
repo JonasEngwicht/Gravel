@@ -1,0 +1,41 @@
+{
+  "id": "ok-whitefield-pryor-sand-and-redi-mix",
+  "slug": "pryor-sand-and-redi-mix",
+  "name": "Pryor Sand & Redi-Mix",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Whitefield",
+    "state": "OK",
+    "zip": "74472"
+  },
+  "location": {
+    "lat": 35.2525,
+    "lng": -95.2375
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401027"
+  },
+  "msha": [
+    {
+      "mine_id": "3401027",
+      "name": "Pryor Sand & Redi Mix, Inc",
+      "operator": "Pryor Sand & Redi-Mix, Inc",
+      "status": "Active",
+      "status_since": "2021-04-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

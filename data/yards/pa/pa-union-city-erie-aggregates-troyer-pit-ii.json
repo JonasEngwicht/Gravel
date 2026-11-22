@@ -1,0 +1,41 @@
+{
+  "id": "pa-union-city-erie-aggregates-troyer-pit-ii",
+  "slug": "erie-aggregates-troyer-pit-ii",
+  "name": "Erie Aggregates – Troyer Pit II",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Union City",
+    "state": "PA",
+    "zip": "16438"
+  },
+  "location": {
+    "lat": 41.939722,
+    "lng": -79.892222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609606"
+  },
+  "msha": [
+    {
+      "mine_id": "3609606",
+      "name": "Troyer Pit II",
+      "operator": "Erie Aggregates Inc",
+      "status": "Intermittent",
+      "status_since": "2021-03-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

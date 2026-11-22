@@ -1,0 +1,41 @@
+{
+  "id": "mi-six-lakes-rockafellow-excavating-waterwheel-pit",
+  "slug": "rockafellow-excavating-waterwheel-pit",
+  "name": "Rockafellow Excavating – Waterwheel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Six Lakes",
+    "state": "MI",
+    "zip": "48886"
+  },
+  "location": {
+    "lat": 43.376037,
+    "lng": -85.181684
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003499"
+  },
+  "msha": [
+    {
+      "mine_id": "2003499",
+      "name": "Waterwheel Pit",
+      "operator": "Rockafellow Excavating LLC",
+      "status": "Intermittent",
+      "status_since": "2014-10-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

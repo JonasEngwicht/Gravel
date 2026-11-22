@@ -1,0 +1,41 @@
+{
+  "id": "sc-holly-hill-hutto-bros-properties",
+  "slug": "hutto-bros-properties",
+  "name": "Hutto Bros Properties",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Holly Hill",
+    "state": "SC",
+    "zip": "29059"
+  },
+  "location": {
+    "lat": 33.293889,
+    "lng": -80.414167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800743"
+  },
+  "msha": [
+    {
+      "mine_id": "3800743",
+      "name": "Hutto Mine",
+      "operator": "Hutto Bros Properties LLC",
+      "status": "Intermittent",
+      "status_since": "2018-10-23",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

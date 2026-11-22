@@ -1,0 +1,41 @@
+{
+  "id": "tx-big-spring-oncore-processing-oncore8",
+  "slug": "oncore-processing-oncore8",
+  "name": "OnCore Processing – OnCore8",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Big Spring",
+    "state": "TX",
+    "zip": "79720"
+  },
+  "location": {
+    "lat": 32.244167,
+    "lng": -101.462778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105750"
+  },
+  "msha": [
+    {
+      "mine_id": "4105750",
+      "name": "OnCore8",
+      "operator": "OnCore Processing LLC",
+      "status": "Active",
+      "status_since": "2026-01-20",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

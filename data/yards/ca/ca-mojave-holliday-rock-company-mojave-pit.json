@@ -1,0 +1,41 @@
+{
+  "id": "ca-mojave-holliday-rock-company-mojave-pit",
+  "slug": "holliday-rock-company-mojave-pit",
+  "name": "Holliday Rock Company – Mojave Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mojave",
+    "state": "CA",
+    "zip": "93560"
+  },
+  "location": {
+    "lat": 34.966111,
+    "lng": -118.256944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404665"
+  },
+  "msha": [
+    {
+      "mine_id": "0404665",
+      "name": "Mojave Pit",
+      "operator": "Holliday Rock Company Inc",
+      "status": "Active",
+      "status_since": "2021-10-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "al-lowndesboro-ferroglobe-usa-quartz-meadows",
+  "slug": "ferroglobe-usa-quartz-meadows",
+  "name": "Ferroglobe USA Quartz – Meadows",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lowndesboro",
+    "state": "AL",
+    "zip": "36752"
+  },
+  "location": {
+    "lat": 32.331111,
+    "lng": -86.6275
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103517"
+  },
+  "msha": [
+    {
+      "mine_id": "0103517",
+      "name": "Meadows",
+      "operator": "Ferroglobe USA Quartz INC",
+      "status": "Active",
+      "status_since": "2018-01-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fl-clermont-titan-florida-center-sand-company",
+  "slug": "titan-florida-center-sand-company",
+  "name": "Titan Florida – Center Sand Company",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Clermont",
+    "state": "FL",
+    "zip": "34787"
+  },
+  "location": {
+    "lat": 28.503611,
+    "lng": -81.686944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0800635"
+  },
+  "msha": [
+    {
+      "mine_id": "0800635",
+      "name": "Center Sand Company",
+      "operator": "Titan Florida LLC",
+      "status": "Active",
+      "status_since": "2009-02-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

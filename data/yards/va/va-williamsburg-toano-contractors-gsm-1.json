@@ -1,0 +1,41 @@
+{
+  "id": "va-williamsburg-toano-contractors-gsm-1",
+  "slug": "toano-contractors-gsm-1",
+  "name": "Toano Contractors – Gsm #1",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Williamsburg",
+    "state": "VA",
+    "zip": "23188"
+  },
+  "location": {
+    "lat": 37.341944,
+    "lng": -76.765556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4403539"
+  },
+  "msha": [
+    {
+      "mine_id": "4403539",
+      "name": "Gsm #1",
+      "operator": "Toano Contractors, Inc.",
+      "status": "Active",
+      "status_since": "2023-11-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

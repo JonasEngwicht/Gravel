@@ -1,0 +1,41 @@
+{
+  "id": "mi-delton-high-grade-materials-delton-pit",
+  "slug": "high-grade-materials-delton-pit",
+  "name": "High Grade Materials – Delton Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Delton",
+    "state": "MI",
+    "zip": "49046"
+  },
+  "location": {
+    "lat": 42.555556,
+    "lng": -85.435833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003548"
+  },
+  "msha": [
+    {
+      "mine_id": "2003548",
+      "name": "Delton Pit",
+      "operator": "High Grade Materials Co",
+      "status": "Active",
+      "status_since": "2019-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

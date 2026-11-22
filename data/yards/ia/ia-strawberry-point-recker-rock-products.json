@@ -1,0 +1,41 @@
+{
+  "id": "ia-strawberry-point-recker-rock-products",
+  "slug": "recker-rock-products",
+  "name": "Recker Rock Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Strawberry Point",
+    "state": "IA",
+    "zip": "52076"
+  },
+  "location": {
+    "lat": 42.6885,
+    "lng": -91.5276
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302515"
+  },
+  "msha": [
+    {
+      "mine_id": "1302515",
+      "name": "Recker Rock Products, LLC",
+      "operator": "Recker Rock Products, LLC",
+      "status": "Intermittent",
+      "status_since": "2024-10-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

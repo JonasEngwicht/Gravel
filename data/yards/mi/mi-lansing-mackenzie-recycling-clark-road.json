@@ -1,0 +1,41 @@
+{
+  "id": "mi-lansing-mackenzie-recycling-clark-road",
+  "slug": "mackenzie-recycling-clark-road",
+  "name": "MacKenzie Recycling – Clark Road",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48906"
+  },
+  "location": {
+    "lat": 42.813056,
+    "lng": -84.536111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003508"
+  },
+  "msha": [
+    {
+      "mine_id": "2003508",
+      "name": "Clark Road",
+      "operator": "MacKenzie Recycling Corp",
+      "status": "Active",
+      "status_since": "2021-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

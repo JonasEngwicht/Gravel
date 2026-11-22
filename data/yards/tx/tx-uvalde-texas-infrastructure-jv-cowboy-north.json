@@ -1,0 +1,41 @@
+{
+  "id": "tx-uvalde-texas-infrastructure-jv-cowboy-north",
+  "slug": "texas-infrastructure-jv-cowboy-north",
+  "name": "Texas Infrastructure JV – Cowboy North",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Uvalde",
+    "state": "TX",
+    "zip": "78801"
+  },
+  "location": {
+    "lat": 29.270278,
+    "lng": -99.993889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105863"
+  },
+  "msha": [
+    {
+      "mine_id": "4105863",
+      "name": "Cowboy North",
+      "operator": "Texas Infrastructure JV",
+      "status": "Intermittent",
+      "status_since": "2026-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 50
+    }
+  ]
+}

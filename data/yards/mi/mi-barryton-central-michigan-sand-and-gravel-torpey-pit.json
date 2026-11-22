@@ -1,0 +1,41 @@
+{
+  "id": "mi-barryton-central-michigan-sand-and-gravel-torpey-pit",
+  "slug": "central-michigan-sand-and-gravel-torpey-pit",
+  "name": "Central Michigan Sand and Gravel – Torpey Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Barryton",
+    "state": "MI",
+    "zip": "49631"
+  },
+  "location": {
+    "lat": 43.999722,
+    "lng": -85.249722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2002484"
+  },
+  "msha": [
+    {
+      "mine_id": "2002484",
+      "name": "Torpey Pit",
+      "operator": "Central Michigan Sand and Gravel",
+      "status": "Intermittent",
+      "status_since": "2022-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

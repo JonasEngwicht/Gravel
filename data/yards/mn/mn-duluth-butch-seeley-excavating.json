@@ -1,0 +1,41 @@
+{
+  "id": "mn-duluth-butch-seeley-excavating",
+  "slug": "butch-seeley-excavating",
+  "name": "Butch Seeley Excavating",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55804"
+  },
+  "location": {
+    "lat": 46.966944,
+    "lng": -91.991389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103926"
+  },
+  "msha": [
+    {
+      "mine_id": "2103926",
+      "name": "Seeley Pit",
+      "operator": "Butch Seeley Excavating",
+      "status": "Intermittent",
+      "status_since": "2018-07-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

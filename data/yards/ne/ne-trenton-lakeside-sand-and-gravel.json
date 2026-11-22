@@ -1,0 +1,41 @@
+{
+  "id": "ne-trenton-lakeside-sand-and-gravel",
+  "slug": "lakeside-sand-and-gravel",
+  "name": "Lakeside Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Trenton",
+    "state": "NE",
+    "zip": "69044"
+  },
+  "location": {
+    "lat": 40.175,
+    "lng": -101.03
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2501263"
+  },
+  "msha": [
+    {
+      "mine_id": "2501263",
+      "name": "Lakeside Mine",
+      "operator": "Lakeside Sand and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2023-04-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

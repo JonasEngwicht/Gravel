@@ -1,0 +1,41 @@
+{
+  "id": "il-lawrenceville-allendale-gravel-co-pinkstaff-plant",
+  "slug": "allendale-gravel-co-pinkstaff-plant",
+  "name": "Allendale Gravel Co – Pinkstaff Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lawrenceville",
+    "state": "IL",
+    "zip": "62439"
+  },
+  "location": {
+    "lat": 38.791667,
+    "lng": -87.6125
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102842"
+  },
+  "msha": [
+    {
+      "mine_id": "1102842",
+      "name": "Pinkstaff Plant",
+      "operator": "Allendale Gravel Co Inc",
+      "status": "Active",
+      "status_since": "2016-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

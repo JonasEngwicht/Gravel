@@ -1,0 +1,41 @@
+{
+  "id": "va-new-castle-titan-mid-atlantic-aggregates-new-castle-sand-plant",
+  "slug": "titan-mid-atlantic-aggregates-new-castle-sand-plant",
+  "name": "Titan Mid-Atlantic Aggregates – New Castle Sand Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "New Castle",
+    "state": "VA",
+    "zip": "24175"
+  },
+  "location": {
+    "lat": 37.538611,
+    "lng": -80.078333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4402402"
+  },
+  "msha": [
+    {
+      "mine_id": "4402402",
+      "name": "New Castle Sand Plant",
+      "operator": "Titan Mid-Atlantic Aggregates LLC",
+      "status": "Active",
+      "status_since": "1986-08-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

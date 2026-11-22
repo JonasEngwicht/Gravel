@@ -1,0 +1,41 @@
+{
+  "id": "ca-vina-franklin-construction-deer-creek-plant",
+  "slug": "franklin-construction-deer-creek-plant",
+  "name": "Franklin Construction – Deer Creek Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Vina",
+    "state": "CA",
+    "zip": "96092"
+  },
+  "location": {
+    "lat": 39.986944,
+    "lng": -122.026944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405331"
+  },
+  "msha": [
+    {
+      "mine_id": "0405331",
+      "name": "Deer Creek Plant",
+      "operator": "Franklin Construction Inc",
+      "status": "Intermittent",
+      "status_since": "2023-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

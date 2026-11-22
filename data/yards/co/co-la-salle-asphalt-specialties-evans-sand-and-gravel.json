@@ -1,0 +1,41 @@
+{
+  "id": "co-la-salle-asphalt-specialties-evans-sand-and-gravel",
+  "slug": "asphalt-specialties-evans-sand-and-gravel",
+  "name": "Asphalt Specialties – Evans Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "La Salle",
+    "state": "CO",
+    "zip": "80620"
+  },
+  "location": {
+    "lat": 40.350556,
+    "lng": -104.733056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0505204"
+  },
+  "msha": [
+    {
+      "mine_id": "0505204",
+      "name": "Evans Sand and Gravel",
+      "operator": "Asphalt Specialties Co.",
+      "status": "Active",
+      "status_since": "2026-09-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

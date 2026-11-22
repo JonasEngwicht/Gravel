@@ -1,0 +1,41 @@
+{
+  "id": "mn-aitkin-cemstone-products-aitkin-pit-087",
+  "slug": "cemstone-products-aitkin-pit-087",
+  "name": "Cemstone Products – Aitkin Pit 087",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Aitkin",
+    "state": "MN",
+    "zip": "56431"
+  },
+  "location": {
+    "lat": 46.533056,
+    "lng": -93.710278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2102413"
+  },
+  "msha": [
+    {
+      "mine_id": "2102413",
+      "name": "Aitkin Pit 087",
+      "operator": "Cemstone Products Company",
+      "status": "Intermittent",
+      "status_since": "1985-06-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

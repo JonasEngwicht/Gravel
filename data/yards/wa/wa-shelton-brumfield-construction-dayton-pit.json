@@ -1,0 +1,41 @@
+{
+  "id": "wa-shelton-brumfield-construction-dayton-pit",
+  "slug": "brumfield-construction-dayton-pit",
+  "name": "Brumfield Construction – Dayton Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584"
+  },
+  "location": {
+    "lat": 47.22,
+    "lng": -123.08
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503856"
+  },
+  "msha": [
+    {
+      "mine_id": "4503856",
+      "name": "Dayton Pit",
+      "operator": "Brumfield Construction Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-03-24",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

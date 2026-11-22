@@ -1,0 +1,41 @@
+{
+  "id": "tx-highlands-mineraltech-gulf-coast-abrasives",
+  "slug": "mineraltech-gulf-coast-abrasives",
+  "name": "MineralTech Gulf Coast Abrasives",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Highlands",
+    "state": "TX",
+    "zip": "77562"
+  },
+  "location": {
+    "lat": 29.818889,
+    "lng": -95.056111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103973"
+  },
+  "msha": [
+    {
+      "mine_id": "4103973",
+      "name": "MineralTech Gulf Coast Abrasives, LLC",
+      "operator": "MineralTech Gulf Coast Abrasives, LLC",
+      "status": "Active",
+      "status_since": "2020-03-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

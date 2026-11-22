@@ -1,0 +1,41 @@
+{
+  "id": "ar-ozark-ozark-aggregates",
+  "slug": "ozark-aggregates",
+  "name": "Ozark Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ozark",
+    "state": "AR",
+    "zip": "72821"
+  },
+  "location": {
+    "lat": 35.383889,
+    "lng": -93.777222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301787"
+  },
+  "msha": [
+    {
+      "mine_id": "0301787",
+      "name": "Ozark Aggregates L.L.C.",
+      "operator": "Ozark Aggregates L.L.C.",
+      "status": "Intermittent",
+      "status_since": "2025-10-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

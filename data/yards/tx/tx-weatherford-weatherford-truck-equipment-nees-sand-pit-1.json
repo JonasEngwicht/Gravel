@@ -1,0 +1,41 @@
+{
+  "id": "tx-weatherford-weatherford-truck-equipment-nees-sand-pit-1",
+  "slug": "weatherford-truck-equipment-nees-sand-pit-1",
+  "name": "Weatherford Truck Equipment – Nees sand pit #1",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76086"
+  },
+  "location": {
+    "lat": 32.735833,
+    "lng": -97.859722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105623"
+  },
+  "msha": [
+    {
+      "mine_id": "4105623",
+      "name": "Nees sand pit #1",
+      "operator": "Weatherford Truck Equipment",
+      "status": "Intermittent",
+      "status_since": "2022-11-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

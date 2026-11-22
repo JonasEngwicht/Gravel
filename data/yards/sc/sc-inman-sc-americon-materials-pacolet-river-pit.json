@@ -1,0 +1,41 @@
+{
+  "id": "sc-inman-sc-americon-materials-pacolet-river-pit",
+  "slug": "americon-materials-pacolet-river-pit",
+  "name": "Americon Materials – Pacolet River Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Inman Sc",
+    "state": "SC",
+    "zip": "29338"
+  },
+  "location": {
+    "lat": 35.164167,
+    "lng": -82.0025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800746"
+  },
+  "msha": [
+    {
+      "mine_id": "3800746",
+      "name": "Pacolet River Pit",
+      "operator": "Americon Materials",
+      "status": "Intermittent",
+      "status_since": "2026-05-18",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

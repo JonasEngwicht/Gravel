@@ -1,0 +1,41 @@
+{
+  "id": "ga-douglasville-south-fulton-sand-and-supply",
+  "slug": "south-fulton-sand-and-supply",
+  "name": "South Fulton Sand and Supply",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Douglasville",
+    "state": "GA",
+    "zip": "30134"
+  },
+  "location": {
+    "lat": 33.790359,
+    "lng": -84.819037
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901231"
+  },
+  "msha": [
+    {
+      "mine_id": "0901231",
+      "name": "South Fulton Sand and Supply, LLC.",
+      "operator": "South Fulton Sand and Supply, LLC.",
+      "status": "Active",
+      "status_since": "2014-10-02",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

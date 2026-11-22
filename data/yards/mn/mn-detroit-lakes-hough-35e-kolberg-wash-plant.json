@@ -1,0 +1,41 @@
+{
+  "id": "mn-detroit-lakes-hough-35e-kolberg-wash-plant",
+  "slug": "hough-35e-kolberg-wash-plant",
+  "name": "Hough – 35E Kolberg Wash Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Detroit Lakes",
+    "state": "MN",
+    "zip": "56501"
+  },
+  "location": {
+    "lat": 46.838056,
+    "lng": -95.8675
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2104074"
+  },
+  "msha": [
+    {
+      "mine_id": "2104074",
+      "name": "35E Kolberg Wash Plant",
+      "operator": "Hough Inc",
+      "status": "Intermittent",
+      "status_since": "2024-09-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-orr-udovich-enterprises-udovich-nett-lake-pit",
+  "slug": "udovich-enterprises-udovich-nett-lake-pit",
+  "name": "Udovich Enterprises – Udovich Nett Lake Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Orr",
+    "state": "MN",
+    "zip": "55771"
+  },
+  "location": {
+    "lat": 48.033389,
+    "lng": -92.950194
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2104125"
+  },
+  "msha": [
+    {
+      "mine_id": "2104125",
+      "name": "Udovich Nett Lake Pit",
+      "operator": "Udovich Enterprises LLC",
+      "status": "Intermittent",
+      "status_since": "2026-07-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

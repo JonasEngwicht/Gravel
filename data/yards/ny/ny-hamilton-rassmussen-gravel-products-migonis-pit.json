@@ -1,0 +1,41 @@
+{
+  "id": "ny-hamilton-rassmussen-gravel-products-migonis-pit",
+  "slug": "rassmussen-gravel-products-migonis-pit",
+  "name": "Rassmussen Gravel Products – Migonis Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hamilton",
+    "state": "NY",
+    "zip": "13346"
+  },
+  "location": {
+    "lat": 42.838333,
+    "lng": -75.565556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004114"
+  },
+  "msha": [
+    {
+      "mine_id": "3004114",
+      "name": "Migonis Pit",
+      "operator": "Rassmussen Gravel Products LLC",
+      "status": "Intermittent",
+      "status_since": "2023-08-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

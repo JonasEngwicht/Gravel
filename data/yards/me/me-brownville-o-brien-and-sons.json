@@ -1,0 +1,41 @@
+{
+  "id": "me-brownville-o-brien-and-sons",
+  "slug": "o-brien-and-sons",
+  "name": "O'Brien & Sons",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Brownville",
+    "state": "ME",
+    "zip": "04463"
+  },
+  "location": {
+    "lat": 45.274722,
+    "lng": -69.001944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700968"
+  },
+  "msha": [
+    {
+      "mine_id": "1700968",
+      "name": "O'Brien & Sons",
+      "operator": "O'Brien & Sons",
+      "status": "Intermittent",
+      "status_since": "2023-10-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

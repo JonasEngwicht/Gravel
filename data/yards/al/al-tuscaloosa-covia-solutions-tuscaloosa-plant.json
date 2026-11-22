@@ -1,0 +1,41 @@
+{
+  "id": "al-tuscaloosa-covia-solutions-tuscaloosa-plant",
+  "slug": "covia-solutions-tuscaloosa-plant",
+  "name": "Covia Solutions – Tuscaloosa Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Tuscaloosa",
+    "state": "AL",
+    "zip": "35405"
+  },
+  "location": {
+    "lat": 33.141111,
+    "lng": -87.563611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0100697"
+  },
+  "msha": [
+    {
+      "mine_id": "0100697",
+      "name": "Tuscaloosa Plant",
+      "operator": "Covia Solutions Llc",
+      "status": "Active",
+      "status_since": "1984-12-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

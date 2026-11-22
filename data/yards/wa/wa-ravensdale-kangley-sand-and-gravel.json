@@ -1,0 +1,41 @@
+{
+  "id": "wa-ravensdale-kangley-sand-and-gravel",
+  "slug": "kangley-sand-and-gravel",
+  "name": "Kangley Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ravensdale",
+    "state": "WA",
+    "zip": "98051"
+  },
+  "location": {
+    "lat": 47.358056,
+    "lng": -121.911111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4501994"
+  },
+  "msha": [
+    {
+      "mine_id": "4501994",
+      "name": "Kangley Pit",
+      "operator": "Kangley Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-06-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ks-lakin-klotz-sand-co",
+  "slug": "klotz-sand-co",
+  "name": "Klotz Sand Co",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lakin",
+    "state": "KS",
+    "zip": "67860"
+  },
+  "location": {
+    "lat": 37.940556,
+    "lng": -101.255
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401571"
+  },
+  "msha": [
+    {
+      "mine_id": "1401571",
+      "name": "Klotz Sand Co., Inc.",
+      "operator": "Klotz Sand Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

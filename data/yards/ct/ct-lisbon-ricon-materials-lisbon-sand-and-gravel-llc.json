@@ -1,0 +1,41 @@
+{
+  "id": "ct-lisbon-ricon-materials-lisbon-sand-and-gravel-llc",
+  "slug": "ricon-materials-lisbon-sand-and-gravel-llc",
+  "name": "Ricon Materials – Lisbon Sand & Gravel LLC",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lisbon",
+    "state": "CT",
+    "zip": "06350"
+  },
+  "location": {
+    "lat": 41.635833,
+    "lng": -71.996389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600857"
+  },
+  "msha": [
+    {
+      "mine_id": "0600857",
+      "name": "Lisbon Sand & Gravel LLC",
+      "operator": "Ricon Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2026-07-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

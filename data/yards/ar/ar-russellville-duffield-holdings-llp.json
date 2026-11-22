@@ -1,0 +1,41 @@
+{
+  "id": "ar-russellville-duffield-holdings-llp",
+  "slug": "duffield-holdings-llp",
+  "name": "Duffield Holdings, LLP",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Russellville",
+    "state": "AR",
+    "zip": "72801"
+  },
+  "location": {
+    "lat": 35.218056,
+    "lng": -93.139167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0300911"
+  },
+  "msha": [
+    {
+      "mine_id": "0300911",
+      "name": "Duffield Holdings Materials",
+      "operator": "Duffield Holdings, LLP",
+      "status": "Active",
+      "status_since": "2024-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

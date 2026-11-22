@@ -1,0 +1,41 @@
+{
+  "id": "ct-preston-the-lynn-corporation-c-o-barron",
+  "slug": "the-lynn-corporation-c-o-barron",
+  "name": "The Lynn Corporation C/O BARRON",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Preston",
+    "state": "CT",
+    "zip": "06351"
+  },
+  "location": {
+    "lat": 41.565556,
+    "lng": -71.976389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600774"
+  },
+  "msha": [
+    {
+      "mine_id": "0600774",
+      "name": "N.H.D. Pit",
+      "operator": "The Lynn Corporation C/O BARRON",
+      "status": "Intermittent",
+      "status_since": "2014-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

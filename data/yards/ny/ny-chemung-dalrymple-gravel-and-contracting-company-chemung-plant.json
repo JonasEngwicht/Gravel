@@ -1,0 +1,41 @@
+{
+  "id": "ny-chemung-dalrymple-gravel-and-contracting-company-chemung-plant",
+  "slug": "dalrymple-gravel-and-contracting-company-chemung-plant",
+  "name": "Dalrymple Gravel & Contracting Company – Chemung Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Chemung",
+    "state": "NY",
+    "zip": "18840"
+  },
+  "location": {
+    "lat": 42.0025,
+    "lng": -76.623611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001341"
+  },
+  "msha": [
+    {
+      "mine_id": "3001341",
+      "name": "Chemung Plant",
+      "operator": "Dalrymple Gravel & Contracting Company Inc",
+      "status": "Intermittent",
+      "status_since": "2022-05-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

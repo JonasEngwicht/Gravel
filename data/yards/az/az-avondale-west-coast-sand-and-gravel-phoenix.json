@@ -1,0 +1,41 @@
+{
+  "id": "az-avondale-west-coast-sand-and-gravel-phoenix",
+  "slug": "west-coast-sand-and-gravel-phoenix",
+  "name": "West Coast Sand & Gravel – Phoenix",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Avondale",
+    "state": "AZ",
+    "zip": "85323"
+  },
+  "location": {
+    "lat": 33.433056,
+    "lng": -112.327778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203313"
+  },
+  "msha": [
+    {
+      "mine_id": "0203313",
+      "name": "Phoenix",
+      "operator": "West Coast Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2014-05-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nc-grifton-sustainable-land-use-grifton-nc-sand-and-gravel",
+  "slug": "sustainable-land-use-grifton-nc-sand-and-gravel",
+  "name": "Sustainable Land Use – Grifton-NC Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Grifton",
+    "state": "NC",
+    "zip": "28530"
+  },
+  "location": {
+    "lat": 35.344677,
+    "lng": -77.419243
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102359"
+  },
+  "msha": [
+    {
+      "mine_id": "3102359",
+      "name": "Grifton-NC Sand & Gravel",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Active",
+      "status_since": "2024-04-08",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

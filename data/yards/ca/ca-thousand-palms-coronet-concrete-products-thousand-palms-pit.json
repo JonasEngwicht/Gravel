@@ -1,0 +1,41 @@
+{
+  "id": "ca-thousand-palms-coronet-concrete-products-thousand-palms-pit",
+  "slug": "coronet-concrete-products-thousand-palms-pit",
+  "name": "Coronet Concrete Products – Thousand Palms Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Thousand Palms",
+    "state": "CA",
+    "zip": "92276"
+  },
+  "location": {
+    "lat": 33.845556,
+    "lng": -116.405
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404807"
+  },
+  "msha": [
+    {
+      "mine_id": "0404807",
+      "name": "Thousand Palms Pit",
+      "operator": "Coronet Concrete Products",
+      "status": "Active",
+      "status_since": "2019-09-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-gatesville-l3-construction",
+  "slug": "l3-construction",
+  "name": "L3 Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gatesville",
+    "state": "TX",
+    "zip": "76528"
+  },
+  "location": {
+    "lat": 31.4217,
+    "lng": -97.74
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105673"
+  },
+  "msha": [
+    {
+      "mine_id": "4105673",
+      "name": "L3 Construction",
+      "operator": "L3 Construction, LLC",
+      "status": "Intermittent",
+      "status_since": "2023-06-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ut-kanab-kanab-coal-and-rock-products-skutumpah-pit",
+  "slug": "kanab-coal-and-rock-products-skutumpah-pit",
+  "name": "Kanab Coal & Rock Products – Skutumpah Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Kanab",
+    "state": "UT",
+    "zip": "84718"
+  },
+  "location": {
+    "lat": 37.393889,
+    "lng": -112.184167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202770"
+  },
+  "msha": [
+    {
+      "mine_id": "4202770",
+      "name": "Skutumpah Pit",
+      "operator": "Kanab Coal & Rock Products LLC",
+      "status": "Intermittent",
+      "status_since": "2025-02-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

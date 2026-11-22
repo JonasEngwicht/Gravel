@@ -1,0 +1,41 @@
+{
+  "id": "me-milo-haley-s-milo-pit",
+  "slug": "haley-s-milo-pit",
+  "name": "Haley's Milo Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Milo",
+    "state": "ME",
+    "zip": "04481"
+  },
+  "location": {
+    "lat": 45.280556,
+    "lng": -69.008889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701052"
+  },
+  "msha": [
+    {
+      "mine_id": "1701052",
+      "name": "Haley's Milo Pit",
+      "operator": "Haley's Inc.",
+      "status": "Intermittent",
+      "status_since": "2021-07-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

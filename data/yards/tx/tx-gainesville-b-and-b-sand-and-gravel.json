@@ -1,0 +1,41 @@
+{
+  "id": "tx-gainesville-b-and-b-sand-and-gravel",
+  "slug": "b-and-b-sand-and-gravel",
+  "name": "B&B Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gainesville",
+    "state": "TX",
+    "zip": "73448"
+  },
+  "location": {
+    "lat": 33.901389,
+    "lng": -97.210833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105256"
+  },
+  "msha": [
+    {
+      "mine_id": "4105256",
+      "name": "B&B Sand",
+      "operator": "B&B Sand and Gravel Inc.",
+      "status": "Active",
+      "status_since": "2018-01-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ms-gulport-newell-sand-and-gravel",
+  "slug": "newell-sand-and-gravel",
+  "name": "Newell Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gulport",
+    "state": "MS",
+    "zip": "39571"
+  },
+  "location": {
+    "lat": 30.459167,
+    "lng": -89.230278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200600"
+  },
+  "msha": [
+    {
+      "mine_id": "2200600",
+      "name": "Newell Sand & Gravel",
+      "operator": "Newell Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2009-03-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

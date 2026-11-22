@@ -1,0 +1,41 @@
+{
+  "id": "in-wolcottville-clifford-aggregate-incorporated-so-milford-pit",
+  "slug": "clifford-aggregate-incorporated-so-milford-pit",
+  "name": "Clifford Aggregate Incorporated – So. Milford Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Wolcottville",
+    "state": "IN",
+    "zip": "46795"
+  },
+  "location": {
+    "lat": 41.585278,
+    "lng": -85.29
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202115"
+  },
+  "msha": [
+    {
+      "mine_id": "1202115",
+      "name": "So. Milford Pit",
+      "operator": "Clifford Aggregate Incorporated",
+      "status": "Active",
+      "status_since": "2011-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

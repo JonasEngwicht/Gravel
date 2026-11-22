@@ -1,0 +1,41 @@
+{
+  "id": "ut-roosevelt-wildcat-sand",
+  "slug": "wildcat-sand",
+  "name": "Wildcat Sand",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Roosevelt",
+    "state": "UT",
+    "zip": "84026"
+  },
+  "location": {
+    "lat": 40.224444,
+    "lng": -109.901667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202722"
+  },
+  "msha": [
+    {
+      "mine_id": "4202722",
+      "name": "Wildcat sand plant",
+      "operator": "Wildcat Sand LLC",
+      "status": "Active",
+      "status_since": "2022-08-08",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

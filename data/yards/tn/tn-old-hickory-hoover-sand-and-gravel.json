@@ -1,0 +1,41 @@
+{
+  "id": "tn-old-hickory-hoover-sand-and-gravel",
+  "slug": "hoover-sand-and-gravel",
+  "name": "Hoover Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Old Hickory",
+    "state": "TN",
+    "zip": "37115"
+  },
+  "location": {
+    "lat": 36.28,
+    "lng": -86.665556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003540"
+  },
+  "msha": [
+    {
+      "mine_id": "4003540",
+      "name": "Hoover Sand and Gravel, LLC",
+      "operator": "Hoover Sand and Gravel, LLC",
+      "status": "Active",
+      "status_since": "2020-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

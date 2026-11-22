@@ -1,0 +1,41 @@
+{
+  "id": "nj-woodbine-tuckahoe-sand-and-gravel",
+  "slug": "tuckahoe-sand-and-gravel",
+  "name": "Tuckahoe Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Woodbine",
+    "state": "NJ",
+    "zip": "08270"
+  },
+  "location": {
+    "lat": 39.289722,
+    "lng": -74.740556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800558"
+  },
+  "msha": [
+    {
+      "mine_id": "2800558",
+      "name": "Tuckahoe Sand And Gravel",
+      "operator": "Tuckahoe Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "1979-07-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pr-ciales-logistic-aggregates",
+  "slug": "logistic-aggregates",
+  "name": "Logistic Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ciales",
+    "state": "PR",
+    "zip": "00720"
+  },
+  "location": {
+    "lat": 18.231389,
+    "lng": -66.394167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400515"
+  },
+  "msha": [
+    {
+      "mine_id": "5400515",
+      "name": "Logistic Aggregates Llc.",
+      "operator": "Logistic Aggregates Llc.",
+      "status": "Active",
+      "status_since": "2025-09-25",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

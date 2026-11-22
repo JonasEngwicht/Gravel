@@ -1,0 +1,41 @@
+{
+  "id": "fl-clewiston-garcia-833-mine",
+  "slug": "garcia-833-mine",
+  "name": "Garcia 833 Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Clewiston",
+    "state": "FL",
+    "zip": "33440"
+  },
+  "location": {
+    "lat": 26.634167,
+    "lng": -80.996944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801427"
+  },
+  "msha": [
+    {
+      "mine_id": "0801427",
+      "name": "Garcia 833 Mine",
+      "operator": "Garcia Mining Company LLC",
+      "status": "Active",
+      "status_since": "2019-11-22",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

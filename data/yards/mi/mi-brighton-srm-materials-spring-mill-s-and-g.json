@@ -1,0 +1,41 @@
+{
+  "id": "mi-brighton-srm-materials-spring-mill-s-and-g",
+  "slug": "srm-materials-spring-mill-s-and-g",
+  "name": "SRM Materials – Spring Mill S&G",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Brighton",
+    "state": "MI",
+    "zip": "48116"
+  },
+  "location": {
+    "lat": 42.490278,
+    "lng": -83.708889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003569"
+  },
+  "msha": [
+    {
+      "mine_id": "2003569",
+      "name": "Spring Mill S&G",
+      "operator": "SRM Materials, LLC",
+      "status": "Active",
+      "status_since": "2020-09-03",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

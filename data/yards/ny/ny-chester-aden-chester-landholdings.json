@@ -1,0 +1,41 @@
+{
+  "id": "ny-chester-aden-chester-landholdings",
+  "slug": "aden-chester-landholdings",
+  "name": "Aden Chester Landholdings",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Chester",
+    "state": "NY",
+    "zip": "10918"
+  },
+  "location": {
+    "lat": 41.344444,
+    "lng": -74.281389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004152"
+  },
+  "msha": [
+    {
+      "mine_id": "3004152",
+      "name": "Aden Chester Landholdings",
+      "operator": "Aden Chester Landholdings Llc",
+      "status": "Intermittent",
+      "status_since": "2025-07-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

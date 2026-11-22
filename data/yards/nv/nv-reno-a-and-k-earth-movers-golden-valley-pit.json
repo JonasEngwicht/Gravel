@@ -1,0 +1,41 @@
+{
+  "id": "nv-reno-a-and-k-earth-movers-golden-valley-pit",
+  "slug": "a-and-k-earth-movers-golden-valley-pit",
+  "name": "A & K Earth Movers – Golden Valley Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Reno",
+    "state": "NV",
+    "zip": "89433"
+  },
+  "location": {
+    "lat": 39.619722,
+    "lng": -119.809167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602452"
+  },
+  "msha": [
+    {
+      "mine_id": "2602452",
+      "name": "Golden Valley Pit",
+      "operator": "A & K Earth Movers Inc",
+      "status": "Intermittent",
+      "status_since": "2023-08-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

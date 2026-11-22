@@ -1,0 +1,41 @@
+{
+  "id": "tx-crockett-holsey-mining-knox-plant",
+  "slug": "holsey-mining-knox-plant",
+  "name": "Holsey Mining – Knox Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Crockett",
+    "state": "TX",
+    "zip": "75835"
+  },
+  "location": {
+    "lat": 31.331111,
+    "lng": -95.625
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104039"
+  },
+  "msha": [
+    {
+      "mine_id": "4104039",
+      "name": "Knox Plant",
+      "operator": "Holsey Mining Inc.",
+      "status": "Active",
+      "status_since": "1998-11-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

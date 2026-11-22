@@ -1,0 +1,41 @@
+{
+  "id": "oh-hillsboro-ervin-hill-enterprises",
+  "slug": "ervin-hill-enterprises",
+  "name": "Ervin Hill Enterprises",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hillsboro",
+    "state": "OH",
+    "zip": "45133"
+  },
+  "location": {
+    "lat": 39.176111,
+    "lng": -83.641944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304527"
+  },
+  "msha": [
+    {
+      "mine_id": "3304527",
+      "name": "Ervin Hill Enterprises Inc",
+      "operator": "Ervin Hill Enterprises Inc",
+      "status": "Active",
+      "status_since": "2023-05-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

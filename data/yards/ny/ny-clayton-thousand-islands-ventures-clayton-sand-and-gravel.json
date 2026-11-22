@@ -1,0 +1,41 @@
+{
+  "id": "ny-clayton-thousand-islands-ventures-clayton-sand-and-gravel",
+  "slug": "thousand-islands-ventures-clayton-sand-and-gravel",
+  "name": "Thousand Islands Ventures – Clayton Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Clayton",
+    "state": "NY",
+    "zip": "13624"
+  },
+  "location": {
+    "lat": 44.210556,
+    "lng": -76.130833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002298"
+  },
+  "msha": [
+    {
+      "mine_id": "3002298",
+      "name": "Clayton Sand and Gravel",
+      "operator": "Thousand Islands Ventures, LLC",
+      "status": "Intermittent",
+      "status_since": "2022-04-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

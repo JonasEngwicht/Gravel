@@ -1,0 +1,41 @@
+{
+  "id": "mn-rainer-mark-rock-products",
+  "slug": "mark-rock-products",
+  "name": "Mark Rock Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rainer",
+    "state": "MN",
+    "zip": "56668"
+  },
+  "location": {
+    "lat": 48.605278,
+    "lng": -93.326667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2102550"
+  },
+  "msha": [
+    {
+      "mine_id": "2102550",
+      "name": "Plant 11",
+      "operator": "Mark Rock Products",
+      "status": "Intermittent",
+      "status_since": "2021-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

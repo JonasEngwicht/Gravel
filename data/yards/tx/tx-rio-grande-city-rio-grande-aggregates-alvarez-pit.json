@@ -1,0 +1,41 @@
+{
+  "id": "tx-rio-grande-city-rio-grande-aggregates-alvarez-pit",
+  "slug": "rio-grande-aggregates-alvarez-pit",
+  "name": "Rio Grande Aggregates – Alvarez Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rio Grande City",
+    "state": "TX",
+    "zip": "78582"
+  },
+  "location": {
+    "lat": 26.425,
+    "lng": -98.8725
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105841"
+  },
+  "msha": [
+    {
+      "mine_id": "4105841",
+      "name": "Alvarez Pit",
+      "operator": "Rio Grande Aggregates LLC",
+      "status": "Active",
+      "status_since": "2026-01-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

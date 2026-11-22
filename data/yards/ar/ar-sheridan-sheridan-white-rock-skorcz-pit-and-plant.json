@@ -1,0 +1,41 @@
+{
+  "id": "ar-sheridan-sheridan-white-rock-skorcz-pit-and-plant",
+  "slug": "sheridan-white-rock-skorcz-pit-and-plant",
+  "name": "Sheridan White Rock – Skorcz Pit & Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Sheridan",
+    "state": "AR",
+    "zip": "72129"
+  },
+  "location": {
+    "lat": 34.228333,
+    "lng": -92.500833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0300608"
+  },
+  "msha": [
+    {
+      "mine_id": "0300608",
+      "name": "Skorcz Pit & Plant",
+      "operator": "Sheridan White Rock Inc.",
+      "status": "Active",
+      "status_since": "2003-06-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

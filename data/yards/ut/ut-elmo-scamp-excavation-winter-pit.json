@@ -1,0 +1,41 @@
+{
+  "id": "ut-elmo-scamp-excavation-winter-pit",
+  "slug": "scamp-excavation-winter-pit",
+  "name": "Scamp Excavation – Winter pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Elmo",
+    "state": "UT",
+    "zip": "84513"
+  },
+  "location": {
+    "lat": 39.249722,
+    "lng": -111.028333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202750"
+  },
+  "msha": [
+    {
+      "mine_id": "4202750",
+      "name": "Winter pit",
+      "operator": "Scamp Excavation Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-07-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

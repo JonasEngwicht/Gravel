@@ -1,0 +1,41 @@
+{
+  "id": "tx-bastrop-bastrop-sand-supply",
+  "slug": "bastrop-sand-supply",
+  "name": "Bastrop Sand Supply",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bastrop",
+    "state": "TX",
+    "zip": "78602"
+  },
+  "location": {
+    "lat": 30.138889,
+    "lng": -97.382222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105313"
+  },
+  "msha": [
+    {
+      "mine_id": "4105313",
+      "name": "Bastrop Sand Supply",
+      "operator": "Bastrop Sand Supply LLC",
+      "status": "Active",
+      "status_since": "2017-12-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

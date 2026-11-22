@@ -1,0 +1,41 @@
+{
+  "id": "ny-queensbury-fort-miller-co-dream-lake-pit",
+  "slug": "fort-miller-co-dream-lake-pit",
+  "name": "Fort Miller Co – Dream Lake Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Queensbury",
+    "state": "NY",
+    "zip": "12839"
+  },
+  "location": {
+    "lat": 43.39,
+    "lng": -73.626111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003144"
+  },
+  "msha": [
+    {
+      "mine_id": "3003144",
+      "name": "Dream Lake Pit",
+      "operator": "Fort Miller Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "2024-03-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

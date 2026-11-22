@@ -1,0 +1,41 @@
+{
+  "id": "ny-delphi-falls-t-h-kinsella-delphi-plant-and-pits",
+  "slug": "t-h-kinsella-delphi-plant-and-pits",
+  "name": "T H Kinsella – Delphi Plant and Pits",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Delphi Falls",
+    "state": "NY",
+    "zip": "13051"
+  },
+  "location": {
+    "lat": 42.884167,
+    "lng": -75.909444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003621"
+  },
+  "msha": [
+    {
+      "mine_id": "3003621",
+      "name": "Delphi Plant and Pits",
+      "operator": "T H Kinsella Inc.",
+      "status": "Intermittent",
+      "status_since": "2008-01-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

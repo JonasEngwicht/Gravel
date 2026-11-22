@@ -1,0 +1,41 @@
+{
+  "id": "ut-st-george-bryce-christensen-excavating-southern-bcx-pit",
+  "slug": "bryce-christensen-excavating-southern-bcx-pit",
+  "name": "Bryce Christensen Excavating – Southern BCX Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "St. George",
+    "state": "UT",
+    "zip": "84790"
+  },
+  "location": {
+    "lat": 37.053889,
+    "lng": -113.530278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202697"
+  },
+  "msha": [
+    {
+      "mine_id": "4202697",
+      "name": "Southern BCX Pit",
+      "operator": "Bryce Christensen Excavating Inc.",
+      "status": "Active",
+      "status_since": "2022-04-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sc-blair-newberry-sand-incorporated",
+  "slug": "newberry-sand-incorporated",
+  "name": "Newberry Sand Incorporated",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Blair",
+    "state": "SC",
+    "zip": "29015"
+  },
+  "location": {
+    "lat": 34.443333,
+    "lng": -81.318056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800724"
+  },
+  "msha": [
+    {
+      "mine_id": "3800724",
+      "name": "Newberry Sand Incorporated",
+      "operator": "Newberry Sand Incorporated",
+      "status": "Active",
+      "status_since": "2009-06-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

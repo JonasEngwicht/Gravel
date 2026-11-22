@@ -1,0 +1,41 @@
+{
+  "id": "tx-voca-zd-sand",
+  "slug": "zd-sand",
+  "name": "ZD Sand",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Voca",
+    "state": "TX",
+    "zip": "76887"
+  },
+  "location": {
+    "lat": 30.984444,
+    "lng": -99.146667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105660"
+  },
+  "msha": [
+    {
+      "mine_id": "4105660",
+      "name": "ZD Sand",
+      "operator": "ZD Sand, LLC",
+      "status": "Active",
+      "status_since": "2024-03-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

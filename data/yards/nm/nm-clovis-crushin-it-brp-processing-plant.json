@@ -1,0 +1,41 @@
+{
+  "id": "nm-clovis-crushin-it-brp-processing-plant",
+  "slug": "crushin-it-brp-processing-plant",
+  "name": "Crushin It – BRP Processing Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Clovis",
+    "state": "NM",
+    "zip": "88103"
+  },
+  "location": {
+    "lat": 34.382778,
+    "lng": -103.231667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902474"
+  },
+  "msha": [
+    {
+      "mine_id": "2902474",
+      "name": "BRP Processing Plant",
+      "operator": "Crushin It, LLC",
+      "status": "Active",
+      "status_since": "2023-10-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

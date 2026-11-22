@@ -1,0 +1,41 @@
+{
+  "id": "me-dyer-brook-eurovia-atlantic-coast-mast-quarry",
+  "slug": "eurovia-atlantic-coast-mast-quarry",
+  "name": "Eurovia Atlantic Coast – Mast Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Dyer Brook",
+    "state": "ME",
+    "zip": "04763"
+  },
+  "location": {
+    "lat": 46.054722,
+    "lng": -68.216389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700909"
+  },
+  "msha": [
+    {
+      "mine_id": "1700909",
+      "name": "Mast Quarry",
+      "operator": "Eurovia Atlantic Coast LLC",
+      "status": "Intermittent",
+      "status_since": "2024-12-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

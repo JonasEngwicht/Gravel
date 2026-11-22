@@ -1,0 +1,41 @@
+{
+  "id": "wv-beaver-eastern-aggregates-sullivan-quarry",
+  "slug": "eastern-aggregates-sullivan-quarry",
+  "name": "Eastern Aggregates – Sullivan Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Beaver",
+    "state": "WV",
+    "zip": "25911"
+  },
+  "location": {
+    "lat": 37.718611,
+    "lng": -81.176389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4609604"
+  },
+  "msha": [
+    {
+      "mine_id": "4609604",
+      "name": "Sullivan Quarry",
+      "operator": "Eastern Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2022-02-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

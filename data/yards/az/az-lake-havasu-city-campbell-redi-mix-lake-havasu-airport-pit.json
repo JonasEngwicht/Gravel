@@ -1,0 +1,41 @@
+{
+  "id": "az-lake-havasu-city-campbell-redi-mix-lake-havasu-airport-pit",
+  "slug": "campbell-redi-mix-lake-havasu-airport-pit",
+  "name": "Campbell Redi-Mix – Lake Havasu Airport Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lake Havasu City",
+    "state": "AZ",
+    "zip": "86403"
+  },
+  "location": {
+    "lat": 34.483889,
+    "lng": -114.3225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202962"
+  },
+  "msha": [
+    {
+      "mine_id": "0202962",
+      "name": "Lake Havasu Airport Pit",
+      "operator": "Campbell Redi-Mix Inc.",
+      "status": "Active",
+      "status_since": "2014-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

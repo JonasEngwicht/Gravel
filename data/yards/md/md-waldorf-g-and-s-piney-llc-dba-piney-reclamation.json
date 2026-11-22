@@ -1,0 +1,41 @@
+{
+  "id": "md-waldorf-g-and-s-piney-llc-dba-piney-reclamation",
+  "slug": "g-and-s-piney-llc-dba-piney-reclamation",
+  "name": "G&S Piney, LLC, DBA Piney Reclamation",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Waldorf",
+    "state": "MD",
+    "zip": "20602"
+  },
+  "location": {
+    "lat": 38.579722,
+    "lng": -76.896667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1800815"
+  },
+  "msha": [
+    {
+      "mine_id": "1800815",
+      "name": "Piney Reclamation",
+      "operator": "G&S Piney, LLC, DBA Piney Reclamation",
+      "status": "Active",
+      "status_since": "2023-03-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

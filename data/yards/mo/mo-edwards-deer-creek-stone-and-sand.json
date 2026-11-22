@@ -1,0 +1,41 @@
+{
+  "id": "mo-edwards-deer-creek-stone-and-sand",
+  "slug": "deer-creek-stone-and-sand",
+  "name": "Deer Creek Stone & Sand",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Edwards",
+    "state": "MO",
+    "zip": "65326"
+  },
+  "location": {
+    "lat": 38.161551,
+    "lng": -93.173949
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302532"
+  },
+  "msha": [
+    {
+      "mine_id": "2302532",
+      "name": "Deer Creek Stone & Sand LLC",
+      "operator": "Deer Creek Stone & Sand LLC",
+      "status": "Intermittent",
+      "status_since": "2019-05-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

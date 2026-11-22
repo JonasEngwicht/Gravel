@@ -1,0 +1,41 @@
+{
+  "id": "mo-eureka-bmc-sand-eureka-plant",
+  "slug": "bmc-sand-eureka-plant",
+  "name": "BMC Sand Eureka Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Eureka",
+    "state": "MO",
+    "zip": "65409"
+  },
+  "location": {
+    "lat": 37.964167,
+    "lng": -91.831944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301840"
+  },
+  "msha": [
+    {
+      "mine_id": "2301840",
+      "name": "BMC Sand Eureka Plant",
+      "operator": "BMC Sand LLC",
+      "status": "Active",
+      "status_since": "2016-01-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

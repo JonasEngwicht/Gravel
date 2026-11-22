@@ -1,0 +1,41 @@
+{
+  "id": "ak-fairbanks-h-c-redi-mix",
+  "slug": "h-c-redi-mix",
+  "name": "H C Redi-Mix",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fairbanks",
+    "state": "AK",
+    "zip": "99703"
+  },
+  "location": {
+    "lat": 64.818056,
+    "lng": -147.676667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001662"
+  },
+  "msha": [
+    {
+      "mine_id": "5001662",
+      "name": "H C Redi-Mix LLC",
+      "operator": "H C Redi-Mix LLC",
+      "status": "Intermittent",
+      "status_since": "2003-06-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nc-farmington-tarheel-sand-and-stone-aaron-sand-mine-68",
+  "slug": "tarheel-sand-and-stone-aaron-sand-mine-68",
+  "name": "Tarheel Sand & Stone – Aaron Sand Mine #68",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Farmington",
+    "state": "NC",
+    "zip": "27006"
+  },
+  "location": {
+    "lat": 35.970833,
+    "lng": -80.458333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101321"
+  },
+  "msha": [
+    {
+      "mine_id": "3101321",
+      "name": "Aaron Sand Mine #68",
+      "operator": "Tarheel Sand & Stone Inc.",
+      "status": "Active",
+      "status_since": "2016-02-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

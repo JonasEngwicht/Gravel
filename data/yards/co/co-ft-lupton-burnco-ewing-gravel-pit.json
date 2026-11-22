@@ -1,0 +1,41 @@
+{
+  "id": "co-ft-lupton-burnco-ewing-gravel-pit",
+  "slug": "burnco-ewing-gravel-pit",
+  "name": "Burnco – Ewing Gravel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ft Lupton",
+    "state": "CO",
+    "zip": "80621"
+  },
+  "location": {
+    "lat": 40.108889,
+    "lng": -104.812778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0505191"
+  },
+  "msha": [
+    {
+      "mine_id": "0505191",
+      "name": "Ewing Gravel Pit",
+      "operator": "Burnco",
+      "status": "Active",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

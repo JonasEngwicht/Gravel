@@ -1,0 +1,41 @@
+{
+  "id": "sd-hayti-basin-construction-and-drain-tile-arnold-pit",
+  "slug": "basin-construction-and-drain-tile-arnold-pit",
+  "name": "Basin Construction & Drain Tile – Arnold Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hayti",
+    "state": "SD",
+    "zip": "57248"
+  },
+  "location": {
+    "lat": 44.613889,
+    "lng": -97.188333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3901692"
+  },
+  "msha": [
+    {
+      "mine_id": "3901692",
+      "name": "Arnold Pit",
+      "operator": "Basin Construction & Drain Tile, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-05-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

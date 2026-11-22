@@ -1,0 +1,41 @@
+{
+  "id": "mn-alexandria-eblen-construction",
+  "slug": "eblen-construction",
+  "name": "Eblen Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Alexandria",
+    "state": "MN",
+    "zip": "56308"
+  },
+  "location": {
+    "lat": 45.7775,
+    "lng": -95.335556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103247"
+  },
+  "msha": [
+    {
+      "mine_id": "2103247",
+      "name": "Eblen Construction",
+      "operator": "Eblen Construction",
+      "status": "Intermittent",
+      "status_since": "2015-10-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

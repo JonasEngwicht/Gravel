@@ -1,0 +1,41 @@
+{
+  "id": "nc-lawndale-lawndale-sand",
+  "slug": "lawndale-sand",
+  "name": "Lawndale Sand",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lawndale",
+    "state": "NC",
+    "zip": "28150"
+  },
+  "location": {
+    "lat": 35.394167,
+    "lng": -81.561944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102232"
+  },
+  "msha": [
+    {
+      "mine_id": "3102232",
+      "name": "Lawndale Sand LLC Mine",
+      "operator": "Lawndale Sand LLC",
+      "status": "Intermittent",
+      "status_since": "2021-04-29",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

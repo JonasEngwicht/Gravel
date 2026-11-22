@@ -1,0 +1,41 @@
+{
+  "id": "la-baywood-superior-sand-and-gravel",
+  "slug": "superior-sand-and-gravel",
+  "name": "Superior Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Baywood",
+    "state": "LA",
+    "zip": "70453"
+  },
+  "location": {
+    "lat": 30.712222,
+    "lng": -90.865833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601598"
+  },
+  "msha": [
+    {
+      "mine_id": "1601598",
+      "name": "Plant 2",
+      "operator": "Superior Sand and Gravel",
+      "status": "Active",
+      "status_since": "2021-03-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

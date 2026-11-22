@@ -1,0 +1,41 @@
+{
+  "id": "tx-bigfoot-iron-oak-eagle-ford-bigfoot-mine",
+  "slug": "iron-oak-eagle-ford-bigfoot-mine",
+  "name": "Iron Oak Eagle Ford – Bigfoot Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bigfoot",
+    "state": "TX",
+    "zip": "78065"
+  },
+  "location": {
+    "lat": 29.109167,
+    "lng": -98.738611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105395"
+  },
+  "msha": [
+    {
+      "mine_id": "4105395",
+      "name": "Bigfoot Mine",
+      "operator": "Iron Oak Eagle Ford LLC",
+      "status": "Active",
+      "status_since": "2018-11-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

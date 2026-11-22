@@ -1,0 +1,41 @@
+{
+  "id": "nc-rockingham-lessees-of-b-v-hedrick-gravel-and-sand-company-richmond-county",
+  "slug": "lessees-of-b-v-hedrick-gravel-and-sand-company-richmond-county",
+  "name": "Lessees of B.V. Hedrick Gravel & Sand Company – Richmond County",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rockingham",
+    "state": "NC",
+    "zip": "28379"
+  },
+  "location": {
+    "lat": 34.964722,
+    "lng": -79.834444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102310"
+  },
+  "msha": [
+    {
+      "mine_id": "3102310",
+      "name": "Richmond County",
+      "operator": "Lessees of B.V. Hedrick Gravel & Sand Company LLC",
+      "status": "Active",
+      "status_since": "2020-06-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

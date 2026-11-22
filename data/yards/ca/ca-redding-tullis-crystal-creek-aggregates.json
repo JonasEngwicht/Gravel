@@ -1,0 +1,41 @@
+{
+  "id": "ca-redding-tullis-crystal-creek-aggregates",
+  "slug": "tullis-crystal-creek-aggregates",
+  "name": "Tullis – Crystal Creek Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Redding",
+    "state": "CA",
+    "zip": "96001"
+  },
+  "location": {
+    "lat": 40.606389,
+    "lng": -122.465
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405096"
+  },
+  "msha": [
+    {
+      "mine_id": "0405096",
+      "name": "Crystal Creek Aggregates",
+      "operator": "Tullis, Inc.",
+      "status": "Active",
+      "status_since": "1990-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

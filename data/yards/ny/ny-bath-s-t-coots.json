@@ -1,0 +1,41 @@
+{
+  "id": "ny-bath-s-t-coots",
+  "slug": "s-t-coots",
+  "name": "S T Coots",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bath",
+    "state": "NY",
+    "zip": "14821"
+  },
+  "location": {
+    "lat": 42.271389,
+    "lng": -77.216667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003963"
+  },
+  "msha": [
+    {
+      "mine_id": "3003963",
+      "name": "Coots Gravel Pit",
+      "operator": "S T Coots LLC",
+      "status": "Intermittent",
+      "status_since": "2015-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

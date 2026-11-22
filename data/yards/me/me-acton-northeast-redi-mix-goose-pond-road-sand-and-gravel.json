@@ -1,0 +1,41 @@
+{
+  "id": "me-acton-northeast-redi-mix-goose-pond-road-sand-and-gravel",
+  "slug": "northeast-redi-mix-goose-pond-road-sand-and-gravel",
+  "name": "Northeast Redi Mix – Goose Pond Road Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Acton",
+    "state": "ME",
+    "zip": "04076"
+  },
+  "location": {
+    "lat": 43.546667,
+    "lng": -70.875278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701135"
+  },
+  "msha": [
+    {
+      "mine_id": "1701135",
+      "name": "Goose Pond Road Sand & Gravel",
+      "operator": "Northeast Redi Mix LLC",
+      "status": "Intermittent",
+      "status_since": "2024-12-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

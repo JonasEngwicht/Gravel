@@ -1,0 +1,41 @@
+{
+  "id": "ne-benkelman-richards-gravel-pit",
+  "slug": "richards-gravel-pit",
+  "name": "Richards Gravel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Benkelman",
+    "state": "NE",
+    "zip": "69021"
+  },
+  "location": {
+    "lat": 40.033611,
+    "lng": -101.5225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2501335"
+  },
+  "msha": [
+    {
+      "mine_id": "2501335",
+      "name": "Richards Gravel Pit. INC",
+      "operator": "Richards Gravel Pit",
+      "status": "Intermittent",
+      "status_since": "2026-08-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

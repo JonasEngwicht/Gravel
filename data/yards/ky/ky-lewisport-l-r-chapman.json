@@ -1,0 +1,41 @@
+{
+  "id": "ky-lewisport-l-r-chapman",
+  "slug": "l-r-chapman",
+  "name": "L R Chapman",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lewisport",
+    "state": "KY",
+    "zip": "42339"
+  },
+  "location": {
+    "lat": 37.101389,
+    "lng": -86.988611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500149"
+  },
+  "msha": [
+    {
+      "mine_id": "1500149",
+      "name": "L R Chapman Inc",
+      "operator": "L R Chapman Inc",
+      "status": "Active",
+      "status_since": "2011-10-24",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

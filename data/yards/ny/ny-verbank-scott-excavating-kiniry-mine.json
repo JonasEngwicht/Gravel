@@ -1,0 +1,41 @@
+{
+  "id": "ny-verbank-scott-excavating-kiniry-mine",
+  "slug": "scott-excavating-kiniry-mine",
+  "name": "Scott Excavating – Kiniry Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Verbank",
+    "state": "NY",
+    "zip": "12585"
+  },
+  "location": {
+    "lat": 41.699167,
+    "lng": -73.672222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003829"
+  },
+  "msha": [
+    {
+      "mine_id": "3003829",
+      "name": "Kiniry Mine",
+      "operator": "Scott Excavating",
+      "status": "Intermittent",
+      "status_since": "2015-10-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

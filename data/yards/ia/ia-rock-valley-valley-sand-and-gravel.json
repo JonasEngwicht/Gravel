@@ -1,0 +1,41 @@
+{
+  "id": "ia-rock-valley-valley-sand-and-gravel",
+  "slug": "valley-sand-and-gravel",
+  "name": "Valley Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rock Valley",
+    "state": "IA",
+    "zip": "51247"
+  },
+  "location": {
+    "lat": 43.205278,
+    "lng": -96.295
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300750"
+  },
+  "msha": [
+    {
+      "mine_id": "1300750",
+      "name": "Valley Sand and Gravel",
+      "operator": "Valley Sand & Gravel",
+      "status": "Active",
+      "status_since": "2026-10-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

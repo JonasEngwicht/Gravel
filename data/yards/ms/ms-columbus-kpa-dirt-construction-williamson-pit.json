@@ -1,0 +1,41 @@
+{
+  "id": "ms-columbus-kpa-dirt-construction-williamson-pit",
+  "slug": "kpa-dirt-construction-williamson-pit",
+  "name": "Kpa Dirt Construction – Williamson Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Columbus",
+    "state": "MS",
+    "zip": "39702"
+  },
+  "location": {
+    "lat": 33.479444,
+    "lng": -88.336667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200833"
+  },
+  "msha": [
+    {
+      "mine_id": "2200833",
+      "name": "Williamson Pit",
+      "operator": "Kpa Dirt Construction",
+      "status": "Active",
+      "status_since": "2020-03-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ia-ft-madison-ideal-ready-mix-company-brockman-sand",
+  "slug": "ideal-ready-mix-company-brockman-sand",
+  "name": "Ideal Ready Mix Company – Brockman Sand",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ft. Madison",
+    "state": "IA",
+    "zip": "52627"
+  },
+  "location": {
+    "lat": 40.610278,
+    "lng": -91.409167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300632"
+  },
+  "msha": [
+    {
+      "mine_id": "1300632",
+      "name": "Brockman Sand",
+      "operator": "Ideal Ready Mix Company Inc",
+      "status": "Intermittent",
+      "status_since": "2026-11-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

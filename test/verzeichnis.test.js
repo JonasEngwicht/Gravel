@@ -2,7 +2,7 @@ import { test } from "node:test";
 import assert from "node:assert/strict";
 import { readFileSync, readdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
-import { ladeYards, verzeichnisSeiten, slugify, BASIS } from "../scripts/verzeichnis.mjs";
+import { ladeYards, verzeichnisSeiten, slugify, BASIS, befuellt, seiteBefuellt, MIN_STADT } from "../scripts/verzeichnis.mjs";
 import { SEITEN } from "../scripts/seiten.mjs";
 
 const YARD_DIR = fileURLToPath(new URL("../data/yards", import.meta.url));
@@ -12,7 +12,7 @@ const matById = Object.fromEntries(MAT.materials.map((m) => [m.id, m]));
 
 // Einfache Helfer statt der echten aus build.mjs: Inhalt egal, Struktur und JSON-LD zählen
 const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
-const kopf = (s) => `<head>${s.noindex ? '<meta name="robots" content="noindex">' : ""}<title>${esc(s.title)}</title><script type="application/ld+json">${JSON.stringify(s.ld)}</script></head>`;
+const kopf = (s) => `<head>${s.noindex ? '<meta name="robots" content="noindex, follow">' : ""}<title>${esc(s.title)}</title><script type="application/ld+json">${JSON.stringify(s.ld)}</script></head>`;
 const fuss = () => "";
 const rechner = () => '<form class="rechner" id="rechner"></form>';
 const bauen = (site) => verzeichnisSeiten(ladeYards(YARD_DIR), { kopf, fuss, esc, rechner, matById, SITE: site });
@@ -57,10 +57,11 @@ test("Verzeichnispfade sind eindeutig und Titel nicht doppelt", () => {
     titel.add(t);
     assert.equal((s.html.match(/<h1>/g) || []).length, 1, s.pfad);
   }
-  // Übersicht + Staaten + Städte + ein Eintrag pro Yard
+  // Übersicht + Staaten + Städte + ein Eintrag pro Yard + Kiesgruben-Übersicht + Kiesgruben je Staat
   const staedte = new Set(yards.map((y) => `${y.address.state}/${slugify(y.address.city)}`));
   const staaten = new Set(yards.map((y) => y.address.state));
-  assert.equal(seiten.length, 1 + staaten.size + staedte.size + yards.length);
+  const grubenStaaten = new Set(yards.filter((y) => y.kind === "gravel-pit").map((y) => y.address.state));
+  assert.equal(seiten.length, 1 + staaten.size + staedte.size + yards.length + 1 + grubenStaaten.size);
 });
 
 test("Cloudflare: weniger als 20.000 Dateien im Build", () => {
@@ -70,13 +71,35 @@ test("Cloudflare: weniger als 20.000 Dateien im Build", () => {
   assert.ok(gesamt < 19500, `${gesamt} Dateien`);
 });
 
-test("alle Verzeichnisseiten sind indexierbar, auch ungeprüfte Einträge", () => {
+test("nur befüllte Verzeichnisseiten werden indexiert", () => {
   const seiten = bauen({ baseUrl: "https://example.com" });
-  for (const s of seiten) {
-    assert.equal(s.index, true, s.pfad);
-    assert.doesNotMatch(s.html, /noindex/, s.pfad);
+  const nachPfad = new Map(seiten.map((s) => [s.pfad, s]));
+  for (const s of seiten) assert.equal(/noindex/.test(s.html), !s.index, s.pfad);
+  // Stadtseiten: mindestens MIN_STADT Einträge mit Telefon oder Website
+  const proStadt = new Map();
+  for (const y of yards) {
+    const p = `${BASIS}${y.address.state.toLowerCase()}/${slugify(y.address.city)}/`;
+    proStadt.set(p, (proStadt.get(p) || 0) + (befuellt(y) ? 1 : 0));
   }
-  assert.ok(yards.some((y) => y.status === "unverified"));
+  for (const [p, n] of proStadt) assert.equal(nachPfad.get(p).index, n >= MIN_STADT, p);
+  // Unternehmensseiten: vollständige Kontaktdaten; Kiesgruben ohne Kontakt nicht
+  const eigene = ladeYards(YARD_DIR);
+  const mitPfad = new Map(verzeichnisSeiten(eigene, { kopf, fuss, esc, rechner, matById, SITE: { baseUrl: "https://example.com" } }).map((s) => [s.pfad, s]));
+  for (const y of eigene) assert.equal(mitPfad.get(y._pfad).index, seiteBefuellt(y), y._pfad);
+  assert.ok(yards.some((y) => y.kind === "gravel-pit" && !seiteBefuellt(y)));
+  assert.ok(seiten.filter((s) => s.index).length > 1000);
+});
+
+test("Kiesgruben: eigene Seiten je Staat, alle mit Typ gravel-pit aus MSHA", () => {
+  const gruben = yards.filter((y) => y.kind === "gravel-pit");
+  assert.ok(gruben.length > 2000);
+  for (const y of gruben) {
+    assert.ok(y.source.dataset.startsWith("msha"), y.id);
+    assert.ok(["Active", "Intermittent"].includes(y.msha[0].status), y.id);
+  }
+  const seiten = bauen({ baseUrl: null });
+  assert.ok(seiten.some((s) => s.pfad === `${BASIS}gravel-pits/`));
+  assert.ok(seiten.some((s) => s.pfad === `${BASIS}tx/gravel-pits/`));
 });
 
 test("strukturierte Daten der Verzeichnisseiten sind gültiges JSON", () => {

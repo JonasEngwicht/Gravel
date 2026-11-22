@@ -1,0 +1,41 @@
+{
+  "id": "mo-camdenton-dredging",
+  "slug": "dredging",
+  "name": "Dredging",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Camdenton",
+    "state": "MO",
+    "zip": "65020"
+  },
+  "location": {
+    "lat": 38.00809,
+    "lng": -92.744629
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301398"
+  },
+  "msha": [
+    {
+      "mine_id": "2301398",
+      "name": "Dredging Inc",
+      "operator": "Dredging Inc",
+      "status": "Intermittent",
+      "status_since": "1980-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

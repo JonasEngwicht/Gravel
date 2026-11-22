@@ -1,0 +1,41 @@
+{
+  "id": "nc-franklin-lbm-industries-solesbee-mine",
+  "slug": "lbm-industries-solesbee-mine",
+  "name": "LBM Industries – Solesbee Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Franklin",
+    "state": "NC",
+    "zip": "28734"
+  },
+  "location": {
+    "lat": 35.150278,
+    "lng": -83.385833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102205"
+  },
+  "msha": [
+    {
+      "mine_id": "3102205",
+      "name": "Solesbee Mine",
+      "operator": "LBM Industries Inc",
+      "status": "Intermittent",
+      "status_since": "2011-11-21",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

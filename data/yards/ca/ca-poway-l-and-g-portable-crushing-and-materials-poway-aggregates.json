@@ -1,0 +1,41 @@
+{
+  "id": "ca-poway-l-and-g-portable-crushing-and-materials-poway-aggregates",
+  "slug": "l-and-g-portable-crushing-and-materials-poway-aggregates",
+  "name": "L & G Portable Crushing and Materials – Poway Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Poway",
+    "state": "CA",
+    "zip": "92131"
+  },
+  "location": {
+    "lat": 32.934167,
+    "lng": -117.038889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405991"
+  },
+  "msha": [
+    {
+      "mine_id": "0405991",
+      "name": "Poway Aggregates",
+      "operator": "L & G Portable Crushing and Materials",
+      "status": "Intermittent",
+      "status_since": "2026-06-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

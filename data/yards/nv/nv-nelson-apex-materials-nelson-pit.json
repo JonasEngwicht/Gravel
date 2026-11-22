@@ -1,0 +1,41 @@
+{
+  "id": "nv-nelson-apex-materials-nelson-pit",
+  "slug": "apex-materials-nelson-pit",
+  "name": "Apex Materials – Nelson Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Nelson",
+    "state": "NV",
+    "zip": "89046"
+  },
+  "location": {
+    "lat": 35.468611,
+    "lng": -114.904167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602914"
+  },
+  "msha": [
+    {
+      "mine_id": "2602914",
+      "name": "Nelson Pit",
+      "operator": "Apex Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2025-08-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

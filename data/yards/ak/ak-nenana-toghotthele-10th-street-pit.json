@@ -1,0 +1,41 @@
+{
+  "id": "ak-nenana-toghotthele-10th-street-pit",
+  "slug": "toghotthele-10th-street-pit",
+  "name": "Toghotthele – 10th Street Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Nenana",
+    "state": "AK",
+    "zip": "99760"
+  },
+  "location": {
+    "lat": 64.552778,
+    "lng": -149.1025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001457"
+  },
+  "msha": [
+    {
+      "mine_id": "5001457",
+      "name": "10th Street Pit",
+      "operator": "Toghotthele Corporation",
+      "status": "Intermittent",
+      "status_since": "2024-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ms-flowood-adcamp-1365-flowood",
+  "slug": "adcamp-1365-flowood",
+  "name": "Adcamp – 1365 Flowood",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Flowood",
+    "state": "MS",
+    "zip": "39202"
+  },
+  "location": {
+    "lat": 32.315,
+    "lng": -90.136667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200845"
+  },
+  "msha": [
+    {
+      "mine_id": "2200845",
+      "name": "1365 Flowood",
+      "operator": "Adcamp Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-03-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ok-arkoma-river-valley-materials-braden",
+  "slug": "river-valley-materials-braden",
+  "name": "River Valley Materials – Braden",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Arkoma",
+    "state": "OK",
+    "zip": "74902"
+  },
+  "location": {
+    "lat": 35.254722,
+    "lng": -94.471111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402234"
+  },
+  "msha": [
+    {
+      "mine_id": "3402234",
+      "name": "Braden",
+      "operator": "River Valley Materials LLC",
+      "status": "Active",
+      "status_since": "2024-11-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

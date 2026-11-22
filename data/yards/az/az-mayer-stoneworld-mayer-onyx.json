@@ -1,0 +1,41 @@
+{
+  "id": "az-mayer-stoneworld-mayer-onyx",
+  "slug": "stoneworld-mayer-onyx",
+  "name": "Stoneworld – Mayer Onyx",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mayer",
+    "state": "AZ",
+    "zip": "86329"
+  },
+  "location": {
+    "lat": 34.397778,
+    "lng": -112.236389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202987"
+  },
+  "msha": [
+    {
+      "mine_id": "0202987",
+      "name": "Mayer Onyx",
+      "operator": "Stoneworld Co.",
+      "status": "Active",
+      "status_since": "2021-04-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

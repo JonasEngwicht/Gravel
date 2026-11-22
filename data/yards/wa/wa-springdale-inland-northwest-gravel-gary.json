@@ -1,0 +1,41 @@
+{
+  "id": "wa-springdale-inland-northwest-gravel-gary",
+  "slug": "inland-northwest-gravel-gary",
+  "name": "Inland Northwest – Gravel Gary",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Springdale",
+    "state": "WA",
+    "zip": "99173"
+  },
+  "location": {
+    "lat": 48.049163,
+    "lng": -117.814108
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503829"
+  },
+  "msha": [
+    {
+      "mine_id": "4503829",
+      "name": "Gravel Gary",
+      "operator": "Inland Northwest Company",
+      "status": "Intermittent",
+      "status_since": "2021-11-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

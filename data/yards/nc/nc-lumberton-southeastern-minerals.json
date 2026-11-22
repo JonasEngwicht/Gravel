@@ -1,0 +1,41 @@
+{
+  "id": "nc-lumberton-southeastern-minerals",
+  "slug": "southeastern-minerals",
+  "name": "Southeastern Minerals",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lumberton",
+    "state": "NC",
+    "zip": "28358"
+  },
+  "location": {
+    "lat": 34.617778,
+    "lng": -78.994167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102107"
+  },
+  "msha": [
+    {
+      "mine_id": "3102107",
+      "name": "Southeastern Minerals",
+      "operator": "Southeastern Concrete",
+      "status": "Intermittent",
+      "status_since": "2011-10-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "co-central-city-brannan-sand-and-gravel-company-pit-21-young-ranch",
+  "slug": "brannan-sand-and-gravel-company-pit-21-young-ranch",
+  "name": "Brannan Sand & Gravel Company – Pit 21-Young Ranch",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Central City",
+    "state": "CO",
+    "zip": "80427"
+  },
+  "location": {
+    "lat": 39.757778,
+    "lng": -105.448889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0502144"
+  },
+  "msha": [
+    {
+      "mine_id": "0502144",
+      "name": "Pit 21-Young Ranch",
+      "operator": "Brannan Sand & Gravel Company LLC",
+      "status": "Active",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

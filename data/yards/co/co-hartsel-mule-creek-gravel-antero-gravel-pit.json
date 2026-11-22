@@ -1,0 +1,41 @@
+{
+  "id": "co-hartsel-mule-creek-gravel-antero-gravel-pit",
+  "slug": "mule-creek-gravel-antero-gravel-pit",
+  "name": "Mule Creek Gravel – Antero Gravel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hartsel",
+    "state": "CO",
+    "zip": "80449"
+  },
+  "location": {
+    "lat": 38.987794,
+    "lng": -105.726609
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0505152"
+  },
+  "msha": [
+    {
+      "mine_id": "0505152",
+      "name": "Antero Gravel Pit",
+      "operator": "Mule Creek Gravel, LLC",
+      "status": "Intermittent",
+      "status_since": "2022-06-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

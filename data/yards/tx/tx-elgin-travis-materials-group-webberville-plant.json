@@ -1,0 +1,41 @@
+{
+  "id": "tx-elgin-travis-materials-group-webberville-plant",
+  "slug": "travis-materials-group-webberville-plant",
+  "name": "Travis Materials Group – Webberville Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Elgin",
+    "state": "TX",
+    "zip": "78244"
+  },
+  "location": {
+    "lat": 29.477651,
+    "lng": -98.351189
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105198"
+  },
+  "msha": [
+    {
+      "mine_id": "4105198",
+      "name": "Webberville Plant",
+      "operator": "Travis Materials Group, LTD",
+      "status": "Active",
+      "status_since": "2016-05-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

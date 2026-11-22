@@ -1,0 +1,41 @@
+{
+  "id": "ma-rowley-eastern-materials-central-street-mine",
+  "slug": "eastern-materials-central-street-mine",
+  "name": "Eastern Materials – Central Street Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rowley",
+    "state": "MA",
+    "zip": "01969"
+  },
+  "location": {
+    "lat": 42.721111,
+    "lng": -70.881944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900606"
+  },
+  "msha": [
+    {
+      "mine_id": "1900606",
+      "name": "Central Street Mine",
+      "operator": "Eastern Materials LLC",
+      "status": "Intermittent",
+      "status_since": "1985-06-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

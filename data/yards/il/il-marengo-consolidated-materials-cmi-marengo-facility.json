@@ -1,0 +1,41 @@
+{
+  "id": "il-marengo-consolidated-materials-cmi-marengo-facility",
+  "slug": "consolidated-materials-cmi-marengo-facility",
+  "name": "Consolidated Materials – CMI Marengo Facility",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Marengo",
+    "state": "IL",
+    "zip": "60152"
+  },
+  "location": {
+    "lat": 42.238611,
+    "lng": -88.610556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102973"
+  },
+  "msha": [
+    {
+      "mine_id": "1102973",
+      "name": "CMI Marengo Facility",
+      "operator": "Consolidated Materials Inc.",
+      "status": "Intermittent",
+      "status_since": "2013-03-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

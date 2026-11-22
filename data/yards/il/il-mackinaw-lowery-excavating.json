@@ -1,0 +1,41 @@
+{
+  "id": "il-mackinaw-lowery-excavating",
+  "slug": "lowery-excavating",
+  "name": "Lowery Excavating",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mackinaw",
+    "state": "IL",
+    "zip": "61755"
+  },
+  "location": {
+    "lat": 40.553333,
+    "lng": -89.345833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103063"
+  },
+  "msha": [
+    {
+      "mine_id": "1103063",
+      "name": "Lowery Excavating",
+      "operator": "Lowery Excavating, Inc.",
+      "status": "Intermittent",
+      "status_since": "2013-03-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

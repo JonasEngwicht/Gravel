@@ -1,0 +1,41 @@
+{
+  "id": "mi-ann-arbor-mid-michigan-materials-vella-pit",
+  "slug": "mid-michigan-materials-vella-pit",
+  "name": "Mid Michigan Materials Vella Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48105"
+  },
+  "location": {
+    "lat": 42.341944,
+    "lng": -83.683611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2000872"
+  },
+  "msha": [
+    {
+      "mine_id": "2000872",
+      "name": "Vella Pit",
+      "operator": "Mid Michigan Materials Vella Pit",
+      "status": "Active",
+      "status_since": "2021-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

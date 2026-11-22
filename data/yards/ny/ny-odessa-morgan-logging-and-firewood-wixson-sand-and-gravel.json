@@ -1,0 +1,41 @@
+{
+  "id": "ny-odessa-morgan-logging-and-firewood-wixson-sand-and-gravel",
+  "slug": "morgan-logging-and-firewood-wixson-sand-and-gravel",
+  "name": "Morgan Logging & Firewood – Wixson Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Odessa",
+    "state": "NY",
+    "zip": "14865"
+  },
+  "location": {
+    "lat": 42.340833,
+    "lng": -76.8025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004000"
+  },
+  "msha": [
+    {
+      "mine_id": "3004000",
+      "name": "Wixson Sand & Gravel",
+      "operator": "Morgan Logging & Firewood",
+      "status": "Intermittent",
+      "status_since": "2017-08-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-naples-steve-j-kula-kula-bishop-pit",
+  "slug": "steve-j-kula-kula-bishop-pit",
+  "name": "Steve J Kula – Kula-Bishop Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Naples",
+    "state": "NY",
+    "zip": "14512"
+  },
+  "location": {
+    "lat": 42.611944,
+    "lng": -77.411944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003053"
+  },
+  "msha": [
+    {
+      "mine_id": "3003053",
+      "name": "Kula-Bishop Pit",
+      "operator": "Steve J Kula",
+      "status": "Intermittent",
+      "status_since": "1992-07-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

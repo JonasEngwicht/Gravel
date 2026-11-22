@@ -1,0 +1,41 @@
+{
+  "id": "nh-unity-julian-materials-unity-stone-quarry",
+  "slug": "julian-materials-unity-stone-quarry",
+  "name": "Julian Materials – Unity Stone Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Unity",
+    "state": "NH",
+    "zip": "03601"
+  },
+  "location": {
+    "lat": 43.268333,
+    "lng": -72.279167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700459"
+  },
+  "msha": [
+    {
+      "mine_id": "2700459",
+      "name": "Unity Stone Quarry",
+      "operator": "Julian Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2025-02-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

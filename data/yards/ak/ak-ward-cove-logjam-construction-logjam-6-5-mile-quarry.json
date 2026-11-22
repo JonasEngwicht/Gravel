@@ -1,0 +1,41 @@
+{
+  "id": "ak-ward-cove-logjam-construction-logjam-6-5-mile-quarry",
+  "slug": "logjam-construction-logjam-6-5-mile-quarry",
+  "name": "Logjam Construction – Logjam 6.5 Mile Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ward Cove",
+    "state": "AK",
+    "zip": "99926"
+  },
+  "location": {
+    "lat": 55.4025,
+    "lng": -131.719444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5002122"
+  },
+  "msha": [
+    {
+      "mine_id": "5002122",
+      "name": "Logjam 6.5 Mile Quarry",
+      "operator": "Logjam Construction",
+      "status": "Intermittent",
+      "status_since": "2026-07-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

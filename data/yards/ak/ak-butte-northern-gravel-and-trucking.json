@@ -1,0 +1,41 @@
+{
+  "id": "ak-butte-northern-gravel-and-trucking",
+  "slug": "northern-gravel-and-trucking",
+  "name": "Northern Gravel & Trucking",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Butte",
+    "state": "AK",
+    "zip": "99645"
+  },
+  "location": {
+    "lat": 61.687325,
+    "lng": -149.113808
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001649"
+  },
+  "msha": [
+    {
+      "mine_id": "5001649",
+      "name": "Northern Gravel & Trucking",
+      "operator": "Northern Gravel & Trucking LLC",
+      "status": "Intermittent",
+      "status_since": "2016-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

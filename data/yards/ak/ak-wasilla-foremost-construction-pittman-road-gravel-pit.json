@@ -1,0 +1,41 @@
+{
+  "id": "ak-wasilla-foremost-construction-pittman-road-gravel-pit",
+  "slug": "foremost-construction-pittman-road-gravel-pit",
+  "name": "Foremost Construction – Pittman Road Gravel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Wasilla",
+    "state": "AK",
+    "zip": "99654"
+  },
+  "location": {
+    "lat": 61.641944,
+    "lng": -149.590833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5002091"
+  },
+  "msha": [
+    {
+      "mine_id": "5002091",
+      "name": "Pittman Road Gravel Pit",
+      "operator": "Foremost Construction LLC",
+      "status": "Intermittent",
+      "status_since": "2025-08-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

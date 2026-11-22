@@ -1,0 +1,41 @@
+{
+  "id": "mi-jackson-lester-brothers-excavation-calls-pit",
+  "slug": "lester-brothers-excavation-calls-pit",
+  "name": "Lester Brothers Excavation – Calls Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49254"
+  },
+  "location": {
+    "lat": 42.291944,
+    "lng": -84.285556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003438"
+  },
+  "msha": [
+    {
+      "mine_id": "2003438",
+      "name": "Calls Pit",
+      "operator": "Lester Brothers Excavation, Inc",
+      "status": "Intermittent",
+      "status_since": "2020-09-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

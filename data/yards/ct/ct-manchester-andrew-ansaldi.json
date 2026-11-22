@@ -1,0 +1,41 @@
+{
+  "id": "ct-manchester-andrew-ansaldi",
+  "slug": "andrew-ansaldi",
+  "name": "Andrew Ansaldi",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Manchester",
+    "state": "CT",
+    "zip": "06040"
+  },
+  "location": {
+    "lat": 41.762222,
+    "lng": -72.551667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600536"
+  },
+  "msha": [
+    {
+      "mine_id": "0600536",
+      "name": "Andrew Ansaldi Company",
+      "operator": "Andrew Ansaldi Company",
+      "status": "Intermittent",
+      "status_since": "2001-05-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

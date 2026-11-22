@@ -1,0 +1,41 @@
+{
+  "id": "ny-great-valley-gernatt-asphalt-products-great-valley",
+  "slug": "gernatt-asphalt-products-great-valley",
+  "name": "Gernatt Asphalt Products – Great Valley",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Great Valley",
+    "state": "NY",
+    "zip": "14748"
+  },
+  "location": {
+    "lat": 42.193333,
+    "lng": -78.665278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002847"
+  },
+  "msha": [
+    {
+      "mine_id": "3002847",
+      "name": "Great Valley",
+      "operator": "Gernatt Asphalt Products, Inc.",
+      "status": "Active",
+      "status_since": "2018-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

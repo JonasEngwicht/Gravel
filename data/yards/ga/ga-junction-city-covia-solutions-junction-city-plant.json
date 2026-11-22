@@ -1,0 +1,41 @@
+{
+  "id": "ga-junction-city-covia-solutions-junction-city-plant",
+  "slug": "covia-solutions-junction-city-plant",
+  "name": "Covia Solutions – Junction City Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Junction City",
+    "state": "GA",
+    "zip": "31039"
+  },
+  "location": {
+    "lat": 32.555556,
+    "lng": -84.435833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900726"
+  },
+  "msha": [
+    {
+      "mine_id": "0900726",
+      "name": "Junction City Plant",
+      "operator": "Covia Solutions LLC",
+      "status": "Active",
+      "status_since": "1974-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 41
+    }
+  ]
+}

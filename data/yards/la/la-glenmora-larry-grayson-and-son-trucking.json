@@ -1,0 +1,41 @@
+{
+  "id": "la-glenmora-larry-grayson-and-son-trucking",
+  "slug": "larry-grayson-and-son-trucking",
+  "name": "Larry Grayson & Son Trucking",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Glenmora",
+    "state": "LA",
+    "zip": "71433"
+  },
+  "location": {
+    "lat": 31.068611,
+    "lng": -92.620556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601195"
+  },
+  "msha": [
+    {
+      "mine_id": "1601195",
+      "name": "Larry Grayson & Son Trucking, LLC",
+      "operator": "Larry Grayson & Son Trucking LLC",
+      "status": "Active",
+      "status_since": "1990-03-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

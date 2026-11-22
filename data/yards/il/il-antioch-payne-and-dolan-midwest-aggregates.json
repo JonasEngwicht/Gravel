@@ -1,0 +1,41 @@
+{
+  "id": "il-antioch-payne-and-dolan-midwest-aggregates",
+  "slug": "payne-and-dolan-midwest-aggregates",
+  "name": "Payne & Dolan – Midwest Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Antioch",
+    "state": "IL",
+    "zip": "53192"
+  },
+  "location": {
+    "lat": 42.480833,
+    "lng": -88.196111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1101306"
+  },
+  "msha": [
+    {
+      "mine_id": "1101306",
+      "name": "Midwest Aggregates",
+      "operator": "Payne & Dolan Inc",
+      "status": "Intermittent",
+      "status_since": "2020-11-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

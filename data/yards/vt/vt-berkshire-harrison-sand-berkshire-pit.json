@@ -1,0 +1,41 @@
+{
+  "id": "vt-berkshire-harrison-sand-berkshire-pit",
+  "slug": "harrison-sand-berkshire-pit",
+  "name": "Harrison Sand – Berkshire Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Berkshire",
+    "state": "VT",
+    "zip": "05450"
+  },
+  "location": {
+    "lat": 44.949722,
+    "lng": -72.793333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300772"
+  },
+  "msha": [
+    {
+      "mine_id": "4300772",
+      "name": "Berkshire Pit",
+      "operator": "Harrison Sand Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-06-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

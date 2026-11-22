@@ -1,0 +1,41 @@
+{
+  "id": "ca-littlerock-hi-grade-materials-littlerock-quarry",
+  "slug": "hi-grade-materials-littlerock-quarry",
+  "name": "Hi-Grade Materials – Littlerock Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Littlerock",
+    "state": "CA",
+    "zip": "93552"
+  },
+  "location": {
+    "lat": 34.542777,
+    "lng": -118.018888
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404802"
+  },
+  "msha": [
+    {
+      "mine_id": "0404802",
+      "name": "Littlerock Quarry",
+      "operator": "Hi-Grade Materials Co",
+      "status": "Active",
+      "status_since": "1986-04-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

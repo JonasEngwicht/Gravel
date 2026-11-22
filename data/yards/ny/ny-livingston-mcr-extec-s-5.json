@@ -1,0 +1,41 @@
+{
+  "id": "ny-livingston-mcr-extec-s-5",
+  "slug": "mcr-extec-s-5",
+  "name": "Mcr Extec S-5",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Livingston",
+    "state": "NY",
+    "zip": "12523"
+  },
+  "location": {
+    "lat": 42.129167,
+    "lng": -73.7825
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003594"
+  },
+  "msha": [
+    {
+      "mine_id": "3003594",
+      "name": "Mcr Extec S-5",
+      "operator": "Mcr Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-07-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

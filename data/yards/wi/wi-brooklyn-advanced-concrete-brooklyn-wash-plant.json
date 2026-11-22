@@ -1,0 +1,41 @@
+{
+  "id": "wi-brooklyn-advanced-concrete-brooklyn-wash-plant",
+  "slug": "advanced-concrete-brooklyn-wash-plant",
+  "name": "Advanced Concrete – Brooklyn Wash Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Brooklyn",
+    "state": "WI",
+    "zip": "53521"
+  },
+  "location": {
+    "lat": 42.824139,
+    "lng": -89.41725
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703775"
+  },
+  "msha": [
+    {
+      "mine_id": "4703775",
+      "name": "Brooklyn Wash Plant",
+      "operator": "Advanced Concrete, Inc",
+      "status": "Intermittent",
+      "status_since": "2016-02-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-coopers-plains-dalrymple-gravel-and-contracting-co-coopers-plains-pit",
+  "slug": "dalrymple-gravel-and-contracting-co-coopers-plains-pit",
+  "name": "Dalrymple Gravel & Contracting Co – Coopers Plains Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Coopers Plains",
+    "state": "NY",
+    "zip": "14827"
+  },
+  "location": {
+    "lat": 42.192778,
+    "lng": -77.160833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002426"
+  },
+  "msha": [
+    {
+      "mine_id": "3002426",
+      "name": "Coopers Plains Pit",
+      "operator": "Dalrymple Gravel & Contracting Co Inc",
+      "status": "Intermittent",
+      "status_since": "2024-05-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wa-mt-vernon-skagit-aggregates-big-lake-pit",
+  "slug": "skagit-aggregates-big-lake-pit",
+  "name": "Skagit Aggregates – Big Lake Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mt. Vernon",
+    "state": "WA",
+    "zip": "98274"
+  },
+  "location": {
+    "lat": 48.362222,
+    "lng": -122.176944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503831"
+  },
+  "msha": [
+    {
+      "mine_id": "4503831",
+      "name": "Big Lake Pit",
+      "operator": "Skagit Aggregates, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-01-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-millville-palo-cedro-sand-and-gravel-twin-mine",
+  "slug": "palo-cedro-sand-and-gravel-twin-mine",
+  "name": "Palo Cedro Sand & Gravel – Twin Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Millville",
+    "state": "CA",
+    "zip": "96062"
+  },
+  "location": {
+    "lat": 40.503889,
+    "lng": -122.194722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405752"
+  },
+  "msha": [
+    {
+      "mine_id": "0405752",
+      "name": "Twin Mine",
+      "operator": "Palo Cedro Sand & Gravel LP",
+      "status": "Intermittent",
+      "status_since": "2008-05-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

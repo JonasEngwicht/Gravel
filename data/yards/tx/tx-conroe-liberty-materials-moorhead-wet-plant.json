@@ -1,0 +1,41 @@
+{
+  "id": "tx-conroe-liberty-materials-moorhead-wet-plant",
+  "slug": "liberty-materials-moorhead-wet-plant",
+  "name": "Liberty Materials – Moorhead Wet Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Conroe",
+    "state": "TX",
+    "zip": "77385"
+  },
+  "location": {
+    "lat": 30.165278,
+    "lng": -95.372778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105136"
+  },
+  "msha": [
+    {
+      "mine_id": "4105136",
+      "name": "Moorhead Wet Plant",
+      "operator": "Liberty Materials, Inc.",
+      "status": "Active",
+      "status_since": "2015-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

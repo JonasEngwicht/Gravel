@@ -1,0 +1,41 @@
+{
+  "id": "al-winfield-tcsg-turkey-creek-sand-and-gravel",
+  "slug": "tcsg-turkey-creek-sand-and-gravel",
+  "name": "Tcsg – Turkey Creek Sand and Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Winfield",
+    "state": "AL",
+    "zip": "35548"
+  },
+  "location": {
+    "lat": 34.031389,
+    "lng": -87.743056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103041"
+  },
+  "msha": [
+    {
+      "mine_id": "0103041",
+      "name": "Turkey Creek Sand and Gravel",
+      "operator": "Tcsg, Llc",
+      "status": "Active",
+      "status_since": "2005-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

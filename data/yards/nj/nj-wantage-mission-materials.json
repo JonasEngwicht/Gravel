@@ -1,0 +1,41 @@
+{
+  "id": "nj-wantage-mission-materials",
+  "slug": "mission-materials",
+  "name": "Mission Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Wantage",
+    "state": "NJ",
+    "zip": "07461"
+  },
+  "location": {
+    "lat": 41.237222,
+    "lng": -74.583889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2801021"
+  },
+  "msha": [
+    {
+      "mine_id": "2801021",
+      "name": "Mission Materials",
+      "operator": "Mission Materials",
+      "status": "Active",
+      "status_since": "2022-06-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

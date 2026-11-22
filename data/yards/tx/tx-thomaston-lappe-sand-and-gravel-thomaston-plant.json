@@ -1,0 +1,41 @@
+{
+  "id": "tx-thomaston-lappe-sand-and-gravel-thomaston-plant",
+  "slug": "lappe-sand-and-gravel-thomaston-plant",
+  "name": "Lappe Sand and Gravel – Thomaston Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Thomaston",
+    "state": "TX",
+    "zip": "77976"
+  },
+  "location": {
+    "lat": 28.985,
+    "lng": -97.153056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105541"
+  },
+  "msha": [
+    {
+      "mine_id": "4105541",
+      "name": "Thomaston Plant",
+      "operator": "Lappe Sand and Gravel, LLC",
+      "status": "Active",
+      "status_since": "2025-12-10",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

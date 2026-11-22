@@ -1,0 +1,41 @@
+{
+  "id": "mi-byron-center-steenwyk-and-sons-excavating-pease-ave-pit",
+  "slug": "steenwyk-and-sons-excavating-pease-ave-pit",
+  "name": "Steenwyk and Sons, Excavating – Pease Ave. Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Byron Center",
+    "state": "MI",
+    "zip": "49335"
+  },
+  "location": {
+    "lat": 42.776667,
+    "lng": -85.629722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003566"
+  },
+  "msha": [
+    {
+      "mine_id": "2003566",
+      "name": "Pease Ave. Pit",
+      "operator": "Steenwyk and Sons, Excavating LLC",
+      "status": "Intermittent",
+      "status_since": "2018-07-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

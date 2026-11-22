@@ -1,0 +1,41 @@
+{
+  "id": "ut-mt-pleasant-trb-rock-products",
+  "slug": "trb-rock-products",
+  "name": "Trb Rock Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mt Pleasant",
+    "state": "UT",
+    "zip": "84647"
+  },
+  "location": {
+    "lat": 39.526389,
+    "lng": -111.456389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202778"
+  },
+  "msha": [
+    {
+      "mine_id": "4202778",
+      "name": "Trb Rock",
+      "operator": "Trb Rock Products Llc",
+      "status": "Active",
+      "status_since": "2026-03-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

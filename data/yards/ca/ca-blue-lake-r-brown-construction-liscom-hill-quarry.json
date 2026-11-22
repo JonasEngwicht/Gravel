@@ -1,0 +1,41 @@
+{
+  "id": "ca-blue-lake-r-brown-construction-liscom-hill-quarry",
+  "slug": "r-brown-construction-liscom-hill-quarry",
+  "name": "R Brown Construction – Liscom Hill Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Blue Lake",
+    "state": "CA",
+    "zip": "95525"
+  },
+  "location": {
+    "lat": 40.968554,
+    "lng": -123.862172
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405948"
+  },
+  "msha": [
+    {
+      "mine_id": "0405948",
+      "name": "Liscom Hill Quarry",
+      "operator": "R Brown Construction",
+      "status": "Intermittent",
+      "status_since": "2020-06-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

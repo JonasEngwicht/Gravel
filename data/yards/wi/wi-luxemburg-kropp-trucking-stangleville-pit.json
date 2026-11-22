@@ -1,0 +1,41 @@
+{
+  "id": "wi-luxemburg-kropp-trucking-stangleville-pit",
+  "slug": "kropp-trucking-stangleville-pit",
+  "name": "Kropp Trucking – Stangleville Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Luxemburg",
+    "state": "WI",
+    "zip": "54216"
+  },
+  "location": {
+    "lat": 44.412222,
+    "lng": -87.647778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4702755"
+  },
+  "msha": [
+    {
+      "mine_id": "4702755",
+      "name": "Stangleville Pit",
+      "operator": "Kropp Trucking, Inc.",
+      "status": "Intermittent",
+      "status_since": "2012-03-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

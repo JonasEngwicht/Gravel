@@ -1,0 +1,41 @@
+{
+  "id": "id-mountain-home-jdb3-llc-dba-dodge-boys-excavation-3705-canyon-creek-2",
+  "slug": "jdb3-llc-dba-dodge-boys-excavation-3705-canyon-creek-2",
+  "name": "JDB3 LLC dba Dodge Boys Excavation – 3705 Canyon Creek #2",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mountain Home",
+    "state": "ID",
+    "zip": "83648"
+  },
+  "location": {
+    "lat": 43.153611,
+    "lng": -115.691667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1002360"
+  },
+  "msha": [
+    {
+      "mine_id": "1002360",
+      "name": "3705 Canyon Creek #2",
+      "operator": "JDB3 LLC dba Dodge Boys Excavation",
+      "status": "Intermittent",
+      "status_since": "2024-09-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

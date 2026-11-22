@@ -1,0 +1,41 @@
+{
+  "id": "me-gray-shaw-brothers-construction-gray-pit",
+  "slug": "shaw-brothers-construction-gray-pit",
+  "name": "Shaw Brothers Construction – Gray Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gray",
+    "state": "ME",
+    "zip": "04039"
+  },
+  "location": {
+    "lat": 43.894167,
+    "lng": -70.3025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700237"
+  },
+  "msha": [
+    {
+      "mine_id": "1700237",
+      "name": "Gray Pit",
+      "operator": "Shaw Brothers Construction, Inc.",
+      "status": "Active",
+      "status_since": "2026-06-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

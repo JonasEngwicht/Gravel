@@ -1,0 +1,41 @@
+{
+  "id": "ca-lake-isabella-canebrake-pit",
+  "slug": "canebrake-pit",
+  "name": "Canebrake Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lake Isabella",
+    "state": "CA",
+    "zip": "93255"
+  },
+  "location": {
+    "lat": 35.744167,
+    "lng": -118.118889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0402999"
+  },
+  "msha": [
+    {
+      "mine_id": "0402999",
+      "name": "Canebrake Pit",
+      "operator": "7/11 Materials Inc",
+      "status": "Active",
+      "status_since": "2012-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

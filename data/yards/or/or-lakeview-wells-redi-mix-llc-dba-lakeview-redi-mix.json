@@ -1,0 +1,41 @@
+{
+  "id": "or-lakeview-wells-redi-mix-llc-dba-lakeview-redi-mix",
+  "slug": "wells-redi-mix-llc-dba-lakeview-redi-mix",
+  "name": "Wells Redi-Mix, Llc Dba Lakeview Redi-Mix",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lakeview",
+    "state": "OR",
+    "zip": "97630"
+  },
+  "location": {
+    "lat": 42.176667,
+    "lng": -120.345
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503398"
+  },
+  "msha": [
+    {
+      "mine_id": "3503398",
+      "name": "Lakeview Pit",
+      "operator": "Wells Redi-Mix, Llc Dba Lakeview Redi-Mix",
+      "status": "Intermittent",
+      "status_since": "2013-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

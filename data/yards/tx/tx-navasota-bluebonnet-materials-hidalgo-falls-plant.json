@@ -1,0 +1,41 @@
+{
+  "id": "tx-navasota-bluebonnet-materials-hidalgo-falls-plant",
+  "slug": "bluebonnet-materials-hidalgo-falls-plant",
+  "name": "Bluebonnet Materials – Hidalgo Falls Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Navasota",
+    "state": "TX",
+    "zip": "77880"
+  },
+  "location": {
+    "lat": 30.368333,
+    "lng": -96.186111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105416"
+  },
+  "msha": [
+    {
+      "mine_id": "4105416",
+      "name": "Hidalgo Falls Plant",
+      "operator": "Bluebonnet Materials, LLC",
+      "status": "Active",
+      "status_since": "2019-03-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

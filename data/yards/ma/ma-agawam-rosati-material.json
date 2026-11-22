@@ -1,0 +1,41 @@
+{
+  "id": "ma-agawam-rosati-material",
+  "slug": "rosati-material",
+  "name": "Rosati Material",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Agawam",
+    "state": "MA",
+    "zip": "01001"
+  },
+  "location": {
+    "lat": 42.06,
+    "lng": -72.643056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901288"
+  },
+  "msha": [
+    {
+      "mine_id": "1901288",
+      "name": "Rosati Material Pit 1",
+      "operator": "Rosati Material Inc.",
+      "status": "Intermittent",
+      "status_since": "2020-09-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

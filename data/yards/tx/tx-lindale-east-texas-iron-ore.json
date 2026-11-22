@@ -1,0 +1,41 @@
+{
+  "id": "tx-lindale-east-texas-iron-ore",
+  "slug": "east-texas-iron-ore",
+  "name": "East Texas Iron Ore",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lindale",
+    "state": "TX",
+    "zip": "75771"
+  },
+  "location": {
+    "lat": 32.518889,
+    "lng": -95.416389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105732"
+  },
+  "msha": [
+    {
+      "mine_id": "4105732",
+      "name": "East Texas Iron Ore LLC",
+      "operator": "East Texas Iron Ore LLC",
+      "status": "Intermittent",
+      "status_since": "2024-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "la-jena-pokey-s-materials-aimwell-1",
+  "slug": "pokey-s-materials-aimwell-1",
+  "name": "Pokey's Materials – Aimwell #1",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Jena",
+    "state": "LA",
+    "zip": "71323"
+  },
+  "location": {
+    "lat": 31.244722,
+    "lng": -92.145
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601385"
+  },
+  "msha": [
+    {
+      "mine_id": "1601385",
+      "name": "Aimwell #1",
+      "operator": "Pokey's Materials, LLC",
+      "status": "Active",
+      "status_since": "2016-01-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

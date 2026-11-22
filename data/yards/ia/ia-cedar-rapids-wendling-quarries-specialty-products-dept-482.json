@@ -1,0 +1,41 @@
+{
+  "id": "ia-cedar-rapids-wendling-quarries-specialty-products-dept-482",
+  "slug": "wendling-quarries-specialty-products-dept-482",
+  "name": "Wendling Quarries – Specialty Products Dept. 482",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip": "52411"
+  },
+  "location": {
+    "lat": 42.051111,
+    "lng": -91.735833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302505"
+  },
+  "msha": [
+    {
+      "mine_id": "1302505",
+      "name": "Specialty Products Dept. 482",
+      "operator": "Wendling Quarries, Inc.",
+      "status": "Active",
+      "status_since": "2026-10-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

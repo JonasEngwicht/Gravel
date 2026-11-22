@@ -1,0 +1,41 @@
+{
+  "id": "pa-volant-slippery-rock-materials-cress-pit",
+  "slug": "slippery-rock-materials-cress-pit",
+  "name": "Slippery Rock Materials – Cress Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Volant",
+    "state": "PA",
+    "zip": "16156"
+  },
+  "location": {
+    "lat": 41.080278,
+    "lng": -80.181389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3607161"
+  },
+  "msha": [
+    {
+      "mine_id": "3607161",
+      "name": "Cress Pit",
+      "operator": "Slippery Rock Materials Inc",
+      "status": "Active",
+      "status_since": "2021-12-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

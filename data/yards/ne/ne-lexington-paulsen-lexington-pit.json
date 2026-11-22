@@ -1,0 +1,41 @@
+{
+  "id": "ne-lexington-paulsen-lexington-pit",
+  "slug": "paulsen-lexington-pit",
+  "name": "Paulsen – Lexington Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lexington",
+    "state": "NE",
+    "zip": "68850"
+  },
+  "location": {
+    "lat": 40.743333,
+    "lng": -99.725
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2500263"
+  },
+  "msha": [
+    {
+      "mine_id": "2500263",
+      "name": "Lexington Pit",
+      "operator": "Paulsen Inc",
+      "status": "Intermittent",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

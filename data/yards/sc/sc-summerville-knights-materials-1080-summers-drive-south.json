@@ -1,0 +1,41 @@
+{
+  "id": "sc-summerville-knights-materials-1080-summers-drive-south",
+  "slug": "knights-materials-1080-summers-drive-south",
+  "name": "Knights Materials – 1080 Summers Drive South",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Summerville",
+    "state": "SC",
+    "zip": "29485"
+  },
+  "location": {
+    "lat": 32.919692,
+    "lng": -80.296782
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800760"
+  },
+  "msha": [
+    {
+      "mine_id": "3800760",
+      "name": "1080 Summers Drive South",
+      "operator": "Knights Materials LLC",
+      "status": "Active",
+      "status_since": "2023-04-17",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

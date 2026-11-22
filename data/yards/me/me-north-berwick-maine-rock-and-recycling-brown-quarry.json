@@ -1,0 +1,41 @@
+{
+  "id": "me-north-berwick-maine-rock-and-recycling-brown-quarry",
+  "slug": "maine-rock-and-recycling-brown-quarry",
+  "name": "Maine Rock and Recycling – Brown Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "North Berwick",
+    "state": "ME",
+    "zip": "03901"
+  },
+  "location": {
+    "lat": 43.2775,
+    "lng": -70.859167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701076"
+  },
+  "msha": [
+    {
+      "mine_id": "1701076",
+      "name": "Brown Quarry",
+      "operator": "Maine Rock and Recycling LLC",
+      "status": "Active",
+      "status_since": "2024-12-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

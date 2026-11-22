@@ -1,0 +1,41 @@
+{
+  "id": "ny-cold-brook-poland-sand-and-gravel-norway-pit",
+  "slug": "poland-sand-and-gravel-norway-pit",
+  "name": "Poland Sand & Gravel Norway Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cold Brook",
+    "state": "NY",
+    "zip": "12032"
+  },
+  "location": {
+    "lat": 43.388611,
+    "lng": -74.570556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003823"
+  },
+  "msha": [
+    {
+      "mine_id": "3003823",
+      "name": "Poland Sand & Gravel Norway Pit",
+      "operator": "Poland Sand & Gravel Llc",
+      "status": "Intermittent",
+      "status_since": "2017-12-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

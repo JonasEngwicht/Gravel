@@ -1,0 +1,41 @@
+{
+  "id": "ca-lebec-griffith-edmonston-rock-plant",
+  "slug": "griffith-edmonston-rock-plant",
+  "name": "Griffith – Edmonston Rock Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lebec",
+    "state": "CA",
+    "zip": "93243"
+  },
+  "location": {
+    "lat": 34.951111,
+    "lng": -118.836389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0403447"
+  },
+  "msha": [
+    {
+      "mine_id": "0403447",
+      "name": "Edmonston Rock Plant",
+      "operator": "Griffith Company",
+      "status": "Active",
+      "status_since": "2010-11-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

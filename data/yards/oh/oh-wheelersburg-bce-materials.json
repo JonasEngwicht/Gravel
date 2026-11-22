@@ -1,0 +1,41 @@
+{
+  "id": "oh-wheelersburg-bce-materials",
+  "slug": "bce-materials",
+  "name": "BCE Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Wheelersburg",
+    "state": "OH",
+    "zip": "45629"
+  },
+  "location": {
+    "lat": 38.703333,
+    "lng": -82.854722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304055"
+  },
+  "msha": [
+    {
+      "mine_id": "3304055",
+      "name": "BCE Materials Inc",
+      "operator": "BCE Materials Inc",
+      "status": "Active",
+      "status_since": "2023-11-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

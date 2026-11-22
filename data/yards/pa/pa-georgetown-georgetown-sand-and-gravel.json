@@ -1,0 +1,41 @@
+{
+  "id": "pa-georgetown-georgetown-sand-and-gravel",
+  "slug": "georgetown-sand-and-gravel",
+  "name": "Georgetown Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Georgetown",
+    "state": "PA",
+    "zip": "15059"
+  },
+  "location": {
+    "lat": 40.64,
+    "lng": -80.493889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3605205"
+  },
+  "msha": [
+    {
+      "mine_id": "3605205",
+      "name": "Georgetown Sand & Gravel Inc.",
+      "operator": "Georgetown Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "1994-11-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-robert-lee-ingram-readymix-no-87-silver-s-and-g",
+  "slug": "ingram-readymix-no-87-silver-s-and-g",
+  "name": "Ingram Readymix No. 87 – Silver S&G",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Robert Lee",
+    "state": "TX",
+    "zip": "76945"
+  },
+  "location": {
+    "lat": 32.051667,
+    "lng": -100.73
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105657"
+  },
+  "msha": [
+    {
+      "mine_id": "4105657",
+      "name": "Silver S&G",
+      "operator": "Ingram Readymix No. 87, L.L.C.",
+      "status": "Intermittent",
+      "status_since": "2023-02-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

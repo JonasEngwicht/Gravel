@@ -1,0 +1,41 @@
+{
+  "id": "nv-ely-reck-brothers-hi-line-quarry",
+  "slug": "reck-brothers-hi-line-quarry",
+  "name": "Reck Brothers – Hi Line Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ely",
+    "state": "NV",
+    "zip": "89315"
+  },
+  "location": {
+    "lat": 39.290556,
+    "lng": -114.844444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602421"
+  },
+  "msha": [
+    {
+      "mine_id": "2602421",
+      "name": "Hi Line Quarry",
+      "operator": "Reck Brothers, LLC",
+      "status": "Intermittent",
+      "status_since": "2020-01-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

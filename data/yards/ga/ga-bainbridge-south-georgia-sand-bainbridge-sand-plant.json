@@ -1,0 +1,41 @@
+{
+  "id": "ga-bainbridge-south-georgia-sand-bainbridge-sand-plant",
+  "slug": "south-georgia-sand-bainbridge-sand-plant",
+  "name": "South Georgia Sand – Bainbridge Sand Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bainbridge",
+    "state": "GA",
+    "zip": "39817"
+  },
+  "location": {
+    "lat": 30.953611,
+    "lng": -84.569444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900407"
+  },
+  "msha": [
+    {
+      "mine_id": "0900407",
+      "name": "Bainbridge Sand Plant",
+      "operator": "South Georgia Sand, LLC",
+      "status": "Active",
+      "status_since": "1984-10-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

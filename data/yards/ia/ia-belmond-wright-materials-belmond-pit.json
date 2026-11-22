@@ -1,0 +1,41 @@
+{
+  "id": "ia-belmond-wright-materials-belmond-pit",
+  "slug": "wright-materials-belmond-pit",
+  "name": "Wright Materials – Belmond Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Belmond",
+    "state": "IA",
+    "zip": "50421"
+  },
+  "location": {
+    "lat": 42.848333,
+    "lng": -93.616944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300736"
+  },
+  "msha": [
+    {
+      "mine_id": "1300736",
+      "name": "Belmond Pit",
+      "operator": "Wright Materials Company",
+      "status": "Intermittent",
+      "status_since": "2019-02-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

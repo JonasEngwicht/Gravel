@@ -1,0 +1,41 @@
+{
+  "id": "ar-harrisburg-capital-sand-company-harrisburg-south-plant-14",
+  "slug": "capital-sand-company-harrisburg-south-plant-14",
+  "name": "Capital Sand Company – Harrisburg South- Plant #14",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Harrisburg",
+    "state": "AR",
+    "zip": "72432"
+  },
+  "location": {
+    "lat": 35.489444,
+    "lng": -90.697778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301603"
+  },
+  "msha": [
+    {
+      "mine_id": "0301603",
+      "name": "Harrisburg South- Plant #14",
+      "operator": "Capital Sand Company, Inc.",
+      "status": "Active",
+      "status_since": "1986-01-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

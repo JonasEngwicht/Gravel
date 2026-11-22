@@ -1,0 +1,41 @@
+{
+  "id": "ia-hawarden-l-g-everist-hawarden-plant",
+  "slug": "l-g-everist-hawarden-plant",
+  "name": "L. G. Everist – Hawarden Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hawarden",
+    "state": "IA",
+    "zip": "51023"
+  },
+  "location": {
+    "lat": 42.995833,
+    "lng": -96.485278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300709"
+  },
+  "msha": [
+    {
+      "mine_id": "1300709",
+      "name": "Hawarden Plant",
+      "operator": "L. G. Everist, Inc.",
+      "status": "Active",
+      "status_since": "2023-03-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

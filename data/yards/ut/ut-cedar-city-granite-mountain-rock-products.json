@@ -1,0 +1,41 @@
+{
+  "id": "ut-cedar-city-granite-mountain-rock-products",
+  "slug": "granite-mountain-rock-products",
+  "name": "Granite Mountain Rock Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Cedar City",
+    "state": "UT",
+    "zip": "84721"
+  },
+  "location": {
+    "lat": 37.739167,
+    "lng": -113.2375
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202777"
+  },
+  "msha": [
+    {
+      "mine_id": "4202777",
+      "name": "Granite Mountain",
+      "operator": "Granite Mountain Rock Products, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-06-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-macdona-brauntex-materials-medina-river-sand-and-gravel",
+  "slug": "brauntex-materials-medina-river-sand-and-gravel",
+  "name": "Brauntex Materials – Medina River Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Macdona",
+    "state": "TX",
+    "zip": "78252"
+  },
+  "location": {
+    "lat": 29.335278,
+    "lng": -98.678056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105543"
+  },
+  "msha": [
+    {
+      "mine_id": "4105543",
+      "name": "Medina River Sand & Gravel",
+      "operator": "Brauntex Materials, Inc.",
+      "status": "Active",
+      "status_since": "2025-12-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-telephone-mc-craw-materials-mccraw-pit",
+  "slug": "mc-craw-materials-mccraw-pit",
+  "name": "Mc Craw Materials – Mccraw Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Telephone",
+    "state": "TX",
+    "zip": "75488"
+  },
+  "location": {
+    "lat": 33.834444,
+    "lng": -96.0325
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104056"
+  },
+  "msha": [
+    {
+      "mine_id": "4104056",
+      "name": "Mccraw Pit",
+      "operator": "Mc Craw Materials",
+      "status": "Active",
+      "status_since": "1999-02-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

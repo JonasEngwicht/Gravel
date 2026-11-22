@@ -1,0 +1,41 @@
+{
+  "id": "nh-newport-k-a-stevens-and-son-coon-brook-pit",
+  "slug": "k-a-stevens-and-son-coon-brook-pit",
+  "name": "K.A. Stevens & Son – Coon Brook Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Newport",
+    "state": "NH",
+    "zip": "03773"
+  },
+  "location": {
+    "lat": 43.365556,
+    "lng": -72.191389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700527"
+  },
+  "msha": [
+    {
+      "mine_id": "2700527",
+      "name": "Coon Brook Pit",
+      "operator": "K.A. Stevens & Son, Inc.",
+      "status": "Active",
+      "status_since": "2024-12-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

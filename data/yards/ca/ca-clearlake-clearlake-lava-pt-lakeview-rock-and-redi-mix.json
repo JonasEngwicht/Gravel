@@ -1,0 +1,41 @@
+{
+  "id": "ca-clearlake-clearlake-lava-pt-lakeview-rock-and-redi-mix",
+  "slug": "clearlake-lava-pt-lakeview-rock-and-redi-mix",
+  "name": "Clearlake Lava – Pt Lakeview Rock & Redi Mix",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Clearlake",
+    "state": "CA",
+    "zip": "95422"
+  },
+  "location": {
+    "lat": 38.927222,
+    "lng": -122.6625
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0403608"
+  },
+  "msha": [
+    {
+      "mine_id": "0403608",
+      "name": "Pt Lakeview Rock & Redi Mix",
+      "operator": "Clearlake Lava Inc",
+      "status": "Active",
+      "status_since": "1990-09-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "va-gore-shenandoah-sand-gore-mine",
+  "slug": "shenandoah-sand-gore-mine",
+  "name": "Shenandoah Sand – Gore Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gore",
+    "state": "VA",
+    "zip": "22637"
+  },
+  "location": {
+    "lat": 39.253056,
+    "lng": -78.361389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4407062"
+  },
+  "msha": [
+    {
+      "mine_id": "4407062",
+      "name": "Gore Mine",
+      "operator": "Shenandoah Sand, Inc.",
+      "status": "Active",
+      "status_since": "2002-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

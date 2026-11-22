@@ -1,0 +1,41 @@
+{
+  "id": "vt-ludlow-m-and-m-excavating-pelkey-pit",
+  "slug": "m-and-m-excavating-pelkey-pit",
+  "name": "M&M Excavating – Pelkey Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ludlow",
+    "state": "VT",
+    "zip": "05149"
+  },
+  "location": {
+    "lat": 43.348611,
+    "lng": -72.725278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300618"
+  },
+  "msha": [
+    {
+      "mine_id": "4300618",
+      "name": "Pelkey Pit",
+      "operator": "M&M Excavating, Inc.",
+      "status": "Intermittent",
+      "status_since": "2004-10-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

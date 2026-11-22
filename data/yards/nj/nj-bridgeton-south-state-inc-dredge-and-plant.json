@@ -1,0 +1,41 @@
+{
+  "id": "nj-bridgeton-south-state-inc-dredge-and-plant",
+  "slug": "south-state-inc-dredge-and-plant",
+  "name": "South State Inc Dredge & Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bridgeton",
+    "state": "NJ",
+    "zip": "08320"
+  },
+  "location": {
+    "lat": 39.4325,
+    "lng": -75.189167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800639"
+  },
+  "msha": [
+    {
+      "mine_id": "2800639",
+      "name": "South State Inc Dredge & Plant",
+      "operator": "South State Inc",
+      "status": "Active",
+      "status_since": "2016-10-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

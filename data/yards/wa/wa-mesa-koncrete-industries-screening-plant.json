@@ -1,0 +1,41 @@
+{
+  "id": "wa-mesa-koncrete-industries-screening-plant",
+  "slug": "koncrete-industries-screening-plant",
+  "name": "Koncrete Industries Screening Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mesa",
+    "state": "WA",
+    "zip": "99330"
+  },
+  "location": {
+    "lat": 46.576389,
+    "lng": -119.006667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503689"
+  },
+  "msha": [
+    {
+      "mine_id": "4503689",
+      "name": "Koncrete Industries Screening Plant",
+      "operator": "Koncrete Industries, Inc.",
+      "status": "Intermittent",
+      "status_since": "2018-05-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-rio-grande-city-iron-rock-starr-1",
+  "slug": "iron-rock-starr-1",
+  "name": "Iron Rock Starr 1",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Rio Grande City",
+    "state": "TX",
+    "zip": "78582"
+  },
+  "location": {
+    "lat": 26.425,
+    "lng": -98.8725
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105843"
+  },
+  "msha": [
+    {
+      "mine_id": "4105843",
+      "name": "Iron Rock Starr 1",
+      "operator": "Iron Rock Aggregates JV",
+      "status": "Active",
+      "status_since": "2026-01-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nh-wilton-northeast-sand-and-gravel-peterborough-pit",
+  "slug": "northeast-sand-and-gravel-peterborough-pit",
+  "name": "Northeast Sand and Gravel – Peterborough Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Wilton",
+    "state": "NH",
+    "zip": "03458"
+  },
+  "location": {
+    "lat": 42.856944,
+    "lng": -71.955278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700516"
+  },
+  "msha": [
+    {
+      "mine_id": "2700516",
+      "name": "Peterborough Pit",
+      "operator": "Northeast Sand and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2024-12-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

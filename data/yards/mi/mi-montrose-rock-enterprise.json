@@ -1,0 +1,41 @@
+{
+  "id": "mi-montrose-rock-enterprise",
+  "slug": "rock-enterprise",
+  "name": "Rock Enterprise",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Montrose",
+    "state": "MI",
+    "zip": "48457"
+  },
+  "location": {
+    "lat": 43.208889,
+    "lng": -83.877778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003388"
+  },
+  "msha": [
+    {
+      "mine_id": "2003388",
+      "name": "Rock Enterprise",
+      "operator": "Rock Enterprise",
+      "status": "Intermittent",
+      "status_since": "2025-12-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

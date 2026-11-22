@@ -1,0 +1,41 @@
+{
+  "id": "pr-gurabo-productos-de-agregados-de-gurabo",
+  "slug": "productos-de-agregados-de-gurabo",
+  "name": "Productos De Agregados De Gurabo",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Gurabo",
+    "state": "PR",
+    "zip": "00725"
+  },
+  "location": {
+    "lat": 18.226389,
+    "lng": -66.001667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400316"
+  },
+  "msha": [
+    {
+      "mine_id": "5400316",
+      "name": "Productos de Agregados de Gurabo",
+      "operator": "Productos De Agregados De Gurabo",
+      "status": "Active",
+      "status_since": "2003-01-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

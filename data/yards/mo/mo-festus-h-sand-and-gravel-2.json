@@ -1,0 +1,41 @@
+{
+  "id": "mo-festus-h-sand-and-gravel-2",
+  "slug": "h-sand-and-gravel-2",
+  "name": "H Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Festus",
+    "state": "MO",
+    "zip": "63028"
+  },
+  "location": {
+    "lat": 38.125556,
+    "lng": -90.381389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301989"
+  },
+  "msha": [
+    {
+      "mine_id": "2301989",
+      "name": "H Sand & Gravel",
+      "operator": "H Sand & Gravel",
+      "status": "Active",
+      "status_since": "2014-03-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

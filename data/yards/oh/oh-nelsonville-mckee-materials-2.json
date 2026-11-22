@@ -1,0 +1,41 @@
+{
+  "id": "oh-nelsonville-mckee-materials-2",
+  "slug": "mckee-materials-2",
+  "name": "McKee Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Nelsonville",
+    "state": "OH",
+    "zip": "45764"
+  },
+  "location": {
+    "lat": 39.459722,
+    "lng": -82.248056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304827"
+  },
+  "msha": [
+    {
+      "mine_id": "3304827",
+      "name": "McKee Materials 2",
+      "operator": "McKee Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2026-09-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

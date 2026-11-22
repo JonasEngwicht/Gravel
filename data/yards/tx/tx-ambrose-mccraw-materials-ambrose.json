@@ -1,0 +1,41 @@
+{
+  "id": "tx-ambrose-mccraw-materials-ambrose",
+  "slug": "mccraw-materials-ambrose",
+  "name": "McCraw Materials – Ambrose",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ambrose",
+    "state": "TX",
+    "zip": "75414"
+  },
+  "location": {
+    "lat": 33.677778,
+    "lng": -96.389722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105504"
+  },
+  "msha": [
+    {
+      "mine_id": "4105504",
+      "name": "Ambrose",
+      "operator": "McCraw Materials",
+      "status": "Active",
+      "status_since": "2020-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

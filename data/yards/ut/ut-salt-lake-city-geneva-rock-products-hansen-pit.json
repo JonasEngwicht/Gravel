@@ -1,0 +1,41 @@
+{
+  "id": "ut-salt-lake-city-geneva-rock-products-hansen-pit",
+  "slug": "geneva-rock-products-hansen-pit",
+  "name": "Geneva Rock Products – Hansen Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84065"
+  },
+  "location": {
+    "lat": 40.467222,
+    "lng": -111.910556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202107"
+  },
+  "msha": [
+    {
+      "mine_id": "4202107",
+      "name": "Hansen Pit",
+      "operator": "Geneva Rock Products Inc",
+      "status": "Active",
+      "status_since": "2014-11-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 62
+    }
+  ]
+}

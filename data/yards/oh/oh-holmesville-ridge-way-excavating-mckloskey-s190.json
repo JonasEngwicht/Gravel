@@ -1,0 +1,41 @@
+{
+  "id": "oh-holmesville-ridge-way-excavating-mckloskey-s190",
+  "slug": "ridge-way-excavating-mckloskey-s190",
+  "name": "Ridge Way Excavating – Mckloskey s190",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Holmesville",
+    "state": "OH",
+    "zip": "44633"
+  },
+  "location": {
+    "lat": 40.598611,
+    "lng": -81.9025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304819"
+  },
+  "msha": [
+    {
+      "mine_id": "3304819",
+      "name": "Mckloskey s190",
+      "operator": "Ridge Way Excavating",
+      "status": "Intermittent",
+      "status_since": "2025-12-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

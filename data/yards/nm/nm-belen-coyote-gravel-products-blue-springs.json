@@ -1,0 +1,41 @@
+{
+  "id": "nm-belen-coyote-gravel-products-blue-springs",
+  "slug": "coyote-gravel-products-blue-springs",
+  "name": "Coyote Gravel Products – Blue Springs",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Belen",
+    "state": "NM",
+    "zip": "87023"
+  },
+  "location": {
+    "lat": 34.6545,
+    "lng": -106.7583
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902544"
+  },
+  "msha": [
+    {
+      "mine_id": "2902544",
+      "name": "Blue Springs",
+      "operator": "Coyote Gravel Products Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-05-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

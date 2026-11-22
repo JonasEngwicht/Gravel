@@ -1,0 +1,41 @@
+{
+  "id": "ny-hopkinton-seaway-timber-harvesting-lake-ozonia",
+  "slug": "seaway-timber-harvesting-lake-ozonia",
+  "name": "Seaway Timber Harvesting – Lake Ozonia",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hopkinton",
+    "state": "NY",
+    "zip": "12965"
+  },
+  "location": {
+    "lat": 44.631667,
+    "lng": -74.661667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004091"
+  },
+  "msha": [
+    {
+      "mine_id": "3004091",
+      "name": "Lake Ozonia",
+      "operator": "Seaway Timber Harvesting, Inc.",
+      "status": "Intermittent",
+      "status_since": "2022-08-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

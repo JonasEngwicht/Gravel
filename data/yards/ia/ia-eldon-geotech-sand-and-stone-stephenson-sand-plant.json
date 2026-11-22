@@ -1,0 +1,41 @@
+{
+  "id": "ia-eldon-geotech-sand-and-stone-stephenson-sand-plant",
+  "slug": "geotech-sand-and-stone-stephenson-sand-plant",
+  "name": "Geotech Sand & Stone – Stephenson Sand Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Eldon",
+    "state": "IA",
+    "zip": "52554"
+  },
+  "location": {
+    "lat": 40.921111,
+    "lng": -92.275
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302426"
+  },
+  "msha": [
+    {
+      "mine_id": "1302426",
+      "name": "Stephenson Sand Plant",
+      "operator": "Geotech Sand & Stone, Inc.",
+      "status": "Active",
+      "status_since": "2023-10-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

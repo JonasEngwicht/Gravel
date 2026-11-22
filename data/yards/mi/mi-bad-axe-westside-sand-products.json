@@ -1,0 +1,41 @@
+{
+  "id": "mi-bad-axe-westside-sand-products",
+  "slug": "westside-sand-products",
+  "name": "Westside Sand Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bad Axe",
+    "state": "MI",
+    "zip": "48731"
+  },
+  "location": {
+    "lat": 43.766389,
+    "lng": -83.120278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003553"
+  },
+  "msha": [
+    {
+      "mine_id": "2003553",
+      "name": "Westside Sand Products",
+      "operator": "Westside Sand Products",
+      "status": "Intermittent",
+      "status_since": "2020-09-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

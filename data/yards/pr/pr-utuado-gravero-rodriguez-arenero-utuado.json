@@ -1,0 +1,41 @@
+{
+  "id": "pr-utuado-gravero-rodriguez-arenero-utuado",
+  "slug": "gravero-rodriguez-arenero-utuado",
+  "name": "Gravero Rodriguez – Arenero Utuado",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Utuado",
+    "state": "PR",
+    "zip": "00641"
+  },
+  "location": {
+    "lat": 18.265,
+    "lng": -66.701667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400514"
+  },
+  "msha": [
+    {
+      "mine_id": "5400514",
+      "name": "Arenero Utuado",
+      "operator": "Gravero Rodriguez",
+      "status": "Active",
+      "status_since": "2025-08-15",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ct-union-tall-pines-land-development",
+  "slug": "tall-pines-land-development",
+  "name": "Tall Pines Land Development",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Union",
+    "state": "CT",
+    "zip": "01521"
+  },
+  "location": {
+    "lat": 42.006111,
+    "lng": -72.155556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600800"
+  },
+  "msha": [
+    {
+      "mine_id": "0600800",
+      "name": "Tall Pines Pit #1",
+      "operator": "Tall Pines Land Development",
+      "status": "Intermittent",
+      "status_since": "2025-04-10",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

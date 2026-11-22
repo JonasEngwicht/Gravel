@@ -1,0 +1,41 @@
+{
+  "id": "ca-willows-valley-rock-products-willows",
+  "slug": "valley-rock-products-willows",
+  "name": "Valley Rock Products - Willows",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Willows",
+    "state": "CA",
+    "zip": "95913"
+  },
+  "location": {
+    "lat": 39.598889,
+    "lng": -122.169167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404618"
+  },
+  "msha": [
+    {
+      "mine_id": "0404618",
+      "name": "Valley Rock Products - Willows",
+      "operator": "Valley Rock Products",
+      "status": "Active",
+      "status_since": "1992-10-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

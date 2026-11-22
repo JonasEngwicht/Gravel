@@ -1,0 +1,41 @@
+{
+  "id": "mi-niles-moose-lake-aggregates",
+  "slug": "moose-lake-aggregates",
+  "name": "Moose Lake Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Niles",
+    "state": "MI",
+    "zip": "49120"
+  },
+  "location": {
+    "lat": 41.885,
+    "lng": -86.175278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003081"
+  },
+  "msha": [
+    {
+      "mine_id": "2003081",
+      "name": "Moose Lake Aggregates Llc",
+      "operator": "Moose Lake Aggregates, LLC",
+      "status": "Intermittent",
+      "status_since": "2021-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

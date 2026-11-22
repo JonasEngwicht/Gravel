@@ -1,0 +1,41 @@
+{
+  "id": "nc-murfreesboro-commercial-ready-mix-products-newsome-pit-2",
+  "slug": "commercial-ready-mix-products-newsome-pit-2",
+  "name": "Commercial Ready Mix Products – Newsome Pit #2",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Murfreesboro",
+    "state": "NC",
+    "zip": "27853"
+  },
+  "location": {
+    "lat": 36.488587,
+    "lng": -77.257757
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101680"
+  },
+  "msha": [
+    {
+      "mine_id": "3101680",
+      "name": "Newsome Pit #2",
+      "operator": "Commercial Ready Mix Products Inc",
+      "status": "Active",
+      "status_since": "1992-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

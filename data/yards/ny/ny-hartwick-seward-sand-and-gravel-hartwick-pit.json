@@ -1,0 +1,41 @@
+{
+  "id": "ny-hartwick-seward-sand-and-gravel-hartwick-pit",
+  "slug": "seward-sand-and-gravel-hartwick-pit",
+  "name": "Seward Sand & Gravel – Hartwick Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Hartwick",
+    "state": "NY",
+    "zip": "13348"
+  },
+  "location": {
+    "lat": 42.649722,
+    "lng": -75.049722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004122"
+  },
+  "msha": [
+    {
+      "mine_id": "3004122",
+      "name": "Hartwick Pit",
+      "operator": "Seward Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "2025-09-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

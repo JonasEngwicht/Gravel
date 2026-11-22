@@ -1,0 +1,41 @@
+{
+  "id": "ma-chicopee-chicopee-concrete-service-incorported-south-hadley-pit",
+  "slug": "chicopee-concrete-service-incorported-south-hadley-pit",
+  "name": "Chicopee Concrete Service Incorported – South Hadley Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Chicopee",
+    "state": "MA",
+    "zip": "01075"
+  },
+  "location": {
+    "lat": 42.279167,
+    "lng": -72.589167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900287"
+  },
+  "msha": [
+    {
+      "mine_id": "1900287",
+      "name": "South Hadley Pit",
+      "operator": "Chicopee Concrete Service Incorported",
+      "status": "Intermittent",
+      "status_since": "2025-09-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

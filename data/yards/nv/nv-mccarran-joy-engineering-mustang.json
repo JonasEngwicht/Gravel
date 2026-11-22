@@ -1,0 +1,41 @@
+{
+  "id": "nv-mccarran-joy-engineering-mustang",
+  "slug": "joy-engineering-mustang",
+  "name": "Joy Engineering – Mustang",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Mccarran",
+    "state": "NV",
+    "zip": "89434"
+  },
+  "location": {
+    "lat": 39.547061,
+    "lng": -119.553794
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602919"
+  },
+  "msha": [
+    {
+      "mine_id": "2602919",
+      "name": "Mustang",
+      "operator": "Joy Engineering",
+      "status": "Intermittent",
+      "status_since": "2026-02-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-suffolk-110-sand-broad-hollow-estates-inc",
+  "slug": "110-sand-broad-hollow-estates-inc",
+  "name": "110 Sand – Broad Hollow Estates Inc",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Suffolk",
+    "state": "NY",
+    "zip": "11747"
+  },
+  "location": {
+    "lat": 40.762778,
+    "lng": -73.423056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000995"
+  },
+  "msha": [
+    {
+      "mine_id": "3000995",
+      "name": "Broad Hollow Estates Inc",
+      "operator": "110 Sand Company",
+      "status": "Active",
+      "status_since": "2023-05-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

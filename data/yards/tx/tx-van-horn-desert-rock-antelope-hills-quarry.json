@@ -1,0 +1,41 @@
+{
+  "id": "tx-van-horn-desert-rock-antelope-hills-quarry",
+  "slug": "desert-rock-antelope-hills-quarry",
+  "name": "Desert Rock – Antelope Hills Quarry",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Van Horn",
+    "state": "TX",
+    "zip": "79851"
+  },
+  "location": {
+    "lat": 31.167222,
+    "lng": -105.346944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104484"
+  },
+  "msha": [
+    {
+      "mine_id": "4104484",
+      "name": "Antelope Hills Quarry",
+      "operator": "Desert Rock Company",
+      "status": "Active",
+      "status_since": "2016-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

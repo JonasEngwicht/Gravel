@@ -1,0 +1,41 @@
+{
+  "id": "ma-lee-century-aggregates-lenox-dale-plant",
+  "slug": "century-aggregates-lenox-dale-plant",
+  "name": "Century Aggregates – Lenox Dale Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lee",
+    "state": "MA",
+    "zip": "01242"
+  },
+  "location": {
+    "lat": 42.331389,
+    "lng": -73.245278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900368"
+  },
+  "msha": [
+    {
+      "mine_id": "1900368",
+      "name": "Lenox Dale Plant",
+      "operator": "Century Aggregates Inc",
+      "status": "Intermittent",
+      "status_since": "2025-10-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

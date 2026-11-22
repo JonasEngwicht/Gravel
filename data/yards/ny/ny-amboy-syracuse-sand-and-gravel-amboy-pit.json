@@ -1,0 +1,41 @@
+{
+  "id": "ny-amboy-syracuse-sand-and-gravel-amboy-pit",
+  "slug": "syracuse-sand-and-gravel-amboy-pit",
+  "name": "Syracuse Sand & Gravel – Amboy Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Amboy",
+    "state": "NY",
+    "zip": "14555"
+  },
+  "location": {
+    "lat": 43.395833,
+    "lng": -76.868889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003299"
+  },
+  "msha": [
+    {
+      "mine_id": "3003299",
+      "name": "Amboy Pit",
+      "operator": "Syracuse Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2026-05-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

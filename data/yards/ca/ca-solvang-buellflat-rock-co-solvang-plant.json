@@ -1,0 +1,41 @@
+{
+  "id": "ca-solvang-buellflat-rock-co-solvang-plant",
+  "slug": "buellflat-rock-co-solvang-plant",
+  "name": "Buellflat Rock Co – Solvang Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Solvang",
+    "state": "CA",
+    "zip": "93463"
+  },
+  "location": {
+    "lat": 34.594444,
+    "lng": -120.154167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401710"
+  },
+  "msha": [
+    {
+      "mine_id": "0401710",
+      "name": "Solvang Plant",
+      "operator": "Buellflat Rock Co Inc",
+      "status": "Active",
+      "status_since": "1976-05-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

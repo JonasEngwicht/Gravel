@@ -1,0 +1,41 @@
+{
+  "id": "nh-andover-champagne-quality-aggregates",
+  "slug": "champagne-quality-aggregates",
+  "name": "Champagne Quality Aggregates",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Andover",
+    "state": "NH",
+    "zip": "03216"
+  },
+  "location": {
+    "lat": 43.443056,
+    "lng": -71.798889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700524"
+  },
+  "msha": [
+    {
+      "mine_id": "2700524",
+      "name": "Champagne Quality Aggregates",
+      "operator": "Champagne Quality Aggregates LLC",
+      "status": "Active",
+      "status_since": "2024-12-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

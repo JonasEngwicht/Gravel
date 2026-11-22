@@ -1,0 +1,41 @@
+{
+  "id": "ok-picher-williams-diversified-materials-atlas",
+  "slug": "williams-diversified-materials-atlas",
+  "name": "Williams Diversified Materials – Atlas",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Picher",
+    "state": "OK",
+    "zip": "74360"
+  },
+  "location": {
+    "lat": 36.983056,
+    "lng": -94.812778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402231"
+  },
+  "msha": [
+    {
+      "mine_id": "3402231",
+      "name": "Atlas",
+      "operator": "Williams Diversified Materials, Inc.",
+      "status": "Active",
+      "status_since": "2023-10-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

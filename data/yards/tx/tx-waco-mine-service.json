@@ -1,0 +1,41 @@
+{
+  "id": "tx-waco-mine-service",
+  "slug": "mine-service",
+  "name": "Mine Service",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76712"
+  },
+  "location": {
+    "lat": 31.5275,
+    "lng": -97.281111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104226"
+  },
+  "msha": [
+    {
+      "mine_id": "4104226",
+      "name": "Mine Service Ltd.",
+      "operator": "Mine Service Inc.",
+      "status": "Active",
+      "status_since": "2012-05-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

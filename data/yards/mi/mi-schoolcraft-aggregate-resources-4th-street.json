@@ -1,0 +1,41 @@
+{
+  "id": "mi-schoolcraft-aggregate-resources-4th-street",
+  "slug": "aggregate-resources-4th-street",
+  "name": "Aggregate Resources – 4th Street",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Schoolcraft",
+    "state": "MI",
+    "zip": "49087"
+  },
+  "location": {
+    "lat": 42.149722,
+    "lng": -85.715556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2002823"
+  },
+  "msha": [
+    {
+      "mine_id": "2002823",
+      "name": "4th Street",
+      "operator": "Aggregate Resources, Inc.",
+      "status": "Active",
+      "status_since": "2014-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

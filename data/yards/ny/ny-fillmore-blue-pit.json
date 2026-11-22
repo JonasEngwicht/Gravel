@@ -1,0 +1,41 @@
+{
+  "id": "ny-fillmore-blue-pit",
+  "slug": "blue-pit",
+  "name": "Blue Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Fillmore",
+    "state": "NY",
+    "zip": "14130"
+  },
+  "location": {
+    "lat": 42.497222,
+    "lng": -78.156389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004178"
+  },
+  "msha": [
+    {
+      "mine_id": "3004178",
+      "name": "Blue Pit",
+      "operator": "Rt 19 Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2026-06-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

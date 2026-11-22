@@ -1,0 +1,41 @@
+{
+  "id": "me-alton-owen-j-folsom-greenbush-wash-plant",
+  "slug": "owen-j-folsom-greenbush-wash-plant",
+  "name": "Owen J Folsom – Greenbush Wash Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Alton",
+    "state": "ME",
+    "zip": "04468"
+  },
+  "location": {
+    "lat": 45.051111,
+    "lng": -68.747778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700148"
+  },
+  "msha": [
+    {
+      "mine_id": "1700148",
+      "name": "Greenbush Wash Plant",
+      "operator": "Owen J Folsom Inc",
+      "status": "Intermittent",
+      "status_since": "1992-10-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-llano-chanas-aggregates-eagle-s-nest-mine",
+  "slug": "chanas-aggregates-eagle-s-nest-mine",
+  "name": "Chanas Aggregates – Eagle's Nest Mine",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Llano",
+    "state": "TX",
+    "zip": "78609"
+  },
+  "location": {
+    "lat": 30.748056,
+    "lng": -98.398333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104751"
+  },
+  "msha": [
+    {
+      "mine_id": "4104751",
+      "name": "Eagle's Nest Mine",
+      "operator": "Chanas Aggregates LLC",
+      "status": "Active",
+      "status_since": "2008-10-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

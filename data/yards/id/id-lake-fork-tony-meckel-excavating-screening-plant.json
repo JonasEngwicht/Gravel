@@ -1,0 +1,41 @@
+{
+  "id": "id-lake-fork-tony-meckel-excavating-screening-plant",
+  "slug": "tony-meckel-excavating-screening-plant",
+  "name": "Tony Meckel Excavating – Screening Plant",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Lake Fork",
+    "state": "ID",
+    "zip": "83615"
+  },
+  "location": {
+    "lat": 44.8325,
+    "lng": -116.067222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1002056"
+  },
+  "msha": [
+    {
+      "mine_id": "1002056",
+      "name": "Screening Plant",
+      "operator": "Tony Meckel Excavating, Inc.",
+      "status": "Intermittent",
+      "status_since": "2013-06-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

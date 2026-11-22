@@ -1,0 +1,41 @@
+{
+  "id": "ny-bliss-wyco-construction",
+  "slug": "wyco-construction",
+  "name": "Wyco Construction",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Bliss",
+    "state": "NY",
+    "zip": "14066"
+  },
+  "location": {
+    "lat": 42.625,
+    "lng": -78.199167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003763"
+  },
+  "msha": [
+    {
+      "mine_id": "3003763",
+      "name": "Wyco Pit",
+      "operator": "Wyco Construction Inc.",
+      "status": "Intermittent",
+      "status_since": "2022-08-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pa-shinglehouse-glenn-o-hawbaker-shinglehouse-aggregate-plant-8",
+  "slug": "glenn-o-hawbaker-shinglehouse-aggregate-plant-8",
+  "name": "Glenn O Hawbaker – Shinglehouse Aggregate Plant #8",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Shinglehouse",
+    "state": "PA",
+    "zip": "14754"
+  },
+  "location": {
+    "lat": 41.9725,
+    "lng": -78.205
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608561"
+  },
+  "msha": [
+    {
+      "mine_id": "3608561",
+      "name": "Shinglehouse Aggregate Plant #8",
+      "operator": "Glenn O Hawbaker Inc",
+      "status": "Active",
+      "status_since": "2022-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

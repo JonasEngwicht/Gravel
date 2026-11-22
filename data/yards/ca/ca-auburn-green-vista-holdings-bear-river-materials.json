@@ -1,0 +1,41 @@
+{
+  "id": "ca-auburn-green-vista-holdings-bear-river-materials",
+  "slug": "green-vista-holdings-bear-river-materials",
+  "name": "Green Vista Holdings – Bear River Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95722"
+  },
+  "location": {
+    "lat": 39.033056,
+    "lng": -121.028333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401819"
+  },
+  "msha": [
+    {
+      "mine_id": "0401819",
+      "name": "Bear River Materials",
+      "operator": "Green Vista Holdings",
+      "status": "Active",
+      "status_since": "2015-09-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

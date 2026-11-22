@@ -1,0 +1,41 @@
+{
+  "id": "az-marianna-p-and-p-materials",
+  "slug": "p-and-p-materials",
+  "name": "P & P Materials",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Marianna",
+    "state": "AZ",
+    "zip": "85145"
+  },
+  "location": {
+    "lat": 32.505278,
+    "lng": -111.279444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203191"
+  },
+  "msha": [
+    {
+      "mine_id": "0203191",
+      "name": "P & P Materials LLC",
+      "operator": "P & P Materials LLC",
+      "status": "Active",
+      "status_since": "2021-05-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

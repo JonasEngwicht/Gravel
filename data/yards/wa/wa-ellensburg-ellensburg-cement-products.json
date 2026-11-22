@@ -1,0 +1,41 @@
+{
+  "id": "wa-ellensburg-ellensburg-cement-products",
+  "slug": "ellensburg-cement-products",
+  "name": "Ellensburg Cement Products",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Ellensburg",
+    "state": "WA",
+    "zip": "98946"
+  },
+  "location": {
+    "lat": 47.024167,
+    "lng": -120.606389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4500994"
+  },
+  "msha": [
+    {
+      "mine_id": "4500994",
+      "name": "Ellensburg Pit",
+      "operator": "Ellensburg Cement Products Inc",
+      "status": "Active",
+      "status_since": "2026-05-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

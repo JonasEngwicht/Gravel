@@ -1,0 +1,41 @@
+{
+  "id": "nm-scholle-rancho-viejo",
+  "slug": "rancho-viejo",
+  "name": "Rancho Viejo",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Scholle",
+    "state": "NM",
+    "zip": "87036"
+  },
+  "location": {
+    "lat": 34.381389,
+    "lng": -106.252222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902472"
+  },
+  "msha": [
+    {
+      "mine_id": "2902472",
+      "name": "Rancho Viejo Mine",
+      "operator": "Rancho Viejo, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-02-13",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

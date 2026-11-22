@@ -1,0 +1,41 @@
+{
+  "id": "ms-meridian-blackwell-sand-and-gravel",
+  "slug": "blackwell-sand-and-gravel",
+  "name": "Blackwell Sand & Gravel",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Meridian",
+    "state": "MS",
+    "zip": "39342"
+  },
+  "location": {
+    "lat": 32.364444,
+    "lng": -88.703611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200480"
+  },
+  "msha": [
+    {
+      "mine_id": "2200480",
+      "name": "Blackwell Sand & Gravel",
+      "operator": "Blackwell Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2017-04-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

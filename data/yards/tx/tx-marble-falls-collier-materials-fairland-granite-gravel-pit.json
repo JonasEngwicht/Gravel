@@ -1,0 +1,41 @@
+{
+  "id": "tx-marble-falls-collier-materials-fairland-granite-gravel-pit",
+  "slug": "collier-materials-fairland-granite-gravel-pit",
+  "name": "Collier Materials – Fairland Granite Gravel Pit",
+  "status": "unverified",
+  "kind": "gravel-pit",
+  "address": {
+    "city": "Marble Falls",
+    "state": "TX",
+    "zip": "79567"
+  },
+  "location": {
+    "lat": 31.968611,
+    "lng": -99.901944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104188"
+  },
+  "msha": [
+    {
+      "mine_id": "4104188",
+      "name": "Fairland Granite Gravel Pit",
+      "operator": "Collier Materials Inc",
+      "status": "Active",
+      "status_since": "2000-08-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}
