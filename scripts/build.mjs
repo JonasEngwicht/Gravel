@@ -2,13 +2,14 @@
 // Läuft automatisch vor jedem "wrangler deploy" (siehe wrangler.jsonc → build.command).
 // Keine Abhängigkeiten, nur Node-Bordmittel.
 //
-// Eingaben:  data/materials.json, site.config.json, static/*, src/calc/core.js
-// Ausgabe:   public/<seite>/index.html, public/assets/*, robots.txt, 404.html (+ sitemap.xml, wenn baseUrl gesetzt)
+// Eingaben:  data/materials.json, data/yards/**/*.json, site.config.json, static/*, src/calc/core.js
+// Ausgabe:   public/<seite>/index.html (Rechner + Verzeichnis unter /landscape-supply/), public/assets/*, robots.txt, 404.html (+ sitemap.xml, wenn baseUrl gesetzt)
 import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { fileURLToPath } from 'node:url';
 import { coverage } from '../src/calc/core.js';
 import { SEITEN } from './seiten.mjs';
+import { ladeYards, verzeichnisSeiten, BASIS } from './verzeichnis.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(ROOT, 'public');
@@ -25,8 +26,8 @@ const fmt = (n, d = 0) => n.toLocaleString('en-US', { maximumFractionDigits: d, 
 
 function kopf(seite) {
   const canonical = SITE.baseUrl ? `<link rel="canonical" href="${SITE.baseUrl}${seite.pfad}">` : '';
-  const robots = SITE.baseUrl ? '' : '<meta name="robots" content="noindex">';
-  const ld = [
+  const robots = SITE.baseUrl && !seite.noindex ? '' : '<meta name="robots" content="noindex">';
+  const ld = seite.ld || [
     {
       '@context': 'https://schema.org', '@type': 'WebApplication', name: seite.h1,
       applicationCategory: 'UtilitiesApplication', operatingSystem: 'Any',
@@ -59,14 +60,14 @@ ${robots}${canonical}
 <body>
 <header class="kopf"><div class="breit">
   <a class="logo" href="/"><svg aria-hidden="true" viewBox="0 0 32 32" width="28" height="28"><use href="/assets/favicon.svg#m"/></svg>${esc(SITE.shortName)}</a>
-  <nav aria-label="Calculators">${SEITEN.filter((s) => s.imMenue).map((s) => `<a href="${s.pfad}"${s.pfad === seite.pfad ? ' aria-current="page"' : ''}>${esc(s.nav)}</a>`).join('')}</nav>
+  <nav aria-label="Main">${SEITEN.filter((s) => s.imMenue).map((s) => `<a href="${s.pfad}"${s.pfad === seite.pfad ? ' aria-current="page"' : ''}>${esc(s.nav)}</a>`).join('')}<a href="${BASIS}"${seite.pfad?.startsWith(BASIS) ? ' aria-current="page"' : ''}>Find a yard</a></nav>
 </div></header>`;
 }
 
 function fuss() {
   return `<footer class="fuss"><div class="breit">
   <p><strong>${esc(SITE.name)}</strong> – free calculators for mulch, gravel, stone and soil.</p>
-  <nav aria-label="All calculators">${SEITEN.filter((s) => s.pfad !== '/').map((s) => `<a href="${s.pfad}">${esc(s.h1)}</a>`).join('')}</nav>
+  <nav aria-label="All calculators">${SEITEN.filter((s) => s.pfad !== '/').map((s) => `<a href="${s.pfad}">${esc(s.h1)}</a>`).join('')}<a href="${BASIS}">Landscape supply yards near you</a></nav>
   <p class="klein">Results are estimates based on typical material weights. Densities vary by supplier and moisture – confirm with your supplier before ordering.</p>
 </div></footer>
 <script type="module" src="/assets/app.js?v=${VERSION}"></script>
@@ -173,6 +174,18 @@ for (const seite of SEITEN) {
   writeFileSync(ziel, seiteBauen(seite));
 }
 
+// Verzeichnis: Übersicht, Staaten, Städte, Unternehmen
+const YARDS = ladeYards(join(ROOT, 'data/yards'));
+const VERZ = verzeichnisSeiten(YARDS, { kopf, fuss, esc, rechner, SITE, matById });
+const pfade = new Set();
+for (const v of VERZ) {
+  if (pfade.has(v.pfad)) throw new Error(`Doppelter Pfad im Verzeichnis: ${v.pfad}`);
+  pfade.add(v.pfad);
+  const ziel = join(OUT, v.pfad, 'index.html');
+  mkdirSync(dirname(ziel), { recursive: true });
+  writeFileSync(ziel, v.html);
+}
+
 writeFileSync(join(OUT, '404.html'), `${kopf({ pfad: '/404', title: 'Page not found', description: 'Page not found', h1: 'Page not found', nav: '404' })}
 <main><section class="held"><div class="breit"><h1>Page not found</h1><p class="unter">This page doesn't exist (yet). Try one of our calculators:</p>
 <ul class="kacheln">${SEITEN.filter((s) => s.pfad !== '/').map((s) => `<li><a href="${s.pfad}"><strong>${esc(s.h1)}</strong><span>${esc(s.kurz)}</span></a></li>`).join('')}</ul></div></section></main>
@@ -185,9 +198,9 @@ writeFileSync(join(OUT, 'robots.txt'), SITE.baseUrl
 if (SITE.baseUrl) {
   writeFileSync(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${SEITEN.map((s) => `  <url><loc>${SITE.baseUrl}${s.pfad}</loc></url>`).join('\n')}
+${[...SEITEN.map((s) => s.pfad), ...VERZ.filter((v) => v.index).map((v) => v.pfad)].map((p) => `  <url><loc>${SITE.baseUrl}${p}</loc></url>`).join('\n')}
 </urlset>
 `);
 }
 
-console.log(`Build fertig: ${SEITEN.length} Seiten nach public/ (Version ${VERSION}${SITE.baseUrl ? '' : ', noindex – baseUrl fehlt'})`);
+console.log(`Build fertig: ${SEITEN.length} Rechnerseiten + ${VERZ.length} Verzeichnisseiten (${YARDS.length} Yards) nach public/ (Version ${VERSION}${SITE.baseUrl ? '' : ', noindex – baseUrl fehlt'})`);

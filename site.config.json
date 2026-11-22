@@ -2,5 +2,10 @@
   "name": "Gravel & Mulch Calculator",
   "shortName": "Gravel & Mulch",
   "baseUrl": null,
-  "_comment": "baseUrl setzen (z. B. https://gravelandmulch.com), sobald die Domain hängt. Erst dann entstehen Sitemap, Canonicals und indexierbare Seiten."
+  "_comment": "baseUrl setzen (z. B. https://gravelandmulch.com), sobald die Domain hängt. Erst dann entstehen Sitemap, Canonicals und indexierbare Seiten.",
+  "directory": {
+    "indexUnverified": false,
+    "minYardsCityIndex": 2,
+    "_comment": "indexUnverified: Unternehmensseiten mit status 'unverified' indexieren (sonst noindex, nicht in der Sitemap). minYardsCityIndex: Stadtseiten erst ab so vielen Einträgen indexieren."
+  }
 }

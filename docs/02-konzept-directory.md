@@ -1,6 +1,6 @@
 # Konzept: Directory-Integration (Landscape Supply Yards)
 
-Stand 21.11.2026 · Datenformat: `data/schema/yard.schema.json` · Beispiel: `data/yards/_example.json` (fiktiv)
+Stand 21.11.2026 · Datenformat: `data/schema/yard.schema.json` · Beispiel: `data/yards/_example.json` (fiktiv) · Datenimport und umgesetzte Seiten: `docs/03-datenimport.md`
 
 ## 1. Grundidee
 
@@ -97,7 +97,7 @@ data/materials.json ─► Rechnerseiten + Preistabellen
 Census-Gazetteer ───► data/zip-centroids/<state>.json
 ```
 
-- Ein Yard = eine JSON-Datei, Änderungen per Pull Request nachvollziehbar.
+- Ein Yard = eine JSON-Datei unter `data/yards/<staat>/<id>.json`, Änderungen per Pull Request nachvollziehbar.
 - CI prüft Schema, doppelte Slugs und abgelaufene Preise.
 - Sitemap pro Bereich (Rechner / Directory).
 
