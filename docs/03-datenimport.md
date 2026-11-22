@@ -6,7 +6,7 @@ Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA 
 
 | Pfad | Was |
 |---|---|
-| `data/yards/<staat>/<id>.json` | 5.185 Einträge in 49 Staaten (inkl. DC), ein Eintrag pro Datei (Dateiname = `id`) |
+| `data/yards/<staat>/<id>.json` | 4.716 Einträge in 48 Staaten (inkl. DC), ein Eintrag pro Datei (Dateiname = `id`) |
 | `data/schema/yard.schema.json` | Schema ergänzt um `kind`, `chain`, `msha` und Herkunftsfelder unter `source` |
 | `data/zip-centroids/<3-stelliger ZIP-Präfix>.json` | ZIP-Mittelpunkte für die Umkreissuche, `{ "80202": [lat, lng] }`, 896 Dateien |
 | `data/import/yards_all.csv` | Alle Einträge als Tabelle zum Durchsehen |
@@ -18,7 +18,6 @@ Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA 
 | landscape-supply | 1.984 | Klassische Landscape-Supply-Yards (davon 579 SiteOne-Filialen) |
 | sand-gravel | 1.528 | Sand- & Kiesbetriebe und -händler |
 | mulch-soil | 888 | Mulch- und Mutterboden-Yards |
-| quarry | 469 | Steinbrüche / Großproduzenten (Martin Marietta, Hanson …) |
 | stone-yard | 316 | Stone- und Rock-Yards |
 
 ## Overture: so entstanden
@@ -27,16 +26,17 @@ Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA 
 2. Namensfilter mit Wortgrenzen (u. a. „Johnstone Supply“ – HVAC – raus): 6.513
 3. Nur gewerbliche Kategorien, keine Ortsnamen („Gravel Road Farm“), keine reinen Rodungsdienste: 5.661
 4. Dubletten zusammengeführt (gleicher Name + Nähe, oder gleiche Telefonnummer + Name + Stadt): 5.211
-5. 26 Einträge ohne ZIP oder Stadt übersprungen: **5.185**
+5. 26 Einträge ohne ZIP oder Stadt übersprungen: 5.185
+6. 469 Steinbrüche und Großproduzenten (Martin Marietta, Hanson …) entfernt, weil sie meist nur an Gewerbe verkaufen: **4.716**
 
 ## MSHA: nur zur Anreicherung
 
 Das MSHA Mines Data Set (alle US-Minen, gemeinfrei) wurde mit den Overture-Einträgen abgeglichen (≤ 3 km und Namensübereinstimmung mit Mine, Betreiber oder Mutterfirma):
 
-- 508 Einträge haben `msha` mit `match: "active-nearby"`: aktive Mine des Betriebs in der Nähe, mit Status, Rohstoff und Betreiber. Wird auf der Unternehmensseite als „Mine record“ gezeigt.
-- 153 Einträge haben `match: "inactive-nearby"`: in der Nähe nur eine stillgelegte Mine mit passendem Namen. Nicht automatisch geschlossen (Verkaufshöfe laufen oft weiter), bitte prüfen.
+- 338 Einträge haben `msha` mit `match: "active-nearby"`: aktive Mine des Betriebs in der Nähe, mit Status, Rohstoff und Betreiber. Wird auf der Unternehmensseite als „Mine record“ gezeigt.
+- 115 Einträge haben `match: "inactive-nearby"`: in der Nähe nur eine stillgelegte Mine mit passendem Namen. Nicht automatisch geschlossen (Verkaufshöfe laufen oft weiter), bitte prüfen.
 
-Reine MSHA-Gruben ohne Overture-Eintrag (rund 4.700) wurden bewusst **nicht** aufgenommen: Sie haben weder Adresse noch Telefon oder Website und verkaufen meist nur an Gewerbe.
+Reine MSHA-Gruben ohne Overture-Eintrag (rund 4.700) und Steinbrüche wurden bewusst **nicht** aufgenommen: Sie haben weder Adresse noch Telefon oder Website und verkaufen meist nur an Gewerbe.
 
 ## Seiten aus den Daten
 
@@ -46,7 +46,7 @@ Reine MSHA-Gruben ohne Overture-Eintrag (rund 4.700) wurden bewusst **nicht** au
 |---|---|
 | `/landscape-supply/` | Übersicht: Bundesstaaten, Städte mit den meisten Einträgen |
 | `/landscape-supply/<staat>/` | Alle Städte des Bundesstaats |
-| `/landscape-supply/<staat>/<stadt>/` | Stadtseite: Einträge in zwei Gruppen (Yards / Kies & Steinbrüche), Rechner, Nachbarstädte, JSON-LD `ItemList` |
+| `/landscape-supply/<staat>/<stadt>/` | Stadtseite: Einträge in zwei Gruppen (Yards / Sand & Kies), Rechner, Nachbarstädte, JSON-LD `ItemList` |
 | `/landscape-supply/<staat>/<stadt>/<slug>/` | Unternehmensseite: Kontakt, Karte, Materialien/Öffnungszeiten (falls gepflegt), MSHA-Daten, Anbieter in der Nähe, JSON-LD `HomeAndConstructionBusiness` |
 
 Indexierung:
@@ -54,7 +54,7 @@ Indexierung:
 - Ohne `baseUrl` in `site.config.json` ist weiterhin alles `noindex` (Vorschau auf workers.dev), mit `baseUrl` entstehen Canonicals und Sitemap.
 - Einträge mit `status: "closed"` und Dateien, die mit `_` beginnen, werden nicht veröffentlicht.
 
-Umfang: ca. 8.600 Seiten (1 Übersicht, 49 Staaten, ~3.300 Städte, 5.185 Unternehmen). Grenze bei Cloudflare Workers (Free): 20.000 Dateien – ein Test schlägt an, wenn es mehr als 19.500 werden.
+Umfang: ca. 7.800 Seiten (1 Übersicht, 48 Staaten, ~3.000 Städte, 4.716 Unternehmen). Grenze bei Cloudflare Workers (Free): 20.000 Dateien – ein Test schlägt an, wenn es mehr als 19.500 werden.
 
 ## Pflege
 

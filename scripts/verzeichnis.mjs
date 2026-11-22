@@ -28,8 +28,8 @@ export const ARTEN = {
 // Reihenfolge und Gruppen auf der Stadtseite
 const GRUPPEN = [
   { titel: 'Landscape supply, mulch & stone yards', arten: ['landscape-supply', 'mulch-soil', 'stone-yard'] },
-  { titel: 'Sand & gravel pits and quarries', arten: ['sand-gravel', 'quarry'],
-    hinweis: 'Pits and quarries often sell mainly to contractors. Call ahead to ask whether they load trucks for homeowners.' },
+  { titel: 'Sand & gravel suppliers', arten: ['sand-gravel'],
+    hinweis: 'Some sand & gravel suppliers sell mainly to contractors. Call ahead to ask whether they load trucks for homeowners.' },
 ];
 
 export const slugify = (s) => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
@@ -144,12 +144,12 @@ export function verzeichnisSeiten(yards, h) {
     const pfad = BASIS;
     const krumen = [['Home', '/'], ['Landscape supply yards', pfad]];
     seiten.push({ pfad, index: true, html: `${kopf({ pfad, nav: 'Find a yard', title: 'Landscape Supply Yards Near You – Mulch, Gravel & Stone',
-      description: `Find landscape supply yards, mulch yards, stone yards and sand & gravel pits in all ${staaten.length} states. ${yards.length.toLocaleString('en-US')} suppliers with address, phone and website.`,
+      description: `Find landscape supply yards, mulch yards, stone yards and sand & gravel suppliers in all ${staaten.length} states. ${yards.length.toLocaleString('en-US')} suppliers with address, phone and website.`,
       ld: [brotkrumen(krumen)] })}
 <main>
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Landscape Supply Yards</h1>
-  <p class="unter">${yards.length.toLocaleString('en-US')} landscape supply yards, mulch and stone yards, sand &amp; gravel pits and quarries across the U.S. Pick your state to find bulk mulch, gravel, stone and topsoil near you.</p>
+  <p class="unter">${yards.length.toLocaleString('en-US')} landscape supply yards, mulch and stone yards and sand &amp; gravel suppliers across the U.S. Pick your state to find bulk mulch, gravel, stone and topsoil near you.</p>
 </div></section>
 <div class="breit">
 <section class="liste-karte">
@@ -177,7 +177,7 @@ ${fuss()}` });
 <main>
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Landscape Supply Yards in ${esc(s.name)}</h1>
-  <p class="unter">${anzahl} suppliers in ${staedte.length} ${staedte.length === 1 ? 'city' : 'cities'}: landscape supply, mulch and stone yards, sand &amp; gravel pits and quarries.</p>
+  <p class="unter">${anzahl} suppliers in ${staedte.length} ${staedte.length === 1 ? 'city' : 'cities'}: landscape supply, mulch and stone yards and sand &amp; gravel suppliers.</p>
 </div></section>
 <div class="breit">
 <section class="liste-karte">
