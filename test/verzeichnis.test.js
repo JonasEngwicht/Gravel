@@ -15,7 +15,8 @@ const esc = (s) => String(s).replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&
 const kopf = (s) => `<head>${s.noindex ? '<meta name="robots" content="noindex">' : ""}<title>${esc(s.title)}</title><script type="application/ld+json">${JSON.stringify(s.ld)}</script></head>`;
 const fuss = () => "";
 const rechner = () => '<form class="rechner" id="rechner"></form>';
-const bauen = (site) => verzeichnisSeiten(ladeYards(YARD_DIR), { kopf, fuss, esc, rechner, matById, SITE: site });
+const SACK = JSON.parse(readFileSync(new URL("../data/bag-prices.json", import.meta.url)));
+const bauen = (site) => verzeichnisSeiten(ladeYards(YARD_DIR), { kopf, fuss, esc, rechner, matById, SACK, SITE: site });
 
 test("jeder Yard hat Pflichtfelder, gültigen Slug und eine eindeutige id", () => {
   const ids = new Set();
@@ -85,4 +86,22 @@ test("strukturierte Daten der Verzeichnisseiten sind gültiges JSON", () => {
     const ld = JSON.parse(s.html.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
     assert.ok(Array.isArray(ld) && ld.length >= 1, s.pfad);
   }
+});
+
+test("Sackpreise beziehen sich auf vorhandene Materialien und haben Quellen", () => {
+  for (const [id, b] of Object.entries(SACK.materials)) {
+    assert.ok(matById[id], id);
+    assert.ok(b.bag_cu_ft > 0 && b.regular > 0 && b.sale > 0 && b.sale <= b.regular, id);
+    assert.ok(b.sources?.length, id);
+  }
+});
+
+test("Stadtseiten zeigen den Vergleich lose Ware vs. Sack, Yards mit Preis den Sackvergleich", () => {
+  const seiten = bauen({ baseUrl: null });
+  const stadt = seiten.find((s) => s.pfad === `${BASIS}ga/atlanta/`);
+  assert.match(stadt.html, /Bulk vs\. bagged/);
+  assert.match(stadt.html, /Only need a few bags\?/);
+  const mitPreis = yards.find((y) => y.materials.some((m) => m.price));
+  const seite = seiten.find((s) => s.pfad.endsWith(`/${mitPreis.slug}/`) && s.html.includes(esc(mitPreis.name)));
+  assert.match(seite.html, /Compared with bags/);
 });

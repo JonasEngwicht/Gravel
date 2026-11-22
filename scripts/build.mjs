@@ -192,7 +192,8 @@ for (const seite of SEITEN) {
 
 // Verzeichnis: Übersicht, Staaten, Städte, Unternehmen
 const YARDS = ladeYards(join(ROOT, 'data/yards'));
-const VERZ = verzeichnisSeiten(YARDS, { kopf, fuss, esc, rechner, SITE, matById });
+const SACK = JSON.parse(lies('data/bag-prices.json'));
+const VERZ = verzeichnisSeiten(YARDS, { kopf, fuss, esc, rechner, SITE, matById, SACK });
 const pfade = new Set();
 for (const v of VERZ) {
   if (pfade.has(v.pfad)) throw new Error(`Doppelter Pfad im Verzeichnis: ${v.pfad}`);

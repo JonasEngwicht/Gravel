@@ -18,7 +18,30 @@
     "phone": "(404) 221-9285",
     "website": "http://www.cumminlandscapesupply.com/"
   },
-  "materials": [],
+  "materials": [
+    {
+      "id": "pea-gravel",
+      "bulk": true,
+      "price": {
+        "amount": 100,
+        "amount_max": 170,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "crushed-stone-57",
+      "bulk": true,
+      "price": {
+        "amount": 68,
+        "amount_max": 99,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    }
+  ],
   "listing": {
     "tier": "free",
     "claimed": false,
@@ -31,6 +54,7 @@
     "dataset": "overture-places-2026-11-18.0",
     "ref": "cbcb81a0-0c26-4d70-aa90-c9a9271af105",
     "confidence": 0.916,
-    "merged_records": 1
+    "merged_records": 1,
+    "url_prices": "https://cumminlandscapesupply.com/"
   }
 }

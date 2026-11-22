@@ -3,6 +3,7 @@
 // Ausgabe: Liste von Seiten { pfad, html, index } – build.mjs schreibt sie nach public/ und in die Sitemap.
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { medianPrice } from '../src/directory/distance.js';
 
 export const BASIS = '/landscape-supply/';
 
@@ -108,6 +109,29 @@ function sortierung(a, b) {
  */
 export function verzeichnisSeiten(yards, h) {
   const { kopf, fuss, esc, rechner, SITE } = h;
+  const SACK = h.SACK || { materials: {} };
+  const EINHEIT = { cy: 'cu yd', ton: 'ton', bag: 'bag' };
+  const usd = (n) => `$${Math.round(n)}`;
+  // Sackpreis auf einen Kubikyard (27 cu ft) umgerechnet
+  const sackCy = (id, art = 'regular') => { const b = SACK.materials[id]; return b ? (27 / b.bag_cu_ft) * b[art] : null; };
+  const preisText = (p) => `${usd(p.amount)}${p.amount_max && p.amount_max > p.amount ? `–${usd(p.amount_max)}` : ''}/${EINHEIT[p.unit] || p.unit}`;
+
+  // Vergleichstabelle für die Stadtseite: Sackware (umgerechnet) vs. Median der Yard-Preise (ab 3 Preisen)
+  const preisvergleich = (c) => {
+    const zeilen = Object.entries(SACK.materials).map(([id, b]) => {
+      const m = h.matById[id];
+      if (!m) return '';
+      const median = c.yards.filter((y) => y.materials?.some((x) => x.id === id && x.price?.unit === 'cy')).length >= 3
+        ? medianPrice(c.yards, id, 'cy') : null;
+      const sack = sackCy(id), aktion = sackCy(id, 'sale');
+      return `<tr><td>${esc(m.label)}</td><td>${Math.ceil(27 / b.bag_cu_ft)} × ${b.bag_cu_ft} cu ft</td><td>${usd(aktion)}–${usd(sack)}</td><td>${median ? `<strong>${usd(median)}</strong>` : 'Ask the yards above'}</td></tr>`;
+    }).join('');
+    return `<h2 class="abstand">Bulk vs. bagged: what a cubic yard costs</h2>
+<p>One cubic yard is 27 cubic feet. Bought in bags at a big-box store, that is a lot of bags – bulk from a local yard is usually much cheaper from about 2–3 cubic yards upward, even with a delivery fee.</p>
+<div class="tabelle-scroll"><table><thead><tr><th>Material</th><th>Bags per cu yd</th><th>Bagged, per cu yd</th><th>Bulk in ${esc(c.name)}, per cu yd</th></tr></thead><tbody>${zeilen}</tbody></table></div>
+<p class="klein">Bagged: typical big-box shelf prices (sale – regular), checked ${esc(monat(SACK.checked))}. Bulk: median of prices published by yards in ${esc(c.name)}, shown when at least 3 yards list a price.</p>
+<aside class="hinweis-box"><strong>Only need a few bags?</strong> For a small bed or a quick touch-up, bagged mulch, gravel and soil from Home Depot, Lowe's or your local hardware store is often the easier choice. Use the calculator below to compare bags and bulk for your project.</aside>`;
+  };
   const abs = (p) => (SITE.baseUrl || '') + p;
   const staaten = struktur(yards);
   const seiten = [];
@@ -238,6 +262,7 @@ ${g.hinweis ? `<p class="klein">${esc(g.hinweis)}</p>` : ''}
 <ul class="yards">${g.yards.map((y) => karte(y)).join('')}</ul>`).join('\n')}
 <p class="klein">Most listings have not been verified by us yet. Please call ahead to confirm materials, prices, delivery and opening hours.</p>
 </section>
+${preisvergleich(c)}
 <h2 class="abstand" id="rechner-titel">How much do you need?</h2>
 ${rechner({ material: 'hardwood-mulch', eingebettet: true }).replace('class="rechner"', 'class="rechner eingebettet"')}
 ${nachbarn.length ? `<h2 class="abstand" id="nachbarn">Nearby cities</h2>
@@ -291,7 +316,12 @@ ${fuss()}` });
   <div class="betrieb-info">
     <h2>About</h2>
     <p>${esc(beschreibung)}</p>
-    ${mats.length ? `<h3>Materials</h3><ul class="chips">${mats.map((m) => `<li>${esc(h.matById[m.id].label)}${m.price ? ` – $${m.price.amount}/${m.price.unit === 'cy' ? 'cu yd' : m.price.unit}` : ''}</li>`).join('')}</ul>` : ''}
+    ${mats.length ? `<h3>Materials</h3><ul class="chips">${mats.map((m) => `<li>${esc(h.matById[m.id].label)}${m.price ? ` – ${preisText(m.price)}` : ''}</li>`).join('')}</ul>
+    ${mats.some((m) => m.price?.unit === 'cy' && sackCy(m.id)) ? `<h3>Compared with bags</h3><table class="zeiten"><tbody>${mats.filter((m) => m.price?.unit === 'cy' && sackCy(m.id)).map((m) => {
+      const sack = sackCy(m.id); const spar = Math.round((1 - m.price.amount / sack) * 100);
+      return `<tr><td>${esc(h.matById[m.id].label)}</td><td>${preisText(m.price)} here vs. about ${usd(sack)}/cu yd in bags${spar > 0 ? ` – <strong>up to ${spar}% less</strong>` : ''}</td></tr>`;
+    }).join('')}</tbody></table>
+    <p class="klein">Prices as published by the yard${mats.find((m) => m.price)?.price.updated ? ` (${esc(monat(mats.find((m) => m.price).price.updated))})` : ''}. Bag prices: typical big-box shelf price.</p>` : ''}` : ''}
     ${y.delivery?.available ? `<p><strong>Delivery:</strong> yes${y.delivery.radius_mi ? `, up to ${y.delivery.radius_mi} miles` : ''}${y.delivery.fee_from ? `, from $${y.delivery.fee_from}` : ''}</p>` : ''}
     ${y.self_load ? '<p><strong>Pickup:</strong> you can load your own truck or trailer.</p>' : ''}
     ${zeiten ? `<h3>Opening hours</h3><table class="zeiten"><tbody>${zeiten}</tbody></table>` : ''}
