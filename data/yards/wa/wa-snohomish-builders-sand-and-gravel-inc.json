@@ -1,0 +1,36 @@
+{
+  "id": "wa-snohomish-builders-sand-and-gravel-inc",
+  "slug": "builders-sand-and-gravel-inc",
+  "name": "Builders Sand & Gravel, Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18829 Yew Way",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98296"
+  },
+  "location": {
+    "lat": 47.825562,
+    "lng": -122.092606
+  },
+  "contact": {
+    "phone": "(425) 743-3333",
+    "website": "https://builderssandandgravelinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "741d9450-4c5d-4ce8-bad9-64e16a6378f2",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

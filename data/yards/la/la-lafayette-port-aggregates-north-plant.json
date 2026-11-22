@@ -1,0 +1,35 @@
+{
+  "id": "la-lafayette-port-aggregates-north-plant",
+  "slug": "port-aggregates-north-plant",
+  "name": "Port Aggregates - North Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "800 W Pont des Mouton Rd",
+    "city": "Lafayette",
+    "state": "LA",
+    "zip": "70507"
+  },
+  "location": {
+    "lat": 30.276304,
+    "lng": -92.040863
+  },
+  "contact": {
+    "website": "http://www.portaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0090b229-61eb-4505-9ec6-a0ea48022a3c",
+    "confidence": 0.894,
+    "merged_records": 1
+  }
+}

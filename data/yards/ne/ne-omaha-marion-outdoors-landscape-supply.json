@@ -1,0 +1,36 @@
+{
+  "id": "ne-omaha-marion-outdoors-landscape-supply",
+  "slug": "marion-outdoors-landscape-supply",
+  "name": "Marion Outdoors Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7300 F St",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68127"
+  },
+  "location": {
+    "lat": 41.220058,
+    "lng": -96.025795
+  },
+  "contact": {
+    "phone": "(402) 895-6979",
+    "website": "http://MarionOutdoorsOmaha.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02065b9c-3d98-4994-b8ea-a9014a4d6d4e",
+    "confidence": 0.831,
+    "merged_records": 1
+  }
+}

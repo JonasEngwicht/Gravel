@@ -1,0 +1,36 @@
+{
+  "id": "md-baltimore-sports-aggregates",
+  "slug": "sports-aggregates",
+  "name": "Sports Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4701 Belle Grove Rd  Ste S",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21225"
+  },
+  "location": {
+    "lat": 39.227661,
+    "lng": -76.620445
+  },
+  "contact": {
+    "phone": "(410) 789-6200",
+    "website": "https://sportsaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1818b272-41cb-476e-a653-d3f25f75ebe2",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

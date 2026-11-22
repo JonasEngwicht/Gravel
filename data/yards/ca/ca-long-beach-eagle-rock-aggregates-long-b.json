@@ -1,0 +1,35 @@
+{
+  "id": "ca-long-beach-eagle-rock-aggregates-long-b",
+  "slug": "eagle-rock-aggregates-long-b",
+  "name": "Eagle Rock Aggregates Long B",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1601 W Pier D St",
+    "city": "Long Beach",
+    "state": "CA",
+    "zip": "90802"
+  },
+  "location": {
+    "lat": 33.768898,
+    "lng": -118.215179
+  },
+  "contact": {
+    "phone": "(562) 901-9697"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5bbf3a21-4f0f-4ad7-b1ff-5d7b767446a1",
+    "confidence": 0.677,
+    "merged_records": 1
+  }
+}

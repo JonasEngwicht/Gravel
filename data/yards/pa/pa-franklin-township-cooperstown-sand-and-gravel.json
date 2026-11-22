@@ -1,0 +1,36 @@
+{
+  "id": "pa-franklin-township-cooperstown-sand-and-gravel",
+  "slug": "cooperstown-sand-and-gravel",
+  "name": "Cooperstown Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2491 Patchel Run Rd",
+    "city": "Franklin Township",
+    "state": "PA",
+    "zip": "16323"
+  },
+  "location": {
+    "lat": 41.486687,
+    "lng": -79.868744
+  },
+  "contact": {
+    "phone": "(814) 374-4412",
+    "website": "https://www.sandgravelandconcrete.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "542da46e-4b94-4378-8ce3-2e847097954f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

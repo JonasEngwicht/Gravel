@@ -1,0 +1,37 @@
+{
+  "id": "nc-winston-salem-siteone-landscape-supply-3940-westpoint-blvd",
+  "slug": "siteone-landscape-supply-3940-westpoint-blvd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3940 Westpoint Blvd",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27103"
+  },
+  "location": {
+    "lat": 36.03772,
+    "lng": -80.318016
+  },
+  "contact": {
+    "phone": "(336) 765-2822",
+    "website": "https://www.siteone.com/store/543"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68bf0c44-4142-45aa-b52f-5a64df024dfa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

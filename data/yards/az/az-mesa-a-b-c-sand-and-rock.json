@@ -1,0 +1,41 @@
+{
+  "id": "az-mesa-a-b-c-sand-and-rock",
+  "slug": "a-b-c-sand-and-rock",
+  "name": "A B C Sand & Rock",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85307"
+  },
+  "location": {
+    "lat": 33.511111,
+    "lng": -112.315278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202357"
+  },
+  "msha": [
+    {
+      "mine_id": "0202357",
+      "name": "A B C Sand & Rock Inc",
+      "operator": "A B C Sand & Rock Inc",
+      "status": "Active",
+      "status_since": "1987-02-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

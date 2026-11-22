@@ -1,0 +1,41 @@
+{
+  "id": "nc-gold-hill-vulcan-construction-materials-gold-hill",
+  "slug": "vulcan-construction-materials-gold-hill",
+  "name": "Vulcan Construction Materials – Gold Hill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gold Hill",
+    "state": "NC",
+    "zip": "28071"
+  },
+  "location": {
+    "lat": 35.5075,
+    "lng": -80.323889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3100096"
+  },
+  "msha": [
+    {
+      "mine_id": "3100096",
+      "name": "Gold Hill",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1973-03-14",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

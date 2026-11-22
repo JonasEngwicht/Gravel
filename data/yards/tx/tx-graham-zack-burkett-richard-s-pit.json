@@ -1,0 +1,41 @@
+{
+  "id": "tx-graham-zack-burkett-richard-s-pit",
+  "slug": "zack-burkett-richard-s-pit",
+  "name": "Zack Burkett – Richard's Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Graham",
+    "state": "TX",
+    "zip": "76458"
+  },
+  "location": {
+    "lat": 33.214167,
+    "lng": -98.1775
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103322"
+  },
+  "msha": [
+    {
+      "mine_id": "4103322",
+      "name": "Richard's Pit",
+      "operator": "Zack Burkett Company",
+      "status": "Active",
+      "status_since": "2009-05-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

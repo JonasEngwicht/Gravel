@@ -1,0 +1,41 @@
+{
+  "id": "nm-los-lunas-albuquerque-asphalt-thistle",
+  "slug": "albuquerque-asphalt-thistle",
+  "name": "Albuquerque Asphalt – Thistle",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Los Lunas",
+    "state": "NM",
+    "zip": "87061"
+  },
+  "location": {
+    "lat": 34.724167,
+    "lng": -106.547222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902559"
+  },
+  "msha": [
+    {
+      "mine_id": "2902559",
+      "name": "Thistle",
+      "operator": "Albuquerque Asphalt Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

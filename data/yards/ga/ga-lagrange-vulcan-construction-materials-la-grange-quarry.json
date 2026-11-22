@@ -1,0 +1,41 @@
+{
+  "id": "ga-lagrange-vulcan-construction-materials-la-grange-quarry",
+  "slug": "vulcan-construction-materials-la-grange-quarry",
+  "name": "Vulcan Construction Materials – La Grange Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "LaGrange",
+    "state": "GA",
+    "zip": "30241"
+  },
+  "location": {
+    "lat": 32.993889,
+    "lng": -84.999722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900487"
+  },
+  "msha": [
+    {
+      "mine_id": "0900487",
+      "name": "La Grange Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1979-03-14",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 22
+    }
+  ]
+}

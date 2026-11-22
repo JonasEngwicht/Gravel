@@ -1,0 +1,36 @@
+{
+  "id": "ky-georgetown-cane-run-mulch-and-stone",
+  "slug": "cane-run-mulch-and-stone",
+  "name": "Cane Run Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1646 Lexington Rd",
+    "city": "Georgetown",
+    "state": "KY",
+    "zip": "40324"
+  },
+  "location": {
+    "lat": 38.168636,
+    "lng": -84.553619
+  },
+  "contact": {
+    "phone": "(502) 642-4006",
+    "website": "http://www.canerunmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc4e8f4f-3778-472a-be6a-8bab695008cf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

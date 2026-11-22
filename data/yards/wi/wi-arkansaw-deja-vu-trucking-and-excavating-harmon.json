@@ -1,0 +1,41 @@
+{
+  "id": "wi-arkansaw-deja-vu-trucking-and-excavating-harmon",
+  "slug": "deja-vu-trucking-and-excavating-harmon",
+  "name": "Deja Vu Trucking & Excavating – Harmon",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Arkansaw",
+    "state": "WI",
+    "zip": "54721"
+  },
+  "location": {
+    "lat": 44.6352,
+    "lng": -92.0595
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703932"
+  },
+  "msha": [
+    {
+      "mine_id": "4703932",
+      "name": "Harmon",
+      "operator": "Deja Vu Trucking & Excavating LLC",
+      "status": "Intermittent",
+      "status_since": "2023-03-21",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

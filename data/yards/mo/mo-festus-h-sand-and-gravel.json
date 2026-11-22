@@ -1,0 +1,36 @@
+{
+  "id": "mo-festus-h-sand-and-gravel",
+  "slug": "h-sand-and-gravel",
+  "name": "H Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2960 Harness Rd",
+    "city": "Festus",
+    "state": "MO",
+    "zip": "63028"
+  },
+  "location": {
+    "lat": 38.128563,
+    "lng": -90.412277
+  },
+  "contact": {
+    "phone": "(636) 937-9091",
+    "website": "http://www.arnoldreadymix.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "730c0495-b820-44f5-a591-dddc8b9067d8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

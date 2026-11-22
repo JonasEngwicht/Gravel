@@ -1,0 +1,41 @@
+{
+  "id": "oh-columbus-shelly-materials-columbus-limestone",
+  "slug": "shelly-materials-columbus-limestone",
+  "name": "Shelly Materials – Columbus Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43223"
+  },
+  "location": {
+    "lat": 39.895833,
+    "lng": -83.021389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304657"
+  },
+  "msha": [
+    {
+      "mine_id": "3304657",
+      "name": "Columbus Limestone",
+      "operator": "Shelly Materials Inc",
+      "status": "Active",
+      "status_since": "2011-10-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 60
+    }
+  ]
+}

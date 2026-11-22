@@ -1,0 +1,41 @@
+{
+  "id": "oh-findlay-the-national-lime-and-stone-findlay-plant",
+  "slug": "the-national-lime-and-stone-findlay-plant",
+  "name": "The National Lime & Stone – Findlay Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Findlay",
+    "state": "OH",
+    "zip": "45840"
+  },
+  "location": {
+    "lat": 41.009167,
+    "lng": -83.691389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304121"
+  },
+  "msha": [
+    {
+      "mine_id": "3304121",
+      "name": "Findlay Plant",
+      "operator": "The National Lime & Stone Company",
+      "status": "Active",
+      "status_since": "2025-05-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

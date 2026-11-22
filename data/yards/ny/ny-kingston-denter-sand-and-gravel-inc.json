@@ -1,0 +1,35 @@
+{
+  "id": "ny-kingston-denter-sand-and-gravel-inc",
+  "slug": "denter-sand-and-gravel-inc",
+  "name": "Denter Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1089 Flatbush Rd",
+    "city": "Kingston",
+    "state": "NY",
+    "zip": "12401"
+  },
+  "location": {
+    "lat": 41.981266,
+    "lng": -73.970795
+  },
+  "contact": {
+    "phone": "(845) 336-8636"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9018c74e-5153-4b45-8f2a-b58822e15525",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

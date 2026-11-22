@@ -1,0 +1,36 @@
+{
+  "id": "tx-humble-texas-native-landscape-supply",
+  "slug": "texas-native-landscape-supply",
+  "name": "Texas Native Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4460 FM 1960 Rd E",
+    "city": "Humble",
+    "state": "TX",
+    "zip": "77346"
+  },
+  "location": {
+    "lat": 29.998699,
+    "lng": -95.206703
+  },
+  "contact": {
+    "phone": "(281) 852-3478",
+    "website": "http://www.texasnative.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "01508ac9-b66d-4b4b-8d3e-3c04340de253",
+    "confidence": 0.971,
+    "merged_records": 2
+  }
+}

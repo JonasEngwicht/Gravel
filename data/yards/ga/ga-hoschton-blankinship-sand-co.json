@@ -1,0 +1,41 @@
+{
+  "id": "ga-hoschton-blankinship-sand-co",
+  "slug": "blankinship-sand-co",
+  "name": "Blankinship Sand Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hoschton",
+    "state": "GA",
+    "zip": "30548"
+  },
+  "location": {
+    "lat": 34.079444,
+    "lng": -83.739167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901087"
+  },
+  "msha": [
+    {
+      "mine_id": "0901087",
+      "name": "Blankinship Sand Co LLC",
+      "operator": "Blankinship Sand Co LLC",
+      "status": "Intermittent",
+      "status_since": "2017-07-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

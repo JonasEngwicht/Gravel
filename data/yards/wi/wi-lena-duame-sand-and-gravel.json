@@ -1,0 +1,35 @@
+{
+  "id": "wi-lena-duame-sand-and-gravel",
+  "slug": "duame-sand-and-gravel",
+  "name": "Duame Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5870 Duame Rd",
+    "city": "Lena",
+    "state": "WI",
+    "zip": "54139"
+  },
+  "location": {
+    "lat": 44.884953,
+    "lng": -88.045692
+  },
+  "contact": {
+    "phone": "(920) 834-5184"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "66b374cb-b992-4812-9806-a0257c086c86",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

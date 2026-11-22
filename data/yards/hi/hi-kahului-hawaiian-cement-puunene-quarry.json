@@ -1,0 +1,41 @@
+{
+  "id": "hi-kahului-hawaiian-cement-puunene-quarry",
+  "slug": "hawaiian-cement-puunene-quarry",
+  "name": "Hawaiian Cement – Puunene Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Kahului",
+    "state": "HI",
+    "zip": "96732"
+  },
+  "location": {
+    "lat": 20.851667,
+    "lng": -156.461111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5100192"
+  },
+  "msha": [
+    {
+      "mine_id": "5100192",
+      "name": "Puunene Quarry",
+      "operator": "Hawaiian Cement",
+      "status": "Active",
+      "status_since": "1990-08-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

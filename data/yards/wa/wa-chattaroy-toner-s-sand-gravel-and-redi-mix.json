@@ -1,0 +1,48 @@
+{
+  "id": "wa-chattaroy-toner-s-sand-gravel-and-redi-mix",
+  "slug": "toner-s-sand-gravel-and-redi-mix",
+  "name": "Toner's Sand Gravel & Redi-Mix",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4321 E Eloika Rd",
+    "city": "Chattaroy",
+    "state": "WA",
+    "zip": "99003"
+  },
+  "location": {
+    "lat": 47.997417,
+    "lng": -117.348511
+  },
+  "contact": {
+    "phone": "(509) 292-2360",
+    "website": "http://www.tonerspremix.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "effc7ded-4361-4494-9ec0-5203831e0150",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4502803",
+      "name": "Toner Pit",
+      "operator": "Toner Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2008-02-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

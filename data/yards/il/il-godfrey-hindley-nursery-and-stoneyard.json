@@ -1,0 +1,36 @@
+{
+  "id": "il-godfrey-hindley-nursery-and-stoneyard",
+  "slug": "hindley-nursery-and-stoneyard",
+  "name": "Hindley Nursery & Stoneyard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "8440 Montclair Ave",
+    "city": "Godfrey",
+    "state": "IL",
+    "zip": "62035"
+  },
+  "location": {
+    "lat": 38.993305,
+    "lng": -90.172684
+  },
+  "contact": {
+    "phone": "(618) 466-9000",
+    "website": "https://www.facebook.com/HindleyNurseryAndStoneyard"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4feab3f7-add4-4724-9b8b-65d398c3ea6c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

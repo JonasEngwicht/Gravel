@@ -1,0 +1,48 @@
+{
+  "id": "ca-riverside-dayton-aggregate-materials",
+  "slug": "dayton-aggregate-materials",
+  "name": "Dayton Aggregate Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9347 Granite Hill Dr",
+    "city": "Riverside",
+    "state": "CA",
+    "zip": "92509"
+  },
+  "location": {
+    "lat": 34.020447,
+    "lng": -117.488556
+  },
+  "contact": {
+    "phone": "(951) 360-7706",
+    "website": "http://Damsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "93b48051-ceca-417e-833b-46a4ed4b94b8",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405546",
+      "name": "Dayton Trucking (Port)",
+      "operator": "Dayton Trucking",
+      "status": "Abandoned",
+      "status_since": "2009-07-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

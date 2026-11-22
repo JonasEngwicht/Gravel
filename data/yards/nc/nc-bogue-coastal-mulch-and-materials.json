@@ -1,0 +1,36 @@
+{
+  "id": "nc-bogue-coastal-mulch-and-materials",
+  "slug": "coastal-mulch-and-materials",
+  "name": "Coastal Mulch & Materials",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5516 NC-24",
+    "city": "Bogue",
+    "state": "NC",
+    "zip": "28570"
+  },
+  "location": {
+    "lat": 34.698475,
+    "lng": -77.043518
+  },
+  "contact": {
+    "phone": "(252) 393-1722",
+    "website": "http://www.coastalmulchandmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1273e7f4-ba16-436c-b57e-94b9eaf4202d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

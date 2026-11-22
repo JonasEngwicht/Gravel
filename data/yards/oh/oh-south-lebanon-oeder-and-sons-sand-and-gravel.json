@@ -1,0 +1,48 @@
+{
+  "id": "oh-south-lebanon-oeder-and-sons-sand-and-gravel",
+  "slug": "oeder-and-sons-sand-and-gravel",
+  "name": "Oeder & Sons Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1000 Mason Morrow Millgrove Rd",
+    "city": "South Lebanon",
+    "state": "OH",
+    "zip": "45036"
+  },
+  "location": {
+    "lat": 39.374874,
+    "lng": -84.232437
+  },
+  "contact": {
+    "phone": "(513) 494-1238",
+    "website": "http://oedersgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f657f20c-7065-4650-b700-dd3d3eeaaca1",
+    "confidence": 0.912,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3303781",
+      "name": "Oeder & Sons Sand & Gravel",
+      "operator": "Oeder & Sons Garage Inc.",
+      "status": "Active",
+      "status_since": "2017-12-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

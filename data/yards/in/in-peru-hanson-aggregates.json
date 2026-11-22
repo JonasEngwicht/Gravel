@@ -1,0 +1,49 @@
+{
+  "id": "in-peru-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "3571 W CR 500 S,Milner Quarry",
+    "city": "Peru",
+    "state": "IN",
+    "zip": "46970"
+  },
+  "location": {
+    "lat": 40.688965,
+    "lng": -86.138771
+  },
+  "contact": {
+    "phone": "(765) 689-9074",
+    "website": "https://www.lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90993fba-286d-43cf-b537-d9dcbd1c4bb1",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202210",
+      "name": "Milner Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2011-12-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

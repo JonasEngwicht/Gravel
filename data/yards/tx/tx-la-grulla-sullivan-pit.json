@@ -1,0 +1,41 @@
+{
+  "id": "tx-la-grulla-sullivan-pit",
+  "slug": "sullivan-pit",
+  "name": "Sullivan Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "La Grulla",
+    "state": "TX",
+    "zip": "78595"
+  },
+  "location": {
+    "lat": 26.293611,
+    "lng": -98.5925
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105362"
+  },
+  "msha": [
+    {
+      "mine_id": "4105362",
+      "name": "Sullivan Pit",
+      "operator": "L & R Aggregates Llc",
+      "status": "Active",
+      "status_since": "2018-06-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

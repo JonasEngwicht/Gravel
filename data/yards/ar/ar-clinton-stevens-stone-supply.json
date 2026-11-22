@@ -1,0 +1,36 @@
+{
+  "id": "ar-clinton-stevens-stone-supply",
+  "slug": "stevens-stone-supply",
+  "name": "Stevens Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4669 US-65",
+    "city": "Clinton",
+    "state": "AR",
+    "zip": "72031"
+  },
+  "location": {
+    "lat": 35.652752,
+    "lng": -92.462128
+  },
+  "contact": {
+    "phone": "(501) 745-8890",
+    "website": "https://stevensstonesupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3a077f7-d8c7-4f76-afb0-cb54e28c1679",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

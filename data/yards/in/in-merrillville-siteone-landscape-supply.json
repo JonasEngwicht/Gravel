@@ -1,0 +1,37 @@
+{
+  "id": "in-merrillville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4068 W 82nd Ct",
+    "city": "Merrillville",
+    "state": "IN",
+    "zip": "46410"
+  },
+  "location": {
+    "lat": 41.468395,
+    "lng": -87.386902
+  },
+  "contact": {
+    "phone": "(219) 769-2351",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ae3bea4-cfb0-43f0-b204-b8a3ecaa107d",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

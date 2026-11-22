@@ -1,0 +1,41 @@
+{
+  "id": "tx-eagle-lake-alleyton-resource-company-eagle-lake-plant",
+  "slug": "alleyton-resource-company-eagle-lake-plant",
+  "name": "Alleyton Resource Company – Eagle Lake Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Eagle Lake",
+    "state": "TX",
+    "zip": "78944"
+  },
+  "location": {
+    "lat": 29.971389,
+    "lng": -96.523056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104889"
+  },
+  "msha": [
+    {
+      "mine_id": "4104889",
+      "name": "Eagle Lake Plant",
+      "operator": "Alleyton Resource Company, LLC.",
+      "status": "Active",
+      "status_since": "2021-01-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

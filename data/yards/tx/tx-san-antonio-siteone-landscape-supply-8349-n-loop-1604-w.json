@@ -1,0 +1,36 @@
+{
+  "id": "tx-san-antonio-siteone-landscape-supply-8349-n-loop-1604-w",
+  "slug": "siteone-landscape-supply-8349-n-loop-1604-w",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8349 N Loop 1604 W",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78254"
+  },
+  "location": {
+    "lat": 29.571867,
+    "lng": -98.651131
+  },
+  "contact": {
+    "website": "http://www.stoneandsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f281c79d-f391-47fb-8e7a-a398ba9e4a48",
+    "confidence": 0.912,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-palmview-capa-concrete-asphalt-pipe-aggregates",
+  "slug": "capa-concrete-asphalt-pipe-aggregates",
+  "name": "Capa - Concrete Asphalt Pipe Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3609 W Palma Vista Dr",
+    "city": "Palmview",
+    "state": "TX",
+    "zip": "78572"
+  },
+  "location": {
+    "lat": 26.23768,
+    "lng": -98.408386
+  },
+  "contact": {
+    "phone": "(956) 580-2502",
+    "website": "https://www.capatexas.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ce5ed47-a221-48c6-a143-94d76deac19f",
+    "confidence": 0.95,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "in-westfield-mrs-mulch",
+  "slug": "mrs-mulch",
+  "name": "Mrs. Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2025 IN-32",
+    "city": "Westfield",
+    "state": "IN",
+    "zip": "46074"
+  },
+  "location": {
+    "lat": 40.041916,
+    "lng": -86.196457
+  },
+  "contact": {
+    "phone": "(317) 646-3000",
+    "website": "https://www.mrs-mulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1a716233-3576-4083-af90-c9c7dfbe775f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

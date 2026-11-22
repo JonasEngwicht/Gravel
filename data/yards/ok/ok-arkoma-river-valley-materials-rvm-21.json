@@ -1,0 +1,41 @@
+{
+  "id": "ok-arkoma-river-valley-materials-rvm-21",
+  "slug": "river-valley-materials-rvm-21",
+  "name": "River Valley Materials – Rvm 21",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Arkoma",
+    "state": "OK",
+    "zip": "74901"
+  },
+  "location": {
+    "lat": 35.311111,
+    "lng": -94.475
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402190"
+  },
+  "msha": [
+    {
+      "mine_id": "3402190",
+      "name": "Rvm 21",
+      "operator": "River Valley Materials LLC.",
+      "status": "Active",
+      "status_since": "2020-07-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

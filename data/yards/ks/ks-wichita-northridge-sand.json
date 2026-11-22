@@ -1,0 +1,41 @@
+{
+  "id": "ks-wichita-northridge-sand",
+  "slug": "northridge-sand",
+  "name": "Northridge Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67205"
+  },
+  "location": {
+    "lat": 37.781111,
+    "lng": -97.414722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401499"
+  },
+  "msha": [
+    {
+      "mine_id": "1401499",
+      "name": "Northridge Sand LLC",
+      "operator": "Northridge Sand LLC",
+      "status": "Active",
+      "status_since": "2015-02-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "wi-richfield-wissota-sand-and-gravel",
+  "slug": "wissota-sand-and-gravel",
+  "name": "Wissota Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "2800 Scenic Rd",
+    "city": "Richfield",
+    "state": "WI",
+    "zip": "53076"
+  },
+  "location": {
+    "lat": 43.291153,
+    "lng": -88.21981
+  },
+  "contact": {
+    "phone": "(262) 644-5112",
+    "website": "http://www.wissotasandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a9d9a4d-b761-4267-b345-3f01e3c3cdb7",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4701855",
+      "name": "Wissota Sand & Gravel, Rugby Pit",
+      "operator": "Wissota Sand & Gravel Co.",
+      "status": "Active",
+      "status_since": "2014-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 17
+    }
+  ]
+}

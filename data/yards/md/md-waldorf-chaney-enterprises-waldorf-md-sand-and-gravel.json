@@ -1,0 +1,48 @@
+{
+  "id": "md-waldorf-chaney-enterprises-waldorf-md-sand-and-gravel",
+  "slug": "chaney-enterprises-waldorf-md-sand-and-gravel",
+  "name": "Chaney Enterprises - Waldorf, MD Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12475 Acton Lane",
+    "city": "Waldorf",
+    "state": "MD",
+    "zip": "20601"
+  },
+  "location": {
+    "lat": 38.632721,
+    "lng": -76.888229
+  },
+  "contact": {
+    "phone": "(301) 932-5000",
+    "website": "https://www.chaneyenterprises.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "771264e1-dc71-49e1-b970-4c6a328401b4",
+    "confidence": 0.966,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1800287",
+      "name": "Waldorf-MD Sand & Gravel",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Active",
+      "status_since": "1983-03-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

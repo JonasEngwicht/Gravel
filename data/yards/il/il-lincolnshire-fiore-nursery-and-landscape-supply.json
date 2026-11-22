@@ -1,0 +1,36 @@
+{
+  "id": "il-lincolnshire-fiore-nursery-and-landscape-supply",
+  "slug": "fiore-nursery-and-landscape-supply",
+  "name": "Fiore Nursery and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "16606 W IL Route 22",
+    "city": "Lincolnshire",
+    "state": "IL",
+    "zip": "60069"
+  },
+  "location": {
+    "lat": 42.191772,
+    "lng": -88.031349
+  },
+  "contact": {
+    "phone": "(847) 913-1414",
+    "website": "http://www.cjfiore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c92173eb-f245-409e-8888-352325797024",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

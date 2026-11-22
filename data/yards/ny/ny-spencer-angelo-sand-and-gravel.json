@@ -1,0 +1,47 @@
+{
+  "id": "ny-spencer-angelo-sand-and-gravel",
+  "slug": "angelo-sand-and-gravel",
+  "name": "Angelo Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "310 Hillview Rd",
+    "city": "Spencer",
+    "state": "NY",
+    "zip": "14883"
+  },
+  "location": {
+    "lat": 42.281837,
+    "lng": -76.498474
+  },
+  "contact": {
+    "phone": "(607) 273-1535"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8b8b9faa-60e7-47ba-95d8-ed39fe0e1e68",
+    "confidence": 0.95,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3002014",
+      "name": "Edger Sand & Gravel LLC",
+      "operator": "Edger Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2012-10-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

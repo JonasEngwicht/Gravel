@@ -1,0 +1,37 @@
+{
+  "id": "sc-conway-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6531 Highway 90",
+    "city": "Conway",
+    "state": "SC",
+    "zip": "29526"
+  },
+  "location": {
+    "lat": 33.854076,
+    "lng": -78.826767
+  },
+  "contact": {
+    "phone": "(843) 399-5990",
+    "website": "https://www.siteone.com/store/157"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "434d1ba9-1f81-44b1-a0e8-3435f4cfc868",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

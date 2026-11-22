@@ -1,0 +1,46 @@
+{
+  "id": "mi-copemish-crystal-aggregate-materials",
+  "slug": "crystal-aggregate-materials",
+  "name": "Crystal Aggregate Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18615 Nessen City Rd",
+    "city": "Copemish",
+    "state": "MI",
+    "zip": "49625"
+  },
+  "location": {
+    "lat": 44.503975,
+    "lng": -85.893112
+  },
+  "contact": {
+    "phone": "(231) 378-2100"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12964b76-76d3-4996-9e78-442f94de99da",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003394",
+      "name": "Copemish Mine",
+      "operator": "Crystal Aggregates LLC",
+      "status": "Abandoned",
+      "status_since": "2014-05-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "va-chantilly-aggregate-industries-holcim-cement-group",
+  "slug": "aggregate-industries-holcim-cement-group",
+  "name": "Aggregate Industries - Holcim Cement Group",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "25232 Willard Rd",
+    "city": "Chantilly",
+    "state": "VA",
+    "zip": "20152"
+  },
+  "location": {
+    "lat": 38.919132,
+    "lng": -77.486969
+  },
+  "contact": {
+    "phone": "(703) 542-7100",
+    "website": "https://handymanconcrete.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d165a84-b522-4397-9c5b-03916692c258",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

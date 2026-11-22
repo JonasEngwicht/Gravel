@@ -1,0 +1,41 @@
+{
+  "id": "il-madison-gateway-s-and-g",
+  "slug": "gateway-s-and-g",
+  "name": "Gateway S & G",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Madison",
+    "state": "IL",
+    "zip": "62060"
+  },
+  "location": {
+    "lat": 38.661389,
+    "lng": -90.119167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103055"
+  },
+  "msha": [
+    {
+      "mine_id": "1103055",
+      "name": "Gateway S & G Inc",
+      "operator": "Gateway S & G Inc",
+      "status": "Active",
+      "status_since": "2012-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

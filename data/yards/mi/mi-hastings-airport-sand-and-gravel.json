@@ -1,0 +1,47 @@
+{
+  "id": "mi-hastings-airport-sand-and-gravel",
+  "slug": "airport-sand-and-gravel",
+  "name": "Airport Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1950 W State Rd",
+    "city": "Hastings",
+    "state": "MI",
+    "zip": "49058"
+  },
+  "location": {
+    "lat": 42.660702,
+    "lng": -85.327576
+  },
+  "contact": {
+    "phone": "(269) 945-5767"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b2be28c2-0766-44e8-9d38-fa005c5eab8c",
+    "confidence": 0.991,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003505",
+      "name": "Airport Sand and Gravel",
+      "operator": "Airport Sand and Gravel",
+      "status": "Intermittent",
+      "status_since": "2015-02-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

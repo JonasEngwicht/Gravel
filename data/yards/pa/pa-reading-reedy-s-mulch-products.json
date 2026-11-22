@@ -1,0 +1,36 @@
+{
+  "id": "pa-reading-reedy-s-mulch-products",
+  "slug": "reedy-s-mulch-products",
+  "name": "Reedy's Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "710 Henry Cir",
+    "city": "Reading",
+    "state": "PA",
+    "zip": "19608"
+  },
+  "location": {
+    "lat": 40.310055,
+    "lng": -76.044029
+  },
+  "contact": {
+    "phone": "(610) 678-8090",
+    "website": "http://www.reedysmulchproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "345c6626-d0e3-4e57-b6c1-ad560e33131c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

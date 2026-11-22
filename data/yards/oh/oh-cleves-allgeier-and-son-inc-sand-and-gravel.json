@@ -1,0 +1,41 @@
+{
+  "id": "oh-cleves-allgeier-and-son-inc-sand-and-gravel",
+  "slug": "allgeier-and-son-inc-sand-and-gravel",
+  "name": "Allgeier & Son Inc Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cleves",
+    "state": "OH",
+    "zip": "45041"
+  },
+  "location": {
+    "lat": 39.1975,
+    "lng": -84.713611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304126"
+  },
+  "msha": [
+    {
+      "mine_id": "3304126",
+      "name": "Allgeier & Son Inc",
+      "operator": "Allgeier & Son Inc Sand & Gravel",
+      "status": "Active",
+      "status_since": "2023-09-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

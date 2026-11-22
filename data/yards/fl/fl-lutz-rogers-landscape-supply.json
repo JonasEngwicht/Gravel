@@ -1,0 +1,36 @@
+{
+  "id": "fl-lutz-rogers-landscape-supply",
+  "slug": "rogers-landscape-supply",
+  "name": "Rogers Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21411 W County Line Rd",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33548"
+  },
+  "location": {
+    "lat": 28.171986,
+    "lng": -82.462532
+  },
+  "contact": {
+    "phone": "(813) 949-8339",
+    "website": "http://rogerslandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d617aa94-e5b6-4962-9b6c-32e4d7efa79f",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

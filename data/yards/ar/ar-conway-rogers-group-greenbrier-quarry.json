@@ -1,0 +1,41 @@
+{
+  "id": "ar-conway-rogers-group-greenbrier-quarry",
+  "slug": "rogers-group-greenbrier-quarry",
+  "name": "Rogers Group – Greenbrier Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Conway",
+    "state": "AR",
+    "zip": "72035"
+  },
+  "location": {
+    "lat": 35.111667,
+    "lng": -92.4325
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0300855"
+  },
+  "msha": [
+    {
+      "mine_id": "0300855",
+      "name": "Greenbrier Quarry",
+      "operator": "Rogers Group Inc",
+      "status": "Active",
+      "status_since": "1997-10-01",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "in-corydon-imi-aggregates-corydon",
+  "slug": "imi-aggregates-corydon",
+  "name": "imi Aggregates - Corydon",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1100 Quarry Road",
+    "city": "Corydon",
+    "state": "IN",
+    "zip": "47112"
+  },
+  "location": {
+    "lat": 38.246185,
+    "lng": -86.146461
+  },
+  "contact": {
+    "phone": "(812) 738-2216",
+    "website": "https://locations.irvmat.com/in/274?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1f94655c-9c32-483a-b078-ac0ca7fbd5db",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200017",
+      "name": "IMI Corydon Stone & Asphalt Co.",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 26
+    }
+  ]
+}

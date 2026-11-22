@@ -1,0 +1,41 @@
+{
+  "id": "tx-temple-miller-springs-materials",
+  "slug": "miller-springs-materials",
+  "name": "Miller Springs Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Temple",
+    "state": "TX",
+    "zip": "76502"
+  },
+  "location": {
+    "lat": 31.097778,
+    "lng": -97.453333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104505"
+  },
+  "msha": [
+    {
+      "mine_id": "4104505",
+      "name": "Miller Springs Materials",
+      "operator": "Miller Springs Materials",
+      "status": "Active",
+      "status_since": "2012-07-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 23
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nc-dunn-carolina-mulch-and-supply",
+  "slug": "carolina-mulch-and-supply",
+  "name": "Carolina Mulch and Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1307 N Ellis Ave",
+    "city": "Dunn",
+    "state": "NC",
+    "zip": "28334"
+  },
+  "location": {
+    "lat": 35.321911,
+    "lng": -78.605942
+  },
+  "contact": {
+    "phone": "(910) 230-1961"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d9a392a-aa42-449e-b3a1-601686dc016e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

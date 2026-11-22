@@ -1,0 +1,41 @@
+{
+  "id": "sc-cross-martin-marietta-materials-berkeley-quarry",
+  "slug": "martin-marietta-materials-berkeley-quarry",
+  "name": "Martin Marietta Materials – Berkeley Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cross",
+    "state": "SC",
+    "zip": "29048"
+  },
+  "location": {
+    "lat": 33.360278,
+    "lng": -80.239167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800072"
+  },
+  "msha": [
+    {
+      "mine_id": "3800072",
+      "name": "Berkeley Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1979-05-21",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 23
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sc-taylors-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "402 Keller Rd",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687"
+  },
+  "location": {
+    "lat": 35.004379,
+    "lng": -82.339462
+  },
+  "contact": {
+    "phone": "(864) 895-5115",
+    "website": "http://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9147bd0c-53f5-42ed-86e9-6aac2e2f791c",
+    "confidence": 0.636,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nc-eagle-springs-sustainable-land-use-eagle-springs-nc-s-and-g",
+  "slug": "sustainable-land-use-eagle-springs-nc-s-and-g",
+  "name": "Sustainable Land Use – Eagle Springs-NC S&G",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Eagle Springs",
+    "state": "NC",
+    "zip": "27242"
+  },
+  "location": {
+    "lat": 35.300522,
+    "lng": -79.664951
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102308"
+  },
+  "msha": [
+    {
+      "mine_id": "3102308",
+      "name": "Eagle Springs-NC S&G",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Active",
+      "status_since": "2017-06-13",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nh-epsom-k-and-k-landscape-supplies",
+  "slug": "k-and-k-landscape-supplies",
+  "name": "K & K Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1524 Dover Rd",
+    "city": "Epsom",
+    "state": "NH",
+    "zip": "03234"
+  },
+  "location": {
+    "lat": 43.222134,
+    "lng": -71.325676
+  },
+  "contact": {
+    "phone": "(603) 731-8566",
+    "website": "http://www.kandklandscape.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44571e9a-ce0f-4b27-8ce1-6d5159def7f0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

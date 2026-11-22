@@ -1,0 +1,36 @@
+{
+  "id": "nj-white-twp-belvidere-sand-and-gravel",
+  "slug": "belvidere-sand-and-gravel",
+  "name": "Belvidere Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "487 County Road 519",
+    "city": "White Twp",
+    "state": "NJ",
+    "zip": "07823"
+  },
+  "location": {
+    "lat": 40.831547,
+    "lng": -75.034554
+  },
+  "contact": {
+    "phone": "(908) 475-8080",
+    "website": "http://www.hkgroup.com/companies/belvidere-sand-gravel"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f88dbb50-da7f-41fd-a50e-018529c7da2d",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

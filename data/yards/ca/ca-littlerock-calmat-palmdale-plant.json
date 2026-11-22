@@ -1,0 +1,41 @@
+{
+  "id": "ca-littlerock-calmat-palmdale-plant",
+  "slug": "calmat-palmdale-plant",
+  "name": "CalMat – Palmdale Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Littlerock",
+    "state": "CA",
+    "zip": "93552"
+  },
+  "location": {
+    "lat": 34.543333,
+    "lng": -118.0075
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0402125"
+  },
+  "msha": [
+    {
+      "mine_id": "0402125",
+      "name": "Palmdale Plant",
+      "operator": "CalMat Co",
+      "status": "Active",
+      "status_since": "1976-05-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

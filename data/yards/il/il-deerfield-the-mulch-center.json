@@ -1,0 +1,36 @@
+{
+  "id": "il-deerfield-the-mulch-center",
+  "slug": "the-mulch-center",
+  "name": "The Mulch Center",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "21457 Milwaukee Ave",
+    "city": "Deerfield",
+    "state": "IL",
+    "zip": "60015"
+  },
+  "location": {
+    "lat": 42.174431,
+    "lng": -87.922729
+  },
+  "contact": {
+    "phone": "(847) 459-7200",
+    "website": "https://www.mulchcenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "01bb77ad-2a8e-4145-968b-b7a404b48ccb",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

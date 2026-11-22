@@ -1,0 +1,36 @@
+{
+  "id": "az-mesa-antique-tile-pavers-and-landscape-supply-east-valley",
+  "slug": "antique-tile-pavers-and-landscape-supply-east-valley",
+  "name": "Antique Tile, Pavers & Landscape Supply East Valley",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1643 N Quail",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85205"
+  },
+  "location": {
+    "lat": 33.445896,
+    "lng": -111.730316
+  },
+  "contact": {
+    "phone": "(480) 626-9852",
+    "website": "https://www.antiquetilemesaaz.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e70b5c5f-2ab8-439e-b1ff-7a7ab8eadb95",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

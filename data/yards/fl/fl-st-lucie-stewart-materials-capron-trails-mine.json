@@ -1,0 +1,41 @@
+{
+  "id": "fl-st-lucie-stewart-materials-capron-trails-mine",
+  "slug": "stewart-materials-capron-trails-mine",
+  "name": "Stewart Materials – Capron Trails Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "St Lucie",
+    "state": "FL",
+    "zip": "34951"
+  },
+  "location": {
+    "lat": 27.525833,
+    "lng": -80.476667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801281"
+  },
+  "msha": [
+    {
+      "mine_id": "0801281",
+      "name": "Capron Trails Mine",
+      "operator": "Stewart Materials, LLC",
+      "status": "Active",
+      "status_since": "2014-01-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 22
+    }
+  ]
+}

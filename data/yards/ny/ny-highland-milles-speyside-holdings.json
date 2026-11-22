@@ -1,0 +1,41 @@
+{
+  "id": "ny-highland-milles-speyside-holdings",
+  "slug": "speyside-holdings",
+  "name": "Speyside Holdings",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Highland Milles",
+    "state": "NY",
+    "zip": "10930"
+  },
+  "location": {
+    "lat": 41.366389,
+    "lng": -74.103611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001526"
+  },
+  "msha": [
+    {
+      "mine_id": "3001526",
+      "name": "Speyside Holdings Llc",
+      "operator": "Speyside Holdings LLC",
+      "status": "Active",
+      "status_since": "2026-02-19",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "oh-fairfield-martin-marietta-aggregates-fairfield-sand-and-gravel",
+  "slug": "martin-marietta-aggregates-fairfield-sand-and-gravel",
+  "name": "Martin Marietta Aggregates Fairfield Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "107 River Cir",
+    "city": "Fairfield",
+    "state": "OH",
+    "zip": "45014"
+  },
+  "location": {
+    "lat": 39.337318,
+    "lng": -84.588203
+  },
+  "contact": {
+    "phone": "(513) 829-6446",
+    "website": "https://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9843e70e-a65a-4a8d-a404-338d02736018",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

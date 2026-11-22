@@ -1,0 +1,47 @@
+{
+  "id": "mi-saint-johns-les-miller-and-sons-aggregates-inc",
+  "slug": "les-miller-and-sons-aggregates-inc",
+  "name": "Les Miller & Sons Aggregates Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8881 W Taft Rd",
+    "city": "Saint Johns",
+    "state": "MI",
+    "zip": "48879"
+  },
+  "location": {
+    "lat": 42.957161,
+    "lng": -84.698006
+  },
+  "contact": {
+    "phone": "(989) 593-2055",
+    "website": "https://lesmillerandsons.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2fd94dd4-38dc-45e2-95a9-41a60ff271a5",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2003002",
+      "name": "Miller Pit.",
+      "operator": "Les Miller & Sons Aggregates, Inc.",
+      "status": "Abandoned",
+      "status_since": "2025-04-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

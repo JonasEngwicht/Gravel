@@ -1,0 +1,41 @@
+{
+  "id": "va-speedwell-triple-b-stone",
+  "slug": "triple-b-stone",
+  "name": "Triple B Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Speedwell",
+    "state": "VA",
+    "zip": "24374"
+  },
+  "location": {
+    "lat": 36.806667,
+    "lng": -81.183056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4407273"
+  },
+  "msha": [
+    {
+      "mine_id": "4407273",
+      "name": "Triple B Stone",
+      "operator": "Triple B Stone",
+      "status": "Active",
+      "status_since": "2017-10-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

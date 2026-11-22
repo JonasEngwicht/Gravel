@@ -1,0 +1,41 @@
+{
+  "id": "mo-troy-magruder-limestone-troy-quarry",
+  "slug": "magruder-limestone-troy-quarry",
+  "name": "Magruder Limestone-Troy Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Troy",
+    "state": "MO",
+    "zip": "63379"
+  },
+  "location": {
+    "lat": 39.024444,
+    "lng": -90.963611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300226"
+  },
+  "msha": [
+    {
+      "mine_id": "2300226",
+      "name": "Magruder Limestone-Troy Quarry",
+      "operator": "Magruder Limestone Co Inc",
+      "status": "Active",
+      "status_since": "2013-12-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

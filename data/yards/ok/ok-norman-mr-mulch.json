@@ -1,0 +1,36 @@
+{
+  "id": "ok-norman-mr-mulch",
+  "slug": "mr-mulch",
+  "name": "Mr. Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2451 Twin Acres Dr",
+    "city": "Norman",
+    "state": "OK",
+    "zip": "73071"
+  },
+  "location": {
+    "lat": 35.248192,
+    "lng": -97.413132
+  },
+  "contact": {
+    "phone": "(405) 343-0258",
+    "website": "http://www.gomrmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb19454f-3ff1-4597-b37b-14d16886e754",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

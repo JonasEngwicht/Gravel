@@ -1,0 +1,48 @@
+{
+  "id": "oh-cleves-ashcraft-sand-and-gravel",
+  "slug": "ashcraft-sand-and-gravel",
+  "name": "Ashcraft Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5850 Dry Fork Rd",
+    "city": "Cleves",
+    "state": "OH",
+    "zip": "45002"
+  },
+  "location": {
+    "lat": 39.200115,
+    "lng": -84.773186
+  },
+  "contact": {
+    "phone": "(513) 367-5700",
+    "website": "http://www.ashcraftsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "38f57f76-39a1-46f9-a098-83b21c9e4664",
+    "confidence": 0.998,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3303782",
+      "name": "Ashcraft Sand & Gravel Co., Inc.",
+      "operator": "Ashcraft Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2023-11-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

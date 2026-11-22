@@ -1,0 +1,37 @@
+{
+  "id": "co-brighton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "23203 E 152nd Ave",
+    "city": "Brighton",
+    "state": "CO",
+    "zip": "80603"
+  },
+  "location": {
+    "lat": 39.97295,
+    "lng": -104.716156
+  },
+  "contact": {
+    "phone": "(303) 690-8733",
+    "website": "https://www.siteone.com/store/330"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3798efc-8206-40d3-b535-724b005bd0a5",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

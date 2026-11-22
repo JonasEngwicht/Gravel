@@ -1,0 +1,37 @@
+{
+  "id": "tx-longview-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "433 E College St",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "75601"
+  },
+  "location": {
+    "lat": 32.491493,
+    "lng": -94.734093
+  },
+  "contact": {
+    "phone": "(903) 758-7351",
+    "website": "http://martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8dba82e6-884b-4556-8769-280860549ccf",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

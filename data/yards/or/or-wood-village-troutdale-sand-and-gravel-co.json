@@ -1,0 +1,36 @@
+{
+  "id": "or-wood-village-troutdale-sand-and-gravel-co",
+  "slug": "troutdale-sand-and-gravel-co",
+  "name": "Troutdale Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2205 NE 244th Ave",
+    "city": "Wood Village",
+    "state": "OR",
+    "zip": "97060"
+  },
+  "location": {
+    "lat": 45.539291,
+    "lng": -122.414253
+  },
+  "contact": {
+    "phone": "(503) 665-4121",
+    "website": "http://www.troutdalesandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "07aa240c-2a67-40f9-b8f2-287da00012b4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ia-legrande-cessford-construction-pcp-2",
+  "slug": "cessford-construction-pcp-2",
+  "name": "Cessford Construction – Pcp #2",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Legrande",
+    "state": "IA",
+    "zip": "52658"
+  },
+  "location": {
+    "lat": 40.733889,
+    "lng": -91.169722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302050"
+  },
+  "msha": [
+    {
+      "mine_id": "1302050",
+      "name": "Pcp #2",
+      "operator": "Cessford Construction Co",
+      "status": "Intermittent",
+      "status_since": "2026-10-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

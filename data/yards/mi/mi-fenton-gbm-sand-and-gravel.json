@@ -1,0 +1,36 @@
+{
+  "id": "mi-fenton-gbm-sand-and-gravel",
+  "slug": "gbm-sand-and-gravel",
+  "name": "GBM Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "7191 Hogan Rd",
+    "city": "Fenton",
+    "state": "MI",
+    "zip": "48430"
+  },
+  "location": {
+    "lat": 42.750988,
+    "lng": -83.816116
+  },
+  "contact": {
+    "phone": "(810) 623-3836",
+    "website": "http://gbmsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c456fed-987b-42ae-ab00-539b027fc2ee",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

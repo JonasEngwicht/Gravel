@@ -1,0 +1,41 @@
+{
+  "id": "mi-dewitt-leavitt-and-starck-excavating-round-lake-rd-pit",
+  "slug": "leavitt-and-starck-excavating-round-lake-rd-pit",
+  "name": "Leavitt & Starck Excavating – Round Lake Rd Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Dewitt",
+    "state": "MI",
+    "zip": "48808"
+  },
+  "location": {
+    "lat": 42.856667,
+    "lng": -84.504722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003637"
+  },
+  "msha": [
+    {
+      "mine_id": "2003637",
+      "name": "Round Lake Rd Pit",
+      "operator": "Leavitt & Starck Excavating Inc",
+      "status": "Intermittent",
+      "status_since": "2022-10-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

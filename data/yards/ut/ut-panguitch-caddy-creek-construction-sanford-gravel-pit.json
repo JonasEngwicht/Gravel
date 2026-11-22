@@ -1,0 +1,41 @@
+{
+  "id": "ut-panguitch-caddy-creek-construction-sanford-gravel-pit",
+  "slug": "caddy-creek-construction-sanford-gravel-pit",
+  "name": "Caddy Creek Construction – Sanford Gravel Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Panguitch",
+    "state": "UT",
+    "zip": "84759"
+  },
+  "location": {
+    "lat": 37.941667,
+    "lng": -112.378611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202776"
+  },
+  "msha": [
+    {
+      "mine_id": "4202776",
+      "name": "Sanford Gravel Pit",
+      "operator": "Caddy Creek Construction, Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-06-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-bourbonnais-universal-landscape-supply",
+  "slug": "universal-landscape-supply",
+  "name": "Universal Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1166 E 6000N Rd",
+    "city": "Bourbonnais",
+    "state": "IL",
+    "zip": "60914"
+  },
+  "location": {
+    "lat": 41.205433,
+    "lng": -87.853508
+  },
+  "contact": {
+    "phone": "(815) 953-3993",
+    "website": "http://Universallandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04db6b1f-8a00-4a2f-9a4e-850912ab5da9",
+    "confidence": 0.743,
+    "merged_records": 1
+  }
+}

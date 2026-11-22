@@ -1,0 +1,36 @@
+{
+  "id": "il-minooka-best-budget-tree-service-firewood-and-mulch",
+  "slug": "best-budget-tree-service-firewood-and-mulch",
+  "name": "Best Budget Tree Service Firewood & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2241 Us-52",
+    "city": "Minooka",
+    "state": "IL",
+    "zip": "60447"
+  },
+  "location": {
+    "lat": 41.513103,
+    "lng": -88.297005
+  },
+  "contact": {
+    "phone": "(815) 685-2444",
+    "website": "https://bestbudgettree.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "362aa5c3-7f07-403c-8dde-478bcb8ba393",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

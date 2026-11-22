@@ -1,0 +1,41 @@
+{
+  "id": "pr-hormigueros-rodriguez-aggregates-cantera-h-r-lavadero",
+  "slug": "rodriguez-aggregates-cantera-h-r-lavadero",
+  "name": "Rodriguez Aggregates – Cantera H R /LAVADERO",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hormigueros",
+    "state": "PR",
+    "zip": "00660"
+  },
+  "location": {
+    "lat": 18.14,
+    "lng": -67.126944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400460"
+  },
+  "msha": [
+    {
+      "mine_id": "5400460",
+      "name": "Cantera H R /LAVADERO",
+      "operator": "Rodriguez Aggregates Corp",
+      "status": "Active",
+      "status_since": "2005-05-02",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

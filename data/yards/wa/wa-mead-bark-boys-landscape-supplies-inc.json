@@ -1,0 +1,36 @@
+{
+  "id": "wa-mead-bark-boys-landscape-supplies-inc",
+  "slug": "bark-boys-landscape-supplies-inc",
+  "name": "Bark Boys Landscape Supplies, Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15402 N Newport Hwy",
+    "city": "Mead",
+    "state": "WA",
+    "zip": "99021"
+  },
+  "location": {
+    "lat": 47.796909,
+    "lng": -117.349922
+  },
+  "contact": {
+    "phone": "(509) 465-1819",
+    "website": "http://barkboysinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04423e69-74fb-443f-87f4-0968402c00bd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

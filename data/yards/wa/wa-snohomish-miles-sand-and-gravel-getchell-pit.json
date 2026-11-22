@@ -1,0 +1,41 @@
+{
+  "id": "wa-snohomish-miles-sand-and-gravel-getchell-pit",
+  "slug": "miles-sand-and-gravel-getchell-pit",
+  "name": "Miles Sand & Gravel – Getchell Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98258"
+  },
+  "location": {
+    "lat": 48.074167,
+    "lng": -122.021667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503110"
+  },
+  "msha": [
+    {
+      "mine_id": "4503110",
+      "name": "Getchell Pit",
+      "operator": "Miles Sand & Gravel Company",
+      "status": "Active",
+      "status_since": "1986-12-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

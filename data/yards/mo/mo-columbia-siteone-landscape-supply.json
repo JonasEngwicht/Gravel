@@ -1,0 +1,37 @@
+{
+  "id": "mo-columbia-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1808 Burlington St",
+    "city": "Columbia",
+    "state": "MO",
+    "zip": "65202"
+  },
+  "location": {
+    "lat": 38.971142,
+    "lng": -92.309311
+  },
+  "contact": {
+    "phone": "(573) 814-3471",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b51cf515-4c17-4bb2-a2ba-178a842f448f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

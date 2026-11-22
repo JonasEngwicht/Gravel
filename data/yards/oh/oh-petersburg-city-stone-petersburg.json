@@ -1,0 +1,41 @@
+{
+  "id": "oh-petersburg-city-stone-petersburg",
+  "slug": "city-stone-petersburg",
+  "name": "City Stone – Petersburg",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Petersburg",
+    "state": "OH",
+    "zip": "44454"
+  },
+  "location": {
+    "lat": 40.922222,
+    "lng": -80.537222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304195"
+  },
+  "msha": [
+    {
+      "mine_id": "3304195",
+      "name": "Petersburg",
+      "operator": "City Stone LLC",
+      "status": "Intermittent",
+      "status_since": "2025-03-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

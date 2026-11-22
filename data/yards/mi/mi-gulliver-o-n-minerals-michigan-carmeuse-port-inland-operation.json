@@ -1,0 +1,41 @@
+{
+  "id": "mi-gulliver-o-n-minerals-michigan-carmeuse-port-inland-operation",
+  "slug": "o-n-minerals-michigan-carmeuse-port-inland-operation",
+  "name": "O-N Minerals (Michigan) – Carmeuse - Port Inland Operation",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gulliver",
+    "state": "MI",
+    "zip": "49838"
+  },
+  "location": {
+    "lat": 45.971389,
+    "lng": -85.871944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2000985"
+  },
+  "msha": [
+    {
+      "mine_id": "2000985",
+      "name": "Carmeuse - Port Inland Operation",
+      "operator": "O-N Minerals (Michigan) Company",
+      "status": "Active",
+      "status_since": "1999-03-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 79
+    }
+  ]
+}

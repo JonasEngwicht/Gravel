@@ -1,0 +1,41 @@
+{
+  "id": "oh-south-lebanon-l-and-i-natural-resources-l-and-i-pit-and-mill",
+  "slug": "l-and-i-natural-resources-l-and-i-pit-and-mill",
+  "name": "L & I Natural Resources – L & I Pit & Mill",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "South Lebanon",
+    "state": "OH",
+    "zip": "45034"
+  },
+  "location": {
+    "lat": 39.3725,
+    "lng": -84.245
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304193"
+  },
+  "msha": [
+    {
+      "mine_id": "3304193",
+      "name": "L & I Pit & Mill",
+      "operator": "L & I Natural Resources Inc",
+      "status": "Active",
+      "status_since": "1990-04-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

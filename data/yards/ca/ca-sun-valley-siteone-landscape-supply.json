@@ -1,0 +1,37 @@
+{
+  "id": "ca-sun-valley-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8563 San Fernando Rd",
+    "city": "Sun Valley",
+    "state": "CA",
+    "zip": "91352"
+  },
+  "location": {
+    "lat": 34.225094,
+    "lng": -118.377869
+  },
+  "contact": {
+    "phone": "(818) 768-3176",
+    "website": "https://www.siteone.com/store/466"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e374e3fa-d3dc-4559-9316-12b5acd3f476",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

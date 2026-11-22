@@ -1,0 +1,36 @@
+{
+  "id": "ga-rocky-face-shepard-s-mulch",
+  "slug": "shepard-s-mulch",
+  "name": "Shepard's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "110 Round Knob Rd",
+    "city": "Rocky Face",
+    "state": "GA",
+    "zip": "30740"
+  },
+  "location": {
+    "lat": 34.807343,
+    "lng": -85.030159
+  },
+  "contact": {
+    "phone": "(706) 278-5622",
+    "website": "http://www.shepardsmulchandcompost.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a83925e2-a69e-435a-a736-5a6ab51080dd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

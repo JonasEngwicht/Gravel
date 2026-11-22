@@ -1,0 +1,48 @@
+{
+  "id": "tn-newport-newport-sand-and-gravel",
+  "slug": "newport-sand-and-gravel",
+  "name": "Newport Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1775 Zanzabar Rd",
+    "city": "Newport",
+    "state": "TN",
+    "zip": "37722"
+  },
+  "location": {
+    "lat": 35.887226,
+    "lng": -83.190323
+  },
+  "contact": {
+    "phone": "(423) 623-7231",
+    "website": "http://www.nsgstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "466c9a30-157a-48fd-8f69-f15ad5e189f2",
+    "confidence": 0.994,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4003016",
+      "name": "Pit #1 & Plant",
+      "operator": "Newport Sand & Gravel",
+      "status": "Active",
+      "status_since": "1988-12-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 34
+    }
+  ]
+}

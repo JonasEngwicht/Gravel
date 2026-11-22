@@ -1,0 +1,35 @@
+{
+  "id": "ca-tulare-eds-self-haul-concrete-and-landscape-supplies",
+  "slug": "eds-self-haul-concrete-and-landscape-supplies",
+  "name": "Ed’s Self Haul Concrete & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "26300 N Mooney Blvd",
+    "city": "Tulare",
+    "state": "CA",
+    "zip": "93274"
+  },
+  "location": {
+    "lat": 36.267288,
+    "lng": -119.312775
+  },
+  "contact": {
+    "phone": "(559) 688-0086"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd8ebe68-7cd7-4378-82ac-fd043e36fd0c",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

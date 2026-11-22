@@ -1,0 +1,36 @@
+{
+  "id": "nj-hillsborough-wild-heart-bulk-landscape-supplies",
+  "slug": "wild-heart-bulk-landscape-supplies",
+  "name": "Wild Heart Bulk Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1524 Millstone River Rd",
+    "city": "Hillsborough",
+    "state": "NJ",
+    "zip": "08844"
+  },
+  "location": {
+    "lat": 40.492893,
+    "lng": -74.586311
+  },
+  "contact": {
+    "phone": "(908) 874-6664",
+    "website": "https://wildheartbulk.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4b6f7673-9299-43bf-b98b-6b86e6025fb4",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

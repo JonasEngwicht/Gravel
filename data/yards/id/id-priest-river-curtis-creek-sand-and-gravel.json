@@ -1,0 +1,48 @@
+{
+  "id": "id-priest-river-curtis-creek-sand-and-gravel",
+  "slug": "curtis-creek-sand-and-gravel",
+  "name": "Curtis Creek Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6990 Spirit Lake Cutoff Rd",
+    "city": "Priest River",
+    "state": "ID",
+    "zip": "83856"
+  },
+  "location": {
+    "lat": 48.068562,
+    "lng": -116.835739
+  },
+  "contact": {
+    "phone": "(208) 755-1181",
+    "website": "http://www.Curtiscreekgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "771967bc-6520-474c-83dd-a4883f7deda3",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1001910",
+      "name": "Athol Aggregates",
+      "operator": "Athol Aggregate",
+      "status": "Intermittent",
+      "status_since": "2014-08-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

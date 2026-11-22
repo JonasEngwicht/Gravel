@@ -1,0 +1,41 @@
+{
+  "id": "tx-muenster-j-r-thompson-mitchell-quarry",
+  "slug": "j-r-thompson-mitchell-quarry",
+  "name": "J.R. Thompson – Mitchell Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Muenster",
+    "state": "TX",
+    "zip": "76263"
+  },
+  "location": {
+    "lat": 33.5325,
+    "lng": -97.378889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105383"
+  },
+  "msha": [
+    {
+      "mine_id": "4105383",
+      "name": "Mitchell Quarry",
+      "operator": "J.R. Thompson Inc",
+      "status": "Active",
+      "status_since": "2019-04-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

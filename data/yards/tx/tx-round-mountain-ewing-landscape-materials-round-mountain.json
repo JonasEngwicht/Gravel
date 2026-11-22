@@ -1,0 +1,36 @@
+{
+  "id": "tx-round-mountain-ewing-landscape-materials-round-mountain",
+  "slug": "ewing-landscape-materials-round-mountain",
+  "name": "Ewing Landscape Materials - Round Mountain",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11392 N US-281",
+    "city": "Round Mountain",
+    "state": "TX",
+    "zip": "78663"
+  },
+  "location": {
+    "lat": 30.435627,
+    "lng": -98.342682
+  },
+  "contact": {
+    "phone": "(830) 220-2699",
+    "website": "http://www.roundmountainlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cac9c656-5e44-4009-b156-d57df2f3ad06",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

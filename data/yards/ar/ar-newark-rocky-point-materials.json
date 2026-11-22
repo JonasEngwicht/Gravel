@@ -1,0 +1,41 @@
+{
+  "id": "ar-newark-rocky-point-materials",
+  "slug": "rocky-point-materials",
+  "name": "Rocky Point Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Newark",
+    "state": "AR",
+    "zip": "72571"
+  },
+  "location": {
+    "lat": 35.659167,
+    "lng": -91.605
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301399"
+  },
+  "msha": [
+    {
+      "mine_id": "0301399",
+      "name": "Rocky Point Materials",
+      "operator": "Rocky Point Materials",
+      "status": "Active",
+      "status_since": "2005-03-21",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

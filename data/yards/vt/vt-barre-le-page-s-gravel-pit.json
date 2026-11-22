@@ -1,0 +1,47 @@
+{
+  "id": "vt-barre-le-page-s-gravel-pit",
+  "slug": "le-page-s-gravel-pit",
+  "name": "Le Page's Gravel Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "180 Farwell St",
+    "city": "Barre",
+    "state": "VT",
+    "zip": "05641"
+  },
+  "location": {
+    "lat": 44.218468,
+    "lng": -72.501732
+  },
+  "contact": {
+    "phone": "(802) 476-7059"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb032c53-d5d0-4899-a4f5-3505f12d3a94",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4300722",
+      "name": "LePages Gravel Pit",
+      "operator": "LePage Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2011-02-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-taylor-landscape-supply-inc",
+  "slug": "landscape-supply-inc",
+  "name": "Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "24300 Brest",
+    "city": "Taylor",
+    "state": "MI",
+    "zip": "48180"
+  },
+  "location": {
+    "lat": 42.220081,
+    "lng": -83.272064
+  },
+  "contact": {
+    "phone": "(734) 946-7000",
+    "website": "http://www.landscapesupplyinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12f4e7b4-3e14-40b4-86e1-0e807355f8b4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

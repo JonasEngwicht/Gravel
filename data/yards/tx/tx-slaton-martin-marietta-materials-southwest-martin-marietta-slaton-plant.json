@@ -1,0 +1,41 @@
+{
+  "id": "tx-slaton-martin-marietta-materials-southwest-martin-marietta-slaton-plant",
+  "slug": "martin-marietta-materials-southwest-martin-marietta-slaton-plant",
+  "name": "Martin Marietta Materials Southwest – Martin Marietta Slaton Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Slaton",
+    "state": "TX",
+    "zip": "79364"
+  },
+  "location": {
+    "lat": 33.437222,
+    "lng": -101.643611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4101111"
+  },
+  "msha": [
+    {
+      "mine_id": "4101111",
+      "name": "Martin Marietta Slaton Plant",
+      "operator": "Martin Marietta Materials Southwest LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 30
+    }
+  ]
+}

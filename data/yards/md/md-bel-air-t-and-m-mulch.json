@@ -1,0 +1,36 @@
+{
+  "id": "md-bel-air-t-and-m-mulch",
+  "slug": "t-and-m-mulch",
+  "name": "T & M Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1808 N Fountain Green Rd",
+    "city": "Bel Air",
+    "state": "MD",
+    "zip": "21015"
+  },
+  "location": {
+    "lat": 39.57428,
+    "lng": -76.338791
+  },
+  "contact": {
+    "phone": "(410) 879-3600",
+    "website": "http://tmmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6587ce39-4ee9-4ad5-b908-3c22ef5fc42c",
+    "confidence": 0.923,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-mico-vulcan-construction-materials-mico-quarry",
+  "slug": "vulcan-construction-materials-mico-quarry",
+  "name": "Vulcan Construction Materials – Mico Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mico",
+    "state": "TX",
+    "zip": "78066"
+  },
+  "location": {
+    "lat": 29.5375,
+    "lng": -98.871944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104711"
+  },
+  "msha": [
+    {
+      "mine_id": "4104711",
+      "name": "Mico Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2014-04-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

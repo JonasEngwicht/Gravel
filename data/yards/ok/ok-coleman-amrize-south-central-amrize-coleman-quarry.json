@@ -1,0 +1,41 @@
+{
+  "id": "ok-coleman-amrize-south-central-amrize-coleman-quarry",
+  "slug": "amrize-south-central-amrize-coleman-quarry",
+  "name": "Amrize South Central – Amrize Coleman Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Coleman",
+    "state": "OK",
+    "zip": "73432"
+  },
+  "location": {
+    "lat": 34.273333,
+    "lng": -96.446667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402233"
+  },
+  "msha": [
+    {
+      "mine_id": "3402233",
+      "name": "Amrize Coleman Quarry",
+      "operator": "Amrize South Central Inc.",
+      "status": "Active",
+      "status_since": "2025-02-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mn-redwood-falls-duro-rock-supply-co",
+  "slug": "duro-rock-supply-co",
+  "name": "Duro Rock Supply Co",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "33920 County Road 6",
+    "city": "Redwood Falls",
+    "state": "MN",
+    "zip": "56283"
+  },
+  "location": {
+    "lat": 44.58884,
+    "lng": -95.21833
+  },
+  "contact": {
+    "phone": "(800) 658-7309",
+    "website": "http://www.durorock.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4b46903a-f214-4bda-a8a9-5470a730cb5c",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

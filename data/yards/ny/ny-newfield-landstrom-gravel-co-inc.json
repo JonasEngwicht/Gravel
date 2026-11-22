@@ -1,0 +1,35 @@
+{
+  "id": "ny-newfield-landstrom-gravel-co-inc",
+  "slug": "landstrom-gravel-co-inc",
+  "name": "Landstrom Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "208 Van Ostrand Rd",
+    "city": "Newfield",
+    "state": "NY",
+    "zip": "14867"
+  },
+  "location": {
+    "lat": 42.395798,
+    "lng": -76.581909
+  },
+  "contact": {
+    "phone": "(607) 564-9502"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11d90c92-06bb-4cdc-9f61-b667bf17df74",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "nm-deming-hobbs-sand-and-gravel",
+  "slug": "hobbs-sand-and-gravel",
+  "name": "Hobbs Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3050 Rockhound Rd SE",
+    "city": "Deming",
+    "state": "NM",
+    "zip": "88030"
+  },
+  "location": {
+    "lat": 32.193947,
+    "lng": -107.721428
+  },
+  "contact": {
+    "phone": "(575) 546-0892",
+    "website": "http://hobbssandandgravel.yolasite.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "107a7c86-de68-4ed9-b84e-69b47d895881",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2900470",
+      "name": "Hobbs Quality Service",
+      "operator": "Hobbs Quality Service",
+      "status": "Abandoned",
+      "status_since": "2021-05-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

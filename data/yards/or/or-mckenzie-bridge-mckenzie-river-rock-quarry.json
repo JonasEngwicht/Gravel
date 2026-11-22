@@ -1,0 +1,41 @@
+{
+  "id": "or-mckenzie-bridge-mckenzie-river-rock-quarry",
+  "slug": "mckenzie-river-rock-quarry",
+  "name": "Mckenzie River Rock Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "McKenzie Bridge",
+    "state": "OR",
+    "zip": "97488"
+  },
+  "location": {
+    "lat": 44.1775,
+    "lng": -122.231389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503879"
+  },
+  "msha": [
+    {
+      "mine_id": "3503879",
+      "name": "Mckenzie River Quarry",
+      "operator": "Mckenzie River Rock Quarry LLC",
+      "status": "Intermittent",
+      "status_since": "2025-11-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

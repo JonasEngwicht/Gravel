@@ -1,0 +1,35 @@
+{
+  "id": "mi-plymouth-abc-topsoil-and-leasing-l-l-c",
+  "slug": "abc-topsoil-and-leasing-l-l-c",
+  "name": "Abc Topsoil & Leasing L.l.c.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "650 Junction St",
+    "city": "Plymouth",
+    "state": "MI",
+    "zip": "48170"
+  },
+  "location": {
+    "lat": 42.38044,
+    "lng": -83.468399
+  },
+  "contact": {
+    "phone": "(734) 320-2441"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d8ae37f7-8dc8-45d0-a300-1262476b5cfd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

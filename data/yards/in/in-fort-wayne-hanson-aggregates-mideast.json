@@ -1,0 +1,49 @@
+{
+  "id": "in-fort-wayne-hanson-aggregates-mideast",
+  "slug": "hanson-aggregates-mideast",
+  "name": "Hanson Aggregates Mideast",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "7320 Lower Huntington Rd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46809"
+  },
+  "location": {
+    "lat": 41.005363,
+    "lng": -85.237061
+  },
+  "contact": {
+    "phone": "(260) 747-5011",
+    "website": "http://www.hanson.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "00693c60-377a-40c1-bc84-f734b048bc37",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200442",
+      "name": "Lower Huntington Quarry",
+      "operator": "Hanson Aggregates Midwest, LLC",
+      "status": "Abandoned",
+      "status_since": "2010-12-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

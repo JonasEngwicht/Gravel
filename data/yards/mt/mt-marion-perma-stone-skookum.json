@@ -1,0 +1,41 @@
+{
+  "id": "mt-marion-perma-stone-skookum",
+  "slug": "perma-stone-skookum",
+  "name": "Perma Stone – Skookum",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Marion",
+    "state": "MT",
+    "zip": "59925"
+  },
+  "location": {
+    "lat": 48.061667,
+    "lng": -114.821111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402570"
+  },
+  "msha": [
+    {
+      "mine_id": "2402570",
+      "name": "Skookum",
+      "operator": "Perma Stone Inc",
+      "status": "Intermittent",
+      "status_since": "2026-08-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

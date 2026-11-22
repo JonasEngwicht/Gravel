@@ -1,0 +1,41 @@
+{
+  "id": "ny-jordanville-heidelberg-materials-northeast-jordanville-plant",
+  "slug": "heidelberg-materials-northeast-jordanville-plant",
+  "name": "Heidelberg Materials Northeast – Jordanville Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jordanville",
+    "state": "NY",
+    "zip": "13407"
+  },
+  "location": {
+    "lat": 42.9225,
+    "lng": -74.951944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000048"
+  },
+  "msha": [
+    {
+      "mine_id": "3000048",
+      "name": "Jordanville Plant",
+      "operator": "Heidelberg Materials Northeast Llc",
+      "status": "Active",
+      "status_since": "2012-06-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

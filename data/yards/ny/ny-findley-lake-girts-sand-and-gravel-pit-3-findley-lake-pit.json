@@ -1,0 +1,41 @@
+{
+  "id": "ny-findley-lake-girts-sand-and-gravel-pit-3-findley-lake-pit",
+  "slug": "girts-sand-and-gravel-pit-3-findley-lake-pit",
+  "name": "Girts Sand & Gravel – Pit #3 Findley Lake Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Findley Lake",
+    "state": "NY",
+    "zip": "14736"
+  },
+  "location": {
+    "lat": 42.118611,
+    "lng": -79.726389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004181"
+  },
+  "msha": [
+    {
+      "mine_id": "3004181",
+      "name": "Pit #3 Findley Lake Pit",
+      "operator": "Girts Sand & Gravel, Llc",
+      "status": "Intermittent",
+      "status_since": "2026-03-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

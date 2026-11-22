@@ -1,0 +1,36 @@
+{
+  "id": "tx-montgomery-md-landscaping-supplies",
+  "slug": "md-landscaping-supplies",
+  "name": "MD Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "19976 W FM 1097 Rd",
+    "city": "Montgomery",
+    "state": "TX",
+    "zip": "77356"
+  },
+  "location": {
+    "lat": 30.432474,
+    "lng": -95.664169
+  },
+  "contact": {
+    "phone": "(936) 597-8500",
+    "website": "http://mdlandscapingsupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b2c2c032-2b9b-4022-91ad-a1eea2656aa3",
+    "confidence": 0.947,
+    "merged_records": 1
+  }
+}

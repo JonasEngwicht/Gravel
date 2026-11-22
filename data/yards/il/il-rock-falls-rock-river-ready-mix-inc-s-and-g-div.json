@@ -1,0 +1,41 @@
+{
+  "id": "il-rock-falls-rock-river-ready-mix-inc-s-and-g-div",
+  "slug": "rock-river-ready-mix-inc-s-and-g-div",
+  "name": "Rock River Ready Mix, Inc. - S & G Div",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Rock Falls",
+    "state": "IL",
+    "zip": "61037"
+  },
+  "location": {
+    "lat": 41.738563,
+    "lng": -89.78216
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102773"
+  },
+  "msha": [
+    {
+      "mine_id": "1102773",
+      "name": "Rock River Ready Mix, Inc. - S & G Div",
+      "operator": "Rock River Ready Mix, Inc.",
+      "status": "Intermittent",
+      "status_since": "1985-07-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

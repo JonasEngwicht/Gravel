@@ -1,0 +1,36 @@
+{
+  "id": "oh-springfield-mad-river-mulch-and-topsoil",
+  "slug": "mad-river-mulch-and-topsoil",
+  "name": "Mad River Mulch and Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5625 Old Lower Valley Pike",
+    "city": "Springfield",
+    "state": "OH",
+    "zip": "45506"
+  },
+  "location": {
+    "lat": 39.900784,
+    "lng": -83.921402
+  },
+  "contact": {
+    "phone": "(937) 882-6115",
+    "website": "http://www.madrivermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d79dc184-0b98-4b5e-8829-1bc645711faf",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

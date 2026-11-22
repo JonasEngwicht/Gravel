@@ -1,0 +1,35 @@
+{
+  "id": "ct-danbury-danbury-top-soil",
+  "slug": "danbury-top-soil",
+  "name": "Danbury Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13 Miry Brook Rd",
+    "city": "Danbury",
+    "state": "CT",
+    "zip": "06810"
+  },
+  "location": {
+    "lat": 41.370571,
+    "lng": -73.476013
+  },
+  "contact": {
+    "phone": "(203) 744-3658"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79d3d526-f668-40e6-83f1-f0ed5fc1d028",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

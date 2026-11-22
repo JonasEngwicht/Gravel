@@ -1,0 +1,36 @@
+{
+  "id": "tx-haltom-city-dfw-stone-supply",
+  "slug": "dfw-stone-supply",
+  "name": "Dfw Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6500 Airport Fwy",
+    "city": "Haltom City",
+    "state": "TX",
+    "zip": "76117"
+  },
+  "location": {
+    "lat": 32.791737,
+    "lng": -97.242737
+  },
+  "contact": {
+    "phone": "(972) 310-1234",
+    "website": "https://www.dfwstonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "358cc7a8-562f-4349-891e-a44807caa3c8",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

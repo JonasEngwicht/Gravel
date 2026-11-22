@@ -1,0 +1,37 @@
+{
+  "id": "ga-kennesaw-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2501 S Main St NW",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144"
+  },
+  "location": {
+    "lat": 34.014381,
+    "lng": -84.609772
+  },
+  "contact": {
+    "phone": "(770) 590-1700",
+    "website": "https://www.siteone.com/en/store/173"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b8c81e4-a611-4f82-8e1b-5c92ecde5061",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

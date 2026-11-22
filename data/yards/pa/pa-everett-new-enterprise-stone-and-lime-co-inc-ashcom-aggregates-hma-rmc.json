@@ -1,0 +1,48 @@
+{
+  "id": "pa-everett-new-enterprise-stone-and-lime-co-inc-ashcom-aggregates-hma-rmc",
+  "slug": "new-enterprise-stone-and-lime-co-inc-ashcom-aggregates-hma-rmc",
+  "name": "New Enterprise Stone & Lime Co., Inc. -- Ashcom Aggregates, Hma, Rmc",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "526 Ashcom Rd",
+    "city": "Everett",
+    "state": "PA",
+    "zip": "15537"
+  },
+  "location": {
+    "lat": 40.004322,
+    "lng": -78.419395
+  },
+  "contact": {
+    "phone": "(800) 426-7334",
+    "website": "https://www.nesl.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aee10688-fc95-4908-8ee3-701f56ba3b45",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3600193",
+      "name": "Ashcom Quarry And Mill",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Active",
+      "status_since": "2010-10-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 16
+    }
+  ]
+}

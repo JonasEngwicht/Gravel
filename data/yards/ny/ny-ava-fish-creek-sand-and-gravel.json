@@ -1,0 +1,41 @@
+{
+  "id": "ny-ava-fish-creek-sand-and-gravel",
+  "slug": "fish-creek-sand-and-gravel",
+  "name": "Fish Creek Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Ava",
+    "state": "NY",
+    "zip": "13471"
+  },
+  "location": {
+    "lat": 43.412222,
+    "lng": -75.548333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004105"
+  },
+  "msha": [
+    {
+      "mine_id": "3004105",
+      "name": "Fish Creek Sand & Gravel",
+      "operator": "Fish Creek Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2022-08-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

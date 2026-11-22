@@ -1,0 +1,41 @@
+{
+  "id": "ca-blue-lake-kernen-construction-hatchery-road-crusher",
+  "slug": "kernen-construction-hatchery-road-crusher",
+  "name": "Kernen Construction – Hatchery Road Crusher",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Blue Lake",
+    "state": "CA",
+    "zip": "95521"
+  },
+  "location": {
+    "lat": 40.867778,
+    "lng": -123.995556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405116"
+  },
+  "msha": [
+    {
+      "mine_id": "0405116",
+      "name": "Hatchery Road Crusher",
+      "operator": "Kernen Construction",
+      "status": "Active",
+      "status_since": "2025-01-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

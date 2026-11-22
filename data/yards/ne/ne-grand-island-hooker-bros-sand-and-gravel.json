@@ -1,0 +1,36 @@
+{
+  "id": "ne-grand-island-hooker-bros-sand-and-gravel",
+  "slug": "hooker-bros-sand-and-gravel",
+  "name": "Hooker Bros. Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3935 S Locust St",
+    "city": "Grand Island",
+    "state": "NE",
+    "zip": "68801"
+  },
+  "location": {
+    "lat": 40.875816,
+    "lng": -98.33889
+  },
+  "contact": {
+    "phone": "(308) 384-2106",
+    "website": "https://www.hooker-brothers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd1c8070-7630-4230-aa96-38d947add0a3",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

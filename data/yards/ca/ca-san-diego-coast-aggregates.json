@@ -1,0 +1,36 @@
+{
+  "id": "ca-san-diego-coast-aggregates",
+  "slug": "coast-aggregates",
+  "name": "Coast Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2617 Hixson Mesa Way",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92154"
+  },
+  "location": {
+    "lat": 32.571354,
+    "lng": -117.025803
+  },
+  "contact": {
+    "phone": "(619) 690-7200",
+    "website": "https://www.coastagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e330f70a-f072-416d-a456-910fe590716b",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

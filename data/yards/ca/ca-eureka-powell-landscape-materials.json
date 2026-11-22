@@ -1,0 +1,36 @@
+{
+  "id": "ca-eureka-powell-landscape-materials",
+  "slug": "powell-landscape-materials",
+  "name": "Powell Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1955 Hilfiker Ln",
+    "city": "Eureka",
+    "state": "CA",
+    "zip": "95503"
+  },
+  "location": {
+    "lat": 40.772762,
+    "lng": -124.193916
+  },
+  "contact": {
+    "phone": "(707) 444-2026",
+    "website": "http://www.powelllandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a45ddf3c-3c63-46f6-947e-dddad959659a",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-carlos-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "815 American St",
+    "city": "San Carlos",
+    "state": "CA",
+    "zip": "94070"
+  },
+  "location": {
+    "lat": 37.501244,
+    "lng": -122.24279
+  },
+  "contact": {
+    "phone": "(650) 591-5163",
+    "website": "https://www.siteone.com/store/308"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3fe8e298-4fed-4a40-bd3e-692293d3e7f4",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

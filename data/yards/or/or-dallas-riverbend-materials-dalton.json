@@ -1,0 +1,41 @@
+{
+  "id": "or-dallas-riverbend-materials-dalton",
+  "slug": "riverbend-materials-dalton",
+  "name": "RiverBend Materials Dalton",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dallas",
+    "state": "OR",
+    "zip": "97338"
+  },
+  "location": {
+    "lat": 44.93,
+    "lng": -123.368889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3500631"
+  },
+  "msha": [
+    {
+      "mine_id": "3500631",
+      "name": "RiverBend Materials Dalton",
+      "operator": "RiverBend Materials",
+      "status": "Active",
+      "status_since": "2013-10-15",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

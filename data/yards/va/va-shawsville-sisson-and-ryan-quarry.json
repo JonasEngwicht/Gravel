@@ -1,0 +1,41 @@
+{
+  "id": "va-shawsville-sisson-and-ryan-quarry",
+  "slug": "sisson-and-ryan-quarry",
+  "name": "Sisson & Ryan Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Shawsville",
+    "state": "VA",
+    "zip": "24162"
+  },
+  "location": {
+    "lat": 37.157778,
+    "lng": -80.304167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4402242"
+  },
+  "msha": [
+    {
+      "mine_id": "4402242",
+      "name": "Sisson & Ryan Quarry",
+      "operator": "Sisson & Ryan Quarry, LLC",
+      "status": "Active",
+      "status_since": "1976-04-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

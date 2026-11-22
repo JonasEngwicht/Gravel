@@ -1,0 +1,41 @@
+{
+  "id": "la-franklinton-industrial-aggregates-springhill-operation",
+  "slug": "industrial-aggregates-springhill-operation",
+  "name": "Industrial Aggregates – Springhill Operation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Franklinton",
+    "state": "LA",
+    "zip": "70438"
+  },
+  "location": {
+    "lat": 30.847222,
+    "lng": -90.153056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601439"
+  },
+  "msha": [
+    {
+      "mine_id": "1601439",
+      "name": "Springhill Operation",
+      "operator": "Industrial Aggregates",
+      "status": "Active",
+      "status_since": "2017-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-canfield-gravel-drive-experts",
+  "slug": "gravel-drive-experts",
+  "name": "gravel drive experts",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10670 lisbon Rd",
+    "city": "Canfield",
+    "state": "OH",
+    "zip": "44406"
+  },
+  "location": {
+    "lat": 40.964138,
+    "lng": -80.794975
+  },
+  "contact": {
+    "phone": "(330) 360-1954",
+    "website": "http://www.gravel-drive-experts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d15117e7-b938-4655-9f4d-820e1027b1cb",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

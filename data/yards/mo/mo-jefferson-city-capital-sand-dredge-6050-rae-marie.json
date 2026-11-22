@@ -1,0 +1,41 @@
+{
+  "id": "mo-jefferson-city-capital-sand-dredge-6050-rae-marie",
+  "slug": "capital-sand-dredge-6050-rae-marie",
+  "name": "Capital Sand – Dredge #6050 (Rae Marie)",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Jefferson City",
+    "state": "MO",
+    "zip": "65043"
+  },
+  "location": {
+    "lat": 38.581389,
+    "lng": -92.1425
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302336"
+  },
+  "msha": [
+    {
+      "mine_id": "2302336",
+      "name": "Dredge #6050 (Rae Marie)",
+      "operator": "Capital Sand Company",
+      "status": "Intermittent",
+      "status_since": "2026-11-02",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

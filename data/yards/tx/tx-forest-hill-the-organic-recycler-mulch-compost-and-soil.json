@@ -1,0 +1,36 @@
+{
+  "id": "tx-forest-hill-the-organic-recycler-mulch-compost-and-soil",
+  "slug": "the-organic-recycler-mulch-compost-and-soil",
+  "name": "The Organic Recycler - Mulch, Compost & Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5100 Forest Hill Cir",
+    "city": "Forest Hill",
+    "state": "TX",
+    "zip": "76140"
+  },
+  "location": {
+    "lat": 32.659885,
+    "lng": -97.248459
+  },
+  "contact": {
+    "phone": "(817) 437-2277",
+    "website": "https://theorganicrecycler.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e214d51-a187-4ced-aded-8952f24b3f3b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

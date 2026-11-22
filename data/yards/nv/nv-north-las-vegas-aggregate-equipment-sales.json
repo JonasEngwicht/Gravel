@@ -1,0 +1,36 @@
+{
+  "id": "nv-north-las-vegas-aggregate-equipment-sales",
+  "slug": "aggregate-equipment-sales",
+  "name": "Aggregate Equipment Sales",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4530 Andrews St",
+    "city": "North Las Vegas",
+    "state": "NV",
+    "zip": "89081"
+  },
+  "location": {
+    "lat": 36.244144,
+    "lng": -115.088242
+  },
+  "contact": {
+    "phone": "(702) 643-6888",
+    "website": "https://www.aggequipment.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa2fce7f-3f3a-44c1-b5c1-1228a0007eb6",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nh-weare-c-j-bolton-mt-william-quarry",
+  "slug": "c-j-bolton-mt-william-quarry",
+  "name": "C J Bolton – Mt William Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Weare",
+    "state": "NH",
+    "zip": "03281"
+  },
+  "location": {
+    "lat": 43.0975,
+    "lng": -71.69
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700394"
+  },
+  "msha": [
+    {
+      "mine_id": "2700394",
+      "name": "Mt William Quarry",
+      "operator": "C J Bolton Inc",
+      "status": "Intermittent",
+      "status_since": "2017-02-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

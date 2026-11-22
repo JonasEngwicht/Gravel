@@ -1,0 +1,48 @@
+{
+  "id": "ca-sacramento-greenwaste-florin-perkins-landscape-materials",
+  "slug": "greenwaste-florin-perkins-landscape-materials",
+  "name": "GreenWaste Florin Perkins Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4201 Florin Perkins Rd",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95826"
+  },
+  "location": {
+    "lat": 38.538704,
+    "lng": -121.387497
+  },
+  "contact": {
+    "phone": "(916) 303-9900",
+    "website": "https://www.greenwaste.com/products/sacramento/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "140cf9b5-db74-4980-b217-964090790aa7",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0401680",
+      "name": "Perkins Plant",
+      "operator": "Teichert Aggregates",
+      "status": "Active",
+      "status_since": "1995-03-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 53
+    }
+  ]
+}

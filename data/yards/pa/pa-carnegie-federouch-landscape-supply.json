@@ -1,0 +1,36 @@
+{
+  "id": "pa-carnegie-federouch-landscape-supply",
+  "slug": "federouch-landscape-supply",
+  "name": "Federouch Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "245 Hope St",
+    "city": "Carnegie",
+    "state": "PA",
+    "zip": "15106"
+  },
+  "location": {
+    "lat": 40.396114,
+    "lng": -80.083672
+  },
+  "contact": {
+    "phone": "(724) 941-6965",
+    "website": "http://www.fls-pgh.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55244013-8aa9-41c1-b026-929f3e0687ce",
+    "confidence": 0.943,
+    "merged_records": 1
+  }
+}

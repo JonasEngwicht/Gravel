@@ -1,0 +1,36 @@
+{
+  "id": "ny-hudson-almstead-nursery-and-mulch",
+  "slug": "almstead-nursery-and-mulch",
+  "name": "Almstead Nursery and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1078 Union Turnpike",
+    "city": "Hudson",
+    "state": "NY",
+    "zip": "12534"
+  },
+  "location": {
+    "lat": 42.276272,
+    "lng": -73.716858
+  },
+  "contact": {
+    "phone": "(518) 249-1238",
+    "website": "http://almsteadmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "914bc3ab-208c-41b1-8c3f-b9a6285901d0",
+    "confidence": 0.869,
+    "merged_records": 1
+  }
+}

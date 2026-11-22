@@ -1,0 +1,41 @@
+{
+  "id": "ne-duboise-martin-marietta-materials-dubois-quarry",
+  "slug": "martin-marietta-materials-dubois-quarry",
+  "name": "Martin Marietta Materials – DuBois Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "DuBoise",
+    "state": "NE",
+    "zip": "68345"
+  },
+  "location": {
+    "lat": 40.034722,
+    "lng": -96.048333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2501046"
+  },
+  "msha": [
+    {
+      "mine_id": "2501046",
+      "name": "DuBois Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2021-12-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mi-hillsdale-mike-todd",
+  "slug": "mike-todd",
+  "name": "Mike Todd",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hillsdale",
+    "state": "MI",
+    "zip": "49242"
+  },
+  "location": {
+    "lat": 41.831111,
+    "lng": -84.627222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2002843"
+  },
+  "msha": [
+    {
+      "mine_id": "2002843",
+      "name": "Mike Todd",
+      "operator": "Mike Todd",
+      "status": "Intermittent",
+      "status_since": "1990-05-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

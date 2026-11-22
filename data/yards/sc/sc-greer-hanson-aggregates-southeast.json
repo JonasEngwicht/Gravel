@@ -1,0 +1,49 @@
+{
+  "id": "sc-greer-hanson-aggregates-southeast",
+  "slug": "hanson-aggregates-southeast",
+  "name": "Hanson Aggregates Southeast",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "240 E Howell Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "location": {
+    "lat": 34.866264,
+    "lng": -82.192825
+  },
+  "contact": {
+    "phone": "(864) 848-1165",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2a1490bc-75af-48c8-bf89-acad02e54e83",
+    "confidence": 0.569,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3800567",
+      "name": "Pelham Quarry",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "2011-11-29",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

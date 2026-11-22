@@ -1,0 +1,41 @@
+{
+  "id": "ok-muskogee-muskogee-sand-co",
+  "slug": "muskogee-sand-co",
+  "name": "Muskogee Sand Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Muskogee",
+    "state": "OK",
+    "zip": "74454"
+  },
+  "location": {
+    "lat": 35.837778,
+    "lng": -95.429444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402028"
+  },
+  "msha": [
+    {
+      "mine_id": "3402028",
+      "name": "#4",
+      "operator": "Muskogee Sand Co., Inc.",
+      "status": "Active",
+      "status_since": "2006-11-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

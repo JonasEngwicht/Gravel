@@ -1,0 +1,37 @@
+{
+  "id": "tx-austin-siteone-landscape-supply-7110-e-ben-white-blvd",
+  "slug": "siteone-landscape-supply-7110-e-ben-white-blvd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7110 E Ben White Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78741"
+  },
+  "location": {
+    "lat": 30.216789,
+    "lng": -97.700394
+  },
+  "contact": {
+    "phone": "(512) 389-5112",
+    "website": "https://www.siteone.com/store/240"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0eddf12c-387f-4b93-9877-aec5cbf8da4c",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

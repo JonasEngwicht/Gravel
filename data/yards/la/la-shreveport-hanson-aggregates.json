@@ -1,0 +1,36 @@
+{
+  "id": "la-shreveport-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "330 W 61st St",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71106"
+  },
+  "location": {
+    "lat": 32.451759,
+    "lng": -93.760239
+  },
+  "contact": {
+    "website": "https://www.hanson.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d6ef595-4498-49a1-a892-847faf69a0ba",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

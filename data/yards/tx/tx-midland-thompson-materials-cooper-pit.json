@@ -1,0 +1,41 @@
+{
+  "id": "tx-midland-thompson-materials-cooper-pit",
+  "slug": "thompson-materials-cooper-pit",
+  "name": "Thompson Materials – Cooper Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79701"
+  },
+  "location": {
+    "lat": 31.959,
+    "lng": -102.0449
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105918"
+  },
+  "msha": [
+    {
+      "mine_id": "4105918",
+      "name": "Cooper Pit",
+      "operator": "Thompson Materials",
+      "status": "Intermittent",
+      "status_since": "2026-10-27",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "me-windham-shaw-brothers-construction-busque-quarry",
+  "slug": "shaw-brothers-construction-busque-quarry",
+  "name": "Shaw Brothers Construction – Busque Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Windham",
+    "state": "ME",
+    "zip": "04062"
+  },
+  "location": {
+    "lat": 43.79,
+    "lng": -70.395833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700795"
+  },
+  "msha": [
+    {
+      "mine_id": "1700795",
+      "name": "Busque Quarry",
+      "operator": "Shaw Brothers Construction, Inc.",
+      "status": "Intermittent",
+      "status_since": "2012-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

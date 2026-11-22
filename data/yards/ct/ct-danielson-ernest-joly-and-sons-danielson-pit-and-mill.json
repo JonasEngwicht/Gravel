@@ -1,0 +1,41 @@
+{
+  "id": "ct-danielson-ernest-joly-and-sons-danielson-pit-and-mill",
+  "slug": "ernest-joly-and-sons-danielson-pit-and-mill",
+  "name": "Ernest Joly & Sons – Danielson Pit & Mill",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Danielson",
+    "state": "CT",
+    "zip": "06387"
+  },
+  "location": {
+    "lat": 41.763889,
+    "lng": -71.901111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600225"
+  },
+  "msha": [
+    {
+      "mine_id": "0600225",
+      "name": "Danielson Pit & Mill",
+      "operator": "Ernest Joly & Sons Inc",
+      "status": "Active",
+      "status_since": "1994-11-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

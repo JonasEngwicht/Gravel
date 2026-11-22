@@ -1,0 +1,36 @@
+{
+  "id": "ny-hudson-falls-adirondack-landscape-supply",
+  "slug": "adirondack-landscape-supply",
+  "name": "Adirondack Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "141 River St",
+    "city": "Hudson Falls",
+    "state": "NY",
+    "zip": "12839"
+  },
+  "location": {
+    "lat": 43.309845,
+    "lng": -73.600189
+  },
+  "contact": {
+    "phone": "(518) 796-8607",
+    "website": "https://adirondacklandscapesupply.com/pages/dumpster"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "023a4a07-a6d0-411e-876b-5a045d170cfd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

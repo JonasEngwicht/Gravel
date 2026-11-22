@@ -1,0 +1,47 @@
+{
+  "id": "tx-odessa-alvarado-sand-and-gravel-odessa-tx",
+  "slug": "alvarado-sand-and-gravel-odessa-tx",
+  "name": "Alvarado Sand and Gravel. Odessa Tx.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1460 S Grant Ave",
+    "city": "Odessa",
+    "state": "TX",
+    "zip": "79761"
+  },
+  "location": {
+    "lat": 31.831535,
+    "lng": -102.353821
+  },
+  "contact": {
+    "phone": "(432) 276-0696"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e508f93a-37c3-40db-9454-7183ae585266",
+    "confidence": 0.598,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4105379",
+      "name": "Odessa Pit",
+      "operator": "Base N Rockz, Llc",
+      "status": "Active",
+      "status_since": "2024-11-15",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

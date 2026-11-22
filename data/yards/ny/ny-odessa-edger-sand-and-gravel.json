@@ -1,0 +1,41 @@
+{
+  "id": "ny-odessa-edger-sand-and-gravel",
+  "slug": "edger-sand-and-gravel",
+  "name": "Edger Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Odessa",
+    "state": "NY",
+    "zip": "14869"
+  },
+  "location": {
+    "lat": 42.344444,
+    "lng": -76.787222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003350"
+  },
+  "msha": [
+    {
+      "mine_id": "3003350",
+      "name": "Edger Sand & Gravel LLC",
+      "operator": "Edger Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2014-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "in-greenwood-mccarty-mulch-and-stone",
+  "slug": "mccarty-mulch-and-stone",
+  "name": "McCarty Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "100 Bluffdale Rd",
+    "city": "Greenwood",
+    "state": "IN",
+    "zip": "46142"
+  },
+  "location": {
+    "lat": 39.611805,
+    "lng": -86.215309
+  },
+  "contact": {
+    "phone": "(317) 885-1985",
+    "website": "http://www.landscapemulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41c74bf6-7783-4b71-9059-e18f7508cd6b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

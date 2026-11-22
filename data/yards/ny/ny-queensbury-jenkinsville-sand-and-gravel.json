@@ -1,0 +1,36 @@
+{
+  "id": "ny-queensbury-jenkinsville-sand-and-gravel",
+  "slug": "jenkinsville-sand-and-gravel",
+  "name": "Jenkinsville Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "201 Jenkinsville Road",
+    "city": "Queensbury",
+    "state": "NY",
+    "zip": "12804"
+  },
+  "location": {
+    "lat": 43.387337,
+    "lng": -73.623833
+  },
+  "contact": {
+    "phone": "(518) 792-4102",
+    "website": "http://jsgrocks.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cdb7ccf1-5a6c-451f-a16a-cf2ccb874169",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

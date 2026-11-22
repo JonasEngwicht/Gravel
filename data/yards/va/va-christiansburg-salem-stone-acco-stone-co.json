@@ -1,0 +1,41 @@
+{
+  "id": "va-christiansburg-salem-stone-acco-stone-co",
+  "slug": "salem-stone-acco-stone-co",
+  "name": "Salem Stone – Acco Stone Co",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Christiansburg",
+    "state": "VA",
+    "zip": "24061"
+  },
+  "location": {
+    "lat": 37.185,
+    "lng": -80.394167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400189"
+  },
+  "msha": [
+    {
+      "mine_id": "4400189",
+      "name": "Acco Stone Co",
+      "operator": "Salem Stone Corp",
+      "status": "Active",
+      "status_since": "1978-08-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

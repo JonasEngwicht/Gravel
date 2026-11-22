@@ -1,0 +1,41 @@
+{
+  "id": "mi-martin-aggregate-resources-gun-river",
+  "slug": "aggregate-resources-gun-river",
+  "name": "Aggregate Resources- Gun River",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Martin",
+    "state": "MI",
+    "zip": "49070"
+  },
+  "location": {
+    "lat": 42.536944,
+    "lng": -85.641667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003323"
+  },
+  "msha": [
+    {
+      "mine_id": "2003323",
+      "name": "Aggregate Resources- Gun River",
+      "operator": "Aggregate Resources Inc",
+      "status": "Intermittent",
+      "status_since": "2005-06-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

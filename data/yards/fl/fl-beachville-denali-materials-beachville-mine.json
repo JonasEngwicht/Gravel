@@ -1,0 +1,41 @@
+{
+  "id": "fl-beachville-denali-materials-beachville-mine",
+  "slug": "denali-materials-beachville-mine",
+  "name": "Denali Materials – Beachville Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Beachville",
+    "state": "FL",
+    "zip": "32008"
+  },
+  "location": {
+    "lat": 29.976389,
+    "lng": -82.860278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801145"
+  },
+  "msha": [
+    {
+      "mine_id": "0801145",
+      "name": "Beachville Mine",
+      "operator": "Denali Materials, Inc",
+      "status": "Active",
+      "status_since": "1990-10-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

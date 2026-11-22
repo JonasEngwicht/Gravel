@@ -1,0 +1,36 @@
+{
+  "id": "ct-branford-evergreen-landscape-supply",
+  "slug": "evergreen-landscape-supply",
+  "name": "Evergreen Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "164 N Main St",
+    "city": "Branford",
+    "state": "CT",
+    "zip": "06405"
+  },
+  "location": {
+    "lat": 41.288383,
+    "lng": -72.813309
+  },
+  "contact": {
+    "phone": "(203) 909-2728",
+    "website": "https://evergreenlandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab7f8c0c-e924-4149-a29e-d2ad75f0fcfb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

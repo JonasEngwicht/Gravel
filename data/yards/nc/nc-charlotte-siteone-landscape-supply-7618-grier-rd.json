@@ -1,0 +1,37 @@
+{
+  "id": "nc-charlotte-siteone-landscape-supply-7618-grier-rd",
+  "slug": "siteone-landscape-supply-7618-grier-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7618 Grier Rd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28213"
+  },
+  "location": {
+    "lat": 35.265495,
+    "lng": -80.737953
+  },
+  "contact": {
+    "phone": "(704) 597-0506",
+    "website": "https://www.siteone.com/store/542"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9351949a-cec9-4df4-836f-5203d258c2ac",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

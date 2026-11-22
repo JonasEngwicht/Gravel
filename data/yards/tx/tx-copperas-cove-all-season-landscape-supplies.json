@@ -1,0 +1,36 @@
+{
+  "id": "tx-copperas-cove-all-season-landscape-supplies",
+  "slug": "all-season-landscape-supplies",
+  "name": "All Season Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2222 W Highway 190",
+    "city": "Copperas Cove",
+    "state": "TX",
+    "zip": "76522"
+  },
+  "location": {
+    "lat": 31.093414,
+    "lng": -97.955223
+  },
+  "contact": {
+    "phone": "(254) 278-8366",
+    "website": "http://allseasonlandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce113359-6eb4-4449-b9d4-2467e91b73aa",
+    "confidence": 0.663,
+    "merged_records": 1
+  }
+}

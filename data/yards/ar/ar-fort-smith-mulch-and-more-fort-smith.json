@@ -1,0 +1,36 @@
+{
+  "id": "ar-fort-smith-mulch-and-more-fort-smith",
+  "slug": "mulch-and-more-fort-smith",
+  "name": "Mulch and More Fort Smith",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6201 U S 71 Business",
+    "city": "Fort Smith",
+    "state": "AR",
+    "zip": "72908"
+  },
+  "location": {
+    "lat": 35.323956,
+    "lng": -94.404961
+  },
+  "contact": {
+    "phone": "(479) 424-1304",
+    "website": "https://www.mulchandmore.us/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1931a02-0922-4b45-8e35-6fb30f8e0ca8",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

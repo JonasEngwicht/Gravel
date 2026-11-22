@@ -1,0 +1,35 @@
+{
+  "id": "tx-magnolia-texas-landscape-products",
+  "slug": "texas-landscape-products",
+  "name": "Texas Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "40318 Community Rd",
+    "city": "Magnolia",
+    "state": "TX",
+    "zip": "77354"
+  },
+  "location": {
+    "lat": 30.223969,
+    "lng": -95.67157
+  },
+  "contact": {
+    "phone": "(281) 252-4651"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f64f10c-997e-4ba6-9771-3de9b020caf8",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

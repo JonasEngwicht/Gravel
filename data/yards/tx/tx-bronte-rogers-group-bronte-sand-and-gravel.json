@@ -1,0 +1,41 @@
+{
+  "id": "tx-bronte-rogers-group-bronte-sand-and-gravel",
+  "slug": "rogers-group-bronte-sand-and-gravel",
+  "name": "Rogers Group – Bronte Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bronte",
+    "state": "TX",
+    "zip": "76933"
+  },
+  "location": {
+    "lat": 31.8475,
+    "lng": -100.243611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105641"
+  },
+  "msha": [
+    {
+      "mine_id": "4105641",
+      "name": "Bronte Sand & Gravel",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "2023-10-30",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

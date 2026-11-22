@@ -1,0 +1,36 @@
+{
+  "id": "mn-farmington-rock-hard-landscape-supply",
+  "slug": "rock-hard-landscape-supply",
+  "name": "Rock Hard Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4375 170th St W",
+    "city": "Farmington",
+    "state": "MN",
+    "zip": "55024"
+  },
+  "location": {
+    "lat": 44.702442,
+    "lng": -93.155617
+  },
+  "contact": {
+    "phone": "(952) 207-4456",
+    "website": "https://www.rockhardlandscapesupply.com/farmington/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0234520-7d31-4d22-a9ae-f3c1df7f44e8",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

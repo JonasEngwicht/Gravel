@@ -1,0 +1,41 @@
+{
+  "id": "az-phoenix-madison-granite-supply",
+  "slug": "madison-granite-supply",
+  "name": "Madison Granite Supply",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85085"
+  },
+  "location": {
+    "lat": 33.755556,
+    "lng": -112.108333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0201510"
+  },
+  "msha": [
+    {
+      "mine_id": "0201510",
+      "name": "Madison Granite Pit",
+      "operator": "Madison Granite Supply Inc",
+      "status": "Active",
+      "status_since": "2013-02-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

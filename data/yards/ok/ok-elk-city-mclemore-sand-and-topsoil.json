@@ -1,0 +1,36 @@
+{
+  "id": "ok-elk-city-mclemore-sand-and-topsoil",
+  "slug": "mclemore-sand-and-topsoil",
+  "name": "McLemore Sand & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11157 N 1930 Rd",
+    "city": "Elk City",
+    "state": "OK",
+    "zip": "73662"
+  },
+  "location": {
+    "lat": 35.398922,
+    "lng": -99.541527
+  },
+  "contact": {
+    "phone": "(580) 243-7496",
+    "website": "http://www.citysearch.com/profile/699701400/sayre_ok/mclemore_sand_topsoil.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "70ea33a7-34ec-462c-8bda-b65577660c2c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

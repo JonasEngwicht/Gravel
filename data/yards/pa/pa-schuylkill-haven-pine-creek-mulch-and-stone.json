@@ -1,0 +1,36 @@
+{
+  "id": "pa-schuylkill-haven-pine-creek-mulch-and-stone",
+  "slug": "pine-creek-mulch-and-stone",
+  "name": "Pine Creek Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1425 Long Run Rd",
+    "city": "Schuylkill Haven",
+    "state": "PA",
+    "zip": "17972"
+  },
+  "location": {
+    "lat": 40.604881,
+    "lng": -76.235031
+  },
+  "contact": {
+    "phone": "(570) 739-1140",
+    "website": "http://www.pinecreekmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "556ae770-b554-4d9f-89ea-8eb3c8c6af16",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

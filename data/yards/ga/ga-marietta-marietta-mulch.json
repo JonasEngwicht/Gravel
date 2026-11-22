@@ -1,0 +1,35 @@
+{
+  "id": "ga-marietta-marietta-mulch",
+  "slug": "marietta-mulch",
+  "name": "Marietta Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1356 Cobb Industrial Dr",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30066"
+  },
+  "location": {
+    "lat": 33.982376,
+    "lng": -84.532318
+  },
+  "contact": {
+    "phone": "(770) 794-6717"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc21631d-ce5b-4ba9-9806-71aea29dff93",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

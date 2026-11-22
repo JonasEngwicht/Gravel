@@ -1,0 +1,41 @@
+{
+  "id": "nc-lenoir-martin-marietta-materials-caldwell-quarry",
+  "slug": "martin-marietta-materials-caldwell-quarry",
+  "name": "Martin Marietta Materials – Caldwell Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lenoir",
+    "state": "NC",
+    "zip": "28638"
+  },
+  "location": {
+    "lat": 35.879444,
+    "lng": -81.556111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101869"
+  },
+  "msha": [
+    {
+      "mine_id": "3101869",
+      "name": "Caldwell Quarry",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Active",
+      "status_since": "2011-11-29",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

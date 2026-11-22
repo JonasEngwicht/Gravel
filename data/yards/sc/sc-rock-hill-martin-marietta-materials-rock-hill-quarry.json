@@ -1,0 +1,41 @@
+{
+  "id": "sc-rock-hill-martin-marietta-materials-rock-hill-quarry",
+  "slug": "martin-marietta-materials-rock-hill-quarry",
+  "name": "Martin Marietta Materials – Rock Hill Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730"
+  },
+  "location": {
+    "lat": 34.894444,
+    "lng": -80.999167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800026"
+  },
+  "msha": [
+    {
+      "mine_id": "3800026",
+      "name": "Rock Hill Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ky-maysville-carmeuse-lime-and-stone-maysville-mine",
+  "slug": "carmeuse-lime-and-stone-maysville-mine",
+  "name": "Carmeuse Lime and Stone – Maysville Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Maysville",
+    "state": "KY",
+    "zip": "41056"
+  },
+  "location": {
+    "lat": 38.611667,
+    "lng": -83.670556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1507101"
+  },
+  "msha": [
+    {
+      "mine_id": "1507101",
+      "name": "Maysville Mine",
+      "operator": "Carmeuse Lime and Stone Inc",
+      "status": "Active",
+      "status_since": "1979-03-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 116
+    }
+  ]
+}

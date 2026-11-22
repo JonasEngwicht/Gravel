@@ -1,0 +1,36 @@
+{
+  "id": "co-montrose-beaver-lakes-nursery-and-landscape-supply",
+  "slug": "beaver-lakes-nursery-and-landscape-supply",
+  "name": "Beaver Lakes Nursery and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13890 Marine Rd",
+    "city": "Montrose",
+    "state": "CO",
+    "zip": "81401"
+  },
+  "location": {
+    "lat": 38.492462,
+    "lng": -107.905121
+  },
+  "contact": {
+    "phone": "(970) 240-4611",
+    "website": "https://www.beaverlakesnursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "10a03d46-d507-47a7-b37d-e063a05832aa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

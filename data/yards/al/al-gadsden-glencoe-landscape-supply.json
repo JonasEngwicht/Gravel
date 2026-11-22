@@ -1,0 +1,48 @@
+{
+  "id": "al-gadsden-glencoe-landscape-supply",
+  "slug": "glencoe-landscape-supply",
+  "name": "Glencoe Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "315 E Railroad Ave",
+    "city": "Gadsden",
+    "state": "AL",
+    "zip": "35905"
+  },
+  "location": {
+    "lat": 33.953865,
+    "lng": -85.929611
+  },
+  "contact": {
+    "phone": "(256) 492-7464",
+    "website": "http://www.glencoelandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83b15a9e-f1a6-487b-804b-8419dc0104b1",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0100047",
+      "name": "Glencoe Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1975-12-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

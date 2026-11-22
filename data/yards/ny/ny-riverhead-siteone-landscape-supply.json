@@ -1,0 +1,37 @@
+{
+  "id": "ny-riverhead-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "188 Kroemer Ave",
+    "city": "Riverhead",
+    "state": "NY",
+    "zip": "11901"
+  },
+  "location": {
+    "lat": 40.922195,
+    "lng": -72.706871
+  },
+  "contact": {
+    "phone": "(631) 727-3134",
+    "website": "https://www.siteone.com/store/559"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd9d06ec-f971-4e06-9e35-dcae2eb4ee47",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

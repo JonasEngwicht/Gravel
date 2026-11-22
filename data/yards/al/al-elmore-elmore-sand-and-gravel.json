@@ -1,0 +1,48 @@
+{
+  "id": "al-elmore-elmore-sand-and-gravel",
+  "slug": "elmore-sand-and-gravel",
+  "name": "Elmore Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1322 Marion Spillway Rd",
+    "city": "Elmore",
+    "state": "AL",
+    "zip": "36025"
+  },
+  "location": {
+    "lat": 32.56361,
+    "lng": -86.345329
+  },
+  "contact": {
+    "phone": "(334) 285-1805",
+    "website": "http://www.elmoresand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "320fc310-6d21-488e-b4d7-0f9c9eae7c68",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0101138",
+      "name": "Scott Pit",
+      "operator": "Elmore Sand & Gravel, Inc",
+      "status": "Active",
+      "status_since": "1993-11-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 18
+    }
+  ]
+}

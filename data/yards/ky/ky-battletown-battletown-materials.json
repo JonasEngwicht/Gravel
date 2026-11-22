@@ -1,0 +1,41 @@
+{
+  "id": "ky-battletown-battletown-materials",
+  "slug": "battletown-materials",
+  "name": "Battletown Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Battletown",
+    "state": "KY",
+    "zip": "40104"
+  },
+  "location": {
+    "lat": 38.070278,
+    "lng": -86.358056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500040"
+  },
+  "msha": [
+    {
+      "mine_id": "1500040",
+      "name": "Battletown Quarry",
+      "operator": "Battletown Materials LLC",
+      "status": "Active",
+      "status_since": "1974-04-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 43
+    }
+  ]
+}

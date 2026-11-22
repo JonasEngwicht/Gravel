@@ -1,0 +1,41 @@
+{
+  "id": "pa-elysburg-corson-quarries-bear-gap-stone-division",
+  "slug": "corson-quarries-bear-gap-stone-division",
+  "name": "Corson Quarries – Bear Gap Stone Division",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Elysburg",
+    "state": "PA",
+    "zip": "17824"
+  },
+  "location": {
+    "lat": 40.85,
+    "lng": -76.516667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600797"
+  },
+  "msha": [
+    {
+      "mine_id": "3600797",
+      "name": "Bear Gap Stone Division",
+      "operator": "Corson Quarries Inc",
+      "status": "Active",
+      "status_since": "2024-07-15",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

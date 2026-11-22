@@ -1,0 +1,41 @@
+{
+  "id": "pa-waterford-wilkinson-aggregates-wise",
+  "slug": "wilkinson-aggregates-wise",
+  "name": "Wilkinson Aggregates – Wise",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Waterford",
+    "state": "PA",
+    "zip": "16427"
+  },
+  "location": {
+    "lat": 41.906389,
+    "lng": -79.936944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608799"
+  },
+  "msha": [
+    {
+      "mine_id": "3608799",
+      "name": "Wise",
+      "operator": "Wilkinson Aggregates, Inc.",
+      "status": "Intermittent",
+      "status_since": "2009-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

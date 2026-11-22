@@ -1,0 +1,48 @@
+{
+  "id": "mi-kalamazoo-hillside-gravel-kalamazoo-mi",
+  "slug": "hillside-gravel-kalamazoo-mi",
+  "name": "Hillside Gravel Kalamazoo Mi",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2702 Ravine Rd",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49004"
+  },
+  "location": {
+    "lat": 42.31189,
+    "lng": -85.621941
+  },
+  "contact": {
+    "phone": "(269) 383-4655",
+    "website": "http://www.hillsidegravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83c4329f-236e-4ebb-a5ba-5231bae6b126",
+    "confidence": 0.949,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003494",
+      "name": "Hillside Gravel",
+      "operator": "Balkema Sitework & Development, LLC",
+      "status": "Intermittent",
+      "status_since": "2014-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

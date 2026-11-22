@@ -1,0 +1,35 @@
+{
+  "id": "fl-miami-miami-landscape-supply",
+  "slug": "miami-landscape-supply",
+  "name": "Miami Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13118 S Dixie Hwy",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33156"
+  },
+  "location": {
+    "lat": 25.64793,
+    "lng": -80.332977
+  },
+  "contact": {
+    "phone": "(305) 531-0839"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ae43965-da83-41a3-a118-2ef71b20c0eb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

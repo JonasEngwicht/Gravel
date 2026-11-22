@@ -1,0 +1,36 @@
+{
+  "id": "pa-dalton-bck-landscape-supply",
+  "slug": "bck-landscape-supply",
+  "name": "BCK Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1100 Lackawanna Trail",
+    "city": "Dalton",
+    "state": "PA",
+    "zip": "18414"
+  },
+  "location": {
+    "lat": 41.54813,
+    "lng": -75.745148
+  },
+  "contact": {
+    "phone": "(570) 575-2440",
+    "website": "https://www.bcklandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a69ad2e6-1f22-4216-aeec-90f68058e243",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

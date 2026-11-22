@@ -1,0 +1,41 @@
+{
+  "id": "pa-middleport-richard-e-pierson-materials-middleport-materials-inc",
+  "slug": "richard-e-pierson-materials-middleport-materials-inc",
+  "name": "Richard E. Pierson Materials – Middleport Materials Inc.",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Middleport",
+    "state": "PA",
+    "zip": "17930"
+  },
+  "location": {
+    "lat": 40.713056,
+    "lng": -76.071389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3607480"
+  },
+  "msha": [
+    {
+      "mine_id": "3607480",
+      "name": "Middleport Materials Inc.",
+      "operator": "Richard E. Pierson Materials Corp.",
+      "status": "Active",
+      "status_since": "2017-08-28",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

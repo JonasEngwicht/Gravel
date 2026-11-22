@@ -1,0 +1,36 @@
+{
+  "id": "tn-knoxville-mulch-company",
+  "slug": "mulch-company",
+  "name": "Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1215 Everett Rd",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37932"
+  },
+  "location": {
+    "lat": 35.886131,
+    "lng": -84.224281
+  },
+  "contact": {
+    "phone": "(615) 356-2600",
+    "website": "https://mulchcompany.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71148c36-27c9-435b-bef2-dde77a86b5f1",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

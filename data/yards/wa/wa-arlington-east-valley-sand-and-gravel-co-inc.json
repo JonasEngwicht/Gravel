@@ -1,0 +1,36 @@
+{
+  "id": "wa-arlington-east-valley-sand-and-gravel-co-inc",
+  "slug": "east-valley-sand-and-gravel-co-inc",
+  "name": "East Valley Sand and Gravel Co. Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5802 Cemetery Rd",
+    "city": "Arlington",
+    "state": "WA",
+    "zip": "98223"
+  },
+  "location": {
+    "lat": 48.176964,
+    "lng": -122.155861
+  },
+  "contact": {
+    "phone": "(360) 403-7520",
+    "website": "http://eastvalleysandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "faa95622-a13a-4439-8d68-ac095d08ecd0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

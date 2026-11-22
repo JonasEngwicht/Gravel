@@ -1,0 +1,36 @@
+{
+  "id": "mi-hancock-superior-sand-and-gravel-inc",
+  "slug": "superior-sand-and-gravel-inc",
+  "name": "Superior Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1507 Jasberg St",
+    "city": "Hancock",
+    "state": "MI",
+    "zip": "49930"
+  },
+  "location": {
+    "lat": 47.127682,
+    "lng": -88.61058
+  },
+  "contact": {
+    "phone": "(906) 482-3130",
+    "website": "http://superiorsandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1c520aa-eaa2-4ef8-8cfa-b7026699ae77",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

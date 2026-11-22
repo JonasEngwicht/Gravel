@@ -1,0 +1,37 @@
+{
+  "id": "oh-blacklick-ohio-mulch-stone-yard",
+  "slug": "ohio-mulch-stone-yard",
+  "name": "Ohio Mulch Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "776 Reynoldsburg New Albany Rd",
+    "city": "Blacklick",
+    "state": "OH",
+    "zip": "43004"
+  },
+  "location": {
+    "lat": 39.999409,
+    "lng": -82.810478
+  },
+  "contact": {
+    "phone": "(614) 604-9409",
+    "website": "http://www.ohiomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "853b34fc-04aa-472e-a8df-8da2c238213f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

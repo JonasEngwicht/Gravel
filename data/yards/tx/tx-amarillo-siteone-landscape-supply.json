@@ -1,0 +1,37 @@
+{
+  "id": "tx-amarillo-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4113 Republic Ave",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79109"
+  },
+  "location": {
+    "lat": 35.157646,
+    "lng": -101.882172
+  },
+  "contact": {
+    "phone": "(806) 463-6334",
+    "website": "https://www.siteone.com/en/store/219"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e03f6a8e-5e33-4746-88fd-bdade00638f4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

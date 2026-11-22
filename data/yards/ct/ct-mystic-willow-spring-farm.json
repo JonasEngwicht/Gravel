@@ -1,0 +1,41 @@
+{
+  "id": "ct-mystic-willow-spring-farm",
+  "slug": "willow-spring-farm",
+  "name": "Willow Spring Farm",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Mystic",
+    "state": "CT",
+    "zip": "06355"
+  },
+  "location": {
+    "lat": 41.389444,
+    "lng": -72.000278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600824"
+  },
+  "msha": [
+    {
+      "mine_id": "0600824",
+      "name": "Willow Spring Farm",
+      "operator": "Willow Spring Farm",
+      "status": "Active",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

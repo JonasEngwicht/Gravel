@@ -1,0 +1,36 @@
+{
+  "id": "tx-justin-caballero-sand-and-gravel",
+  "slug": "caballero-sand-and-gravel",
+  "name": "Caballero Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14910 FM 156",
+    "city": "Justin",
+    "state": "TX",
+    "zip": "76247"
+  },
+  "location": {
+    "lat": 33.064529,
+    "lng": -97.296768
+  },
+  "contact": {
+    "phone": "(940) 229-4789",
+    "website": "http://www.caballerotrucking.yolasite.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ae379d9-a375-476d-affd-14dfe4174f53",
+    "confidence": 0.647,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "la-denham-springs-woerner-turf-and-landscape-supply-of-denham-springs",
+  "slug": "woerner-turf-and-landscape-supply-of-denham-springs",
+  "name": "Woerner Turf & Landscape Supply of Denham Springs",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1111 Florida Ave SW",
+    "city": "Denham Springs",
+    "state": "LA",
+    "zip": "70726"
+  },
+  "location": {
+    "lat": 30.474445,
+    "lng": -90.962257
+  },
+  "contact": {
+    "phone": "(225) 304-4718",
+    "website": "http://www.woernerturf.com/locations/denham-springs"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "95b283e1-a449-4587-831c-1d3849ab80fe",
+    "confidence": 0.713,
+    "merged_records": 1
+  }
+}

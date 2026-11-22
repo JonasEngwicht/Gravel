@@ -1,0 +1,37 @@
+{
+  "id": "mn-ham-lake-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "15840 Central Ave NE",
+    "city": "Ham Lake",
+    "state": "MN",
+    "zip": "55304"
+  },
+  "location": {
+    "lat": 45.259373,
+    "lng": -93.235626
+  },
+  "contact": {
+    "phone": "(763) 413-7000",
+    "website": "https://new.siteone.com/store/227"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f085f0e7-333e-40c1-b7a1-2b3b2923a559",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

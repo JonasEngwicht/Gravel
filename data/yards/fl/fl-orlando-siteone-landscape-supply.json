@@ -1,0 +1,37 @@
+{
+  "id": "fl-orlando-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7452 Narcoossee Rd Ste 300A Ste 300A",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32822"
+  },
+  "location": {
+    "lat": 28.459034,
+    "lng": -81.274887
+  },
+  "contact": {
+    "phone": "(407) 730-5958",
+    "website": "https://www.siteone.com/en/store/741"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cda92581-07c4-46d8-b6e7-b9a75925a158",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

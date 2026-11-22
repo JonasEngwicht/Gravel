@@ -1,0 +1,37 @@
+{
+  "id": "sc-columbia-siteone-landscape-supply-100-sunbelt-blvd",
+  "slug": "siteone-landscape-supply-100-sunbelt-blvd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "100 Sunbelt Blvd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203"
+  },
+  "location": {
+    "lat": 34.067326,
+    "lng": -81.042282
+  },
+  "contact": {
+    "phone": "(803) 754-3900",
+    "website": "https://www.siteone.com/en/store/525"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "427dbe86-2fb2-4eb3-91ca-3c420c66f1da",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

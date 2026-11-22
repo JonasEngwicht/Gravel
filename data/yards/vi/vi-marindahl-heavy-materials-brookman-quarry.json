@@ -1,0 +1,41 @@
+{
+  "id": "vi-marindahl-heavy-materials-brookman-quarry",
+  "slug": "heavy-materials-brookman-quarry",
+  "name": "Heavy Materials – Brookman Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Marindahl",
+    "state": "VI",
+    "zip": "00802"
+  },
+  "location": {
+    "lat": 18.340833,
+    "lng": -64.919167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5500008"
+  },
+  "msha": [
+    {
+      "mine_id": "5500008",
+      "name": "Brookman Quarry",
+      "operator": "Heavy Materials LLC",
+      "status": "Active",
+      "status_since": "1978-02-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ks-wichita-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2249 N Hoover Rd",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67205"
+  },
+  "location": {
+    "lat": 37.724972,
+    "lng": -97.40847
+  },
+  "contact": {
+    "phone": "(316) 946-9788",
+    "website": "https://www.siteone.com/store/66"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26bc09c2-5a39-4e38-82d3-d8024ff4abdf",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

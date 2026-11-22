@@ -1,0 +1,57 @@
+{
+  "id": "il-rockdale-joliet-sand-and-gravel",
+  "slug": "joliet-sand-and-gravel",
+  "name": "joliet sand and gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2509 Mound Rd",
+    "city": "Rockdale",
+    "state": "IL",
+    "zip": "60436"
+  },
+  "location": {
+    "lat": 41.501068,
+    "lng": -88.138626
+  },
+  "contact": {
+    "website": "http://www.foxriverstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a0dc56d3-d03c-481d-9436-1e29ddc624f1",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1103084",
+      "name": "Amrize Joliet S & G Underground Mine # 1",
+      "operator": "Amrize Mid-America Inc.",
+      "status": "Active",
+      "status_since": "2001-05-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 40
+    },
+    {
+      "mine_id": "1103153",
+      "name": "Joliet MI, LLC",
+      "operator": "Joliet MI, LLC",
+      "status": "Active",
+      "status_since": "2011-11-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

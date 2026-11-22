@@ -1,0 +1,41 @@
+{
+  "id": "hi-honolulu-kapaa-quarry-and-mill",
+  "slug": "kapaa-quarry-and-mill",
+  "name": "Kapaa Quarry And Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Honolulu",
+    "state": "HI",
+    "zip": "96734"
+  },
+  "location": {
+    "lat": 21.378056,
+    "lng": -157.769444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5100019"
+  },
+  "msha": [
+    {
+      "mine_id": "5100019",
+      "name": "Kapaa Quarry And Mill",
+      "operator": "Hc&D, Llc",
+      "status": "Active",
+      "status_since": "1978-06-08",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 70
+    }
+  ]
+}

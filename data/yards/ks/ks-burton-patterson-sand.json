@@ -1,0 +1,41 @@
+{
+  "id": "ks-burton-patterson-sand",
+  "slug": "patterson-sand",
+  "name": "Patterson Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Burton",
+    "state": "KS",
+    "zip": "67020"
+  },
+  "location": {
+    "lat": 38.029444,
+    "lng": -97.686389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401802"
+  },
+  "msha": [
+    {
+      "mine_id": "1401802",
+      "name": "Patterson Sand LLC",
+      "operator": "Patterson Sand LLC",
+      "status": "Active",
+      "status_since": "2023-04-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

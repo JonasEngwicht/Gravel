@@ -1,0 +1,35 @@
+{
+  "id": "nv-las-vegas-aggregate-solutions-llc",
+  "slug": "aggregate-solutions-llc",
+  "name": "AGGREGATE SOLUTIONS, LLC.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3651 Lindell Rd Ste D-240",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89103"
+  },
+  "location": {
+    "lat": 36.123276,
+    "lng": -115.217094
+  },
+  "contact": {
+    "phone": "(702) 818-6686"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff258689-80a3-4e11-95dc-95a070fe881f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

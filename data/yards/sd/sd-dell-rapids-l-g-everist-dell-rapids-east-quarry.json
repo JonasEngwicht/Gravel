@@ -1,0 +1,41 @@
+{
+  "id": "sd-dell-rapids-l-g-everist-dell-rapids-east-quarry",
+  "slug": "l-g-everist-dell-rapids-east-quarry",
+  "name": "L G Everist – Dell Rapids East Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dell Rapids",
+    "state": "SD",
+    "zip": "57022"
+  },
+  "location": {
+    "lat": 43.823611,
+    "lng": -96.701667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3900012"
+  },
+  "msha": [
+    {
+      "mine_id": "3900012",
+      "name": "Dell Rapids East Quarry",
+      "operator": "L G Everist Inc",
+      "status": "Active",
+      "status_since": "1990-02-28",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 34
+    }
+  ]
+}

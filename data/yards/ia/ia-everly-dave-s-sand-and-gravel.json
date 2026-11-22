@@ -1,0 +1,47 @@
+{
+  "id": "ia-everly-dave-s-sand-and-gravel",
+  "slug": "dave-s-sand-and-gravel",
+  "name": "Dave's Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1070 330th St",
+    "city": "Everly",
+    "state": "IA",
+    "zip": "51338"
+  },
+  "location": {
+    "lat": 43.169716,
+    "lng": -95.375732
+  },
+  "contact": {
+    "phone": "(712) 834-2515"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9610a7da-39d1-4c1a-b4cb-b7b32d9fc0d9",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1301779",
+      "name": "Dave's Sand & Gravel",
+      "operator": "Dave's Sand & Gravel",
+      "status": "Active",
+      "status_since": "2026-10-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

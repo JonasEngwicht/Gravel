@@ -1,0 +1,37 @@
+{
+  "id": "ky-somerset-hanson-aggregates-13670-e-highway-80-laurel-quarry",
+  "slug": "hanson-aggregates-13670-e-highway-80-laurel-quarry",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "13670 E Highway 80, Laurel Quarry",
+    "city": "Somerset",
+    "state": "KY",
+    "zip": "42501"
+  },
+  "location": {
+    "lat": 37.163486,
+    "lng": -84.405266
+  },
+  "contact": {
+    "phone": "(606) 274-4722",
+    "website": "https://www.lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8b2badf3-bdb4-4bcd-9f43-ed6041d6d972",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

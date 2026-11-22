@@ -1,0 +1,48 @@
+{
+  "id": "ca-bakersfield-edison-sand-and-gravel",
+  "slug": "edison-sand-and-gravel",
+  "name": "Edison Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3851 Neumarkel Rd",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93307"
+  },
+  "location": {
+    "lat": 35.320183,
+    "lng": -118.778564
+  },
+  "contact": {
+    "phone": "(661) 366-7897",
+    "website": "http://www.edisonsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7ba8567-cb96-4668-8ab1-6e354247c094",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0401756",
+      "name": "Edison Sand Pit",
+      "operator": "Edison Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2005-12-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

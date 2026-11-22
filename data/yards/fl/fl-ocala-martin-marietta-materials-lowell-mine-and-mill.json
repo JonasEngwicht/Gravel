@@ -1,0 +1,41 @@
+{
+  "id": "fl-ocala-martin-marietta-materials-lowell-mine-and-mill",
+  "slug": "martin-marietta-materials-lowell-mine-and-mill",
+  "name": "Martin Marietta Materials – Lowell Mine & Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "32634"
+  },
+  "location": {
+    "lat": 29.319444,
+    "lng": -82.196111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801121"
+  },
+  "msha": [
+    {
+      "mine_id": "0801121",
+      "name": "Lowell Mine & Mill",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Active",
+      "status_since": "2009-01-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 32
+    }
+  ]
+}

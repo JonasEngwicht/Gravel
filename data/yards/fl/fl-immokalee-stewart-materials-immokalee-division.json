@@ -1,0 +1,41 @@
+{
+  "id": "fl-immokalee-stewart-materials-immokalee-division",
+  "slug": "stewart-materials-immokalee-division",
+  "name": "Stewart Materials – Immokalee Division",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Immokalee",
+    "state": "FL",
+    "zip": "33930"
+  },
+  "location": {
+    "lat": 26.475556,
+    "lng": -81.455278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801358"
+  },
+  "msha": [
+    {
+      "mine_id": "0801358",
+      "name": "Immokalee Division",
+      "operator": "Stewart Materials, LLC",
+      "status": "Active",
+      "status_since": "2007-10-11",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

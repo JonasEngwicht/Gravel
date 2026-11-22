@@ -1,0 +1,37 @@
+{
+  "id": "fl-lake-worth-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1805 6th Avenue North Anx",
+    "city": "Lake Worth",
+    "state": "FL",
+    "zip": "33461"
+  },
+  "location": {
+    "lat": 26.622395,
+    "lng": -80.06842
+  },
+  "contact": {
+    "phone": "(561) 582-4488",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1cbb5f2-dfbe-47c1-9891-9a96b28a1f8d",
+    "confidence": 0.994,
+    "merged_records": 2
+  }
+}

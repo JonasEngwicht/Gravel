@@ -1,0 +1,36 @@
+{
+  "id": "tx-alvin-falcon-stone-and-landscape-supply",
+  "slug": "falcon-stone-and-landscape-supply",
+  "name": "Falcon Stone and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "23216 Hwy 6",
+    "city": "Alvin",
+    "state": "TX",
+    "zip": "77511"
+  },
+  "location": {
+    "lat": 29.449705,
+    "lng": -95.305992
+  },
+  "contact": {
+    "phone": "(281) 481-0303",
+    "website": "http://falconstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "47b5294a-fb57-463a-8b5a-c41d52744156",
+    "confidence": 0.971,
+    "merged_records": 1
+  }
+}

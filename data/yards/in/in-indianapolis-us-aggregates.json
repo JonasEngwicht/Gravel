@@ -1,0 +1,36 @@
+{
+  "id": "in-indianapolis-us-aggregates",
+  "slug": "us-aggregates",
+  "name": "Us Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8720 Robbins Rd",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46268"
+  },
+  "location": {
+    "lat": 39.912651,
+    "lng": -86.254723
+  },
+  "contact": {
+    "phone": "(317) 434-4600",
+    "website": "http://usagg.com/contact"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2792f474-d53b-427d-a223-4ae319403718",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

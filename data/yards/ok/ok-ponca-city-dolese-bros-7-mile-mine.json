@@ -1,0 +1,41 @@
+{
+  "id": "ok-ponca-city-dolese-bros-7-mile-mine",
+  "slug": "dolese-bros-7-mile-mine",
+  "name": "Dolese Bros – 7-Mile Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ponca City",
+    "state": "OK",
+    "zip": "74604"
+  },
+  "location": {
+    "lat": 36.781667,
+    "lng": -96.959722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401867"
+  },
+  "msha": [
+    {
+      "mine_id": "3401867",
+      "name": "7-Mile Mine",
+      "operator": "Dolese Bros. Co.",
+      "status": "Active",
+      "status_since": "2005-01-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

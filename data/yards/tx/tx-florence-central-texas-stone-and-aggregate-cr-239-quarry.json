@@ -1,0 +1,41 @@
+{
+  "id": "tx-florence-central-texas-stone-and-aggregate-cr-239-quarry",
+  "slug": "central-texas-stone-and-aggregate-cr-239-quarry",
+  "name": "Central Texas Stone and Aggregate – CR 239 Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Florence",
+    "state": "TX",
+    "zip": "78608"
+  },
+  "location": {
+    "lat": 30.964167,
+    "lng": -97.9475
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104477"
+  },
+  "msha": [
+    {
+      "mine_id": "4104477",
+      "name": "CR 239 Quarry",
+      "operator": "Central Texas Stone and Aggregate LLC",
+      "status": "Active",
+      "status_since": "2010-01-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

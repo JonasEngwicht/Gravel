@@ -1,0 +1,48 @@
+{
+  "id": "in-jonesboro-imi-aggregates-grant-co-sand-and-gravel",
+  "slug": "imi-aggregates-grant-co-sand-and-gravel",
+  "name": "imi Aggregates - Grant Co. Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "7416 East 700 South",
+    "city": "Jonesboro",
+    "state": "IN",
+    "zip": "46938"
+  },
+  "location": {
+    "lat": 40.450138,
+    "lng": -85.533379
+  },
+  "contact": {
+    "phone": "(765) 674-3338",
+    "website": "https://locations.irvmat.com/in/270?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a3db6ff-29ea-4ca3-b7c6-faea7d260ff2",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202488",
+      "name": "Grant County Sand and Gravel",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2023-09-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

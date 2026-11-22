@@ -1,0 +1,36 @@
+{
+  "id": "mn-austin-dolan-s-landscape-center",
+  "slug": "dolan-s-landscape-center",
+  "name": "Dolan's Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3108 4th St NW",
+    "city": "Austin",
+    "state": "MN",
+    "zip": "55912"
+  },
+  "location": {
+    "lat": 43.691715,
+    "lng": -92.979515
+  },
+  "contact": {
+    "phone": "(507) 433-3239",
+    "website": "http://www.dolanslandscapecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85eec248-d010-4d2b-8cf9-82cc6d55624d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

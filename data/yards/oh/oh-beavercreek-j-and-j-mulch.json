@@ -1,0 +1,36 @@
+{
+  "id": "oh-beavercreek-j-and-j-mulch",
+  "slug": "j-and-j-mulch",
+  "name": "J & J Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3915 Shakertown Rd",
+    "city": "Beavercreek",
+    "state": "OH",
+    "zip": "45430"
+  },
+  "location": {
+    "lat": 39.710762,
+    "lng": -84.083504
+  },
+  "contact": {
+    "phone": "(937) 429-9468",
+    "website": "http://www.jandjmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "336e8fef-6643-4f3c-aaf2-325bf329cee6",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

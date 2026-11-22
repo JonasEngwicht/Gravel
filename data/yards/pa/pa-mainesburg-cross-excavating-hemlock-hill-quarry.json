@@ -1,0 +1,41 @@
+{
+  "id": "pa-mainesburg-cross-excavating-hemlock-hill-quarry",
+  "slug": "cross-excavating-hemlock-hill-quarry",
+  "name": "Cross Excavating – Hemlock Hill Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mainesburg",
+    "state": "PA",
+    "zip": "16932"
+  },
+  "location": {
+    "lat": 41.797222,
+    "lng": -76.948333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609369"
+  },
+  "msha": [
+    {
+      "mine_id": "3609369",
+      "name": "Hemlock Hill Quarry",
+      "operator": "Cross Excavating",
+      "status": "Intermittent",
+      "status_since": "2022-04-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

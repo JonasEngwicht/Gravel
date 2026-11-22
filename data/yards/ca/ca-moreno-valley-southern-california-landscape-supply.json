@@ -1,0 +1,36 @@
+{
+  "id": "ca-moreno-valley-southern-california-landscape-supply",
+  "slug": "southern-california-landscape-supply",
+  "name": "Southern California Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "17520 Bridge St",
+    "city": "Moreno Valley",
+    "state": "CA",
+    "zip": "92555"
+  },
+  "location": {
+    "lat": 33.867817,
+    "lng": -117.047264
+  },
+  "contact": {
+    "phone": "(951) 538-3338",
+    "website": "http://www.socallandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "93a4fc2c-38a0-4ace-a5c0-7a4cadee820a",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

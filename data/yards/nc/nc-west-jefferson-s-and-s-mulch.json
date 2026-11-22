@@ -1,0 +1,36 @@
+{
+  "id": "nc-west-jefferson-s-and-s-mulch",
+  "slug": "s-and-s-mulch",
+  "name": "S & S Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1624 NC Highway 163",
+    "city": "West Jefferson",
+    "state": "NC",
+    "zip": "28694"
+  },
+  "location": {
+    "lat": 36.378906,
+    "lng": -81.485046
+  },
+  "contact": {
+    "phone": "(336) 846-3381",
+    "website": "https://www.snsmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b0a2d50-7381-4d74-8793-58c7d11b56c2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-escondido-siteone-landscape-supply-900-w-washington-ave",
+  "slug": "siteone-landscape-supply-900-w-washington-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "900 W Washington Ave",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92025"
+  },
+  "location": {
+    "lat": 33.123096,
+    "lng": -117.096306
+  },
+  "contact": {
+    "phone": "(760) 480-0060",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e7a2d27-d636-44bd-9e85-b5e52dfdb3df",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

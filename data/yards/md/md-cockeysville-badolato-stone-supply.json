@@ -1,0 +1,36 @@
+{
+  "id": "md-cockeysville-badolato-stone-supply",
+  "slug": "badolato-stone-supply",
+  "name": "Badolato Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "10816 Williamson Ln",
+    "city": "Cockeysville",
+    "state": "MD",
+    "zip": "21030"
+  },
+  "location": {
+    "lat": 39.482296,
+    "lng": -76.650879
+  },
+  "contact": {
+    "phone": "(410) 785-1901",
+    "website": "https://badolatostone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc261ea3-5edc-40a9-95e7-b9dec14a4e73",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

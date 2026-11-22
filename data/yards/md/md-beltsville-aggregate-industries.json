@@ -1,0 +1,37 @@
+{
+  "id": "md-beltsville-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "5101 Odell Rd",
+    "city": "Beltsville",
+    "state": "MD",
+    "zip": "20705"
+  },
+  "location": {
+    "lat": 39.041496,
+    "lng": -76.902519
+  },
+  "contact": {
+    "phone": "(800) 974-2500",
+    "website": "https://www.aggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c80a9291-18df-4932-bb4b-f23067e80606",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

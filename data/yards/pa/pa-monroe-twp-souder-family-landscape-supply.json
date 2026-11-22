@@ -1,0 +1,35 @@
+{
+  "id": "pa-monroe-twp-souder-family-landscape-supply",
+  "slug": "souder-family-landscape-supply",
+  "name": "Souder Family Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "829 W Trindle Rd",
+    "city": "Monroe Twp",
+    "state": "PA",
+    "zip": "17055"
+  },
+  "location": {
+    "lat": 40.207657,
+    "lng": -77.026642
+  },
+  "contact": {
+    "phone": "(717) 796-5929"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f34ea27-019c-4eda-ba46-431f810cbd77",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

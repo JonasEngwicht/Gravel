@@ -1,0 +1,36 @@
+{
+  "id": "nc-clayton-triple-r-landscape-supply",
+  "slug": "triple-r-landscape-supply",
+  "name": "Triple R Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8488 Cleveland Rd",
+    "city": "Clayton",
+    "state": "NC",
+    "zip": "27520"
+  },
+  "location": {
+    "lat": 35.566734,
+    "lng": -78.520424
+  },
+  "contact": {
+    "phone": "(919) 599-5308",
+    "website": "https://triplerlandscapingllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "321004fa-dbbf-4055-93a1-03e125189a9f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

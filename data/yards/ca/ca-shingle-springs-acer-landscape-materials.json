@@ -1,0 +1,36 @@
+{
+  "id": "ca-shingle-springs-acer-landscape-materials",
+  "slug": "acer-landscape-materials",
+  "name": "Acer Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3931-B, Durock Rd",
+    "city": "Shingle Springs",
+    "state": "CA",
+    "zip": "95682"
+  },
+  "location": {
+    "lat": 38.660023,
+    "lng": -120.945091
+  },
+  "contact": {
+    "phone": "(530) 677-4716",
+    "website": "http://www.yelp.com/biz/acer-landscape-materials-shingle-springs"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c3461946-e6d3-40a1-b948-606900bca41c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

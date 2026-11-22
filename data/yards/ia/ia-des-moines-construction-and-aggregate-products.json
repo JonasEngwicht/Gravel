@@ -1,0 +1,36 @@
+{
+  "id": "ia-des-moines-construction-and-aggregate-products",
+  "slug": "construction-and-aggregate-products",
+  "name": "Construction & Aggregate Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5700 Park Ave",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50321"
+  },
+  "location": {
+    "lat": 41.555153,
+    "lng": -93.694221
+  },
+  "contact": {
+    "phone": "(800) 388-5857",
+    "website": "http://www.capiowa.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7072f73-cfc3-4563-aa84-f6daaf80638e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

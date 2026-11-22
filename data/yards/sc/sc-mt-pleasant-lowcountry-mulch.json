@@ -1,0 +1,36 @@
+{
+  "id": "sc-mt-pleasant-lowcountry-mulch",
+  "slug": "lowcountry-mulch",
+  "name": "Lowcountry Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1135 SC-41",
+    "city": "Mt Pleasant",
+    "state": "SC",
+    "zip": "29466"
+  },
+  "location": {
+    "lat": 32.859249,
+    "lng": -79.798622
+  },
+  "contact": {
+    "phone": "(843) 971-7010",
+    "website": "http://lowcountrymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4e403a8-0298-4b05-8577-52346df5a70d",
+    "confidence": 0.988,
+    "merged_records": 2
+  }
+}

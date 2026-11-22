@@ -1,0 +1,47 @@
+{
+  "id": "ar-bismarck-gravel-mountain-quarry",
+  "slug": "gravel-mountain-quarry",
+  "name": "Gravel Mountain Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "2633 Highway 347",
+    "city": "Bismarck",
+    "state": "AR",
+    "zip": "71929"
+  },
+  "location": {
+    "lat": 34.357109,
+    "lng": -93.290611
+  },
+  "contact": {
+    "phone": "(501) 865-3390"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34644349-d97e-49e7-ab0f-2d6637585fec",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0301852",
+      "name": "Gravel Mountain Quarry",
+      "operator": "Gravel Mountain Quarry",
+      "status": "Active",
+      "status_since": "2024-11-12",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

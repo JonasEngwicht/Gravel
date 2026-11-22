@@ -1,0 +1,37 @@
+{
+  "id": "tn-maryville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2128 W Lamar Alexander Pkwy",
+    "city": "Maryville",
+    "state": "TN",
+    "zip": "37801"
+  },
+  "location": {
+    "lat": 35.755745,
+    "lng": -84.037697
+  },
+  "contact": {
+    "phone": "(865) 984-4652",
+    "website": "https://www.siteone.com/store/772"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "78ca7b7d-c24f-480c-8963-1e724cc8005d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

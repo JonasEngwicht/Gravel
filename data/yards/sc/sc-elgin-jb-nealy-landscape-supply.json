@@ -1,0 +1,36 @@
+{
+  "id": "sc-elgin-jb-nealy-landscape-supply",
+  "slug": "jb-nealy-landscape-supply",
+  "name": "JB Nealy Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1512 Ross Rd",
+    "city": "Elgin",
+    "state": "SC",
+    "zip": "29045"
+  },
+  "location": {
+    "lat": 34.163139,
+    "lng": -80.818161
+  },
+  "contact": {
+    "phone": "(803) 629-2875",
+    "website": "http://www.jbnealylandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d00768d9-631f-4716-9b38-c8d2e7429da8",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

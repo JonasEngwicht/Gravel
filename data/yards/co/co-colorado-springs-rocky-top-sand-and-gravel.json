@@ -1,0 +1,32 @@
+{
+  "id": "co-colorado-springs-rocky-top-sand-and-gravel",
+  "slug": "rocky-top-sand-and-gravel",
+  "name": "Rocky Top Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1755 E Las Vegas St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80903"
+  },
+  "location": {
+    "lat": 38.805775,
+    "lng": -104.798027
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d1e8f10b-123d-4dd6-8759-c9d01d50710e",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

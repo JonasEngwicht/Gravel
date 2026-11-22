@@ -1,0 +1,41 @@
+{
+  "id": "or-lebanon-mt-hope-tree-farm-llc",
+  "slug": "mt-hope-tree-farm-llc",
+  "name": "Mt Hope Tree Farm LLC",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lebanon",
+    "state": "OR",
+    "zip": "97355"
+  },
+  "location": {
+    "lat": 44.550556,
+    "lng": -122.833611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503779"
+  },
+  "msha": [
+    {
+      "mine_id": "3503779",
+      "name": "Mt Hope Tree Farm LLC",
+      "operator": "G & S Crushing, LLC",
+      "status": "Active",
+      "status_since": "2022-04-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

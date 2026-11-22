@@ -1,0 +1,36 @@
+{
+  "id": "ma-westford-ray-wilson-bark-mulch",
+  "slug": "ray-wilson-bark-mulch",
+  "name": "Ray Wilson Bark Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "33 Carlisle Rd",
+    "city": "Westford",
+    "state": "MA",
+    "zip": "01886"
+  },
+  "location": {
+    "lat": 42.558918,
+    "lng": -71.420082
+  },
+  "contact": {
+    "phone": "(978) 692-7985",
+    "website": "http://raywilsonbarkmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19d7c425-7288-46c3-9e1e-e20c18b6a09e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

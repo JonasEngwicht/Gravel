@@ -1,0 +1,37 @@
+{
+  "id": "mo-pleasant-valley-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6609 Royal St Ste 114",
+    "city": "Pleasant Valley",
+    "state": "MO",
+    "zip": "64068"
+  },
+  "location": {
+    "lat": 39.215282,
+    "lng": -94.481056
+  },
+  "contact": {
+    "phone": "(816) 781-2802",
+    "website": "https://www.siteone.com/store/712"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ccc226be-4fc2-45e3-a6f2-25560e7acad0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-paynes-creek-harold-rodney",
+  "slug": "harold-rodney",
+  "name": "Harold Rodney",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Paynes Creek",
+    "state": "CA",
+    "zip": "96075"
+  },
+  "location": {
+    "lat": 40.299167,
+    "lng": -121.842778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405766"
+  },
+  "msha": [
+    {
+      "mine_id": "0405766",
+      "name": "H.L. Rodney",
+      "operator": "Harold Rodney",
+      "status": "Active",
+      "status_since": "2019-09-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

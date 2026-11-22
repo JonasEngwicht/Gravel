@@ -1,0 +1,41 @@
+{
+  "id": "ut-huntington-tsj-construction-tsj-crusher-1",
+  "slug": "tsj-construction-tsj-crusher-1",
+  "name": "Tsj Construction – Tsj Crusher #1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Huntington",
+    "state": "UT",
+    "zip": "84522"
+  },
+  "location": {
+    "lat": 38.763889,
+    "lng": -111.327222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202707"
+  },
+  "msha": [
+    {
+      "mine_id": "4202707",
+      "name": "Tsj Crusher #1",
+      "operator": "Tsj Construction",
+      "status": "Intermittent",
+      "status_since": "2026-11-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

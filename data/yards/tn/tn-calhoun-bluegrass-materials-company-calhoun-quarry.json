@@ -1,0 +1,41 @@
+{
+  "id": "tn-calhoun-bluegrass-materials-company-calhoun-quarry",
+  "slug": "bluegrass-materials-company-calhoun-quarry",
+  "name": "Bluegrass Materials Company – Calhoun Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Calhoun",
+    "state": "TN",
+    "zip": "37309"
+  },
+  "location": {
+    "lat": 35.301389,
+    "lng": -84.718056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003395"
+  },
+  "msha": [
+    {
+      "mine_id": "4003395",
+      "name": "Calhoun Quarry",
+      "operator": "Bluegrass Materials Company, LLC",
+      "status": "Active",
+      "status_since": "2011-12-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

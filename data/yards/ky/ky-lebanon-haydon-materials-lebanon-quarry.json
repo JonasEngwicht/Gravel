@@ -1,0 +1,41 @@
+{
+  "id": "ky-lebanon-haydon-materials-lebanon-quarry",
+  "slug": "haydon-materials-lebanon-quarry",
+  "name": "Haydon Materials – Lebanon Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lebanon",
+    "state": "KY",
+    "zip": "40033"
+  },
+  "location": {
+    "lat": 37.564722,
+    "lng": -85.251667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500113"
+  },
+  "msha": [
+    {
+      "mine_id": "1500113",
+      "name": "Lebanon Quarry",
+      "operator": "Haydon Materials, LLC",
+      "status": "Active",
+      "status_since": "2017-09-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

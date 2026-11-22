@@ -1,0 +1,36 @@
+{
+  "id": "la-baton-rouge-aggregate-technologies-inc",
+  "slug": "aggregate-technologies-inc",
+  "name": "Aggregate Technologies, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4347 S Jeffrey Dr",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70816"
+  },
+  "location": {
+    "lat": 30.411079,
+    "lng": -91.062424
+  },
+  "contact": {
+    "phone": "(225) 772-7320",
+    "website": "https://www.aggregatetechnologies.com/concrete-cutting-company-baton-rouge-la/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c1a6a7a4-beac-4a53-b0ad-4773d37469fe",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

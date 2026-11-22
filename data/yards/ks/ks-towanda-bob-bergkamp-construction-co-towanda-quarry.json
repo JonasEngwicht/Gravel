@@ -1,0 +1,41 @@
+{
+  "id": "ks-towanda-bob-bergkamp-construction-co-towanda-quarry",
+  "slug": "bob-bergkamp-construction-co-towanda-quarry",
+  "name": "Bob Bergkamp Construction Co – Towanda Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Towanda",
+    "state": "KS",
+    "zip": "67144"
+  },
+  "location": {
+    "lat": 37.785,
+    "lng": -97.026389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401773"
+  },
+  "msha": [
+    {
+      "mine_id": "1401773",
+      "name": "Towanda Quarry",
+      "operator": "Bob Bergkamp Construction Co., Inc.",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

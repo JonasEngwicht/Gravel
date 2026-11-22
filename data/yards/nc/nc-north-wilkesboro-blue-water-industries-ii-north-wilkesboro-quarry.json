@@ -1,0 +1,41 @@
+{
+  "id": "nc-north-wilkesboro-blue-water-industries-ii-north-wilkesboro-quarry",
+  "slug": "blue-water-industries-ii-north-wilkesboro-quarry",
+  "name": "Blue Water Industries II – North Wilkesboro Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "North Wilkesboro",
+    "state": "NC",
+    "zip": "28669"
+  },
+  "location": {
+    "lat": 36.148889,
+    "lng": -81.023611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102253"
+  },
+  "msha": [
+    {
+      "mine_id": "3102253",
+      "name": "North Wilkesboro Quarry",
+      "operator": "Blue Water Industries II LLC",
+      "status": "Active",
+      "status_since": "2010-01-22",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

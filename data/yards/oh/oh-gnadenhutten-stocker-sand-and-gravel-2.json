@@ -1,0 +1,41 @@
+{
+  "id": "oh-gnadenhutten-stocker-sand-and-gravel-2",
+  "slug": "stocker-sand-and-gravel-2",
+  "name": "Stocker Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Gnadenhutten",
+    "state": "OH",
+    "zip": "44629"
+  },
+  "location": {
+    "lat": 40.348889,
+    "lng": -81.479722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3301995"
+  },
+  "msha": [
+    {
+      "mine_id": "3301995",
+      "name": "Plant #2",
+      "operator": "Stocker Sand & Gravel Company",
+      "status": "Active",
+      "status_since": "2017-10-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

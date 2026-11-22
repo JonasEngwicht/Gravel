@@ -1,0 +1,36 @@
+{
+  "id": "tx-dallas-ct-sand-and-gravel-llc",
+  "slug": "ct-sand-and-gravel-llc",
+  "name": "CT SAND & GRAVEL LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "638 S Masters Dr",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75217"
+  },
+  "location": {
+    "lat": 32.702358,
+    "lng": -96.648308
+  },
+  "contact": {
+    "phone": "(972) 896-0197",
+    "website": "https://www.bing.com/search?qs=HS&pq=ct&sk=CSYN1UAS7CT1LS11AS1HS1&sc=25-2&pglt=299&q=ct+sand+%26+gravel+llc&cvid=48a487484ba5404dbad2f0ba5cb886d9&gs_lcrp=EgRlZGdlKgYIARAAGEAyBwgAEAAY-QcyBggBEAAYQDIGCAIQRRg5MgYIAxAAGEAyBggEEC4YQDIGCAUQABhAMgYIBhAuGEAyBggHEEUYPTIGCAgQRRg90gEIMjczNmowajGoAgiwAgE&FORM=ANNTA1&PC=LCTS"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cae3c121-367b-405d-9836-39accf2145cc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

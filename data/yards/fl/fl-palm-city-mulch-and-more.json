@@ -1,0 +1,36 @@
+{
+  "id": "fl-palm-city-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "MULCH & MORE",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5600 SW Martin Highway",
+    "city": "Palm City",
+    "state": "FL",
+    "zip": "34990"
+  },
+  "location": {
+    "lat": 27.161175,
+    "lng": -80.329742
+  },
+  "contact": {
+    "phone": "(888) 814-5908",
+    "website": "https://www.landscapeproductsinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d62aa48-0406-43df-ad84-259610213a76",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

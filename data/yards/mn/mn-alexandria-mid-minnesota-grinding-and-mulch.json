@@ -1,0 +1,36 @@
+{
+  "id": "mn-alexandria-mid-minnesota-grinding-and-mulch",
+  "slug": "mid-minnesota-grinding-and-mulch",
+  "name": "Mid-minnesota Grinding & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4605 County Road 82 SE",
+    "city": "Alexandria",
+    "state": "MN",
+    "zip": "56308"
+  },
+  "location": {
+    "lat": 45.88726,
+    "lng": -95.311127
+  },
+  "contact": {
+    "phone": "(320) 460-7089",
+    "website": "http://grindandmulch.com/contact"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6ac93eb-92a4-4abc-bd38-9a07eaa4861d",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

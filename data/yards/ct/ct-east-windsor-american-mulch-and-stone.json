@@ -1,0 +1,35 @@
+{
+  "id": "ct-east-windsor-american-mulch-and-stone",
+  "slug": "american-mulch-and-stone",
+  "name": "American Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "266 Main St",
+    "city": "East Windsor",
+    "state": "CT",
+    "zip": "06088"
+  },
+  "location": {
+    "lat": 41.915417,
+    "lng": -72.613457
+  },
+  "contact": {
+    "phone": "(860) 292-6375"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0b39409d-6e58-4cd0-b618-0988c3e83d38",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-monterey-vulcan-construction-materials-monterey-sand-llc",
+  "slug": "vulcan-construction-materials-monterey-sand-llc",
+  "name": "Vulcan Construction Materials – Monterey Sand LLC",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Monterey",
+    "state": "TN",
+    "zip": "38574"
+  },
+  "location": {
+    "lat": 36.159722,
+    "lng": -85.229722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4000805"
+  },
+  "msha": [
+    {
+      "mine_id": "4000805",
+      "name": "Monterey Sand LLC",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1998-11-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

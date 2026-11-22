@@ -1,0 +1,41 @@
+{
+  "id": "oh-buckland-the-national-lime-and-stone-buckland-plant",
+  "slug": "the-national-lime-and-stone-buckland-plant",
+  "name": "The National Lime & Stone – Buckland Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Buckland",
+    "state": "OH",
+    "zip": "45819"
+  },
+  "location": {
+    "lat": 40.619167,
+    "lng": -84.264722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300121"
+  },
+  "msha": [
+    {
+      "mine_id": "3300121",
+      "name": "Buckland Plant",
+      "operator": "The National Lime & Stone Company",
+      "status": "Intermittent",
+      "status_since": "2012-03-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nd-harvey-susag-sand-and-gravel-paul-deck-pit",
+  "slug": "susag-sand-and-gravel-paul-deck-pit",
+  "name": "Susag Sand & Gravel – Paul Deck Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Harvey",
+    "state": "ND",
+    "zip": "58332"
+  },
+  "location": {
+    "lat": 47.933889,
+    "lng": -99.980556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3200493"
+  },
+  "msha": [
+    {
+      "mine_id": "3200493",
+      "name": "Paul Deck Pit",
+      "operator": "Susag Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "1989-08-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

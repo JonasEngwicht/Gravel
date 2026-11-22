@@ -1,0 +1,36 @@
+{
+  "id": "nm-anthony-xerocole-landscape-supply",
+  "slug": "xerocole-landscape-supply",
+  "name": "Xerocole Landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "834 Anthony Dr",
+    "city": "Anthony",
+    "state": "NM",
+    "zip": "88021"
+  },
+  "location": {
+    "lat": 32.008656,
+    "lng": -106.60601
+  },
+  "contact": {
+    "phone": "(575) 201-8025",
+    "website": "https://xerocolelandscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04feb7a9-f6e0-4cd7-a766-e97c109c7023",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

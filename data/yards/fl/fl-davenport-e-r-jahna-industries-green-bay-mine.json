@@ -1,0 +1,41 @@
+{
+  "id": "fl-davenport-e-r-jahna-industries-green-bay-mine",
+  "slug": "e-r-jahna-industries-green-bay-mine",
+  "name": "E R Jahna Industries – Green Bay Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Davenport",
+    "state": "FL",
+    "zip": "33897"
+  },
+  "location": {
+    "lat": 28.31,
+    "lng": -81.714722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801329"
+  },
+  "msha": [
+    {
+      "mine_id": "0801329",
+      "name": "Green Bay Mine",
+      "operator": "E R Jahna Industries Inc",
+      "status": "Active",
+      "status_since": "2006-10-11",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

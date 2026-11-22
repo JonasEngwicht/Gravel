@@ -1,0 +1,41 @@
+{
+  "id": "tn-georgetown-h-and-h-rock",
+  "slug": "h-and-h-rock",
+  "name": "H & H Rock",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Georgetown",
+    "state": "TN",
+    "zip": "37336"
+  },
+  "location": {
+    "lat": 35.350556,
+    "lng": -84.895278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003346"
+  },
+  "msha": [
+    {
+      "mine_id": "4003346",
+      "name": "H & H Rock Inc",
+      "operator": "H & H Rock Inc",
+      "status": "Active",
+      "status_since": "2009-04-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

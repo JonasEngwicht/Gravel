@@ -1,0 +1,36 @@
+{
+  "id": "la-denham-springs-crawford-aggregates",
+  "slug": "crawford-aggregates",
+  "name": "Crawford Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "J H Jenkin Ln",
+    "city": "Denham Springs",
+    "state": "LA",
+    "zip": "70453"
+  },
+  "location": {
+    "lat": 30.687687,
+    "lng": -90.835381
+  },
+  "contact": {
+    "phone": "(225) 777-4266",
+    "website": "https://crawford-aggregate-industries-la.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f60d200-f24c-4e0d-ae3b-afa0a648f1eb",
+    "confidence": 0.642,
+    "merged_records": 2
+  }
+}

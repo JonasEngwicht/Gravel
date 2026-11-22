@@ -1,0 +1,36 @@
+{
+  "id": "md-millington-simpkins-farms-mulch",
+  "slug": "simpkins-farms-mulch",
+  "name": "Simpkins Farms Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "33898 Cypress Rd",
+    "city": "Millington",
+    "state": "MD",
+    "zip": "21651"
+  },
+  "location": {
+    "lat": 39.255768,
+    "lng": -75.789192
+  },
+  "contact": {
+    "phone": "(410) 928-5300",
+    "website": "http://www.sfmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2bad0267-8922-4d3c-83d5-453035edc2c1",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

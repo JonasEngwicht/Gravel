@@ -1,0 +1,48 @@
+{
+  "id": "nh-hooksett-plourde-sand-and-gravel-co-inc",
+  "slug": "plourde-sand-and-gravel-co-inc",
+  "name": "Plourde Sand & Gravel Co., Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "519 W River Rd",
+    "city": "Hooksett",
+    "state": "NH",
+    "zip": "03106"
+  },
+  "location": {
+    "lat": 43.104317,
+    "lng": -71.469971
+  },
+  "contact": {
+    "phone": "(603) 485-3061",
+    "website": "http://plourdesg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc664ccc-b81b-47a8-bd1a-6fb6d738dce5",
+    "confidence": 0.828,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2700094",
+      "name": "Plourde Sand Hooksett Pit",
+      "operator": "Plourde Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "1993-01-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 20
+    }
+  ]
+}

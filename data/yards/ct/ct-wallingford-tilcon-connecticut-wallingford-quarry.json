@@ -1,0 +1,41 @@
+{
+  "id": "ct-wallingford-tilcon-connecticut-wallingford-quarry",
+  "slug": "tilcon-connecticut-wallingford-quarry",
+  "name": "Tilcon Connecticut – Wallingford Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wallingford",
+    "state": "CT",
+    "zip": "06455"
+  },
+  "location": {
+    "lat": 41.474167,
+    "lng": -72.745
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600013"
+  },
+  "msha": [
+    {
+      "mine_id": "0600013",
+      "name": "Wallingford Quarry",
+      "operator": "Tilcon Connecticut Inc",
+      "status": "Active",
+      "status_since": "1994-03-02",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

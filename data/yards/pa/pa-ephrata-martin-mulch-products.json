@@ -1,0 +1,36 @@
+{
+  "id": "pa-ephrata-martin-mulch-products",
+  "slug": "martin-mulch-products",
+  "name": "Martin Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "55 Woodcrest Dr",
+    "city": "Ephrata",
+    "state": "PA",
+    "zip": "17522"
+  },
+  "location": {
+    "lat": 40.185387,
+    "lng": -76.125336
+  },
+  "contact": {
+    "phone": "(717) 733-1602",
+    "website": "https://martin-mulch-products.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8f320885-a544-432a-91e3-b267330bd942",
+    "confidence": 0.974,
+    "merged_records": 2
+  }
+}

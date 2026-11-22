@@ -1,0 +1,41 @@
+{
+  "id": "ca-ione-triangle-rock-products-trp-amador-quarry",
+  "slug": "triangle-rock-products-trp-amador-quarry",
+  "name": "Triangle Rock Products – TRP Amador Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ione",
+    "state": "CA",
+    "zip": "95640"
+  },
+  "location": {
+    "lat": 38.340833,
+    "lng": -120.943056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405981"
+  },
+  "msha": [
+    {
+      "mine_id": "0405981",
+      "name": "TRP Amador Quarry",
+      "operator": "Triangle Rock Products",
+      "status": "Intermittent",
+      "status_since": "2025-02-11",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

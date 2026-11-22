@@ -1,0 +1,36 @@
+{
+  "id": "fl-sarasota-melrose-irrigation-siteone-landscape-supply",
+  "slug": "melrose-irrigation-siteone-landscape-supply",
+  "name": "Melrose Irrigation / SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7959 Moyer Ave",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34240"
+  },
+  "location": {
+    "lat": 27.336607,
+    "lng": -82.427811
+  },
+  "contact": {
+    "phone": "(941) 203-8908",
+    "website": "https://www.melrosesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "668df1d4-c557-4f30-b5bf-ded1ca7cc942",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

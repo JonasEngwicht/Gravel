@@ -1,0 +1,36 @@
+{
+  "id": "il-effingham-stillwater-mulch",
+  "slug": "stillwater-mulch",
+  "name": "Stillwater Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "18802 N US Highway 45",
+    "city": "Effingham",
+    "state": "IL",
+    "zip": "62401"
+  },
+  "location": {
+    "lat": 39.183197,
+    "lng": -88.514442
+  },
+  "contact": {
+    "phone": "(217) 844-4444",
+    "website": "http://www.stillwatermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7fd4d8b2-f365-4403-8c65-7df31de86b24",
+    "confidence": 0.962,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sc-rock-hill-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "495 E Springdale Rd",
+    "city": "Rock Hill",
+    "state": "SC",
+    "zip": "29730"
+  },
+  "location": {
+    "lat": 34.918205,
+    "lng": -80.966011
+  },
+  "contact": {
+    "phone": "(803) 328-2999",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f31c2489-be0f-405a-bab0-1769cfa3155c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

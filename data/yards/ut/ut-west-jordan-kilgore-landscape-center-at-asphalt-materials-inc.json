@@ -1,0 +1,36 @@
+{
+  "id": "ut-west-jordan-kilgore-landscape-center-at-asphalt-materials-inc",
+  "slug": "kilgore-landscape-center-at-asphalt-materials-inc",
+  "name": "Kilgore Landscape Center at Asphalt Materials Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7961 S 1300 W",
+    "city": "West Jordan",
+    "state": "UT",
+    "zip": "84088"
+  },
+  "location": {
+    "lat": 40.606792,
+    "lng": -111.926361
+  },
+  "contact": {
+    "phone": "(801) 561-4231",
+    "website": "https://asphaltmaterials.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d4083c57-d04d-446a-a423-fbc4ccf40fe8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

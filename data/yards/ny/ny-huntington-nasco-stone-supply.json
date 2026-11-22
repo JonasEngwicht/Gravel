@@ -1,0 +1,36 @@
+{
+  "id": "ny-huntington-nasco-stone-supply",
+  "slug": "nasco-stone-supply",
+  "name": "Nasco Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "747 Park Ave",
+    "city": "Huntington",
+    "state": "NY",
+    "zip": "11743"
+  },
+  "location": {
+    "lat": 40.859604,
+    "lng": -73.396523
+  },
+  "contact": {
+    "phone": "(631) 754-0530",
+    "website": "https://locator.techo-bloc.com/en/dealers/ca?address=long-island&page=2"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3450ee32-512c-4005-89ba-406e07ef5ca5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

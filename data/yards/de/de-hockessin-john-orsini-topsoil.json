@@ -1,0 +1,35 @@
+{
+  "id": "de-hockessin-john-orsini-topsoil",
+  "slug": "john-orsini-topsoil",
+  "name": "John Orsini Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4328 Mill Creek Rd",
+    "city": "Hockessin",
+    "state": "DE",
+    "zip": "19707"
+  },
+  "location": {
+    "lat": 39.786377,
+    "lng": -75.698143
+  },
+  "contact": {
+    "phone": "(302) 239-7364"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9438ba84-0414-4f4e-811c-c5bf0bfe694b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

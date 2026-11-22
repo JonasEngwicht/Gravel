@@ -1,0 +1,41 @@
+{
+  "id": "nm-chama-arriba-concrete-and-construction",
+  "slug": "arriba-concrete-and-construction",
+  "name": "Arriba Concrete & Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Chama",
+    "state": "NM",
+    "zip": "87520"
+  },
+  "location": {
+    "lat": 36.886944,
+    "lng": -106.582222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902394"
+  },
+  "msha": [
+    {
+      "mine_id": "2902394",
+      "name": "Arriba Concrete",
+      "operator": "Arriba Concrete & Construction, Inc.",
+      "status": "Intermittent",
+      "status_since": "2019-04-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

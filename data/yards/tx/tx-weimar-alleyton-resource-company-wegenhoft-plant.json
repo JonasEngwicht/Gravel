@@ -1,0 +1,41 @@
+{
+  "id": "tx-weimar-alleyton-resource-company-wegenhoft-plant",
+  "slug": "alleyton-resource-company-wegenhoft-plant",
+  "name": "Alleyton Resource Company – Wegenhoft Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Weimar",
+    "state": "TX",
+    "zip": "78938"
+  },
+  "location": {
+    "lat": 29.823611,
+    "lng": -96.795833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4102916"
+  },
+  "msha": [
+    {
+      "mine_id": "4102916",
+      "name": "Wegenhoft Plant",
+      "operator": "Alleyton Resource Company, LLC.",
+      "status": "Active",
+      "status_since": "1988-05-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

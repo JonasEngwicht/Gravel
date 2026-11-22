@@ -1,0 +1,35 @@
+{
+  "id": "mn-hopkins-mulch-city",
+  "slug": "mulch-city",
+  "name": "Mulch City",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "643 13th Ave S",
+    "city": "Hopkins",
+    "state": "MN",
+    "zip": "55343"
+  },
+  "location": {
+    "lat": 44.913795,
+    "lng": -93.416557
+  },
+  "contact": {
+    "phone": "(612) 756-8524"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b1fd6a1-d5bd-474f-8be8-78eefa91cd72",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

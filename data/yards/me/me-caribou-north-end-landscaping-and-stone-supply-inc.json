@@ -1,0 +1,36 @@
+{
+  "id": "me-caribou-north-end-landscaping-and-stone-supply-inc",
+  "slug": "north-end-landscaping-and-stone-supply-inc",
+  "name": "North End Landscaping & Stone Supply, Inc.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1078 Presque Isle Rd",
+    "city": "Caribou",
+    "state": "ME",
+    "zip": "04736"
+  },
+  "location": {
+    "lat": 46.799931,
+    "lng": -67.991478
+  },
+  "contact": {
+    "phone": "(207) 498-8879",
+    "website": "http://www.northendstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0f04d86-dd47-4821-842c-dcd144683424",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

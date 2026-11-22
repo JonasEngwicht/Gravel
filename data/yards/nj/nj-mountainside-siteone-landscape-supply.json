@@ -1,0 +1,37 @@
+{
+  "id": "nj-mountainside-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "237 Sheffield St",
+    "city": "Mountainside",
+    "state": "NJ",
+    "zip": "07092"
+  },
+  "location": {
+    "lat": 40.685024,
+    "lng": -74.34024
+  },
+  "contact": {
+    "phone": "(908) 317-0509",
+    "website": "https://www.siteone.com/store/606"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ef7b920-d439-4502-b591-64eda2719fcf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

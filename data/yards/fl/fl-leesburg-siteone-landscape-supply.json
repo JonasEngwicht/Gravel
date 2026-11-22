@@ -1,0 +1,37 @@
+{
+  "id": "fl-leesburg-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2404 W Main St",
+    "city": "Leesburg",
+    "state": "FL",
+    "zip": "34748"
+  },
+  "location": {
+    "lat": 28.813486,
+    "lng": -81.904327
+  },
+  "contact": {
+    "phone": "(352) 315-1075",
+    "website": "https://www.siteone.com/en/store/728"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6d03dc0-bc4b-45f2-932a-72cff9c80f52",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

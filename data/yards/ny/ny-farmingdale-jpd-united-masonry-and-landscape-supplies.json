@@ -1,0 +1,36 @@
+{
+  "id": "ny-farmingdale-jpd-united-masonry-and-landscape-supplies",
+  "slug": "jpd-united-masonry-and-landscape-supplies",
+  "name": "Jpd United Masonry & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "80 Sherwood Ave",
+    "city": "Farmingdale",
+    "state": "NY",
+    "zip": "11735"
+  },
+  "location": {
+    "lat": 40.743351,
+    "lng": -73.420616
+  },
+  "contact": {
+    "phone": "(631) 249-5800",
+    "website": "https://jpdunited.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "083e1e6d-0343-4b42-82e7-092305114f4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

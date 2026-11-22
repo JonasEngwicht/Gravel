@@ -1,0 +1,41 @@
+{
+  "id": "ms-columbus-baldwin-sand-and-gravel-cotton-fields",
+  "slug": "baldwin-sand-and-gravel-cotton-fields",
+  "name": "Baldwin Sand and Gravel – Cotton Fields",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Columbus",
+    "state": "MS",
+    "zip": "39766"
+  },
+  "location": {
+    "lat": 33.539444,
+    "lng": -88.338333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200791"
+  },
+  "msha": [
+    {
+      "mine_id": "2200791",
+      "name": "Cotton Fields",
+      "operator": "Baldwin Sand and Gravel",
+      "status": "Active",
+      "status_since": "2015-03-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

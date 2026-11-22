@@ -1,0 +1,48 @@
+{
+  "id": "co-sedalia-oaklands-ranch-gravel",
+  "slug": "oaklands-ranch-gravel",
+  "name": "Oaklands Ranch Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1613 N Perry Park Rd",
+    "city": "Sedalia",
+    "state": "CO",
+    "zip": "80135"
+  },
+  "location": {
+    "lat": 39.386059,
+    "lng": -104.94883
+  },
+  "contact": {
+    "phone": "(303) 688-4285",
+    "website": "http://www.oaklandsranch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "662577b7-9376-4bd2-a35c-cf5c78cf417c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0505078",
+      "name": "Oaklands Ranch Pit",
+      "operator": "Oaklands Ranch",
+      "status": "Abandoned",
+      "status_since": "2023-11-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

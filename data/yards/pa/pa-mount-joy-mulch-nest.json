@@ -1,0 +1,36 @@
+{
+  "id": "pa-mount-joy-mulch-nest",
+  "slug": "mulch-nest",
+  "name": "Mulch Nest",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4030 Old Harrisburg Pike",
+    "city": "Mount Joy",
+    "state": "PA",
+    "zip": "17552"
+  },
+  "location": {
+    "lat": 40.134171,
+    "lng": -76.443619
+  },
+  "contact": {
+    "phone": "(717) 665-9463",
+    "website": "http://www.mulchnest.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e77f4b2-0cc2-46da-a24e-01f28c54de2d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

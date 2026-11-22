@@ -1,0 +1,36 @@
+{
+  "id": "tx-corsicana-luna-sand-and-gravel",
+  "slug": "luna-sand-and-gravel",
+  "name": "Luna Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7321 Southeast Dr",
+    "city": "Corsicana",
+    "state": "TX",
+    "zip": "75109"
+  },
+  "location": {
+    "lat": 32.034935,
+    "lng": -96.353828
+  },
+  "contact": {
+    "phone": "(903) 641-9083",
+    "website": "https://g.page/luna-sand-gravel?gm"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1442701b-b444-4b2d-a4ab-49898d5b1c40",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

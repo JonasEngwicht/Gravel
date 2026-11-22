@@ -1,0 +1,36 @@
+{
+  "id": "mi-northville-ellsworth-landscape-supply",
+  "slug": "ellsworth-landscape-supply",
+  "name": "Ellsworth Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "19359 Gerald Ave",
+    "city": "Northville",
+    "state": "MI",
+    "zip": "48167"
+  },
+  "location": {
+    "lat": 42.426956,
+    "lng": -83.472534
+  },
+  "contact": {
+    "phone": "(248) 476-6584",
+    "website": "http://www.Ellsworthlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed53be76-139f-47b2-adfd-6ecbd8562774",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

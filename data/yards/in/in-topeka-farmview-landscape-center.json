@@ -1,0 +1,36 @@
+{
+  "id": "in-topeka-farmview-landscape-center",
+  "slug": "farmview-landscape-center",
+  "name": "Farmview Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7035 S 900 W",
+    "city": "Topeka",
+    "state": "IN",
+    "zip": "46571"
+  },
+  "location": {
+    "lat": 41.538002,
+    "lng": -85.596687
+  },
+  "contact": {
+    "phone": "(260) 593-3003",
+    "website": "http://daveslawnscaping.com/farmview-landscape-center/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68dfc9b3-cc63-41b1-adb2-afc6e53674a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

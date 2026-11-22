@@ -1,0 +1,36 @@
+{
+  "id": "tx-granbury-eagle-stone-supply",
+  "slug": "eagle-stone-supply",
+  "name": "Eagle Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "100 Industrial Ave",
+    "city": "Granbury",
+    "state": "TX",
+    "zip": "76049"
+  },
+  "location": {
+    "lat": 32.481232,
+    "lng": -97.68644
+  },
+  "contact": {
+    "phone": "(817) 326-5117",
+    "website": "https://eaglestonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "debdba0f-0a3f-4341-8967-c8564f66e61a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

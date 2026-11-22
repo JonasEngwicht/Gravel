@@ -1,0 +1,41 @@
+{
+  "id": "wa-springdale-allied-minerals",
+  "slug": "allied-minerals",
+  "name": "Allied Minerals",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Springdale",
+    "state": "WA",
+    "zip": "99181"
+  },
+  "location": {
+    "lat": 48.131111,
+    "lng": -117.744167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4500001"
+  },
+  "msha": [
+    {
+      "mine_id": "4500001",
+      "name": "Plant 1",
+      "operator": "Allied Minerals Co",
+      "status": "Intermittent",
+      "status_since": "2016-01-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

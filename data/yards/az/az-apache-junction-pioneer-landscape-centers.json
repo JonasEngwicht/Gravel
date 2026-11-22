@@ -1,0 +1,37 @@
+{
+  "id": "az-apache-junction-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "3451 S Meridian Rd",
+    "city": "Apache Junction",
+    "state": "AZ",
+    "zip": "85120"
+  },
+  "location": {
+    "lat": 33.384079,
+    "lng": -111.580482
+  },
+  "contact": {
+    "phone": "(480) 982-5303",
+    "website": "http://www.pioneersand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce529f7a-4d90-4662-b19f-eafde79666d0",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

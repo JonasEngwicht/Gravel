@@ -1,0 +1,36 @@
+{
+  "id": "mi-lansing-schafer-s-landscape-supply",
+  "slug": "schafer-s-landscape-supply",
+  "name": "Schafer's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6025 Aurelius Rd",
+    "city": "Lansing",
+    "state": "MI",
+    "zip": "48911"
+  },
+  "location": {
+    "lat": 42.669731,
+    "lng": -84.523064
+  },
+  "contact": {
+    "phone": "(517) 393-7263",
+    "website": "http://www.schaferslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27f7855f-78ba-4165-9299-8d59a98a0ef2",
+    "confidence": 0.845,
+    "merged_records": 1
+  }
+}

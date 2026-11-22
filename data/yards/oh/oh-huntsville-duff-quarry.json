@@ -1,0 +1,41 @@
+{
+  "id": "oh-huntsville-duff-quarry",
+  "slug": "duff-quarry",
+  "name": "Duff Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Huntsville",
+    "state": "OH",
+    "zip": "43324"
+  },
+  "location": {
+    "lat": 40.477222,
+    "lng": -83.811111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300060"
+  },
+  "msha": [
+    {
+      "mine_id": "3300060",
+      "name": "Duff Quarry #1",
+      "operator": "Duff Quarry Inc",
+      "status": "Active",
+      "status_since": "2000-10-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 32
+    }
+  ]
+}

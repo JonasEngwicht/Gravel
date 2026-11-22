@@ -1,0 +1,36 @@
+{
+  "id": "fl-jacksonville-liberty-landscape-supply-13385-n-main-st",
+  "slug": "liberty-landscape-supply-13385-n-main-st",
+  "name": "Liberty Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13385 N Main St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32218"
+  },
+  "location": {
+    "lat": 30.479942,
+    "lng": -81.628273
+  },
+  "contact": {
+    "phone": "(904) 683-4316",
+    "website": "http://www.libertylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "930ec160-7a1b-4479-b62d-bdde0a68a7bf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

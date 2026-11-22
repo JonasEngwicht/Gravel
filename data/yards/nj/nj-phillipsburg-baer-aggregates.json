@@ -1,0 +1,36 @@
+{
+  "id": "nj-phillipsburg-baer-aggregates",
+  "slug": "baer-aggregates",
+  "name": "Baer Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "454 River Rd",
+    "city": "Phillipsburg",
+    "state": "NJ",
+    "zip": "08865"
+  },
+  "location": {
+    "lat": 40.643871,
+    "lng": -75.1931
+  },
+  "contact": {
+    "phone": "(908) 454-4412",
+    "website": "http://baeraggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f6a4d34e-0342-4828-b400-470fad5084d2",
+    "confidence": 0.962,
+    "merged_records": 1
+  }
+}

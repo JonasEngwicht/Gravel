@@ -1,0 +1,37 @@
+{
+  "id": "pa-lancaster-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "130 S Tree Dr",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17603"
+  },
+  "location": {
+    "lat": 40.046822,
+    "lng": -76.390114
+  },
+  "contact": {
+    "phone": "(717) 291-4434",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0af49a7f-6210-4c6d-9fa0-fc47656fee08",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

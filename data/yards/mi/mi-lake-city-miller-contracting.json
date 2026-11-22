@@ -1,0 +1,41 @@
+{
+  "id": "mi-lake-city-miller-contracting",
+  "slug": "miller-contracting",
+  "name": "Miller Contracting",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lake City",
+    "state": "MI",
+    "zip": "49651"
+  },
+  "location": {
+    "lat": 44.3375,
+    "lng": -85.071667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003624"
+  },
+  "msha": [
+    {
+      "mine_id": "2003624",
+      "name": "M-55",
+      "operator": "Miller Contracting, LLC",
+      "status": "Intermittent",
+      "status_since": "2022-04-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-springfield-galantino-masonry-and-landscape-supply",
+  "slug": "galantino-masonry-and-landscape-supply",
+  "name": "Galantino Masonry and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "725 Old Marple Rd",
+    "city": "Springfield",
+    "state": "PA",
+    "zip": "19064"
+  },
+  "location": {
+    "lat": 39.940132,
+    "lng": -75.358727
+  },
+  "contact": {
+    "phone": "(610) 544-2586",
+    "website": "http://www.galantino.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11535890-5cfc-49d3-9481-482ecf82e4a8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

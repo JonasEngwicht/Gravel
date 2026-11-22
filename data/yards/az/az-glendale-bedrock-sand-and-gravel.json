@@ -1,0 +1,36 @@
+{
+  "id": "az-glendale-bedrock-sand-and-gravel",
+  "slug": "bedrock-sand-and-gravel",
+  "name": "Bedrock Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7050 NW Grand Ave",
+    "city": "Glendale",
+    "state": "AZ",
+    "zip": "85301"
+  },
+  "location": {
+    "lat": 33.560471,
+    "lng": -112.210732
+  },
+  "contact": {
+    "phone": "(623) 939-7596",
+    "website": "https://bedrocksandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "675133c6-1a33-4a13-a406-c8f46e70ba58",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

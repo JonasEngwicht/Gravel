@@ -1,0 +1,41 @@
+{
+  "id": "tx-cleburne-vulcan-construction-materials-cox-bend",
+  "slug": "vulcan-construction-materials-cox-bend",
+  "name": "Vulcan Construction Materials – Cox Bend",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cleburne",
+    "state": "TX",
+    "zip": "76059"
+  },
+  "location": {
+    "lat": 32.455556,
+    "lng": -97.303333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4102977"
+  },
+  "msha": [
+    {
+      "mine_id": "4102977",
+      "name": "Cox Bend",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-03-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

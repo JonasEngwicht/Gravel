@@ -1,0 +1,36 @@
+{
+  "id": "al-pelham-lilly-s-landscape-supply",
+  "slug": "lilly-s-landscape-supply",
+  "name": "Lilly's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "739 Industrial Park Dr",
+    "city": "Pelham",
+    "state": "AL",
+    "zip": "35124"
+  },
+  "location": {
+    "lat": 33.296753,
+    "lng": -86.818687
+  },
+  "contact": {
+    "phone": "(205) 677-7024",
+    "website": "https://www.google.com/search?client=safari&hs=RrrU&sca_esv=2249988ea6ef4f61&hl=en-us&sxsrf=ANbL-n6FCM4Cj2E71Fp8vCM5JvL3DPebTw%3A1773704915431&kgmid=%2Fg%2F11vwvb3th0&q=Lilly%27s+Landscape+Supply&shndl=30&source=sh%2Fx%2Floc%2Fact%2Fm4%2F3"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "304c57d6-074f-4aa3-aba9-37e251e91a83",
+    "confidence": 0.582,
+    "merged_records": 1
+  }
+}

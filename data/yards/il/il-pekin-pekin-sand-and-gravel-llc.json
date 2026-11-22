@@ -1,0 +1,36 @@
+{
+  "id": "il-pekin-pekin-sand-and-gravel-llc",
+  "slug": "pekin-sand-and-gravel-llc",
+  "name": "Pekin Sand & Gravel Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "13018 E Manito Rd",
+    "city": "Pekin",
+    "state": "IL",
+    "zip": "61554"
+  },
+  "location": {
+    "lat": 40.534321,
+    "lng": -89.690704
+  },
+  "contact": {
+    "phone": "(309) 229-1630",
+    "website": "https://pekin-sand-gravel-llc.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f6c9c8ce-535a-4709-990e-49c16615a688",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm-eunice-pb-materials-aggregate-eunice",
+  "slug": "pb-materials-aggregate-eunice",
+  "name": "PB Materials Aggregate - Eunice",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1500 Wallach Rd",
+    "city": "Eunice",
+    "state": "NM",
+    "zip": "88231"
+  },
+  "location": {
+    "lat": 32.444813,
+    "lng": -103.105164
+  },
+  "contact": {
+    "phone": "(575) 746-7206",
+    "website": "https://pb-materials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b1ea7418-5f3a-45fe-85d9-e5ffa7de87a8",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2900504",
+      "name": "Eunice",
+      "operator": "Permian Basin Materials, LLC",
+      "status": "Intermittent",
+      "status_since": "2024-05-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

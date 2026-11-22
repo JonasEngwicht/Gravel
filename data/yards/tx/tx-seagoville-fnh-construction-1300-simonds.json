@@ -1,0 +1,41 @@
+{
+  "id": "tx-seagoville-fnh-construction-1300-simonds",
+  "slug": "fnh-construction-1300-simonds",
+  "name": "Fnh Construction – 1300 Simonds",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Seagoville",
+    "state": "TX",
+    "zip": "75253"
+  },
+  "location": {
+    "lat": 32.643333,
+    "lng": -96.590556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105377"
+  },
+  "msha": [
+    {
+      "mine_id": "4105377",
+      "name": "1300 Simonds",
+      "operator": "Fnh Construction Llc",
+      "status": "Intermittent",
+      "status_since": "2021-04-26",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

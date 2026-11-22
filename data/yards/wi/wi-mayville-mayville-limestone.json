@@ -1,0 +1,41 @@
+{
+  "id": "wi-mayville-mayville-limestone",
+  "slug": "mayville-limestone",
+  "name": "Mayville Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mayville",
+    "state": "WI",
+    "zip": "53050"
+  },
+  "location": {
+    "lat": 43.532141,
+    "lng": -88.537196
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4700114"
+  },
+  "msha": [
+    {
+      "mine_id": "4700114",
+      "name": "Mayville Limestone, Inc.",
+      "operator": "Mayville Limestone Inc",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

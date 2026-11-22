@@ -1,0 +1,36 @@
+{
+  "id": "oh-lancaster-wright-landscape-supply-and-marketplace",
+  "slug": "wright-landscape-supply-and-marketplace",
+  "name": "Wright Landscape Supply and Marketplace",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4333 Westfall Rd SW",
+    "city": "Lancaster",
+    "state": "OH",
+    "zip": "43130"
+  },
+  "location": {
+    "lat": 39.685837,
+    "lng": -82.68325
+  },
+  "contact": {
+    "phone": "(740) 653-3447",
+    "website": "http://www.WrightLandscapeSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59af4394-56d7-41db-99d5-35bb70a37f12",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

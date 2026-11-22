@@ -1,0 +1,35 @@
+{
+  "id": "al-munford-jackie-s-landscape-supply",
+  "slug": "jackie-s-landscape-supply",
+  "name": "Jackie's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "42655 AL-21",
+    "city": "Munford",
+    "state": "AL",
+    "zip": "36268"
+  },
+  "location": {
+    "lat": 33.520905,
+    "lng": -85.967323
+  },
+  "contact": {
+    "phone": "(256) 733-7015"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ae7654b3-9ae4-493c-83a6-2992d6da357c",
+    "confidence": 0.624,
+    "merged_records": 1
+  }
+}

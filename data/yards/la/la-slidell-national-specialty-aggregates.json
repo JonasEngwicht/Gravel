@@ -1,0 +1,35 @@
+{
+  "id": "la-slidell-national-specialty-aggregates",
+  "slug": "national-specialty-aggregates",
+  "name": "National Specialty Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "37210 Ben Thomas Rd",
+    "city": "Slidell",
+    "state": "LA",
+    "zip": "70460"
+  },
+  "location": {
+    "lat": 30.302874,
+    "lng": -89.781776
+  },
+  "contact": {
+    "phone": "(985) 726-9986"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a544d449-9725-4ac9-8d5c-3255b1e1e4fd",
+    "confidence": 0.98,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sc-florence-parker-lawn-and-landscape-supply",
+  "slug": "parker-lawn-and-landscape-supply",
+  "name": "Parker Lawn and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "345 S Ebenezer Rd",
+    "city": "Florence",
+    "state": "SC",
+    "zip": "29501"
+  },
+  "location": {
+    "lat": 34.185467,
+    "lng": -79.852814
+  },
+  "contact": {
+    "phone": "(843) 319-5812"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc908178-54d9-4459-9030-31fa8a6e77b1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

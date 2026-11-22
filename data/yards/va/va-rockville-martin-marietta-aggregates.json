@@ -1,0 +1,49 @@
+{
+  "id": "va-rockville-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "1940 Ashland Rd",
+    "city": "Rockville",
+    "state": "VA",
+    "zip": "23146"
+  },
+  "location": {
+    "lat": 37.688229,
+    "lng": -77.675468
+  },
+  "contact": {
+    "phone": "(804) 749-4831",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "899e16a5-3492-41c7-b969-97b00e330e4b",
+    "confidence": 0.866,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4402963",
+      "name": "Anderson Creek Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1990-08-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

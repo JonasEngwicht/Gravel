@@ -1,0 +1,36 @@
+{
+  "id": "ca-escondido-san-diego-landscape-supply",
+  "slug": "san-diego-landscape-supply",
+  "name": "San Diego Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "31318 Old Hwy 395",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92026"
+  },
+  "location": {
+    "lat": 33.27668,
+    "lng": -117.151878
+  },
+  "contact": {
+    "phone": "(619) 748-2026",
+    "website": "http://www.sdlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c209f891-4321-4866-971a-4842cedc0158",
+    "confidence": 0.834,
+    "merged_records": 1
+  }
+}

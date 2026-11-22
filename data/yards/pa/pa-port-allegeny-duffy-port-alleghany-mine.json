@@ -1,0 +1,41 @@
+{
+  "id": "pa-port-allegeny-duffy-port-alleghany-mine",
+  "slug": "duffy-port-alleghany-mine",
+  "name": "Duffy – Port Alleghany Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Port Allegeny",
+    "state": "PA",
+    "zip": "16746"
+  },
+  "location": {
+    "lat": 41.781944,
+    "lng": -78.1475
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609172"
+  },
+  "msha": [
+    {
+      "mine_id": "3609172",
+      "name": "Port Alleghany Mine",
+      "operator": "Duffy Inc",
+      "status": "Intermittent",
+      "status_since": "2025-04-24",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

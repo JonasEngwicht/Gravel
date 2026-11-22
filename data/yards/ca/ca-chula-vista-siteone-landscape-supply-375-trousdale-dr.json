@@ -1,0 +1,37 @@
+{
+  "id": "ca-chula-vista-siteone-landscape-supply-375-trousdale-dr",
+  "slug": "siteone-landscape-supply-375-trousdale-dr",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "375 Trousdale Dr",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91910"
+  },
+  "location": {
+    "lat": 32.654247,
+    "lng": -117.088188
+  },
+  "contact": {
+    "phone": "(619) 691-9700",
+    "website": "https://www.siteone.com/store/127"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7be6ab3-e2a5-4e8e-9f81-84b2c5e1a72c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

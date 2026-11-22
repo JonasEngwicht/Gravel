@@ -1,0 +1,69 @@
+{
+  "id": "pa-mill-hall-hanson-aggregates-pennsylvania",
+  "slug": "hanson-aggregates-pennsylvania",
+  "name": "Hanson Aggregates Pennsylvania",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "20 Quarry Rd",
+    "city": "Mill Hall",
+    "state": "PA",
+    "zip": "17751"
+  },
+  "location": {
+    "lat": 41.085487,
+    "lng": -77.469292
+  },
+  "contact": {
+    "phone": "(570) 726-4511",
+    "website": "http://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f1bd6cf-5720-4c97-b6b7-aff5246c2858",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3600137",
+      "name": "Salona Plant",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Active",
+      "status_since": "2022-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 13
+    },
+    {
+      "mine_id": "3610388",
+      "name": "Metso Loko Track Lt1213 Sn79854",
+      "operator": "Siri Contracting, LLC",
+      "status": "Intermittent",
+      "status_since": "2022-05-03",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    },
+    {
+      "mine_id": "3610454",
+      "name": "METSO LT120 s/n 182266",
+      "operator": "Siri Contracting Llc",
+      "status": "Intermittent",
+      "status_since": "2024-09-24",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-grovetown-sample-and-son",
+  "slug": "sample-and-son",
+  "name": "Sample & Son",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Grovetown",
+    "state": "GA",
+    "zip": "30813"
+  },
+  "location": {
+    "lat": 33.523888,
+    "lng": -82.261388
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901209"
+  },
+  "msha": [
+    {
+      "mine_id": "0901209",
+      "name": "Sample",
+      "operator": "Sample & Son Inc",
+      "status": "Intermittent",
+      "status_since": "2012-10-02",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

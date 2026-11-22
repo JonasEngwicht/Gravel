@@ -1,0 +1,35 @@
+{
+  "id": "nc-norlina-the-mulch-masters-nc",
+  "slug": "the-mulch-masters-nc",
+  "name": "The Mulch Masters Nc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "155 Collins Rd",
+    "city": "Norlina",
+    "state": "NC",
+    "zip": "27563"
+  },
+  "location": {
+    "lat": 36.425102,
+    "lng": -78.257736
+  },
+  "contact": {
+    "phone": "(252) 456-2019"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d81d1c78-0c69-4e1f-901b-6d1405adb4ab",
+    "confidence": 0.582,
+    "merged_records": 1
+  }
+}

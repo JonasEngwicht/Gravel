@@ -1,0 +1,41 @@
+{
+  "id": "tx-kermit-atlas-sand-kermit-south-plant",
+  "slug": "atlas-sand-kermit-south-plant",
+  "name": "Atlas Sand Kermit South Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Kermit",
+    "state": "TX",
+    "zip": "79745"
+  },
+  "location": {
+    "lat": 31.810833,
+    "lng": -103.073056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105359"
+  },
+  "msha": [
+    {
+      "mine_id": "4105359",
+      "name": "Atlas Sand Kermit South Plant",
+      "operator": "Atlas Sand Company, LLC",
+      "status": "Active",
+      "status_since": "2018-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 100
+    }
+  ]
+}

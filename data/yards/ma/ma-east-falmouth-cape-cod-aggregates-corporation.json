@@ -1,0 +1,48 @@
+{
+  "id": "ma-east-falmouth-cape-cod-aggregates-corporation",
+  "slug": "cape-cod-aggregates-corporation",
+  "name": "Cape Cod Aggregates Corporation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "440 Thomas B Landers Rd",
+    "city": "East Falmouth",
+    "state": "MA",
+    "zip": "02536"
+  },
+  "location": {
+    "lat": 41.612457,
+    "lng": -70.597244
+  },
+  "contact": {
+    "phone": "(508) 548-2756",
+    "website": "http://www.capecodagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fbc041dc-7db0-45b2-85b0-ffc1d9ae3236",
+    "confidence": 0.704,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900557",
+      "name": "Falmouth Plant",
+      "operator": "Cape Cod Aggregates Corp",
+      "status": "Active",
+      "status_since": "2020-03-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fl-citrus-crystal-river-quarries-maylen-mine",
+  "slug": "crystal-river-quarries-maylen-mine",
+  "name": "Crystal River Quarries – Maylen Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Citrus",
+    "state": "FL",
+    "zip": "34465"
+  },
+  "location": {
+    "lat": 28.870556,
+    "lng": -82.5025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0800760"
+  },
+  "msha": [
+    {
+      "mine_id": "0800760",
+      "name": "Maylen Mine",
+      "operator": "Crystal River Quarries Inc",
+      "status": "Active",
+      "status_since": "2017-10-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

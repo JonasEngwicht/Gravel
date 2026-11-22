@@ -1,0 +1,41 @@
+{
+  "id": "mn-detroit-lakes-strata-detroit-lakes-plant",
+  "slug": "strata-detroit-lakes-plant",
+  "name": "Strata – Detroit Lakes Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Detroit Lakes",
+    "state": "MN",
+    "zip": "56501"
+  },
+  "location": {
+    "lat": 46.796885,
+    "lng": -95.920269
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103107"
+  },
+  "msha": [
+    {
+      "mine_id": "2103107",
+      "name": "Detroit Lakes Plant",
+      "operator": "Strata Corporation",
+      "status": "Intermittent",
+      "status_since": "2001-05-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

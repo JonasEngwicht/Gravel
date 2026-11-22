@@ -1,0 +1,48 @@
+{
+  "id": "de-seaford-chaney-enterprises-seaford-de-sand-and-gravel",
+  "slug": "chaney-enterprises-seaford-de-sand-and-gravel",
+  "name": "Chaney Enterprises - Seaford, DE Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "22223 Eskridge Rd (Rd 531)",
+    "city": "Seaford",
+    "state": "DE",
+    "zip": "19973"
+  },
+  "location": {
+    "lat": 38.683132,
+    "lng": -75.565895
+  },
+  "contact": {
+    "phone": "(301) 932-5000",
+    "website": "https://www.chaneyenterprises.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bffb98c3-023a-4c4d-92a0-00ce88d99141",
+    "confidence": 0.905,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0700108",
+      "name": "Seaford-De Sand & Gravel",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Active",
+      "status_since": "2013-05-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

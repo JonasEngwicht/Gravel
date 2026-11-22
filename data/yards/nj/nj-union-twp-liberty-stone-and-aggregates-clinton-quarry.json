@@ -1,0 +1,47 @@
+{
+  "id": "nj-union-twp-liberty-stone-and-aggregates-clinton-quarry",
+  "slug": "liberty-stone-and-aggregates-clinton-quarry",
+  "name": "Liberty Stone and Aggregates Clinton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "5 Frontage Rd",
+    "city": "Union Twp",
+    "state": "NJ",
+    "zip": "08810"
+  },
+  "location": {
+    "lat": 40.63303,
+    "lng": -74.951248
+  },
+  "contact": {
+    "phone": "(908) 323-2326"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "66a6fc37-dbf2-4258-bfee-e4a8f909cdcc",
+    "confidence": 0.99,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2801047",
+      "name": "Liberty Stone & Aggregates-Clinton",
+      "operator": "Liberty Stone & Aggregates-Clinton Quarry",
+      "status": "Temporarily Idled",
+      "status_since": "2026-09-14",
+      "commodity": "Crushed, Broken Slate",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

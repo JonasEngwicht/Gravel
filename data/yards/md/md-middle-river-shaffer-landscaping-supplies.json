@@ -1,0 +1,36 @@
+{
+  "id": "md-middle-river-shaffer-landscaping-supplies",
+  "slug": "shaffer-landscaping-supplies",
+  "name": "Shaffer Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6815 Ebenezer Rd",
+    "city": "Middle River",
+    "state": "MD",
+    "zip": "21220"
+  },
+  "location": {
+    "lat": 39.360889,
+    "lng": -76.377151
+  },
+  "contact": {
+    "phone": "(443) 288-1414",
+    "website": "http://Www.shafferlandscapingsupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cdddfbbe-21c7-421c-807a-d493e7d4b8a3",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

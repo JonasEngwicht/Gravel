@@ -1,0 +1,37 @@
+{
+  "id": "il-downers-grove-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5379 Walnut Ave",
+    "city": "Downers Grove",
+    "state": "IL",
+    "zip": "60515"
+  },
+  "location": {
+    "lat": 41.788094,
+    "lng": -88.051254
+  },
+  "contact": {
+    "phone": "(630) 515-8555",
+    "website": "https://www.siteone.com/store/14"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e2336a9b-82d1-4982-93c4-a8ba43f0c963",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

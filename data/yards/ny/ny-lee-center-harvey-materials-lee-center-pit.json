@@ -1,0 +1,41 @@
+{
+  "id": "ny-lee-center-harvey-materials-lee-center-pit",
+  "slug": "harvey-materials-lee-center-pit",
+  "name": "Harvey Materials – Lee Center Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lee Center",
+    "state": "NY",
+    "zip": "13363"
+  },
+  "location": {
+    "lat": 43.295833,
+    "lng": -75.561111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003413"
+  },
+  "msha": [
+    {
+      "mine_id": "3003413",
+      "name": "Lee Center Pit",
+      "operator": "Harvey Materials Corp",
+      "status": "Intermittent",
+      "status_since": "2026-02-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

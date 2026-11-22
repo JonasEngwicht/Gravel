@@ -1,0 +1,36 @@
+{
+  "id": "va-christiansburg-american-mulch-and-more",
+  "slug": "american-mulch-and-more",
+  "name": "American Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "505 College St",
+    "city": "Christiansburg",
+    "state": "VA",
+    "zip": "24073"
+  },
+  "location": {
+    "lat": 37.126427,
+    "lng": -80.415802
+  },
+  "contact": {
+    "phone": "(540) 381-7830",
+    "website": "https://americanmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cbb08be0-9155-499d-a738-4dc587187e8e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

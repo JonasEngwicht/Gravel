@@ -1,0 +1,37 @@
+{
+  "id": "ok-tulsa-siteone-landscape-supply-10825-e-55th-pl",
+  "slug": "siteone-landscape-supply-10825-e-55th-pl",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10825 E 55th Pl",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74146"
+  },
+  "location": {
+    "lat": 36.08379,
+    "lng": -95.855972
+  },
+  "contact": {
+    "phone": "(918) 665-6811",
+    "website": "https://www.siteone.com/store/567"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "efffa513-f7a4-4a2b-868c-ff9883cba608",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

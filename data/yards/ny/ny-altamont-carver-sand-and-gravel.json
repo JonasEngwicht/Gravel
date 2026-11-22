@@ -1,0 +1,36 @@
+{
+  "id": "ny-altamont-carver-sand-and-gravel",
+  "slug": "carver-sand-and-gravel",
+  "name": "Carver Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "494 Western Tpke",
+    "city": "Altamont",
+    "state": "NY",
+    "zip": "12009"
+  },
+  "location": {
+    "lat": 42.749817,
+    "lng": -74.04496
+  },
+  "contact": {
+    "phone": "(518) 355-0505",
+    "website": "http://carverconstruction.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d466f0b-2fd8-490c-95e1-16e5ded63763",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

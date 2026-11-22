@@ -1,0 +1,41 @@
+{
+  "id": "pa-elizabethville-new-enterprise-stone-and-lime-co-elizabethville-quarry",
+  "slug": "new-enterprise-stone-and-lime-co-elizabethville-quarry",
+  "name": "New Enterprise Stone & Lime Co – Elizabethville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Elizabethville",
+    "state": "PA",
+    "zip": "17080"
+  },
+  "location": {
+    "lat": 40.622222,
+    "lng": -76.798889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600077"
+  },
+  "msha": [
+    {
+      "mine_id": "3600077",
+      "name": "Elizabethville Quarry",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Active",
+      "status_since": "2021-04-26",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

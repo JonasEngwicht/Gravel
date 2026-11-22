@@ -1,0 +1,36 @@
+{
+  "id": "fl-jacksonville-mulch-manufacturing-inc",
+  "slug": "mulch-manufacturing-inc",
+  "name": "Mulch Manufacturing Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "108 Copeland St",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32204"
+  },
+  "location": {
+    "lat": 30.329468,
+    "lng": -81.685349
+  },
+  "contact": {
+    "phone": "(904) 356-4001",
+    "website": "http://mulchmanufacturing.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cefdb1ff-e3c9-431b-b9ab-c130693a80f5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

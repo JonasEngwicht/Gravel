@@ -1,0 +1,37 @@
+{
+  "id": "nc-charlotte-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "11319 Granite Street, Suite A",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28273"
+  },
+  "location": {
+    "lat": 35.115326,
+    "lng": -80.928383
+  },
+  "contact": {
+    "phone": "(704) 228-7808",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/FISPINE/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79889391-b628-4f1b-9a7a-bee64f27f320",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

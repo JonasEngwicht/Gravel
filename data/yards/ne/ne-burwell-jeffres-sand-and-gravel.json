@@ -1,0 +1,36 @@
+{
+  "id": "ne-burwell-jeffres-sand-and-gravel",
+  "slug": "jeffres-sand-and-gravel",
+  "name": "Jeffres Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "82428 Jeffres Ln",
+    "city": "Burwell",
+    "state": "NE",
+    "zip": "68823"
+  },
+  "location": {
+    "lat": 41.772446,
+    "lng": -99.125069
+  },
+  "contact": {
+    "phone": "(308) 346-5123",
+    "website": "http://www.jeffres.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "500a646e-4117-4022-9df6-cb7f014564d9",
+    "confidence": 0.98,
+    "merged_records": 1
+  }
+}

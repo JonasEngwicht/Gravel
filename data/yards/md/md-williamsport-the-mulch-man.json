@@ -1,0 +1,36 @@
+{
+  "id": "md-williamsport-the-mulch-man",
+  "slug": "the-mulch-man",
+  "name": "The Mulch Man",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "16635 Industrial Ln",
+    "city": "Williamsport",
+    "state": "MD",
+    "zip": "21795"
+  },
+  "location": {
+    "lat": 39.599873,
+    "lng": -77.793091
+  },
+  "contact": {
+    "phone": "(301) 582-4188",
+    "website": "https://themulchman.com/index.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41249ea2-c6ea-4a61-962b-02c25e638e9c",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

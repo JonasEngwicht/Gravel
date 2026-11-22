@@ -1,0 +1,41 @@
+{
+  "id": "al-madison-vulcan-construction-materials-redstone-quarry",
+  "slug": "vulcan-construction-materials-redstone-quarry",
+  "name": "Vulcan Construction Materials – Redstone Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Madison",
+    "state": "AL",
+    "zip": "35802"
+  },
+  "location": {
+    "lat": 34.671667,
+    "lng": -86.592778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103542"
+  },
+  "msha": [
+    {
+      "mine_id": "0103542",
+      "name": "Redstone Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2020-08-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

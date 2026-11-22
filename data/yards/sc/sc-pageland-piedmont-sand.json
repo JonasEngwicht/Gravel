@@ -1,0 +1,41 @@
+{
+  "id": "sc-pageland-piedmont-sand",
+  "slug": "piedmont-sand",
+  "name": "Piedmont Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Pageland",
+    "state": "SC",
+    "zip": "29728"
+  },
+  "location": {
+    "lat": 34.766389,
+    "lng": -80.320833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800667"
+  },
+  "msha": [
+    {
+      "mine_id": "3800667",
+      "name": "Piedmont Sand",
+      "operator": "Piedmont Sand Co",
+      "status": "Active",
+      "status_since": "1994-11-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

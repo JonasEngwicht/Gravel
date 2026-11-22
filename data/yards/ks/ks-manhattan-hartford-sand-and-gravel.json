@@ -1,0 +1,48 @@
+{
+  "id": "ks-manhattan-hartford-sand-and-gravel",
+  "slug": "hartford-sand-and-gravel",
+  "name": "Hartford Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1019 McDowell Creek Rd",
+    "city": "Manhattan",
+    "state": "KS",
+    "zip": "66505"
+  },
+  "location": {
+    "lat": 39.154377,
+    "lng": -96.562256
+  },
+  "contact": {
+    "phone": "(785) 477-9801",
+    "website": "http://hartfordsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3beb36c4-62f9-4b75-815e-25dd12e31fee",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1401762",
+      "name": "Hartford Pit",
+      "operator": "Hartford Sand & Gravel",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

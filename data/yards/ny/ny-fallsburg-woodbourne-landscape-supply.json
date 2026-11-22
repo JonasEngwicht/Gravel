@@ -1,0 +1,36 @@
+{
+  "id": "ny-fallsburg-woodbourne-landscape-supply",
+  "slug": "woodbourne-landscape-supply",
+  "name": "Woodbourne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5858 NY-42",
+    "city": "Fallsburg",
+    "state": "NY",
+    "zip": "12788"
+  },
+  "location": {
+    "lat": 41.74263,
+    "lng": -74.600136
+  },
+  "contact": {
+    "phone": "(845) 434-6690",
+    "website": "http://www.woodbournelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "648abee1-76cb-4a07-a01e-00114639cd2d",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

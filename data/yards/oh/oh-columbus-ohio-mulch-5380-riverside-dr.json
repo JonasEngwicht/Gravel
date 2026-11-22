@@ -1,0 +1,37 @@
+{
+  "id": "oh-columbus-ohio-mulch-5380-riverside-dr",
+  "slug": "ohio-mulch-5380-riverside-dr",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "5380 Riverside Dr",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43220"
+  },
+  "location": {
+    "lat": 40.068569,
+    "lng": -83.103653
+  },
+  "contact": {
+    "phone": "(614) 764-0712",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b52f3a44-b9a8-4ea6-a29a-c7c60ea48619",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

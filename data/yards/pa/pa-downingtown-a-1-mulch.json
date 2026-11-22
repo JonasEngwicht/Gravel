@@ -1,0 +1,36 @@
+{
+  "id": "pa-downingtown-a-1-mulch",
+  "slug": "a-1-mulch",
+  "name": "A-1 MULCH",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4604 Edges Mill Rd",
+    "city": "Downingtown",
+    "state": "PA",
+    "zip": "19335"
+  },
+  "location": {
+    "lat": 40.011242,
+    "lng": -75.732971
+  },
+  "contact": {
+    "phone": "(610) 269-7022",
+    "website": "http://www.a1mulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6dbfdfc8-5520-43ef-ba32-e5158633c2b7",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

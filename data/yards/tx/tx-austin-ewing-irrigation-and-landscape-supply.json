@@ -1,0 +1,37 @@
+{
+  "id": "tx-austin-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "9000 S Congress Ave",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78745"
+  },
+  "location": {
+    "lat": 30.168123,
+    "lng": -97.788506
+  },
+  "contact": {
+    "phone": "(512) 712-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b73f176d-be4e-4fa6-8a8e-c82502728eed",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

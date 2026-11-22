@@ -1,0 +1,41 @@
+{
+  "id": "il-rochelle-macklin-materials-of-illinois",
+  "slug": "macklin-materials-of-illinois",
+  "name": "Macklin Materials of Illinois",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Rochelle",
+    "state": "IL",
+    "zip": "61068"
+  },
+  "location": {
+    "lat": 41.933056,
+    "lng": -89.034444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1101661"
+  },
+  "msha": [
+    {
+      "mine_id": "1101661",
+      "name": "Macklin Plant #1",
+      "operator": "Macklin Materials of Illinois, LLC",
+      "status": "Active",
+      "status_since": "2013-01-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

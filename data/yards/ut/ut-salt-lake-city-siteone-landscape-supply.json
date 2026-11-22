@@ -1,0 +1,37 @@
+{
+  "id": "ut-salt-lake-city-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5395 W 1520 S",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84104"
+  },
+  "location": {
+    "lat": 40.736973,
+    "lng": -112.01992
+  },
+  "contact": {
+    "phone": "(801) 886-2786",
+    "website": "https://www.siteone.com/store/895"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e95ece0-4410-4a6b-bd6f-fa809a66a7c7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mn-pequot-lakes-abears-pequot-sand-and-gravel",
+  "slug": "abears-pequot-sand-and-gravel",
+  "name": "Abears Pequot Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6110 County Road 16",
+    "city": "Pequot Lakes",
+    "state": "MN",
+    "zip": "56472"
+  },
+  "location": {
+    "lat": 46.648693,
+    "lng": -94.275566
+  },
+  "contact": {
+    "phone": "(218) 568-4690"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7deafe8-9635-47c1-9bcc-a3be444fc020",
+    "confidence": 0.797,
+    "merged_records": 1
+  }
+}

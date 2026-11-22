@@ -1,0 +1,41 @@
+{
+  "id": "il-prairie-du-rocher-bluff-city-minerals-mississippi-lime-co-prairie-du-rocher",
+  "slug": "bluff-city-minerals-mississippi-lime-co-prairie-du-rocher",
+  "name": "Bluff City Minerals – Mississippi Lime Co-Prairie du Rocher",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Prairie du Rocher",
+    "state": "IL",
+    "zip": "62277"
+  },
+  "location": {
+    "lat": 38.099722,
+    "lng": -90.111111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103236"
+  },
+  "msha": [
+    {
+      "mine_id": "1103236",
+      "name": "Mississippi Lime Co-Prairie du Rocher",
+      "operator": "Bluff City Minerals, LLC",
+      "status": "Active",
+      "status_since": "2013-11-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

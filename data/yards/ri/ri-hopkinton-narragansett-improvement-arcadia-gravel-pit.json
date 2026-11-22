@@ -1,0 +1,41 @@
+{
+  "id": "ri-hopkinton-narragansett-improvement-arcadia-gravel-pit",
+  "slug": "narragansett-improvement-arcadia-gravel-pit",
+  "name": "Narragansett Improvement – Arcadia Gravel Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hopkinton",
+    "state": "RI",
+    "zip": "02898"
+  },
+  "location": {
+    "lat": 41.539722,
+    "lng": -71.684167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3700220"
+  },
+  "msha": [
+    {
+      "mine_id": "3700220",
+      "name": "Arcadia Gravel Pit",
+      "operator": "Narragansett Improvement Co.",
+      "status": "Intermittent",
+      "status_since": "2013-10-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nd-fargo-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5928 53rd Ave S",
+    "city": "Fargo",
+    "state": "ND",
+    "zip": "58104"
+  },
+  "location": {
+    "lat": 46.836346,
+    "lng": -96.844559
+  },
+  "contact": {
+    "phone": "(701) 281-7034",
+    "website": "https://www.siteone.com/en/store/370"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f85e61cc-74e1-44a4-a6f8-41097b7a19fb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

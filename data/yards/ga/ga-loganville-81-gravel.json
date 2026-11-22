@@ -1,0 +1,36 @@
+{
+  "id": "ga-loganville-81-gravel",
+  "slug": "81-gravel",
+  "name": "81 Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6444 GA-81",
+    "city": "Loganville",
+    "state": "GA",
+    "zip": "30052"
+  },
+  "location": {
+    "lat": 33.88242,
+    "lng": -83.839104
+  },
+  "contact": {
+    "phone": "(404) 725-8515",
+    "website": "http://www.81inertrecycling.com/?fbclid=IwAR37sw5RGuf3gFj1VzIHsiSkrtMkaodhHbtQGOnYgv2K_-gC4lAsfBRV1Fo"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d621479a-f470-4961-8281-c84bc725a600",
+    "confidence": 0.601,
+    "merged_records": 1
+  }
+}

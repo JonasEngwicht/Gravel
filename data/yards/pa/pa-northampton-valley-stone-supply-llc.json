@@ -1,0 +1,36 @@
+{
+  "id": "pa-northampton-valley-stone-supply-llc",
+  "slug": "valley-stone-supply-llc",
+  "name": "Valley Stone Supply LLC",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1001 Nor Bath Blvd",
+    "city": "Northampton",
+    "state": "PA",
+    "zip": "18067"
+  },
+  "location": {
+    "lat": 40.695194,
+    "lng": -75.477829
+  },
+  "contact": {
+    "phone": "(610) 978-5154",
+    "website": "https://www.valleystonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c875db8e-b36c-4d27-9d93-c3f03b0dd07a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-victoria-vulcan-construction-materials-briggs-plant",
+  "slug": "vulcan-construction-materials-briggs-plant",
+  "name": "Vulcan Construction Materials – Briggs Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Victoria",
+    "state": "TX",
+    "zip": "77951"
+  },
+  "location": {
+    "lat": 28.696944,
+    "lng": -96.967778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4101072"
+  },
+  "msha": [
+    {
+      "mine_id": "4101072",
+      "name": "Briggs Plant",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 70
+    }
+  ]
+}

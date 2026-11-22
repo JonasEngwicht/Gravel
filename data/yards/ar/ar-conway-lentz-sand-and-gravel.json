@@ -1,0 +1,48 @@
+{
+  "id": "ar-conway-lentz-sand-and-gravel",
+  "slug": "lentz-sand-and-gravel",
+  "name": "Lentz Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1463 Lollie Rd",
+    "city": "Conway",
+    "state": "AR",
+    "zip": "72034"
+  },
+  "location": {
+    "lat": 35.04995,
+    "lng": -92.534958
+  },
+  "contact": {
+    "phone": "(501) 329-2775",
+    "website": "http://lentzcompanies.com/lentz-sand-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ad9fd52-fabf-4e2e-849b-f9ab6c9b4f2b",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0301823",
+      "name": "Lentz Sand & Gravel LLC",
+      "operator": "Lentz Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2024-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

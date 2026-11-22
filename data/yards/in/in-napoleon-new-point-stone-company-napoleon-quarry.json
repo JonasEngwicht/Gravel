@@ -1,0 +1,41 @@
+{
+  "id": "in-napoleon-new-point-stone-company-napoleon-quarry",
+  "slug": "new-point-stone-company-napoleon-quarry",
+  "name": "New Point Stone Company – Napoleon Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Napoleon",
+    "state": "IN",
+    "zip": "47034"
+  },
+  "location": {
+    "lat": 39.203333,
+    "lng": -85.315278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200089"
+  },
+  "msha": [
+    {
+      "mine_id": "1200089",
+      "name": "Napoleon Quarry",
+      "operator": "New Point Stone Company Inc",
+      "status": "Active",
+      "status_since": "2011-12-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

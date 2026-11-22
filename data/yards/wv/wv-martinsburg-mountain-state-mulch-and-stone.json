@@ -1,0 +1,35 @@
+{
+  "id": "wv-martinsburg-mountain-state-mulch-and-stone",
+  "slug": "mountain-state-mulch-and-stone",
+  "name": "Mountain State Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3364 Williamsport Pike",
+    "city": "Martinsburg",
+    "state": "WV",
+    "zip": "25404"
+  },
+  "location": {
+    "lat": 39.517567,
+    "lng": -77.927193
+  },
+  "contact": {
+    "phone": "(304) 582-1970"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81f9223e-fffe-4d47-b15d-1a8a17caf668",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

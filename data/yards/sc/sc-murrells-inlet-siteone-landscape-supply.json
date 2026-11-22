@@ -1,0 +1,37 @@
+{
+  "id": "sc-murrells-inlet-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1100 Burgess Rd",
+    "city": "Murrells Inlet",
+    "state": "SC",
+    "zip": "29576"
+  },
+  "location": {
+    "lat": 33.569904,
+    "lng": -79.035561
+  },
+  "contact": {
+    "phone": "(843) 651-0569",
+    "website": "https://www.siteone.com/en/store/665"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97e1e0e9-e3fc-480f-940e-789101bba0df",
+    "confidence": 0.966,
+    "merged_records": 2
+  }
+}

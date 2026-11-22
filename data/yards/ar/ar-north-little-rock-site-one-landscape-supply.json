@@ -1,0 +1,36 @@
+{
+  "id": "ar-north-little-rock-site-one-landscape-supply",
+  "slug": "site-one-landscape-supply",
+  "name": "Site One Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9 Maumelle Curve Ct",
+    "city": "North Little Rock",
+    "state": "AR",
+    "zip": "72113"
+  },
+  "location": {
+    "lat": 34.825855,
+    "lng": -92.375618
+  },
+  "contact": {
+    "phone": "(501) 791-3484",
+    "website": "https://www.siteone.com/store/572"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc11eac5-5507-423e-9765-c00844e7fd88",
+    "confidence": 0.825,
+    "merged_records": 1
+  }
+}

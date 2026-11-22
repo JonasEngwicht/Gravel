@@ -1,0 +1,41 @@
+{
+  "id": "tx-benchley-texagg",
+  "slug": "texagg",
+  "name": "Texagg",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Benchley",
+    "state": "TX",
+    "zip": "77867"
+  },
+  "location": {
+    "lat": 30.749722,
+    "lng": -96.510278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105685"
+  },
+  "msha": [
+    {
+      "mine_id": "4105685",
+      "name": "Texagg, LLC",
+      "operator": "Texagg, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-12-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

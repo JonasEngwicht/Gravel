@@ -1,0 +1,37 @@
+{
+  "id": "ca-fresno-martin-marietta-central-valley-aggregates-and-asphalt-district-office",
+  "slug": "martin-marietta-central-valley-aggregates-and-asphalt-district-office",
+  "name": "Martin Marietta - Central Valley Aggregates And Asphalt District Office",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "114 E Shaw Ave  Ste 100",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93710"
+  },
+  "location": {
+    "lat": 36.809319,
+    "lng": -119.787941
+  },
+  "contact": {
+    "phone": "(559) 277-7060",
+    "website": "https://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1c516bb-0119-4580-9f20-757d8d4c0b1c",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

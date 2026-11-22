@@ -1,0 +1,35 @@
+{
+  "id": "mi-farmington-hills-loeffler-s-stone-center",
+  "slug": "loeffler-s-stone-center",
+  "name": "Loeffler's Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "32730 Northwestern Hwy",
+    "city": "Farmington Hills",
+    "state": "MI",
+    "zip": "48334"
+  },
+  "location": {
+    "lat": 42.527,
+    "lng": -83.353607
+  },
+  "contact": {
+    "phone": "(248) 626-4048"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "611a3609-c759-49c9-8819-1786679b39a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

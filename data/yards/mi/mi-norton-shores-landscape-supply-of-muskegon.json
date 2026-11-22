@@ -1,0 +1,36 @@
+{
+  "id": "mi-norton-shores-landscape-supply-of-muskegon",
+  "slug": "landscape-supply-of-muskegon",
+  "name": "Landscape Supply Of Muskegon",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3770 Airline Rd",
+    "city": "Norton Shores",
+    "state": "MI",
+    "zip": "49444"
+  },
+  "location": {
+    "lat": 43.183941,
+    "lng": -86.221695
+  },
+  "contact": {
+    "phone": "(800) 632-0318",
+    "website": "https://www.landscapesupplymuskegon.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d17d9606-9984-4862-9c20-868c5719ac68",
+    "confidence": 0.941,
+    "merged_records": 1
+  }
+}

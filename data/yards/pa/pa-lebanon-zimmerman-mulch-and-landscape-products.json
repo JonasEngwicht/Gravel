@@ -1,0 +1,36 @@
+{
+  "id": "pa-lebanon-zimmerman-mulch-and-landscape-products",
+  "slug": "zimmerman-mulch-and-landscape-products",
+  "name": "Zimmerman Mulch & Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "75 E Kercher Ave",
+    "city": "Lebanon",
+    "state": "PA",
+    "zip": "17046"
+  },
+  "location": {
+    "lat": 40.380634,
+    "lng": -76.410294
+  },
+  "contact": {
+    "phone": "(717) 273-7568",
+    "website": "http://www.zimmermanmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62ba50f4-f7fb-4f84-8189-ccbf49c46b1b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ok-owasso-green-acre-sod-and-landscape-center",
+  "slug": "green-acre-sod-and-landscape-center",
+  "name": "Green Acre Sod and Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6501 N 115th East Ave",
+    "city": "Owasso",
+    "state": "OK",
+    "zip": "74055"
+  },
+  "location": {
+    "lat": 36.246994,
+    "lng": -95.846115
+  },
+  "contact": {
+    "phone": "(918) 274-9100",
+    "website": "http://www.greenacresodfarm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7b91bc0-cc05-455b-a326-67de3bbfd773",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

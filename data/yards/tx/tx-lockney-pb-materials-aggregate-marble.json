@@ -1,0 +1,36 @@
+{
+  "id": "tx-lockney-pb-materials-aggregate-marble",
+  "slug": "pb-materials-aggregate-marble",
+  "name": "PB Materials Aggregate - Marble",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1200 Farm to Market 97",
+    "city": "Lockney",
+    "state": "TX",
+    "zip": "79241"
+  },
+  "location": {
+    "lat": 34.124611,
+    "lng": -101.427406
+  },
+  "contact": {
+    "phone": "(432) 208-6047",
+    "website": "https://pb-materials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0620a075-bc8c-4525-ac04-33464039e0cd",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

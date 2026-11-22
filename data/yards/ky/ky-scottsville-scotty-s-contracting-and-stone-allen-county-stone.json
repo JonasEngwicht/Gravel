@@ -1,0 +1,41 @@
+{
+  "id": "ky-scottsville-scotty-s-contracting-and-stone-allen-county-stone",
+  "slug": "scotty-s-contracting-and-stone-allen-county-stone",
+  "name": "Scotty's Contracting & Stone – Allen County Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Scottsville",
+    "state": "KY",
+    "zip": "42120"
+  },
+  "location": {
+    "lat": 36.752778,
+    "lng": -86.283889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500063"
+  },
+  "msha": [
+    {
+      "mine_id": "1500063",
+      "name": "Allen County Stone",
+      "operator": "Scotty's Contracting & Stone, LLC",
+      "status": "Active",
+      "status_since": "2016-05-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

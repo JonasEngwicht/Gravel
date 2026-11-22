@@ -1,0 +1,41 @@
+{
+  "id": "md-perryville-york-building-products-co-belvedere-plant",
+  "slug": "york-building-products-co-belvedere-plant",
+  "name": "York Building Products Co – Belvedere Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Perryville",
+    "state": "MD",
+    "zip": "21903"
+  },
+  "location": {
+    "lat": 39.584722,
+    "lng": -76.020833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1800328"
+  },
+  "msha": [
+    {
+      "mine_id": "1800328",
+      "name": "Belvedere Plant",
+      "operator": "York Building Products Co Inc",
+      "status": "Active",
+      "status_since": "1976-03-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 28
+    }
+  ]
+}

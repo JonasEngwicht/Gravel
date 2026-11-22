@@ -1,0 +1,41 @@
+{
+  "id": "pa-latrobe-ligonier-st-and-lm-co-dba-derry-stn-and-lime",
+  "slug": "ligonier-st-and-lm-co-dba-derry-stn-and-lime",
+  "name": "Ligonier St & Lm Co Dba Derry Stn & Lime",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Latrobe",
+    "state": "PA",
+    "zip": "15627"
+  },
+  "location": {
+    "lat": 40.385833,
+    "lng": -79.274722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608898"
+  },
+  "msha": [
+    {
+      "mine_id": "3608898",
+      "name": "Ligonier St & Lm Co Dba Derry Stn & Lime",
+      "operator": "Derry Stone & Lime Company",
+      "status": "Active",
+      "status_since": "2001-01-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

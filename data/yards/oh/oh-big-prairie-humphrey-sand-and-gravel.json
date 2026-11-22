@@ -1,0 +1,48 @@
+{
+  "id": "oh-big-prairie-humphrey-sand-and-gravel",
+  "slug": "humphrey-sand-and-gravel",
+  "name": "Humphrey Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12990 OH-226",
+    "city": "Big Prairie",
+    "state": "OH",
+    "zip": "44611"
+  },
+  "location": {
+    "lat": 40.667782,
+    "lng": -82.087341
+  },
+  "contact": {
+    "phone": "(419) 994-1001",
+    "website": "http://humphreysandandgravel.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b00e020-d9c3-4508-98ba-f9d038b0b2e8",
+    "confidence": 0.656,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304747",
+      "name": "Humphrey Sand and Gravel LLC",
+      "operator": "Humphrey Sand and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2026-08-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

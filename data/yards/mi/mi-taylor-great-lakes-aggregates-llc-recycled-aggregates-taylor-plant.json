@@ -1,0 +1,36 @@
+{
+  "id": "mi-taylor-great-lakes-aggregates-llc-recycled-aggregates-taylor-plant",
+  "slug": "great-lakes-aggregates-llc-recycled-aggregates-taylor-plant",
+  "name": "Great Lakes Aggregates, Llc - Recycled Aggregates Taylor Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6873 Inkster Rd",
+    "city": "Taylor",
+    "state": "MI",
+    "zip": "48180"
+  },
+  "location": {
+    "lat": 42.25642,
+    "lng": -83.307297
+  },
+  "contact": {
+    "phone": "(248) 244-3464",
+    "website": "https://www.greatlakesagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd84e6c2-c44e-4d97-8560-68823c754f25",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

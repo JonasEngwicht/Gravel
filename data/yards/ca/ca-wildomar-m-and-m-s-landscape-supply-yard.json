@@ -1,0 +1,36 @@
+{
+  "id": "ca-wildomar-m-and-m-s-landscape-supply-yard",
+  "slug": "m-and-m-s-landscape-supply-yard",
+  "name": "M & M's Landscape Supply Yard",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "31705 Central Street Ste C",
+    "city": "Wildomar",
+    "state": "CA",
+    "zip": "92595"
+  },
+  "location": {
+    "lat": 33.610615,
+    "lng": -117.267616
+  },
+  "contact": {
+    "phone": "(951) 609-3194",
+    "website": "https://mmlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a7b5500a-6978-4889-96dc-8e4da9ad536a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

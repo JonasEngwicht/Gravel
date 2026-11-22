@@ -1,0 +1,35 @@
+{
+  "id": "tx-onalaska-old-town-rock-n-mulch",
+  "slug": "old-town-rock-n-mulch",
+  "name": "Old Town Rock N' Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14341 US-190",
+    "city": "Onalaska",
+    "state": "TX",
+    "zip": "77360"
+  },
+  "location": {
+    "lat": 30.811506,
+    "lng": -95.113853
+  },
+  "contact": {
+    "phone": "(936) 646-3478"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30682558-7c3f-4fc3-895e-e9717f002d91",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

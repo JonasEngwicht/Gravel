@@ -1,0 +1,36 @@
+{
+  "id": "pa-souderton-mulch-barn-supply",
+  "slug": "mulch-barn-supply",
+  "name": "Mulch Barn Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "60 Schoolhouse Rd",
+    "city": "Souderton",
+    "state": "PA",
+    "zip": "18964"
+  },
+  "location": {
+    "lat": 40.274445,
+    "lng": -75.342506
+  },
+  "contact": {
+    "phone": "(215) 256-8870",
+    "website": "http://www.mulchbarnsupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "01add255-e0d4-4c5c-8f44-8089809f93a0",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

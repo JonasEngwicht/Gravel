@@ -1,0 +1,35 @@
+{
+  "id": "mn-moose-lake-gobel-excavating-and-aggregate-inc",
+  "slug": "gobel-excavating-and-aggregate-inc",
+  "name": "Gobel Excavating & Aggregate Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4189 North Rd",
+    "city": "Moose-Lake",
+    "state": "MN",
+    "zip": "55767"
+  },
+  "location": {
+    "lat": 46.469639,
+    "lng": -92.762108
+  },
+  "contact": {
+    "phone": "(218) 485-4357"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6283502e-5ed3-47d5-a3db-46eb84496905",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

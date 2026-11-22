@@ -1,0 +1,36 @@
+{
+  "id": "nc-greenville-east-carolina-landscaping-supplies-and-services",
+  "slug": "east-carolina-landscaping-supplies-and-services",
+  "name": "East Carolina Landscaping Supplies and Services",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "312 Britt Rd",
+    "city": "Greenville",
+    "state": "NC",
+    "zip": "27858"
+  },
+  "location": {
+    "lat": 35.581936,
+    "lng": -77.291771
+  },
+  "contact": {
+    "phone": "(252) 320-7660",
+    "website": "https://eastcarolinalandscapingsupplies.square.site/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ec5baaf5-0b73-4495-866c-4da17de3c973",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

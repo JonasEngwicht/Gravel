@@ -1,0 +1,36 @@
+{
+  "id": "pa-huntington-twp-eb-mulch-and-soils",
+  "slug": "eb-mulch-and-soils",
+  "name": "EB Mulch & Soils",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "346 White Church Rd",
+    "city": "Huntington Twp",
+    "state": "PA",
+    "zip": "17372"
+  },
+  "location": {
+    "lat": 39.958992,
+    "lng": -77.129707
+  },
+  "contact": {
+    "phone": "(717) 458-5196",
+    "website": "http://www.ebmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "beea4081-150a-462f-bf90-95b7cd7a8543",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mo-scott-city-grays-point-stone-and-materials",
+  "slug": "grays-point-stone-and-materials",
+  "name": "Grays Point Stone & Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Scott City",
+    "state": "MO",
+    "zip": "63758"
+  },
+  "location": {
+    "lat": 37.228611,
+    "lng": -89.581389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302522"
+  },
+  "msha": [
+    {
+      "mine_id": "2302522",
+      "name": "Grays Point Quarry",
+      "operator": "Grays Point Stone & Materials LLC",
+      "status": "Active",
+      "status_since": "2024-03-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

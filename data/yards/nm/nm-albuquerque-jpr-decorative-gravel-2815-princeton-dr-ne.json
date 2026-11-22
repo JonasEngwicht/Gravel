@@ -1,0 +1,35 @@
+{
+  "id": "nm-albuquerque-jpr-decorative-gravel-2815-princeton-dr-ne",
+  "slug": "jpr-decorative-gravel-2815-princeton-dr-ne",
+  "name": "Jpr Decorative Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2815 Princeton Dr NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87107"
+  },
+  "location": {
+    "lat": 35.114128,
+    "lng": -106.621239
+  },
+  "contact": {
+    "website": "https://jprgravelnm.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c010a557-ff90-4a1c-9cca-39f99a123d9d",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

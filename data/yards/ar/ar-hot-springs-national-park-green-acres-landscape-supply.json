@@ -1,0 +1,35 @@
+{
+  "id": "ar-hot-springs-national-park-green-acres-landscape-supply",
+  "slug": "green-acres-landscape-supply",
+  "name": "Green Acres Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1966 Airport Rd",
+    "city": "Hot Springs National Park",
+    "state": "AR",
+    "zip": "71913"
+  },
+  "location": {
+    "lat": 34.457771,
+    "lng": -93.154686
+  },
+  "contact": {
+    "phone": "(501) 760-1160"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff1fb4e1-f292-4334-8ee5-e3a400deaf37",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

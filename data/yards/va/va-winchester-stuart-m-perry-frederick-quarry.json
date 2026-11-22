@@ -1,0 +1,41 @@
+{
+  "id": "va-winchester-stuart-m-perry-frederick-quarry",
+  "slug": "stuart-m-perry-frederick-quarry",
+  "name": "Stuart M Perry – Frederick Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Winchester",
+    "state": "VA",
+    "zip": "22601"
+  },
+  "location": {
+    "lat": 39.189167,
+    "lng": -78.219722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400093"
+  },
+  "msha": [
+    {
+      "mine_id": "4400093",
+      "name": "Frederick Quarry",
+      "operator": "Stuart M Perry Inc",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 28
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-duluth-the-rock-yard-inc",
+  "slug": "the-rock-yard-inc",
+  "name": "The Rock Yard, Inc.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4569 Abbotts Bridge Rd",
+    "city": "Duluth",
+    "state": "GA",
+    "zip": "30097"
+  },
+  "location": {
+    "lat": 34.026505,
+    "lng": -84.167717
+  },
+  "contact": {
+    "phone": "(770) 232-0154",
+    "website": "http://www.therockyardinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b1a0a9ff-a8dd-48d0-b6e8-d931f36a6dd8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

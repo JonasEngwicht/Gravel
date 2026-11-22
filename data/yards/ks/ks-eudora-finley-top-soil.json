@@ -1,0 +1,36 @@
+{
+  "id": "ks-eudora-finley-top-soil",
+  "slug": "finley-top-soil",
+  "name": "Finley Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "38455 W 151st St",
+    "city": "Eudora",
+    "state": "KS",
+    "zip": "66025"
+  },
+  "location": {
+    "lat": 38.851429,
+    "lng": -95.030663
+  },
+  "contact": {
+    "phone": "(913) 882-6763",
+    "website": "https://www.finleytopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f283c100-0932-4ddf-8989-f9fb6a58d9c0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

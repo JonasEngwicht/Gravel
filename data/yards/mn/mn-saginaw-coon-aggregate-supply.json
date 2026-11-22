@@ -1,0 +1,48 @@
+{
+  "id": "mn-saginaw-coon-aggregate-supply",
+  "slug": "coon-aggregate-supply",
+  "name": "Coon Aggregate Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4607 Canosia Rd",
+    "city": "Saginaw",
+    "state": "MN",
+    "zip": "55779"
+  },
+  "location": {
+    "lat": 46.84507,
+    "lng": -92.36557
+  },
+  "contact": {
+    "phone": "(218) 729-7544",
+    "website": "https://coonsaggregatesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd6c28fa-3b0a-4b35-98da-22de39451e28",
+    "confidence": 0.993,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2100693",
+      "name": "Coons Aggregate Supply, LLC",
+      "operator": "Coon's Aggregate Supply, LLC",
+      "status": "Active",
+      "status_since": "2025-10-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

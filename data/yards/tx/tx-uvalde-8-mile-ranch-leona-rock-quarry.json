@@ -1,0 +1,41 @@
+{
+  "id": "tx-uvalde-8-mile-ranch-leona-rock-quarry",
+  "slug": "8-mile-ranch-leona-rock-quarry",
+  "name": "8-Mile Ranch – Leona Rock Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Uvalde",
+    "state": "TX",
+    "zip": "78870"
+  },
+  "location": {
+    "lat": 29.282222,
+    "lng": -99.761667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104099"
+  },
+  "msha": [
+    {
+      "mine_id": "4104099",
+      "name": "Leona Rock Quarry",
+      "operator": "8-Mile Ranch Inc",
+      "status": "Active",
+      "status_since": "1999-08-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

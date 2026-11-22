@@ -1,0 +1,41 @@
+{
+  "id": "ok-ardmore-dolese-bros-ardmore-quarry",
+  "slug": "dolese-bros-ardmore-quarry",
+  "name": "Dolese Bros – Ardmore Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ardmore",
+    "state": "OK",
+    "zip": "73453"
+  },
+  "location": {
+    "lat": 34.089167,
+    "lng": -97.209167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400009"
+  },
+  "msha": [
+    {
+      "mine_id": "3400009",
+      "name": "Ardmore Quarry",
+      "operator": "Dolese Bros Co",
+      "status": "Active",
+      "status_since": "1985-07-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ok-davis-dolese-bros-davis-rock-quarry",
+  "slug": "dolese-bros-davis-rock-quarry",
+  "name": "Dolese Bros – Davis Rock Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Davis",
+    "state": "OK",
+    "zip": "73030"
+  },
+  "location": {
+    "lat": 34.504444,
+    "lng": -97.119444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400798"
+  },
+  "msha": [
+    {
+      "mine_id": "3400798",
+      "name": "Davis Rock Quarry",
+      "operator": "Dolese Bros Co",
+      "status": "Active",
+      "status_since": "1974-05-31",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 77
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "al-moundville-davis-sand-and-gravel-cypress-pit",
+  "slug": "davis-sand-and-gravel-cypress-pit",
+  "name": "Davis Sand & Gravel – Cypress Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Moundville",
+    "state": "AL",
+    "zip": "35474"
+  },
+  "location": {
+    "lat": 32.962222,
+    "lng": -87.696667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0102087"
+  },
+  "msha": [
+    {
+      "mine_id": "0102087",
+      "name": "Cypress Pit",
+      "operator": "Davis Sand & Gravel",
+      "status": "Active",
+      "status_since": "1984-12-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

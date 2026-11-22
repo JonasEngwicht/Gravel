@@ -1,0 +1,41 @@
+{
+  "id": "de-dover-pennsy-supply-tarburton-pit",
+  "slug": "pennsy-supply-tarburton-pit",
+  "name": "Pennsy Supply – Tarburton Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dover",
+    "state": "DE",
+    "zip": "19901"
+  },
+  "location": {
+    "lat": 39.177222,
+    "lng": -75.478333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0700093"
+  },
+  "msha": [
+    {
+      "mine_id": "0700093",
+      "name": "Tarburton Pit",
+      "operator": "Pennsy Supply Inc",
+      "status": "Active",
+      "status_since": "1991-02-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

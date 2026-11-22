@@ -1,0 +1,36 @@
+{
+  "id": "pa-bethel-park-the-landscape-center-by-evanovich",
+  "slug": "the-landscape-center-by-evanovich",
+  "name": "The Landscape Center by Evanovich",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2741 South Park Rd",
+    "city": "Bethel Park",
+    "state": "PA",
+    "zip": "15102"
+  },
+  "location": {
+    "lat": 40.327057,
+    "lng": -80.031891
+  },
+  "contact": {
+    "phone": "(412) 835-6699",
+    "website": "http://www.landscapingbyevanovich.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "977698c1-2ecf-4643-84e2-66ced13ddd9b",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

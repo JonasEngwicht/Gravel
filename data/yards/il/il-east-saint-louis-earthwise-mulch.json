@@ -1,0 +1,36 @@
+{
+  "id": "il-east-saint-louis-earthwise-mulch",
+  "slug": "earthwise-mulch",
+  "name": "Earthwise Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "239 S 88th St",
+    "city": "East Saint Louis",
+    "state": "IL",
+    "zip": "62207"
+  },
+  "location": {
+    "lat": 38.559872,
+    "lng": -90.098862
+  },
+  "contact": {
+    "phone": "(618) 515-4960",
+    "website": "https://earthwisemulchandrecycling.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "137056e8-ea52-47bb-8bec-a43da34657f0",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

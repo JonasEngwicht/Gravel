@@ -1,0 +1,36 @@
+{
+  "id": "tx-burleson-sand-and-gravel-to-go",
+  "slug": "sand-and-gravel-to-go",
+  "name": "Sand and Gravel To Go",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1201 S Burleson Blvd",
+    "city": "Burleson",
+    "state": "TX",
+    "zip": "76028"
+  },
+  "location": {
+    "lat": 32.517071,
+    "lng": -97.303841
+  },
+  "contact": {
+    "phone": "(817) 295-0449",
+    "website": "http://www.sandandgraveltogotex.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ef6f71e8-3538-45a6-9645-32a26e5279cd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

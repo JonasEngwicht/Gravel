@@ -1,0 +1,36 @@
+{
+  "id": "oh-bridgeport-belmont-aggregates-inc",
+  "slug": "belmont-aggregates-inc",
+  "name": "Belmont Aggregates, Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "894 National Rd",
+    "city": "Bridgeport",
+    "state": "OH",
+    "zip": "43912"
+  },
+  "location": {
+    "lat": 40.070694,
+    "lng": -80.759842
+  },
+  "contact": {
+    "phone": "(740) 633-1635",
+    "website": "https://belmontaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "afa22c71-a697-48d9-b5b9-6f451c636240",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

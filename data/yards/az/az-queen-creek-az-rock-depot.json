@@ -1,0 +1,36 @@
+{
+  "id": "az-queen-creek-az-rock-depot",
+  "slug": "az-rock-depot",
+  "name": "AZ Rock Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "18595 E San Tan Blvd",
+    "city": "Queen Creek",
+    "state": "AZ",
+    "zip": "85142"
+  },
+  "location": {
+    "lat": 33.211884,
+    "lng": -111.683952
+  },
+  "contact": {
+    "phone": "(480) 696-5799",
+    "website": "https://azrockdepot.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6fbc295f-c5f1-432f-a500-1c0d7810119b",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

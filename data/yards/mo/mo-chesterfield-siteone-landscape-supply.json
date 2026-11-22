@@ -1,0 +1,37 @@
+{
+  "id": "mo-chesterfield-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "18614 Olive Street Rd",
+    "city": "Chesterfield",
+    "state": "MO",
+    "zip": "63005"
+  },
+  "location": {
+    "lat": 38.670803,
+    "lng": -90.663208
+  },
+  "contact": {
+    "phone": "(636) 519-9996",
+    "website": "https://www.siteone.com/store/48"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04e720fa-c558-46fe-8abf-f719762bb5f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

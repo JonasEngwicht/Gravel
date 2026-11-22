@@ -1,0 +1,47 @@
+{
+  "id": "ca-lakeside-a-1-soils-hanson-aggregates",
+  "slug": "a-1-soils-hanson-aggregates",
+  "name": "A-1 Soils Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "12560 Highway 67",
+    "city": "Lakeside",
+    "state": "CA",
+    "zip": "92040"
+  },
+  "location": {
+    "lat": 32.908451,
+    "lng": -116.943001
+  },
+  "contact": {
+    "phone": "(858) 547-2141"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53eb6f53-ac85-4354-a0fb-ae98808bfc53",
+    "confidence": 0.621,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0402685",
+      "name": "Lakeside - Vigilante Aggregates",
+      "operator": "Martin Marietta San Diego Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2016-12-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 22
+    }
+  ]
+}

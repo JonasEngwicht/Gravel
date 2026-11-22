@@ -1,0 +1,36 @@
+{
+  "id": "ca-cloverdale-iroc-landscape-supply",
+  "slug": "iroc-landscape-supply",
+  "name": "iROC Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1148 S Cloverdale Blvd",
+    "city": "Cloverdale",
+    "state": "CA",
+    "zip": "95425"
+  },
+  "location": {
+    "lat": 38.785423,
+    "lng": -123.01339
+  },
+  "contact": {
+    "phone": "(707) 894-2879",
+    "website": "https://www.publicreputation.com/iroc-landscape-supply-cloverdale-california"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb0b1097-a52e-4bc8-aeb9-09f5481d5acb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

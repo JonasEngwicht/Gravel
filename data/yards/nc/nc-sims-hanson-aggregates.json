@@ -1,0 +1,37 @@
+{
+  "id": "nc-sims-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "7225 Neverson Rd",
+    "city": "Sims",
+    "state": "NC",
+    "zip": "27880"
+  },
+  "location": {
+    "lat": 35.763939,
+    "lng": -78.081429
+  },
+  "contact": {
+    "phone": "(252) 235-4162",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6d755b6-6dfa-4f0b-9e8d-d7121321c832",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

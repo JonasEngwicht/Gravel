@@ -1,0 +1,47 @@
+{
+  "id": "ks-larned-eakin-sand-and-gravel-co",
+  "slug": "eakin-sand-and-gravel-co",
+  "name": "Eakin Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1240 US-56",
+    "city": "Larned",
+    "state": "KS",
+    "zip": "67550"
+  },
+  "location": {
+    "lat": 38.162788,
+    "lng": -99.111122
+  },
+  "contact": {
+    "phone": "(620) 285-3916",
+    "website": "http://eakinenterprises.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0c60cab-3542-4611-b541-57deee1a8268",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1400478",
+      "name": "Eakin Sand & Gravel",
+      "operator": "W. Eakin Inc./Eakin Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2006-04-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

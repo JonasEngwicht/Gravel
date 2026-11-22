@@ -1,0 +1,41 @@
+{
+  "id": "tx-cherokee-buck-horn-whitetail-ranch-hidden-hill-pit",
+  "slug": "buck-horn-whitetail-ranch-hidden-hill-pit",
+  "name": "Buck Horn Whitetail Ranch – Hidden Hill Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cherokee",
+    "state": "TX",
+    "zip": "76832"
+  },
+  "location": {
+    "lat": 31.033889,
+    "lng": -98.714444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105516"
+  },
+  "msha": [
+    {
+      "mine_id": "4105516",
+      "name": "Hidden Hill Pit",
+      "operator": "Buck Horn Whitetail Ranch",
+      "status": "Intermittent",
+      "status_since": "2024-10-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

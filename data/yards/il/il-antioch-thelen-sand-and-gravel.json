@@ -1,0 +1,48 @@
+{
+  "id": "il-antioch-thelen-sand-and-gravel",
+  "slug": "thelen-sand-and-gravel",
+  "name": "Thelen Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "28955 W State Rte 173",
+    "city": "Antioch",
+    "state": "IL",
+    "zip": "60002"
+  },
+  "location": {
+    "lat": 42.478634,
+    "lng": -88.201439
+  },
+  "contact": {
+    "phone": "(847) 395-3313",
+    "website": "http://www.thelensg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fcb5b66a-83d9-4685-bc75-aecbf45a2d0f",
+    "confidence": 0.997,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1101228",
+      "name": "Thelen Sand & Gravel, Inc.",
+      "operator": "Thelen Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2013-03-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 50
+    }
+  ]
+}

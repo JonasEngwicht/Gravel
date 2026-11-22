@@ -1,0 +1,36 @@
+{
+  "id": "nc-nashville-red-oak-mulch-and-garden-center-llc",
+  "slug": "red-oak-mulch-and-garden-center-llc",
+  "name": "Red Oak Mulch & Garden Center LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8419 Red Oak Blvd",
+    "city": "Nashville",
+    "state": "NC",
+    "zip": "27856"
+  },
+  "location": {
+    "lat": 36.039486,
+    "lng": -77.906876
+  },
+  "contact": {
+    "phone": "(252) 443-7700",
+    "website": "http://redoakmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79c5bfd0-a4fe-4537-8a11-c1b09e05c21c",
+    "confidence": 0.979,
+    "merged_records": 1
+  }
+}

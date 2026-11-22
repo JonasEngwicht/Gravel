@@ -1,0 +1,36 @@
+{
+  "id": "nc-wilmington-mikes-mulch-and-stone",
+  "slug": "mikes-mulch-and-stone",
+  "name": "Mikes Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6512 Carolina Beach Rd",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28412"
+  },
+  "location": {
+    "lat": 34.101425,
+    "lng": -77.899529
+  },
+  "contact": {
+    "phone": "(910) 793-9111",
+    "website": "http://mikesmulchandstonenc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6966ca14-e569-4405-877a-320a934fb6d8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

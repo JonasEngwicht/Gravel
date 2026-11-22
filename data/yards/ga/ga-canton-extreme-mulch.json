@@ -1,0 +1,36 @@
+{
+  "id": "ga-canton-extreme-mulch",
+  "slug": "extreme-mulch",
+  "name": "Extreme Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "846 Old Ball Ground Hwy",
+    "city": "Canton",
+    "state": "GA",
+    "zip": "30114"
+  },
+  "location": {
+    "lat": 34.250694,
+    "lng": -84.472786
+  },
+  "contact": {
+    "phone": "(770) 880-9048",
+    "website": "https://extrememulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27f5a0fb-06ac-4d7d-9695-494345b4c15f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

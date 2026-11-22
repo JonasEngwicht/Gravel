@@ -1,0 +1,36 @@
+{
+  "id": "tx-sanger-conley-sand-and-gravel",
+  "slug": "conley-sand-and-gravel",
+  "name": "Conley Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "101 Bolivar St",
+    "city": "Sanger",
+    "state": "TX",
+    "zip": "76266"
+  },
+  "location": {
+    "lat": 33.362545,
+    "lng": -97.168892
+  },
+  "contact": {
+    "phone": "(940) 458-7607",
+    "website": "https://www.conleysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "229d72bf-f498-44d7-a108-e31d40821a3a",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mt-big-timber-tom-roe-and-son-construction",
+  "slug": "tom-roe-and-son-construction",
+  "name": "Tom Roe & Son Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Big Timber",
+    "state": "MT",
+    "zip": "59479"
+  },
+  "location": {
+    "lat": 46.879722,
+    "lng": -110.3625
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2401836"
+  },
+  "msha": [
+    {
+      "mine_id": "2401836",
+      "name": "Roe Sand & Gravel",
+      "operator": "Tom Roe & Son Construction Inc",
+      "status": "Intermittent",
+      "status_since": "2019-10-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

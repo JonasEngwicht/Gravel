@@ -1,0 +1,36 @@
+{
+  "id": "tx-whitewright-franklin-sand-and-gravel",
+  "slug": "franklin-sand-and-gravel",
+  "name": "Franklin Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12149 TX-11",
+    "city": "Whitewright",
+    "state": "TX",
+    "zip": "75491"
+  },
+  "location": {
+    "lat": 33.513248,
+    "lng": -96.398697
+  },
+  "contact": {
+    "phone": "(903) 744-6645",
+    "website": "https://franklinsandgravel.wixsite.com/franklin-sand-and-gr"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c5ce83d-8df2-49ae-bf98-5e95d712b085",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

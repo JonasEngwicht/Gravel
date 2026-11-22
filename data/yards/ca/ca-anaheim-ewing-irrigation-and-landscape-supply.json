@@ -1,0 +1,37 @@
+{
+  "id": "ca-anaheim-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "1813 N National St",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92801"
+  },
+  "location": {
+    "lat": 33.861923,
+    "lng": -117.917686
+  },
+  "contact": {
+    "phone": "(714) 447-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb19bdcb-1e4b-4fbc-95d5-fec8e78760bc",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

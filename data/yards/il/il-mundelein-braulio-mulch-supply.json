@@ -1,0 +1,36 @@
+{
+  "id": "il-mundelein-braulio-mulch-supply",
+  "slug": "braulio-mulch-supply",
+  "name": "Braulio Mulch Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "29554 IL-83",
+    "city": "Mundelein",
+    "state": "IL",
+    "zip": "60060"
+  },
+  "location": {
+    "lat": 42.292995,
+    "lng": -88.0382
+  },
+  "contact": {
+    "phone": "(847) 970-9368",
+    "website": "http://www.brauliomulchsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0a2eadb7-79eb-423d-9195-a79bf9fe0d35",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

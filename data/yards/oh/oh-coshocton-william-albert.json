@@ -1,0 +1,41 @@
+{
+  "id": "oh-coshocton-william-albert",
+  "slug": "william-albert",
+  "name": "William Albert",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Coshocton",
+    "state": "OH",
+    "zip": "43845"
+  },
+  "location": {
+    "lat": 40.278333,
+    "lng": -81.788611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304461"
+  },
+  "msha": [
+    {
+      "mine_id": "3304461",
+      "name": "Mine #2 William Albert Inc.",
+      "operator": "William Albert Inc",
+      "status": "Active",
+      "status_since": "2023-11-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-del-valle-cemex-construction-materials-south-balcones-quarry",
+  "slug": "cemex-construction-materials-south-balcones-quarry",
+  "name": "CEMEX Construction Materials South – Balcones Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Del Valle",
+    "state": "TX",
+    "zip": "78132"
+  },
+  "location": {
+    "lat": 29.670556,
+    "lng": -98.19
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4100994"
+  },
+  "msha": [
+    {
+      "mine_id": "4100994",
+      "name": "Balcones Quarry",
+      "operator": "CEMEX Construction Materials South, LLC",
+      "status": "Active",
+      "status_since": "1972-03-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 165
+    }
+  ]
+}

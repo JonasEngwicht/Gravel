@@ -1,0 +1,36 @@
+{
+  "id": "oh-cleves-j-s-mulch-and-landscape-supply",
+  "slug": "j-s-mulch-and-landscape-supply",
+  "name": "J's Mulch & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5730 Hamilton Cleves Rd",
+    "city": "Cleves",
+    "state": "OH",
+    "zip": "45002"
+  },
+  "location": {
+    "lat": 39.205563,
+    "lng": -84.737511
+  },
+  "contact": {
+    "phone": "(513) 574-8049",
+    "website": "http://jsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ace40b0-8dd9-497e-8e8c-166eae48a186",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

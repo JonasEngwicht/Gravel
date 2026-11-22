@@ -1,0 +1,41 @@
+{
+  "id": "pa-mt-pleasant-mills-national-limestone-quarry-mt-pleasant-mills-quarry",
+  "slug": "national-limestone-quarry-mt-pleasant-mills-quarry",
+  "name": "National Limestone Quarry – Mt. Pleasant Mills Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mt. Pleasant Mills",
+    "state": "PA",
+    "zip": "17853"
+  },
+  "location": {
+    "lat": 40.723056,
+    "lng": -77.037222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3605874"
+  },
+  "msha": [
+    {
+      "mine_id": "3605874",
+      "name": "Mt. Pleasant Mills Quarry",
+      "operator": "National Limestone Quarry Inc",
+      "status": "Intermittent",
+      "status_since": "2015-11-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

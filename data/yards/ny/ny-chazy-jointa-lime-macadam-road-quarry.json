@@ -1,0 +1,41 @@
+{
+  "id": "ny-chazy-jointa-lime-macadam-road-quarry",
+  "slug": "jointa-lime-macadam-road-quarry",
+  "name": "Jointa Lime – Macadam Road Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Chazy",
+    "state": "NY",
+    "zip": "12921"
+  },
+  "location": {
+    "lat": 44.875833,
+    "lng": -73.509722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004063"
+  },
+  "msha": [
+    {
+      "mine_id": "3004063",
+      "name": "Macadam Road Quarry",
+      "operator": "Jointa Lime Company",
+      "status": "Intermittent",
+      "status_since": "2023-05-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nh-concord-concord-sand-and-gravel",
+  "slug": "concord-sand-and-gravel",
+  "name": "Concord Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "320 Sheep Davis Rd",
+    "city": "Concord",
+    "state": "NH",
+    "zip": "03301"
+  },
+  "location": {
+    "lat": 43.228748,
+    "lng": -71.472771
+  },
+  "contact": {
+    "phone": "(603) 224-2146",
+    "website": "https://www.fordstl.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf7f3d6e-6828-4e33-a261-3cb2a4e29a9d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2700317",
+      "name": "Concord Sand & Gravel",
+      "operator": "Continental Paving, Inc.",
+      "status": "Active",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

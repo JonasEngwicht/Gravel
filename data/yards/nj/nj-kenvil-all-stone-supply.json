@@ -1,0 +1,35 @@
+{
+  "id": "nj-kenvil-all-stone-supply",
+  "slug": "all-stone-supply",
+  "name": "All Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "52 N Dell Ave",
+    "city": "Kenvil",
+    "state": "NJ",
+    "zip": "07847"
+  },
+  "location": {
+    "lat": 40.886318,
+    "lng": -74.614571
+  },
+  "contact": {
+    "phone": "(862) 251-4496"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b8cbc39b-c12b-4857-9ffd-d4956cf5d9c6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

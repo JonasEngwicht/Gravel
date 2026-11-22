@@ -1,0 +1,49 @@
+{
+  "id": "oh-fairfield-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3900 Kraus Ln",
+    "city": "Fairfield",
+    "state": "OH",
+    "zip": "45014"
+  },
+  "location": {
+    "lat": 39.319691,
+    "lng": -84.635399
+  },
+  "contact": {
+    "phone": "(513) 738-1430",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ced8f50-1cb5-4f62-8a01-a5dbcf33e49a",
+    "confidence": 0.655,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301587",
+      "name": "Ross Gravel",
+      "operator": "Martin Marietta Materials,Inc.",
+      "status": "Abandoned",
+      "status_since": "2014-08-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

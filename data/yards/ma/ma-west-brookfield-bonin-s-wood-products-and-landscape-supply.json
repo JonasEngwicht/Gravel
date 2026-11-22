@@ -1,0 +1,36 @@
+{
+  "id": "ma-west-brookfield-bonin-s-wood-products-and-landscape-supply",
+  "slug": "bonin-s-wood-products-and-landscape-supply",
+  "name": "Bonin's Wood Products and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "175 E Main St",
+    "city": "West Brookfield",
+    "state": "MA",
+    "zip": "01585"
+  },
+  "location": {
+    "lat": 42.224117,
+    "lng": -72.129539
+  },
+  "contact": {
+    "phone": "(774) 241-6542",
+    "website": "https://www.jbonintreeservices.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da2d096d-c009-4120-8a7c-0286962b86c3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

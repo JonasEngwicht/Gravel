@@ -1,0 +1,35 @@
+{
+  "id": "mn-ortonville-sev-s-gravel-and-excavating",
+  "slug": "sev-s-gravel-and-excavating",
+  "name": "Sev's Gravel & Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "89 Old Hwy 12 E E",
+    "city": "Ortonville",
+    "state": "MN",
+    "zip": "56278"
+  },
+  "location": {
+    "lat": 45.297825,
+    "lng": -96.440109
+  },
+  "contact": {
+    "phone": "(320) 249-4750"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b9e72019-8347-4ed4-8fee-ac23e4a22b20",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

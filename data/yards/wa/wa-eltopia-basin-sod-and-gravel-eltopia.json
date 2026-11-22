@@ -1,0 +1,48 @@
+{
+  "id": "wa-eltopia-basin-sod-and-gravel-eltopia",
+  "slug": "basin-sod-and-gravel-eltopia",
+  "name": "Basin Sod and Gravel - Eltopia",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "13218 State Road 395",
+    "city": "Eltopia",
+    "state": "WA",
+    "zip": "99330"
+  },
+  "location": {
+    "lat": 46.430954,
+    "lng": -119.022934
+  },
+  "contact": {
+    "phone": "(509) 545-6330",
+    "website": "http://www.BasinSod.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "913c67a6-e2f6-446b-b581-0bb8499f911d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503518",
+      "name": "Eltopia Pit",
+      "operator": "Aggregates West Inc",
+      "status": "Abandoned",
+      "status_since": "2008-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-palm-bay-landscape-depot",
+  "slug": "landscape-depot",
+  "name": "Landscape Depot",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6105 Babcock St SE",
+    "city": "Palm Bay",
+    "state": "FL",
+    "zip": "32909"
+  },
+  "location": {
+    "lat": 27.996435,
+    "lng": -80.621468
+  },
+  "contact": {
+    "phone": "(321) 409-1620",
+    "website": "http://www.lsdepot.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "10bd43c3-498b-4c8b-830c-e131a70fc877",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-kendalia-shea-quarry",
+  "slug": "shea-quarry",
+  "name": "Shea Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Kendalia",
+    "state": "TX",
+    "zip": "78264"
+  },
+  "location": {
+    "lat": 29.185833,
+    "lng": -98.454167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105246"
+  },
+  "msha": [
+    {
+      "mine_id": "4105246",
+      "name": "Shea Quarry",
+      "operator": "Shea Quarry LLC",
+      "status": "Intermittent",
+      "status_since": "2017-07-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

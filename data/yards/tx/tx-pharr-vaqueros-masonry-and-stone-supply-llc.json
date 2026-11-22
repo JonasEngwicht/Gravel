@@ -1,0 +1,35 @@
+{
+  "id": "tx-pharr-vaqueros-masonry-and-stone-supply-llc",
+  "slug": "vaqueros-masonry-and-stone-supply-llc",
+  "name": "Vaqueros Masonry & Stone Supply LLC",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1102 E Interstate 2",
+    "city": "Pharr",
+    "state": "TX",
+    "zip": "78577"
+  },
+  "location": {
+    "lat": 26.204643,
+    "lng": -98.16993
+  },
+  "contact": {
+    "phone": "(956) 475-7874"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b78044a-1c8f-4edb-afef-63709b9b2bd3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-bradenton-mid-america-mulch-inc",
+  "slug": "mid-america-mulch-inc",
+  "name": "Mid-america Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6001 15th St E",
+    "city": "Bradenton",
+    "state": "FL",
+    "zip": "34203"
+  },
+  "location": {
+    "lat": 27.435694,
+    "lng": -82.546143
+  },
+  "contact": {
+    "phone": "(941) 755-9299",
+    "website": "https://mid-americamulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "98173b6c-7f1f-49a4-b185-88592450aa3b",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

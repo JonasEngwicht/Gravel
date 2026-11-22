@@ -1,0 +1,41 @@
+{
+  "id": "ok-muskogee-arkhola-muskogee-dredge",
+  "slug": "arkhola-muskogee-dredge",
+  "name": "Arkhola – Muskogee Dredge",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Muskogee",
+    "state": "OK",
+    "zip": "74401"
+  },
+  "location": {
+    "lat": 35.747778,
+    "lng": -95.369722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400394"
+  },
+  "msha": [
+    {
+      "mine_id": "3400394",
+      "name": "Muskogee Dredge",
+      "operator": "Arkhola",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

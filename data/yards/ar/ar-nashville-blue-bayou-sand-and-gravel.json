@@ -1,0 +1,35 @@
+{
+  "id": "ar-nashville-blue-bayou-sand-and-gravel",
+  "slug": "blue-bayou-sand-and-gravel",
+  "name": "Blue Bayou Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "229 Oliver Rd",
+    "city": "Nashville",
+    "state": "AR",
+    "zip": "71852"
+  },
+  "location": {
+    "lat": 33.962029,
+    "lng": -93.9673
+  },
+  "contact": {
+    "phone": "(870) 533-4268"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7479663-a45d-4230-ad81-bf353bcbe4bb",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

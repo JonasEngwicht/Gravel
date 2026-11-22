@@ -1,0 +1,36 @@
+{
+  "id": "tx-harlingen-cemex-harlingen-aggregates-yard",
+  "slug": "cemex-harlingen-aggregates-yard",
+  "name": "CEMEX Harlingen Aggregates Yard",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "24293 Port Road",
+    "city": "Harlingen",
+    "state": "TX",
+    "zip": "78550"
+  },
+  "location": {
+    "lat": 26.206284,
+    "lng": -97.596916
+  },
+  "contact": {
+    "phone": "(956) 386-1452",
+    "website": "https://www.cemexusa.com/-/harlingen-aggregates-yard"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c09a9ec-747b-42af-a4d3-2ce56dc48330",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

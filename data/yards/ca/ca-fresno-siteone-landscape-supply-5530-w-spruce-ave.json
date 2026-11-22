@@ -1,0 +1,37 @@
+{
+  "id": "ca-fresno-siteone-landscape-supply-5530-w-spruce-ave",
+  "slug": "siteone-landscape-supply-5530-w-spruce-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5530 W Spruce Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93722"
+  },
+  "location": {
+    "lat": 36.839512,
+    "lng": -119.891472
+  },
+  "contact": {
+    "phone": "(559) 277-1630",
+    "website": "https://www.siteone.com/store/356"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f2e77305-6bdd-4b53-becc-807662770e83",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

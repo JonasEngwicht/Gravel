@@ -1,0 +1,48 @@
+{
+  "id": "nh-rindge-rindge-stone-and-gravel",
+  "slug": "rindge-stone-and-gravel",
+  "name": "Rindge Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "538 Old New Ipswich Rd",
+    "city": "Rindge",
+    "state": "NH",
+    "zip": "03461"
+  },
+  "location": {
+    "lat": 42.765133,
+    "lng": -71.96067
+  },
+  "contact": {
+    "phone": "(603) 899-6920",
+    "website": "http://www.rindgestoneandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c77731e-48dd-4e4e-9b0b-d205de9d00c8",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2700565",
+      "name": "Rindge Stone and Gravel, LLC",
+      "operator": "Rindge Stone and Gravel, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-05-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "oh-bowersville-melvin-stone-company-bowersville",
+  "slug": "melvin-stone-company-bowersville",
+  "name": "Melvin Stone Company – Bowersville",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bowersville",
+    "state": "OH",
+    "zip": "45307"
+  },
+  "location": {
+    "lat": 39.565556,
+    "lng": -83.725
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304479"
+  },
+  "msha": [
+    {
+      "mine_id": "3304479",
+      "name": "Bowersville",
+      "operator": "Melvin Stone Company LLC",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

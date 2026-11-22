@@ -1,0 +1,36 @@
+{
+  "id": "ny-elmira-dalrymple-gravel-and-contracting",
+  "slug": "dalrymple-gravel-and-contracting",
+  "name": "Dalrymple Gravel & Contracting",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "990 County Road 64",
+    "city": "Elmira",
+    "state": "NY",
+    "zip": "14903"
+  },
+  "location": {
+    "lat": 42.153957,
+    "lng": -76.869278
+  },
+  "contact": {
+    "phone": "(607) 739-0391",
+    "website": "https://dalrymplegravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74909f95-b1cf-4449-b116-8ed69be980d1",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

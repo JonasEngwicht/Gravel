@@ -1,0 +1,35 @@
+{
+  "id": "oh-new-albany-mulch-experts-and-tree-care-llc",
+  "slug": "mulch-experts-and-tree-care-llc",
+  "name": "Mulch Experts & Tree Care LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5500 Harlem Rd",
+    "city": "New Albany",
+    "state": "OH",
+    "zip": "43054"
+  },
+  "location": {
+    "lat": 40.083427,
+    "lng": -82.834572
+  },
+  "contact": {
+    "phone": "(380) 282-2140"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab84e732-2d01-444d-a9bb-af3dac564079",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

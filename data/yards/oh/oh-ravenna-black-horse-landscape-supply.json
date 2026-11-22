@@ -1,0 +1,36 @@
+{
+  "id": "oh-ravenna-black-horse-landscape-supply",
+  "slug": "black-horse-landscape-supply",
+  "name": "Black Horse Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3456 State Route 59",
+    "city": "Ravenna",
+    "state": "OH",
+    "zip": "44266"
+  },
+  "location": {
+    "lat": 41.158398,
+    "lng": -81.269058
+  },
+  "contact": {
+    "phone": "(330) 235-9515",
+    "website": "http://Www.buyrocksohio.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3af64cee-0675-4b0e-94ed-63b2938f945b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

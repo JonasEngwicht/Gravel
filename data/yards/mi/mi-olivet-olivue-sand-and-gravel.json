@@ -1,0 +1,36 @@
+{
+  "id": "mi-olivet-olivue-sand-and-gravel",
+  "slug": "olivue-sand-and-gravel",
+  "name": "Olivue Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6098 Sherwood Hwy",
+    "city": "Olivet",
+    "state": "MI",
+    "zip": "49076"
+  },
+  "location": {
+    "lat": 42.449478,
+    "lng": -84.957199
+  },
+  "contact": {
+    "phone": "(269) 763-3445",
+    "website": "http://www.contractors.com/h/contractorinfo/details.html?contractor_id=4456367&affid=101"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c9eef074-4ea1-4785-a3f6-39ff685b795c",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

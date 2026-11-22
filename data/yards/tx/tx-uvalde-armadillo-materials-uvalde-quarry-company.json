@@ -1,0 +1,41 @@
+{
+  "id": "tx-uvalde-armadillo-materials-uvalde-quarry-company",
+  "slug": "armadillo-materials-uvalde-quarry-company",
+  "name": "Armadillo Materials – Uvalde Quarry Company",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Uvalde",
+    "state": "TX",
+    "zip": "78870"
+  },
+  "location": {
+    "lat": 29.260556,
+    "lng": -99.774444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105865"
+  },
+  "msha": [
+    {
+      "mine_id": "4105865",
+      "name": "Uvalde Quarry Company",
+      "operator": "Armadillo Materials, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-04-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

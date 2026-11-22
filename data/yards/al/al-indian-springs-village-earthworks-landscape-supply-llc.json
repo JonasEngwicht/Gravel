@@ -1,0 +1,36 @@
+{
+  "id": "al-indian-springs-village-earthworks-landscape-supply-llc",
+  "slug": "earthworks-landscape-supply-llc",
+  "name": "EarthWorks Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3225 Cahaba Valley Rd",
+    "city": "Indian Springs Village",
+    "state": "AL",
+    "zip": "35124"
+  },
+  "location": {
+    "lat": 33.35561,
+    "lng": -86.745697
+  },
+  "contact": {
+    "phone": "(205) 982-9922",
+    "website": "http://www.earthworkslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1f356920-a9b3-4bca-8b3d-91362cc14f5d",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

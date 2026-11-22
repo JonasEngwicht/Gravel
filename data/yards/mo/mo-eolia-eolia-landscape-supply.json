@@ -1,0 +1,36 @@
+{
+  "id": "mo-eolia-eolia-landscape-supply",
+  "slug": "eolia-landscape-supply",
+  "name": "Eolia Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "290 N Old Highway 61",
+    "city": "Eolia",
+    "state": "MO",
+    "zip": "63344"
+  },
+  "location": {
+    "lat": 39.238152,
+    "lng": -91.014885
+  },
+  "contact": {
+    "phone": "(573) 485-2399",
+    "website": "http://www.mkt.com/eolialandscapesupply"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3046af55-8047-4257-9888-0d4409432983",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

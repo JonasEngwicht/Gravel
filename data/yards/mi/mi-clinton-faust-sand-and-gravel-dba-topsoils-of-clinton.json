@@ -1,0 +1,48 @@
+{
+  "id": "mi-clinton-faust-sand-and-gravel-dba-topsoils-of-clinton",
+  "slug": "faust-sand-and-gravel-dba-topsoils-of-clinton",
+  "name": "Faust Sand & Gravel DBA Topsoils of Clinton",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2036 W Michigan Ave",
+    "city": "Clinton",
+    "state": "MI",
+    "zip": "49236"
+  },
+  "location": {
+    "lat": 42.074734,
+    "lng": -83.994423
+  },
+  "contact": {
+    "phone": "(517) 403-2431",
+    "website": "http://faustsandgraveltopsoils.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9cd94ec3-6d57-45fb-8fa5-fbd03f0781e7",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2002886",
+      "name": "Clinton Plant",
+      "operator": "Gerken Materials Inc.",
+      "status": "Active",
+      "status_since": "2020-09-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

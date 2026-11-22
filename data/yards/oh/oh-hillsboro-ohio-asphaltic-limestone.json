@@ -1,0 +1,41 @@
+{
+  "id": "oh-hillsboro-ohio-asphaltic-limestone",
+  "slug": "ohio-asphaltic-limestone",
+  "name": "Ohio Asphaltic Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hillsboro",
+    "state": "OH",
+    "zip": "45159"
+  },
+  "location": {
+    "lat": 39.249167,
+    "lng": -83.676944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300130"
+  },
+  "msha": [
+    {
+      "mine_id": "3300130",
+      "name": "Ohio Asphaltic Limestone Corp",
+      "operator": "Ohio Asphaltic Limestone Corp",
+      "status": "Active",
+      "status_since": "1978-12-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

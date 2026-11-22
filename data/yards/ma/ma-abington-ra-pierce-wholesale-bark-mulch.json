@@ -1,0 +1,36 @@
+{
+  "id": "ma-abington-ra-pierce-wholesale-bark-mulch",
+  "slug": "ra-pierce-wholesale-bark-mulch",
+  "name": "RA Pierce Wholesale Bark Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1431 Bedford St",
+    "city": "Abington",
+    "state": "MA",
+    "zip": "02351"
+  },
+  "location": {
+    "lat": 42.142239,
+    "lng": -70.952225
+  },
+  "contact": {
+    "phone": "(781) 878-3351",
+    "website": "http://www.rapiercebarkmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81fbd1f8-fb00-4670-8309-30d7feb32f7d",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

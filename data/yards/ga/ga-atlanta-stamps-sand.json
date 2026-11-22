@@ -1,0 +1,41 @@
+{
+  "id": "ga-atlanta-stamps-sand",
+  "slug": "stamps-sand",
+  "name": "Stamps Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Atlanta",
+    "state": "GA",
+    "zip": "31037"
+  },
+  "location": {
+    "lat": 32.1575,
+    "lng": -82.907222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900289"
+  },
+  "msha": [
+    {
+      "mine_id": "0900289",
+      "name": "Stamps Mine No. 1",
+      "operator": "Stamps Sand Company",
+      "status": "Intermittent",
+      "status_since": "2025-08-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

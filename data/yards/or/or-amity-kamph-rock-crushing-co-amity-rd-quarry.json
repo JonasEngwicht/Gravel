@@ -1,0 +1,41 @@
+{
+  "id": "or-amity-kamph-rock-crushing-co-amity-rd-quarry",
+  "slug": "kamph-rock-crushing-co-amity-rd-quarry",
+  "name": "Kamph Rock Crushing Co – Amity Rd. Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Amity",
+    "state": "OR",
+    "zip": "97101"
+  },
+  "location": {
+    "lat": 45.118611,
+    "lng": -123.141944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503917"
+  },
+  "msha": [
+    {
+      "mine_id": "3503917",
+      "name": "Amity Rd. Quarry",
+      "operator": "Kamph Rock Crushing Co. Inc.",
+      "status": "Active",
+      "status_since": "2026-02-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

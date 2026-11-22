@@ -1,0 +1,36 @@
+{
+  "id": "wa-shelton-bcp-landscape-supplies",
+  "slug": "bcp-landscape-supplies",
+  "name": "Bcp Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2994 E Johns Prairie Rd",
+    "city": "Shelton",
+    "state": "WA",
+    "zip": "98584"
+  },
+  "location": {
+    "lat": 47.246239,
+    "lng": -123.067062
+  },
+  "contact": {
+    "phone": "(360) 432-9222",
+    "website": "http://bcplandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "766748ca-387d-457b-9672-3fde2787bc99",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

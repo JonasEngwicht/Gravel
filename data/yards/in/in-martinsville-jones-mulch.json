@@ -1,0 +1,36 @@
+{
+  "id": "in-martinsville-jones-mulch",
+  "slug": "jones-mulch",
+  "name": "Jones Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "555 Commercial Blvd",
+    "city": "Martinsville",
+    "state": "IN",
+    "zip": "46151"
+  },
+  "location": {
+    "lat": 39.408192,
+    "lng": -86.421631
+  },
+  "contact": {
+    "phone": "(765) 342-2709",
+    "website": "http://www.jwjonesmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4239a747-8b93-4513-b43b-d62b3f242343",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

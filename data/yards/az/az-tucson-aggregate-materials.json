@@ -1,0 +1,48 @@
+{
+  "id": "az-tucson-aggregate-materials",
+  "slug": "aggregate-materials",
+  "name": "Aggregate Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4250 E River Rd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85718"
+  },
+  "location": {
+    "lat": 32.276741,
+    "lng": -110.902077
+  },
+  "contact": {
+    "phone": "(520) 325-1611",
+    "website": "http://churchmansandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0b05f10-3970-4bbb-8fb6-eef4c88a30ff",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0202832",
+      "name": "River Road Plant",
+      "operator": "Churchman Sand and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2020-07-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

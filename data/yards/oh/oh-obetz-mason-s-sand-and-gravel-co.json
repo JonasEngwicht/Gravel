@@ -1,0 +1,35 @@
+{
+  "id": "oh-obetz-mason-s-sand-and-gravel-co",
+  "slug": "mason-s-sand-and-gravel-co",
+  "name": "Mason's Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2385 Rathmell Rd",
+    "city": "Obetz",
+    "state": "OH",
+    "zip": "43207"
+  },
+  "location": {
+    "lat": 39.861683,
+    "lng": -82.944092
+  },
+  "contact": {
+    "phone": "(614) 491-3611"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b9e775e6-a96c-4587-a7a3-78850e9909b2",
+    "confidence": 0.849,
+    "merged_records": 1
+  }
+}

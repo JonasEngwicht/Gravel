@@ -1,0 +1,37 @@
+{
+  "id": "wa-tacoma-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "9605 26th Ave S",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98444"
+  },
+  "location": {
+    "lat": 47.169243,
+    "lng": -122.471443
+  },
+  "contact": {
+    "phone": "(253) 581-8223",
+    "website": "https://www.siteone.com/store/275"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1345cc5b-1aa8-4c15-87d2-b81fd26e7e88",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

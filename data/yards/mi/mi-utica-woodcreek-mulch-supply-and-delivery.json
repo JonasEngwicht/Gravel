@@ -1,0 +1,36 @@
+{
+  "id": "mi-utica-woodcreek-mulch-supply-and-delivery",
+  "slug": "woodcreek-mulch-supply-and-delivery",
+  "name": "Woodcreek Mulch Supply and Delivery",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6900 Greeley St",
+    "city": "Utica",
+    "state": "MI",
+    "zip": "48317"
+  },
+  "location": {
+    "lat": 42.622444,
+    "lng": -83.041832
+  },
+  "contact": {
+    "phone": "(586) 726-0201",
+    "website": "https://woodcreekmulch.com/faqs"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1f7ae665-623b-473a-9284-afdcb0f083d5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

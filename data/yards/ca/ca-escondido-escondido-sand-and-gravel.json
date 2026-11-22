@@ -1,0 +1,36 @@
+{
+  "id": "ca-escondido-escondido-sand-and-gravel",
+  "slug": "escondido-sand-and-gravel",
+  "name": "Escondido Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "500 N Tulip St",
+    "city": "Escondido",
+    "state": "CA",
+    "zip": "92025"
+  },
+  "location": {
+    "lat": 33.119324,
+    "lng": -117.09684
+  },
+  "contact": {
+    "phone": "(760) 432-4690",
+    "website": "https://www.escondidomaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "84ffc9ae-a5fe-4a0a-831f-5dd924a741df",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

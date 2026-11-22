@@ -1,0 +1,36 @@
+{
+  "id": "il-west-chicago-du-page-topsoil-inc",
+  "slug": "du-page-topsoil-inc",
+  "name": "Du Page Topsoil Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "540 Topsoil Dr",
+    "city": "West Chicago",
+    "state": "IL",
+    "zip": "60185"
+  },
+  "location": {
+    "lat": 41.866165,
+    "lng": -88.21521
+  },
+  "contact": {
+    "phone": "(630) 682-4800",
+    "website": "https://www.dupagetopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "50c8c1ac-6ee9-4153-a51b-4ec0a0ccce23",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

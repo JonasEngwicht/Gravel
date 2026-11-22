@@ -1,0 +1,35 @@
+{
+  "id": "nc-sanford-taylor-s-mulch-and-stone",
+  "slug": "taylor-s-mulch-and-stone",
+  "name": "Taylor's Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5388 Jefferson Davis Hwy",
+    "city": "Sanford",
+    "state": "NC",
+    "zip": "27332"
+  },
+  "location": {
+    "lat": 35.365883,
+    "lng": -79.232742
+  },
+  "contact": {
+    "phone": "(910) 690-9056"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3eeeb74d-d7ae-4f83-8c19-2e8dd7afe707",
+    "confidence": 0.669,
+    "merged_records": 2
+  }
+}

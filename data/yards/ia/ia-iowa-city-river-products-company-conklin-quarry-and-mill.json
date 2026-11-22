@@ -1,0 +1,41 @@
+{
+  "id": "ia-iowa-city-river-products-company-conklin-quarry-and-mill",
+  "slug": "river-products-company-conklin-quarry-and-mill",
+  "name": "River Products Company – Conklin Quarry and Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Iowa City",
+    "state": "IA",
+    "zip": "52242"
+  },
+  "location": {
+    "lat": 41.693611,
+    "lng": -91.547222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300193"
+  },
+  "msha": [
+    {
+      "mine_id": "1300193",
+      "name": "Conklin Quarry and Mill",
+      "operator": "River Products Company Inc",
+      "status": "Active",
+      "status_since": "2015-05-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pr-orocovis-norvan-general-contractor-inc-cantera",
+  "slug": "norvan-general-contractor-inc-cantera",
+  "name": "Norvan General Contractor, Inc., Cantera",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Orocovis",
+    "state": "PR",
+    "zip": "00720"
+  },
+  "location": {
+    "lat": 18.2297,
+    "lng": -66.3921
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400516"
+  },
+  "msha": [
+    {
+      "mine_id": "5400516",
+      "name": "Norvan General Contractor, Inc., Cantera",
+      "operator": "Norvan General Contractor, Inc.",
+      "status": "Active",
+      "status_since": "2026-03-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-little-valley-little-valley-sand-and-gravel",
+  "slug": "little-valley-sand-and-gravel",
+  "name": "Little Valley Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Little Valley",
+    "state": "NY",
+    "zip": "14755"
+  },
+  "location": {
+    "lat": 42.260833,
+    "lng": -78.824722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002427"
+  },
+  "msha": [
+    {
+      "mine_id": "3002427",
+      "name": "Little Valley Sand And Gravel",
+      "operator": "Little Valley Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-05-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

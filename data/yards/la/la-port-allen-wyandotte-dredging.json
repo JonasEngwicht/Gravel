@@ -1,0 +1,41 @@
+{
+  "id": "la-port-allen-wyandotte-dredging",
+  "slug": "wyandotte-dredging",
+  "name": "Wyandotte Dredging",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Port Allen",
+    "state": "LA",
+    "zip": "70813"
+  },
+  "location": {
+    "lat": 30.508889,
+    "lng": -91.203889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601338"
+  },
+  "msha": [
+    {
+      "mine_id": "1601338",
+      "name": "Wyandotte Dredging",
+      "operator": "Wyandotte Dredging",
+      "status": "Active",
+      "status_since": "2014-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

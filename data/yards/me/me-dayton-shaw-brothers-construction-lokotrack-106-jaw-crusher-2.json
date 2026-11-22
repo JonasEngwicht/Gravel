@@ -1,0 +1,41 @@
+{
+  "id": "me-dayton-shaw-brothers-construction-lokotrack-106-jaw-crusher-2",
+  "slug": "shaw-brothers-construction-lokotrack-106-jaw-crusher-2",
+  "name": "Shaw Brothers Construction – Lokotrack 106 Jaw Crusher #2",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Dayton",
+    "state": "ME",
+    "zip": "04002"
+  },
+  "location": {
+    "lat": 43.528611,
+    "lng": -70.587778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700827"
+  },
+  "msha": [
+    {
+      "mine_id": "1700827",
+      "name": "Lokotrack 106 Jaw Crusher #2",
+      "operator": "Shaw Brothers Construction, Inc",
+      "status": "Intermittent",
+      "status_since": "2008-05-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-southfield-main-s-landscape-supply",
+  "slug": "main-s-landscape-supply",
+  "name": "Main's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21355 Telegraph Rd",
+    "city": "Southfield",
+    "state": "MI",
+    "zip": "48033"
+  },
+  "location": {
+    "lat": 42.448318,
+    "lng": -83.278847
+  },
+  "contact": {
+    "phone": "(248) 356-8660",
+    "website": "http://www.mainslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e5d3b35f-da31-4c5b-aebe-3a04a22b8b66",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

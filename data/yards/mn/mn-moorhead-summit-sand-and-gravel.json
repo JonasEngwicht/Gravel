@@ -1,0 +1,36 @@
+{
+  "id": "mn-moorhead-summit-sand-and-gravel",
+  "slug": "summit-sand-and-gravel",
+  "name": "Summit Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2660 16th Ave S",
+    "city": "Moorhead",
+    "state": "MN",
+    "zip": "56560"
+  },
+  "location": {
+    "lat": 46.858723,
+    "lng": -96.738022
+  },
+  "contact": {
+    "phone": "(218) 512-0888",
+    "website": "https://summitgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3716418f-3efe-485c-86fe-226f79809d84",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tx-manor-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12550 Harris Branch Pkwy",
+    "city": "Manor",
+    "state": "TX",
+    "zip": "78653"
+  },
+  "location": {
+    "lat": 30.377388,
+    "lng": -97.615845
+  },
+  "contact": {
+    "phone": "(512) 278-0997",
+    "website": "https://www.linkedin.com/company/siteone-landscape-supply/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d9cf2548-1f24-4dd3-8a15-2da0ef4564aa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

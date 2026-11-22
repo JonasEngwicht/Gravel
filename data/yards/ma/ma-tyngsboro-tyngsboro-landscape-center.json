@@ -1,0 +1,36 @@
+{
+  "id": "ma-tyngsboro-tyngsboro-landscape-center",
+  "slug": "tyngsboro-landscape-center",
+  "name": "Tyngsboro Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "56 Sherburne Ave",
+    "city": "Tyngsboro",
+    "state": "MA",
+    "zip": "01879"
+  },
+  "location": {
+    "lat": 42.667755,
+    "lng": -71.428825
+  },
+  "contact": {
+    "phone": "(978) 649-2745",
+    "website": "https://tynglandscapecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "54074f64-8d55-4c68-bdce-30d0a0b9d3a9",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

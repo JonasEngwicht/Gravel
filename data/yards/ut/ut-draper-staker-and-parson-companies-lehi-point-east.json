@@ -1,0 +1,41 @@
+{
+  "id": "ut-draper-staker-and-parson-companies-lehi-point-east",
+  "slug": "staker-and-parson-companies-lehi-point-east",
+  "name": "Staker & Parson Companies – Lehi Point East",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Draper",
+    "state": "UT",
+    "zip": "84065"
+  },
+  "location": {
+    "lat": 40.463056,
+    "lng": -111.911111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202130"
+  },
+  "msha": [
+    {
+      "mine_id": "4202130",
+      "name": "Lehi Point East",
+      "operator": "Staker & Parson Companies",
+      "status": "Active",
+      "status_since": "1997-02-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 30
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-pottstown-conestoga-stone-landscape-supply-store",
+  "slug": "conestoga-stone-landscape-supply-store",
+  "name": "Conestoga Stone Landscape Supply Store",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1101 Ridge Rd",
+    "city": "Pottstown",
+    "state": "PA",
+    "zip": "19465"
+  },
+  "location": {
+    "lat": 40.175373,
+    "lng": -75.666054
+  },
+  "contact": {
+    "phone": "(610) 656-6466",
+    "website": "http://www.conestogastone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a2c3bb9-10d8-47cd-9dd6-4cbabe499e69",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

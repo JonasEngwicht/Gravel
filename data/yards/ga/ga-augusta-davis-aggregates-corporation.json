@@ -1,0 +1,36 @@
+{
+  "id": "ga-augusta-davis-aggregates-corporation",
+  "slug": "davis-aggregates-corporation",
+  "name": "Davis Aggregates Corporation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "100 Apac Industrial Way",
+    "city": "Augusta",
+    "state": "GA",
+    "zip": "30907"
+  },
+  "location": {
+    "lat": 33.523979,
+    "lng": -82.039688
+  },
+  "contact": {
+    "phone": "(706) 738-1413",
+    "website": "https://www.davisaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c0716d30-e495-486f-9987-0c36c89ac851",
+    "confidence": 0.786,
+    "merged_records": 1
+  }
+}

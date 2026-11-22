@@ -1,0 +1,35 @@
+{
+  "id": "wi-west-milwaukee-premier-landscape-products-llc",
+  "slug": "premier-landscape-products-llc",
+  "name": "Premier Landscape Products, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4600 W Burnham St",
+    "city": "West Milwaukee",
+    "state": "WI",
+    "zip": "53219"
+  },
+  "location": {
+    "lat": 43.010639,
+    "lng": -87.972206
+  },
+  "contact": {
+    "website": "https://premierlandscapeproductswi.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19b04f1e-9fee-4c84-996e-29edf4aec42a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

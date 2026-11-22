@@ -1,0 +1,32 @@
+{
+  "id": "wi-theresa-kcs-landscaping-supplies",
+  "slug": "kcs-landscaping-supplies",
+  "name": "KCs landscaping supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "N7063 CR-P",
+    "city": "Theresa",
+    "state": "WI",
+    "zip": "53091"
+  },
+  "location": {
+    "lat": 43.44772,
+    "lng": -88.450676
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "edb81860-1734-4f5c-af3f-9ad583b596c2",
+    "confidence": 0.707,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-hahira-the-scruggs-company-valdosta-aggregate-yard-and-asphalt-plant",
+  "slug": "the-scruggs-company-valdosta-aggregate-yard-and-asphalt-plant",
+  "name": "The Scruggs Company - Valdosta Aggregate Yard And Asphalt Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4679 Old US 41 N",
+    "city": "Hahira",
+    "state": "GA",
+    "zip": "31632"
+  },
+  "location": {
+    "lat": 30.932459,
+    "lng": -83.351547
+  },
+  "contact": {
+    "phone": "(229) 242-2388",
+    "website": "https://www.scruggscompany.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f6bcf48-3a71-4456-a286-bfae057c9da9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fl-baseball-city-cemex-construction-materials-florida-gator-sand-mine",
+  "slug": "cemex-construction-materials-florida-gator-sand-mine",
+  "name": "CEMEX Construction Materials Florida – Gator Sand Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Baseball City",
+    "state": "FL",
+    "zip": "33897"
+  },
+  "location": {
+    "lat": 28.256389,
+    "lng": -81.680278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801308"
+  },
+  "msha": [
+    {
+      "mine_id": "0801308",
+      "name": "Gator Sand Mine",
+      "operator": "CEMEX Construction Materials Florida, LLC",
+      "status": "Active",
+      "status_since": "2008-12-19",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

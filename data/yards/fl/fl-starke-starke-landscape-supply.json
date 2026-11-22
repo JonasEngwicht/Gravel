@@ -1,0 +1,36 @@
+{
+  "id": "fl-starke-starke-landscape-supply",
+  "slug": "starke-landscape-supply",
+  "name": "Starke Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1469 S Walnut St",
+    "city": "Starke",
+    "state": "FL",
+    "zip": "32091"
+  },
+  "location": {
+    "lat": 29.931557,
+    "lng": -82.118629
+  },
+  "contact": {
+    "phone": "(904) 964-3112",
+    "website": "https://starkelandscapesupplyfl.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fdb6ae47-7812-4125-8682-bddf0a386bd6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

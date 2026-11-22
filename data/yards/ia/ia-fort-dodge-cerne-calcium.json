@@ -1,0 +1,41 @@
+{
+  "id": "ia-fort-dodge-cerne-calcium",
+  "slug": "cerne-calcium",
+  "name": "Cerne Calcium",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Fort Dodge",
+    "state": "IA",
+    "zip": "50501"
+  },
+  "location": {
+    "lat": 42.506389,
+    "lng": -94.226389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1301568"
+  },
+  "msha": [
+    {
+      "mine_id": "1301568",
+      "name": "Cerne Calcium Co., LLC",
+      "operator": "Cerne Calcium Company",
+      "status": "Active",
+      "status_since": "1974-07-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

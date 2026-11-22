@@ -1,0 +1,41 @@
+{
+  "id": "mo-eldon-simpson-farms-olean-quarry",
+  "slug": "simpson-farms-olean-quarry",
+  "name": "Simpson Farms – Olean Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Eldon",
+    "state": "MO",
+    "zip": "65354"
+  },
+  "location": {
+    "lat": 38.702778,
+    "lng": -92.901111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302587"
+  },
+  "msha": [
+    {
+      "mine_id": "2302587",
+      "name": "Olean Quarry",
+      "operator": "Simpson Farms, LLC",
+      "status": "Intermittent",
+      "status_since": "2024-05-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

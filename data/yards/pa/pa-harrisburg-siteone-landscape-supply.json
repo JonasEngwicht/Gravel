@@ -1,0 +1,37 @@
+{
+  "id": "pa-harrisburg-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "493 Blue Eagle Ave",
+    "city": "Harrisburg",
+    "state": "PA",
+    "zip": "17112"
+  },
+  "location": {
+    "lat": 40.328072,
+    "lng": -76.785652
+  },
+  "contact": {
+    "phone": "(717) 652-5813",
+    "website": "https://www.siteone.com/store/621"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ee15a03-a189-49ed-92e5-c071ecce20e7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

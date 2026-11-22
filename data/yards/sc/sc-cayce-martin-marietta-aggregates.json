@@ -1,0 +1,49 @@
+{
+  "id": "sc-cayce-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "2125 State St",
+    "city": "Cayce",
+    "state": "SC",
+    "zip": "29033"
+  },
+  "location": {
+    "lat": 33.974609,
+    "lng": -81.050323
+  },
+  "contact": {
+    "phone": "(803) 796-8320",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d30aef7d-43bf-40b4-9f40-c365aaeae3e0",
+    "confidence": 0.997,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3800016",
+      "name": "Cayce Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1978-12-18",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 27
+    }
+  ]
+}

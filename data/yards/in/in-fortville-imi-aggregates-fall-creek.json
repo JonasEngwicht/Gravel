@@ -1,0 +1,48 @@
+{
+  "id": "in-fortville-imi-aggregates-fall-creek",
+  "slug": "imi-aggregates-fall-creek",
+  "name": "imi Aggregates - Fall Creek",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "11440 Atlantic Rd.",
+    "city": "Fortville",
+    "state": "IN",
+    "zip": "46040"
+  },
+  "location": {
+    "lat": 39.956966,
+    "lng": -85.866974
+  },
+  "contact": {
+    "phone": "(317) 485-7562",
+    "website": "https://locations.irvmat.com/in/278?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1c322b5-cd03-4714-ac63-cbff72b24c7f",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202430",
+      "name": "Fall Creek Sand & Gravel",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2011-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

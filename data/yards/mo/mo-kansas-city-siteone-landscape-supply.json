@@ -1,0 +1,37 @@
+{
+  "id": "mo-kansas-city-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5901 NE 96th St",
+    "city": "Kansas City",
+    "state": "MO",
+    "zip": "64156"
+  },
+  "location": {
+    "lat": 39.266163,
+    "lng": -94.507347
+  },
+  "contact": {
+    "phone": "(816) 407-7888",
+    "website": "https://www.siteone.com/store/368"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "56c7d7a8-0ac9-4e4b-b7ee-96ba53d12cb3",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-sunny-side-scoops-landscaping-materials",
+  "slug": "scoops-landscaping-materials",
+  "name": "Scoops Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3970 US-41",
+    "city": "Sunny Side",
+    "state": "GA",
+    "zip": "30284"
+  },
+  "location": {
+    "lat": 33.340187,
+    "lng": -84.294571
+  },
+  "contact": {
+    "phone": "(770) 228-6265",
+    "website": "http://www.scoopslandscapingmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "17360272-d840-4747-8f84-f51ee69187bd",
+    "confidence": 0.576,
+    "merged_records": 1
+  }
+}

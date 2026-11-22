@@ -1,0 +1,36 @@
+{
+  "id": "ma-swansea-windy-acres-landscape-supply",
+  "slug": "windy-acres-landscape-supply",
+  "name": "Windy Acres Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "206 Hilton Ln",
+    "city": "Swansea",
+    "state": "MA",
+    "zip": "02777"
+  },
+  "location": {
+    "lat": 41.779175,
+    "lng": -71.163101
+  },
+  "contact": {
+    "phone": "(774) 644-9127",
+    "website": "http://goldleaflawnscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "011019f9-5f27-4f63-8add-95d180d8f8e5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

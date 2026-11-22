@@ -1,0 +1,36 @@
+{
+  "id": "tn-mt-juliet-dickens-turf-and-landscape-supply-mount-juliet",
+  "slug": "dickens-turf-and-landscape-supply-mount-juliet",
+  "name": "Dickens Turf & Landscape Supply Mount Juliet",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "145 Old Pleasant Grove Rd",
+    "city": "Mt Juliet",
+    "state": "TN",
+    "zip": "37122"
+  },
+  "location": {
+    "lat": 36.173611,
+    "lng": -86.515892
+  },
+  "contact": {
+    "phone": "(615) 701-2977",
+    "website": "http://www.dickenssupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d6fd460b-47f1-4df0-af93-557de3895e0b",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

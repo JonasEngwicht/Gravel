@@ -1,0 +1,49 @@
+{
+  "id": "ca-hughson-martin-marietta-hughson-aggregates",
+  "slug": "martin-marietta-hughson-aggregates",
+  "name": "Martin Marietta - Hughson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "1100 Lowe Rd",
+    "city": "Hughson",
+    "state": "CA",
+    "zip": "95326"
+  },
+  "location": {
+    "lat": 37.615826,
+    "lng": -120.823914
+  },
+  "contact": {
+    "phone": "(209) 883-0448",
+    "website": "https://www.martinmarietta.com/locations/west/california-aggregates-district/hughson-aggregates"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "353e579d-69a0-4953-85af-8b900190b5d2",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0401769",
+      "name": "Hughson Aggregates",
+      "operator": "Martin Marietta Northern California Aggregates,LLC",
+      "status": "Active",
+      "status_since": "2015-09-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

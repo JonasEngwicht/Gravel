@@ -1,0 +1,41 @@
+{
+  "id": "ms-vossburg-apac-ms-vossburg-pit",
+  "slug": "apac-ms-vossburg-pit",
+  "name": "APAC, MS – Vossburg Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Vossburg",
+    "state": "MS",
+    "zip": "39366"
+  },
+  "location": {
+    "lat": 31.882222,
+    "lng": -88.908056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200493"
+  },
+  "msha": [
+    {
+      "mine_id": "2200493",
+      "name": "Vossburg Pit",
+      "operator": "APAC, MS Inc.",
+      "status": "Active",
+      "status_since": "1994-05-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-santa-maria-trinity-landscape-center",
+  "slug": "trinity-landscape-center",
+  "name": "Trinity Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3445 Orcutt Rd",
+    "city": "Santa Maria",
+    "state": "CA",
+    "zip": "93455"
+  },
+  "location": {
+    "lat": 34.897373,
+    "lng": -120.437134
+  },
+  "contact": {
+    "phone": "(805) 934-8400",
+    "website": "http://www.trinitylandscapecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0a722062-d6ab-452f-bc19-978e7e475f49",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

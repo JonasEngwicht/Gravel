@@ -1,0 +1,36 @@
+{
+  "id": "ks-kansas-city-talon-concrete-and-aggregates",
+  "slug": "talon-concrete-and-aggregates",
+  "name": "Talon Concrete & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "317 S 3rd St",
+    "city": "Kansas City",
+    "state": "KS",
+    "zip": "66118"
+  },
+  "location": {
+    "lat": 39.099171,
+    "lng": -94.617355
+  },
+  "contact": {
+    "phone": "(913) 342-9639",
+    "website": "http://talonconagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "29a8bd63-3b8c-4dab-80eb-2c6089d208ef",
+    "confidence": 0.511,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "la-lake-charles-lake-charles-sand-gravel-dirt-pit",
+  "slug": "lake-charles-sand-gravel-dirt-pit",
+  "name": "Lake Charles Sand Gravel Dirt Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "6100 McCowen Rd",
+    "city": "Lake Charles",
+    "state": "LA",
+    "zip": "70615"
+  },
+  "location": {
+    "lat": 30.218092,
+    "lng": -93.12484
+  },
+  "contact": {
+    "phone": "(337) 274-0222",
+    "website": "http://pitresdirtwork.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e0c29c3e-2287-45f9-aa6e-09c663786c29",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

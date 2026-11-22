@@ -1,0 +1,37 @@
+{
+  "id": "id-twin-falls-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1773 Eldridge Ave",
+    "city": "Twin Falls",
+    "state": "ID",
+    "zip": "83301"
+  },
+  "location": {
+    "lat": 42.541298,
+    "lng": -114.450943
+  },
+  "contact": {
+    "phone": "(208) 734-9089",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26f0fb46-6ef6-4284-93a6-495c29911ac8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

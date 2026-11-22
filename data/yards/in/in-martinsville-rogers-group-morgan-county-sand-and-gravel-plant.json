@@ -1,0 +1,41 @@
+{
+  "id": "in-martinsville-rogers-group-morgan-county-sand-and-gravel-plant",
+  "slug": "rogers-group-morgan-county-sand-and-gravel-plant",
+  "name": "Rogers Group – Morgan County Sand & Gravel Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Martinsville",
+    "state": "IN",
+    "zip": "46151"
+  },
+  "location": {
+    "lat": 39.407222,
+    "lng": -86.462222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200721"
+  },
+  "msha": [
+    {
+      "mine_id": "1200721",
+      "name": "Morgan County Sand & Gravel Plant",
+      "operator": "Rogers Group Inc",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

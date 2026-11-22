@@ -1,0 +1,47 @@
+{
+  "id": "la-greensburg-bunch-gravel",
+  "slug": "bunch-gravel",
+  "name": "Bunch Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "454 Otis and Willie Matthews Rd",
+    "city": "Greensburg",
+    "state": "LA",
+    "zip": "70441"
+  },
+  "location": {
+    "lat": 30.863577,
+    "lng": -90.815018
+  },
+  "contact": {
+    "phone": "(225) 222-4664"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9d6b213-602b-4c75-b27c-80199c564995",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1601296",
+      "name": "Bunch Gravel Pit 2",
+      "operator": "Bunch Gravel, Inc",
+      "status": "Active",
+      "status_since": "1995-10-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ia-boone-aplus-topsoil-solutions",
+  "slug": "aplus-topsoil-solutions",
+  "name": "APlus Topsoil Solutions",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2137 130th St",
+    "city": "Boone",
+    "state": "IA",
+    "zip": "50036"
+  },
+  "location": {
+    "lat": 42.166512,
+    "lng": -93.750092
+  },
+  "contact": {
+    "phone": "(515) 230-1399",
+    "website": "http://www.aplustopsoilsolutions.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37ff4605-3de4-4679-b2d3-1ce356f1be28",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

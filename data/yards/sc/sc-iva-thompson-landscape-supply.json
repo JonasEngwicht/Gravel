@@ -1,0 +1,35 @@
+{
+  "id": "sc-iva-thompson-landscape-supply",
+  "slug": "thompson-landscape-supply",
+  "name": "Thompson Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "E Poplar St",
+    "city": "Iva",
+    "state": "SC",
+    "zip": "29655"
+  },
+  "location": {
+    "lat": 34.308376,
+    "lng": -82.662231
+  },
+  "contact": {
+    "phone": "(864) 934-8653"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa751802-acac-4234-9a0a-4edf00424070",
+    "confidence": 0.63,
+    "merged_records": 1
+  }
+}

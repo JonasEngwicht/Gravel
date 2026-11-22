@@ -1,0 +1,41 @@
+{
+  "id": "wi-orfordville-footville-rock-and-lime",
+  "slug": "footville-rock-and-lime",
+  "name": "Footville Rock & Lime",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Orfordville",
+    "state": "WI",
+    "zip": "53537"
+  },
+  "location": {
+    "lat": 42.671667,
+    "lng": -89.281944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4700056"
+  },
+  "msha": [
+    {
+      "mine_id": "4700056",
+      "name": "Footville Rock & Lime Corp",
+      "operator": "Footville Rock & Lime Corp",
+      "status": "Intermittent",
+      "status_since": "2017-01-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

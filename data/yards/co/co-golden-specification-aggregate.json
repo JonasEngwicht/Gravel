@@ -1,0 +1,35 @@
+{
+  "id": "co-golden-specification-aggregate",
+  "slug": "specification-aggregate",
+  "name": "Specification Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "19301 W Colfax Ave",
+    "city": "Golden",
+    "state": "CO",
+    "zip": "80401"
+  },
+  "location": {
+    "lat": 39.695938,
+    "lng": -105.209358
+  },
+  "contact": {
+    "phone": "(303) 271-9428"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abd3c3ca-1385-4bb9-86d7-ea5f575e0460",
+    "confidence": 0.544,
+    "merged_records": 1
+  }
+}

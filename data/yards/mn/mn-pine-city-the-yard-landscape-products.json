@@ -1,0 +1,35 @@
+{
+  "id": "mn-pine-city-the-yard-landscape-products",
+  "slug": "the-yard-landscape-products",
+  "name": "The Yard Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "435 5th St SE",
+    "city": "Pine City",
+    "state": "MN",
+    "zip": "55063"
+  },
+  "location": {
+    "lat": 45.824959,
+    "lng": -92.969971
+  },
+  "contact": {
+    "phone": "(651) 272-0926"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f464a4cf-85ee-4583-bd2f-1b03c917234b",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

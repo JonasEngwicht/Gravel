@@ -1,0 +1,41 @@
+{
+  "id": "wi-colgate-amrize-mid-america-amrize-colgate-pit-yard-1",
+  "slug": "amrize-mid-america-amrize-colgate-pit-yard-1",
+  "name": "Amrize Mid-America – Amrize Colgate Pit Yard 1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Colgate",
+    "state": "WI",
+    "zip": "53017"
+  },
+  "location": {
+    "lat": 43.204444,
+    "lng": -88.241667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4700907"
+  },
+  "msha": [
+    {
+      "mine_id": "4700907",
+      "name": "Amrize Colgate Pit Yard 1",
+      "operator": "Amrize Mid-America Inc.",
+      "status": "Active",
+      "status_since": "2013-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

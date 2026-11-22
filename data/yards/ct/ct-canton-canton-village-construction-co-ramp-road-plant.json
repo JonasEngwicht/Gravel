@@ -1,0 +1,41 @@
+{
+  "id": "ct-canton-canton-village-construction-co-ramp-road-plant",
+  "slug": "canton-village-construction-co-ramp-road-plant",
+  "name": "Canton Village Construction Co – Ramp Road Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Canton",
+    "state": "CT",
+    "zip": "06022"
+  },
+  "location": {
+    "lat": 41.835,
+    "lng": -72.934167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600768"
+  },
+  "msha": [
+    {
+      "mine_id": "0600768",
+      "name": "Ramp Road Plant",
+      "operator": "Canton Village Construction Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-07-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

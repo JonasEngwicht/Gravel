@@ -1,0 +1,41 @@
+{
+  "id": "mn-morton-schmidt-construction-crusher-1",
+  "slug": "schmidt-construction-crusher-1",
+  "name": "Schmidt Construction – Crusher #1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Morton",
+    "state": "MN",
+    "zip": "56283"
+  },
+  "location": {
+    "lat": 44.541111,
+    "lng": -95.118611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103653"
+  },
+  "msha": [
+    {
+      "mine_id": "2103653",
+      "name": "Crusher #1",
+      "operator": "Schmidt Construction, Inc.",
+      "status": "Intermittent",
+      "status_since": "2008-11-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

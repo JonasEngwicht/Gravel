@@ -1,0 +1,41 @@
+{
+  "id": "me-clifton-williams-rock-and-gravel",
+  "slug": "williams-rock-and-gravel",
+  "name": "Williams Rock & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Clifton",
+    "state": "ME",
+    "zip": "04428"
+  },
+  "location": {
+    "lat": 44.7725,
+    "lng": -68.4975
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700775"
+  },
+  "msha": [
+    {
+      "mine_id": "1700775",
+      "name": "Williams",
+      "operator": "Williams Rock & Gravel",
+      "status": "Intermittent",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-ft-myers-mike-s-trucking-and-landscape-material",
+  "slug": "mike-s-trucking-and-landscape-material",
+  "name": "Mike's Trucking & Landscape Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "17305 Pine Ridge Rd",
+    "city": "Ft. Myers",
+    "state": "FL",
+    "zip": "33931"
+  },
+  "location": {
+    "lat": 26.489988,
+    "lng": -81.933563
+  },
+  "contact": {
+    "phone": "(239) 415-7744",
+    "website": "http://www.mikes-trucking.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d94169c-edd3-4ab7-a57a-5db145cfc267",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "md-joppa-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "12140 Pulaski Hwy",
+    "city": "Joppa",
+    "state": "MD",
+    "zip": "21085"
+  },
+  "location": {
+    "lat": 39.41407,
+    "lng": -76.383904
+  },
+  "contact": {
+    "phone": "(410) 679-6700",
+    "website": "http://www.wirtzanddaughters.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c880bc5a-29b6-40e0-98e9-099ad56fb2cf",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "tx-lubbock-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5815 50th St",
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79424"
+  },
+  "location": {
+    "lat": 33.548378,
+    "lng": -101.941284
+  },
+  "contact": {
+    "phone": "(806) 780-7995",
+    "website": "https://www.siteone.com/en/store/207"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2a495195-49ca-4626-96e9-05fc6d374954",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

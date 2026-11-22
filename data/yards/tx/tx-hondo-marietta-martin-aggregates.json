@@ -1,0 +1,36 @@
+{
+  "id": "tx-hondo-marietta-martin-aggregates",
+  "slug": "marietta-martin-aggregates",
+  "name": "Marietta Martin Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "4670 State Highway 173 N",
+    "city": "Hondo",
+    "state": "TX",
+    "zip": "78861"
+  },
+  "location": {
+    "lat": 29.477451,
+    "lng": -99.11689
+  },
+  "contact": {
+    "phone": "(830) 741-8227",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f193e026-92fe-4127-b910-dcced3e0ce47",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

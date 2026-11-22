@@ -1,0 +1,35 @@
+{
+  "id": "ny-rochester-bill-s-topsoil-sand-gravel",
+  "slug": "bill-s-topsoil-sand-gravel",
+  "name": "Bill's Topsoil Sand Gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "275 Wetmore Park",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14606"
+  },
+  "location": {
+    "lat": 43.165436,
+    "lng": -77.657333
+  },
+  "contact": {
+    "phone": "(585) 247-2010"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "483838af-f10b-421a-bc40-b744df6dbbb7",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

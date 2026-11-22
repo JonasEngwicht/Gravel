@@ -1,0 +1,36 @@
+{
+  "id": "tn-cookeville-southern-landscape-supply",
+  "slug": "southern-landscape-supply",
+  "name": "Southern Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "611 Rich Froning Way",
+    "city": "Cookeville",
+    "state": "TN",
+    "zip": "38501"
+  },
+  "location": {
+    "lat": 36.145771,
+    "lng": -85.478271
+  },
+  "contact": {
+    "phone": "(931) 520-7097",
+    "website": "http://thesouthernlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3d34677a-1568-4d0e-8dd0-95a96fbca9f3",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

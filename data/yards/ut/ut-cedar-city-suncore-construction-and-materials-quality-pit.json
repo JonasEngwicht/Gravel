@@ -1,0 +1,41 @@
+{
+  "id": "ut-cedar-city-suncore-construction-and-materials-quality-pit",
+  "slug": "suncore-construction-and-materials-quality-pit",
+  "name": "Suncore Construction and Materials – Quality Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cedar City",
+    "state": "UT",
+    "zip": "84721"
+  },
+  "location": {
+    "lat": 37.712778,
+    "lng": -113.078611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4200366"
+  },
+  "msha": [
+    {
+      "mine_id": "4200366",
+      "name": "Quality Pit",
+      "operator": "Suncore Construction and Materials Inc.",
+      "status": "Active",
+      "status_since": "2020-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ct-north-stonington-shoreline-landscape-materials-llc",
+  "slug": "shoreline-landscape-materials-llc",
+  "name": "Shoreline Landscape Materials LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "124 Norwich Westerly Rd",
+    "city": "North Stonington",
+    "state": "CT",
+    "zip": "06359"
+  },
+  "location": {
+    "lat": 41.42791,
+    "lng": -71.862396
+  },
+  "contact": {
+    "phone": "(860) 855-4473"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7dbfaeb7-c1a9-41cc-b70b-b31dc9d8dc67",
+    "confidence": 0.524,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-algoma-twp-grand-rapids-gravel-co",
+  "slug": "grand-rapids-gravel-co",
+  "name": "Grand Rapids Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11790 White Creek Ave NE",
+    "city": "Algoma Twp",
+    "state": "MI",
+    "zip": "49319"
+  },
+  "location": {
+    "lat": 43.178474,
+    "lng": -85.568787
+  },
+  "contact": {
+    "phone": "(616) 538-9000",
+    "website": "http://www.grgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3eaea7c8-0040-458d-87fe-9a12fc29cea9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

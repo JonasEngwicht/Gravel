@@ -1,0 +1,35 @@
+{
+  "id": "al-hazel-green-ragland-topsoil-and-landscaping",
+  "slug": "ragland-topsoil-and-landscaping",
+  "name": "Ragland Topsoil & Landscaping",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "104 Bullard Rd",
+    "city": "Hazel Green",
+    "state": "AL",
+    "zip": "35750"
+  },
+  "location": {
+    "lat": 34.932755,
+    "lng": -86.56736
+  },
+  "contact": {
+    "phone": "(256) 990-9065"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "25a616b2-beb3-457f-aabb-76e6d045a46c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

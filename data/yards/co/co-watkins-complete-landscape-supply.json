@@ -1,0 +1,36 @@
+{
+  "id": "co-watkins-complete-landscape-supply",
+  "slug": "complete-landscape-supply",
+  "name": "Complete Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "33365 E Colfax Ave",
+    "city": "Watkins",
+    "state": "CO",
+    "zip": "80137"
+  },
+  "location": {
+    "lat": 39.745331,
+    "lng": -104.598976
+  },
+  "contact": {
+    "phone": "(720) 234-7130",
+    "website": "https://www.clsmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "579b0b88-3855-49ab-abac-5d8ebbceb650",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

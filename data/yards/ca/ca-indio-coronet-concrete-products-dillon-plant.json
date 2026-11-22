@@ -1,0 +1,41 @@
+{
+  "id": "ca-indio-coronet-concrete-products-dillon-plant",
+  "slug": "coronet-concrete-products-dillon-plant",
+  "name": "Coronet Concrete Products – Dillon Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Indio",
+    "state": "CA",
+    "zip": "92203"
+  },
+  "location": {
+    "lat": 33.801389,
+    "lng": -116.188056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405447"
+  },
+  "msha": [
+    {
+      "mine_id": "0405447",
+      "name": "Dillon Plant",
+      "operator": "Coronet Concrete Products",
+      "status": "Active",
+      "status_since": "2022-04-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

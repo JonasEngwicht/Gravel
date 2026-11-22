@@ -1,0 +1,36 @@
+{
+  "id": "la-baton-rouge-landscape-depot",
+  "slug": "landscape-depot",
+  "name": "Landscape Depot",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14005 Airline Hwy",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70817"
+  },
+  "location": {
+    "lat": 30.367571,
+    "lng": -91.026756
+  },
+  "contact": {
+    "phone": "(225) 413-6702",
+    "website": "http://www.landscapedepotbr.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "790a01e7-f0dc-4c94-aae5-3fe5e7cb4017",
+    "confidence": 0.837,
+    "merged_records": 1
+  }
+}

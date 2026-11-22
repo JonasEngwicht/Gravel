@@ -1,0 +1,41 @@
+{
+  "id": "ny-boonville-barrett-paving-materials-boonville-quarry",
+  "slug": "barrett-paving-materials-boonville-quarry",
+  "name": "Barrett Paving Materials – Boonville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Boonville",
+    "state": "NY",
+    "zip": "13309"
+  },
+  "location": {
+    "lat": 43.527222,
+    "lng": -75.323889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001291"
+  },
+  "msha": [
+    {
+      "mine_id": "3001291",
+      "name": "Boonville Quarry",
+      "operator": "Barrett Paving Materials Inc",
+      "status": "Intermittent",
+      "status_since": "2026-09-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-brighton-lorea-topsoil-and-aggregate-brighton",
+  "slug": "lorea-topsoil-and-aggregate-brighton",
+  "name": "LoRea Topsoil & Aggregate - Brighton",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4812 Old US 23",
+    "city": "Brighton",
+    "state": "MI",
+    "zip": "48114"
+  },
+  "location": {
+    "lat": 42.532379,
+    "lng": -83.757568
+  },
+  "contact": {
+    "phone": "(810) 295-2021",
+    "website": "http://www.loreatopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7fb4131e-762b-4899-9856-55be753683f4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

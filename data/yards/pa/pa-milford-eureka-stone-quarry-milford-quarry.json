@@ -1,0 +1,41 @@
+{
+  "id": "pa-milford-eureka-stone-quarry-milford-quarry",
+  "slug": "eureka-stone-quarry-milford-quarry",
+  "name": "Eureka Stone Quarry – Milford Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Milford",
+    "state": "PA",
+    "zip": "18337"
+  },
+  "location": {
+    "lat": 41.349167,
+    "lng": -74.864722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3605515"
+  },
+  "msha": [
+    {
+      "mine_id": "3605515",
+      "name": "Milford Quarry",
+      "operator": "Eureka Stone Quarry Inc",
+      "status": "Active",
+      "status_since": "2013-01-14",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

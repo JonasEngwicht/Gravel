@@ -1,0 +1,41 @@
+{
+  "id": "tx-buda-centex-materials-buda-quarry",
+  "slug": "centex-materials-buda-quarry",
+  "name": "Centex Materials – Buda Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Buda",
+    "state": "TX",
+    "zip": "78610"
+  },
+  "location": {
+    "lat": 30.070556,
+    "lng": -97.861667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4102241"
+  },
+  "msha": [
+    {
+      "mine_id": "4102241",
+      "name": "Buda Quarry",
+      "operator": "Centex Materials llc",
+      "status": "Active",
+      "status_since": "1974-08-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "oh-holmesville-holmes-supply",
+  "slug": "holmes-supply",
+  "name": "Holmes Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Holmesville",
+    "state": "OH",
+    "zip": "44633"
+  },
+  "location": {
+    "lat": 40.621111,
+    "lng": -81.922222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3302137"
+  },
+  "msha": [
+    {
+      "mine_id": "3302137",
+      "name": "Holmes Supply 1",
+      "operator": "Holmes Supply Corp.",
+      "status": "Active",
+      "status_since": "2000-03-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

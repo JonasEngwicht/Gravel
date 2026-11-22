@@ -1,0 +1,37 @@
+{
+  "id": "la-saint-rose-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "160 James Dr E Ste 200",
+    "city": "Saint Rose",
+    "state": "LA",
+    "zip": "70087"
+  },
+  "location": {
+    "lat": 29.982733,
+    "lng": -90.280937
+  },
+  "contact": {
+    "phone": "(504) 468-3247",
+    "website": "https://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "976df7d3-b96c-40ec-8c0e-aaf75977bc48",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mo-cook-station-msg-meramec-sand-and-gravel",
+  "slug": "msg-meramec-sand-and-gravel",
+  "name": "MSG Meramec Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cook Station",
+    "state": "MO",
+    "zip": "65409"
+  },
+  "location": {
+    "lat": 37.999722,
+    "lng": -91.728333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302606"
+  },
+  "msha": [
+    {
+      "mine_id": "2302606",
+      "name": "Msg",
+      "operator": "MSG Meramec Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2026-07-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

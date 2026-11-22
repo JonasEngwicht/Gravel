@@ -1,0 +1,36 @@
+{
+  "id": "oh-harrison-agro-mulch-and-topsoil",
+  "slug": "agro-mulch-and-topsoil",
+  "name": "AGRO Mulch & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10895 OH-128",
+    "city": "Harrison",
+    "state": "OH",
+    "zip": "45030"
+  },
+  "location": {
+    "lat": 39.280766,
+    "lng": -84.682686
+  },
+  "contact": {
+    "phone": "(513) 738-5678",
+    "website": "http://www.agrolandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3bad6d44-ba43-4ef6-8ce6-afe6c767122f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

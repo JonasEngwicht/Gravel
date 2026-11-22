@@ -1,0 +1,41 @@
+{
+  "id": "tn-savannah-bedrock-quarry-and-gravel",
+  "slug": "bedrock-quarry-and-gravel",
+  "name": "Bedrock Quarry and Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Savannah",
+    "state": "TN",
+    "zip": "38372"
+  },
+  "location": {
+    "lat": 35.156389,
+    "lng": -88.129167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003354"
+  },
+  "msha": [
+    {
+      "mine_id": "4003354",
+      "name": "Bedrock Quarry and Gravel",
+      "operator": "Bedrock Quarry and Gravel",
+      "status": "Intermittent",
+      "status_since": "2026-03-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

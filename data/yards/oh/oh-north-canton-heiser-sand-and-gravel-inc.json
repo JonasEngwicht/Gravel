@@ -1,0 +1,47 @@
+{
+  "id": "oh-north-canton-heiser-sand-and-gravel-inc",
+  "slug": "heiser-sand-and-gravel-inc",
+  "name": "Heiser Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4833 Applegrove St NW",
+    "city": "North Canton",
+    "state": "OH",
+    "zip": "44720"
+  },
+  "location": {
+    "lat": 40.889259,
+    "lng": -81.437439
+  },
+  "contact": {
+    "phone": "(330) 499-8201"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "563e7a7a-6dab-4e31-aa91-d5f176d97f79",
+    "confidence": 0.95,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301624",
+      "name": "Heiser Mine",
+      "operator": "Heiser Sand & Gravel Corporation",
+      "status": "Abandoned",
+      "status_since": "2022-10-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

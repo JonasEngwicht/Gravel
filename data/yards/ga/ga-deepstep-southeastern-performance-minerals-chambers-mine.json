@@ -1,0 +1,41 @@
+{
+  "id": "ga-deepstep-southeastern-performance-minerals-chambers-mine",
+  "slug": "southeastern-performance-minerals-chambers-mine",
+  "name": "Southeastern Performance Minerals – Chambers Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Deepstep",
+    "state": "GA",
+    "zip": "31082"
+  },
+  "location": {
+    "lat": 33.033333,
+    "lng": -82.963333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901250"
+  },
+  "msha": [
+    {
+      "mine_id": "0901250",
+      "name": "Chambers Mine",
+      "operator": "Southeastern Performance Minerals",
+      "status": "Intermittent",
+      "status_since": "2020-03-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

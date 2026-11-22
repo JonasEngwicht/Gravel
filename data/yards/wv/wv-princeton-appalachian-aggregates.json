@@ -1,0 +1,48 @@
+{
+  "id": "wv-princeton-appalachian-aggregates",
+  "slug": "appalachian-aggregates",
+  "name": "Appalachian Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1111 Blake Hollow Rd",
+    "city": "Princeton",
+    "state": "WV",
+    "zip": "24739"
+  },
+  "location": {
+    "lat": 37.309139,
+    "lng": -81.059647
+  },
+  "contact": {
+    "phone": "(888) 661-7625",
+    "website": "http://www.appalachianaggregates.com/princeton--mercer-stone.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9fcec96-ae76-4c08-8694-88d9674c9a36",
+    "confidence": 0.894,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4602793",
+      "name": "Mercer Stone Plant",
+      "operator": "Appalachian Aggregates, LLC",
+      "status": "Active",
+      "status_since": "1978-05-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

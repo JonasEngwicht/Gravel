@@ -1,0 +1,41 @@
+{
+  "id": "ca-paradise-brown-general-engineering-wheelock-road-rock-pit",
+  "slug": "brown-general-engineering-wheelock-road-rock-pit",
+  "name": "Brown General Engineering – Wheelock Road Rock Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Paradise",
+    "state": "CA",
+    "zip": "95965"
+  },
+  "location": {
+    "lat": 39.640833,
+    "lng": -121.594722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405961"
+  },
+  "msha": [
+    {
+      "mine_id": "0405961",
+      "name": "Wheelock Road Rock Pit",
+      "operator": "Brown General Engineering, Inc",
+      "status": "Intermittent",
+      "status_since": "2023-05-29",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

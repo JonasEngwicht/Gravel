@@ -1,0 +1,36 @@
+{
+  "id": "il-mt-vernon-burkdell-mulch",
+  "slug": "burkdell-mulch",
+  "name": "Burkdell Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "300 E Fairfield Rd",
+    "city": "Mt Vernon",
+    "state": "IL",
+    "zip": "62864"
+  },
+  "location": {
+    "lat": 38.31813,
+    "lng": -88.885872
+  },
+  "contact": {
+    "phone": "(618) 242-0900",
+    "website": "https://burkdellmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12bf16bc-e182-4912-abab-cc597c26d049",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

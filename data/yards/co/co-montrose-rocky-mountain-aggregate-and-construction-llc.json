@@ -1,0 +1,36 @@
+{
+  "id": "co-montrose-rocky-mountain-aggregate-and-construction-llc",
+  "slug": "rocky-mountain-aggregate-and-construction-llc",
+  "name": "Rocky Mountain Aggregate & Construction LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "67246 T Rd",
+    "city": "Montrose",
+    "state": "CO",
+    "zip": "81403"
+  },
+  "location": {
+    "lat": 38.381432,
+    "lng": -107.831451
+  },
+  "contact": {
+    "phone": "(970) 249-8780",
+    "website": "http://www.rockymountainaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d11a053-9dd3-4add-9b9c-d3b0199237e6",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

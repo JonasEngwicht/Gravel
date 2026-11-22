@@ -1,0 +1,41 @@
+{
+  "id": "or-north-bend-main-rock-products",
+  "slug": "main-rock-products",
+  "name": "Main Rock Products",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "North Bend",
+    "state": "OR",
+    "zip": "97459"
+  },
+  "location": {
+    "lat": 43.438889,
+    "lng": -124.109722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3502646"
+  },
+  "msha": [
+    {
+      "mine_id": "3502646",
+      "name": "Main Quarry",
+      "operator": "Main Rock Products Inc",
+      "status": "Active",
+      "status_since": "2021-10-01",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

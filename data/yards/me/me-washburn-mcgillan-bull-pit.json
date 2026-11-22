@@ -1,0 +1,41 @@
+{
+  "id": "me-washburn-mcgillan-bull-pit",
+  "slug": "mcgillan-bull-pit",
+  "name": "McGillan – Bull Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Washburn",
+    "state": "ME",
+    "zip": "04786"
+  },
+  "location": {
+    "lat": 46.748889,
+    "lng": -68.091944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700987"
+  },
+  "msha": [
+    {
+      "mine_id": "1700987",
+      "name": "Bull Pit",
+      "operator": "McGillan Inc.",
+      "status": "Intermittent",
+      "status_since": "2022-10-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

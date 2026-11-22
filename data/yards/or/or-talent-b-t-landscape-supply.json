@@ -1,0 +1,35 @@
+{
+  "id": "or-talent-b-t-landscape-supply",
+  "slug": "b-t-landscape-supply",
+  "name": "B T Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1315 S Pacific Hwy",
+    "city": "Talent",
+    "state": "OR",
+    "zip": "97540"
+  },
+  "location": {
+    "lat": 42.235489,
+    "lng": -122.766197
+  },
+  "contact": {
+    "phone": "(541) 621-0246"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2959a12d-58d5-46b7-9d1e-c8f2cadb735c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

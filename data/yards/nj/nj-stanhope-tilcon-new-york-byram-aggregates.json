@@ -1,0 +1,41 @@
+{
+  "id": "nj-stanhope-tilcon-new-york-byram-aggregates",
+  "slug": "tilcon-new-york-byram-aggregates",
+  "name": "Tilcon New York – Byram Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Stanhope",
+    "state": "NJ",
+    "zip": "07874"
+  },
+  "location": {
+    "lat": 40.9325,
+    "lng": -74.718889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800670"
+  },
+  "msha": [
+    {
+      "mine_id": "2800670",
+      "name": "Byram Aggregates",
+      "operator": "Tilcon New York Inc",
+      "status": "Intermittent",
+      "status_since": "2025-04-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

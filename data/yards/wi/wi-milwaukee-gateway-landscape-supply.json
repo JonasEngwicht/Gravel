@@ -1,0 +1,35 @@
+{
+  "id": "wi-milwaukee-gateway-landscape-supply",
+  "slug": "gateway-landscape-supply",
+  "name": "Gateway Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1121 W Grange Ave Ste 100",
+    "city": "Milwaukee",
+    "state": "WI",
+    "zip": "53221"
+  },
+  "location": {
+    "lat": 42.944557,
+    "lng": -87.927734
+  },
+  "contact": {
+    "phone": "(414) 377-3956"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c18acf79-3f52-4e2b-9439-30db4393c1b2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

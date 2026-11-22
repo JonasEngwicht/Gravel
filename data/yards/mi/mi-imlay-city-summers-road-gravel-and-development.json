@@ -1,0 +1,41 @@
+{
+  "id": "mi-imlay-city-summers-road-gravel-and-development",
+  "slug": "summers-road-gravel-and-development",
+  "name": "Summers Road Gravel & Development",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Imlay City",
+    "state": "MI",
+    "zip": "48444"
+  },
+  "location": {
+    "lat": 43.005278,
+    "lng": -83.105833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003229"
+  },
+  "msha": [
+    {
+      "mine_id": "2003229",
+      "name": "Summers Road Gravel & Development",
+      "operator": "Summers Road Gravel & Development",
+      "status": "Intermittent",
+      "status_since": "2026-06-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

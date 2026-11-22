@@ -1,0 +1,36 @@
+{
+  "id": "ny-saranac-lake-trudeau-sand-and-gravel",
+  "slug": "trudeau-sand-and-gravel",
+  "name": "Trudeau Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1115 State Route 3",
+    "city": "Saranac Lake",
+    "state": "NY",
+    "zip": "12983"
+  },
+  "location": {
+    "lat": 44.373661,
+    "lng": -74.095184
+  },
+  "contact": {
+    "phone": "(518) 891-1940",
+    "website": "http://www.trudeausandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "960c44f1-8eca-4380-88c0-dbaa16acc7eb",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

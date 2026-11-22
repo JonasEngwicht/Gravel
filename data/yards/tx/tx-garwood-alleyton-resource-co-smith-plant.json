@@ -1,0 +1,41 @@
+{
+  "id": "tx-garwood-alleyton-resource-co-smith-plant",
+  "slug": "alleyton-resource-co-smith-plant",
+  "name": "Alleyton Resource Co – Smith Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Garwood",
+    "state": "TX",
+    "zip": "77470"
+  },
+  "location": {
+    "lat": 29.523611,
+    "lng": -96.491111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105210"
+  },
+  "msha": [
+    {
+      "mine_id": "4105210",
+      "name": "Smith Plant",
+      "operator": "Alleyton Resource Co. LLC",
+      "status": "Active",
+      "status_since": "2016-08-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

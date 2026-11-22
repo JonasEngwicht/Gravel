@@ -1,0 +1,37 @@
+{
+  "id": "az-scottsdale-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7501 E Monte Cristo Ave",
+    "city": "Scottsdale",
+    "state": "AZ",
+    "zip": "85260"
+  },
+  "location": {
+    "lat": 33.630707,
+    "lng": -111.918236
+  },
+  "contact": {
+    "phone": "(480) 483-0318",
+    "website": "https://www.siteone.com/store/377"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7ebe7e6-073d-4f46-8cfe-c3fc00548314",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

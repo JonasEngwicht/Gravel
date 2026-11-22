@@ -1,0 +1,37 @@
+{
+  "id": "fl-cocoa-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "527 Peachtree St",
+    "city": "Cocoa",
+    "state": "FL",
+    "zip": "32922"
+  },
+  "location": {
+    "lat": 28.357361,
+    "lng": -80.734634
+  },
+  "contact": {
+    "phone": "(321) 636-1075",
+    "website": "https://www.siteone.com/en/store/727"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac8853c9-bbc7-45e2-b133-5c5513f26d6c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

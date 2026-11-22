@@ -1,0 +1,37 @@
+{
+  "id": "sc-johns-island-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3066 Maybank Hwy",
+    "city": "Johns Island",
+    "state": "SC",
+    "zip": "29455"
+  },
+  "location": {
+    "lat": 32.736839,
+    "lng": -80.052422
+  },
+  "contact": {
+    "phone": "(843) 557-1225",
+    "website": "https://www.siteone.com/en/store/805"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fdf438a0-f9e0-45dd-8bd6-aa34b88ecf95",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

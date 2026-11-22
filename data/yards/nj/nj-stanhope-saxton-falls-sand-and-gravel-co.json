@@ -1,0 +1,48 @@
+{
+  "id": "nj-stanhope-saxton-falls-sand-and-gravel-co",
+  "slug": "saxton-falls-sand-and-gravel-co",
+  "name": "Saxton Falls Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "66 Waterloo Valley Rd",
+    "city": "Stanhope",
+    "state": "NJ",
+    "zip": "07874"
+  },
+  "location": {
+    "lat": 40.890858,
+    "lng": -74.787056
+  },
+  "contact": {
+    "phone": "(908) 852-0121",
+    "website": "https://www.saxtonfalls.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e3857cc-4175-4176-9af6-674fb8106b6b",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2800551",
+      "name": "Saxton Falls Sand & Gravel",
+      "operator": "Saxton Falls Sand & Gravel Co.",
+      "status": "Active",
+      "status_since": "2024-12-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

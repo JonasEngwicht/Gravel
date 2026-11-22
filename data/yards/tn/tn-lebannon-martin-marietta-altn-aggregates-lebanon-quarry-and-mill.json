@@ -1,0 +1,41 @@
+{
+  "id": "tn-lebannon-martin-marietta-altn-aggregates-lebanon-quarry-and-mill",
+  "slug": "martin-marietta-altn-aggregates-lebanon-quarry-and-mill",
+  "name": "Martin Marietta ALTN Aggregates – Lebanon Quarry & Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lebannon",
+    "state": "TN",
+    "zip": "37090"
+  },
+  "location": {
+    "lat": 36.138611,
+    "lng": -86.319722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003012"
+  },
+  "msha": [
+    {
+      "mine_id": "4003012",
+      "name": "Lebanon Quarry & Mill",
+      "operator": "Martin Marietta ALTN Aggregates, Inc.",
+      "status": "Active",
+      "status_since": "1999-08-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

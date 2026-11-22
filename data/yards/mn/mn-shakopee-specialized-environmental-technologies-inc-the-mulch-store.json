@@ -1,0 +1,36 @@
+{
+  "id": "mn-shakopee-specialized-environmental-technologies-inc-the-mulch-store",
+  "slug": "specialized-environmental-technologies-inc-the-mulch-store",
+  "name": "Specialized Environmental Technologies, Inc. The Mulch Store",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14800 Johnson Memorial Dr",
+    "city": "Shakopee",
+    "state": "MN",
+    "zip": "55379"
+  },
+  "location": {
+    "lat": 44.735996,
+    "lng": -93.590874
+  },
+  "contact": {
+    "phone": "(952) 445-2139",
+    "website": "http://setmn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e487a1f9-370c-44ef-ba9b-e42edfb517e1",
+    "confidence": 0.695,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-marble-hill-huber-carbonates-miss-linda-mine",
+  "slug": "huber-carbonates-miss-linda-mine",
+  "name": "Huber Carbonates – Miss Linda Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Marble Hill",
+    "state": "GA",
+    "zip": "30177"
+  },
+  "location": {
+    "lat": 34.434722,
+    "lng": -84.349722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901093"
+  },
+  "msha": [
+    {
+      "mine_id": "0901093",
+      "name": "Miss Linda Mine",
+      "operator": "Huber Carbonates LLC.",
+      "status": "Active",
+      "status_since": "1996-04-26",
+      "commodity": "Crushed, Broken Marble",
+      "match": "source",
+      "employees": 92
+    }
+  ]
+}

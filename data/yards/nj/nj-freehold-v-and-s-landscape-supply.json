@@ -1,0 +1,36 @@
+{
+  "id": "nj-freehold-v-and-s-landscape-supply",
+  "slug": "v-and-s-landscape-supply",
+  "name": "V & S Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "950 NJ-33",
+    "city": "Freehold",
+    "state": "NJ",
+    "zip": "07728"
+  },
+  "location": {
+    "lat": 40.234982,
+    "lng": -74.223061
+  },
+  "contact": {
+    "phone": "(732) 780-8444",
+    "website": "http://www.vslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "607e2ead-e654-46e0-a66a-7382681918d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

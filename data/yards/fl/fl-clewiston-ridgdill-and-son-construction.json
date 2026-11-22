@@ -1,0 +1,41 @@
+{
+  "id": "fl-clewiston-ridgdill-and-son-construction",
+  "slug": "ridgdill-and-son-construction",
+  "name": "Ridgdill & Son Construction",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Clewiston",
+    "state": "FL",
+    "zip": "33440"
+  },
+  "location": {
+    "lat": 26.754167,
+    "lng": -80.933611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801096"
+  },
+  "msha": [
+    {
+      "mine_id": "0801096",
+      "name": "Ridgdill & Son",
+      "operator": "Ridgdill & Son Construction",
+      "status": "Active",
+      "status_since": "1988-05-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

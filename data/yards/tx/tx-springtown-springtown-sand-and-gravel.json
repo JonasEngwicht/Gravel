@@ -1,0 +1,35 @@
+{
+  "id": "tx-springtown-springtown-sand-and-gravel",
+  "slug": "springtown-sand-and-gravel",
+  "name": "Springtown sand and gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "829 N Avenue B",
+    "city": "Springtown",
+    "state": "TX",
+    "zip": "76082"
+  },
+  "location": {
+    "lat": 32.976658,
+    "lng": -97.684372
+  },
+  "contact": {
+    "phone": "(817) 996-8506"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "13350c8b-adc4-42cb-894f-ccfdceb3b84c",
+    "confidence": 0.561,
+    "merged_records": 1
+  }
+}

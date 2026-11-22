@@ -1,0 +1,49 @@
+{
+  "id": "ia-grinnell-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "5046 E 132nd St S",
+    "city": "Grinnell",
+    "state": "IA",
+    "zip": "50112"
+  },
+  "location": {
+    "lat": 41.648022,
+    "lng": -92.824287
+  },
+  "contact": {
+    "phone": "(641) 594-2966",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fb3b4835-9696-444c-9f7f-d839c82b4a09",
+    "confidence": 0.627,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1300063",
+      "name": "Sully Mine",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Active",
+      "status_since": "2013-11-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 20
+    }
+  ]
+}

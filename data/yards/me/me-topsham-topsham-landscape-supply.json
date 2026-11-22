@@ -1,0 +1,35 @@
+{
+  "id": "me-topsham-topsham-landscape-supply",
+  "slug": "topsham-landscape-supply",
+  "name": "Topsham Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "601 Lewiston Rd",
+    "city": "Topsham",
+    "state": "ME",
+    "zip": "04086"
+  },
+  "location": {
+    "lat": 43.962566,
+    "lng": -70.01062
+  },
+  "contact": {
+    "phone": "(207) 844-1955"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e5f74aea-41e8-4a97-b5d4-a2161652a383",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

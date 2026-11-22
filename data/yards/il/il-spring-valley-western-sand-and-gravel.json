@@ -1,0 +1,35 @@
+{
+  "id": "il-spring-valley-western-sand-and-gravel",
+  "slug": "western-sand-and-gravel",
+  "name": "Western Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "400 Old North Rd",
+    "city": "Spring Valley",
+    "state": "IL",
+    "zip": "61362"
+  },
+  "location": {
+    "lat": 41.328762,
+    "lng": -89.178978
+  },
+  "contact": {
+    "phone": "(815) 664-2341"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a764f9eb-930b-4b67-9f7e-2ffa0ab6426e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-windham-don-miller-sand-and-gravel",
+  "slug": "don-miller-sand-and-gravel",
+  "name": "Don Miller Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10228 OH-82",
+    "city": "Windham",
+    "state": "OH",
+    "zip": "44288"
+  },
+  "location": {
+    "lat": 41.252331,
+    "lng": -81.020378
+  },
+  "contact": {
+    "phone": "(330) 326-3157",
+    "website": "https://miller-don-sand-gravel.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c1e0a6d-3d10-4282-9746-e45ccc8f5734",
+    "confidence": 0.939,
+    "merged_records": 1
+  }
+}

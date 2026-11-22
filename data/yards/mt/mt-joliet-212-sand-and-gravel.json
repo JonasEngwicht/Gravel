@@ -1,0 +1,41 @@
+{
+  "id": "mt-joliet-212-sand-and-gravel",
+  "slug": "212-sand-and-gravel",
+  "name": "212 Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Joliet",
+    "state": "MT",
+    "zip": "59070"
+  },
+  "location": {
+    "lat": 45.375833,
+    "lng": -109.171111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402777"
+  },
+  "msha": [
+    {
+      "mine_id": "2402777",
+      "name": "212 Sand and Gravel",
+      "operator": "212 Sand and Gravel Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-05-02",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-cambria-david-crye-general-engineering-and-contractor-bianchi-pit",
+  "slug": "david-crye-general-engineering-and-contractor-bianchi-pit",
+  "name": "David Crye General Engineering and Contractor – Bianchi Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cambria",
+    "state": "CA",
+    "zip": "93428"
+  },
+  "location": {
+    "lat": 35.577778,
+    "lng": -121.047778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405561"
+  },
+  "msha": [
+    {
+      "mine_id": "0405561",
+      "name": "Bianchi Pit",
+      "operator": "David Crye General Engineering and Contractor, Inc",
+      "status": "Active",
+      "status_since": "2003-06-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

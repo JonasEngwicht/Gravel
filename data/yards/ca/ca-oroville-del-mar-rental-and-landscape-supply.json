@@ -1,0 +1,35 @@
+{
+  "id": "ca-oroville-del-mar-rental-and-landscape-supply",
+  "slug": "del-mar-rental-and-landscape-supply",
+  "name": "Del-Mar Rental & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3312 Oro Bangor Hwy",
+    "city": "Oroville",
+    "state": "CA",
+    "zip": "95966"
+  },
+  "location": {
+    "lat": 39.480137,
+    "lng": -121.530037
+  },
+  "contact": {
+    "phone": "(530) 534-7053"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "61002ccf-af5c-45d5-9794-4c81632762bc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nc-rockwell-cline-s-landscaping-and-mulch-yard",
+  "slug": "cline-s-landscaping-and-mulch-yard",
+  "name": "Cline's Landscaping & Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "190 Butterfly Ln",
+    "city": "Rockwell",
+    "state": "NC",
+    "zip": "28138"
+  },
+  "location": {
+    "lat": 35.517471,
+    "lng": -80.524895
+  },
+  "contact": {
+    "phone": "(704) 202-1934"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85768758-c708-49d7-a8a9-7162e67d53c4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

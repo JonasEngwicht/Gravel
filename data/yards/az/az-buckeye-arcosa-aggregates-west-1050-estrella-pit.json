@@ -1,0 +1,41 @@
+{
+  "id": "az-buckeye-arcosa-aggregates-west-1050-estrella-pit",
+  "slug": "arcosa-aggregates-west-1050-estrella-pit",
+  "name": "Arcosa Aggregates West – 1050 Estrella Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Buckeye",
+    "state": "AZ",
+    "zip": "85938"
+  },
+  "location": {
+    "lat": 34.128333,
+    "lng": -109.275
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202372"
+  },
+  "msha": [
+    {
+      "mine_id": "0202372",
+      "name": "1050 Estrella Pit",
+      "operator": "Arcosa Aggregates West, LLC.",
+      "status": "Active",
+      "status_since": "2025-10-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

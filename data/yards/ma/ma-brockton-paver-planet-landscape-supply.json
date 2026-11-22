@@ -1,0 +1,36 @@
+{
+  "id": "ma-brockton-paver-planet-landscape-supply",
+  "slug": "paver-planet-landscape-supply",
+  "name": "Paver Planet Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "534 Torrey St",
+    "city": "Brockton",
+    "state": "MA",
+    "zip": "02301"
+  },
+  "location": {
+    "lat": 42.070103,
+    "lng": -71.067886
+  },
+  "contact": {
+    "phone": "(774) 319-9413",
+    "website": "http://www.PaverPlanetSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "330bab20-f9b6-4777-a91d-4e54a96e77ef",
+    "confidence": 0.958,
+    "merged_records": 1
+  }
+}

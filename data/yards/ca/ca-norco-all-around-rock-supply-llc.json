@@ -1,0 +1,36 @@
+{
+  "id": "ca-norco-all-around-rock-supply-llc",
+  "slug": "all-around-rock-supply-llc",
+  "name": "All Around Rock Supply LLC.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1060 Sixth St",
+    "city": "Norco",
+    "state": "CA",
+    "zip": "92860"
+  },
+  "location": {
+    "lat": 33.938259,
+    "lng": -117.544678
+  },
+  "contact": {
+    "phone": "(951) 319-3399",
+    "website": "http://www.allaroundrocksupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b1a40ad-dc45-4fef-a3b4-074f98a10774",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

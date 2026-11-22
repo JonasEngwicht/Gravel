@@ -1,0 +1,41 @@
+{
+  "id": "nc-waynesville-harrison-aggregates-waynesville-quarry",
+  "slug": "harrison-aggregates-waynesville-quarry",
+  "name": "Harrison Aggregates – Waynesville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Waynesville",
+    "state": "NC",
+    "zip": "28786"
+  },
+  "location": {
+    "lat": 35.441111,
+    "lng": -83.0075
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3100400"
+  },
+  "msha": [
+    {
+      "mine_id": "3100400",
+      "name": "Waynesville Quarry",
+      "operator": "Harrison Aggregates",
+      "status": "Active",
+      "status_since": "1985-02-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

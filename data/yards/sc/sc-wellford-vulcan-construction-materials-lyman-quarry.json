@@ -1,0 +1,41 @@
+{
+  "id": "sc-wellford-vulcan-construction-materials-lyman-quarry",
+  "slug": "vulcan-construction-materials-lyman-quarry",
+  "name": "Vulcan Construction Materials – Lyman Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wellford",
+    "state": "SC",
+    "zip": "29385"
+  },
+  "location": {
+    "lat": 34.999722,
+    "lng": -82.128333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800612"
+  },
+  "msha": [
+    {
+      "mine_id": "3800612",
+      "name": "Lyman Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1986-05-28",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 31
+    }
+  ]
+}

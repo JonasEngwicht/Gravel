@@ -1,0 +1,35 @@
+{
+  "id": "ar-harrisburg-drum-sand-and-gravel",
+  "slug": "drum-sand-and-gravel",
+  "name": "Drum Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18800 Massengill Rd",
+    "city": "Harrisburg",
+    "state": "AR",
+    "zip": "72432"
+  },
+  "location": {
+    "lat": 35.606194,
+    "lng": -90.694519
+  },
+  "contact": {
+    "phone": "(870) 578-3308"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba8df83d-25b9-4913-b993-614443ea1479",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

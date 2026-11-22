@@ -1,0 +1,37 @@
+{
+  "id": "mi-scio-twp-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "300 Jackson Plz Ste 288",
+    "city": "Scio Twp",
+    "state": "MI",
+    "zip": "48103"
+  },
+  "location": {
+    "lat": 42.27951,
+    "lng": -83.803329
+  },
+  "contact": {
+    "phone": "(734) 668-1020",
+    "website": "https://www.siteone.com/en/store/12"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aef47187-428d-4a35-8540-aca519cb38cf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

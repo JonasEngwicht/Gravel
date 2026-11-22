@@ -1,0 +1,36 @@
+{
+  "id": "ca-carlsbad-stone-yard-inc",
+  "slug": "stone-yard-inc",
+  "name": "Stone Yard Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6088 Corte Del Cedro",
+    "city": "Carlsbad",
+    "state": "CA",
+    "zip": "92011"
+  },
+  "location": {
+    "lat": 33.125206,
+    "lng": -117.271912
+  },
+  "contact": {
+    "phone": "(877) 595-9732",
+    "website": "http://www.stoneyardinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b338f51-090e-4170-9612-3ec299a562ee",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

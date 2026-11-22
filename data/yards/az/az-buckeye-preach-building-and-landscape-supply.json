@@ -1,0 +1,36 @@
+{
+  "id": "az-buckeye-preach-building-and-landscape-supply",
+  "slug": "preach-building-and-landscape-supply",
+  "name": "Preach Building & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "601 N Jackrabbit Trl",
+    "city": "Buckeye",
+    "state": "AZ",
+    "zip": "85326"
+  },
+  "location": {
+    "lat": 33.454189,
+    "lng": -112.47757
+  },
+  "contact": {
+    "phone": "(623) 853-8300",
+    "website": "https://www.preachbuildingsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf3ea8c1-9cfc-404e-a6d5-fd251261cee2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

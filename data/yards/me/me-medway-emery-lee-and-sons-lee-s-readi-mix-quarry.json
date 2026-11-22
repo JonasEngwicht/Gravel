@@ -1,0 +1,41 @@
+{
+  "id": "me-medway-emery-lee-and-sons-lee-s-readi-mix-quarry",
+  "slug": "emery-lee-and-sons-lee-s-readi-mix-quarry",
+  "name": "Emery Lee & Sons – Lee's Readi Mix Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Medway",
+    "state": "ME",
+    "zip": "04460"
+  },
+  "location": {
+    "lat": 45.574444,
+    "lng": -68.463056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701195"
+  },
+  "msha": [
+    {
+      "mine_id": "1701195",
+      "name": "Lee's Readi Mix Quarry",
+      "operator": "Emery Lee & Sons Inc",
+      "status": "Intermittent",
+      "status_since": "2026-06-04",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

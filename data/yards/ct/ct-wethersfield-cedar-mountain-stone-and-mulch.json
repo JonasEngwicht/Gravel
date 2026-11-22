@@ -1,0 +1,36 @@
+{
+  "id": "ct-wethersfield-cedar-mountain-stone-and-mulch",
+  "slug": "cedar-mountain-stone-and-mulch",
+  "name": "Cedar Mountain Stone and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1943 Berlin Tpke",
+    "city": "Wethersfield",
+    "state": "CT",
+    "zip": "06109"
+  },
+  "location": {
+    "lat": 41.699608,
+    "lng": -72.704941
+  },
+  "contact": {
+    "phone": "(860) 563-9200",
+    "website": "http://www.cedarmountainstoneandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dcbb142a-f912-4ad0-9788-ca2bedc2e4c6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-arcata-eureka-sand-and-gravel-co-christie-bar",
+  "slug": "eureka-sand-and-gravel-co-christie-bar",
+  "name": "Eureka Sand & Gravel Co – Christie Bar",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Arcata",
+    "state": "CA",
+    "zip": "95521"
+  },
+  "location": {
+    "lat": 40.888611,
+    "lng": -123.997778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401760"
+  },
+  "msha": [
+    {
+      "mine_id": "0401760",
+      "name": "Christie Bar",
+      "operator": "Eureka Sand & Gravel Co. Inc.",
+      "status": "Active",
+      "status_since": "1990-11-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sc-gaston-bluegrass-materials-company-calhoun-sand",
+  "slug": "bluegrass-materials-company-calhoun-sand",
+  "name": "Bluegrass Materials Company – Calhoun Sand",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gaston",
+    "state": "SC",
+    "zip": "29172"
+  },
+  "location": {
+    "lat": 33.879167,
+    "lng": -81.038056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800716"
+  },
+  "msha": [
+    {
+      "mine_id": "3800716",
+      "name": "Calhoun Sand",
+      "operator": "Bluegrass Materials Company, LLC",
+      "status": "Active",
+      "status_since": "2007-07-13",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

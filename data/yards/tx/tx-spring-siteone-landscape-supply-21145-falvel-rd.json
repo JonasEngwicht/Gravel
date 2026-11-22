@@ -1,0 +1,36 @@
+{
+  "id": "tx-spring-siteone-landscape-supply-21145-falvel-rd",
+  "slug": "siteone-landscape-supply-21145-falvel-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "21145 Falvel Rd",
+    "city": "Spring",
+    "state": "TX",
+    "zip": "77388"
+  },
+  "location": {
+    "lat": 30.065287,
+    "lng": -95.475433
+  },
+  "contact": {
+    "website": "https://www.siteone.com/store/214"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79bc0476-8096-427a-afc9-16376a0335e2",
+    "confidence": 0.876,
+    "merged_records": 1
+  }
+}

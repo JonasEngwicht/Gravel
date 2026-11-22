@@ -1,0 +1,41 @@
+{
+  "id": "pa-plymouth-meeting-heidelberg-materials-northeast-plymouth-meeting-quarry",
+  "slug": "heidelberg-materials-northeast-plymouth-meeting-quarry",
+  "name": "Heidelberg Materials Northeast – Plymouth Meeting Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Plymouth Meeting",
+    "state": "PA",
+    "zip": "19031"
+  },
+  "location": {
+    "lat": 40.108611,
+    "lng": -75.245556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600052"
+  },
+  "msha": [
+    {
+      "mine_id": "3600052",
+      "name": "Plymouth Meeting Quarry",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 30
+    }
+  ]
+}

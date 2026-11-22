@@ -1,0 +1,35 @@
+{
+  "id": "ny-albany-albany-asphalt-and-aggregates",
+  "slug": "albany-asphalt-and-aggregates",
+  "name": "Albany Asphalt & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "101 Dunham Dr",
+    "city": "Albany",
+    "state": "NY",
+    "zip": "12202"
+  },
+  "location": {
+    "lat": 42.618282,
+    "lng": -73.760643
+  },
+  "contact": {
+    "phone": "(518) 436-8916"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9906530-57fa-45b8-9e99-08ececc94d7d",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

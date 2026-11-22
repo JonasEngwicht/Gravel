@@ -1,0 +1,41 @@
+{
+  "id": "ri-north-smithfield-material-sand-and-stone-pound-hill-quarry",
+  "slug": "material-sand-and-stone-pound-hill-quarry",
+  "name": "Material Sand & Stone – Pound Hill Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "North Smithfield",
+    "state": "RI",
+    "zip": "02864"
+  },
+  "location": {
+    "lat": 41.971389,
+    "lng": -71.428056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3700212"
+  },
+  "msha": [
+    {
+      "mine_id": "3700212",
+      "name": "Pound Hill Quarry",
+      "operator": "Material Sand & Stone Corp",
+      "status": "Active",
+      "status_since": "2018-05-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

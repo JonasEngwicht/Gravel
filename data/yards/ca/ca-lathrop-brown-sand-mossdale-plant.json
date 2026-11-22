@@ -1,0 +1,41 @@
+{
+  "id": "ca-lathrop-brown-sand-mossdale-plant",
+  "slug": "brown-sand-mossdale-plant",
+  "name": "Brown Sand – Mossdale Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lathrop",
+    "state": "CA",
+    "zip": "95330"
+  },
+  "location": {
+    "lat": 37.771389,
+    "lng": -121.313889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405330"
+  },
+  "msha": [
+    {
+      "mine_id": "0405330",
+      "name": "Mossdale Plant",
+      "operator": "Brown Sand Inc",
+      "status": "Active",
+      "status_since": "1998-01-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

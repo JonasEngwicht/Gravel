@@ -1,0 +1,35 @@
+{
+  "id": "ca-oroville-lake-oroville-landscape-center",
+  "slug": "lake-oroville-landscape-center",
+  "name": "Lake Oroville Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5929 Lincoln Blvd",
+    "city": "Oroville",
+    "state": "CA",
+    "zip": "95966"
+  },
+  "location": {
+    "lat": 39.468521,
+    "lng": -121.548965
+  },
+  "contact": {
+    "phone": "(530) 538-8300"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "93dc3054-a35c-4f1e-883e-e33ee067e686",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

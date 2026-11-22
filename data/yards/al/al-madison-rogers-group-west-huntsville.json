@@ -1,0 +1,41 @@
+{
+  "id": "al-madison-rogers-group-west-huntsville",
+  "slug": "rogers-group-west-huntsville",
+  "name": "Rogers Group – West Huntsville",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Madison",
+    "state": "AL",
+    "zip": "35613"
+  },
+  "location": {
+    "lat": 34.744444,
+    "lng": -86.859444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103506"
+  },
+  "msha": [
+    {
+      "mine_id": "0103506",
+      "name": "West Huntsville",
+      "operator": "Rogers Group, Inc",
+      "status": "Active",
+      "status_since": "2017-04-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-north-hollywood-quality-stone-supply",
+  "slug": "quality-stone-supply",
+  "name": "Quality Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7239 Coldwater Canyon Ave",
+    "city": "North Hollywood",
+    "state": "CA",
+    "zip": "91605"
+  },
+  "location": {
+    "lat": 34.202362,
+    "lng": -118.414474
+  },
+  "contact": {
+    "phone": "(818) 759-7200",
+    "website": "http://www.qualitystonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf7ebf4c-59a9-4f0c-9b82-c8e8d16a9d13",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

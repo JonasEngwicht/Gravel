@@ -1,0 +1,36 @@
+{
+  "id": "ma-pembroke-d-and-d-mulch-and-landscape",
+  "slug": "d-and-d-mulch-and-landscape",
+  "name": "D&D Mulch and Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "305 Old Oak St",
+    "city": "Pembroke",
+    "state": "MA",
+    "zip": "02359"
+  },
+  "location": {
+    "lat": 42.108707,
+    "lng": -70.762733
+  },
+  "contact": {
+    "phone": "(781) 826-6512",
+    "website": "https://www.ddmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "145bb234-29c7-46f3-bfc5-9e756ce1d765",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mi-wyoming-grand-rapids-gravel",
+  "slug": "grand-rapids-gravel",
+  "name": "Grand Rapids Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Wyoming",
+    "state": "MI",
+    "zip": "49401"
+  },
+  "location": {
+    "lat": 42.9925,
+    "lng": -85.998056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003649"
+  },
+  "msha": [
+    {
+      "mine_id": "2003649",
+      "name": "Plant-77",
+      "operator": "Grand Rapids Gravel Company",
+      "status": "Intermittent",
+      "status_since": "2023-05-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

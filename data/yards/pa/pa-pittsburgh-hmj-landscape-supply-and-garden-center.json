@@ -1,0 +1,36 @@
+{
+  "id": "pa-pittsburgh-hmj-landscape-supply-and-garden-center",
+  "slug": "hmj-landscape-supply-and-garden-center",
+  "name": "HMJ Landscape Supply and Garden Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2130 Reis Run Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15237"
+  },
+  "location": {
+    "lat": 40.557358,
+    "lng": -80.075035
+  },
+  "contact": {
+    "phone": "(412) 837-1666",
+    "website": "http://www.hmjlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb375743-eb65-4a3e-83e0-5eadca3b7a99",
+    "confidence": 0.937,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-gillsville-griffin-landscape-supply",
+  "slug": "griffin-landscape-supply",
+  "name": "Griffin Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4431 Gillsville Hwy",
+    "city": "Gillsville",
+    "state": "GA",
+    "zip": "30543"
+  },
+  "location": {
+    "lat": 34.285938,
+    "lng": -83.682068
+  },
+  "contact": {
+    "phone": "(678) 725-2434",
+    "website": "https://www.griffinlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d45b6ea-7f05-4968-8a30-deef883e5c6a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

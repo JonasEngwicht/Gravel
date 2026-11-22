@@ -1,0 +1,58 @@
+{
+  "id": "ms-picayune-custom-aggregates-and-grinding",
+  "slug": "custom-aggregates-and-grinding",
+  "name": "Custom Aggregates & Grinding",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "216 Dan Stewart Rd",
+    "city": "Picayune",
+    "state": "MS",
+    "zip": "39466"
+  },
+  "location": {
+    "lat": 30.593159,
+    "lng": -89.796371
+  },
+  "contact": {
+    "phone": "(601) 749-2132",
+    "website": "http://customabrasivesllc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "09cc9795-aab4-4ad7-a77c-ae4963327255",
+    "confidence": 0.77,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2200671",
+      "name": "Hutchinson Island #1",
+      "operator": "Huey P Stockstill LLC",
+      "status": "Active",
+      "status_since": "1996-04-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 15
+    },
+    {
+      "mine_id": "2200772",
+      "name": "Custom Abrasives Picayune Plant",
+      "operator": "Custom Abrasives, LLC",
+      "status": "Active",
+      "status_since": "2006-11-20",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

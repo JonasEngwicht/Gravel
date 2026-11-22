@@ -1,0 +1,37 @@
+{
+  "id": "ny-getzville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "385 Crosspoint Pkwy",
+    "city": "Getzville",
+    "state": "NY",
+    "zip": "14068"
+  },
+  "location": {
+    "lat": 43.04195,
+    "lng": -78.748047
+  },
+  "contact": {
+    "phone": "(716) 568-1440",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "112a59c0-19aa-4b80-bca5-279b02fd0f4a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

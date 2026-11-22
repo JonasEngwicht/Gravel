@@ -1,0 +1,41 @@
+{
+  "id": "tn-greenback-vulcan-construction-materials-loudon-county-quarry",
+  "slug": "vulcan-construction-materials-loudon-county-quarry",
+  "name": "Vulcan Construction Materials – Loudon County Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Greenback",
+    "state": "TN",
+    "zip": "37742"
+  },
+  "location": {
+    "lat": 35.652778,
+    "lng": -84.139167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003401"
+  },
+  "msha": [
+    {
+      "mine_id": "4003401",
+      "name": "Loudon County Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2013-05-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

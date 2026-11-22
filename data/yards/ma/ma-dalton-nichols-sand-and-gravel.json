@@ -1,0 +1,41 @@
+{
+  "id": "ma-dalton-nichols-sand-and-gravel",
+  "slug": "nichols-sand-and-gravel",
+  "name": "Nichols Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Dalton",
+    "state": "MA",
+    "zip": "01226"
+  },
+  "location": {
+    "lat": 42.485278,
+    "lng": -73.129722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901246"
+  },
+  "msha": [
+    {
+      "mine_id": "1901246",
+      "name": "Pit 1",
+      "operator": "Nichols Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2026-09-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

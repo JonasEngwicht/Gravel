@@ -1,0 +1,36 @@
+{
+  "id": "ca-paso-robles-steve-schmidt-topsoil",
+  "slug": "steve-schmidt-topsoil",
+  "name": "Steve Schmidt Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1990 Ramada Dr",
+    "city": "Paso Robles",
+    "state": "CA",
+    "zip": "93446"
+  },
+  "location": {
+    "lat": 35.588017,
+    "lng": -120.694962
+  },
+  "contact": {
+    "phone": "(805) 237-0174",
+    "website": "http://www.sstopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ad9d6d7-3a13-4ee0-a78e-ae0f6254ab25",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

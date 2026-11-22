@@ -1,0 +1,41 @@
+{
+  "id": "tx-marble-falls-cactus-canyon-quarries-fairland-plant-and-qys",
+  "slug": "cactus-canyon-quarries-fairland-plant-and-qys",
+  "name": "Cactus Canyon Quarries – Fairland Plant & Qys",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Marble Falls",
+    "state": "TX",
+    "zip": "79567"
+  },
+  "location": {
+    "lat": 31.968611,
+    "lng": -99.901944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4100009"
+  },
+  "msha": [
+    {
+      "mine_id": "4100009",
+      "name": "Fairland Plant & Qys",
+      "operator": "Cactus Canyon Quarries Inc",
+      "status": "Active",
+      "status_since": "1973-05-21",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

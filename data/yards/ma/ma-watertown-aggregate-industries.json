@@ -1,0 +1,37 @@
+{
+  "id": "ma-watertown-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "48 Coolidge Ave",
+    "city": "Watertown",
+    "state": "MA",
+    "zip": "02472"
+  },
+  "location": {
+    "lat": 42.36327,
+    "lng": -71.152168
+  },
+  "contact": {
+    "phone": "(617) 924-8550",
+    "website": "http://www.aggregate-us.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3f5c35e-28ed-4c4a-a7dc-230b17ae3747",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

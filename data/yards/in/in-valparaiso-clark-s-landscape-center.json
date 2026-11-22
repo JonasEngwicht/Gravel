@@ -1,0 +1,36 @@
+{
+  "id": "in-valparaiso-clark-s-landscape-center",
+  "slug": "clark-s-landscape-center",
+  "name": "Clark's Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15 E US Highway 6",
+    "city": "Valparaiso",
+    "state": "IN",
+    "zip": "46383"
+  },
+  "location": {
+    "lat": 41.550148,
+    "lng": -87.063438
+  },
+  "contact": {
+    "phone": "(219) 462-9032",
+    "website": "http://www.clarkslandscapecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f86064d-7df3-42a0-8e1b-f4ef2f17a4ec",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

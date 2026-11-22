@@ -1,0 +1,48 @@
+{
+  "id": "in-noblesville-imi-aggregates-stony-creek",
+  "slug": "imi-aggregates-stony-creek",
+  "name": "imi Aggregates - Stony Creek",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "12798 Sr 38 East",
+    "city": "Noblesville",
+    "state": "IN",
+    "zip": "46060"
+  },
+  "location": {
+    "lat": 40.036983,
+    "lng": -85.938019
+  },
+  "contact": {
+    "phone": "(317) 773-3640",
+    "website": "https://locations.irvmat.com/in/261?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68a60be5-7f6e-45e2-b838-39bf652c2f07",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200124",
+      "name": "IMI Stony Creek Stone Co",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "1994-12-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 25
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nv-spring-creek-ruby-mountain-rock-and-ready-mix",
+  "slug": "ruby-mountain-rock-and-ready-mix",
+  "name": "Ruby Mountain Rock & Ready- Mix",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Spring Creek",
+    "state": "NV",
+    "zip": "89815"
+  },
+  "location": {
+    "lat": 40.732222,
+    "lng": -115.623889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602571"
+  },
+  "msha": [
+    {
+      "mine_id": "2602571",
+      "name": "Ruby Mountain Rock & Ready-Mix,LLC",
+      "operator": "Ruby Mountain Rock & Ready- Mix, LLC",
+      "status": "Intermittent",
+      "status_since": "2016-05-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

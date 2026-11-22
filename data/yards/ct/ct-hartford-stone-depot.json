@@ -1,0 +1,35 @@
+{
+  "id": "ct-hartford-stone-depot",
+  "slug": "stone-depot",
+  "name": "Stone Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "260 Murphy Rd",
+    "city": "Hartford",
+    "state": "CT",
+    "zip": "06114"
+  },
+  "location": {
+    "lat": 41.735424,
+    "lng": -72.654579
+  },
+  "contact": {
+    "phone": "(860) 493-0393"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4cb72b10-27e8-4989-81d9-02cdd1b107e5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

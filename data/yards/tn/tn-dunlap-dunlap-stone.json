@@ -1,0 +1,41 @@
+{
+  "id": "tn-dunlap-dunlap-stone",
+  "slug": "dunlap-stone",
+  "name": "Dunlap Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dunlap",
+    "state": "TN",
+    "zip": "37379"
+  },
+  "location": {
+    "lat": 35.298611,
+    "lng": -85.288889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003153"
+  },
+  "msha": [
+    {
+      "mine_id": "4003153",
+      "name": "Dunlap Stone Sand Plant",
+      "operator": "Dunlap Stone Inc",
+      "status": "Active",
+      "status_since": "2004-12-10",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

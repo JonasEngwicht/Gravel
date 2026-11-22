@@ -1,0 +1,41 @@
+{
+  "id": "tx-houston-texas-architectural-aggregate",
+  "slug": "texas-architectural-aggregate",
+  "name": "Texas Architectural Aggregate",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Houston",
+    "state": "TX",
+    "zip": "76877"
+  },
+  "location": {
+    "lat": 31.195833,
+    "lng": -98.718056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4101001"
+  },
+  "msha": [
+    {
+      "mine_id": "4101001",
+      "name": "Texas Architectural Aggregate Inc.",
+      "operator": "Texas Architectural Aggregate Inc",
+      "status": "Active",
+      "status_since": "1972-03-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 36
+    }
+  ]
+}

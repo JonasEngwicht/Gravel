@@ -1,0 +1,36 @@
+{
+  "id": "co-golden-colorado-aggregate-recycling",
+  "slug": "colorado-aggregate-recycling",
+  "name": "Colorado Aggregate Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8900 CO-93 Unit A",
+    "city": "Golden",
+    "state": "CO",
+    "zip": "80403"
+  },
+  "location": {
+    "lat": 39.859406,
+    "lng": -105.230721
+  },
+  "contact": {
+    "phone": "(720) 602-0202",
+    "website": "http://www.coloradoaggregaterecycling.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5dff8d6-0eb4-4451-9716-dfd6e52ff4dd",
+    "confidence": 0.975,
+    "merged_records": 1
+  }
+}

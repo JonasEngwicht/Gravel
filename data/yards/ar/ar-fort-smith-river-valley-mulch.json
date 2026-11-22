@@ -1,0 +1,36 @@
+{
+  "id": "ar-fort-smith-river-valley-mulch",
+  "slug": "river-valley-mulch",
+  "name": "River Valley Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1105 Ballman Rd",
+    "city": "Fort Smith",
+    "state": "AR",
+    "zip": "72901"
+  },
+  "location": {
+    "lat": 35.402359,
+    "lng": -94.421677
+  },
+  "contact": {
+    "phone": "(479) 782-4773",
+    "website": "http://www.RVMulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1a3f528-4d93-4deb-b58d-12ef459d6b5b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

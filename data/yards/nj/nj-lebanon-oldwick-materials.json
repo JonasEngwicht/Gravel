@@ -1,0 +1,41 @@
+{
+  "id": "nj-lebanon-oldwick-materials",
+  "slug": "oldwick-materials",
+  "name": "Oldwick Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lebanon",
+    "state": "NJ",
+    "zip": "08858"
+  },
+  "location": {
+    "lat": 40.661389,
+    "lng": -74.764444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800012"
+  },
+  "msha": [
+    {
+      "mine_id": "2800012",
+      "name": "Oldwick Materials LLC",
+      "operator": "Oldwick Materials LLC",
+      "status": "Active",
+      "status_since": "2002-08-13",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

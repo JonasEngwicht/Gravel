@@ -1,0 +1,36 @@
+{
+  "id": "in-ferdinand-h-and-r-building-and-landscape-supply",
+  "slug": "h-and-r-building-and-landscape-supply",
+  "name": "H & R Building and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "20836 County Rd 950 E",
+    "city": "Ferdinand",
+    "state": "IN",
+    "zip": "47532"
+  },
+  "location": {
+    "lat": 38.187763,
+    "lng": -86.869568
+  },
+  "contact": {
+    "phone": "(812) 367-1415",
+    "website": "http://www.hrblsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f79b130a-a791-4e2d-86f8-89ccd5812f95",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

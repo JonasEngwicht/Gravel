@@ -1,0 +1,41 @@
+{
+  "id": "ny-bellville-bauer-concrete-and-masonry-bauer-limestone-quarry",
+  "slug": "bauer-concrete-and-masonry-bauer-limestone-quarry",
+  "name": "Bauer Concrete & Masonry – Bauer Limestone Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bellville",
+    "state": "NY",
+    "zip": "13650"
+  },
+  "location": {
+    "lat": 43.813333,
+    "lng": -76.176667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003616"
+  },
+  "msha": [
+    {
+      "mine_id": "3003616",
+      "name": "Bauer Limestone Quarry",
+      "operator": "Bauer Concrete & Masonry Inc",
+      "status": "Intermittent",
+      "status_since": "2022-04-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

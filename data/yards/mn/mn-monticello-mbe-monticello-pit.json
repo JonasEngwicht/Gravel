@@ -1,0 +1,41 @@
+{
+  "id": "mn-monticello-mbe-monticello-pit",
+  "slug": "mbe-monticello-pit",
+  "name": "MBE – Monticello Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Monticello",
+    "state": "MN",
+    "zip": "55362"
+  },
+  "location": {
+    "lat": 45.271111,
+    "lng": -93.823611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2104083"
+  },
+  "msha": [
+    {
+      "mine_id": "2104083",
+      "name": "Monticello Pit",
+      "operator": "MBE Inc",
+      "status": "Intermittent",
+      "status_since": "2024-08-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

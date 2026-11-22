@@ -1,0 +1,36 @@
+{
+  "id": "pa-langhorne-alpine-gardens-landscaping-services-mulch-lawn-mowing",
+  "slug": "alpine-gardens-landscaping-services-mulch-lawn-mowing",
+  "name": "Alpine Gardens Landscaping Services – Mulch – Lawn Mowing",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14 Bellevue Ave",
+    "city": "Langhorne",
+    "state": "PA",
+    "zip": "19047"
+  },
+  "location": {
+    "lat": 40.160324,
+    "lng": -74.912605
+  },
+  "contact": {
+    "phone": "(215) 752-3519",
+    "website": "http://www.landscapingservices.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90c1a49b-8612-4016-9d5a-c09f35ce1469",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

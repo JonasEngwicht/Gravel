@@ -1,0 +1,36 @@
+{
+  "id": "ca-lake-elsinore-r-and-n-landscape-supply",
+  "slug": "r-and-n-landscape-supply",
+  "name": "R & N Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18201 Dexter Ave",
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "zip": "92532"
+  },
+  "location": {
+    "lat": 33.697662,
+    "lng": -117.343002
+  },
+  "contact": {
+    "phone": "(951) 775-9697",
+    "website": "https://www.rnlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "23fb3e65-d526-4cdc-aadf-06c4877c680e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

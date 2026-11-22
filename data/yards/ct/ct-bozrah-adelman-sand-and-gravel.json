@@ -1,0 +1,48 @@
+{
+  "id": "ct-bozrah-adelman-sand-and-gravel",
+  "slug": "adelman-sand-and-gravel",
+  "name": "Adelman Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "34 Bozrah St",
+    "city": "Bozrah",
+    "state": "CT",
+    "zip": "06334"
+  },
+  "location": {
+    "lat": 41.554081,
+    "lng": -72.165428
+  },
+  "contact": {
+    "phone": "(860) 889-3394",
+    "website": "http://adelmaninc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2eabd238-f2b8-41f1-88ab-0002db1debc0",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0600274",
+      "name": "Adelman Sand & Gravel Inc",
+      "operator": "Adelman Sand and Gravel",
+      "status": "Intermittent",
+      "status_since": "1985-05-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "mn-wabasha-wabasha-sand-gravel-and-ready-mix",
+  "slug": "wabasha-sand-gravel-and-ready-mix",
+  "name": "Wabasha Sand Gravel & Ready Mix",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "905 Church Ave",
+    "city": "Wabasha",
+    "state": "MN",
+    "zip": "55981"
+  },
+  "location": {
+    "lat": 44.376041,
+    "lng": -92.044044
+  },
+  "contact": {
+    "phone": "(651) 565-3610",
+    "website": "http://www.kohnermaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e95511ff-7295-4173-a659-91f395efa6e9",
+    "confidence": 0.984,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2103378",
+      "name": "Wabasha Portable",
+      "operator": "Wabasha Sand, Gravel & Ready Mix",
+      "status": "Abandoned",
+      "status_since": "2012-03-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

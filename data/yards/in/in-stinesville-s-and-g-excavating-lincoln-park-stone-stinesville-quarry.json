@@ -1,0 +1,41 @@
+{
+  "id": "in-stinesville-s-and-g-excavating-lincoln-park-stone-stinesville-quarry",
+  "slug": "s-and-g-excavating-lincoln-park-stone-stinesville-quarry",
+  "name": "S & G Excavating – Lincoln Park Stone Stinesville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Stinesville",
+    "state": "IN",
+    "zip": "47464"
+  },
+  "location": {
+    "lat": 39.293056,
+    "lng": -86.662222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202362"
+  },
+  "msha": [
+    {
+      "mine_id": "1202362",
+      "name": "Lincoln Park Stone Stinesville Quarry",
+      "operator": "S & G Excavating, Inc.",
+      "status": "Active",
+      "status_since": "2005-01-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

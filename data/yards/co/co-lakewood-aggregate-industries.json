@@ -1,0 +1,37 @@
+{
+  "id": "co-lakewood-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "1687 Cole Blvd #300",
+    "city": "Lakewood",
+    "state": "CO",
+    "zip": "80401"
+  },
+  "location": {
+    "lat": 39.740124,
+    "lng": -105.157219
+  },
+  "contact": {
+    "phone": "(303) 985-1070",
+    "website": "http://www.aggregate-us.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11c21a8d-d443-4fa5-8aea-5587945c044b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

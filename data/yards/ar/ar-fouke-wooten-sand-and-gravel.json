@@ -1,0 +1,41 @@
+{
+  "id": "ar-fouke-wooten-sand-and-gravel",
+  "slug": "wooten-sand-and-gravel",
+  "name": "Wooten Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Fouke",
+    "state": "AR",
+    "zip": "71837"
+  },
+  "location": {
+    "lat": 33.261111,
+    "lng": -93.885556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301975"
+  },
+  "msha": [
+    {
+      "mine_id": "0301975",
+      "name": "Wooten Sand & Gravel, Inc.",
+      "operator": "Wooten Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2008-10-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

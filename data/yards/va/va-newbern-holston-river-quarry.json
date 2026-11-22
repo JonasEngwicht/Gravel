@@ -1,0 +1,41 @@
+{
+  "id": "va-newbern-holston-river-quarry",
+  "slug": "holston-river-quarry",
+  "name": "Holston River Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Newbern",
+    "state": "VA",
+    "zip": "24129"
+  },
+  "location": {
+    "lat": 37.0875,
+    "lng": -80.660556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406134"
+  },
+  "msha": [
+    {
+      "mine_id": "4406134",
+      "name": "Holston River Quarry Inc",
+      "operator": "Holston River Quarry Inc",
+      "status": "Active",
+      "status_since": "1984-09-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

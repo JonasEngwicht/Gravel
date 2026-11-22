@@ -1,0 +1,36 @@
+{
+  "id": "tx-sealy-tiger-eye-landscape-supply",
+  "slug": "tiger-eye-landscape-supply",
+  "name": "Tiger Eye Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1210 Highway 90 W",
+    "city": "Sealy",
+    "state": "TX",
+    "zip": "77474"
+  },
+  "location": {
+    "lat": 29.770084,
+    "lng": -96.16452
+  },
+  "contact": {
+    "phone": "(979) 256-1250",
+    "website": "http://www.tigereyelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b738d26b-9c94-4b57-90fd-2731f9c529d0",
+    "confidence": 0.88,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "de-millsboro-lewis-sand-and-gravel",
+  "slug": "lewis-sand-and-gravel",
+  "name": "Lewis Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "38227 Firemans Rd",
+    "city": "Millsboro",
+    "state": "DE",
+    "zip": "19966"
+  },
+  "location": {
+    "lat": 38.466732,
+    "lng": -75.356094
+  },
+  "contact": {
+    "phone": "(302) 238-0169"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62d5d864-1baf-4a58-a9a8-7658116f91d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

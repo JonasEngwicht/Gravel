@@ -1,0 +1,41 @@
+{
+  "id": "or-seaside-warrenton-fiber-company-heinz-pit",
+  "slug": "warrenton-fiber-company-heinz-pit",
+  "name": "Warrenton Fiber Company – Heinz Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Seaside",
+    "state": "OR",
+    "zip": "97110"
+  },
+  "location": {
+    "lat": 45.913611,
+    "lng": -123.894167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503364"
+  },
+  "msha": [
+    {
+      "mine_id": "3503364",
+      "name": "Heinz Pit",
+      "operator": "Warrenton Fiber Company, Inc.",
+      "status": "Active",
+      "status_since": "2010-03-25",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

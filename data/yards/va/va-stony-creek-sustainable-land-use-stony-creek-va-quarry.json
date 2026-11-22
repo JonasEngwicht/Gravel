@@ -1,0 +1,41 @@
+{
+  "id": "va-stony-creek-sustainable-land-use-stony-creek-va-quarry",
+  "slug": "sustainable-land-use-stony-creek-va-quarry",
+  "name": "Sustainable Land Use – Stony Creek-VA Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Stony Creek",
+    "state": "VA",
+    "zip": "23882"
+  },
+  "location": {
+    "lat": 36.937778,
+    "lng": -77.499444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4407440"
+  },
+  "msha": [
+    {
+      "mine_id": "4407440",
+      "name": "Stony Creek-VA Quarry",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Active",
+      "status_since": "2026-04-27",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

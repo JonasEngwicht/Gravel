@@ -1,0 +1,41 @@
+{
+  "id": "sc-mcconnells-heidelberg-materials-southeast-agg-lowrys-quarry",
+  "slug": "heidelberg-materials-southeast-agg-lowrys-quarry",
+  "name": "Heidelberg Materials Southeast Agg – Lowrys Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "McConnells",
+    "state": "SC",
+    "zip": "29726"
+  },
+  "location": {
+    "lat": 34.831667,
+    "lng": -81.264444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800308"
+  },
+  "msha": [
+    {
+      "mine_id": "3800308",
+      "name": "Lowrys Quarry",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "1987-12-07",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

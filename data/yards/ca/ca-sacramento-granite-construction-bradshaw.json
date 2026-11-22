@@ -1,0 +1,41 @@
+{
+  "id": "ca-sacramento-granite-construction-bradshaw",
+  "slug": "granite-construction-bradshaw",
+  "name": "Granite Construction – Bradshaw",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95827"
+  },
+  "location": {
+    "lat": 38.548889,
+    "lng": -121.334444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0403107"
+  },
+  "msha": [
+    {
+      "mine_id": "0403107",
+      "name": "Bradshaw",
+      "operator": "Granite Construction Company",
+      "status": "Active",
+      "status_since": "1992-10-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

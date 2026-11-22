@@ -1,0 +1,41 @@
+{
+  "id": "ct-griswold-the-lynn-osga-pit",
+  "slug": "the-lynn-osga-pit",
+  "name": "The Lynn – Osga Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Griswold",
+    "state": "CT",
+    "zip": "06351"
+  },
+  "location": {
+    "lat": 41.561667,
+    "lng": -71.918889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600418"
+  },
+  "msha": [
+    {
+      "mine_id": "0600418",
+      "name": "Osga Pit",
+      "operator": "The Lynn Corporation",
+      "status": "Intermittent",
+      "status_since": "2020-06-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

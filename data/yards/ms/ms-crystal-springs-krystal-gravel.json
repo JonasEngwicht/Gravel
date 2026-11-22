@@ -1,0 +1,47 @@
+{
+  "id": "ms-crystal-springs-krystal-gravel",
+  "slug": "krystal-gravel",
+  "name": "Krystal Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "113 Bo Bo Dr",
+    "city": "Crystal Springs",
+    "state": "MS",
+    "zip": "39059"
+  },
+  "location": {
+    "lat": 31.990883,
+    "lng": -90.366684
+  },
+  "contact": {
+    "phone": "(601) 892-6200"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "00dca81b-0895-4716-b0e9-dfc728fd37fd",
+    "confidence": 0.972,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2200774",
+      "name": "Plant #3",
+      "operator": "Krystal Gravel",
+      "status": "Abandoned",
+      "status_since": "2008-01-08",
+      "commodity": "Sand, Common",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

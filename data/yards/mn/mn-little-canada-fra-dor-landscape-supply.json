@@ -1,0 +1,36 @@
+{
+  "id": "mn-little-canada-fra-dor-landscape-supply",
+  "slug": "fra-dor-landscape-supply",
+  "name": "Fra-Dor Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3101 Country Dr",
+    "city": "Little Canada",
+    "state": "MN",
+    "zip": "55117"
+  },
+  "location": {
+    "lat": 45.0355,
+    "lng": -93.094589
+  },
+  "contact": {
+    "phone": "(651) 484-8180",
+    "website": "http://www.frador.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c73190c5-3a3c-4bf4-874a-814ef0b75280",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

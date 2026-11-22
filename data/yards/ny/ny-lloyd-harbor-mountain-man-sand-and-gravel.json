@@ -1,0 +1,32 @@
+{
+  "id": "ny-lloyd-harbor-mountain-man-sand-and-gravel",
+  "slug": "mountain-man-sand-and-gravel",
+  "name": "Mountain Man Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "223 Wall St",
+    "city": "Lloyd Harbor",
+    "state": "NY",
+    "zip": "11743"
+  },
+  "location": {
+    "lat": 40.87912,
+    "lng": -73.425682
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3fb5b54e-54e5-4e5c-8561-af30f20af6b2",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

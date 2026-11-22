@@ -1,0 +1,41 @@
+{
+  "id": "ny-halfmoon-heidelberg-materials-northeast-waterford-sand-and-gravel",
+  "slug": "heidelberg-materials-northeast-waterford-sand-and-gravel",
+  "name": "Heidelberg Materials Northeast – Waterford Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Halfmoon",
+    "state": "NY",
+    "zip": "12188"
+  },
+  "location": {
+    "lat": 42.838611,
+    "lng": -73.693056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003633"
+  },
+  "msha": [
+    {
+      "mine_id": "3003633",
+      "name": "Waterford Sand & Gravel",
+      "operator": "Heidelberg Materials Northeast Llc",
+      "status": "Intermittent",
+      "status_since": "2021-06-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

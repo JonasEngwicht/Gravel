@@ -1,0 +1,37 @@
+{
+  "id": "mi-taylor-siteone-landscape-supply-6900-pardee-rd",
+  "slug": "siteone-landscape-supply-6900-pardee-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6900 Pardee Rd",
+    "city": "Taylor",
+    "state": "MI",
+    "zip": "48180"
+  },
+  "location": {
+    "lat": 42.258041,
+    "lng": -83.26297
+  },
+  "contact": {
+    "phone": "(313) 291-4150",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "facf9dcc-fb47-4daf-a638-ae23ae12fd48",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

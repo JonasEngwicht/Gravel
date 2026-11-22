@@ -1,0 +1,32 @@
+{
+  "id": "oh-delaware-universal-landscape-supply",
+  "slug": "universal-landscape-supply",
+  "name": "Universal Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2210 US Highway 23 N",
+    "city": "Delaware",
+    "state": "OH",
+    "zip": "43015"
+  },
+  "location": {
+    "lat": 40.330284,
+    "lng": -83.07225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "92d54da4-1719-4756-b436-2a914d31e85d",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

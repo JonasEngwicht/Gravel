@@ -1,0 +1,37 @@
+{
+  "id": "mo-lee-s-summit-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "109 NW Victoria Dr",
+    "city": "Lee's Summit",
+    "state": "MO",
+    "zip": "64086"
+  },
+  "location": {
+    "lat": 38.936508,
+    "lng": -94.383545
+  },
+  "contact": {
+    "phone": "(816) 525-2521",
+    "website": "https://www.siteone.com/store/381"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb136f87-30c9-49ca-ba6b-b0880dd028b7",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

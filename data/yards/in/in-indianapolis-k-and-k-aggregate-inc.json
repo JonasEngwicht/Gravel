@@ -1,0 +1,35 @@
+{
+  "id": "in-indianapolis-k-and-k-aggregate-inc",
+  "slug": "k-and-k-aggregate-inc",
+  "name": "K & K Aggregate Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5430 Victory Dr",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46203"
+  },
+  "location": {
+    "lat": 39.702583,
+    "lng": -86.074509
+  },
+  "contact": {
+    "phone": "(317) 339-5911"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bde9911b-e73c-4de5-b1ea-0cf288640225",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

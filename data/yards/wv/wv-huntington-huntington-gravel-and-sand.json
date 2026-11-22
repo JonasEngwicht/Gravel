@@ -1,0 +1,36 @@
+{
+  "id": "wv-huntington-huntington-gravel-and-sand",
+  "slug": "huntington-gravel-and-sand",
+  "name": "Huntington Gravel & Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4002 5th Street Rd",
+    "city": "Huntington",
+    "state": "WV",
+    "zip": "25701"
+  },
+  "location": {
+    "lat": 38.36235,
+    "lng": -82.453667
+  },
+  "contact": {
+    "phone": "(304) 525-5095",
+    "website": "https://huntingtongravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e194a9dc-33db-4ac7-83eb-8d46a64e8410",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

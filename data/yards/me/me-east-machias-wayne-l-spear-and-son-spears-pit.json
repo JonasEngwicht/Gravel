@@ -1,0 +1,41 @@
+{
+  "id": "me-east-machias-wayne-l-spear-and-son-spears-pit",
+  "slug": "wayne-l-spear-and-son-spears-pit",
+  "name": "Wayne L Spear & Son – Spears Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "East Machias",
+    "state": "ME",
+    "zip": "04630"
+  },
+  "location": {
+    "lat": 44.830833,
+    "lng": -67.418611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701177"
+  },
+  "msha": [
+    {
+      "mine_id": "1701177",
+      "name": "Spears Pit",
+      "operator": "Wayne L Spear & Son Inc",
+      "status": "Intermittent",
+      "status_since": "2026-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

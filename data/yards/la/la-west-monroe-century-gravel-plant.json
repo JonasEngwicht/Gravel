@@ -1,0 +1,48 @@
+{
+  "id": "la-west-monroe-century-gravel-plant",
+  "slug": "century-gravel-plant",
+  "name": "Century Gravel Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "526 Rogers Rd",
+    "city": "West Monroe",
+    "state": "LA",
+    "zip": "71292"
+  },
+  "location": {
+    "lat": 32.4175,
+    "lng": -92.198776
+  },
+  "contact": {
+    "phone": "(318) 322-0268",
+    "website": "http://www.centuryreadymix.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de5dde20-b389-4e90-bd2e-fe219a685e8d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1601624",
+      "name": "GTR West Monroe",
+      "operator": "Greentek Resources, LLC",
+      "status": "Active",
+      "status_since": "2026-05-27",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

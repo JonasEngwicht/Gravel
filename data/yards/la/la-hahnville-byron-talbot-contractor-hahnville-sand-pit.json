@@ -1,0 +1,41 @@
+{
+  "id": "la-hahnville-byron-talbot-contractor-hahnville-sand-pit",
+  "slug": "byron-talbot-contractor-hahnville-sand-pit",
+  "name": "Byron Talbot Contractor – Hahnville Sand Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hahnville",
+    "state": "LA",
+    "zip": "70079"
+  },
+  "location": {
+    "lat": 29.981389,
+    "lng": -90.407222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601503"
+  },
+  "msha": [
+    {
+      "mine_id": "1601503",
+      "name": "Hahnville Sand Pit",
+      "operator": "Byron Talbot Contractor, Inc.",
+      "status": "Active",
+      "status_since": "2014-10-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

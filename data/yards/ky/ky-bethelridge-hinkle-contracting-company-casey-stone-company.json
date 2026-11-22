@@ -1,0 +1,41 @@
+{
+  "id": "ky-bethelridge-hinkle-contracting-company-casey-stone-company",
+  "slug": "hinkle-contracting-company-casey-stone-company",
+  "name": "Hinkle Contracting Company – Casey Stone Company",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bethelridge",
+    "state": "KY",
+    "zip": "42516"
+  },
+  "location": {
+    "lat": 37.241111,
+    "lng": -84.7675
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500012"
+  },
+  "msha": [
+    {
+      "mine_id": "1500012",
+      "name": "Casey Stone Company",
+      "operator": "Hinkle Contracting Company LLC",
+      "status": "Active",
+      "status_since": "2010-07-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

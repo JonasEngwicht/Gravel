@@ -1,0 +1,36 @@
+{
+  "id": "in-monon-us-aggregates",
+  "slug": "us-aggregates",
+  "name": "US Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6857 N US Highway 421",
+    "city": "Monon",
+    "state": "IN",
+    "zip": "47959"
+  },
+  "location": {
+    "lat": 40.851528,
+    "lng": -86.876915
+  },
+  "contact": {
+    "phone": "(219) 253-6686",
+    "website": "http://www.vulcanmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b788959a-dd0a-4ec3-b7e1-529aad5d2fc2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

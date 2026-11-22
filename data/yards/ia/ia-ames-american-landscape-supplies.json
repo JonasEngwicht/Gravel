@@ -1,0 +1,36 @@
+{
+  "id": "ia-ames-american-landscape-supplies",
+  "slug": "american-landscape-supplies",
+  "name": "American Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "407 Freel Dr",
+    "city": "Ames",
+    "state": "IA",
+    "zip": "50010"
+  },
+  "location": {
+    "lat": 42.018604,
+    "lng": -93.589417
+  },
+  "contact": {
+    "phone": "(515) 232-7782",
+    "website": "http://www.amerilandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81016d82-b4cb-4ec3-a979-53ac352f8dd9",
+    "confidence": 0.87,
+    "merged_records": 1
+  }
+}

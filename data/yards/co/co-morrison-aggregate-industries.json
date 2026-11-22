@@ -1,0 +1,37 @@
+{
+  "id": "co-morrison-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "18131 Colo 8",
+    "city": "Morrison",
+    "state": "CO",
+    "zip": "80465"
+  },
+  "location": {
+    "lat": 39.6343,
+    "lng": -105.204437
+  },
+  "contact": {
+    "phone": "(303) 697-0379",
+    "website": "http://www.aggregate-us.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "211fc7cc-3124-49ed-acfd-bafb400dd274",
+    "confidence": 0.791,
+    "merged_records": 1
+  }
+}

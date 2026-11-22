@@ -1,0 +1,41 @@
+{
+  "id": "oh-danville-united-aggregates",
+  "slug": "united-aggregates",
+  "name": "United Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Danville",
+    "state": "OH",
+    "zip": "43014"
+  },
+  "location": {
+    "lat": 40.465278,
+    "lng": -82.203333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304514"
+  },
+  "msha": [
+    {
+      "mine_id": "3304514",
+      "name": "United Aggregates Inc.",
+      "operator": "United Aggregates Inc.",
+      "status": "Active",
+      "status_since": "2020-01-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

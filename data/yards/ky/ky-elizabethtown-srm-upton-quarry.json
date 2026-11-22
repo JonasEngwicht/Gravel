@@ -1,0 +1,41 @@
+{
+  "id": "ky-elizabethtown-srm-upton-quarry",
+  "slug": "srm-upton-quarry",
+  "name": "Srm Upton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Elizabethtown",
+    "state": "KY",
+    "zip": "42784"
+  },
+  "location": {
+    "lat": 37.446111,
+    "lng": -85.877222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1519952"
+  },
+  "msha": [
+    {
+      "mine_id": "1519952",
+      "name": "Srm Upton Quarry",
+      "operator": "SRM Materials",
+      "status": "Active",
+      "status_since": "2024-05-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

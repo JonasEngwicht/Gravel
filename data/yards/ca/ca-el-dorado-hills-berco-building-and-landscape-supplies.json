@@ -1,0 +1,36 @@
+{
+  "id": "ca-el-dorado-hills-berco-building-and-landscape-supplies",
+  "slug": "berco-building-and-landscape-supplies",
+  "name": "Berco Building and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1091 White Rock Rd Ste 5500",
+    "city": "El Dorado Hills",
+    "state": "CA",
+    "zip": "95762"
+  },
+  "location": {
+    "lat": 38.648346,
+    "lng": -121.065208
+  },
+  "contact": {
+    "phone": "(916) 933-3333",
+    "website": "http://www.bercoredwood.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a43cbaf0-b2d5-4d4f-a5a6-1d31877cb31b",
+    "confidence": 0.932,
+    "merged_records": 1
+  }
+}

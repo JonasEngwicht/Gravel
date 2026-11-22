@@ -1,0 +1,41 @@
+{
+  "id": "wa-sequim-delhur-industries-blake-pit",
+  "slug": "delhur-industries-blake-pit",
+  "name": "DelHur Industries – Blake Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sequim",
+    "state": "WA",
+    "zip": "98382"
+  },
+  "location": {
+    "lat": 48.130556,
+    "lng": -123.1675
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4500581"
+  },
+  "msha": [
+    {
+      "mine_id": "4500581",
+      "name": "Blake Pit",
+      "operator": "DelHur Industries, Inc.",
+      "status": "Active",
+      "status_since": "2024-10-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

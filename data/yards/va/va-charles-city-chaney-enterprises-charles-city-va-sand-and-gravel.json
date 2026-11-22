@@ -1,0 +1,36 @@
+{
+  "id": "va-charles-city-chaney-enterprises-charles-city-va-sand-and-gravel",
+  "slug": "chaney-enterprises-charles-city-va-sand-and-gravel",
+  "name": "Chaney Enterprises - Charles City, VA Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8704 John Tyler Memorial Hwy",
+    "city": "Charles City",
+    "state": "VA",
+    "zip": "23030"
+  },
+  "location": {
+    "lat": 37.334126,
+    "lng": -77.119026
+  },
+  "contact": {
+    "phone": "(301) 932-5000",
+    "website": "https://www.chaneyenterprises.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d30f39f3-12a9-471a-9b9b-0b7af0d5bdea",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

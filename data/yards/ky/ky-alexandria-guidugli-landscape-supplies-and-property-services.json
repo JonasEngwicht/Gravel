@@ -1,0 +1,36 @@
+{
+  "id": "ky-alexandria-guidugli-landscape-supplies-and-property-services",
+  "slug": "guidugli-landscape-supplies-and-property-services",
+  "name": "Guidugli Landscape Supplies & Property Services",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8770 Constable Dr",
+    "city": "Alexandria",
+    "state": "KY",
+    "zip": "41001"
+  },
+  "location": {
+    "lat": 38.950169,
+    "lng": -84.392555
+  },
+  "contact": {
+    "phone": "(859) 635-5263",
+    "website": "https://guiduglilandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2be64744-7562-4f86-bfd7-b878517386d5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

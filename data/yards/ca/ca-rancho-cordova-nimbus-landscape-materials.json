@@ -1,0 +1,36 @@
+{
+  "id": "ca-rancho-cordova-nimbus-landscape-materials",
+  "slug": "nimbus-landscape-materials",
+  "name": "Nimbus Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12137 Folsom Blvd",
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "zip": "95742"
+  },
+  "location": {
+    "lat": 38.62674,
+    "lng": -121.222763
+  },
+  "contact": {
+    "phone": "(916) 985-2275",
+    "website": "http://www.nimbuslandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64904d1c-328e-4932-a756-d7782cbfebd3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

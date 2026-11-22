@@ -1,0 +1,36 @@
+{
+  "id": "wi-turtle-prairie-avenue-sand-and-gravel",
+  "slug": "prairie-avenue-sand-and-gravel",
+  "name": "Prairie Avenue Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3527 S Prairie Ave",
+    "city": "Turtle",
+    "state": "WI",
+    "zip": "53511"
+  },
+  "location": {
+    "lat": 42.569695,
+    "lng": -89.009338
+  },
+  "contact": {
+    "phone": "(608) 365-8118",
+    "website": "http://www.prairieavenuesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "774653b9-a9b1-4a5c-bd9b-d706556d6e0e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

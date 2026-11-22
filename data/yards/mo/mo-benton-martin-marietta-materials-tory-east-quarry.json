@@ -1,0 +1,41 @@
+{
+  "id": "mo-benton-martin-marietta-materials-tory-east-quarry",
+  "slug": "martin-marietta-materials-tory-east-quarry",
+  "name": "Martin Marietta Materials – Tory East Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Benton",
+    "state": "MO",
+    "zip": "63362"
+  },
+  "location": {
+    "lat": 38.904167,
+    "lng": -90.911389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302213"
+  },
+  "msha": [
+    {
+      "mine_id": "2302213",
+      "name": "Tory East Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2000-12-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

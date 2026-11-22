@@ -1,0 +1,41 @@
+{
+  "id": "ny-erin-earl-stermer-excavating",
+  "slug": "earl-stermer-excavating",
+  "name": "Earl Stermer Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Erin",
+    "state": "NY",
+    "zip": "14816"
+  },
+  "location": {
+    "lat": 42.176111,
+    "lng": -76.727778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002891"
+  },
+  "msha": [
+    {
+      "mine_id": "3002891",
+      "name": "Stermer Gravel Pit #1",
+      "operator": "Earl Stermer Excavating",
+      "status": "Intermittent",
+      "status_since": "2014-06-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

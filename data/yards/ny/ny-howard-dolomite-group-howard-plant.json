@@ -1,0 +1,41 @@
+{
+  "id": "ny-howard-dolomite-group-howard-plant",
+  "slug": "dolomite-group-howard-plant",
+  "name": "Dolomite Group – Howard Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Howard",
+    "state": "NY",
+    "zip": "14809"
+  },
+  "location": {
+    "lat": 42.359444,
+    "lng": -77.504722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002754"
+  },
+  "msha": [
+    {
+      "mine_id": "3002754",
+      "name": "Howard Plant",
+      "operator": "Dolomite Group",
+      "status": "Active",
+      "status_since": "2023-11-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

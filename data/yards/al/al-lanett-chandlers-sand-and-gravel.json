@@ -1,0 +1,35 @@
+{
+  "id": "al-lanett-chandlers-sand-and-gravel",
+  "slug": "chandlers-sand-and-gravel",
+  "name": "Chandler’s Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1401 S 8th Ave",
+    "city": "Lanett",
+    "state": "AL",
+    "zip": "36863"
+  },
+  "location": {
+    "lat": 32.856167,
+    "lng": -85.199303
+  },
+  "contact": {
+    "phone": "(706) 585-2872"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75970b8c-3e84-4894-8396-789d963ff526",
+    "confidence": 0.605,
+    "merged_records": 1
+  }
+}

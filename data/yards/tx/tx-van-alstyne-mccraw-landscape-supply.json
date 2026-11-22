@@ -1,0 +1,36 @@
+{
+  "id": "tx-van-alstyne-mccraw-landscape-supply",
+  "slug": "mccraw-landscape-supply",
+  "name": "McCraw Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15048 US-75",
+    "city": "Van Alstyne",
+    "state": "TX",
+    "zip": "75495"
+  },
+  "location": {
+    "lat": 33.452473,
+    "lng": -96.605103
+  },
+  "contact": {
+    "phone": "(903) 482-5649",
+    "website": "http://mccrawlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f40a9dd4-4776-4559-82e8-a899f04d0899",
+    "confidence": 0.834,
+    "merged_records": 1
+  }
+}

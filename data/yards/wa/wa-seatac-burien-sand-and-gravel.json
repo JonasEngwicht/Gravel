@@ -1,0 +1,36 @@
+{
+  "id": "wa-seatac-burien-sand-and-gravel",
+  "slug": "burien-sand-and-gravel",
+  "name": "Burien Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18203 Des Moines Memorial Dr S",
+    "city": "Seatac",
+    "state": "WA",
+    "zip": "98148"
+  },
+  "location": {
+    "lat": 47.439648,
+    "lng": -122.324516
+  },
+  "contact": {
+    "phone": "(206) 246-7000",
+    "website": "https://buriensandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "36a6370e-1f21-4750-9c1d-8354f5ba9805",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

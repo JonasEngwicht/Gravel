@@ -1,0 +1,36 @@
+{
+  "id": "pa-upper-darby-delco-mulch-and-supply-llc",
+  "slug": "delco-mulch-and-supply-llc",
+  "name": "Delco Mulch and Supply LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1720 S State Rd",
+    "city": "Upper Darby",
+    "state": "PA",
+    "zip": "19082"
+  },
+  "location": {
+    "lat": 39.960297,
+    "lng": -75.283173
+  },
+  "contact": {
+    "phone": "(610) 352-8008",
+    "website": "http://delcomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "03a8f200-f3c0-4c6a-9846-8f1ad5fa21c1",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

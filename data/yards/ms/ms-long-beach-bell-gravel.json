@@ -1,0 +1,35 @@
+{
+  "id": "ms-long-beach-bell-gravel",
+  "slug": "bell-gravel",
+  "name": "Bell Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7290 Red Creek Rd",
+    "city": "Long Beach",
+    "state": "MS",
+    "zip": "39560"
+  },
+  "location": {
+    "lat": 30.390665,
+    "lng": -89.192017
+  },
+  "contact": {
+    "phone": "(228) 452-2872"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "35d053dc-95ef-4d22-8042-377ab2179845",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

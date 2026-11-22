@@ -1,0 +1,35 @@
+{
+  "id": "wa-lopez-island-lopez-sand-and-gravel",
+  "slug": "lopez-sand-and-gravel",
+  "name": "Lopez Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "618 Channel Rd",
+    "city": "Lopez Island",
+    "state": "WA",
+    "zip": "98261"
+  },
+  "location": {
+    "lat": 48.493683,
+    "lng": -122.935867
+  },
+  "contact": {
+    "phone": "(360) 468-2320"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d254748-074d-49c3-88df-14659b4d24b3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

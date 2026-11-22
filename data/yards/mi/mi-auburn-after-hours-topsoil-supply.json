@@ -1,0 +1,36 @@
+{
+  "id": "mi-auburn-after-hours-topsoil-supply",
+  "slug": "after-hours-topsoil-supply",
+  "name": "After Hours Topsoil Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3628 Garfield Rd",
+    "city": "Auburn",
+    "state": "MI",
+    "zip": "48611"
+  },
+  "location": {
+    "lat": 43.636566,
+    "lng": -84.088722
+  },
+  "contact": {
+    "phone": "(989) 239-9644",
+    "website": "http://www.afterhourstopsoilsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea697ba3-a2f5-4011-9446-c11566c239a6",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

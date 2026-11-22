@@ -1,0 +1,41 @@
+{
+  "id": "tx-nursery-vulcan-construction-materials-kyle-plant",
+  "slug": "vulcan-construction-materials-kyle-plant",
+  "name": "Vulcan Construction Materials – Kyle Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Nursery",
+    "state": "TX",
+    "zip": "77976"
+  },
+  "location": {
+    "lat": 28.911944,
+    "lng": -97.119722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103912"
+  },
+  "msha": [
+    {
+      "mine_id": "4103912",
+      "name": "Kyle Plant",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1996-07-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

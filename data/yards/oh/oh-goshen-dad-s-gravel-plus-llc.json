@@ -1,0 +1,36 @@
+{
+  "id": "oh-goshen-dad-s-gravel-plus-llc",
+  "slug": "dad-s-gravel-plus-llc",
+  "name": "Dad's Gravel Plus LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7194 Thompson Rd",
+    "city": "Goshen",
+    "state": "OH",
+    "zip": "45122"
+  },
+  "location": {
+    "lat": 39.255009,
+    "lng": -84.104218
+  },
+  "contact": {
+    "phone": "(513) 568-4415",
+    "website": "https://www.dadsgravelplusllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c647547-8b05-4604-bae4-d50dbb505d89",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

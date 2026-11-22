@@ -1,0 +1,35 @@
+{
+  "id": "ga-locust-grove-jackson-sand-and-gravel",
+  "slug": "jackson-sand-and-gravel",
+  "name": "Jackson Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3267 GA-155 S",
+    "city": "Locust Grove",
+    "state": "GA",
+    "zip": "30248"
+  },
+  "location": {
+    "lat": 33.34985,
+    "lng": -84.179085
+  },
+  "contact": {
+    "phone": "(770) 914-5978"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82c46bae-dea7-48c7-9545-ddaa857ae212",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

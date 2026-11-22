@@ -1,0 +1,36 @@
+{
+  "id": "ga-cataula-sandman-sand-and-gravel",
+  "slug": "sandman-sand-and-gravel",
+  "name": "Sandman Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "56 April Ln",
+    "city": "Cataula",
+    "state": "GA",
+    "zip": "31804"
+  },
+  "location": {
+    "lat": 32.620697,
+    "lng": -84.905312
+  },
+  "contact": {
+    "phone": "(706) 323-7263",
+    "website": "http://www.sandmanhauling.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e0790813-1c82-4e49-8abc-54f524ce7d3a",
+    "confidence": 0.646,
+    "merged_records": 1
+  }
+}

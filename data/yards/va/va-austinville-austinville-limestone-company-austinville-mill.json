@@ -1,0 +1,41 @@
+{
+  "id": "va-austinville-austinville-limestone-company-austinville-mill",
+  "slug": "austinville-limestone-company-austinville-mill",
+  "name": "Austinville Limestone Company – Austinville Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Austinville",
+    "state": "VA",
+    "zip": "24312"
+  },
+  "location": {
+    "lat": 36.828056,
+    "lng": -80.865556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4405996"
+  },
+  "msha": [
+    {
+      "mine_id": "4405996",
+      "name": "Austinville Mill",
+      "operator": "Austinville Limestone Company Inc",
+      "status": "Active",
+      "status_since": "1983-05-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 30
+    }
+  ]
+}

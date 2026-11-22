@@ -1,0 +1,36 @@
+{
+  "id": "mi-orion-twp-orion-stone-depot",
+  "slug": "orion-stone-depot",
+  "name": "Orion Stone Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4888 Joslyn Rd",
+    "city": "Orion Twp",
+    "state": "MI",
+    "zip": "48359"
+  },
+  "location": {
+    "lat": 42.710224,
+    "lng": -83.286987
+  },
+  "contact": {
+    "phone": "(248) 391-2490",
+    "website": "http://www.orionstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c1372c1-490a-4774-bddd-310e37314249",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

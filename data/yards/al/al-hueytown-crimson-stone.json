@@ -1,0 +1,41 @@
+{
+  "id": "al-hueytown-crimson-stone",
+  "slug": "crimson-stone",
+  "name": "Crimson Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hueytown",
+    "state": "AL",
+    "zip": "35023"
+  },
+  "location": {
+    "lat": 33.408889,
+    "lng": -87.054167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0102945"
+  },
+  "msha": [
+    {
+      "mine_id": "0102945",
+      "name": "Crimson Stone",
+      "operator": "Crimson Stone",
+      "status": "Active",
+      "status_since": "1998-10-01",
+      "commodity": "Crushed, Broken Slate",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-long-beach-peninsula-landscape-supply",
+  "slug": "peninsula-landscape-supply",
+  "name": "Peninsula Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15289 Sandridge Rd",
+    "city": "Long Beach",
+    "state": "WA",
+    "zip": "98631"
+  },
+  "location": {
+    "lat": 46.412144,
+    "lng": -124.023026
+  },
+  "contact": {
+    "phone": "(360) 642-7977",
+    "website": "https://peninsula-landscape-supply.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59b27424-bb06-454c-8a40-fdc9b2bcdfc1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

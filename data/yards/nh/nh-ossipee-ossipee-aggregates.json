@@ -1,0 +1,41 @@
+{
+  "id": "nh-ossipee-ossipee-aggregates",
+  "slug": "ossipee-aggregates",
+  "name": "Ossipee Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Ossipee",
+    "state": "NH",
+    "zip": "03864"
+  },
+  "location": {
+    "lat": 43.669444,
+    "lng": -71.071111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700074"
+  },
+  "msha": [
+    {
+      "mine_id": "2700074",
+      "name": "Ossipee Aggregates",
+      "operator": "Ossipee Aggregates Corp",
+      "status": "Active",
+      "status_since": "2000-01-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

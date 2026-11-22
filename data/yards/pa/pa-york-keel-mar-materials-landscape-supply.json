@@ -1,0 +1,36 @@
+{
+  "id": "pa-york-keel-mar-materials-landscape-supply",
+  "slug": "keel-mar-materials-landscape-supply",
+  "name": "Keel Mar Materials Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "335 Indian Rock Dam Rd",
+    "city": "York",
+    "state": "PA",
+    "zip": "17403"
+  },
+  "location": {
+    "lat": 39.915905,
+    "lng": -76.729294
+  },
+  "contact": {
+    "phone": "(717) 741-0708",
+    "website": "http://www.keelmarmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b95e93c-b581-4db7-b194-2c685aa3e0b1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

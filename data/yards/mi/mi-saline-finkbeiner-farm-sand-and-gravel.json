@@ -1,0 +1,35 @@
+{
+  "id": "mi-saline-finkbeiner-farm-sand-and-gravel",
+  "slug": "finkbeiner-farm-sand-and-gravel",
+  "name": "Finkbeiner Farm Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10380 W Michigan Ave",
+    "city": "Saline",
+    "state": "MI",
+    "zip": "48176"
+  },
+  "location": {
+    "lat": 42.133675,
+    "lng": -83.85656
+  },
+  "contact": {
+    "phone": "(734) 429-9801"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b315a461-0a37-45bc-a092-60f14d2fd47e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

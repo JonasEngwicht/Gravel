@@ -1,0 +1,36 @@
+{
+  "id": "il-lynwood-illiana-aggregates",
+  "slug": "illiana-aggregates",
+  "name": "Illiana Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1800 E Joe Orr Rd",
+    "city": "Lynwood",
+    "state": "IL",
+    "zip": "60411"
+  },
+  "location": {
+    "lat": 41.517834,
+    "lng": -87.570984
+  },
+  "contact": {
+    "phone": "(708) 758-6540",
+    "website": "https://www.illianaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8170b3b4-b9fd-479c-bd71-c379886d56ee",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-tellico-plains-rocky-bottom",
+  "slug": "rocky-bottom",
+  "name": "Rocky Bottom",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Tellico Plains",
+    "state": "TN",
+    "zip": "37385"
+  },
+  "location": {
+    "lat": 35.418611,
+    "lng": -84.282222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003514"
+  },
+  "msha": [
+    {
+      "mine_id": "4003514",
+      "name": "Rocky Bottom",
+      "operator": "Rocky Bottom Inc",
+      "status": "Active",
+      "status_since": "2026-07-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ar-little-rock-river-valley-horticultural-products-inc-site-one-landscape-supply",
+  "slug": "river-valley-horticultural-products-inc-site-one-landscape-supply",
+  "name": "River Valley Horticultural Products, Inc./Site One Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21701 Lawson Rd",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72210"
+  },
+  "location": {
+    "lat": 34.717766,
+    "lng": -92.517044
+  },
+  "contact": {
+    "phone": "(501) 821-4770",
+    "website": "https://www.rivervalleyhp.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8bc7661e-b71b-45f1-acda-3dd77366eeea",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

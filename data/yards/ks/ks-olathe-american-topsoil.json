@@ -1,0 +1,36 @@
+{
+  "id": "ks-olathe-american-topsoil",
+  "slug": "american-topsoil",
+  "name": "American Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12900 S Gardner Rd",
+    "city": "Olathe",
+    "state": "KS",
+    "zip": "66061"
+  },
+  "location": {
+    "lat": 38.892307,
+    "lng": -94.927406
+  },
+  "contact": {
+    "phone": "(913) 888-7645",
+    "website": "https://www.americantopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0dbef6d2-c18c-478a-a8ab-cdfa32e440b5",
+    "confidence": 0.607,
+    "merged_records": 1
+  }
+}

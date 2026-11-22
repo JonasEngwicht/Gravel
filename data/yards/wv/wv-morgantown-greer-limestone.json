@@ -1,0 +1,41 @@
+{
+  "id": "wv-morgantown-greer-limestone",
+  "slug": "greer-limestone",
+  "name": "Greer Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26524"
+  },
+  "location": {
+    "lat": 39.573611,
+    "lng": -79.846667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4600016"
+  },
+  "msha": [
+    {
+      "mine_id": "4600016",
+      "name": "Greer Limestone",
+      "operator": "Greer Limestone Company",
+      "status": "Active",
+      "status_since": "1985-06-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 77
+    }
+  ]
+}

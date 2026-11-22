@@ -1,0 +1,36 @@
+{
+  "id": "ma-webster-es-landscape-supply",
+  "slug": "es-landscape-supply",
+  "name": "ES Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7 Tracy Ct",
+    "city": "Webster",
+    "state": "MA",
+    "zip": "01570"
+  },
+  "location": {
+    "lat": 42.050354,
+    "lng": -71.882645
+  },
+  "contact": {
+    "phone": "(508) 241-8524",
+    "website": "https://eslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "69c3f1f4-2743-4ae6-8204-162ec90a4195",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

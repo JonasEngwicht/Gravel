@@ -1,0 +1,36 @@
+{
+  "id": "ny-mount-vernon-imperial-asphalt-and-aggregate-distributor-inc",
+  "slug": "imperial-asphalt-and-aggregate-distributor-inc",
+  "name": "Imperial Asphalt & Aggregate Distributor Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "158 S 2nd Ave Ste 1g",
+    "city": "Mount Vernon",
+    "state": "NY",
+    "zip": "10550"
+  },
+  "location": {
+    "lat": 40.907364,
+    "lng": -73.833427
+  },
+  "contact": {
+    "phone": "(845) 240-8298",
+    "website": "https://www.iaadconstruction.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c59396d7-7394-46d6-b8e6-63f8dbdfeb23",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

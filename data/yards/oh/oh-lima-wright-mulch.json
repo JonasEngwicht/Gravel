@@ -1,0 +1,36 @@
+{
+  "id": "oh-lima-wright-mulch",
+  "slug": "wright-mulch",
+  "name": "Wright Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1227 E Hanthorn Rd",
+    "city": "Lima",
+    "state": "OH",
+    "zip": "45804"
+  },
+  "location": {
+    "lat": 40.703407,
+    "lng": -84.084846
+  },
+  "contact": {
+    "phone": "(419) 228-1173",
+    "website": "http://www.wrightmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9664478c-ecbd-4a22-ab81-63f8449d5111",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

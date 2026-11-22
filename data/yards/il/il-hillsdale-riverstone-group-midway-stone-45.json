@@ -1,0 +1,41 @@
+{
+  "id": "il-hillsdale-riverstone-group-midway-stone-45",
+  "slug": "riverstone-group-midway-stone-45",
+  "name": "RiverStone Group – Midway Stone #45",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hillsdale",
+    "state": "IL",
+    "zip": "61241"
+  },
+  "location": {
+    "lat": 41.536944,
+    "lng": -90.276667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100134"
+  },
+  "msha": [
+    {
+      "mine_id": "1100134",
+      "name": "Midway Stone #45",
+      "operator": "RiverStone Group Inc",
+      "status": "Active",
+      "status_since": "2016-10-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-conshohocken-underdog-landscape-supply",
+  "slug": "underdog-landscape-supply",
+  "name": "Underdog Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "701 Washington St",
+    "city": "Conshohocken",
+    "state": "PA",
+    "zip": "19428"
+  },
+  "location": {
+    "lat": 40.072895,
+    "lng": -75.293861
+  },
+  "contact": {
+    "phone": "(610) 260-9747",
+    "website": "http://www.underdogsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "36ca8967-f2cf-4ddf-a871-44184364edd8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

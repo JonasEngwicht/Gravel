@@ -1,0 +1,36 @@
+{
+  "id": "tn-cookeville-barky-beaver-mulch-inc",
+  "slug": "barky-beaver-mulch-inc",
+  "name": "Barky Beaver Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "425 E Main St",
+    "city": "Cookeville",
+    "state": "TN",
+    "zip": "38506"
+  },
+  "location": {
+    "lat": 36.199459,
+    "lng": -85.439293
+  },
+  "contact": {
+    "phone": "(931) 537-3010",
+    "website": "http://www.barkybeaver.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "54ca5eba-0609-43b6-a64d-3e2d11e66210",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

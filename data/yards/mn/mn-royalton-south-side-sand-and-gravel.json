@@ -1,0 +1,36 @@
+{
+  "id": "mn-royalton-south-side-sand-and-gravel",
+  "slug": "south-side-sand-and-gravel",
+  "name": "South Side Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7995 Acorn Rd NW",
+    "city": "Royalton",
+    "state": "MN",
+    "zip": "56373"
+  },
+  "location": {
+    "lat": 45.815498,
+    "lng": -94.334908
+  },
+  "contact": {
+    "phone": "(320) 584-5588",
+    "website": "http://southsidesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4df065b4-2607-413a-aff4-b9bf9b6379e7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

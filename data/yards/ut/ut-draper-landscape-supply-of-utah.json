@@ -1,0 +1,36 @@
+{
+  "id": "ut-draper-landscape-supply-of-utah",
+  "slug": "landscape-supply-of-utah",
+  "name": "Landscape Supply of Utah",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "611 W 12300 S Suite B",
+    "city": "Draper",
+    "state": "UT",
+    "zip": "84020"
+  },
+  "location": {
+    "lat": 40.526382,
+    "lng": -111.908424
+  },
+  "contact": {
+    "phone": "(801) 816-9104",
+    "website": "https://www.landscapesupplyofutah.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "baa3afdf-0e23-477b-9602-72d919b2bc74",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

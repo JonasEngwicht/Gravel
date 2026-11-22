@@ -1,0 +1,37 @@
+{
+  "id": "md-gaithersburg-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7913 Cessna Ave Ste F",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "zip": "20879"
+  },
+  "location": {
+    "lat": 39.173298,
+    "lng": -77.161163
+  },
+  "contact": {
+    "phone": "(301) 926-7850",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0ef4f42-50e4-4195-aef8-2c822b325601",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ks-topeka-martin-marietta-materials-silver-lake-west-sand",
+  "slug": "martin-marietta-materials-silver-lake-west-sand",
+  "name": "Martin Marietta Materials – Silver Lake West Sand",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Topeka",
+    "state": "KS",
+    "zip": "66606"
+  },
+  "location": {
+    "lat": 39.079722,
+    "lng": -95.771944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401702"
+  },
+  "msha": [
+    {
+      "mine_id": "1401702",
+      "name": "Silver Lake West Sand",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2011-11-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

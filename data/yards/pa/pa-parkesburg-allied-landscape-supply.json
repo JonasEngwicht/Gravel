@@ -1,0 +1,36 @@
+{
+  "id": "pa-parkesburg-allied-landscape-supply",
+  "slug": "allied-landscape-supply",
+  "name": "Allied Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "31 E 1st Ave",
+    "city": "Parkesburg",
+    "state": "PA",
+    "zip": "19365"
+  },
+  "location": {
+    "lat": 39.9604,
+    "lng": -75.911285
+  },
+  "contact": {
+    "phone": "(610) 857-5756",
+    "website": "http://www.alliedlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f4b30020-b9c6-4356-83fa-dff997ebfa9b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

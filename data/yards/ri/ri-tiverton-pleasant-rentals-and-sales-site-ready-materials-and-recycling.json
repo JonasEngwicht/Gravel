@@ -1,0 +1,41 @@
+{
+  "id": "ri-tiverton-pleasant-rentals-and-sales-site-ready-materials-and-recycling",
+  "slug": "pleasant-rentals-and-sales-site-ready-materials-and-recycling",
+  "name": "Pleasant Rentals & Sales – Site-Ready Materials and Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Tiverton",
+    "state": "RI",
+    "zip": "02721"
+  },
+  "location": {
+    "lat": 41.653333,
+    "lng": -71.169167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3700215"
+  },
+  "msha": [
+    {
+      "mine_id": "3700215",
+      "name": "Site-Ready Materials and Recycling",
+      "operator": "Pleasant Rentals & Sales",
+      "status": "Intermittent",
+      "status_since": "2023-03-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

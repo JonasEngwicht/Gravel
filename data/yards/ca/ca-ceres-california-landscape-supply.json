@@ -1,0 +1,36 @@
+{
+  "id": "ca-ceres-california-landscape-supply",
+  "slug": "california-landscape-supply",
+  "name": "California Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4107 Morgan Rd",
+    "city": "Ceres",
+    "state": "CA",
+    "zip": "95307"
+  },
+  "location": {
+    "lat": 37.578415,
+    "lng": -120.976898
+  },
+  "contact": {
+    "phone": "(209) 538-8493",
+    "website": "http://www.californialandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9bc6f4f9-3d55-405c-b989-42d5e69523f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

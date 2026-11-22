@@ -1,0 +1,36 @@
+{
+  "id": "md-baltimore-aggregate-screens-and-crushers",
+  "slug": "aggregate-screens-and-crushers",
+  "name": "Aggregate Screens and Crushers",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7110 Commercial Ave",
+    "city": "Baltimore",
+    "state": "MD",
+    "zip": "21237"
+  },
+  "location": {
+    "lat": 39.313583,
+    "lng": -76.537163
+  },
+  "contact": {
+    "phone": "(410) 687-2226",
+    "website": "http://www.aggregatescreens.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6e5a1276-418e-4d10-aad6-b04e3ff695d5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "vt-derby-green-mountain-mulch",
+  "slug": "green-mountain-mulch",
+  "name": "Green Mountain Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "516 Lower Quarry Rd",
+    "city": "Derby",
+    "state": "VT",
+    "zip": "05829"
+  },
+  "location": {
+    "lat": 44.963821,
+    "lng": -72.150993
+  },
+  "contact": {
+    "phone": "(802) 334-2331",
+    "website": "http://www.greenmountainmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b45f880-dcdd-4ae4-a1e9-ce02504fe955",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

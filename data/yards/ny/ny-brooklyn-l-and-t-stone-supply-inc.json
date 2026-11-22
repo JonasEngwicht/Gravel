@@ -1,0 +1,35 @@
+{
+  "id": "ny-brooklyn-l-and-t-stone-supply-inc",
+  "slug": "l-and-t-stone-supply-inc",
+  "name": "L & T Stone Supply Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "121 11th St",
+    "city": "Brooklyn",
+    "state": "NY",
+    "zip": "11215"
+  },
+  "location": {
+    "lat": 40.671024,
+    "lng": -73.993362
+  },
+  "contact": {
+    "phone": "(718) 499-8756"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "46c0f1a9-2eb1-4b25-883f-b8942a2b818e",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

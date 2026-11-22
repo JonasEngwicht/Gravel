@@ -1,0 +1,36 @@
+{
+  "id": "ms-greenwood-ferguson-j-j-sand-and-gravel-co",
+  "slug": "ferguson-j-j-sand-and-gravel-co",
+  "name": "Ferguson J J Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4510 Highway 82 E",
+    "city": "Greenwood",
+    "state": "MS",
+    "zip": "38930"
+  },
+  "location": {
+    "lat": 33.506886,
+    "lng": -90.105354
+  },
+  "contact": {
+    "phone": "(662) 453-5451",
+    "website": "http://jjferguson.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "24b14c0c-00ec-456a-a89b-64dc0e264768",
+    "confidence": 0.582,
+    "merged_records": 1
+  }
+}

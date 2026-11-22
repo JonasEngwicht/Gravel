@@ -1,0 +1,41 @@
+{
+  "id": "in-kendalville-wolf-lake-gravel-pit",
+  "slug": "wolf-lake-gravel-pit",
+  "name": "Wolf Lake Gravel Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Kendalville",
+    "state": "IN",
+    "zip": "46796"
+  },
+  "location": {
+    "lat": 41.336803,
+    "lng": -85.486414
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202495"
+  },
+  "msha": [
+    {
+      "mine_id": "1202495",
+      "name": "Wolf Lake",
+      "operator": "Wolf Lake Gravel Pit",
+      "status": "Intermittent",
+      "status_since": "2019-03-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

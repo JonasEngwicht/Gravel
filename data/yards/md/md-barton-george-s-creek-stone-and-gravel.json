@@ -1,0 +1,35 @@
+{
+  "id": "md-barton-george-s-creek-stone-and-gravel",
+  "slug": "george-s-creek-stone-and-gravel",
+  "name": "George's Creek Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2278 Michael Rd",
+    "city": "Barton",
+    "state": "MD",
+    "zip": "21521"
+  },
+  "location": {
+    "lat": 39.551342,
+    "lng": -79.032173
+  },
+  "contact": {
+    "phone": "(301) 463-6668"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d666d78-406f-4854-ab23-2f4d0c0bc370",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

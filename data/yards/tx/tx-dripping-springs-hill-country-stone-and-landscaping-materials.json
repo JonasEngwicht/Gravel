@@ -1,0 +1,35 @@
+{
+  "id": "tx-dripping-springs-hill-country-stone-and-landscaping-materials",
+  "slug": "hill-country-stone-and-landscaping-materials",
+  "name": "Hill Country Stone and Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5300 US-290",
+    "city": "Dripping Springs",
+    "state": "TX",
+    "zip": "78620"
+  },
+  "location": {
+    "lat": 30.199459,
+    "lng": -98.181549
+  },
+  "contact": {
+    "phone": "(737) 228-4079"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9dabadd-a734-487b-b76f-7dcca830702c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

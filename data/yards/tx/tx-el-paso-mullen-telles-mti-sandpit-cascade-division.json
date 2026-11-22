@@ -1,0 +1,41 @@
+{
+  "id": "tx-el-paso-mullen-telles-mti-sandpit-cascade-division",
+  "slug": "mullen-telles-mti-sandpit-cascade-division",
+  "name": "Mullen-Telles – MTI Sandpit Cascade Division",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79928"
+  },
+  "location": {
+    "lat": 31.657778,
+    "lng": -106.134444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103711"
+  },
+  "msha": [
+    {
+      "mine_id": "4103711",
+      "name": "MTI Sandpit Cascade Division",
+      "operator": "Mullen-Telles Inc",
+      "status": "Active",
+      "status_since": "2005-02-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

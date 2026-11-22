@@ -1,0 +1,41 @@
+{
+  "id": "mt-two-dot-duncan-ranch-col",
+  "slug": "duncan-ranch-col",
+  "name": "Duncan Ranch Col",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Two Dot",
+    "state": "MT",
+    "zip": "59036"
+  },
+  "location": {
+    "lat": 46.435556,
+    "lng": -109.834444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402568"
+  },
+  "msha": [
+    {
+      "mine_id": "2402568",
+      "name": "DR Sand & Gravel",
+      "operator": "Duncan Ranch Col. Inc",
+      "status": "Intermittent",
+      "status_since": "2026-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ma-east-bridgewater-h-gravel-sand-and-recyclable-materials-inc",
+  "slug": "h-gravel-sand-and-recyclable-materials-inc",
+  "name": "H Gravel, Sand & Recyclable Materials Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2 Industrial Dr",
+    "city": "East Bridgewater",
+    "state": "MA",
+    "zip": "02333"
+  },
+  "location": {
+    "lat": 42.054218,
+    "lng": -70.906776
+  },
+  "contact": {
+    "phone": "(508) 659-5221",
+    "website": "http://www.hgsrm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a4c5d9a3-ad97-4680-89f1-a5d14c762c43",
+    "confidence": 0.521,
+    "merged_records": 1
+  }
+}

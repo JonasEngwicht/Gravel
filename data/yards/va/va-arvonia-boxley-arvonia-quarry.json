@@ -1,0 +1,41 @@
+{
+  "id": "va-arvonia-boxley-arvonia-quarry",
+  "slug": "boxley-arvonia-quarry",
+  "name": "Boxley Arvonia Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Arvonia",
+    "state": "VA",
+    "zip": "23004"
+  },
+  "location": {
+    "lat": 37.690556,
+    "lng": -78.348056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400061"
+  },
+  "msha": [
+    {
+      "mine_id": "4400061",
+      "name": "Boxley Arvonia Quarry",
+      "operator": "Boxley Materials Company",
+      "status": "Active",
+      "status_since": "1975-04-08",
+      "commodity": "Crushed, Broken Slate",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

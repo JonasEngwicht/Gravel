@@ -1,0 +1,41 @@
+{
+  "id": "mo-mosby-ideker-mining-mosby-quarry",
+  "slug": "ideker-mining-mosby-quarry",
+  "name": "Ideker Mining – Mosby Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mosby",
+    "state": "MO",
+    "zip": "64024"
+  },
+  "location": {
+    "lat": 39.332778,
+    "lng": -94.2925
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302447"
+  },
+  "msha": [
+    {
+      "mine_id": "2302447",
+      "name": "Mosby Quarry",
+      "operator": "Ideker Mining LLC",
+      "status": "Active",
+      "status_since": "2015-10-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

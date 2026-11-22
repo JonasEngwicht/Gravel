@@ -1,0 +1,36 @@
+{
+  "id": "mo-troy-river-bottom-topsoil",
+  "slug": "river-bottom-topsoil",
+  "name": "River Bottom Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "230 Bo Ct",
+    "city": "Troy",
+    "state": "MO",
+    "zip": "63379"
+  },
+  "location": {
+    "lat": 38.966549,
+    "lng": -91.021729
+  },
+  "contact": {
+    "phone": "(636) 462-5331",
+    "website": "http://www.riverbottomtopsoillincolncounty.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5158adc9-4db5-47bc-9c21-59a048cb09ad",
+    "confidence": 0.859,
+    "merged_records": 1
+  }
+}

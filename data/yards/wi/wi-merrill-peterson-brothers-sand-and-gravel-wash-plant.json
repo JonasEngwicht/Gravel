@@ -1,0 +1,41 @@
+{
+  "id": "wi-merrill-peterson-brothers-sand-and-gravel-wash-plant",
+  "slug": "peterson-brothers-sand-and-gravel-wash-plant",
+  "name": "Peterson Brothers Sand & Gravel – Wash Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Merrill",
+    "state": "WI",
+    "zip": "54452"
+  },
+  "location": {
+    "lat": 45.200278,
+    "lng": -89.656111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703244"
+  },
+  "msha": [
+    {
+      "mine_id": "4703244",
+      "name": "Wash Plant",
+      "operator": "Peterson Brothers Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2000-05-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

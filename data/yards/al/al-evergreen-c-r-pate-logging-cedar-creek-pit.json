@@ -1,0 +1,41 @@
+{
+  "id": "al-evergreen-c-r-pate-logging-cedar-creek-pit",
+  "slug": "c-r-pate-logging-cedar-creek-pit",
+  "name": "C.R. Pate Logging – Cedar Creek Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Evergreen",
+    "state": "AL",
+    "zip": "36432"
+  },
+  "location": {
+    "lat": 31.313333,
+    "lng": -86.855
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103551"
+  },
+  "msha": [
+    {
+      "mine_id": "0103551",
+      "name": "Cedar Creek Pit",
+      "operator": "C.R. Pate Logging Inc.",
+      "status": "Active",
+      "status_since": "2022-07-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

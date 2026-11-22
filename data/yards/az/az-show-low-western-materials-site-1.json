@@ -1,0 +1,41 @@
+{
+  "id": "az-show-low-western-materials-site-1",
+  "slug": "western-materials-site-1",
+  "name": "Western Materials Site #1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Show Low",
+    "state": "AZ",
+    "zip": "85901"
+  },
+  "location": {
+    "lat": 34.330833,
+    "lng": -109.963333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203215"
+  },
+  "msha": [
+    {
+      "mine_id": "0203215",
+      "name": "Western Materials Site #1",
+      "operator": "Western Materials, LLC",
+      "status": "Active",
+      "status_since": "2021-01-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

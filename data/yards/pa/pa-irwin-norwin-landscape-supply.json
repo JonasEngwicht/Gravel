@@ -1,0 +1,36 @@
+{
+  "id": "pa-irwin-norwin-landscape-supply",
+  "slug": "norwin-landscape-supply",
+  "name": "Norwin Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "199 Entry Rd",
+    "city": "Irwin",
+    "state": "PA",
+    "zip": "15642"
+  },
+  "location": {
+    "lat": 40.321762,
+    "lng": -79.715561
+  },
+  "contact": {
+    "phone": "(724) 863-9155",
+    "website": "http://www.norwinsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd3c8d5d-7f12-466a-9acd-cb5e8ef33305",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fl-orlando-royal-mulch-and-nursery",
+  "slug": "royal-mulch-and-nursery",
+  "name": "Royal Mulch & Nursery",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6210 Old Winter Garden Rd",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32835"
+  },
+  "location": {
+    "lat": 28.537407,
+    "lng": -81.467087
+  },
+  "contact": {
+    "phone": "(407) 378-5126"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd9a777f-21d0-4a62-992f-32a98c17c53f",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

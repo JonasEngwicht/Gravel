@@ -1,0 +1,41 @@
+{
+  "id": "mo-potosi-morgan-and-white-quarries-leadwood-plant",
+  "slug": "morgan-and-white-quarries-leadwood-plant",
+  "name": "Morgan & White Quarries – Leadwood Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Potosi",
+    "state": "MO",
+    "zip": "63653"
+  },
+  "location": {
+    "lat": 37.859444,
+    "lng": -90.578333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301694"
+  },
+  "msha": [
+    {
+      "mine_id": "2301694",
+      "name": "Leadwood Plant",
+      "operator": "Morgan & White Quarries Inc",
+      "status": "Active",
+      "status_since": "2019-10-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

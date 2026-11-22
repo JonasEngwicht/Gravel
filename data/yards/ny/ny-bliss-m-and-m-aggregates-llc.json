@@ -1,0 +1,35 @@
+{
+  "id": "ny-bliss-m-and-m-aggregates-llc",
+  "slug": "m-and-m-aggregates-llc",
+  "name": "M & M Aggregates LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6128 Sheppard Rd",
+    "city": "Bliss",
+    "state": "NY",
+    "zip": "14024"
+  },
+  "location": {
+    "lat": 42.603073,
+    "lng": -78.197807
+  },
+  "contact": {
+    "phone": "(585) 786-5409"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "96138c3d-00bb-412f-a48c-8223bd7912be",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

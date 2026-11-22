@@ -1,0 +1,41 @@
+{
+  "id": "tx-cleveland-midwest-aggregates-southline-plant",
+  "slug": "midwest-aggregates-southline-plant",
+  "name": "Midwest Aggregates – Southline Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cleveland",
+    "state": "TX",
+    "zip": "77328"
+  },
+  "location": {
+    "lat": 30.335278,
+    "lng": -95.118611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105874"
+  },
+  "msha": [
+    {
+      "mine_id": "4105874",
+      "name": "Southline Plant",
+      "operator": "Midwest Aggregates LLC",
+      "status": "Active",
+      "status_since": "2026-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

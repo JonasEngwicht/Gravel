@@ -1,0 +1,41 @@
+{
+  "id": "tx-uvalde-martin-marietta-materials-southwest-black-spur-quarry",
+  "slug": "martin-marietta-materials-southwest-black-spur-quarry",
+  "name": "Martin Marietta Materials Southwest – Black Spur Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Uvalde",
+    "state": "TX",
+    "zip": "78802"
+  },
+  "location": {
+    "lat": 29.188611,
+    "lng": -100.031389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104159"
+  },
+  "msha": [
+    {
+      "mine_id": "4104159",
+      "name": "Black Spur Quarry",
+      "operator": "Martin Marietta Materials Southwest LLC",
+      "status": "Active",
+      "status_since": "2000-04-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

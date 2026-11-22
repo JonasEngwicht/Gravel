@@ -1,0 +1,37 @@
+{
+  "id": "ct-greenwich-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1081 King St",
+    "city": "Greenwich",
+    "state": "CT",
+    "zip": "06831"
+  },
+  "location": {
+    "lat": 41.051708,
+    "lng": -73.683617
+  },
+  "contact": {
+    "phone": "(203) 531-7352",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37854f71-f94f-47f5-83a2-af73260dbf8f",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-pasadena-mulch",
+  "slug": "pasadena-mulch",
+  "name": "Pasadena Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "500 Genoa Red Bluff Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77034"
+  },
+  "location": {
+    "lat": 29.626955,
+    "lng": -95.189713
+  },
+  "contact": {
+    "phone": "(281) 487-7625",
+    "website": "http://www.pasadenamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8f99477a-cd14-42bf-baef-059aa6603dfa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

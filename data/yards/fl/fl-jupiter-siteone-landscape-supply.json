@@ -1,0 +1,37 @@
+{
+  "id": "fl-jupiter-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1425 Commerce Ln",
+    "city": "Jupiter",
+    "state": "FL",
+    "zip": "33458"
+  },
+  "location": {
+    "lat": 26.930494,
+    "lng": -80.121056
+  },
+  "contact": {
+    "phone": "(561) 745-0500",
+    "website": "https://www.siteone.com/store/494"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d0f4ff9-b872-4024-896f-795afe4efa5b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

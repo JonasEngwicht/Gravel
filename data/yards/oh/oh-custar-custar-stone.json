@@ -1,0 +1,41 @@
+{
+  "id": "oh-custar-custar-stone",
+  "slug": "custar-stone",
+  "name": "Custar Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Custar",
+    "state": "OH",
+    "zip": "43534"
+  },
+  "location": {
+    "lat": 41.328333,
+    "lng": -83.878333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300143"
+  },
+  "msha": [
+    {
+      "mine_id": "3300143",
+      "name": "Custar Stone Company",
+      "operator": "Custar Stone Company",
+      "status": "Active",
+      "status_since": "2023-11-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

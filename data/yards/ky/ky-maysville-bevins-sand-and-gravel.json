@@ -1,0 +1,41 @@
+{
+  "id": "ky-maysville-bevins-sand-and-gravel",
+  "slug": "bevins-sand-and-gravel",
+  "name": "Bevins Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Maysville",
+    "state": "KY",
+    "zip": "41034"
+  },
+  "location": {
+    "lat": 38.668333,
+    "lng": -83.813889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1518171"
+  },
+  "msha": [
+    {
+      "mine_id": "1518171",
+      "name": "Bevins Sand & Gravel",
+      "operator": "Bevins Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2018-05-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

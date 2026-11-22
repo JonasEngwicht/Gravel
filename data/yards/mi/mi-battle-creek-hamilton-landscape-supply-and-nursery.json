@@ -1,0 +1,36 @@
+{
+  "id": "mi-battle-creek-hamilton-landscape-supply-and-nursery",
+  "slug": "hamilton-landscape-supply-and-nursery",
+  "name": "Hamilton Landscape Supply & Nursery",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "20612 Capital Ave NE",
+    "city": "Battle Creek",
+    "state": "MI",
+    "zip": "49017"
+  },
+  "location": {
+    "lat": 42.371674,
+    "lng": -85.144279
+  },
+  "contact": {
+    "phone": "(269) 207-8969",
+    "website": "http://hamiltonlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa74de9a-deae-4204-8b52-83a5c29570cb",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

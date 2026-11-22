@@ -1,0 +1,41 @@
+{
+  "id": "mn-savage-carmeuse-lime-savage-plant",
+  "slug": "carmeuse-lime-savage-plant",
+  "name": "Carmeuse Lime – Savage Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Savage",
+    "state": "MN",
+    "zip": "55378"
+  },
+  "location": {
+    "lat": 44.7825,
+    "lng": -93.352778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103097"
+  },
+  "msha": [
+    {
+      "mine_id": "2103097",
+      "name": "Savage Plant",
+      "operator": "Carmeuse Lime, Inc.",
+      "status": "Active",
+      "status_since": "1995-05-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-queensbury-ron-jameson-contractor-ron-jameson-processing",
+  "slug": "ron-jameson-contractor-ron-jameson-processing",
+  "name": "Ron Jameson Contractor – Ron Jameson Processing",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Queensbury",
+    "state": "NY",
+    "zip": "12839"
+  },
+  "location": {
+    "lat": 43.385833,
+    "lng": -73.6175
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003908"
+  },
+  "msha": [
+    {
+      "mine_id": "3003908",
+      "name": "Ron Jameson Processing",
+      "operator": "Ron Jameson Contractor Llc",
+      "status": "Intermittent",
+      "status_since": "2023-07-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

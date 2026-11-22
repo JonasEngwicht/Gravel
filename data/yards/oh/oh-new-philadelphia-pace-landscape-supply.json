@@ -1,0 +1,36 @@
+{
+  "id": "oh-new-philadelphia-pace-landscape-supply",
+  "slug": "pace-landscape-supply",
+  "name": "Pace Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "428 Carrie Ave NW",
+    "city": "New Philadelphia",
+    "state": "OH",
+    "zip": "44663"
+  },
+  "location": {
+    "lat": 40.506645,
+    "lng": -81.452438
+  },
+  "contact": {
+    "phone": "(330) 364-8660",
+    "website": "http://pacelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "725d6517-6063-41f1-85cc-96064fd0071f",
+    "confidence": 0.982,
+    "merged_records": 1
+  }
+}

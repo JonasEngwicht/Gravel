@@ -1,0 +1,36 @@
+{
+  "id": "nm-albuquerque-barela-landscaping-materials",
+  "slug": "barela-landscaping-materials",
+  "name": "Barela Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7713 Bates Rd SE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87105"
+  },
+  "location": {
+    "lat": 34.976444,
+    "lng": -106.667137
+  },
+  "contact": {
+    "phone": "(505) 877-8522",
+    "website": "http://www.barelalandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "18552ca0-6f27-4995-9570-66b3aa32ff7b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

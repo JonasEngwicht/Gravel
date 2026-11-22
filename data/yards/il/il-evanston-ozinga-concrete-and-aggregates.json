@@ -1,0 +1,36 @@
+{
+  "id": "il-evanston-ozinga-concrete-and-aggregates",
+  "slug": "ozinga-concrete-and-aggregates",
+  "name": "Ozinga | Concrete & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2525 Oakton St",
+    "city": "Evanston",
+    "state": "IL",
+    "zip": "60202"
+  },
+  "location": {
+    "lat": 42.028469,
+    "lng": -87.708336
+  },
+  "contact": {
+    "phone": "(312) 432-5700",
+    "website": "https://ozinga.com/?utm_source=bing&utm_medium=chicago-evanston-yd145&utm_campaign=website"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d072af70-f776-4653-8c6b-5559dc703bd8",
+    "confidence": 0.932,
+    "merged_records": 1
+  }
+}

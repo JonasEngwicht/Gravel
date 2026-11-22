@@ -1,0 +1,41 @@
+{
+  "id": "ca-corning-thomes-creek-rock-company",
+  "slug": "thomes-creek-rock-company",
+  "name": "Thomes Creek Rock Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Corning",
+    "state": "CA",
+    "zip": "95315"
+  },
+  "location": {
+    "lat": 37.443889,
+    "lng": -120.79
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401977"
+  },
+  "msha": [
+    {
+      "mine_id": "0401977",
+      "name": "Thomes Creek Rock Co Inc",
+      "operator": "Thomes Creek Rock Company Inc",
+      "status": "Active",
+      "status_since": "2024-03-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

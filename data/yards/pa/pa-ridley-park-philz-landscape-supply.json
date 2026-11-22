@@ -1,0 +1,36 @@
+{
+  "id": "pa-ridley-park-philz-landscape-supply",
+  "slug": "philz-landscape-supply",
+  "name": "Philz Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "440 W Chester Pike",
+    "city": "Ridley Park",
+    "state": "PA",
+    "zip": "19078"
+  },
+  "location": {
+    "lat": 39.870399,
+    "lng": -75.33297
+  },
+  "contact": {
+    "phone": "(610) 521-9473",
+    "website": "https://www.tiktok.com/@philzlandscapesupply?_r=1&_t=ZP-95tMnlq6efX"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81a26ee5-fdcb-4a6a-b15e-cefb05200096",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

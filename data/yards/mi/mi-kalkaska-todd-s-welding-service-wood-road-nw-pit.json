@@ -1,0 +1,41 @@
+{
+  "id": "mi-kalkaska-todd-s-welding-service-wood-road-nw-pit",
+  "slug": "todd-s-welding-service-wood-road-nw-pit",
+  "name": "Todd's Welding Service – Wood Road NW Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Kalkaska",
+    "state": "MI",
+    "zip": "49612"
+  },
+  "location": {
+    "lat": 44.793133,
+    "lng": -85.192167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003506"
+  },
+  "msha": [
+    {
+      "mine_id": "2003506",
+      "name": "Wood Road NW Pit",
+      "operator": "Todd's Welding Service",
+      "status": "Intermittent",
+      "status_since": "2015-04-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

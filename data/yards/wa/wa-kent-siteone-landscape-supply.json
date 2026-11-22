@@ -1,0 +1,37 @@
+{
+  "id": "wa-kent-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "633 Central Ave S",
+    "city": "Kent",
+    "state": "WA",
+    "zip": "98032"
+  },
+  "location": {
+    "lat": 47.375355,
+    "lng": -122.23082
+  },
+  "contact": {
+    "phone": "(253) 656-4726",
+    "website": "https://www.siteone.com/store/277"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b0b481d-c69f-4592-9714-8008943df44f",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

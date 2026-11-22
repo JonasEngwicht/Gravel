@@ -1,0 +1,58 @@
+{
+  "id": "ca-pleasanton-cemex-pleasanton-eliot-aggregates-plant",
+  "slug": "cemex-pleasanton-eliot-aggregates-plant",
+  "name": "Cemex - Pleasanton Eliot Aggregates Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1645 Stanley Blvd",
+    "city": "Pleasanton",
+    "state": "CA",
+    "zip": "94566"
+  },
+  "location": {
+    "lat": 37.676769,
+    "lng": -121.832466
+  },
+  "contact": {
+    "phone": "(916) 941-2872",
+    "website": "https://www.cemexusa.com/-/pleasanton-ready-mix-concrete-plant"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f322fa28-8fc8-4d77-96ba-69ca78031c5f",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0401891",
+      "name": "Eliot Plant",
+      "operator": "CEMEX Construction Materials Pacific, LLC",
+      "status": "Active",
+      "status_since": "1973-06-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 16
+    },
+    {
+      "mine_id": "0401924",
+      "name": "Pleasanton Plant",
+      "operator": "CalMat Co",
+      "status": "Active",
+      "status_since": "1972-09-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 52
+    }
+  ]
+}

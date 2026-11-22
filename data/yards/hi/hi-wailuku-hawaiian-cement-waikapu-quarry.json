@@ -1,0 +1,41 @@
+{
+  "id": "hi-wailuku-hawaiian-cement-waikapu-quarry",
+  "slug": "hawaiian-cement-waikapu-quarry",
+  "name": "Hawaiian Cement – Waikapu Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wailuku",
+    "state": "HI",
+    "zip": "96793"
+  },
+  "location": {
+    "lat": 20.880833,
+    "lng": -156.504722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5100171"
+  },
+  "msha": [
+    {
+      "mine_id": "5100171",
+      "name": "Waikapu Quarry",
+      "operator": "Hawaiian Cement",
+      "status": "Active",
+      "status_since": "2004-10-15",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "oh-northfield-landscape-supply-company",
+  "slug": "landscape-supply-company",
+  "name": "Landscape Supply Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10634 Northfield Rd",
+    "city": "Northfield",
+    "state": "OH",
+    "zip": "44067"
+  },
+  "location": {
+    "lat": 41.347809,
+    "lng": -81.527763
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b7412ad7-51f4-47f4-aa3e-7ff6f1bb61ad",
+    "confidence": 0.5,
+    "merged_records": 1
+  }
+}

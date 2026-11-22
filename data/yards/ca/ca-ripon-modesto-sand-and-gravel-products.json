@@ -1,0 +1,36 @@
+{
+  "id": "ca-ripon-modesto-sand-and-gravel-products",
+  "slug": "modesto-sand-and-gravel-products",
+  "name": "Modesto Sand & Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6139 Hammett Ct",
+    "city": "Ripon",
+    "state": "CA",
+    "zip": "95358"
+  },
+  "location": {
+    "lat": 37.728992,
+    "lng": -121.109825
+  },
+  "contact": {
+    "phone": "(209) 545-1325",
+    "website": "http://www.modestosandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55998835-dcba-4b21-aa6a-a0c96641c73d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ny-millbrook-route-82-sand-and-gravel",
+  "slug": "route-82-sand-and-gravel",
+  "name": "Route 82 Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "17 Canoe Hill Rd",
+    "city": "Millbrook",
+    "state": "NY",
+    "zip": "12545"
+  },
+  "location": {
+    "lat": 41.808693,
+    "lng": -73.748337
+  },
+  "contact": {
+    "phone": "(845) 266-3433",
+    "website": "http://blacktopmaintenance.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4fede5e3-f772-4991-b629-e58fa0603c38",
+    "confidence": 0.826,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3001068",
+      "name": "Route 82 Sand & Gravel, Inc.",
+      "operator": "Route 82 Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2024-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

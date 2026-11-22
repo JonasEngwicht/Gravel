@@ -1,0 +1,36 @@
+{
+  "id": "oh-strongsville-kurtz-bros-landscape-supply-center",
+  "slug": "kurtz-bros-landscape-supply-center",
+  "name": "Kurtz Bros. - Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12701 Prospect Rd",
+    "city": "Strongsville",
+    "state": "OH",
+    "zip": "44149"
+  },
+  "location": {
+    "lat": 41.32048,
+    "lng": -81.857544
+  },
+  "contact": {
+    "phone": "(216) 986-7050",
+    "website": "https://www.kurtzbrosstrongsville.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da13fb6b-3af9-4880-9e57-5942d03488e8",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

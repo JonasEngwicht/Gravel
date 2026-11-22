@@ -1,0 +1,41 @@
+{
+  "id": "fl-grandin-florida-rock-industries-grandin-sand-plant",
+  "slug": "florida-rock-industries-grandin-sand-plant",
+  "name": "Florida Rock Industries – Grandin Sand Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Grandin",
+    "state": "FL",
+    "zip": "32140"
+  },
+  "location": {
+    "lat": 29.727222,
+    "lng": -81.921111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801082"
+  },
+  "msha": [
+    {
+      "mine_id": "0801082",
+      "name": "Grandin Sand Plant",
+      "operator": "Florida Rock Industries Inc",
+      "status": "Active",
+      "status_since": "1987-09-17",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

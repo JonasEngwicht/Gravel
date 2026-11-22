@@ -1,0 +1,36 @@
+{
+  "id": "nc-swannanoa-asheville-mulch-yard-east",
+  "slug": "asheville-mulch-yard-east",
+  "name": "Asheville Mulch Yard (East)",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2425 U S 70",
+    "city": "Swannanoa",
+    "state": "NC",
+    "zip": "28778"
+  },
+  "location": {
+    "lat": 35.602058,
+    "lng": -82.396652
+  },
+  "contact": {
+    "phone": "(828) 707-1615",
+    "website": "http://www.ashevillemulchyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14ce9c73-e0c7-4368-8e8a-9208a4b7384c",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

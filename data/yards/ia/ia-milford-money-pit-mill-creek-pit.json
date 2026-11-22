@@ -1,0 +1,41 @@
+{
+  "id": "ia-milford-money-pit-mill-creek-pit",
+  "slug": "money-pit-mill-creek-pit",
+  "name": "Money Pit – Mill Creek Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Milford",
+    "state": "IA",
+    "zip": "51354"
+  },
+  "location": {
+    "lat": 43.415833,
+    "lng": -95.534722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302441"
+  },
+  "msha": [
+    {
+      "mine_id": "1302441",
+      "name": "Mill Creek Pit",
+      "operator": "Money Pit LLC",
+      "status": "Intermittent",
+      "status_since": "2013-08-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

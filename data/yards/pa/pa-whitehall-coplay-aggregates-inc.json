@@ -1,0 +1,32 @@
+{
+  "id": "pa-whitehall-coplay-aggregates-inc",
+  "slug": "coplay-aggregates-inc",
+  "name": "Coplay Aggregates, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5101 Beekmantown Rd",
+    "city": "Whitehall",
+    "state": "PA",
+    "zip": "18052"
+  },
+  "location": {
+    "lat": 40.676868,
+    "lng": -75.510437
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c68af58-bb4e-454d-97c8-1c4f2bd6930e",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

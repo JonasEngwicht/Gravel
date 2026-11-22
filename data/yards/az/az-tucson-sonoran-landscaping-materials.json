@@ -1,0 +1,36 @@
+{
+  "id": "az-tucson-sonoran-landscaping-materials",
+  "slug": "sonoran-landscaping-materials",
+  "name": "Sonoran Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2730 N Silverbell Rd",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85745"
+  },
+  "location": {
+    "lat": 32.258415,
+    "lng": -111.017784
+  },
+  "contact": {
+    "phone": "(520) 664-8078",
+    "website": "http://sonoranmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c79f9c2f-b56b-4fb7-b021-46f80f64b9da",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

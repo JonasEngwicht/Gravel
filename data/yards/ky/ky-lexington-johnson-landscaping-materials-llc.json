@@ -1,0 +1,36 @@
+{
+  "id": "ky-lexington-johnson-landscaping-materials-llc",
+  "slug": "johnson-landscaping-materials-llc",
+  "name": "Johnson Landscaping Materials LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "167 S Forbes Rd",
+    "city": "Lexington",
+    "state": "KY",
+    "zip": "40511"
+  },
+  "location": {
+    "lat": 38.060474,
+    "lng": -84.52317
+  },
+  "contact": {
+    "phone": "(859) 254-9392",
+    "website": "http://www.johnsonlandscapingmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "48e74ec7-20b0-4f5a-af19-07b795196087",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-port-orchard-morrison-gravel",
+  "slug": "morrison-gravel",
+  "name": "Morrison Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1004 SE Spencer Ave",
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98367"
+  },
+  "location": {
+    "lat": 47.466122,
+    "lng": -122.636681
+  },
+  "contact": {
+    "phone": "(360) 876-4701",
+    "website": "http://www.morrisongravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d266336b-44c0-4188-a948-c31263ae6174",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

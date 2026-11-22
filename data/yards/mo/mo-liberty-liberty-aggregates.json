@@ -1,0 +1,47 @@
+{
+  "id": "mo-liberty-liberty-aggregates",
+  "slug": "liberty-aggregates",
+  "name": "Liberty Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5922 Southview Dr",
+    "city": "Liberty",
+    "state": "MO",
+    "zip": "64068"
+  },
+  "location": {
+    "lat": 39.200214,
+    "lng": -94.403572
+  },
+  "contact": {
+    "phone": "(816) 415-3660"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "382bac45-1704-4f8a-98c6-08201c8350b9",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2302513",
+      "name": "Liberty Aggregates LLC",
+      "operator": "Liberty Aggregates LLC",
+      "status": "Active",
+      "status_since": "2017-02-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 16
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-holladay-vulcan-construction-materials-benton-county-quarry",
+  "slug": "vulcan-construction-materials-benton-county-quarry",
+  "name": "Vulcan Construction Materials – Benton County Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Holladay",
+    "state": "TN",
+    "zip": "38341"
+  },
+  "location": {
+    "lat": 35.878889,
+    "lng": -88.118889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4000098"
+  },
+  "msha": [
+    {
+      "mine_id": "4000098",
+      "name": "Benton County Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

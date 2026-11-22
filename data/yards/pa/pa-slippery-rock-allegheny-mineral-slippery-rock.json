@@ -1,0 +1,41 @@
+{
+  "id": "pa-slippery-rock-allegheny-mineral-slippery-rock",
+  "slug": "allegheny-mineral-slippery-rock",
+  "name": "Allegheny Mineral – Slippery Rock",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Slippery Rock",
+    "state": "PA",
+    "zip": "16057"
+  },
+  "location": {
+    "lat": 41.038333,
+    "lng": -80.059167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3606146"
+  },
+  "msha": [
+    {
+      "mine_id": "3606146",
+      "name": "Slippery Rock",
+      "operator": "Allegheny Mineral Corp",
+      "status": "Active",
+      "status_since": "1986-08-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 22
+    }
+  ]
+}

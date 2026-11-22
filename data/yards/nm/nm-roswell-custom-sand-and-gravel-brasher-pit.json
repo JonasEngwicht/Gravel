@@ -1,0 +1,41 @@
+{
+  "id": "nm-roswell-custom-sand-and-gravel-brasher-pit",
+  "slug": "custom-sand-and-gravel-brasher-pit",
+  "name": "Custom Sand & Gravel – Brasher Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Roswell",
+    "state": "NM",
+    "zip": "88230"
+  },
+  "location": {
+    "lat": 33.348611,
+    "lng": -104.573056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902424"
+  },
+  "msha": [
+    {
+      "mine_id": "2902424",
+      "name": "Brasher Pit",
+      "operator": "Custom Sand & Gravel, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-07-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

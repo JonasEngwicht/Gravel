@@ -1,0 +1,36 @@
+{
+  "id": "wa-everson-aggregates-west",
+  "slug": "aggregates-west",
+  "name": "Aggregates West",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9151 Van Buren Rd",
+    "city": "Everson",
+    "state": "WA",
+    "zip": "98247"
+  },
+  "location": {
+    "lat": 48.973763,
+    "lng": -122.332848
+  },
+  "contact": {
+    "phone": "(360) 733-0300",
+    "website": "https://www.aggwest.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "520aaf18-5a6d-40f2-bd2b-aac791083224",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

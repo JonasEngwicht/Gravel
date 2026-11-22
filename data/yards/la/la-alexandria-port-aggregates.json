@@ -1,0 +1,35 @@
+{
+  "id": "la-alexandria-port-aggregates",
+  "slug": "port-aggregates",
+  "name": "Port Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3329 N Bolton Ave",
+    "city": "Alexandria",
+    "state": "LA",
+    "zip": "71303"
+  },
+  "location": {
+    "lat": 31.327051,
+    "lng": -92.487167
+  },
+  "contact": {
+    "phone": "(318) 448-7273"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d445f29b-64fb-46e6-aeef-9c43011980d5",
+    "confidence": 0.504,
+    "merged_records": 1
+  }
+}

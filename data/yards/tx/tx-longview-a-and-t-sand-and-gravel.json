@@ -1,0 +1,47 @@
+{
+  "id": "tx-longview-a-and-t-sand-and-gravel",
+  "slug": "a-and-t-sand-and-gravel",
+  "name": "A and T Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4147 Fm 2087 N",
+    "city": "Longview",
+    "state": "TX",
+    "zip": "75603"
+  },
+  "location": {
+    "lat": 32.442066,
+    "lng": -94.777969
+  },
+  "contact": {
+    "phone": "(903) 758-8939"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8f48ad8-c6ac-493a-b807-6d8c51d779f7",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4102205",
+      "name": "A & T Sand and Gravel",
+      "operator": "A & T Sand and Gravel",
+      "status": "Active",
+      "status_since": "2026-02-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

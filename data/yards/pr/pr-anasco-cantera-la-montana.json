@@ -1,0 +1,41 @@
+{
+  "id": "pr-anasco-cantera-la-montana",
+  "slug": "cantera-la-montana",
+  "name": "Cantera La Montaña",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Anasco",
+    "state": "PR",
+    "zip": "00610"
+  },
+  "location": {
+    "lat": 18.28,
+    "lng": -67.13
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400300"
+  },
+  "msha": [
+    {
+      "mine_id": "5400300",
+      "name": "Cantera La Montaña",
+      "operator": "Cantera La Montaña",
+      "status": "Active",
+      "status_since": "1987-12-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "in-michigan-city-shoreline-aggregate-solutions",
+  "slug": "shoreline-aggregate-solutions",
+  "name": "Shoreline Aggregate Solutions",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "301 West US-20",
+    "city": "Michigan City",
+    "state": "IN",
+    "zip": "46360"
+  },
+  "location": {
+    "lat": 41.680786,
+    "lng": -86.900429
+  },
+  "contact": {
+    "phone": "(219) 878-9991",
+    "website": "http://www.shorelineaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85212dd7-008a-4b35-b0b6-014ae6eb82e0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

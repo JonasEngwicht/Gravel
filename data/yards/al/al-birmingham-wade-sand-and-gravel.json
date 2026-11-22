@@ -1,0 +1,48 @@
+{
+  "id": "al-birmingham-wade-sand-and-gravel",
+  "slug": "wade-sand-and-gravel",
+  "name": "Wade Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1200 10th St W",
+    "city": "Birmingham",
+    "state": "AL",
+    "zip": "35204"
+  },
+  "location": {
+    "lat": 33.52351,
+    "lng": -86.853508
+  },
+  "contact": {
+    "phone": "(205) 324-6691",
+    "website": "http://www.redbluffsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c3869701-1189-42e4-8207-2b4a82f1de68",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0100052",
+      "name": "Wade Sand & Gravel Co., Inc.",
+      "operator": "Wade Sand & Gravel Co., Inc",
+      "status": "Active",
+      "status_since": "1975-12-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 48
+    }
+  ]
+}

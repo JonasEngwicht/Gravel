@@ -1,0 +1,41 @@
+{
+  "id": "la-winnfield-winn-rock",
+  "slug": "winn-rock",
+  "name": "Winn Rock",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Winnfield",
+    "state": "LA",
+    "zip": "71483"
+  },
+  "location": {
+    "lat": 31.919444,
+    "lng": -92.680556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1600021"
+  },
+  "msha": [
+    {
+      "mine_id": "1600021",
+      "name": "Winn Rock, LLC",
+      "operator": "Winn Rock LLC",
+      "status": "Intermittent",
+      "status_since": "2026-02-11",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

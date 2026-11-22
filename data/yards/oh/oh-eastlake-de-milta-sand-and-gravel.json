@@ -1,0 +1,36 @@
+{
+  "id": "oh-eastlake-de-milta-sand-and-gravel",
+  "slug": "de-milta-sand-and-gravel",
+  "name": "De Milta Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "921 Erie Rd",
+    "city": "Eastlake",
+    "state": "OH",
+    "zip": "44095"
+  },
+  "location": {
+    "lat": 41.653873,
+    "lng": -81.42041
+  },
+  "contact": {
+    "phone": "(440) 942-2015",
+    "website": "http://www.demiltasand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce16852d-11da-4882-9c21-5e5d71115764",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "ky-russellville-hanson-aggregates-midwest",
+  "slug": "hanson-aggregates-midwest",
+  "name": "Hanson Aggregates Midwest",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "1136 Morgantown Rd",
+    "city": "Russellville",
+    "state": "KY",
+    "zip": "42276"
+  },
+  "location": {
+    "lat": 36.861755,
+    "lng": -86.867188
+  },
+  "contact": {
+    "phone": "(270) 726-6231",
+    "website": "http://www.hanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "423b8bad-87e7-452e-b312-46f6d3a4bbe1",
+    "confidence": 0.843,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1500049",
+      "name": "Russellville Quarry & Mill",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2026-06-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

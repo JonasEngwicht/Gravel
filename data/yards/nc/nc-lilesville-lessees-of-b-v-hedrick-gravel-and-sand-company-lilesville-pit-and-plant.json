@@ -1,0 +1,41 @@
+{
+  "id": "nc-lilesville-lessees-of-b-v-hedrick-gravel-and-sand-company-lilesville-pit-and-plant",
+  "slug": "lessees-of-b-v-hedrick-gravel-and-sand-company-lilesville-pit-and-plant",
+  "name": "Lessees of B.V. Hedrick Gravel & Sand Company – Lilesville Pit and Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lilesville",
+    "state": "NC",
+    "zip": "28091"
+  },
+  "location": {
+    "lat": 34.961667,
+    "lng": -79.966667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101125"
+  },
+  "msha": [
+    {
+      "mine_id": "3101125",
+      "name": "Lilesville Pit and Plant",
+      "operator": "Lessees of B.V. Hedrick Gravel & Sand Company LLC",
+      "status": "Active",
+      "status_since": "2020-01-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

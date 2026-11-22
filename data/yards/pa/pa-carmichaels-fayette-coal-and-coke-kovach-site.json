@@ -1,0 +1,41 @@
+{
+  "id": "pa-carmichaels-fayette-coal-and-coke-kovach-site",
+  "slug": "fayette-coal-and-coke-kovach-site",
+  "name": "Fayette Coal & Coke – Kovach Site",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Carmichaels",
+    "state": "PA",
+    "zip": "15320"
+  },
+  "location": {
+    "lat": 39.860556,
+    "lng": -79.971667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609952"
+  },
+  "msha": [
+    {
+      "mine_id": "3609952",
+      "name": "Kovach Site",
+      "operator": "Fayette Coal & Coke Inc",
+      "status": "Intermittent",
+      "status_since": "2017-03-23",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

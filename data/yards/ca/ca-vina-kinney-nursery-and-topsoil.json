@@ -1,0 +1,36 @@
+{
+  "id": "ca-vina-kinney-nursery-and-topsoil",
+  "slug": "kinney-nursery-and-topsoil",
+  "name": "Kinney Nursery & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4115 Rowles Rd",
+    "city": "Vina",
+    "state": "CA",
+    "zip": "96092"
+  },
+  "location": {
+    "lat": 39.912243,
+    "lng": -122.033859
+  },
+  "contact": {
+    "phone": "(530) 839-2196",
+    "website": "https://kinneynursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9106599-aafe-40d2-ad5b-8df0b9c36e2d",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nc-staley-southern-aggregates-2",
+  "slug": "southern-aggregates-2",
+  "name": "Southern Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Staley",
+    "state": "NC",
+    "zip": "27355"
+  },
+  "location": {
+    "lat": 35.770277,
+    "lng": -79.514722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101093"
+  },
+  "msha": [
+    {
+      "mine_id": "3101093",
+      "name": "Southern Aggregates",
+      "operator": "Southern Aggregates",
+      "status": "Active",
+      "status_since": "1979-06-15",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

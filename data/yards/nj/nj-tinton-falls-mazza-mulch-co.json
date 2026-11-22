@@ -1,0 +1,36 @@
+{
+  "id": "nj-tinton-falls-mazza-mulch-co",
+  "slug": "mazza-mulch-co",
+  "name": "Mazza Mulch Co",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3230A Shafto Rd",
+    "city": "Tinton Falls",
+    "state": "NJ",
+    "zip": "07753"
+  },
+  "location": {
+    "lat": 40.229118,
+    "lng": -74.107468
+  },
+  "contact": {
+    "phone": "(732) 922-9073",
+    "website": "http://www.mazzamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83ab74d8-0d3b-4a51-9e9c-e3020f1ab74b",
+    "confidence": 0.988,
+    "merged_records": 1
+  }
+}

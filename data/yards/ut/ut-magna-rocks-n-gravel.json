@@ -1,0 +1,36 @@
+{
+  "id": "ut-magna-rocks-n-gravel",
+  "slug": "rocks-n-gravel",
+  "name": "Rocks N Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3531 S Moon Beam Bay",
+    "city": "Magna",
+    "state": "UT",
+    "zip": "84044"
+  },
+  "location": {
+    "lat": 40.695728,
+    "lng": -112.094887
+  },
+  "contact": {
+    "phone": "(801) 289-6008",
+    "website": "https://rocksngravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa36b067-89f4-4231-9687-916cb223982e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

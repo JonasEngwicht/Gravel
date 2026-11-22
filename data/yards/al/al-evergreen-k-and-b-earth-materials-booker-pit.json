@@ -1,0 +1,41 @@
+{
+  "id": "al-evergreen-k-and-b-earth-materials-booker-pit",
+  "slug": "k-and-b-earth-materials-booker-pit",
+  "name": "K & B Earth Materials – Booker Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Evergreen",
+    "state": "AL",
+    "zip": "36432"
+  },
+  "location": {
+    "lat": 31.380556,
+    "lng": -87.083889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103634"
+  },
+  "msha": [
+    {
+      "mine_id": "0103634",
+      "name": "Booker Pit",
+      "operator": "K & B Earth Materials",
+      "status": "Active",
+      "status_since": "2025-11-13",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

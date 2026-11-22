@@ -1,0 +1,41 @@
+{
+  "id": "il-lincoln-carri-scharf-materials-lincoln-plant",
+  "slug": "carri-scharf-materials-lincoln-plant",
+  "name": "Carri Scharf Materials - Lincoln Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lincoln",
+    "state": "IL",
+    "zip": "62656"
+  },
+  "location": {
+    "lat": 40.132222,
+    "lng": -89.464444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103315"
+  },
+  "msha": [
+    {
+      "mine_id": "1103315",
+      "name": "Carri Scharf Materials - Lincoln Plant",
+      "operator": "Carri Scharf Materials",
+      "status": "Intermittent",
+      "status_since": "2024-08-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

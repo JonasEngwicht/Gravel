@@ -1,0 +1,48 @@
+{
+  "id": "oh-bellefontaine-neer-s-sand-and-gravel",
+  "slug": "neer-s-sand-and-gravel",
+  "name": "Neer's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4859 Township Road 45",
+    "city": "Bellefontaine",
+    "state": "OH",
+    "zip": "43311"
+  },
+  "location": {
+    "lat": 40.30764,
+    "lng": -83.846939
+  },
+  "contact": {
+    "phone": "(937) 585-6733",
+    "website": "https://neerssandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e29072ec-0c39-47e4-981c-2d7c14be2540",
+    "confidence": 1.0,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301579",
+      "name": "Neer's Sand & Gravel LLC",
+      "operator": "Neer's Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2023-11-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

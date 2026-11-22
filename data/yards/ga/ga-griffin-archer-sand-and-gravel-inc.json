@@ -1,0 +1,36 @@
+{
+  "id": "ga-griffin-archer-sand-and-gravel-inc",
+  "slug": "archer-sand-and-gravel-inc",
+  "name": "Archer Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "131 W Ellis Rd",
+    "city": "Griffin",
+    "state": "GA",
+    "zip": "30223"
+  },
+  "location": {
+    "lat": 33.262154,
+    "lng": -84.294281
+  },
+  "contact": {
+    "phone": "(770) 227-8519",
+    "website": "http://www.archersandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "40ab9d6a-ce8a-4ba1-8118-16e31bd18d09",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

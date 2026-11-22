@@ -1,0 +1,41 @@
+{
+  "id": "ct-granby-tilcon-connecticut-granby-notch-pit",
+  "slug": "tilcon-connecticut-granby-notch-pit",
+  "name": "Tilcon Connecticut – Granby Notch Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Granby",
+    "state": "CT",
+    "zip": "06035"
+  },
+  "location": {
+    "lat": 41.986667,
+    "lng": -72.792222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600251"
+  },
+  "msha": [
+    {
+      "mine_id": "0600251",
+      "name": "Granby Notch Pit",
+      "operator": "Tilcon Connecticut Inc",
+      "status": "Intermittent",
+      "status_since": "1997-01-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

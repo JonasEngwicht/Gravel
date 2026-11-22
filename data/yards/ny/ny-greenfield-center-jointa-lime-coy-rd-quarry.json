@@ -1,0 +1,41 @@
+{
+  "id": "ny-greenfield-center-jointa-lime-coy-rd-quarry",
+  "slug": "jointa-lime-coy-rd-quarry",
+  "name": "Jointa Lime – Coy Rd Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Greenfield Center",
+    "state": "NY",
+    "zip": "12859"
+  },
+  "location": {
+    "lat": 43.12,
+    "lng": -73.925556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002647"
+  },
+  "msha": [
+    {
+      "mine_id": "3002647",
+      "name": "Coy Rd Quarry",
+      "operator": "Jointa Lime Company",
+      "status": "Intermittent",
+      "status_since": "2019-06-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

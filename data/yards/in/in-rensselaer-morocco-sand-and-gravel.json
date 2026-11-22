@@ -1,0 +1,47 @@
+{
+  "id": "in-rensselaer-morocco-sand-and-gravel",
+  "slug": "morocco-sand-and-gravel",
+  "name": "Morocco Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5860 W 300 N",
+    "city": "Rensselaer",
+    "state": "IN",
+    "zip": "47978"
+  },
+  "location": {
+    "lat": 41.056454,
+    "lng": -87.161705
+  },
+  "contact": {
+    "phone": "(219) 866-0099"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "36fd25cb-696b-490f-9a97-6fe0517615c1",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200722",
+      "name": "Morocco Sand and Gravel Inc",
+      "operator": "Morocco Sand and Gravel Inc",
+      "status": "Abandoned",
+      "status_since": "2022-10-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

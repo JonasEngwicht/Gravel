@@ -1,0 +1,35 @@
+{
+  "id": "ky-richmond-ballards-mulch-and-more",
+  "slug": "ballards-mulch-and-more",
+  "name": "Ballards mulch and more",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "831 Eastern Byp",
+    "city": "Richmond",
+    "state": "KY",
+    "zip": "40475"
+  },
+  "location": {
+    "lat": 37.733799,
+    "lng": -84.282013
+  },
+  "contact": {
+    "phone": "(859) 200-6628"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30629cc7-0145-49f0-8c2e-b9183bba9363",
+    "confidence": 0.71,
+    "merged_records": 2
+  }
+}

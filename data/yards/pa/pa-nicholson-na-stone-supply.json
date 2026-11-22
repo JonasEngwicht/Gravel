@@ -1,0 +1,36 @@
+{
+  "id": "pa-nicholson-na-stone-supply",
+  "slug": "na-stone-supply",
+  "name": "NA Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "886 State Route 2009",
+    "city": "Nicholson",
+    "state": "PA",
+    "zip": "18446"
+  },
+  "location": {
+    "lat": 41.666725,
+    "lng": -75.792267
+  },
+  "contact": {
+    "phone": "(570) 815-5380",
+    "website": "https://nastonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0b967e95-443d-4657-aeff-77d3278871c7",
+    "confidence": 0.611,
+    "merged_records": 1
+  }
+}

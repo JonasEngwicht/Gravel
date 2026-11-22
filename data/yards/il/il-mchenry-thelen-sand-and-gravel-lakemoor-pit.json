@@ -1,0 +1,41 @@
+{
+  "id": "il-mchenry-thelen-sand-and-gravel-lakemoor-pit",
+  "slug": "thelen-sand-and-gravel-lakemoor-pit",
+  "name": "Thelen Sand & Gravel – Lakemoor Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "McHenry",
+    "state": "IL",
+    "zip": "60050"
+  },
+  "location": {
+    "lat": 42.346944,
+    "lng": -88.285833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103221"
+  },
+  "msha": [
+    {
+      "mine_id": "1103221",
+      "name": "Lakemoor Pit",
+      "operator": "Thelen Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2015-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

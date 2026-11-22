@@ -1,0 +1,41 @@
+{
+  "id": "nh-newport-pike-industries-newport-sand-and-gravel-co-inc",
+  "slug": "pike-industries-newport-sand-and-gravel-co-inc",
+  "name": "Pike Industries – Newport Sand & Gravel Co Inc",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Newport",
+    "state": "NH",
+    "zip": "03773"
+  },
+  "location": {
+    "lat": 43.380556,
+    "lng": -72.152778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700055"
+  },
+  "msha": [
+    {
+      "mine_id": "2700055",
+      "name": "Newport Sand & Gravel Co Inc",
+      "operator": "Pike Industries",
+      "status": "Active",
+      "status_since": "2020-06-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

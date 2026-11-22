@@ -1,0 +1,35 @@
+{
+  "id": "nm-vado-jmc-sand-and-gravel-inc",
+  "slug": "jmc-sand-and-gravel-inc",
+  "name": "Jmc Sand & Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "25 High Valley Rd  # B",
+    "city": "Vado",
+    "state": "NM",
+    "zip": "88072"
+  },
+  "location": {
+    "lat": 32.127815,
+    "lng": -106.630486
+  },
+  "contact": {
+    "phone": "(575) 571-7854"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d6f68ee-8768-4225-a312-ce3b022ef1bb",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

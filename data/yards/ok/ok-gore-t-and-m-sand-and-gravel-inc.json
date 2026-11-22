@@ -1,0 +1,35 @@
+{
+  "id": "ok-gore-t-and-m-sand-and-gravel-inc",
+  "slug": "t-and-m-sand-and-gravel-inc",
+  "name": "T & M Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "445589 E 1000 Rd",
+    "city": "Gore",
+    "state": "OK",
+    "zip": "74435"
+  },
+  "location": {
+    "lat": 35.566326,
+    "lng": -95.08091
+  },
+  "contact": {
+    "phone": "(918) 489-2586"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3f2108f-217c-439a-8c85-f6fc56ee1083",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

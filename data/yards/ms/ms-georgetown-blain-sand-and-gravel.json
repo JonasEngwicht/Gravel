@@ -1,0 +1,35 @@
+{
+  "id": "ms-georgetown-blain-sand-and-gravel",
+  "slug": "blain-sand-and-gravel",
+  "name": "Blain Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2050 Bailey Rd",
+    "city": "Georgetown",
+    "state": "MS",
+    "zip": "39078"
+  },
+  "location": {
+    "lat": 31.896311,
+    "lng": -90.26474
+  },
+  "contact": {
+    "phone": "(601) 892-1741"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "561d9f36-8f95-4a8d-8b6f-e5941f06e54d",
+    "confidence": 0.854,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ok-sand-springs-sand-springs-sand-and-gravel-company",
+  "slug": "sand-springs-sand-and-gravel-company",
+  "name": "Sand Springs Sand & Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sand Springs",
+    "state": "OK",
+    "zip": "74063"
+  },
+  "location": {
+    "lat": 36.131389,
+    "lng": -96.282778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400381"
+  },
+  "msha": [
+    {
+      "mine_id": "3400381",
+      "name": "Sand Springs Sand & Gravel Co., Inc",
+      "operator": "Sand Springs Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2025-10-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

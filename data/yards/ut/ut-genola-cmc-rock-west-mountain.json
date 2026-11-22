@@ -1,0 +1,41 @@
+{
+  "id": "ut-genola-cmc-rock-west-mountain",
+  "slug": "cmc-rock-west-mountain",
+  "name": "CMC Rock – West Mountain",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Genola",
+    "state": "UT",
+    "zip": "84655"
+  },
+  "location": {
+    "lat": 40.113056,
+    "lng": -111.851944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202741"
+  },
+  "msha": [
+    {
+      "mine_id": "4202741",
+      "name": "West Mountain",
+      "operator": "CMC Rock, LLC",
+      "status": "Active",
+      "status_since": "2026-08-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

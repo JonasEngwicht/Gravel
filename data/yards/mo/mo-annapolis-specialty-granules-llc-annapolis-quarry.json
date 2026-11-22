@@ -1,0 +1,41 @@
+{
+  "id": "mo-annapolis-specialty-granules-llc-annapolis-quarry",
+  "slug": "specialty-granules-llc-annapolis-quarry",
+  "name": "Specialty Granules Llc-Annapolis Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Annapolis",
+    "state": "MO",
+    "zip": "63675"
+  },
+  "location": {
+    "lat": 37.355,
+    "lng": -90.699167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300288"
+  },
+  "msha": [
+    {
+      "mine_id": "2300288",
+      "name": "Specialty Granules Llc-Annapolis Quarry",
+      "operator": "Specialty Granules LLC",
+      "status": "Active",
+      "status_since": "1974-05-20",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 186
+    }
+  ]
+}

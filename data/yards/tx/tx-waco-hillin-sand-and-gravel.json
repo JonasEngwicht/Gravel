@@ -1,0 +1,35 @@
+{
+  "id": "tx-waco-hillin-sand-and-gravel",
+  "slug": "hillin-sand-and-gravel",
+  "name": "Hillin Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "141 McLaughlin Rd",
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76712"
+  },
+  "location": {
+    "lat": 31.570438,
+    "lng": -97.294083
+  },
+  "contact": {
+    "phone": "(254) 848-5448"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "922847ca-55d7-40fc-bb62-b5f6f44acb4a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

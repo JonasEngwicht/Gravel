@@ -1,0 +1,41 @@
+{
+  "id": "ky-franklin-volunteer-materials-of-kentucky-drakes-creek-stone",
+  "slug": "volunteer-materials-of-kentucky-drakes-creek-stone",
+  "name": "Volunteer Materials of Kentucky – Drakes Creek Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Franklin",
+    "state": "KY",
+    "zip": "42320"
+  },
+  "location": {
+    "lat": 37.3875,
+    "lng": -86.861111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1519714"
+  },
+  "msha": [
+    {
+      "mine_id": "1519714",
+      "name": "Drakes Creek Stone",
+      "operator": "Volunteer Materials of Kentucky",
+      "status": "Active",
+      "status_since": "2015-10-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

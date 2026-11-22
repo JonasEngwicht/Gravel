@@ -1,0 +1,36 @@
+{
+  "id": "wi-menomonee-falls-mark-s-mulch",
+  "slug": "mark-s-mulch",
+  "name": "Mark's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "W140N5859 Lilly Rd",
+    "city": "Menomonee Falls",
+    "state": "WI",
+    "zip": "53051"
+  },
+  "location": {
+    "lat": 43.124199,
+    "lng": -88.086723
+  },
+  "contact": {
+    "phone": "(262) 252-6002",
+    "website": "https://marksmulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cfe8e4eb-2ea0-41c1-857b-f37cf7dba9d9",
+    "confidence": 0.873,
+    "merged_records": 1
+  }
+}

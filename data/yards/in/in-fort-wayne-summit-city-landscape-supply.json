@@ -1,0 +1,36 @@
+{
+  "id": "in-fort-wayne-summit-city-landscape-supply",
+  "slug": "summit-city-landscape-supply",
+  "name": "Summit City Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1314 W Cook Rd",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46825"
+  },
+  "location": {
+    "lat": 41.147003,
+    "lng": -85.160637
+  },
+  "contact": {
+    "phone": "(260) 416-0325",
+    "website": "http://www.summitcitylandscapesupplyinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04036bf8-fd74-47c1-b869-d4965db71fca",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

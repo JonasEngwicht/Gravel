@@ -1,0 +1,36 @@
+{
+  "id": "or-central-point-hilton-landscape-supply",
+  "slug": "hilton-landscape-supply",
+  "name": "Hilton Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8087 Blackwell Rd",
+    "city": "Central Point",
+    "state": "OR",
+    "zip": "97502"
+  },
+  "location": {
+    "lat": 42.418884,
+    "lng": -122.968956
+  },
+  "contact": {
+    "phone": "(541) 664-3374",
+    "website": "https://hiltonlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cdfd8de3-6628-47bd-ad56-8b380b81fcef",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fl-jacksonville-florida-rock-industries-calcium-plant",
+  "slug": "florida-rock-industries-calcium-plant",
+  "name": "Florida Rock Industries – Calcium Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "34601"
+  },
+  "location": {
+    "lat": 28.637222,
+    "lng": -82.426389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801264"
+  },
+  "msha": [
+    {
+      "mine_id": "0801264",
+      "name": "Calcium Plant",
+      "operator": "Florida Rock Industries Inc",
+      "status": "Active",
+      "status_since": "1998-09-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

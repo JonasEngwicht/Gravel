@@ -1,0 +1,48 @@
+{
+  "id": "mt-kalispell-lasalle-sand-and-gravel",
+  "slug": "lasalle-sand-and-gravel",
+  "name": "LaSalle Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "315 Pioneer Rd",
+    "city": "Kalispell",
+    "state": "MT",
+    "zip": "59901"
+  },
+  "location": {
+    "lat": 48.312637,
+    "lng": -114.232407
+  },
+  "contact": {
+    "phone": "(406) 756-9070",
+    "website": "https://www.sandgravelkalispell.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "395d1d8f-fafd-402c-9f0e-69e4c0811948",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2402751",
+      "name": "Sandry Pit",
+      "operator": "Sandry Construction Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-02-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

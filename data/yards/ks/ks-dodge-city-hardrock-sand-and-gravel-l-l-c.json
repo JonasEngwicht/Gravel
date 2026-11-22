@@ -1,0 +1,47 @@
+{
+  "id": "ks-dodge-city-hardrock-sand-and-gravel-l-l-c",
+  "slug": "hardrock-sand-and-gravel-l-l-c",
+  "name": "Hardrock Sand & Gravel, L.L.C.",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "11170 106 Rd",
+    "city": "Dodge City",
+    "state": "KS",
+    "zip": "67801"
+  },
+  "location": {
+    "lat": 37.74078,
+    "lng": -100.105873
+  },
+  "contact": {
+    "phone": "(620) 408-4030"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "80eade5b-5323-489e-9c74-2d8928085edb",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1401670",
+      "name": "Hardrock Sand & Gravel LLC",
+      "operator": "Hardrock Sand & Gravel LLC",
+      "status": "Abandoned",
+      "status_since": "2024-03-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

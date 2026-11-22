@@ -1,0 +1,36 @@
+{
+  "id": "co-florence-florence-sand-and-gravel",
+  "slug": "florence-sand-and-gravel",
+  "name": "Florence Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "480 S Union St",
+    "city": "Florence",
+    "state": "CO",
+    "zip": "81226"
+  },
+  "location": {
+    "lat": 38.385475,
+    "lng": -105.120583
+  },
+  "contact": {
+    "phone": "(719) 784-9255",
+    "website": "http://www.florencesandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd634895-3163-4011-b626-eb750b46582d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

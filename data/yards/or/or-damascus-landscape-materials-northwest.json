@@ -1,0 +1,31 @@
+{
+  "id": "or-damascus-landscape-materials-northwest",
+  "slug": "landscape-materials-northwest",
+  "name": "Landscape Materials Northwest",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "city": "Damascus",
+    "state": "OR",
+    "zip": "97089"
+  },
+  "location": {
+    "lat": 45.417953,
+    "lng": -122.415878
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "294688d9-07a1-4be7-a32c-3500ecb09468",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

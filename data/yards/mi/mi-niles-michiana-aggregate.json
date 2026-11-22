@@ -1,0 +1,35 @@
+{
+  "id": "mi-niles-michiana-aggregate",
+  "slug": "michiana-aggregate",
+  "name": "Michiana Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3265 W US Highway 12",
+    "city": "Niles",
+    "state": "MI",
+    "zip": "49120"
+  },
+  "location": {
+    "lat": 41.805832,
+    "lng": -86.34214
+  },
+  "contact": {
+    "phone": "(269) 695-7669"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d5293c67-59fd-4237-9c19-0a0a7030bf4b",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

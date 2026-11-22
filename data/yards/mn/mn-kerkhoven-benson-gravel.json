@@ -1,0 +1,36 @@
+{
+  "id": "mn-kerkhoven-benson-gravel",
+  "slug": "benson-gravel",
+  "name": "Benson Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "202 N 12th St",
+    "city": "Kerkhoven",
+    "state": "MN",
+    "zip": "56252"
+  },
+  "location": {
+    "lat": 45.19257,
+    "lng": -95.318176
+  },
+  "contact": {
+    "phone": "(320) 264-5326",
+    "website": "http://www.bensongravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5062e80a-a878-4439-a58b-a6bdfd4606b3",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-jerusalem-mattco-materials-jerusalem-quarry",
+  "slug": "mattco-materials-jerusalem-quarry",
+  "name": "MattCo Materials – Jerusalem Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jerusalem",
+    "state": "AR",
+    "zip": "72080"
+  },
+  "location": {
+    "lat": 35.405833,
+    "lng": -92.8475
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0302090"
+  },
+  "msha": [
+    {
+      "mine_id": "0302090",
+      "name": "Jerusalem Quarry",
+      "operator": "MattCo Materials, LLC",
+      "status": "Active",
+      "status_since": "2024-07-11",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

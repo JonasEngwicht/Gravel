@@ -1,0 +1,36 @@
+{
+  "id": "pa-hamburg-keystone-landscape-supply-formerly-a-r-adam-and-son",
+  "slug": "keystone-landscape-supply-formerly-a-r-adam-and-son",
+  "name": "Keystone Landscape Supply (formerly A.R. Adam & Son)",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4 Industrial Dr",
+    "city": "Hamburg",
+    "state": "PA",
+    "zip": "19526"
+  },
+  "location": {
+    "lat": 40.555431,
+    "lng": -75.991501
+  },
+  "contact": {
+    "phone": "(610) 562-8662",
+    "website": "http://keystonelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "efa8eb02-3748-444d-b6e5-c96a7ddf1a01",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ky-hickory-mid-south-construction-company",
+  "slug": "mid-south-construction-company",
+  "name": "Mid-South Construction Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hickory",
+    "state": "KY",
+    "zip": "42051"
+  },
+  "location": {
+    "lat": 36.813889,
+    "lng": -88.658056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1504537"
+  },
+  "msha": [
+    {
+      "mine_id": "1504537",
+      "name": "Mid-South Construction Company Inc",
+      "operator": "Mid-South Construction Company Inc",
+      "status": "Active",
+      "status_since": "1992-07-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-greenwich-polaro-sand-and-gravel-route-74-pit",
+  "slug": "polaro-sand-and-gravel-route-74-pit",
+  "name": "Polaro Sand & Gravel – Route 74 Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Greenwich",
+    "state": "NY",
+    "zip": "12834"
+  },
+  "location": {
+    "lat": 43.036111,
+    "lng": -73.479167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003099"
+  },
+  "msha": [
+    {
+      "mine_id": "3003099",
+      "name": "Route 74 Pit",
+      "operator": "Polaro Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "2026-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

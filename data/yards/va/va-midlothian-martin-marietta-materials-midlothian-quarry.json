@@ -1,0 +1,41 @@
+{
+  "id": "va-midlothian-martin-marietta-materials-midlothian-quarry",
+  "slug": "martin-marietta-materials-midlothian-quarry",
+  "name": "Martin Marietta Materials – Midlothian Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Midlothian",
+    "state": "VA",
+    "zip": "23112"
+  },
+  "location": {
+    "lat": 37.435556,
+    "lng": -77.621667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4403767"
+  },
+  "msha": [
+    {
+      "mine_id": "4403767",
+      "name": "Midlothian Quarry",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Active",
+      "status_since": "1979-06-18",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

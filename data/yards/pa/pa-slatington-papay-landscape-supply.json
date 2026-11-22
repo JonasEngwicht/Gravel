@@ -1,0 +1,36 @@
+{
+  "id": "pa-slatington-papay-landscape-supply",
+  "slug": "papay-landscape-supply",
+  "name": "Papay Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3426 E Grant St",
+    "city": "Slatington",
+    "state": "PA",
+    "zip": "18080"
+  },
+  "location": {
+    "lat": 40.749962,
+    "lng": -75.639145
+  },
+  "contact": {
+    "phone": "(610) 767-3952",
+    "website": "http://Papaypropertymaintenance.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "989afdc9-a530-40e3-8a59-35c514e80d41",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fl-ocala-m-j-stavola-industries",
+  "slug": "m-j-stavola-industries",
+  "name": "M.J. Stavola Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34475"
+  },
+  "location": {
+    "lat": 29.2675,
+    "lng": -82.163056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801202"
+  },
+  "msha": [
+    {
+      "mine_id": "0801202",
+      "name": "Stavola NW Pit",
+      "operator": "M.J. Stavola Industries",
+      "status": "Active",
+      "status_since": "1992-08-24",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

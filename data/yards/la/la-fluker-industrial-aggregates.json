@@ -1,0 +1,47 @@
+{
+  "id": "la-fluker-industrial-aggregates",
+  "slug": "industrial-aggregates",
+  "name": "Industrial Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "66382 Highway 51",
+    "city": "Fluker",
+    "state": "LA",
+    "zip": "70436"
+  },
+  "location": {
+    "lat": 30.820629,
+    "lng": -90.510742
+  },
+  "contact": {
+    "phone": "(985) 748-8020"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "facc5475-712a-49e2-9cfe-31f48d34c2e3",
+    "confidence": 0.584,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1601561",
+      "name": "Industrial Mining Plant 4",
+      "operator": "Industrial Mining, LLC",
+      "status": "Abandoned",
+      "status_since": "2025-07-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

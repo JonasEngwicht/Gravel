@@ -1,0 +1,36 @@
+{
+  "id": "mn-new-prague-big-stone-transportation-and-landscape-supply-inc",
+  "slug": "big-stone-transportation-and-landscape-supply-inc",
+  "name": "Big Stone Transportation and Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10480 New Prague Blvd",
+    "city": "New Prague",
+    "state": "MN",
+    "zip": "56071"
+  },
+  "location": {
+    "lat": 44.541805,
+    "lng": -93.472649
+  },
+  "contact": {
+    "phone": "(651) 243-7237",
+    "website": "http://www.bigstonelandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "266a5a5e-2836-4064-8627-832d787a6756",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "va-poquoson-hampton-roads-landscape-materials-llc",
+  "slug": "hampton-roads-landscape-materials-llc",
+  "name": "Hampton Roads Landscape Materials LLC..",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "412 WYTHE CREEK Rd",
+    "city": "Poquoson",
+    "state": "VA",
+    "zip": "23662"
+  },
+  "location": {
+    "lat": 37.122036,
+    "lng": -76.392067
+  },
+  "contact": {
+    "phone": "(757) 868-7348"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02d51645-b0ef-472b-ab3f-4c092672e7a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

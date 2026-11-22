@@ -1,0 +1,48 @@
+{
+  "id": "ca-willits-northern-aggregates-inc",
+  "slug": "northern-aggregates-inc",
+  "name": "Northern Aggregates Inc",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "16410 N Highway 101",
+    "city": "Willits",
+    "state": "CA",
+    "zip": "95490"
+  },
+  "location": {
+    "lat": 39.33894,
+    "lng": -123.312759
+  },
+  "contact": {
+    "phone": "(707) 459-3929",
+    "website": "https://northernaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "16c1310e-5dab-463c-972a-f8fa48361f66",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405139",
+      "name": "Harris Quarry",
+      "operator": "Northern Aggregates Inc",
+      "status": "Active",
+      "status_since": "2004-01-14",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

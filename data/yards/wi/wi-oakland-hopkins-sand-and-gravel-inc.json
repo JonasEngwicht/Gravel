@@ -1,0 +1,36 @@
+{
+  "id": "wi-oakland-hopkins-sand-and-gravel-inc",
+  "slug": "hopkins-sand-and-gravel-inc",
+  "name": "Hopkins Sand & Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "27760 WI-35",
+    "city": "Oakland",
+    "state": "WI",
+    "zip": "54893"
+  },
+  "location": {
+    "lat": 45.920109,
+    "lng": -92.364609
+  },
+  "contact": {
+    "phone": "(715) 866-4157",
+    "website": "http://www.hopkinsgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75f3faae-165e-4deb-a2f6-da785737d704",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

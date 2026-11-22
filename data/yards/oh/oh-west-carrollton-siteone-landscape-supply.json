@@ -1,0 +1,37 @@
+{
+  "id": "oh-west-carrollton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "730 Royal Ridge Dr",
+    "city": "West Carrollton",
+    "state": "OH",
+    "zip": "45449"
+  },
+  "location": {
+    "lat": 39.645809,
+    "lng": -84.244446
+  },
+  "contact": {
+    "phone": "(937) 866-4252",
+    "website": "https://www.siteone.com/store/536"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3738082e-a8f5-44a2-9633-759255f15d28",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

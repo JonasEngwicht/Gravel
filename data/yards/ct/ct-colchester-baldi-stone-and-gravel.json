@@ -1,0 +1,48 @@
+{
+  "id": "ct-colchester-baldi-stone-and-gravel",
+  "slug": "baldi-stone-and-gravel",
+  "name": "Baldi Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "72 Miller Rd",
+    "city": "Colchester",
+    "state": "CT",
+    "zip": "06415"
+  },
+  "location": {
+    "lat": 41.587406,
+    "lng": -72.353828
+  },
+  "contact": {
+    "phone": "(860) 537-4093",
+    "website": "http://www.baldistoneandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf342b3a-8d79-4a10-bc67-113ceaa0776c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0600653",
+      "name": "Richard P Baldi Jr",
+      "operator": "Richard P Baldi Jr",
+      "status": "Intermittent",
+      "status_since": "2010-01-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

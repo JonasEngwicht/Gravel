@@ -1,0 +1,36 @@
+{
+  "id": "nc-high-point-wallburg-mulch-worx",
+  "slug": "wallburg-mulch-worx",
+  "name": "Wallburg Mulch Worx",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2091 Wallburg-High Point Rd",
+    "city": "High Point",
+    "state": "NC",
+    "zip": "27265"
+  },
+  "location": {
+    "lat": 35.999763,
+    "lng": -80.098572
+  },
+  "contact": {
+    "phone": "(336) 847-3353",
+    "website": "https://wallburgmulchworx.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9ddf4e4-910b-404d-8931-cf53fd5fa191",
+    "confidence": 0.691,
+    "merged_records": 1
+  }
+}

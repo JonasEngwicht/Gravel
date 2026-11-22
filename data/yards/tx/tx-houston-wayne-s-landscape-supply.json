@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-wayne-s-landscape-supply",
+  "slug": "wayne-s-landscape-supply",
+  "name": "Wayne's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2901 S Sam Houston Pkwy E",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77047"
+  },
+  "location": {
+    "lat": 29.598595,
+    "lng": -95.382866
+  },
+  "contact": {
+    "phone": "(713) 433-9000",
+    "website": "https://linktr.ee/Anchoredlms"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b7452894-7d43-4497-a11c-2dc9891d8a14",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

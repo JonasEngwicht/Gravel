@@ -1,0 +1,36 @@
+{
+  "id": "pa-greensburg-the-yard-a-landscaping-materials-supply-company",
+  "slug": "the-yard-a-landscaping-materials-supply-company",
+  "name": "The Yard - A Landscaping Materials Supply Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "410 Frye Farm Rd",
+    "city": "Greensburg",
+    "state": "PA",
+    "zip": "15601"
+  },
+  "location": {
+    "lat": 40.288204,
+    "lng": -79.44635
+  },
+  "contact": {
+    "phone": "(724) 539-3211",
+    "website": "http://www.dirt-mulch-stone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc66fb71-5695-4bdb-a0db-3fc396568613",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sd-minnehaha-knife-river-south-dakota-sioux-falls-quarry",
+  "slug": "knife-river-south-dakota-sioux-falls-quarry",
+  "name": "Knife River - South Dakota – Sioux Falls Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Minnehaha",
+    "state": "SD",
+    "zip": "57117"
+  },
+  "location": {
+    "lat": 43.558333,
+    "lng": -96.766944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3900008"
+  },
+  "msha": [
+    {
+      "mine_id": "3900008",
+      "name": "Sioux Falls Quarry",
+      "operator": "Knife River - South Dakota",
+      "status": "Active",
+      "status_since": "1990-02-22",
+      "commodity": "Crushed, Broken Quartzite",
+      "match": "source",
+      "employees": 47
+    }
+  ]
+}

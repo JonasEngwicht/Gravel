@@ -1,0 +1,35 @@
+{
+  "id": "tn-nashville-the-gravel-company",
+  "slug": "the-gravel-company",
+  "name": "The Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "925 Visco Dr",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37210"
+  },
+  "location": {
+    "lat": 36.158333,
+    "lng": -86.741234
+  },
+  "contact": {
+    "phone": "(615) 236-7925"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a7f2cf32-7f2f-4709-93c5-6d8246d23583",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

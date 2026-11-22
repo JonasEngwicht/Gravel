@@ -1,0 +1,41 @@
+{
+  "id": "or-tillamook-kilchis-rock-co",
+  "slug": "kilchis-rock-co",
+  "name": "Kilchis Rock Co",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Tillamook",
+    "state": "OR",
+    "zip": "97141"
+  },
+  "location": {
+    "lat": 45.521944,
+    "lng": -123.8175
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503936"
+  },
+  "msha": [
+    {
+      "mine_id": "3503936",
+      "name": "Kilchis Rock Quarry",
+      "operator": "Kilchis Rock Co Llc",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

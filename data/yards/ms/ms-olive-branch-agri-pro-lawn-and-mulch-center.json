@@ -1,0 +1,36 @@
+{
+  "id": "ms-olive-branch-agri-pro-lawn-and-mulch-center",
+  "slug": "agri-pro-lawn-and-mulch-center",
+  "name": "Agri Pro Lawn & Mulch Center",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11291 Old Goodman Rd",
+    "city": "Olive Branch",
+    "state": "MS",
+    "zip": "38654"
+  },
+  "location": {
+    "lat": 34.962215,
+    "lng": -89.789604
+  },
+  "contact": {
+    "phone": "(662) 893-7633",
+    "website": "http://www.agriprolawns.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d1d9f01-6d18-40e8-89f1-e2a26312b795",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

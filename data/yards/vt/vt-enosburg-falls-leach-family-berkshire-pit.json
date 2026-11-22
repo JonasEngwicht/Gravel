@@ -1,0 +1,41 @@
+{
+  "id": "vt-enosburg-falls-leach-family-berkshire-pit",
+  "slug": "leach-family-berkshire-pit",
+  "name": "Leach Family – Berkshire Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Enosburg Falls",
+    "state": "VT",
+    "zip": "05447"
+  },
+  "location": {
+    "lat": 44.959722,
+    "lng": -72.773611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300654"
+  },
+  "msha": [
+    {
+      "mine_id": "4300654",
+      "name": "Berkshire Pit",
+      "operator": "Leach Family Inc",
+      "status": "Intermittent",
+      "status_since": "2017-06-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

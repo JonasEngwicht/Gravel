@@ -1,0 +1,41 @@
+{
+  "id": "nm-mountainaire-pueblo-rock-products",
+  "slug": "pueblo-rock-products",
+  "name": "Pueblo Rock Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Mountainaire",
+    "state": "NM",
+    "zip": "87036"
+  },
+  "location": {
+    "lat": 34.439444,
+    "lng": -106.39
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902444"
+  },
+  "msha": [
+    {
+      "mine_id": "2902444",
+      "name": "Pueblo Pit",
+      "operator": "Pueblo Rock Products, LLC",
+      "status": "Active",
+      "status_since": "2017-01-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-wilmington-pelton-aggregates",
+  "slug": "pelton-aggregates",
+  "name": "Pelton Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3612 Highway 421",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28401"
+  },
+  "location": {
+    "lat": 34.294834,
+    "lng": -77.967484
+  },
+  "contact": {
+    "phone": "(910) 232-5728",
+    "website": "http://www.peltonaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de1dc400-be91-4c80-b4b2-3fc26c48cac0",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

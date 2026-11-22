@@ -1,0 +1,36 @@
+{
+  "id": "wy-douglas-b-and-m-sand-and-gravel-inc",
+  "slug": "b-and-m-sand-and-gravel-inc",
+  "name": "B&M Sand and Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1129 S 5th St",
+    "city": "Douglas",
+    "state": "WY",
+    "zip": "82633"
+  },
+  "location": {
+    "lat": 42.743744,
+    "lng": -105.381027
+  },
+  "contact": {
+    "phone": "(307) 358-5123",
+    "website": "https://bmaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e38c656c-8f2d-48e9-8bcf-993dbadd5f56",
+    "confidence": 0.853,
+    "merged_records": 1
+  }
+}

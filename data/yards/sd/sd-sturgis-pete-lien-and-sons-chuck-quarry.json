@@ -1,0 +1,41 @@
+{
+  "id": "sd-sturgis-pete-lien-and-sons-chuck-quarry",
+  "slug": "pete-lien-and-sons-chuck-quarry",
+  "name": "Pete Lien & Sons – Chuck Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sturgis",
+    "state": "SD",
+    "zip": "57741"
+  },
+  "location": {
+    "lat": 44.41,
+    "lng": -103.550556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3901693"
+  },
+  "msha": [
+    {
+      "mine_id": "3901693",
+      "name": "Chuck Quarry",
+      "operator": "Pete Lien & Sons, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-11-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

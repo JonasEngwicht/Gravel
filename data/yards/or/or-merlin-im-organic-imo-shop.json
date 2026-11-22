@@ -1,0 +1,41 @@
+{
+  "id": "or-merlin-im-organic-imo-shop",
+  "slug": "im-organic-imo-shop",
+  "name": "IM Organic – IMO Shop",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Merlin",
+    "state": "OR",
+    "zip": "97526"
+  },
+  "location": {
+    "lat": 42.541389,
+    "lng": -123.387778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503897"
+  },
+  "msha": [
+    {
+      "mine_id": "3503897",
+      "name": "IMO Shop",
+      "operator": "IM Organic Corp",
+      "status": "Active",
+      "status_since": "2022-04-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

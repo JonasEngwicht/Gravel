@@ -1,0 +1,36 @@
+{
+  "id": "in-angola-irving-gravel-co",
+  "slug": "irving-gravel-co",
+  "name": "Irving Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "225 S 600 W",
+    "city": "Angola",
+    "state": "IN",
+    "zip": "46703"
+  },
+  "location": {
+    "lat": 41.640099,
+    "lng": -85.10817
+  },
+  "contact": {
+    "phone": "(260) 665-3683",
+    "website": "https://www.irvinggravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3476144-0a7d-4ca7-8c49-9c93f477ae94",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

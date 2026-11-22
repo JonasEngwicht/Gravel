@@ -1,0 +1,48 @@
+{
+  "id": "wv-lewisburg-appalachian-aggregates",
+  "slug": "appalachian-aggregates",
+  "name": "Appalachian Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "21071 Midland Trl",
+    "city": "Lewisburg",
+    "state": "WV",
+    "zip": "24901"
+  },
+  "location": {
+    "lat": 37.877293,
+    "lng": -80.556778
+  },
+  "contact": {
+    "phone": "(304) 877-5563",
+    "website": "http://www.appalachianaggregates.com/alta--lewisburg.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "84a8f169-e0ce-4e60-b29d-0490fda6cd54",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4602794",
+      "name": "Lewisburg Plant",
+      "operator": "Appalachian Aggregates, LLC",
+      "status": "Active",
+      "status_since": "1991-03-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

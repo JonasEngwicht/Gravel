@@ -1,0 +1,35 @@
+{
+  "id": "ga-cleveland-skelton-landscape-supply",
+  "slug": "skelton-landscape-supply",
+  "name": "Skelton Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "HWY 129 South BeSide Captian D'S",
+    "city": "Cleveland",
+    "state": "GA",
+    "zip": "30528"
+  },
+  "location": {
+    "lat": 34.543167,
+    "lng": -83.759331
+  },
+  "contact": {
+    "phone": "(770) 364-9879"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e982329-4160-4f4a-8ec5-7418440f92be",
+    "confidence": 0.541,
+    "merged_records": 1
+  }
+}

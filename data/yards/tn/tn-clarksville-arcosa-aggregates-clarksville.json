@@ -1,0 +1,48 @@
+{
+  "id": "tn-clarksville-arcosa-aggregates-clarksville",
+  "slug": "arcosa-aggregates-clarksville",
+  "name": "Arcosa Aggregates- Clarksville",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "800 Barge Point Rd",
+    "city": "Clarksville",
+    "state": "TN",
+    "zip": "37042"
+  },
+  "location": {
+    "lat": 36.541111,
+    "lng": -87.402367
+  },
+  "contact": {
+    "phone": "(931) 572-0093",
+    "website": "https://www.arcosaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55b0d90e-b314-40b1-8282-9979feb10060",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4003094",
+      "name": "Clarksville Quarry 1375",
+      "operator": "Clarksville Quarry 1375",
+      "status": "Active",
+      "status_since": "1996-06-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 31
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ky-russellville-bluegrass-stone-russellville-quarry",
+  "slug": "bluegrass-stone-russellville-quarry",
+  "name": "Bluegrass Stone – Russellville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Russellville",
+    "state": "KY",
+    "zip": "42276"
+  },
+  "location": {
+    "lat": 36.861667,
+    "lng": -86.885
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1519967"
+  },
+  "msha": [
+    {
+      "mine_id": "1519967",
+      "name": "Russellville Quarry",
+      "operator": "Bluegrass Stone, LLC",
+      "status": "Active",
+      "status_since": "2025-04-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nj-lafayette-mulch-concepts-llc",
+  "slug": "mulch-concepts-llc",
+  "name": "Mulch Concepts LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "193 RT-94",
+    "city": "Lafayette",
+    "state": "NJ",
+    "zip": "07848"
+  },
+  "location": {
+    "lat": 41.090286,
+    "lng": -74.712753
+  },
+  "contact": {
+    "phone": "(973) 579-1540",
+    "website": "http://mulchconcept.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6dcf957d-50d6-4ca3-be1b-c7689d6ced82",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

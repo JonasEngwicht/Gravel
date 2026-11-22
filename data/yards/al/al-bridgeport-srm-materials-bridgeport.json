@@ -1,0 +1,41 @@
+{
+  "id": "al-bridgeport-srm-materials-bridgeport",
+  "slug": "srm-materials-bridgeport",
+  "name": "SRM Materials Bridgeport",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bridgeport",
+    "state": "AL",
+    "zip": "35740"
+  },
+  "location": {
+    "lat": 34.946111,
+    "lng": -85.771111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103628"
+  },
+  "msha": [
+    {
+      "mine_id": "0103628",
+      "name": "SRM Materials Bridgeport",
+      "operator": "SRM Materials, LLC",
+      "status": "Active",
+      "status_since": "2026-02-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

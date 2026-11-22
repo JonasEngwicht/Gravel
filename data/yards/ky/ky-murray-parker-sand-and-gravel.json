@@ -1,0 +1,35 @@
+{
+  "id": "ky-murray-parker-sand-and-gravel",
+  "slug": "parker-sand-and-gravel",
+  "name": "Parker sand & gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "608 Knight Rd",
+    "city": "Murray",
+    "state": "KY",
+    "zip": "42071"
+  },
+  "location": {
+    "lat": 36.623737,
+    "lng": -88.273376
+  },
+  "contact": {
+    "phone": "(270) 293-9084"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81aeb95d-8503-40b7-bd08-93072ff4dbe1",
+    "confidence": 0.722,
+    "merged_records": 1
+  }
+}

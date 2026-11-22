@@ -1,0 +1,35 @@
+{
+  "id": "ma-holland-whispering-pines-landscape-supplies",
+  "slug": "whispering-pines-landscape-supplies",
+  "name": "Whispering Pines Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4 Alexander Rd",
+    "city": "Holland",
+    "state": "MA",
+    "zip": "01521"
+  },
+  "location": {
+    "lat": 42.076859,
+    "lng": -72.146927
+  },
+  "contact": {
+    "phone": "(774) 289-3229"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de0dd831-f3a4-465c-8c7c-8474ffea624d",
+    "confidence": 0.659,
+    "merged_records": 1
+  }
+}

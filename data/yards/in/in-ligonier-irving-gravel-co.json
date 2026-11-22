@@ -1,0 +1,36 @@
+{
+  "id": "in-ligonier-irving-gravel-co",
+  "slug": "irving-gravel-co",
+  "name": "Irving Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1430 Lincolnway W",
+    "city": "Ligonier",
+    "state": "IN",
+    "zip": "46767"
+  },
+  "location": {
+    "lat": 41.469818,
+    "lng": -85.615555
+  },
+  "contact": {
+    "phone": "(260) 894-3541",
+    "website": "http://www.irvinggravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdd135ad-b685-455a-b901-2e209f6c225d",
+    "confidence": 0.995,
+    "merged_records": 2
+  }
+}

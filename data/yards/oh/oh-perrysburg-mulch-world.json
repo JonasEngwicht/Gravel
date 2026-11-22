@@ -1,0 +1,36 @@
+{
+  "id": "oh-perrysburg-mulch-world",
+  "slug": "mulch-world",
+  "name": "Mulch World",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8232 Fremont Pike",
+    "city": "Perrysburg",
+    "state": "OH",
+    "zip": "43551"
+  },
+  "location": {
+    "lat": 41.531384,
+    "lng": -83.552513
+  },
+  "contact": {
+    "phone": "(419) 873-6852",
+    "website": "http://www.mulchworld.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "397d6647-e829-4484-967e-470218b91ede",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

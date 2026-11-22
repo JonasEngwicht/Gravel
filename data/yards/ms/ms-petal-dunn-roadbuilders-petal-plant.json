@@ -1,0 +1,41 @@
+{
+  "id": "ms-petal-dunn-roadbuilders-petal-plant",
+  "slug": "dunn-roadbuilders-petal-plant",
+  "name": "Dunn Roadbuilders – Petal Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Petal",
+    "state": "MS",
+    "zip": "39406"
+  },
+  "location": {
+    "lat": 31.395833,
+    "lng": -89.268333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200625"
+  },
+  "msha": [
+    {
+      "mine_id": "2200625",
+      "name": "Petal Plant",
+      "operator": "Dunn Roadbuilders LLC",
+      "status": "Intermittent",
+      "status_since": "2019-09-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

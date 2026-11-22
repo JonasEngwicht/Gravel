@@ -1,0 +1,36 @@
+{
+  "id": "ma-sterling-mass-landscape-supplies-and-rentals",
+  "slug": "mass-landscape-supplies-and-rentals",
+  "name": "Mass Landscape Supplies & Rentals",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "110 Pratts Junction Rd",
+    "city": "Sterling",
+    "state": "MA",
+    "zip": "01564"
+  },
+  "location": {
+    "lat": 42.458321,
+    "lng": -71.737656
+  },
+  "contact": {
+    "phone": "(978) 563-1532",
+    "website": "https://www.masslandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "107b48b5-2f89-42f0-95ad-64b086f97b34",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

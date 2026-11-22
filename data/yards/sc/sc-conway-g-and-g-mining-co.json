@@ -1,0 +1,41 @@
+{
+  "id": "sc-conway-g-and-g-mining-co",
+  "slug": "g-and-g-mining-co",
+  "name": "G & G Mining Co",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Conway",
+    "state": "SC",
+    "zip": "29527"
+  },
+  "location": {
+    "lat": 33.835833,
+    "lng": -79.171111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800344"
+  },
+  "msha": [
+    {
+      "mine_id": "3800344",
+      "name": "G & G Mining Co LLC",
+      "operator": "G & G Mining Co LLC",
+      "status": "Active",
+      "status_since": "1978-12-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

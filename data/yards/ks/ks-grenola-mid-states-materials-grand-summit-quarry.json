@@ -1,0 +1,41 @@
+{
+  "id": "ks-grenola-mid-states-materials-grand-summit-quarry",
+  "slug": "mid-states-materials-grand-summit-quarry",
+  "name": "Mid-States Materials – Grand Summit Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Grenola",
+    "state": "KS",
+    "zip": "67023"
+  },
+  "location": {
+    "lat": 37.358611,
+    "lng": -96.529444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401658"
+  },
+  "msha": [
+    {
+      "mine_id": "1401658",
+      "name": "Grand Summit Quarry",
+      "operator": "Mid-States Materials, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-02-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mo-pevely-mulch-outlet",
+  "slug": "mulch-outlet",
+  "name": "Mulch Outlet",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2244 Front St",
+    "city": "Pevely",
+    "state": "MO",
+    "zip": "63070"
+  },
+  "location": {
+    "lat": 38.265587,
+    "lng": -90.425186
+  },
+  "contact": {
+    "phone": "(636) 479-5893",
+    "website": "http://mulchoutlet.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2a682509-0be7-4486-b062-76fd30550dba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

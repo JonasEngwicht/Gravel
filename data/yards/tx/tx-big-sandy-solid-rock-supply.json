@@ -1,0 +1,35 @@
+{
+  "id": "tx-big-sandy-solid-rock-supply",
+  "slug": "solid-rock-supply",
+  "name": "Solid Rock Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "201 E Beck St",
+    "city": "Big Sandy",
+    "state": "TX",
+    "zip": "75755"
+  },
+  "location": {
+    "lat": 32.58873,
+    "lng": -95.106499
+  },
+  "contact": {
+    "phone": "(903) 520-9599"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5e4583d-5ee5-4268-a59b-aa386bb352c7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

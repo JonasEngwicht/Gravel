@@ -1,0 +1,35 @@
+{
+  "id": "nc-hickory-mountain-view-mulch",
+  "slug": "mountain-view-mulch",
+  "name": "Mountain View Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5601 Bethel Church Rd",
+    "city": "Hickory",
+    "state": "NC",
+    "zip": "28602"
+  },
+  "location": {
+    "lat": 35.680233,
+    "lng": -81.376877
+  },
+  "contact": {
+    "phone": "(828) 294-4499"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "49ba8735-4eb1-4f18-a163-5f9184fbc4e8",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nj-eatontown-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "246 Industrial Way W",
+    "city": "Eatontown",
+    "state": "NJ",
+    "zip": "07724"
+  },
+  "location": {
+    "lat": 40.276413,
+    "lng": -74.05764
+  },
+  "contact": {
+    "phone": "(732) 542-8100",
+    "website": "https://www.siteone.com/store/571"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7e791d0-b9be-4df7-9090-3c46fdbed180",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

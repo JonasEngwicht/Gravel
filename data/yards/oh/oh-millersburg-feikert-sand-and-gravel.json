@@ -1,0 +1,48 @@
+{
+  "id": "oh-millersburg-feikert-sand-and-gravel",
+  "slug": "feikert-sand-and-gravel",
+  "name": "Feikert Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7100 Co Hwy 189",
+    "city": "Millersburg",
+    "state": "OH",
+    "zip": "44654"
+  },
+  "location": {
+    "lat": 40.617889,
+    "lng": -81.876244
+  },
+  "contact": {
+    "phone": "(330) 674-0038",
+    "website": "http://www.feikerts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd378fe4-8fdd-42a5-9950-caa1c7f5f714",
+    "confidence": 0.992,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301474",
+      "name": "Feikert Sand & Gravel Inc",
+      "operator": "Feikert Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2003-01-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

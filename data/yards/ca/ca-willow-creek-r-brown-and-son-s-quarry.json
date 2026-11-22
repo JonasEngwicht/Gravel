@@ -1,0 +1,41 @@
+{
+  "id": "ca-willow-creek-r-brown-and-son-s-quarry",
+  "slug": "r-brown-and-son-s-quarry",
+  "name": "R Brown & Son's Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Willow Creek",
+    "state": "CA",
+    "zip": "95573"
+  },
+  "location": {
+    "lat": 40.94,
+    "lng": -123.668056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405388"
+  },
+  "msha": [
+    {
+      "mine_id": "0405388",
+      "name": "R Brown & Son's Quarry",
+      "operator": "R Brown & Son's Quarry",
+      "status": "Intermittent",
+      "status_since": "1999-08-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

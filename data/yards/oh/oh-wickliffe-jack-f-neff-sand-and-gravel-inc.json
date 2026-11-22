@@ -1,0 +1,35 @@
+{
+  "id": "oh-wickliffe-jack-f-neff-sand-and-gravel-inc",
+  "slug": "jack-f-neff-sand-and-gravel-inc",
+  "name": "Jack F Neff Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "30155 Euclid Ave",
+    "city": "Wickliffe",
+    "state": "OH",
+    "zip": "44092"
+  },
+  "location": {
+    "lat": 41.617847,
+    "lng": -81.461067
+  },
+  "contact": {
+    "phone": "(440) 943-3000"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "386dd7e3-6555-425d-bc67-1dfde7438365",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

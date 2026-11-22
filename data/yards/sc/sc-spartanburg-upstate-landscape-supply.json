@@ -1,0 +1,36 @@
+{
+  "id": "sc-spartanburg-upstate-landscape-supply",
+  "slug": "upstate-landscape-supply",
+  "name": "Upstate Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2166 Chesnee Hwy",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29303"
+  },
+  "location": {
+    "lat": 35.010056,
+    "lng": -81.904907
+  },
+  "contact": {
+    "phone": "(864) 310-6996",
+    "website": "https://upstatelandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77780327-18cd-4ed0-a1cc-6d51869b2845",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-redding-sunrise-excavating-paving-and-landscape-supplies",
+  "slug": "sunrise-excavating-paving-and-landscape-supplies",
+  "name": "Sunrise Excavating Paving & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "17409 Clear Creek Rd",
+    "city": "Redding",
+    "state": "CA",
+    "zip": "96001"
+  },
+  "location": {
+    "lat": 40.502831,
+    "lng": -122.418022
+  },
+  "contact": {
+    "phone": "(530) 246-8933",
+    "website": "https://www.sunriseexcavating.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "369904e0-9c9b-49b1-9be2-f01a56c463aa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

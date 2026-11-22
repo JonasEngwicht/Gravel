@@ -1,0 +1,36 @@
+{
+  "id": "nj-allendale-allendale-borough-recycling-center-and-mulch-area",
+  "slug": "allendale-borough-recycling-center-and-mulch-area",
+  "name": "Allendale Borough Recycling Center & Mulch Area",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "300 W Crescent Ave",
+    "city": "Allendale",
+    "state": "NJ",
+    "zip": "07401"
+  },
+  "location": {
+    "lat": 41.03315,
+    "lng": -74.13559
+  },
+  "contact": {
+    "phone": "(201) 818-4410",
+    "website": "https://www.allendalenj.gov"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e62b892d-b141-48df-a91b-3dca2dc9c805",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

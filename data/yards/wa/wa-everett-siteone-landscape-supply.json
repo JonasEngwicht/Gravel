@@ -1,0 +1,37 @@
+{
+  "id": "wa-everett-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2920 Chestnut St",
+    "city": "Everett",
+    "state": "WA",
+    "zip": "98201"
+  },
+  "location": {
+    "lat": 47.978252,
+    "lng": -122.188652
+  },
+  "contact": {
+    "phone": "(425) 259-3740",
+    "website": "https://www.siteone.com/store/169"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "600132b1-baec-4221-9260-6f10d0dfe2b1",
+    "confidence": 0.521,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "md-elkridge-champion-mulch-and-outdoor-supply",
+  "slug": "champion-mulch-and-outdoor-supply",
+  "name": "Champion Mulch & Outdoor Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6264 Race Rd",
+    "city": "Elkridge",
+    "state": "MD",
+    "zip": "21075"
+  },
+  "location": {
+    "lat": 39.195786,
+    "lng": -76.714668
+  },
+  "contact": {
+    "phone": "(301) 715-8500",
+    "website": "http://www.championbuildersupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0999a51a-1c7e-4433-ab3f-f4f97dd74428",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

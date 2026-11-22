@@ -1,0 +1,41 @@
+{
+  "id": "ky-fredonia-amrize-south-central-amrize-fredonia-quarry",
+  "slug": "amrize-south-central-amrize-fredonia-quarry",
+  "name": "Amrize South Central – Amrize Fredonia Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Fredonia",
+    "state": "KY",
+    "zip": "42411"
+  },
+  "location": {
+    "lat": 37.173889,
+    "lng": -88.04
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500022"
+  },
+  "msha": [
+    {
+      "mine_id": "1500022",
+      "name": "Amrize Fredonia Quarry",
+      "operator": "Amrize South Central Inc.",
+      "status": "Active",
+      "status_since": "1973-01-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 26
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "or-culver-bdl-plumbing-green-ridge-rock-products",
+  "slug": "bdl-plumbing-green-ridge-rock-products",
+  "name": "Bdl plumbing – Green ridge rock products",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Culver",
+    "state": "OR",
+    "zip": "97734"
+  },
+  "location": {
+    "lat": 44.586944,
+    "lng": -121.4525
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503957"
+  },
+  "msha": [
+    {
+      "mine_id": "3503957",
+      "name": "Green ridge rock products",
+      "operator": "Bdl plumbing",
+      "status": "Intermittent",
+      "status_since": "2024-03-05",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

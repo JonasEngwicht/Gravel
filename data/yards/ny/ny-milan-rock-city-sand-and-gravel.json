@@ -1,0 +1,36 @@
+{
+  "id": "ny-milan-rock-city-sand-and-gravel",
+  "slug": "rock-city-sand-and-gravel",
+  "name": "Rock City Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "820 NY-199",
+    "city": "Milan",
+    "state": "NY",
+    "zip": "12571"
+  },
+  "location": {
+    "lat": 41.968365,
+    "lng": -73.815735
+  },
+  "contact": {
+    "phone": "(845) 758-1100",
+    "website": "http://www.jfivehomes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ef3e82a-b127-4f18-8fc0-da08d0ab1fc5",
+    "confidence": 0.612,
+    "merged_records": 1
+  }
+}

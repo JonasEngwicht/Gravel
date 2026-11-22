@@ -1,0 +1,48 @@
+{
+  "id": "wa-port-orchard-port-orchard-sand-and-gravel",
+  "slug": "port-orchard-sand-and-gravel",
+  "name": "Port Orchard Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12800 Sidney Rd SW",
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98367"
+  },
+  "location": {
+    "lat": 47.431068,
+    "lng": -122.665985
+  },
+  "contact": {
+    "phone": "(360) 479-4626",
+    "website": "http://www.milessandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a795a5da-2c1b-4e0a-82b7-388533e7c8a7",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4502854",
+      "name": "Airport Pit",
+      "operator": "Port Orchard Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2020-04-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-fresno-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2380 N Larkin Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93727"
+  },
+  "location": {
+    "lat": 36.771503,
+    "lng": -119.696793
+  },
+  "contact": {
+    "phone": "(559) 292-5302",
+    "website": "https://www.siteone.com/store/282"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "193865bb-6e83-46c0-8197-5a22334925d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

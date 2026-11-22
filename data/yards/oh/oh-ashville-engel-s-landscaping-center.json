@@ -1,0 +1,35 @@
+{
+  "id": "oh-ashville-engel-s-landscaping-center",
+  "slug": "engel-s-landscaping-center",
+  "name": "Engel's Landscaping Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15810 Lockbourne Eastern Rd",
+    "city": "Ashville",
+    "state": "OH",
+    "zip": "43103"
+  },
+  "location": {
+    "lat": 39.70187,
+    "lng": -82.94471
+  },
+  "contact": {
+    "phone": "(740) 983-9110"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c30aa0e-efab-44b6-ad85-04d36c167442",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

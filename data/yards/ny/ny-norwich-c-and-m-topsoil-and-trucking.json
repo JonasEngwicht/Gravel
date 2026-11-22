@@ -1,0 +1,36 @@
+{
+  "id": "ny-norwich-c-and-m-topsoil-and-trucking",
+  "slug": "c-and-m-topsoil-and-trucking",
+  "name": "C&M Topsoil and Trucking",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "127 Hobos Ln",
+    "city": "Norwich",
+    "state": "NY",
+    "zip": "13815"
+  },
+  "location": {
+    "lat": 42.498714,
+    "lng": -75.526138
+  },
+  "contact": {
+    "phone": "(607) 427-0188",
+    "website": "https://cmtopsoiltrucking.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f638bb1e-b576-4db5-8903-5695aaca503f",
+    "confidence": 0.922,
+    "merged_records": 1
+  }
+}

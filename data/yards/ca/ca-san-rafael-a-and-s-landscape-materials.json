@@ -1,0 +1,36 @@
+{
+  "id": "ca-san-rafael-a-and-s-landscape-materials",
+  "slug": "a-and-s-landscape-materials",
+  "name": "A and S Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "580 Jacoby St",
+    "city": "San Rafael",
+    "state": "CA",
+    "zip": "94901"
+  },
+  "location": {
+    "lat": 37.953217,
+    "lng": -122.504868
+  },
+  "contact": {
+    "phone": "(415) 456-1381",
+    "website": "http://www.ansmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5ff9175-1e8a-4344-9c79-cf4e1edf27aa",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

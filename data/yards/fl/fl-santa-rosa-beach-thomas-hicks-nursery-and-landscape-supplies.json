@@ -1,0 +1,36 @@
+{
+  "id": "fl-santa-rosa-beach-thomas-hicks-nursery-and-landscape-supplies",
+  "slug": "thomas-hicks-nursery-and-landscape-supplies",
+  "name": "Thomas Hicks Nursery & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1119 Chat Holley Rd",
+    "city": "Santa Rosa Beach",
+    "state": "FL",
+    "zip": "32459"
+  },
+  "location": {
+    "lat": 30.387684,
+    "lng": -86.19326
+  },
+  "contact": {
+    "phone": "(850) 267-0202",
+    "website": "https://goo.gl/maps/fpjjpz1YvhdfqXAf6"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "762e5682-0c99-4634-b158-000d1a27cf81",
+    "confidence": 0.927,
+    "merged_records": 1
+  }
+}

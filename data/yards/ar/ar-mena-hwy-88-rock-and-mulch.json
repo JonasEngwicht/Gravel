@@ -1,0 +1,35 @@
+{
+  "id": "ar-mena-hwy-88-rock-and-mulch",
+  "slug": "hwy-88-rock-and-mulch",
+  "name": "Hwy 88 Rock and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2710 AR-88",
+    "city": "Mena",
+    "state": "AR",
+    "zip": "71953"
+  },
+  "location": {
+    "lat": 34.584732,
+    "lng": -94.188515
+  },
+  "contact": {
+    "phone": "(479) 234-3448"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "913dd78f-4914-4f33-b636-7e6447f39b1f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

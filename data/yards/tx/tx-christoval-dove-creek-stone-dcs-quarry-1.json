@@ -1,0 +1,41 @@
+{
+  "id": "tx-christoval-dove-creek-stone-dcs-quarry-1",
+  "slug": "dove-creek-stone-dcs-quarry-1",
+  "name": "Dove Creek Stone – DCS Quarry 1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Christoval",
+    "state": "TX",
+    "zip": "76939"
+  },
+  "location": {
+    "lat": 31.271944,
+    "lng": -100.627222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105856"
+  },
+  "msha": [
+    {
+      "mine_id": "4105856",
+      "name": "DCS Quarry 1",
+      "operator": "Dove Creek Stone, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

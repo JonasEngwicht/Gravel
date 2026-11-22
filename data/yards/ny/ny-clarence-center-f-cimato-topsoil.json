@@ -1,0 +1,36 @@
+{
+  "id": "ny-clarence-center-f-cimato-topsoil",
+  "slug": "f-cimato-topsoil",
+  "name": "F. Cimato Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9310 County Rd",
+    "city": "Clarence Center",
+    "state": "NY",
+    "zip": "14032"
+  },
+  "location": {
+    "lat": 43.032341,
+    "lng": -78.643951
+  },
+  "contact": {
+    "phone": "(716) 741-0900",
+    "website": "http://www.cimatotopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a53a6e50-8d54-44a0-acf5-1efb41de7852",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

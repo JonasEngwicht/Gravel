@@ -1,0 +1,35 @@
+{
+  "id": "mi-romulus-napier-s-discount-mulch",
+  "slug": "napier-s-discount-mulch",
+  "name": "Napier's Discount Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6078 Heyer St",
+    "city": "Romulus",
+    "state": "MI",
+    "zip": "48174"
+  },
+  "location": {
+    "lat": 42.262886,
+    "lng": -83.419121
+  },
+  "contact": {
+    "phone": "(734) 637-5796"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3ab38012-7867-4f73-9ef2-a6a5da07d445",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wi-chilton-halquist-stone-company-chilton-quarry",
+  "slug": "halquist-stone-company-chilton-quarry",
+  "name": "Halquist Stone Company - Chilton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Chilton",
+    "state": "WI",
+    "zip": "53061"
+  },
+  "location": {
+    "lat": 43.97,
+    "lng": -88.1925
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703139"
+  },
+  "msha": [
+    {
+      "mine_id": "4703139",
+      "name": "Halquist Stone Company - Chilton Quarry",
+      "operator": "Halquist Stone Company Inc",
+      "status": "Active",
+      "status_since": "2025-10-31",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

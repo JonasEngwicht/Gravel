@@ -1,0 +1,41 @@
+{
+  "id": "ny-miller-place-vulcan-construction-materials-coram-materials-corp",
+  "slug": "vulcan-construction-materials-coram-materials-corp",
+  "name": "Vulcan Construction Materials – Coram Materials Corp",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Miller Place",
+    "state": "NY",
+    "zip": "11764"
+  },
+  "location": {
+    "lat": 40.923333,
+    "lng": -72.973889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000794"
+  },
+  "msha": [
+    {
+      "mine_id": "3000794",
+      "name": "Coram Materials Corp",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1982-12-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

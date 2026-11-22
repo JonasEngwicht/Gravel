@@ -1,0 +1,36 @@
+{
+  "id": "fl-st-petersburg-larson-and-son-landscape-supply",
+  "slug": "larson-and-son-landscape-supply",
+  "name": "Larson & Son Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4630 95th St N",
+    "city": "St Petersburg",
+    "state": "FL",
+    "zip": "33708"
+  },
+  "location": {
+    "lat": 27.814636,
+    "lng": -82.771172
+  },
+  "contact": {
+    "phone": "(727) 289-1088",
+    "website": "http://www.larsonsupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d09869af-24cf-4a04-ba8a-bc85a2341e1f",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

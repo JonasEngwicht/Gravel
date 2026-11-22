@@ -1,0 +1,41 @@
+{
+  "id": "ms-picayune-huey-p-stockstill-beech-street-crusher",
+  "slug": "huey-p-stockstill-beech-street-crusher",
+  "name": "Huey P Stockstill – Beech Street Crusher",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Picayune",
+    "state": "MS",
+    "zip": "39466"
+  },
+  "location": {
+    "lat": 30.536944,
+    "lng": -89.697778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200836"
+  },
+  "msha": [
+    {
+      "mine_id": "2200836",
+      "name": "Beech Street Crusher",
+      "operator": "Huey P Stockstill, Llc",
+      "status": "Active",
+      "status_since": "2020-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

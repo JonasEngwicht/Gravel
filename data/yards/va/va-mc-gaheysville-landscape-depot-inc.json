@@ -1,0 +1,36 @@
+{
+  "id": "va-mc-gaheysville-landscape-depot-inc",
+  "slug": "landscape-depot-inc",
+  "name": "Landscape Depot, Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "42 Island Ford Rd Ste F",
+    "city": "Mc Gaheysville",
+    "state": "VA",
+    "zip": "22840"
+  },
+  "location": {
+    "lat": 38.375164,
+    "lng": -78.728439
+  },
+  "contact": {
+    "phone": "(540) 820-2341",
+    "website": "http://www.landscapedepotsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53c3c3eb-f7ce-446e-80c8-7f840a10ae60",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

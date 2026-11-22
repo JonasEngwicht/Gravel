@@ -1,0 +1,41 @@
+{
+  "id": "nc-candor-emery-pit",
+  "slug": "emery-pit",
+  "name": "Emery Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Candor",
+    "state": "NC",
+    "zip": "27281"
+  },
+  "location": {
+    "lat": 35.195556,
+    "lng": -79.616389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102092"
+  },
+  "msha": [
+    {
+      "mine_id": "3102092",
+      "name": "Emery Pit",
+      "operator": "G S Materials Inc",
+      "status": "Active",
+      "status_since": "1992-12-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

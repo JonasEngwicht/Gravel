@@ -1,0 +1,36 @@
+{
+  "id": "ga-stone-mountain-the-dirt-guy-landscape-supply",
+  "slug": "the-dirt-guy-landscape-supply",
+  "name": "The Dirt Guy Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4081 Redan Rd",
+    "city": "Stone Mountain",
+    "state": "GA",
+    "zip": "30083"
+  },
+  "location": {
+    "lat": 33.763245,
+    "lng": -84.22467
+  },
+  "contact": {
+    "phone": "(770) 203-0189",
+    "website": "http://Dirt-Guy.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3064c027-d26d-4dbc-87ff-8d99c58ea880",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

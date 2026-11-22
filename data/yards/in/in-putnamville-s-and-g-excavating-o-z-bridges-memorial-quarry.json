@@ -1,0 +1,41 @@
+{
+  "id": "in-putnamville-s-and-g-excavating-o-z-bridges-memorial-quarry",
+  "slug": "s-and-g-excavating-o-z-bridges-memorial-quarry",
+  "name": "S & G Excavating – O.Z. Bridges Memorial Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Putnamville",
+    "state": "IN",
+    "zip": "46170"
+  },
+  "location": {
+    "lat": 39.579167,
+    "lng": -86.868333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202196"
+  },
+  "msha": [
+    {
+      "mine_id": "1202196",
+      "name": "O.Z. Bridges Memorial Quarry",
+      "operator": "S & G Excavating, Inc.",
+      "status": "Active",
+      "status_since": "2003-11-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 30
+    }
+  ]
+}

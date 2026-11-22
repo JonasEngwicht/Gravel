@@ -1,0 +1,47 @@
+{
+  "id": "ky-grand-rivers-arcosa-aggregates-grand-rivers",
+  "slug": "arcosa-aggregates-grand-rivers",
+  "name": "Arcosa Aggregates- Grand Rivers",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "877 Dover Rd",
+    "city": "Grand Rivers",
+    "state": "KY",
+    "zip": "42045"
+  },
+  "location": {
+    "lat": 37.059017,
+    "lng": -88.284004
+  },
+  "contact": {
+    "website": "https://www.arcosaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34bdb2f8-3496-40e2-b2b4-e085f09defbf",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1519561",
+      "name": "Grand Rivers Quarry 1373",
+      "operator": "Winn Materials",
+      "status": "Active",
+      "status_since": "2015-08-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 18
+    }
+  ]
+}

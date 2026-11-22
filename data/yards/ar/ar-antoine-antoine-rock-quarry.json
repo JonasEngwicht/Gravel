@@ -1,0 +1,41 @@
+{
+  "id": "ar-antoine-antoine-rock-quarry",
+  "slug": "antoine-rock-quarry",
+  "name": "Antoine Rock Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Antoine",
+    "state": "AR",
+    "zip": "71940"
+  },
+  "location": {
+    "lat": 34.081111,
+    "lng": -93.494167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0302028"
+  },
+  "msha": [
+    {
+      "mine_id": "0302028",
+      "name": "Antoine Rock Quarry",
+      "operator": "Antoine Rock Quarry",
+      "status": "Active",
+      "status_since": "2017-10-11",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

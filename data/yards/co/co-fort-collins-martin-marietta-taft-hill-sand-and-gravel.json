@@ -1,0 +1,49 @@
+{
+  "id": "co-fort-collins-martin-marietta-taft-hill-sand-and-gravel",
+  "slug": "martin-marietta-taft-hill-sand-and-gravel",
+  "name": "Martin Marietta - Taft Hill Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "1801 N Taft Hill Rd",
+    "city": "Fort Collins",
+    "state": "CO",
+    "zip": "80521"
+  },
+  "location": {
+    "lat": 40.616058,
+    "lng": -105.118111
+  },
+  "contact": {
+    "phone": "(720) 378-5515",
+    "website": "https://www.martinmarietta.com/locations/west/rocky-mountain-aggregates-district/taft-hill-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "274a24e9-7fd0-48b8-9e62-3de14c00f606",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0505169",
+      "name": "Knox Pit",
+      "operator": "Loveland Ready Mix Concrete, Inc",
+      "status": "Active",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "la-indian-village-arcosa-aggregates-gulf-coast-plant-1325-indian-village",
+  "slug": "arcosa-aggregates-gulf-coast-plant-1325-indian-village",
+  "name": "Arcosa Aggregates Gulf Coast – Plant 1325-Indian Village",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Indian Village",
+    "state": "LA",
+    "zip": "70648"
+  },
+  "location": {
+    "lat": 30.485556,
+    "lng": -92.850833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1600348"
+  },
+  "msha": [
+    {
+      "mine_id": "1600348",
+      "name": "Plant 1325-Indian Village",
+      "operator": "Arcosa Aggregates Gulf Coast, LLC",
+      "status": "Active",
+      "status_since": "1983-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

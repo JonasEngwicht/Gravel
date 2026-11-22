@@ -1,0 +1,41 @@
+{
+  "id": "tx-kerens-holsey-mining-cayuga-site",
+  "slug": "holsey-mining-cayuga-site",
+  "name": "Holsey Mining – Cayuga Site",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Kerens",
+    "state": "TX",
+    "zip": "75144"
+  },
+  "location": {
+    "lat": 32.005556,
+    "lng": -96.116667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105609"
+  },
+  "msha": [
+    {
+      "mine_id": "4105609",
+      "name": "Cayuga Site",
+      "operator": "Holsey Mining, Inc",
+      "status": "Active",
+      "status_since": "2023-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

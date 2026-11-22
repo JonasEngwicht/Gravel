@@ -1,0 +1,48 @@
+{
+  "id": "or-portland-ross-island-sand-and-gravel-co",
+  "slug": "ross-island-sand-and-gravel-co",
+  "name": "Ross Island Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4315 SE McLoughlin Blvd",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97202"
+  },
+  "location": {
+    "lat": 45.492882,
+    "lng": -122.657768
+  },
+  "contact": {
+    "phone": "(503) 239-5504",
+    "website": "https://rossisland.co"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "76a35193-5b5a-4b74-bacf-1cee5ee4ebf9",
+    "confidence": 0.989,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3500540",
+      "name": "Ross Island Plant",
+      "operator": "Ross Island Sand & Gravel Company",
+      "status": "Abandoned",
+      "status_since": "2021-05-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

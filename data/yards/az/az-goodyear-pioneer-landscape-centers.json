@@ -1,0 +1,37 @@
+{
+  "id": "az-goodyear-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "18335 W Mcdowell Rd",
+    "city": "Goodyear",
+    "state": "AZ",
+    "zip": "85395"
+  },
+  "location": {
+    "lat": 33.464012,
+    "lng": -112.4543
+  },
+  "contact": {
+    "phone": "(623) 853-1833",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1a24a9d2-414c-41c4-acfe-7e243c047855",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

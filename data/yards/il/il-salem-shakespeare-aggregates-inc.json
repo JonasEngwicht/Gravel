@@ -1,0 +1,35 @@
+{
+  "id": "il-salem-shakespeare-aggregates-inc",
+  "slug": "shakespeare-aggregates-inc",
+  "name": "Shakespeare Aggregates, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "202 W Main St",
+    "city": "Salem",
+    "state": "IL",
+    "zip": "62881"
+  },
+  "location": {
+    "lat": 38.627216,
+    "lng": -88.946899
+  },
+  "contact": {
+    "phone": "(866) 548-7626"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3cc4866b-ecfa-4592-8654-d340c88a457c",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

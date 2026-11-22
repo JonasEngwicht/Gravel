@@ -1,0 +1,36 @@
+{
+  "id": "nc-lenoir-precision-landscape-supply-llc",
+  "slug": "precision-landscape-supply-llc",
+  "name": "Precision Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2584 Hickory Blvd",
+    "city": "Lenoir",
+    "state": "NC",
+    "zip": "28645"
+  },
+  "location": {
+    "lat": 35.866249,
+    "lng": -81.493179
+  },
+  "contact": {
+    "phone": "(828) 925-1941",
+    "website": "https://precisionlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "383517b0-c56c-4399-b2d9-5de3010357c3",
+    "confidence": 0.705,
+    "merged_records": 1
+  }
+}

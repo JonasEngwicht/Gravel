@@ -1,0 +1,35 @@
+{
+  "id": "mn-duluth-a-j-landscape-center",
+  "slug": "a-j-landscape-center",
+  "name": "A J Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6386 Highway 2",
+    "city": "Duluth",
+    "state": "MN",
+    "zip": "55810"
+  },
+  "location": {
+    "lat": 46.802689,
+    "lng": -92.352852
+  },
+  "contact": {
+    "phone": "(218) 729-4686"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ccaf4a61-7267-49eb-8d95-706e86ed9009",
+    "confidence": 0.984,
+    "merged_records": 1
+  }
+}

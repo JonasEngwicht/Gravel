@@ -1,0 +1,36 @@
+{
+  "id": "tx-tolar-fisher-sand-and-gravel-co",
+  "slug": "fisher-sand-and-gravel-co",
+  "name": "Fisher Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5310 Coleman Ranch Rd",
+    "city": "Tolar",
+    "state": "TX",
+    "zip": "76476"
+  },
+  "location": {
+    "lat": 32.320805,
+    "lng": -97.919052
+  },
+  "contact": {
+    "phone": "(254) 835-4490",
+    "website": "https://www.fisherind.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "38a5f549-b59b-4762-9b6c-277062690058",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

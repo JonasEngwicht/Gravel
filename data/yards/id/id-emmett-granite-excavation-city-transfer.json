@@ -1,0 +1,41 @@
+{
+  "id": "id-emmett-granite-excavation-city-transfer",
+  "slug": "granite-excavation-city-transfer",
+  "name": "Granite Excavation – City Transfer",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Emmett",
+    "state": "ID",
+    "zip": "83617"
+  },
+  "location": {
+    "lat": 43.850278,
+    "lng": -116.512778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1002317"
+  },
+  "msha": [
+    {
+      "mine_id": "1002317",
+      "name": "City Transfer",
+      "operator": "Granite Excavation Inc.",
+      "status": "Intermittent",
+      "status_since": "2021-08-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

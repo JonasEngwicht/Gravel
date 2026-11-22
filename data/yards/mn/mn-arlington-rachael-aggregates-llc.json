@@ -1,0 +1,36 @@
+{
+  "id": "mn-arlington-rachael-aggregates-llc",
+  "slug": "rachael-aggregates-llc",
+  "name": "Rachael Aggregates LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "108 5th Ave NW",
+    "city": "Arlington",
+    "state": "MN",
+    "zip": "55307"
+  },
+  "location": {
+    "lat": 44.607914,
+    "lng": -94.083176
+  },
+  "contact": {
+    "phone": "(507) 317-3488",
+    "website": "https://rachaelaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1897912-a81e-4367-b632-355d08dc580e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

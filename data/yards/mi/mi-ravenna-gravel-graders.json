@@ -1,0 +1,36 @@
+{
+  "id": "mi-ravenna-gravel-graders",
+  "slug": "gravel-graders",
+  "name": "Gravel Graders",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4280 Truman Rd",
+    "city": "Ravenna",
+    "state": "MI",
+    "zip": "49451"
+  },
+  "location": {
+    "lat": 43.190781,
+    "lng": -85.8983
+  },
+  "contact": {
+    "phone": "(616) 402-2216",
+    "website": "http://www.gravelgraders.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3db4d9f-0540-4441-adb8-4dae3202264d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

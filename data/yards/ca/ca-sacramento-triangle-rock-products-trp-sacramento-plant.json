@@ -1,0 +1,41 @@
+{
+  "id": "ca-sacramento-triangle-rock-products-trp-sacramento-plant",
+  "slug": "triangle-rock-products-trp-sacramento-plant",
+  "name": "Triangle Rock Products – TRP-Sacramento Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95830"
+  },
+  "location": {
+    "lat": 38.500833,
+    "lng": -121.250833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404772"
+  },
+  "msha": [
+    {
+      "mine_id": "0404772",
+      "name": "TRP-Sacramento Plant",
+      "operator": "Triangle Rock Products",
+      "status": "Active",
+      "status_since": "1999-03-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

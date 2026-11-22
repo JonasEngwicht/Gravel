@@ -1,0 +1,36 @@
+{
+  "id": "nc-leland-jet-mulch",
+  "slug": "jet-mulch",
+  "name": "Jet Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9831-B Blackwell Rd SE",
+    "city": "Leland",
+    "state": "NC",
+    "zip": "28451"
+  },
+  "location": {
+    "lat": 34.222851,
+    "lng": -78.007156
+  },
+  "contact": {
+    "phone": "(472) 213-5274",
+    "website": "https://www.jetmulchwil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b2a3f787-e26b-4468-a186-89fe1e99603d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

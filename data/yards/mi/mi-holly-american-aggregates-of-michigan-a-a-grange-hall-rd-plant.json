@@ -1,0 +1,41 @@
+{
+  "id": "mi-holly-american-aggregates-of-michigan-a-a-grange-hall-rd-plant",
+  "slug": "american-aggregates-of-michigan-a-a-grange-hall-rd-plant",
+  "name": "American Aggregates of Michigan – A A Grange Hall Rd Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Holly",
+    "state": "MI",
+    "zip": "48442"
+  },
+  "location": {
+    "lat": 42.807222,
+    "lng": -83.549444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2001254"
+  },
+  "msha": [
+    {
+      "mine_id": "2001254",
+      "name": "A A Grange Hall Rd Plant",
+      "operator": "American Aggregates of Michigan Inc",
+      "status": "Active",
+      "status_since": "2019-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

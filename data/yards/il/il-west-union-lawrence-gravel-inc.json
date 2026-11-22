@@ -1,0 +1,48 @@
+{
+  "id": "il-west-union-lawrence-gravel-inc",
+  "slug": "lawrence-gravel-inc",
+  "name": "Lawrence Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21265 E Darwin Ferry Rd",
+    "city": "West Union",
+    "state": "IL",
+    "zip": "62477"
+  },
+  "location": {
+    "lat": 39.284733,
+    "lng": -87.623871
+  },
+  "contact": {
+    "phone": "(217) 826-2800",
+    "website": "http://lawrencegravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5e3d59bf-5ad5-4fdc-8631-0fb4fed1bc0f",
+    "confidence": 0.956,
+    "merged_records": 3
+  },
+  "msha": [
+    {
+      "mine_id": "1101884",
+      "name": "Lawrence Gravel, Inc.",
+      "operator": "Lawrence Gravel Inc",
+      "status": "Active",
+      "status_since": "2013-10-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

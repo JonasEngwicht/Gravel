@@ -1,0 +1,36 @@
+{
+  "id": "va-virginia-beach-landscape-supply-inc",
+  "slug": "landscape-supply-inc",
+  "name": "Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2573 Quality Ct",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23454"
+  },
+  "location": {
+    "lat": 36.819866,
+    "lng": -76.05191
+  },
+  "contact": {
+    "phone": "(757) 340-8873",
+    "website": "http://www.landscapesupplyva.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e0d21787-d96b-4f63-a1df-893aa89b1bda",
+    "confidence": 0.956,
+    "merged_records": 1
+  }
+}

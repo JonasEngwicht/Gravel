@@ -1,0 +1,36 @@
+{
+  "id": "or-grants-pass-copeland-landscape-supply",
+  "slug": "copeland-landscape-supply",
+  "name": "Copeland Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "695 SE J St",
+    "city": "Grants Pass",
+    "state": "OR",
+    "zip": "97526"
+  },
+  "location": {
+    "lat": 42.43446,
+    "lng": -123.318062
+  },
+  "contact": {
+    "phone": "(541) 476-4441",
+    "website": "http://www.copelandlandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c7448b94-605d-458d-b4cd-899cc686b0c4",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

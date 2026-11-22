@@ -1,0 +1,41 @@
+{
+  "id": "ar-avoca-apac-central-avoca-quarry-and-plant",
+  "slug": "apac-central-avoca-quarry-and-plant",
+  "name": "APAC-Central – Avoca Quarry & Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Avoca",
+    "state": "AR",
+    "zip": "72751"
+  },
+  "location": {
+    "lat": 36.400833,
+    "lng": -94.059167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0300437"
+  },
+  "msha": [
+    {
+      "mine_id": "0300437",
+      "name": "Avoca Quarry & Plant",
+      "operator": "APAC-Central, Inc",
+      "status": "Active",
+      "status_since": "2022-04-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

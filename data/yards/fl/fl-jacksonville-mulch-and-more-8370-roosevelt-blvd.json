@@ -1,0 +1,36 @@
+{
+  "id": "fl-jacksonville-mulch-and-more-8370-roosevelt-blvd",
+  "slug": "mulch-and-more-8370-roosevelt-blvd",
+  "name": "Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8370 Roosevelt Blvd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32244"
+  },
+  "location": {
+    "lat": 30.196747,
+    "lng": -81.708519
+  },
+  "contact": {
+    "phone": "(904) 215-2881",
+    "website": "https://mulchandmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a1996ae-2bdb-4866-8201-496ee7e1f1ed",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-waite-park-martin-marietta-materials-st-cloud-quarry",
+  "slug": "martin-marietta-materials-st-cloud-quarry",
+  "name": "Martin Marietta Materials – St. Cloud Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Waite Park",
+    "state": "MN",
+    "zip": "56303"
+  },
+  "location": {
+    "lat": 45.553333,
+    "lng": -94.233889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2100081"
+  },
+  "msha": [
+    {
+      "mine_id": "2100081",
+      "name": "St. Cloud Quarry",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Intermittent",
+      "status_since": "2018-07-26",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 35
+    }
+  ]
+}

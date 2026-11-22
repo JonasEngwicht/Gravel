@@ -1,0 +1,35 @@
+{
+  "id": "oh-west-chester-liberty-tree-and-mulch",
+  "slug": "liberty-tree-and-mulch",
+  "name": "Liberty Tree & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6101 Tylersville Rd",
+    "city": "West Chester",
+    "state": "OH",
+    "zip": "45069"
+  },
+  "location": {
+    "lat": 39.357265,
+    "lng": -84.420181
+  },
+  "contact": {
+    "phone": "(937) 450-1558"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7672bd1d-36cc-4371-b2ea-78d28d4a0761",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ny-oriskany-falls-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "1780 State Route 26",
+    "city": "Oriskany Falls",
+    "state": "NY",
+    "zip": "13425"
+  },
+  "location": {
+    "lat": 42.947746,
+    "lng": -75.478821
+  },
+  "contact": {
+    "phone": "(315) 469-3217",
+    "website": "http://www.lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc71475e-9132-45e6-b1ab-b7023aee70f9",
+    "confidence": 0.637,
+    "merged_records": 1
+  }
+}

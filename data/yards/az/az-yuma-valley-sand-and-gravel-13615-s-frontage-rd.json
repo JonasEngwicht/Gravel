@@ -1,0 +1,36 @@
+{
+  "id": "az-yuma-valley-sand-and-gravel-13615-s-frontage-rd",
+  "slug": "valley-sand-and-gravel-13615-s-frontage-rd",
+  "name": "Valley Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "13615 S Frontage Rd",
+    "city": "Yuma",
+    "state": "AZ",
+    "zip": "85367"
+  },
+  "location": {
+    "lat": 32.666271,
+    "lng": -114.398544
+  },
+  "contact": {
+    "phone": "(928) 342-3399",
+    "website": "https://www.valleysandandgravelinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4fd0e4ea-1437-4098-b7ae-1a60b1360d12",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

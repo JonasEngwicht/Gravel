@@ -1,0 +1,37 @@
+{
+  "id": "ga-conyers-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1630 Autumn Blvd NE",
+    "city": "Conyers",
+    "state": "GA",
+    "zip": "30012"
+  },
+  "location": {
+    "lat": 33.672501,
+    "lng": -83.98455
+  },
+  "contact": {
+    "phone": "(770) 860-1560",
+    "website": "https://www.siteone.com/store/742"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c94db2e8-8f16-4169-a722-d701287ed6fe",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

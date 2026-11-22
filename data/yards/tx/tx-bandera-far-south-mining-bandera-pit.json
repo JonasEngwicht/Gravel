@@ -1,0 +1,41 @@
+{
+  "id": "tx-bandera-far-south-mining-bandera-pit",
+  "slug": "far-south-mining-bandera-pit",
+  "name": "Far South Mining – Bandera Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bandera",
+    "state": "TX",
+    "zip": "78003"
+  },
+  "location": {
+    "lat": 29.740556,
+    "lng": -99.082222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103068"
+  },
+  "msha": [
+    {
+      "mine_id": "4103068",
+      "name": "Bandera Pit",
+      "operator": "Far South Mining LLC",
+      "status": "Active",
+      "status_since": "2025-12-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

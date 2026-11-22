@@ -1,0 +1,47 @@
+{
+  "id": "in-fort-wayne-clifford-aggregate-incorporated",
+  "slug": "clifford-aggregate-incorporated",
+  "name": "Clifford Aggregate Incorporated",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10808 Coldwater Rd Ste. 102",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46845"
+  },
+  "location": {
+    "lat": 41.181862,
+    "lng": -85.131348
+  },
+  "contact": {
+    "phone": "(888) 637-4518",
+    "website": "http://cliffordandsons.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "18588f82-a273-49fe-a8e9-d72a80946ea3",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1202271",
+      "name": "Portable #2",
+      "operator": "Clifford Aggregate Incorporated",
+      "status": "Abandoned",
+      "status_since": "2026-08-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

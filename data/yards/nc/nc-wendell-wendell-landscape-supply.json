@@ -1,0 +1,36 @@
+{
+  "id": "nc-wendell-wendell-landscape-supply",
+  "slug": "wendell-landscape-supply",
+  "name": "Wendell Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1027 Marshburn Rd",
+    "city": "Wendell",
+    "state": "NC",
+    "zip": "27591"
+  },
+  "location": {
+    "lat": 35.795837,
+    "lng": -78.375763
+  },
+  "contact": {
+    "phone": "(919) 366-9000",
+    "website": "http://wendelllandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "883b1484-2de8-4dda-ad55-5bf582c95873",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

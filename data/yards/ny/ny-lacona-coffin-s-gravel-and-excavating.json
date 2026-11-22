@@ -1,0 +1,36 @@
+{
+  "id": "ny-lacona-coffin-s-gravel-and-excavating",
+  "slug": "coffin-s-gravel-and-excavating",
+  "name": "Coffin's Gravel & Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "137 Cobb Dr",
+    "city": "Lacona",
+    "state": "NY",
+    "zip": "13083"
+  },
+  "location": {
+    "lat": 43.595215,
+    "lng": -76.042686
+  },
+  "contact": {
+    "phone": "(315) 447-2564",
+    "website": "http://coffinsgravelandexcavating.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71195e23-d52d-4e21-b5c3-5b876f2463e7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

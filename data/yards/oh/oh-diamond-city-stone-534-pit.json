@@ -1,0 +1,41 @@
+{
+  "id": "oh-diamond-city-stone-534-pit",
+  "slug": "city-stone-534-pit",
+  "name": "City Stone 534 Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Diamond",
+    "state": "OH",
+    "zip": "44429"
+  },
+  "location": {
+    "lat": 41.123056,
+    "lng": -80.955556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304815"
+  },
+  "msha": [
+    {
+      "mine_id": "3304815",
+      "name": "City Stone 534 Pit",
+      "operator": "City Stone LLC",
+      "status": "Intermittent",
+      "status_since": "2025-08-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "mn-maplewood-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1261 Hwy 36 E",
+    "city": "Maplewood",
+    "state": "MN",
+    "zip": "55109"
+  },
+  "location": {
+    "lat": 45.012943,
+    "lng": -93.047501
+  },
+  "contact": {
+    "phone": "(651) 484-5166",
+    "website": "https://www.siteone.com/store/530"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8031b9bf-0277-47c6-8675-f032af3962a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

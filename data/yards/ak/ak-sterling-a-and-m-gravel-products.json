@@ -1,0 +1,41 @@
+{
+  "id": "ak-sterling-a-and-m-gravel-products",
+  "slug": "a-and-m-gravel-products",
+  "name": "A&M Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sterling",
+    "state": "AK",
+    "zip": "99672"
+  },
+  "location": {
+    "lat": 60.545047,
+    "lng": -150.830105
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5002104"
+  },
+  "msha": [
+    {
+      "mine_id": "5002104",
+      "name": "A&M Gravel Pit",
+      "operator": "A&M Gravel Products, LLC",
+      "status": "Intermittent",
+      "status_since": "2023-07-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

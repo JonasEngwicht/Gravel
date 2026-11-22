@@ -1,0 +1,36 @@
+{
+  "id": "ct-stamford-west-stone-supply",
+  "slug": "west-stone-supply",
+  "name": "West Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "80 Harvard Ave",
+    "city": "Stamford",
+    "state": "CT",
+    "zip": "06902"
+  },
+  "location": {
+    "lat": 41.045551,
+    "lng": -73.560616
+  },
+  "contact": {
+    "phone": "(475) 619-9313",
+    "website": "http://weststonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "268b60e4-7899-432d-8744-35ed02d92451",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

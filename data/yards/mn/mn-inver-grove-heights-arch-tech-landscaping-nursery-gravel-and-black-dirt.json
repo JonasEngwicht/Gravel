@@ -1,0 +1,35 @@
+{
+  "id": "mn-inver-grove-heights-arch-tech-landscaping-nursery-gravel-and-black-dirt",
+  "slug": "arch-tech-landscaping-nursery-gravel-and-black-dirt",
+  "name": "Arch Tech Landscaping, Nursery, Gravel & Black Dirt",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1785 96th St E",
+    "city": "Inver Grove Heights",
+    "state": "MN",
+    "zip": "55077"
+  },
+  "location": {
+    "lat": 44.810894,
+    "lng": -93.069382
+  },
+  "contact": {
+    "phone": "(651) 450-9178"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9992ee6-2d97-4179-a7d4-2ed7956db9b9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-batavia-kipp-s-gravel-co",
+  "slug": "kipp-s-gravel-co",
+  "name": "Kipp's Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4987 State Route 222",
+    "city": "Batavia",
+    "state": "OH",
+    "zip": "45103"
+  },
+  "location": {
+    "lat": 39.112434,
+    "lng": -84.194717
+  },
+  "contact": {
+    "phone": "(513) 732-1024",
+    "website": "http://www.landscapingcincinnati.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90c733f3-fd4f-4cbe-80fe-42f003c4fd90",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

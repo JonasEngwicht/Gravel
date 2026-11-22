@@ -1,0 +1,36 @@
+{
+  "id": "tx-prosper-dfw-stone-supply-prosper",
+  "slug": "dfw-stone-supply-prosper",
+  "name": "DFW Stone Supply - Prosper",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4011 E University Dr",
+    "city": "Prosper",
+    "state": "TX",
+    "zip": "75071"
+  },
+  "location": {
+    "lat": 33.219139,
+    "lng": -96.739807
+  },
+  "contact": {
+    "phone": "(972) 310-1234",
+    "website": "http://dfwstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "016cedc5-762a-4d2d-99d6-7fa22cf95b27",
+    "confidence": 0.922,
+    "merged_records": 2
+  }
+}

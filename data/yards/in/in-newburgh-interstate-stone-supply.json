@@ -1,0 +1,36 @@
+{
+  "id": "in-newburgh-interstate-stone-supply",
+  "slug": "interstate-stone-supply",
+  "name": "Interstate Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5422 Covert Ct",
+    "city": "Newburgh",
+    "state": "IN",
+    "zip": "47630"
+  },
+  "location": {
+    "lat": 37.955719,
+    "lng": -87.446953
+  },
+  "contact": {
+    "phone": "(812) 858-9954",
+    "website": "http://interstatestonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "35041be6-4db8-4f9d-8533-ba8e5470dfc4",
+    "confidence": 0.856,
+    "merged_records": 1
+  }
+}

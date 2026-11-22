@@ -1,0 +1,37 @@
+{
+  "id": "il-pingree-grove-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "900 Bell Rd",
+    "city": "Pingree Grove",
+    "state": "IL",
+    "zip": "60140"
+  },
+  "location": {
+    "lat": 42.077923,
+    "lng": -88.441956
+  },
+  "contact": {
+    "phone": "(847) 426-0072",
+    "website": "https://www.siteone.com/en/store/22"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "60efddee-b562-4653-a3dd-0f0dc5f9e7d0",
+    "confidence": 0.978,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-midland-moriah-tfs-operations-llc-dba-thompson-materials-yates-pit",
+  "slug": "moriah-tfs-operations-llc-dba-thompson-materials-yates-pit",
+  "name": "MORIAH TFS OPERATIONS LLC dba Thompson Materials – Yates Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79783"
+  },
+  "location": {
+    "lat": 32.448611,
+    "lng": -101.976389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105678"
+  },
+  "msha": [
+    {
+      "mine_id": "4105678",
+      "name": "Yates Pit",
+      "operator": "MORIAH TFS OPERATIONS LLC dba Thompson Materials",
+      "status": "Intermittent",
+      "status_since": "2025-03-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

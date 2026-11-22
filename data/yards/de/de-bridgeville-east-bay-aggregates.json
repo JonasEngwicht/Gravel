@@ -1,0 +1,36 @@
+{
+  "id": "de-bridgeville-east-bay-aggregates",
+  "slug": "east-bay-aggregates",
+  "name": "East Bay Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8805 E Newton Rd",
+    "city": "Bridgeville",
+    "state": "DE",
+    "zip": "19933"
+  },
+  "location": {
+    "lat": 38.759262,
+    "lng": -75.589752
+  },
+  "contact": {
+    "phone": "(302) 858-2422",
+    "website": "http://www.eastbayag.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8e0eae78-e6a8-48cf-9f19-4428c87450e4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-davis-davis-ace-rock-yard",
+  "slug": "davis-ace-rock-yard",
+  "name": "Davis Ace Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "904 4th St",
+    "city": "Davis",
+    "state": "CA",
+    "zip": "95616"
+  },
+  "location": {
+    "lat": 38.546307,
+    "lng": -121.738007
+  },
+  "contact": {
+    "phone": "(530) 758-8000",
+    "website": "http://www.davisace.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d343a9b5-0be1-452b-9ea0-4c4bcc6daf2e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

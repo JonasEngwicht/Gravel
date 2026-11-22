@@ -1,0 +1,35 @@
+{
+  "id": "wi-waterford-lang-s-landscaping-materials",
+  "slug": "lang-s-landscaping-materials",
+  "name": "Lang's Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8323 Big Bend Rd",
+    "city": "Waterford",
+    "state": "WI",
+    "zip": "53185"
+  },
+  "location": {
+    "lat": 42.833805,
+    "lng": -88.197769
+  },
+  "contact": {
+    "phone": "(262) 895-2720"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "48d5af9d-9841-47c2-8f2b-7aad9935d10b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

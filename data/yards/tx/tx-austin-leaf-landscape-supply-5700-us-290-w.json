@@ -1,0 +1,36 @@
+{
+  "id": "tx-austin-leaf-landscape-supply-5700-us-290-w",
+  "slug": "leaf-landscape-supply-5700-us-290-w",
+  "name": "Leaf Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5700 US-290 W",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78735"
+  },
+  "location": {
+    "lat": 30.237034,
+    "lng": -97.845436
+  },
+  "contact": {
+    "phone": "(512) 288-5900",
+    "website": "http://www.leaflandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d86207b0-1b2d-4c8a-b35c-c1e316a42b7a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

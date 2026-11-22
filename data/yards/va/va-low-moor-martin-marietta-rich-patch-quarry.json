@@ -1,0 +1,41 @@
+{
+  "id": "va-low-moor-martin-marietta-rich-patch-quarry",
+  "slug": "martin-marietta-rich-patch-quarry",
+  "name": "Martin Marietta - Rich Patch Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Low Moor",
+    "state": "VA",
+    "zip": "24457"
+  },
+  "location": {
+    "lat": 37.773889,
+    "lng": -79.894722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406897"
+  },
+  "msha": [
+    {
+      "mine_id": "4406897",
+      "name": "Martin Marietta - Rich Patch Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1997-12-09",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

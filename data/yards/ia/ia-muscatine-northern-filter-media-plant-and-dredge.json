@@ -1,0 +1,41 @@
+{
+  "id": "ia-muscatine-northern-filter-media-plant-and-dredge",
+  "slug": "northern-filter-media-plant-and-dredge",
+  "name": "Northern Filter Media Plant & Dredge",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Muscatine",
+    "state": "IA",
+    "zip": "52749"
+  },
+  "location": {
+    "lat": 41.374491,
+    "lng": -91.075917
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300733"
+  },
+  "msha": [
+    {
+      "mine_id": "1300733",
+      "name": "Northern Filter Media Plant & Dredge",
+      "operator": "Northern Filter Media, Inc",
+      "status": "Active",
+      "status_since": "1985-05-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

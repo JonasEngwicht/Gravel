@@ -1,0 +1,41 @@
+{
+  "id": "fl-clewiston-seminole-tribe-of-florida-big-cypress-rock-mine",
+  "slug": "seminole-tribe-of-florida-big-cypress-rock-mine",
+  "name": "Seminole Tribe of Florida – Big Cypress Rock Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Clewiston",
+    "state": "FL",
+    "zip": "33493"
+  },
+  "location": {
+    "lat": 26.318056,
+    "lng": -80.856944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801407"
+  },
+  "msha": [
+    {
+      "mine_id": "0801407",
+      "name": "Big Cypress Rock Mine",
+      "operator": "Seminole Tribe of Florida",
+      "status": "Active",
+      "status_since": "2016-11-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

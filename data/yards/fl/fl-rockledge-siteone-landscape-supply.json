@@ -1,0 +1,37 @@
+{
+  "id": "fl-rockledge-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "540 Gus Hipp Blvd",
+    "city": "Rockledge",
+    "state": "FL",
+    "zip": "32955"
+  },
+  "location": {
+    "lat": 28.304661,
+    "lng": -80.719627
+  },
+  "contact": {
+    "phone": "(321) 638-3510",
+    "website": "https://www.siteone.com/store/566"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a1120a58-c86c-49d0-90a3-b754b182f1d7",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

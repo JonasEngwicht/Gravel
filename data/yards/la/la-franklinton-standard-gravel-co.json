@@ -1,0 +1,48 @@
+{
+  "id": "la-franklinton-standard-gravel-co",
+  "slug": "standard-gravel-co",
+  "name": "Standard Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "20175 LA-16",
+    "city": "Franklinton",
+    "state": "LA",
+    "zip": "70438"
+  },
+  "location": {
+    "lat": 30.811079,
+    "lng": -90.144112
+  },
+  "contact": {
+    "phone": "(985) 839-3442",
+    "website": "http://www.aceflowersoc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6db05448-3aa3-4049-bcea-5e965d39d442",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1601446",
+      "name": "Skeet Club Plant",
+      "operator": "Standard Gravel Company Inc",
+      "status": "Abandoned",
+      "status_since": "2009-06-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

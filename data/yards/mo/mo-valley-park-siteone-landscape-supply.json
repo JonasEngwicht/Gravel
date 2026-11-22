@@ -1,0 +1,37 @@
+{
+  "id": "mo-valley-park-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "106 S Elam Ave",
+    "city": "Valley Park",
+    "state": "MO",
+    "zip": "63088"
+  },
+  "location": {
+    "lat": 38.54073,
+    "lng": -90.497162
+  },
+  "contact": {
+    "phone": "(636) 923-2120",
+    "website": "https://www.siteone.com/en/store-finder"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d3df389-d3ad-45be-b05b-a5885e2215a6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

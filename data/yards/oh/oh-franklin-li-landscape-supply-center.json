@@ -1,0 +1,36 @@
+{
+  "id": "oh-franklin-li-landscape-supply-center",
+  "slug": "li-landscape-supply-center",
+  "name": "LI Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3412 Pennyroyal Rd",
+    "city": "Franklin",
+    "state": "OH",
+    "zip": "45005"
+  },
+  "location": {
+    "lat": 39.580299,
+    "lng": -84.257843
+  },
+  "contact": {
+    "phone": "(937) 748-9431",
+    "website": "http://www.lawnimpressionsllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1806d1f-c517-435a-8b5d-996787166355",
+    "confidence": 0.976,
+    "merged_records": 1
+  }
+}

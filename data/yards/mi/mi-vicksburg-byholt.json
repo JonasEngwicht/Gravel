@@ -1,0 +1,41 @@
+{
+  "id": "mi-vicksburg-byholt",
+  "slug": "byholt",
+  "name": "Byholt",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Vicksburg",
+    "state": "MI",
+    "zip": "49087"
+  },
+  "location": {
+    "lat": 42.155045,
+    "lng": -85.725992
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2002909"
+  },
+  "msha": [
+    {
+      "mine_id": "2002909",
+      "name": "Byholt Sand & Gravel",
+      "operator": "Byholt Inc",
+      "status": "Intermittent",
+      "status_since": "1993-10-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

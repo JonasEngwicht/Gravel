@@ -1,0 +1,35 @@
+{
+  "id": "ms-hazlehurst-baldwin-sand-and-gravel",
+  "slug": "baldwin-sand-and-gravel",
+  "name": "Baldwin Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11060 Highway 28",
+    "city": "Hazlehurst",
+    "state": "MS",
+    "zip": "39083"
+  },
+  "location": {
+    "lat": 31.751404,
+    "lng": -90.59024
+  },
+  "contact": {
+    "phone": "(601) 277-3766"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee885c95-1041-4fbb-9c36-c5baabf0741d",
+    "confidence": 0.534,
+    "merged_records": 1
+  }
+}

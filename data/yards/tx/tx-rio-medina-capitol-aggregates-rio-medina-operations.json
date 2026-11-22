@@ -1,0 +1,41 @@
+{
+  "id": "tx-rio-medina-capitol-aggregates-rio-medina-operations",
+  "slug": "capitol-aggregates-rio-medina-operations",
+  "name": "Capitol Aggregates – Rio Medina Operations",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Rio Medina",
+    "state": "TX",
+    "zip": "78056"
+  },
+  "location": {
+    "lat": 29.481111,
+    "lng": -98.985556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105278"
+  },
+  "msha": [
+    {
+      "mine_id": "4105278",
+      "name": "Rio Medina Operations",
+      "operator": "Capitol Aggregates Inc",
+      "status": "Active",
+      "status_since": "2017-10-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

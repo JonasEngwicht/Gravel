@@ -1,0 +1,41 @@
+{
+  "id": "wa-northport-hemphill-brothers-northport-limestone",
+  "slug": "hemphill-brothers-northport-limestone",
+  "name": "Hemphill Brothers – Northport Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Northport",
+    "state": "WA",
+    "zip": "99157"
+  },
+  "location": {
+    "lat": 48.895,
+    "lng": -117.798333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4500064"
+  },
+  "msha": [
+    {
+      "mine_id": "4500064",
+      "name": "Northport Limestone",
+      "operator": "Hemphill Brothers Inc",
+      "status": "Intermittent",
+      "status_since": "2012-10-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

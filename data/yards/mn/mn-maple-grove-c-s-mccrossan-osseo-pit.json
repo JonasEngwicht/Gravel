@@ -1,0 +1,41 @@
+{
+  "id": "mn-maple-grove-c-s-mccrossan-osseo-pit",
+  "slug": "c-s-mccrossan-osseo-pit",
+  "name": "C S McCrossan – Osseo Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Maple Grove",
+    "state": "MN",
+    "zip": "55445"
+  },
+  "location": {
+    "lat": 45.097599,
+    "lng": -93.403163
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2100486"
+  },
+  "msha": [
+    {
+      "mine_id": "2100486",
+      "name": "Osseo Pit",
+      "operator": "C S McCrossan",
+      "status": "Intermittent",
+      "status_since": "1980-07-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 27
+    }
+  ]
+}

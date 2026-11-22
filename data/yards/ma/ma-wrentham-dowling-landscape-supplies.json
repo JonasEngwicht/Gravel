@@ -1,0 +1,36 @@
+{
+  "id": "ma-wrentham-dowling-landscape-supplies",
+  "slug": "dowling-landscape-supplies",
+  "name": "Dowling Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "713 Dedham St",
+    "city": "Wrentham",
+    "state": "MA",
+    "zip": "02093"
+  },
+  "location": {
+    "lat": 42.085613,
+    "lng": -71.30632
+  },
+  "contact": {
+    "phone": "(508) 384-7617",
+    "website": "http://www.dowlinglandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ba81a83-b52c-4910-865f-c40712ef8838",
+    "confidence": 0.967,
+    "merged_records": 1
+  }
+}

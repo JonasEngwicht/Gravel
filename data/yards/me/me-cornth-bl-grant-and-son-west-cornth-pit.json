@@ -1,0 +1,41 @@
+{
+  "id": "me-cornth-bl-grant-and-son-west-cornth-pit",
+  "slug": "bl-grant-and-son-west-cornth-pit",
+  "name": "BL Grant & Son – West Cornth pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cornth",
+    "state": "ME",
+    "zip": "04462"
+  },
+  "location": {
+    "lat": 46.060278,
+    "lng": -69.116944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701185"
+  },
+  "msha": [
+    {
+      "mine_id": "1701185",
+      "name": "West Cornth pit",
+      "operator": "BL Grant & Son",
+      "status": "Intermittent",
+      "status_since": "2026-05-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-lebanon-merrick-sand-and-gravel-llc",
+  "slug": "merrick-sand-and-gravel-llc",
+  "name": "Merrick Sand & Gravel, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "201 Iron Valley Dr",
+    "city": "Lebanon",
+    "state": "PA",
+    "zip": "17042"
+  },
+  "location": {
+    "lat": 40.270535,
+    "lng": -76.385017
+  },
+  "contact": {
+    "phone": "(717) 279-7409",
+    "website": "https://www.merricksag.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4c9febc-2024-44ae-a6b7-752f042f6464",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

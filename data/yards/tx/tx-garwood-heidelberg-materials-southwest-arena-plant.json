@@ -1,0 +1,41 @@
+{
+  "id": "tx-garwood-heidelberg-materials-southwest-arena-plant",
+  "slug": "heidelberg-materials-southwest-arena-plant",
+  "name": "Heidelberg Materials Southwest – Arena Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Garwood",
+    "state": "TX",
+    "zip": "78938"
+  },
+  "location": {
+    "lat": 29.835556,
+    "lng": -96.742222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4101495"
+  },
+  "msha": [
+    {
+      "mine_id": "4101495",
+      "name": "Arena Plant",
+      "operator": "Heidelberg Materials Southwest LLC",
+      "status": "Active",
+      "status_since": "1973-08-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 28
+    }
+  ]
+}

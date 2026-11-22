@@ -1,0 +1,41 @@
+{
+  "id": "mi-potterville-crandell-bros-trucking-nixon-road",
+  "slug": "crandell-bros-trucking-nixon-road",
+  "name": "Crandell Bros. Trucking – Nixon Road",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Potterville",
+    "state": "MI",
+    "zip": "48876"
+  },
+  "location": {
+    "lat": 42.674444,
+    "lng": -84.705
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003552"
+  },
+  "msha": [
+    {
+      "mine_id": "2003552",
+      "name": "Nixon Road",
+      "operator": "Crandell Bros. Trucking Co.",
+      "status": "Active",
+      "status_since": "2019-04-15",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

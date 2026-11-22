@@ -1,0 +1,41 @@
+{
+  "id": "id-rathdrum-interstate-concrete-and-asphalt-wyoming-facility",
+  "slug": "interstate-concrete-and-asphalt-wyoming-facility",
+  "name": "Interstate Concrete and Asphalt – Wyoming Facility",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Rathdrum",
+    "state": "ID",
+    "zip": "83854"
+  },
+  "location": {
+    "lat": 47.773889,
+    "lng": -116.904722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1001912"
+  },
+  "msha": [
+    {
+      "mine_id": "1001912",
+      "name": "Wyoming Facility",
+      "operator": "Interstate Concrete and Asphalt Company",
+      "status": "Intermittent",
+      "status_since": "2023-12-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

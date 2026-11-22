@@ -1,0 +1,41 @@
+{
+  "id": "pa-deckers-point-abm-mining-co-stitt",
+  "slug": "abm-mining-co-stitt",
+  "name": "ABM Mining Co – Stitt",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Deckers Point",
+    "state": "PA",
+    "zip": "15741"
+  },
+  "location": {
+    "lat": 40.79,
+    "lng": -78.917222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608825"
+  },
+  "msha": [
+    {
+      "mine_id": "3608825",
+      "name": "Stitt",
+      "operator": "ABM Mining Co. Inc",
+      "status": "Active",
+      "status_since": "2001-10-29",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

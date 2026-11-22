@@ -1,0 +1,36 @@
+{
+  "id": "ca-hollister-sbs-concrete-aggregate-supplies-1060-nash-rd",
+  "slug": "sbs-concrete-aggregate-supplies-1060-nash-rd",
+  "name": "SBS Concrete Aggregate Supplies",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1060 Nash Rd",
+    "city": "Hollister",
+    "state": "CA",
+    "zip": "95023"
+  },
+  "location": {
+    "lat": 36.852451,
+    "lng": -121.401604
+  },
+  "contact": {
+    "phone": "(831) 637-5526",
+    "website": "https://www.sbs-cas.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27e0433f-09dc-4cd2-9c90-5fb41e12557a",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

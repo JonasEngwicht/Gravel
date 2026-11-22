@@ -1,0 +1,35 @@
+{
+  "id": "ok-ardmore-miller-sand-and-gravel",
+  "slug": "miller-sand-and-gravel",
+  "name": "Miller Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "604 Industrial Ave",
+    "city": "Ardmore",
+    "state": "OK",
+    "zip": "73401"
+  },
+  "location": {
+    "lat": 34.201675,
+    "lng": -97.114037
+  },
+  "contact": {
+    "phone": "(580) 229-7105"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "287ee0c7-9828-4c2e-8b76-6c1ec2871108",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

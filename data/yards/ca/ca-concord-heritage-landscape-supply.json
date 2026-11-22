@@ -1,0 +1,37 @@
+{
+  "id": "ca-concord-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "1260 Diamond Way  Ste A",
+    "city": "Concord",
+    "state": "CA",
+    "zip": "94520"
+  },
+  "location": {
+    "lat": 37.966434,
+    "lng": -122.051445
+  },
+  "contact": {
+    "phone": "(925) 771-8165",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1737779-c92b-444c-959a-822295130d05",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

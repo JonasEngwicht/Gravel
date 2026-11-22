@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-designer-stone-center",
+  "slug": "designer-stone-center",
+  "name": "Designer Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "11811 Brittmoore Park Dr",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77041"
+  },
+  "location": {
+    "lat": 29.851147,
+    "lng": -95.585785
+  },
+  "contact": {
+    "phone": "(713) 862-0120",
+    "website": "https://www.designerstonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ec13e4b-bdeb-4c4b-a986-d3bb3d5a9410",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

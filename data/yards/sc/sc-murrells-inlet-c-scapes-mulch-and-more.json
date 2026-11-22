@@ -1,0 +1,36 @@
+{
+  "id": "sc-murrells-inlet-c-scapes-mulch-and-more",
+  "slug": "c-scapes-mulch-and-more",
+  "name": "C-Scapes Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5152 US-17 BUS",
+    "city": "Murrells Inlet",
+    "state": "SC",
+    "zip": "29576"
+  },
+  "location": {
+    "lat": 33.534031,
+    "lng": -79.057205
+  },
+  "contact": {
+    "phone": "(843) 457-0076",
+    "website": "https://c-scapes-mulch-more-llc.square.site/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77c4a3b7-86c7-498e-a9d5-67d805395f4a",
+    "confidence": 0.983,
+    "merged_records": 1
+  }
+}

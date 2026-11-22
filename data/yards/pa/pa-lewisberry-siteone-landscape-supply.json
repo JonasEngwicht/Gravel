@@ -1,0 +1,37 @@
+{
+  "id": "pa-lewisberry-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "590 Industrial Dr, Receiving doors #13-15",
+    "city": "Lewisberry",
+    "state": "PA",
+    "zip": "17339"
+  },
+  "location": {
+    "lat": 40.169998,
+    "lng": -76.844765
+  },
+  "contact": {
+    "phone": "(717) 938-8844",
+    "website": "https://www.siteone.com/store/816"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c061b628-564a-4e9e-a996-7b2f145373b9",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

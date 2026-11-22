@@ -1,0 +1,41 @@
+{
+  "id": "ca-indio-coachella-valley-aggregates",
+  "slug": "coachella-valley-aggregates",
+  "name": "Coachella Valley Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Indio",
+    "state": "CA",
+    "zip": "92236"
+  },
+  "location": {
+    "lat": 33.753056,
+    "lng": -116.126944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405365"
+  },
+  "msha": [
+    {
+      "mine_id": "0405365",
+      "name": "Coachella Valley Aggregate",
+      "operator": "Coachella Valley Aggregates Inc",
+      "status": "Active",
+      "status_since": "2004-03-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

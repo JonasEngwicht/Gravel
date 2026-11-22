@@ -1,0 +1,41 @@
+{
+  "id": "ne-waterloo-two-rivers-sand-and-gravel",
+  "slug": "two-rivers-sand-and-gravel",
+  "name": "Two Rivers Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Waterloo",
+    "state": "NE",
+    "zip": "68069"
+  },
+  "location": {
+    "lat": 41.276389,
+    "lng": -96.332778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2501268"
+  },
+  "msha": [
+    {
+      "mine_id": "2501268",
+      "name": "Two Rivers Sand & Gravel",
+      "operator": "Two Rivers Sand & Gravel",
+      "status": "Active",
+      "status_since": "2024-10-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

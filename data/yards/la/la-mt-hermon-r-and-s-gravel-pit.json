@@ -1,0 +1,47 @@
+{
+  "id": "la-mt-hermon-r-and-s-gravel-pit",
+  "slug": "r-and-s-gravel-pit",
+  "name": "R & S Gravel Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "28314 River Rd",
+    "city": "Mt Hermon",
+    "state": "LA",
+    "zip": "70450"
+  },
+  "location": {
+    "lat": 30.93078,
+    "lng": -90.215317
+  },
+  "contact": {
+    "phone": "(985) 515-9628"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79f944ee-40f8-4aa5-b127-a1ccb30f3ba6",
+    "confidence": 0.805,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1601574",
+      "name": "River Road",
+      "operator": "KSB Holdings LLC dba A-1 Aggregates",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

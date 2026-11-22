@@ -1,0 +1,36 @@
+{
+  "id": "nc-morrisville-stone-center-landscape-and-masonry",
+  "slug": "stone-center-landscape-and-masonry",
+  "name": "Stone Center - Landscape & Masonry",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6515 Apex Hwy",
+    "city": "Morrisville",
+    "state": "NC",
+    "zip": "27713"
+  },
+  "location": {
+    "lat": 35.870144,
+    "lng": -78.89138
+  },
+  "contact": {
+    "phone": "(919) 361-4925",
+    "website": "https://www.thestonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc481825-436f-470a-abbe-e32e630ce300",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

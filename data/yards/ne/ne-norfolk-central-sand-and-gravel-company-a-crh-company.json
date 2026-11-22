@@ -1,0 +1,48 @@
+{
+  "id": "ne-norfolk-central-sand-and-gravel-company-a-crh-company",
+  "slug": "central-sand-and-gravel-company-a-crh-company",
+  "name": "Central Sand & Gravel Company, A CRH Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3600 S Victory Rd",
+    "city": "Norfolk",
+    "state": "NE",
+    "zip": "68701"
+  },
+  "location": {
+    "lat": 42.004761,
+    "lng": -97.387573
+  },
+  "contact": {
+    "phone": "(402) 371-8777",
+    "website": "http://www.lymanrichey.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d5582da-98e9-4cf8-8395-e4222a0b2018",
+    "confidence": 0.966,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2500223",
+      "name": "Reese Pit #86",
+      "operator": "Lyman Richey Corp dba Central S&G Co.",
+      "status": "Active",
+      "status_since": "2025-08-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

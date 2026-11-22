@@ -1,0 +1,35 @@
+{
+  "id": "mo-miller-double-eagle-aggregates-co-inc",
+  "slug": "double-eagle-aggregates-co-inc",
+  "name": "Double Eagle Aggregates Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3850 Lawrence 1177",
+    "city": "Miller",
+    "state": "MO",
+    "zip": "65707"
+  },
+  "location": {
+    "lat": 37.198475,
+    "lng": -93.797424
+  },
+  "contact": {
+    "phone": "(417) 767-2900"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ca84ce6-6f77-426c-9031-1e8906a8b9b2",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

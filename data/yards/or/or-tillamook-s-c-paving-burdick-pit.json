@@ -1,0 +1,41 @@
+{
+  "id": "or-tillamook-s-c-paving-burdick-pit",
+  "slug": "s-c-paving-burdick-pit",
+  "name": "S-C Paving – Burdick Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Tillamook",
+    "state": "OR",
+    "zip": "97141"
+  },
+  "location": {
+    "lat": 45.442222,
+    "lng": -123.765833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3500711"
+  },
+  "msha": [
+    {
+      "mine_id": "3500711",
+      "name": "Burdick Pit",
+      "operator": "S-C Paving Co",
+      "status": "Intermittent",
+      "status_since": "2019-08-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

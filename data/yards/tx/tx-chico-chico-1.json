@@ -1,0 +1,41 @@
+{
+  "id": "tx-chico-chico-1",
+  "slug": "chico-1",
+  "name": "Chico 1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Chico",
+    "state": "TX",
+    "zip": "76431"
+  },
+  "location": {
+    "lat": 33.291667,
+    "lng": -97.778889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105110"
+  },
+  "msha": [
+    {
+      "mine_id": "4105110",
+      "name": "Chico 1",
+      "operator": "P&K Stone, LLC",
+      "status": "Active",
+      "status_since": "2015-10-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-juan-capistrano-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "33012 Calle Aviador",
+    "city": "San Juan Capistrano",
+    "state": "CA",
+    "zip": "92675"
+  },
+  "location": {
+    "lat": 33.483463,
+    "lng": -117.673904
+  },
+  "contact": {
+    "phone": "(949) 496-1998",
+    "website": "https://www.siteone.com/store/129"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8daad1d2-d846-4185-a068-6dad54fe3d06",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

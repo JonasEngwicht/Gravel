@@ -1,0 +1,41 @@
+{
+  "id": "la-denham-springs-louisiana-aggregate-materials-2019",
+  "slug": "louisiana-aggregate-materials-2019",
+  "name": "Louisiana Aggregate Materials 2019",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Denham Springs",
+    "state": "LA",
+    "zip": "70706"
+  },
+  "location": {
+    "lat": 30.607222,
+    "lng": -90.9075
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601606"
+  },
+  "msha": [
+    {
+      "mine_id": "1601606",
+      "name": "L.A.M.I. #2",
+      "operator": "Louisiana Aggregate Materials 2019, LLC",
+      "status": "Active",
+      "status_since": "2021-10-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

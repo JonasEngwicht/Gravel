@@ -1,0 +1,41 @@
+{
+  "id": "az-coolidge-calportland-diablo-plant-136",
+  "slug": "calportland-diablo-plant-136",
+  "name": "CalPortland – Diablo Plant # 136",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Coolidge",
+    "state": "AZ",
+    "zip": "85128"
+  },
+  "location": {
+    "lat": 33.022222,
+    "lng": -111.542778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203350"
+  },
+  "msha": [
+    {
+      "mine_id": "0203350",
+      "name": "Diablo Plant # 136",
+      "operator": "CalPortland Company",
+      "status": "Active",
+      "status_since": "2016-12-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

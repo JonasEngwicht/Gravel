@@ -1,0 +1,48 @@
+{
+  "id": "mi-fenton-bentley-sand-and-gravel-concrete-recycling",
+  "slug": "bentley-sand-and-gravel-concrete-recycling",
+  "name": "Bentley Sand & Gravel / Concrete Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9220 Bennett Lake Rd",
+    "city": "Fenton",
+    "state": "MI",
+    "zip": "48430"
+  },
+  "location": {
+    "lat": 42.77668,
+    "lng": -83.778442
+  },
+  "contact": {
+    "phone": "(810) 629-6172",
+    "website": "http://www.bentleysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "737db93e-15ef-4b30-a5a8-a19edc8d59e3",
+    "confidence": 0.751,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2000673",
+      "name": "Bentley Sand & Gravel Organic Soil",
+      "operator": "Bentley Sand & Gravel Company/Organic Soil Co",
+      "status": "Intermittent",
+      "status_since": "2019-07-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

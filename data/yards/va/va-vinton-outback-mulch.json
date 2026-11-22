@@ -1,0 +1,36 @@
+{
+  "id": "va-vinton-outback-mulch",
+  "slug": "outback-mulch",
+  "name": "Outback Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "17750 Stewartsville Rd",
+    "city": "Vinton",
+    "state": "VA",
+    "zip": "24179"
+  },
+  "location": {
+    "lat": 37.283367,
+    "lng": -79.840721
+  },
+  "contact": {
+    "phone": "(540) 890-8801",
+    "website": "http://www.outbackmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e6a1ba93-92d5-45a3-9994-1004a0cdcea2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

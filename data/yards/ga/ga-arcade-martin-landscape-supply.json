@@ -1,0 +1,36 @@
+{
+  "id": "ga-arcade-martin-landscape-supply",
+  "slug": "martin-landscape-supply",
+  "name": "Martin Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "577 Arcade Park St",
+    "city": "Arcade",
+    "state": "GA",
+    "zip": "30549"
+  },
+  "location": {
+    "lat": 34.07782,
+    "lng": -83.572823
+  },
+  "contact": {
+    "phone": "(706) 367-2903",
+    "website": "http://martinlandscapesupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da235998-3101-4414-a13f-cfb3a9455c4b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

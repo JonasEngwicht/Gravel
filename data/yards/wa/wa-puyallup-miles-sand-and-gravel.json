@@ -1,0 +1,36 @@
+{
+  "id": "wa-puyallup-miles-sand-and-gravel",
+  "slug": "miles-sand-and-gravel",
+  "name": "Miles Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "400 Valley Ave NE",
+    "city": "Puyallup",
+    "state": "WA",
+    "zip": "98372"
+  },
+  "location": {
+    "lat": 47.205051,
+    "lng": -122.28952
+  },
+  "contact": {
+    "phone": "(253) 833-3705",
+    "website": "http://www.miles.rocks/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6043d4c2-a8fb-4439-9da1-e366548518ee",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ga-gainesville-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "2955 Candler Rd",
+    "city": "Gainesville",
+    "state": "GA",
+    "zip": "30507"
+  },
+  "location": {
+    "lat": 34.197437,
+    "lng": -83.771172
+  },
+  "contact": {
+    "phone": "(770) 531-0628",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "caad50d8-2f19-4263-8cd9-a4110f90ea12",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

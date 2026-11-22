@@ -1,0 +1,41 @@
+{
+  "id": "mt-harlowton-montana-frontier-sandstone-jones-quarry",
+  "slug": "montana-frontier-sandstone-jones-quarry",
+  "name": "Montana Frontier Sandstone – Jones Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Harlowton",
+    "state": "MT",
+    "zip": "59024"
+  },
+  "location": {
+    "lat": 46.383889,
+    "lng": -107.611944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402742"
+  },
+  "msha": [
+    {
+      "mine_id": "2402742",
+      "name": "Jones Quarry",
+      "operator": "Montana Frontier Sandstone",
+      "status": "Active",
+      "status_since": "2023-12-18",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

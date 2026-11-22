@@ -1,0 +1,35 @@
+{
+  "id": "co-fort-morgan-builders-aggregate-co-inc",
+  "slug": "builders-aggregate-co-inc",
+  "name": "Builders Aggregate Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18825 Highway 52",
+    "city": "Fort Morgan",
+    "state": "CO",
+    "zip": "80701"
+  },
+  "location": {
+    "lat": 40.271908,
+    "lng": -103.801292
+  },
+  "contact": {
+    "phone": "(970) 867-6334"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e6b743fe-6814-4780-a0cf-a8b075e28216",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

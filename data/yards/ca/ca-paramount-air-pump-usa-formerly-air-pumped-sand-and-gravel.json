@@ -1,0 +1,36 @@
+{
+  "id": "ca-paramount-air-pump-usa-formerly-air-pumped-sand-and-gravel",
+  "slug": "air-pump-usa-formerly-air-pumped-sand-and-gravel",
+  "name": "Air Pump Usa (formerly: Air Pumped Sand & Gravel)",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7045 Jackson St",
+    "city": "Paramount",
+    "state": "CA",
+    "zip": "90723"
+  },
+  "location": {
+    "lat": 33.885754,
+    "lng": -118.176102
+  },
+  "contact": {
+    "phone": "(877) 707-1247",
+    "website": "https://airpumpusa.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c865d141-9e34-4fd9-b92e-2e20208fe0d4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

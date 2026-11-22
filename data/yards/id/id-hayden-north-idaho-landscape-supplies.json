@@ -1,0 +1,36 @@
+{
+  "id": "id-hayden-north-idaho-landscape-supplies",
+  "slug": "north-idaho-landscape-supplies",
+  "name": "North Idaho Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11631 N Government Wy",
+    "city": "Hayden",
+    "state": "ID",
+    "zip": "83835"
+  },
+  "location": {
+    "lat": 47.776974,
+    "lng": -116.786591
+  },
+  "contact": {
+    "phone": "(208) 772-1883",
+    "website": "https://nilandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d4d69be-9e1d-4086-a3f9-533d9779c405",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

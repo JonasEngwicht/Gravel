@@ -1,0 +1,36 @@
+{
+  "id": "il-elk-grove-village-levantina-usa-chicago-stone-center",
+  "slug": "levantina-usa-chicago-stone-center",
+  "name": "Levantina USA Chicago Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "850 E Devon Ave",
+    "city": "Elk Grove Village",
+    "state": "IL",
+    "zip": "60007"
+  },
+  "location": {
+    "lat": 41.993149,
+    "lng": -87.974197
+  },
+  "contact": {
+    "phone": "(630) 361-6600",
+    "website": "http://www.levantina.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd9d2517-8b5c-466f-95a6-46286f464a66",
+    "confidence": 0.848,
+    "merged_records": 1
+  }
+}

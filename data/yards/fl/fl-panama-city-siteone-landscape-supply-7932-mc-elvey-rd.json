@@ -1,0 +1,37 @@
+{
+  "id": "fl-panama-city-siteone-landscape-supply-7932-mc-elvey-rd",
+  "slug": "siteone-landscape-supply-7932-mc-elvey-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7932 MC Elvey Rd",
+    "city": "Panama City",
+    "state": "FL",
+    "zip": "32408"
+  },
+  "location": {
+    "lat": 30.181084,
+    "lng": -85.765961
+  },
+  "contact": {
+    "phone": "(850) 763-5553",
+    "website": "https://www.siteone.com/store/63"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14944efa-622b-4b9a-90bb-c72904003927",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

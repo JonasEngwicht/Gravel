@@ -1,0 +1,36 @@
+{
+  "id": "sc-myrtle-beach-mulch-bucket",
+  "slug": "mulch-bucket",
+  "name": "Mulch Bucket",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "384 Hospitality Ln",
+    "city": "Myrtle Beach",
+    "state": "SC",
+    "zip": "29579"
+  },
+  "location": {
+    "lat": 33.747211,
+    "lng": -78.956787
+  },
+  "contact": {
+    "phone": "(843) 903-5656",
+    "website": "https://mulchbucket.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1283f545-a100-473f-a9cc-35d52f6a5319",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

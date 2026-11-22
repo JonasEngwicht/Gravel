@@ -1,0 +1,41 @@
+{
+  "id": "tn-oliver-springs-rogers-group-oliver-springs-sand-pit",
+  "slug": "rogers-group-oliver-springs-sand-pit",
+  "name": "Rogers Group – Oliver Springs Sand Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Oliver Springs",
+    "state": "TN",
+    "zip": "37719"
+  },
+  "location": {
+    "lat": 35.998889,
+    "lng": -84.409444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4001376"
+  },
+  "msha": [
+    {
+      "mine_id": "4001376",
+      "name": "Oliver Springs Sand Pit",
+      "operator": "Rogers Group Inc",
+      "status": "Active",
+      "status_since": "2026-03-06",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

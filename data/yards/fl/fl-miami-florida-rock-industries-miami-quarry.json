@@ -1,0 +1,41 @@
+{
+  "id": "fl-miami-florida-rock-industries-miami-quarry",
+  "slug": "florida-rock-industries-miami-quarry",
+  "name": "Florida Rock Industries – Miami Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33182"
+  },
+  "location": {
+    "lat": 25.796944,
+    "lng": -80.386667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0800335"
+  },
+  "msha": [
+    {
+      "mine_id": "0800335",
+      "name": "Miami Quarry",
+      "operator": "Florida Rock Industries Inc",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 91
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-pecos-capitol-aggregates-inc",
+  "slug": "capitol-aggregates-inc",
+  "name": "Capitol Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7001 TX-17",
+    "city": "Pecos",
+    "state": "TX",
+    "zip": "79772"
+  },
+  "location": {
+    "lat": 31.15851,
+    "lng": -103.585854
+  },
+  "contact": {
+    "phone": "(432) 447-9667",
+    "website": "http://www.capitolaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "742e423b-be43-433b-8195-dfb1b7ef7a60",
+    "confidence": 0.893,
+    "merged_records": 1
+  }
+}

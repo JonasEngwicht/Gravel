@@ -1,0 +1,41 @@
+{
+  "id": "or-lebanon-harrington-shale-pit",
+  "slug": "harrington-shale-pit",
+  "name": "Harrington Shale Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lebanon",
+    "state": "OR",
+    "zip": "97355"
+  },
+  "location": {
+    "lat": 44.469722,
+    "lng": -122.866667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3502979"
+  },
+  "msha": [
+    {
+      "mine_id": "3502979",
+      "name": "Harrington Shale Pit",
+      "operator": "Harrington Rock Products",
+      "status": "Active",
+      "status_since": "2022-04-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

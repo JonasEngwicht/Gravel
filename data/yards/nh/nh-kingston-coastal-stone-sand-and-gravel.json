@@ -1,0 +1,36 @@
+{
+  "id": "nh-kingston-coastal-stone-sand-and-gravel",
+  "slug": "coastal-stone-sand-and-gravel",
+  "name": "Coastal Stone, Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "41 Route 125",
+    "city": "Kingston",
+    "state": "NH",
+    "zip": "03848"
+  },
+  "location": {
+    "lat": 42.872765,
+    "lng": -71.08548
+  },
+  "contact": {
+    "phone": "(603) 234-2124",
+    "website": "https://www.coastalstonesandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fae2feef-d4f3-4680-b833-45a82f1a1deb",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

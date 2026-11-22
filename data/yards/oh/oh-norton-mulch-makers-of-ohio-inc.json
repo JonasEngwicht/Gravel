@@ -1,0 +1,36 @@
+{
+  "id": "oh-norton-mulch-makers-of-ohio-inc",
+  "slug": "mulch-makers-of-ohio-inc",
+  "name": "Mulch Makers of Ohio, Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3307 Clark Mill Rd",
+    "city": "Norton",
+    "state": "OH",
+    "zip": "44203"
+  },
+  "location": {
+    "lat": 41.037762,
+    "lng": -81.617981
+  },
+  "contact": {
+    "phone": "(330) 753-3090",
+    "website": "http://www.mulchmakers.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "99f1a937-9b01-4d34-8a25-381483e62831",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

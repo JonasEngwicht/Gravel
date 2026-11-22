@@ -1,0 +1,35 @@
+{
+  "id": "pa-aston-magic-mulch",
+  "slug": "magic-mulch",
+  "name": "Magic Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2101 Mount Rd",
+    "city": "Aston",
+    "state": "PA",
+    "zip": "19014"
+  },
+  "location": {
+    "lat": 39.890789,
+    "lng": -75.433685
+  },
+  "contact": {
+    "phone": "(610) 459-3755"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "731afd06-c93f-449b-9a34-f8540b72df7c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

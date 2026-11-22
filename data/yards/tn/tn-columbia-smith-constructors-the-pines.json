@@ -1,0 +1,41 @@
+{
+  "id": "tn-columbia-smith-constructors-the-pines",
+  "slug": "smith-constructors-the-pines",
+  "name": "Smith Constructors – The Pines",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Columbia",
+    "state": "TN",
+    "zip": "38401"
+  },
+  "location": {
+    "lat": 35.581606,
+    "lng": -87.114646
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003653"
+  },
+  "msha": [
+    {
+      "mine_id": "4003653",
+      "name": "The Pines",
+      "operator": "Smith Constructors Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

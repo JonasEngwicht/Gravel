@@ -1,0 +1,41 @@
+{
+  "id": "wa-granite-falls-oma-construction-inc-dba-mountain-loop-mine",
+  "slug": "oma-construction-inc-dba-mountain-loop-mine",
+  "name": "OMA Construction Inc dba Mountain Loop Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Granite Falls",
+    "state": "WA",
+    "zip": "98223"
+  },
+  "location": {
+    "lat": 48.114444,
+    "lng": -121.875556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503484"
+  },
+  "msha": [
+    {
+      "mine_id": "4503484",
+      "name": "Mountain Loop Mine",
+      "operator": "OMA Construction Inc dba Mountain Loop Mine",
+      "status": "Active",
+      "status_since": "2022-04-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nc-gastonia-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3809 S New Hope Rd",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056"
+  },
+  "location": {
+    "lat": 35.221447,
+    "lng": -81.09716
+  },
+  "contact": {
+    "phone": "(704) 823-0044",
+    "website": "https://www.siteone.com/store/732"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc16d30e-8b34-4ee9-8687-99aa1de63189",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "oh-portage-precision-aggregate",
+  "slug": "precision-aggregate",
+  "name": "Precision Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12580 Greensburg Pike",
+    "city": "Portage",
+    "state": "OH",
+    "zip": "43451"
+  },
+  "location": {
+    "lat": 41.314949,
+    "lng": -83.641891
+  },
+  "contact": {
+    "phone": "(419) 686-2366",
+    "website": "http://precisionaggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7dd0551d-3cc1-4050-9003-e7af59151f84",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304315",
+      "name": "Precision Aggregates Ii Llc",
+      "operator": "Precision Aggregates II LLC",
+      "status": "Active",
+      "status_since": "2023-11-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

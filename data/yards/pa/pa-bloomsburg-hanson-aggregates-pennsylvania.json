@@ -1,0 +1,37 @@
+{
+  "id": "pa-bloomsburg-hanson-aggregates-pennsylvania",
+  "slug": "hanson-aggregates-pennsylvania",
+  "name": "Hanson Aggregates Pennsylvania",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "800 Paper Mill Rd",
+    "city": "Bloomsburg",
+    "state": "PA",
+    "zip": "17815"
+  },
+  "location": {
+    "lat": 41.033417,
+    "lng": -76.438301
+  },
+  "contact": {
+    "phone": "(570) 784-1640",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ef7d497-2aaa-418c-bffa-ab5c92ca6dc6",
+    "confidence": 0.659,
+    "merged_records": 1
+  }
+}

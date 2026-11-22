@@ -1,0 +1,49 @@
+{
+  "id": "ca-santee-martin-marietta-santee-aggregates",
+  "slug": "martin-marietta-santee-aggregates",
+  "name": "Martin Marietta - Santee Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "8514 Mast Blvd",
+    "city": "Santee",
+    "state": "CA",
+    "zip": "92071"
+  },
+  "location": {
+    "lat": 32.878376,
+    "lng": -117.026665
+  },
+  "contact": {
+    "phone": "(858) 715-5600",
+    "website": "https://www.martinmarietta.com/locations/west/california-aggregates-district/santee-aggregates"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8e77b680-f434-4fb0-92ca-acaea9706a2c",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0405564",
+      "name": "Santee Aggregates",
+      "operator": "Martin Marietta San Diego Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2003-07-23",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

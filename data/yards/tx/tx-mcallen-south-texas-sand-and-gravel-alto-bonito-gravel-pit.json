@@ -1,0 +1,41 @@
+{
+  "id": "tx-mcallen-south-texas-sand-and-gravel-alto-bonito-gravel-pit",
+  "slug": "south-texas-sand-and-gravel-alto-bonito-gravel-pit",
+  "name": "South Texas Sand & Gravel – Alto Bonito Gravel Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "McAllen",
+    "state": "TX",
+    "zip": "78548"
+  },
+  "location": {
+    "lat": 26.280278,
+    "lng": -98.645278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103140"
+  },
+  "msha": [
+    {
+      "mine_id": "4103140",
+      "name": "Alto Bonito Gravel Pit",
+      "operator": "South Texas Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "1999-12-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

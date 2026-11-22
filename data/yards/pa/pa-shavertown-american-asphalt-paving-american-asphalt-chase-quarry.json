@@ -1,0 +1,41 @@
+{
+  "id": "pa-shavertown-american-asphalt-paving-american-asphalt-chase-quarry",
+  "slug": "american-asphalt-paving-american-asphalt-chase-quarry",
+  "name": "American Asphalt Paving – American Asphalt - CHASE QUARRY",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Shavertown",
+    "state": "PA",
+    "zip": "18708"
+  },
+  "location": {
+    "lat": 41.290278,
+    "lng": -75.955
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600005"
+  },
+  "msha": [
+    {
+      "mine_id": "3600005",
+      "name": "American Asphalt - CHASE QUARRY",
+      "operator": "American Asphalt Paving Company",
+      "status": "Active",
+      "status_since": "2021-12-09",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

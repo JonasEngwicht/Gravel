@@ -1,0 +1,41 @@
+{
+  "id": "ma-lowell-p-j-keating-dracut-plant",
+  "slug": "p-j-keating-dracut-plant",
+  "name": "P J Keating – Dracut Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lowell",
+    "state": "MA",
+    "zip": "01826"
+  },
+  "location": {
+    "lat": 42.681111,
+    "lng": -71.308889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900007"
+  },
+  "msha": [
+    {
+      "mine_id": "1900007",
+      "name": "Dracut Plant",
+      "operator": "P J Keating Company",
+      "status": "Intermittent",
+      "status_since": "2024-09-26",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

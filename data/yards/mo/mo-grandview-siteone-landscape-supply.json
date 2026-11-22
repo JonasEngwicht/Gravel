@@ -1,0 +1,37 @@
+{
+  "id": "mo-grandview-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "13416 S US 71 Hwy",
+    "city": "Grandview",
+    "state": "MO",
+    "zip": "64030"
+  },
+  "location": {
+    "lat": 38.880775,
+    "lng": -94.526543
+  },
+  "contact": {
+    "phone": "(816) 761-9880",
+    "website": "https://www.siteone.com/store/780"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37dbe171-fa5c-4992-b8ef-9bc9e81298f3",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

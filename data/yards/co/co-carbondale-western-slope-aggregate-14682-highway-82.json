@@ -1,0 +1,47 @@
+{
+  "id": "co-carbondale-western-slope-aggregate-14682-highway-82",
+  "slug": "western-slope-aggregate-14682-highway-82",
+  "name": "Western Slope Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14682 Highway 82",
+    "city": "Carbondale",
+    "state": "CO",
+    "zip": "81623"
+  },
+  "location": {
+    "lat": 39.401581,
+    "lng": -107.113602
+  },
+  "contact": {
+    "phone": "(970) 963-9424",
+    "website": "http://www.ws-materials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e0729b18-d95a-4a45-98d2-0c7df6170f92",
+    "confidence": 0.85,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0504631",
+      "name": "Carbondale Plant-Wash Plant",
+      "operator": "Western Slope Materials, LLC",
+      "status": "Abandoned",
+      "status_since": "2018-10-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

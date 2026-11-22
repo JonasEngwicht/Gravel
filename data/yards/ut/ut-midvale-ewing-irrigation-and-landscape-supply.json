@@ -1,0 +1,37 @@
+{
+  "id": "ut-midvale-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "6849 S 300 W",
+    "city": "Midvale",
+    "state": "UT",
+    "zip": "84047"
+  },
+  "location": {
+    "lat": 40.626907,
+    "lng": -111.899673
+  },
+  "contact": {
+    "phone": "(801) 566-4446",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "930ca096-739f-4402-8fc7-059c2e908ea8",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

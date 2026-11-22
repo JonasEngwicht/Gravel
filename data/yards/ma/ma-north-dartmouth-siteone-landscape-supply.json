@@ -1,0 +1,37 @@
+{
+  "id": "ma-north-dartmouth-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "25 Ventura Dr",
+    "city": "North Dartmouth",
+    "state": "MA",
+    "zip": "02747"
+  },
+  "location": {
+    "lat": 41.667744,
+    "lng": -70.986549
+  },
+  "contact": {
+    "phone": "(508) 998-9862",
+    "website": "https://www.siteone.com/store/487"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a237532-bfef-4486-b4a0-18a68e1f01c6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "va-lynchburg-leesville-landscape-supplies",
+  "slug": "leesville-landscape-supplies",
+  "name": "Leesville Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2291 Waterlick Rd",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24501"
+  },
+  "location": {
+    "lat": 37.322266,
+    "lng": -79.231453
+  },
+  "contact": {
+    "phone": "(434) 832-0042",
+    "website": "https://leesvillelandscapes.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "28d85127-1db2-40ae-b8d0-30871747f750",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

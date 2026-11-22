@@ -1,0 +1,36 @@
+{
+  "id": "ct-waterbury-sls-landscaping-supplies",
+  "slug": "sls-landscaping-supplies",
+  "name": "SLS Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "40 Falls Ave",
+    "city": "Waterbury",
+    "state": "CT",
+    "zip": "06708"
+  },
+  "location": {
+    "lat": 41.587269,
+    "lng": -73.076736
+  },
+  "contact": {
+    "phone": "(203) 419-0000",
+    "website": "https://www.slslandscapingsupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dadac5a0-6ecc-4fcb-a38a-3e31623d4f98",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

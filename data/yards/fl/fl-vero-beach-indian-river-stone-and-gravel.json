@@ -1,0 +1,36 @@
+{
+  "id": "fl-vero-beach-indian-river-stone-and-gravel",
+  "slug": "indian-river-stone-and-gravel",
+  "name": "Indian River Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4650 US-1",
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip": "32967"
+  },
+  "location": {
+    "lat": 27.677626,
+    "lng": -80.408035
+  },
+  "contact": {
+    "phone": "(772) 569-5788",
+    "website": "https://www.irstonegravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c61f4c4c-f967-4722-a2df-407b284c18ad",
+    "confidence": 0.696,
+    "merged_records": 1
+  }
+}

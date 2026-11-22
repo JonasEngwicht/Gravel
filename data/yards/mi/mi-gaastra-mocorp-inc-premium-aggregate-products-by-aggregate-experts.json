@@ -1,0 +1,48 @@
+{
+  "id": "mi-gaastra-mocorp-inc-premium-aggregate-products-by-aggregate-experts",
+  "slug": "mocorp-inc-premium-aggregate-products-by-aggregate-experts",
+  "name": "MoCorp, Inc. - Premium Aggregate Products by Aggregate Experts",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1829 County Road 424",
+    "city": "Gaastra",
+    "state": "MI",
+    "zip": "49927"
+  },
+  "location": {
+    "lat": 46.041538,
+    "lng": -88.536957
+  },
+  "contact": {
+    "phone": "(906) 367-4798",
+    "website": "http://www.mocorpaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8787c30-3757-4541-b7af-cb91c00806c3",
+    "confidence": 0.606,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2003564",
+      "name": "MOCORP 424 (wash plant)",
+      "operator": "Mocorp, Inc.",
+      "status": "Abandoned",
+      "status_since": "2026-07-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

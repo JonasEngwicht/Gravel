@@ -1,0 +1,41 @@
+{
+  "id": "in-cloverdale-martin-marietta-materials-putnam-quarry",
+  "slug": "martin-marietta-materials-putnam-quarry",
+  "name": "Martin Marietta Materials – Putnam Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cloverdale",
+    "state": "IN",
+    "zip": "46170"
+  },
+  "location": {
+    "lat": 39.572778,
+    "lng": -86.815556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202242"
+  },
+  "msha": [
+    {
+      "mine_id": "1202242",
+      "name": "Putnam Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2025-03-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

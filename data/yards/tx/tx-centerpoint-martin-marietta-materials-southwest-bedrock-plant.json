@@ -1,0 +1,41 @@
+{
+  "id": "tx-centerpoint-martin-marietta-materials-southwest-bedrock-plant",
+  "slug": "martin-marietta-materials-southwest-bedrock-plant",
+  "name": "Martin Marietta Materials Southwest – Bedrock Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Centerpoint",
+    "state": "TX",
+    "zip": "78010"
+  },
+  "location": {
+    "lat": 29.918056,
+    "lng": -99.035
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103283"
+  },
+  "msha": [
+    {
+      "mine_id": "4103283",
+      "name": "Bedrock Plant",
+      "operator": "Martin Marietta Materials Southwest, LLC",
+      "status": "Active",
+      "status_since": "1998-07-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

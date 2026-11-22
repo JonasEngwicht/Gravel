@@ -1,0 +1,41 @@
+{
+  "id": "nh-walpole-eurovia-altantic-coast-cold-river-materials-walpole-quarry",
+  "slug": "eurovia-altantic-coast-cold-river-materials-walpole-quarry",
+  "name": "Eurovia Altantic Coast – Cold River Materials Walpole Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Walpole",
+    "state": "NH",
+    "zip": "03604"
+  },
+  "location": {
+    "lat": 43.128889,
+    "lng": -72.402222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700053"
+  },
+  "msha": [
+    {
+      "mine_id": "2700053",
+      "name": "Cold River Materials Walpole Quarry",
+      "operator": "Eurovia Altantic Coast LLC",
+      "status": "Active",
+      "status_since": "2020-06-18",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

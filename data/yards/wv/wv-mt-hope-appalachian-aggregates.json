@@ -1,0 +1,48 @@
+{
+  "id": "wv-mt-hope-appalachian-aggregates",
+  "slug": "appalachian-aggregates",
+  "name": "Appalachian Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1700 N Sandbranch Rd",
+    "city": "Mt Hope",
+    "state": "WV",
+    "zip": "25880"
+  },
+  "location": {
+    "lat": 37.858204,
+    "lng": -81.248085
+  },
+  "contact": {
+    "phone": "(800) 269-5391",
+    "website": "http://www.appalachianaggregates.com/beckley--mount-hope.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5930bf21-b2e5-4e46-b21b-de6ec9ef2383",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4605147",
+      "name": "Beckley Plant",
+      "operator": "Appalachian Aggregates, LLC",
+      "status": "Active",
+      "status_since": "1990-03-09",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

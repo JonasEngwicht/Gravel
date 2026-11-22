@@ -1,0 +1,41 @@
+{
+  "id": "tn-newport-vulcan-construction-materials-newport-quarry",
+  "slug": "vulcan-construction-materials-newport-quarry",
+  "name": "Vulcan Construction Materials – Newport Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Newport",
+    "state": "TN",
+    "zip": "37821"
+  },
+  "location": {
+    "lat": 35.940833,
+    "lng": -83.181944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003270"
+  },
+  "msha": [
+    {
+      "mine_id": "4003270",
+      "name": "Newport Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2011-10-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

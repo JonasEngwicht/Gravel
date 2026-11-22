@@ -1,0 +1,36 @@
+{
+  "id": "pa-lewisburg-fogle-s-landscape-supply-llc",
+  "slug": "fogle-s-landscape-supply-llc",
+  "name": "Fogle's Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4554 Old Turnpike Rd",
+    "city": "Lewisburg",
+    "state": "PA",
+    "zip": "17837"
+  },
+  "location": {
+    "lat": 40.949196,
+    "lng": -76.953537
+  },
+  "contact": {
+    "phone": "(570) 524-2580",
+    "website": "https://fogleslandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12e6a890-9b43-4490-9afb-3151d430da19",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

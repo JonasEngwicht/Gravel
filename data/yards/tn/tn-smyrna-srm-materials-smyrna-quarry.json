@@ -1,0 +1,41 @@
+{
+  "id": "tn-smyrna-srm-materials-smyrna-quarry",
+  "slug": "srm-materials-smyrna-quarry",
+  "name": "SRM Materials – Smyrna Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Smyrna",
+    "state": "TN",
+    "zip": "37129"
+  },
+  "location": {
+    "lat": 36.0,
+    "lng": -86.443889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003538"
+  },
+  "msha": [
+    {
+      "mine_id": "4003538",
+      "name": "Smyrna Quarry",
+      "operator": "SRM Materials, LLC",
+      "status": "Active",
+      "status_since": "2022-09-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

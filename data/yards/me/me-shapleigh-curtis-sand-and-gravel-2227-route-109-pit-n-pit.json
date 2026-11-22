@@ -1,0 +1,41 @@
+{
+  "id": "me-shapleigh-curtis-sand-and-gravel-2227-route-109-pit-n-pit",
+  "slug": "curtis-sand-and-gravel-2227-route-109-pit-n-pit",
+  "name": "Curtis Sand & Gravel – 2227 Route 109 Pit-N Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Shapleigh",
+    "state": "ME",
+    "zip": "04001"
+  },
+  "location": {
+    "lat": 43.539107,
+    "lng": -70.924618
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701122"
+  },
+  "msha": [
+    {
+      "mine_id": "1701122",
+      "name": "2227 Route 109 Pit-N Pit",
+      "operator": "Curtis Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-06-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

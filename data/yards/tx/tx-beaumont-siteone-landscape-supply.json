@@ -1,0 +1,37 @@
+{
+  "id": "tx-beaumont-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5360 Washington Blvd",
+    "city": "Beaumont",
+    "state": "TX",
+    "zip": "77707"
+  },
+  "location": {
+    "lat": 30.055798,
+    "lng": -94.15184
+  },
+  "contact": {
+    "phone": "(409) 840-9415",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "118bc208-539e-406e-8858-f64e976633c4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

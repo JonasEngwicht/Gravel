@@ -1,0 +1,36 @@
+{
+  "id": "pa-bloomsburg-mapes-mulch-and-stone",
+  "slug": "mapes-mulch-and-stone",
+  "name": "Mapes Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6055 Columbia Blvd",
+    "city": "Bloomsburg",
+    "state": "PA",
+    "zip": "17815"
+  },
+  "location": {
+    "lat": 41.029198,
+    "lng": -76.352058
+  },
+  "contact": {
+    "phone": "(570) 784-2003",
+    "website": "http://mapesmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1967cb11-f4be-402a-8be6-4e7dac2f4572",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wi-franksville-quality-mulch",
+  "slug": "quality-mulch",
+  "name": "Quality Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7506 Nordale Ave",
+    "city": "Franksville",
+    "state": "WI",
+    "zip": "53126"
+  },
+  "location": {
+    "lat": 42.823845,
+    "lng": -88.077667
+  },
+  "contact": {
+    "phone": "(262) 895-2289",
+    "website": "http://www.qualitymulchwi.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "05881bbd-760a-40ca-8560-8b2039b76b88",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

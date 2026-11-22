@@ -1,0 +1,36 @@
+{
+  "id": "pa-new-britain-splitz-firewood-and-mulch",
+  "slug": "splitz-firewood-and-mulch",
+  "name": "Splitz Firewood & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1861 Lower State Rd",
+    "city": "New Britain",
+    "state": "PA",
+    "zip": "18901"
+  },
+  "location": {
+    "lat": 40.286018,
+    "lng": -75.158447
+  },
+  "contact": {
+    "phone": "(267) 641-9507",
+    "website": "https://splitzfirewood.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1343c414-9ffb-4ae1-9253-811c91d9479a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

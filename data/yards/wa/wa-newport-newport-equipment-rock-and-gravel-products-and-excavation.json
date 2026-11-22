@@ -1,0 +1,48 @@
+{
+  "id": "wa-newport-newport-equipment-rock-and-gravel-products-and-excavation",
+  "slug": "newport-equipment-rock-and-gravel-products-and-excavation",
+  "name": "Newport Equipment: Rock & Gravel Products and Excavation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "328772 U.S. Rte 2",
+    "city": "Newport",
+    "state": "WA",
+    "zip": "99156"
+  },
+  "location": {
+    "lat": 48.175858,
+    "lng": -117.051666
+  },
+  "contact": {
+    "phone": "(509) 447-4688",
+    "website": "https://newportequipment.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68fdbb7b-03e3-4998-8252-a173641b69ba",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503100",
+      "name": "J L Sherman Excavation Co",
+      "operator": "Interstate Concrete & Asphalt Company",
+      "status": "Abandoned",
+      "status_since": "2018-06-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

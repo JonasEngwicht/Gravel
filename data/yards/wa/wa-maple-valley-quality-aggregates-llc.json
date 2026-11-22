@@ -1,0 +1,35 @@
+{
+  "id": "wa-maple-valley-quality-aggregates-llc",
+  "slug": "quality-aggregates-llc",
+  "name": "Quality Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "22501 SE Lake Francis Rd",
+    "city": "Maple Valley",
+    "state": "WA",
+    "zip": "98038"
+  },
+  "location": {
+    "lat": 47.437069,
+    "lng": -122.044678
+  },
+  "contact": {
+    "phone": "(206) 658-0872"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "114e88aa-a5bb-4e2e-8176-06ecd651063b",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

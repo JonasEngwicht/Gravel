@@ -1,0 +1,41 @@
+{
+  "id": "az-phoenix-calportland-new-river-plant",
+  "slug": "calportland-new-river-plant",
+  "name": "CalPortland – New River Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85086"
+  },
+  "location": {
+    "lat": 33.841111,
+    "lng": -112.214722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203367"
+  },
+  "msha": [
+    {
+      "mine_id": "0203367",
+      "name": "New River Plant",
+      "operator": "CalPortland Company",
+      "status": "Active",
+      "status_since": "2018-05-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mn-st-cloud-central-landscape-supply",
+  "slug": "central-landscape-supply",
+  "name": "Central Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4026 Co Rd 74",
+    "city": "St Cloud",
+    "state": "MN",
+    "zip": "56301"
+  },
+  "location": {
+    "lat": 45.499748,
+    "lng": -94.223145
+  },
+  "contact": {
+    "phone": "(320) 252-1601",
+    "website": "http://www.centrallandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a76c35e2-98bd-420d-bd34-4cc6ca5ea4ef",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

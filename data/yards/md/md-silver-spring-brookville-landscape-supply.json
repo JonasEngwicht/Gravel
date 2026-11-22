@@ -1,0 +1,36 @@
+{
+  "id": "md-silver-spring-brookville-landscape-supply",
+  "slug": "brookville-landscape-supply",
+  "name": "Brookville Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2366 Stewart Ave",
+    "city": "Silver Spring",
+    "state": "MD",
+    "zip": "20910"
+  },
+  "location": {
+    "lat": 39.003155,
+    "lng": -77.052116
+  },
+  "contact": {
+    "phone": "(301) 448-0624",
+    "website": "https://brookvillelandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c6117fda-ea50-458f-a662-12d93a37bf3d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

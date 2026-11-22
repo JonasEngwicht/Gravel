@@ -1,0 +1,37 @@
+{
+  "id": "nv-las-vegas-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4175 W Dewey Dr",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89118"
+  },
+  "location": {
+    "lat": 36.087708,
+    "lng": -115.196251
+  },
+  "contact": {
+    "phone": "(702) 736-8188",
+    "website": "https://www.siteone.com/store/324"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4f3adf5a-8391-4a09-bd37-741870192d7e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

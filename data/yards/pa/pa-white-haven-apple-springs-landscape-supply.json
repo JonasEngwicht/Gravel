@@ -1,0 +1,35 @@
+{
+  "id": "pa-white-haven-apple-springs-landscape-supply",
+  "slug": "apple-springs-landscape-supply",
+  "name": "Apple Springs Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "95 State St",
+    "city": "White Haven",
+    "state": "PA",
+    "zip": "18661"
+  },
+  "location": {
+    "lat": 41.064007,
+    "lng": -75.767776
+  },
+  "contact": {
+    "phone": "(570) 233-5562"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc019977-60c1-444a-b53f-5e07c7ca1e61",
+    "confidence": 0.639,
+    "merged_records": 1
+  }
+}

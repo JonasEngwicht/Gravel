@@ -1,0 +1,35 @@
+{
+  "id": "mi-jenison-dewent-gravel-co",
+  "slug": "dewent-gravel-co",
+  "name": "Dewent Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1601 Chicago Dr",
+    "city": "Jenison",
+    "state": "MI",
+    "zip": "49428"
+  },
+  "location": {
+    "lat": 42.892662,
+    "lng": -85.823578
+  },
+  "contact": {
+    "phone": "(616) 457-2100"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72de79a6-8b9c-4fe1-b46d-45138bb06908",
+    "confidence": 0.581,
+    "merged_records": 1
+  }
+}

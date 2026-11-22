@@ -1,0 +1,36 @@
+{
+  "id": "wi-oconomowoc-genesee-aggregate",
+  "slug": "genesee-aggregate",
+  "name": "Genesee Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "W340S2067 County Rd",
+    "city": "Oconomowoc",
+    "state": "WI",
+    "zip": "53066"
+  },
+  "location": {
+    "lat": 43.035397,
+    "lng": -88.438004
+  },
+  "contact": {
+    "phone": "(262) 968-2126",
+    "website": "http://genagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8116f862-7e93-4b20-9a81-65e1d58dea45",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

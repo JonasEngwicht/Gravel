@@ -1,0 +1,37 @@
+{
+  "id": "ca-rancho-cordova-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "11309 Folsom Blvd",
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "zip": "95742"
+  },
+  "location": {
+    "lat": 38.609501,
+    "lng": -121.263062
+  },
+  "contact": {
+    "phone": "(916) 635-1200",
+    "website": "https://www.siteone.com/store/304"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "93658ec6-08d2-46b1-be3f-48376cf1f739",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ia-des-moines-martin-marietta-materials-saylorville-sand",
+  "slug": "martin-marietta-materials-saylorville-sand",
+  "name": "Martin Marietta Materials – Saylorville Sand",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50313"
+  },
+  "location": {
+    "lat": 41.659167,
+    "lng": -93.638889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302290"
+  },
+  "msha": [
+    {
+      "mine_id": "1302290",
+      "name": "Saylorville Sand",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2014-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

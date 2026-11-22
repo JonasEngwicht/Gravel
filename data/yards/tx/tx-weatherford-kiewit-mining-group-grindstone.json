@@ -1,0 +1,41 @@
+{
+  "id": "tx-weatherford-kiewit-mining-group-grindstone",
+  "slug": "kiewit-mining-group-grindstone",
+  "name": "Kiewit Mining Group – Grindstone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76472"
+  },
+  "location": {
+    "lat": 32.584444,
+    "lng": -98.113056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105586"
+  },
+  "msha": [
+    {
+      "mine_id": "4105586",
+      "name": "Grindstone",
+      "operator": "Kiewit Mining Group",
+      "status": "Active",
+      "status_since": "2024-03-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

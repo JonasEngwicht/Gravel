@@ -1,0 +1,41 @@
+{
+  "id": "wa-bremerton-mccallum-crushing-kitsap-quarry",
+  "slug": "mccallum-crushing-kitsap-quarry",
+  "name": "McCallum Crushing – Kitsap Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bremerton",
+    "state": "WA",
+    "zip": "98312"
+  },
+  "location": {
+    "lat": 47.554444,
+    "lng": -122.708056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4502791"
+  },
+  "msha": [
+    {
+      "mine_id": "4502791",
+      "name": "Kitsap Quarry",
+      "operator": "McCallum Crushing",
+      "status": "Active",
+      "status_since": "2025-01-28",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

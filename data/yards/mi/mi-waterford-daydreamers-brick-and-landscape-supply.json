@@ -1,0 +1,36 @@
+{
+  "id": "mi-waterford-daydreamers-brick-and-landscape-supply",
+  "slug": "daydreamers-brick-and-landscape-supply",
+  "name": "Daydreamers Brick and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6129 Highland Rd",
+    "city": "Waterford",
+    "state": "MI",
+    "zip": "48327"
+  },
+  "location": {
+    "lat": 42.659557,
+    "lng": -83.408638
+  },
+  "contact": {
+    "phone": "(248) 742-1053",
+    "website": "https://www.daydreamerslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f51920af-fe4a-439d-9f38-caef229dfb8f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

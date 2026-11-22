@@ -1,0 +1,49 @@
+{
+  "id": "pa-milton-hanson-aggregates-pennsylvania-llc",
+  "slug": "hanson-aggregates-pennsylvania-llc",
+  "name": "Hanson Aggregates Pennsylvania Llc",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "3 Quarry Rd",
+    "city": "Milton",
+    "state": "PA",
+    "zip": "17847"
+  },
+  "location": {
+    "lat": 41.030056,
+    "lng": -76.727348
+  },
+  "contact": {
+    "phone": "(570) 437-4068",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "25f38e24-14a9-4f76-9b54-841b367e3651",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3600141",
+      "name": "Milton Plant",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Active",
+      "status_since": "2018-05-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

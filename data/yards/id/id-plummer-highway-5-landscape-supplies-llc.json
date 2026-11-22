@@ -1,0 +1,36 @@
+{
+  "id": "id-plummer-highway-5-landscape-supplies-llc",
+  "slug": "highway-5-landscape-supplies-llc",
+  "name": "Highway 5 Landscape Supplies, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4312 ID-5",
+    "city": "Plummer",
+    "state": "ID",
+    "zip": "83851"
+  },
+  "location": {
+    "lat": 47.344769,
+    "lng": -116.800133
+  },
+  "contact": {
+    "phone": "(208) 582-6832",
+    "website": "https://www.hwy5landscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7d2c0bd-5148-432c-a146-f210b01ddab7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

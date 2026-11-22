@@ -1,0 +1,41 @@
+{
+  "id": "ga-norcross-vulcan-construction-materials-norcross-quarry",
+  "slug": "vulcan-construction-materials-norcross-quarry",
+  "name": "Vulcan Construction Materials – Norcross Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Norcross",
+    "state": "GA",
+    "zip": "30093"
+  },
+  "location": {
+    "lat": 33.933047,
+    "lng": -84.154673
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900070"
+  },
+  "msha": [
+    {
+      "mine_id": "0900070",
+      "name": "Norcross Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2009-04-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 84
+    }
+  ]
+}

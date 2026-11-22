@@ -1,0 +1,36 @@
+{
+  "id": "il-crest-hill-chicagoland-wholesale-mulch",
+  "slug": "chicagoland-wholesale-mulch",
+  "name": "Chicagoland Wholesale Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2220 N Broadway St",
+    "city": "Crest Hill",
+    "state": "IL",
+    "zip": "60403"
+  },
+  "location": {
+    "lat": 41.565777,
+    "lng": -88.085892
+  },
+  "contact": {
+    "phone": "(815) 726-8222",
+    "website": "http://www.cmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fbc267c9-623c-416f-bba0-3d89b58442a9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

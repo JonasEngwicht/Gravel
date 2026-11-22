@@ -1,0 +1,41 @@
+{
+  "id": "ny-halfmoon-constantine-construction-and-farm-button-road",
+  "slug": "constantine-construction-and-farm-button-road",
+  "name": "Constantine Construction & Farm – Button Road",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Halfmoon",
+    "state": "NY",
+    "zip": "12188"
+  },
+  "location": {
+    "lat": 42.840833,
+    "lng": -73.699444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002981"
+  },
+  "msha": [
+    {
+      "mine_id": "3002981",
+      "name": "Button Road",
+      "operator": "Constantine Construction & Farm, Inc.",
+      "status": "Intermittent",
+      "status_since": "2012-07-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

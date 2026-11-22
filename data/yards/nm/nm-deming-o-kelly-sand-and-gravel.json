@@ -1,0 +1,36 @@
+{
+  "id": "nm-deming-o-kelly-sand-and-gravel",
+  "slug": "o-kelly-sand-and-gravel",
+  "name": "O'kelly Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3050 Rockhound Rd SE",
+    "city": "Deming",
+    "state": "NM",
+    "zip": "88030"
+  },
+  "location": {
+    "lat": 32.19503,
+    "lng": -107.725159
+  },
+  "contact": {
+    "phone": "(575) 546-8366",
+    "website": "http://hobbssandandgravel.yolasite.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "50f04f7d-25a0-406f-837d-b9a9ec006789",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

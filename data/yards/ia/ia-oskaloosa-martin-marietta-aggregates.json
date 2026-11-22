@@ -1,0 +1,37 @@
+{
+  "id": "ia-oskaloosa-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "2097 310th St",
+    "city": "Oskaloosa",
+    "state": "IA",
+    "zip": "52577"
+  },
+  "location": {
+    "lat": 41.207306,
+    "lng": -92.663246
+  },
+  "contact": {
+    "phone": "(641) 673-9440",
+    "website": "http://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f434a22d-9e18-41ea-8922-4cf7041827f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

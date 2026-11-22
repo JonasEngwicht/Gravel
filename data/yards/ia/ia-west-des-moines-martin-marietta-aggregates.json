@@ -1,0 +1,49 @@
+{
+  "id": "ia-west-des-moines-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "33152 360th St",
+    "city": "West Des Moines",
+    "state": "IA",
+    "zip": "50266"
+  },
+  "location": {
+    "lat": 41.532467,
+    "lng": -93.833298
+  },
+  "contact": {
+    "phone": "(515) 987-0280",
+    "website": "https://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b78bff3-9e2f-4942-9a0e-843ef30c4531",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1302315",
+      "name": "Raccoon River Sand",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2011-12-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

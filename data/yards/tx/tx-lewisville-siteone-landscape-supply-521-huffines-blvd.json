@@ -1,0 +1,37 @@
+{
+  "id": "tx-lewisville-siteone-landscape-supply-521-huffines-blvd",
+  "slug": "siteone-landscape-supply-521-huffines-blvd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "521 Huffines Blvd",
+    "city": "Lewisville",
+    "state": "TX",
+    "zip": "75056"
+  },
+  "location": {
+    "lat": 33.043747,
+    "lng": -96.943634
+  },
+  "contact": {
+    "phone": "(972) 939-1144",
+    "website": "https://www.siteone.com/store/681"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "215651f7-a79a-432d-962b-473f481d4406",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "la-franklinton-arcosa-aggregates-gulf-coast-plant-1345-triple-j",
+  "slug": "arcosa-aggregates-gulf-coast-plant-1345-triple-j",
+  "name": "Arcosa Aggregates Gulf Coast – Plant 1345-Triple J",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Franklinton",
+    "state": "LA",
+    "zip": "70461"
+  },
+  "location": {
+    "lat": 30.171389,
+    "lng": -89.733056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601590"
+  },
+  "msha": [
+    {
+      "mine_id": "1601590",
+      "name": "Plant 1345-Triple J",
+      "operator": "Arcosa Aggregates Gulf Coast, LLC",
+      "status": "Active",
+      "status_since": "2019-10-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

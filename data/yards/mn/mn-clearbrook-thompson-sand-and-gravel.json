@@ -1,0 +1,35 @@
+{
+  "id": "mn-clearbrook-thompson-sand-and-gravel",
+  "slug": "thompson-sand-and-gravel",
+  "name": "Thompson Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15453 460th St",
+    "city": "Clearbrook",
+    "state": "MN",
+    "zip": "56634"
+  },
+  "location": {
+    "lat": 47.672062,
+    "lng": -95.461784
+  },
+  "contact": {
+    "phone": "(218) 776-3296"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0df76eb9-9300-41ed-acee-2b0d7f3f7fbd",
+    "confidence": 0.602,
+    "merged_records": 1
+  }
+}

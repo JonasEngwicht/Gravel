@@ -1,0 +1,37 @@
+{
+  "id": "ny-bedford-hills-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "281 RT-117 by Pass Rd",
+    "city": "Bedford Hills",
+    "state": "NY",
+    "zip": "10507"
+  },
+  "location": {
+    "lat": 41.247478,
+    "lng": -73.677834
+  },
+  "contact": {
+    "phone": "(914) 244-1110",
+    "website": "https://www.siteone.com/store/634"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "220f9e56-b2d8-404d-aaa1-4b9f4efb85ae",
+    "confidence": 0.501,
+    "merged_records": 1
+  }
+}

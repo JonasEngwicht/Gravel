@@ -1,0 +1,41 @@
+{
+  "id": "ca-georgetown-butte-equipment-rentals-bear-creek-quarry",
+  "slug": "butte-equipment-rentals-bear-creek-quarry",
+  "name": "Butte Equipment Rentals – Bear Creek Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Georgetown",
+    "state": "CA",
+    "zip": "95633"
+  },
+  "location": {
+    "lat": 38.874722,
+    "lng": -120.823611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404688"
+  },
+  "msha": [
+    {
+      "mine_id": "0404688",
+      "name": "Bear Creek Quarry",
+      "operator": "Butte Equipment Rentals Inc",
+      "status": "Intermittent",
+      "status_since": "2012-03-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

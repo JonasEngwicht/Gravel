@@ -1,0 +1,41 @@
+{
+  "id": "me-turner-k-r-youland-and-son",
+  "slug": "k-r-youland-and-son",
+  "name": "K R Youland & Son",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Turner",
+    "state": "ME",
+    "zip": "04282"
+  },
+  "location": {
+    "lat": 44.196111,
+    "lng": -70.244167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700938"
+  },
+  "msha": [
+    {
+      "mine_id": "1700938",
+      "name": "K R Youland & Son LLC",
+      "operator": "K R Youland & Son LLC",
+      "status": "Intermittent",
+      "status_since": "2014-06-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

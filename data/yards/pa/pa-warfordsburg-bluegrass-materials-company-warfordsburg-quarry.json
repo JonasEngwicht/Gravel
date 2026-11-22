@@ -1,0 +1,41 @@
+{
+  "id": "pa-warfordsburg-bluegrass-materials-company-warfordsburg-quarry",
+  "slug": "bluegrass-materials-company-warfordsburg-quarry",
+  "name": "Bluegrass Materials Company – Warfordsburg Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Warfordsburg",
+    "state": "PA",
+    "zip": "17267"
+  },
+  "location": {
+    "lat": 39.751667,
+    "lng": -78.179722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600168"
+  },
+  "msha": [
+    {
+      "mine_id": "3600168",
+      "name": "Warfordsburg Quarry",
+      "operator": "Bluegrass Materials Company, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-05-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

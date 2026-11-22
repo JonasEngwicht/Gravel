@@ -1,0 +1,41 @@
+{
+  "id": "ny-gouvenuer-gardenscape-of-new-york",
+  "slug": "gardenscape-of-new-york",
+  "name": "Gardenscape of New York",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gouvenuer",
+    "state": "NY",
+    "zip": "13645"
+  },
+  "location": {
+    "lat": 44.305833,
+    "lng": -75.439722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000007"
+  },
+  "msha": [
+    {
+      "mine_id": "3000007",
+      "name": "Gardenscape of New York",
+      "operator": "Gardenscape of New York",
+      "status": "Intermittent",
+      "status_since": "2025-05-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

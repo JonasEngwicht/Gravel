@@ -1,0 +1,41 @@
+{
+  "id": "pr-comerio-gravero-rodriguez-arenero-comerio",
+  "slug": "gravero-rodriguez-arenero-comerio",
+  "name": "Gravero Rodriguez – Arenero Comerio",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Comerio",
+    "state": "PR",
+    "zip": "00782"
+  },
+  "location": {
+    "lat": 18.250278,
+    "lng": -66.207222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400397"
+  },
+  "msha": [
+    {
+      "mine_id": "5400397",
+      "name": "Arenero Comerio",
+      "operator": "Gravero Rodriguez",
+      "status": "Active",
+      "status_since": "2026-09-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

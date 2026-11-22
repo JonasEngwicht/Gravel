@@ -1,0 +1,41 @@
+{
+  "id": "sd-sioux-falls-soukup-construction-el-dorado-pit",
+  "slug": "soukup-construction-el-dorado-pit",
+  "name": "Soukup Construction – El Dorado Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57107"
+  },
+  "location": {
+    "lat": 43.576389,
+    "lng": -96.830833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3901486"
+  },
+  "msha": [
+    {
+      "mine_id": "3901486",
+      "name": "El Dorado Pit",
+      "operator": "Soukup Construction, Inc.",
+      "status": "Active",
+      "status_since": "2026-10-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

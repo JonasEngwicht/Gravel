@@ -1,0 +1,35 @@
+{
+  "id": "al-hokes-bluff-northeast-landscape-supply",
+  "slug": "northeast-landscape-supply",
+  "name": "Northeast Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5895 Main St",
+    "city": "Hokes Bluff",
+    "state": "AL",
+    "zip": "35903"
+  },
+  "location": {
+    "lat": 33.999207,
+    "lng": -85.860413
+  },
+  "contact": {
+    "phone": "(256) 563-6081"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8feaa9e2-67d8-4431-ba26-50e872eaed9b",
+    "confidence": 0.915,
+    "merged_records": 1
+  }
+}

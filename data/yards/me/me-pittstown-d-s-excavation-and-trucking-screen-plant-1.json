@@ -1,0 +1,41 @@
+{
+  "id": "me-pittstown-d-s-excavation-and-trucking-screen-plant-1",
+  "slug": "d-s-excavation-and-trucking-screen-plant-1",
+  "name": "D.S Excavation & Trucking – Screen Plant #1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Pittstown",
+    "state": "ME",
+    "zip": "04346"
+  },
+  "location": {
+    "lat": 44.233056,
+    "lng": -69.724167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701169"
+  },
+  "msha": [
+    {
+      "mine_id": "1701169",
+      "name": "Screen Plant #1",
+      "operator": "D.S Excavation & Trucking LLC",
+      "status": "Intermittent",
+      "status_since": "2025-09-10",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

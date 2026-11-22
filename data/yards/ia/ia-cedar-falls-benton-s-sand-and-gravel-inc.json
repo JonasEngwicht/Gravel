@@ -1,0 +1,48 @@
+{
+  "id": "ia-cedar-falls-benton-s-sand-and-gravel-inc",
+  "slug": "benton-s-sand-and-gravel-inc",
+  "name": "Benton's Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "905 Center St",
+    "city": "Cedar Falls",
+    "state": "IA",
+    "zip": "50613"
+  },
+  "location": {
+    "lat": 42.544956,
+    "lng": -92.450272
+  },
+  "contact": {
+    "phone": "(319) 266-2621",
+    "website": "https://bentonsg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2a44b46e-bac1-428c-8fe1-0a1d4cf1a10c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1302516",
+      "name": "Site 1",
+      "operator": "Benton's Sand and Gravel INC.",
+      "status": "Active",
+      "status_since": "2025-04-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

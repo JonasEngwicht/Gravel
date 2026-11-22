@@ -1,0 +1,36 @@
+{
+  "id": "tx-mckinney-jbs-express-natural-stone-and-landscape-material",
+  "slug": "jbs-express-natural-stone-and-landscape-material",
+  "name": "JBS Express Natural Stone & Landscape Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4011 W University Dr",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75071"
+  },
+  "location": {
+    "lat": 33.217278,
+    "lng": -96.66629
+  },
+  "contact": {
+    "phone": "(469) 972-8818",
+    "website": "http://www.jbsexpressmckinney.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fffffe5d-9e2b-41dc-b814-0553ffb39ab2",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

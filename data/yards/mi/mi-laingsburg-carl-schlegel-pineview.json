@@ -1,0 +1,41 @@
+{
+  "id": "mi-laingsburg-carl-schlegel-pineview",
+  "slug": "carl-schlegel-pineview",
+  "name": "Carl Schlegel – Pineview",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Laingsburg",
+    "state": "MI",
+    "zip": "48840"
+  },
+  "location": {
+    "lat": 42.805267,
+    "lng": -84.332893
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003685"
+  },
+  "msha": [
+    {
+      "mine_id": "2003685",
+      "name": "Pineview",
+      "operator": "Carl Schlegel, Inc",
+      "status": "Intermittent",
+      "status_since": "2025-04-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

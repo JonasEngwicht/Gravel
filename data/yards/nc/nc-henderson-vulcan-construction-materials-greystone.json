@@ -1,0 +1,41 @@
+{
+  "id": "nc-henderson-vulcan-construction-materials-greystone",
+  "slug": "vulcan-construction-materials-greystone",
+  "name": "Vulcan Construction Materials – Greystone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Henderson",
+    "state": "NC",
+    "zip": "27537"
+  },
+  "location": {
+    "lat": 36.355217,
+    "lng": -78.348478
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3100094"
+  },
+  "msha": [
+    {
+      "mine_id": "3100094",
+      "name": "Greystone",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1977-01-06",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 27
+    }
+  ]
+}

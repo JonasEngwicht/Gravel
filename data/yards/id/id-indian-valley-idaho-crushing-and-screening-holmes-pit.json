@@ -1,0 +1,41 @@
+{
+  "id": "id-indian-valley-idaho-crushing-and-screening-holmes-pit",
+  "slug": "idaho-crushing-and-screening-holmes-pit",
+  "name": "Idaho Crushing and Screening – Holmes Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Indian valley",
+    "state": "ID",
+    "zip": "83632"
+  },
+  "location": {
+    "lat": 44.578056,
+    "lng": -116.413333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1002380"
+  },
+  "msha": [
+    {
+      "mine_id": "1002380",
+      "name": "Holmes Pit",
+      "operator": "Idaho Crushing and Screening",
+      "status": "Intermittent",
+      "status_since": "2026-06-08",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

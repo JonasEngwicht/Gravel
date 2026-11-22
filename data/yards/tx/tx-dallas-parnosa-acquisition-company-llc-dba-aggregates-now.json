@@ -1,0 +1,32 @@
+{
+  "id": "tx-dallas-parnosa-acquisition-company-llc-dba-aggregates-now",
+  "slug": "parnosa-acquisition-company-llc-dba-aggregates-now",
+  "name": "Parnosa Acquisition Company, Llc Dba Aggregates Now",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12830 Hillcrest Rd Ste D111",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75230"
+  },
+  "location": {
+    "lat": 32.923401,
+    "lng": -96.78434
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d328be4d-9bd5-4698-a493-8e1a1408fee5",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

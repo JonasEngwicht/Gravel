@@ -1,0 +1,41 @@
+{
+  "id": "me-poland-pike-industries-poland-crushed-stone-c610",
+  "slug": "pike-industries-poland-crushed-stone-c610",
+  "name": "Pike Industries – Poland Crushed Stone C610",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Poland",
+    "state": "ME",
+    "zip": "04274"
+  },
+  "location": {
+    "lat": 44.021667,
+    "lng": -70.3525
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700582"
+  },
+  "msha": [
+    {
+      "mine_id": "1700582",
+      "name": "Poland Crushed Stone C610",
+      "operator": "Pike Industries Inc",
+      "status": "Intermittent",
+      "status_since": "1995-03-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

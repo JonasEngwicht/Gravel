@@ -1,0 +1,37 @@
+{
+  "id": "ca-lake-forest-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "23941 Mcwhorter Way",
+    "city": "Lake Forest",
+    "state": "CA",
+    "zip": "92630"
+  },
+  "location": {
+    "lat": 33.635582,
+    "lng": -117.712395
+  },
+  "contact": {
+    "phone": "(949) 470-1000",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5528d5b1-ba5f-4642-9fbc-31a1e6bd1890",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

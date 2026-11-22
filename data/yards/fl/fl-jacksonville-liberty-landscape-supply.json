@@ -1,0 +1,36 @@
+{
+  "id": "fl-jacksonville-liberty-landscape-supply",
+  "slug": "liberty-landscape-supply",
+  "name": "Liberty Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8178 San Jose Blvd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32217"
+  },
+  "location": {
+    "lat": 30.231318,
+    "lng": -81.617599
+  },
+  "contact": {
+    "phone": "(904) 733-7549",
+    "website": "https://www.libertylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "972c5ccf-53d3-453b-9164-3e224d474f53",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

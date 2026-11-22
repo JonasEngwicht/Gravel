@@ -1,0 +1,41 @@
+{
+  "id": "ny-bloomville-delaware-bulldozing-extec-5000",
+  "slug": "delaware-bulldozing-extec-5000",
+  "name": "Delaware Bulldozing – Extec 5000",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bloomville",
+    "state": "NY",
+    "zip": "13739"
+  },
+  "location": {
+    "lat": 42.321944,
+    "lng": -74.807778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003125"
+  },
+  "msha": [
+    {
+      "mine_id": "3003125",
+      "name": "Extec 5000",
+      "operator": "Delaware Bulldozing Corp.",
+      "status": "Intermittent",
+      "status_since": "1994-06-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

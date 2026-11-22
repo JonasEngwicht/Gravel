@@ -1,0 +1,41 @@
+{
+  "id": "mi-georgetown-top-grade-aggregates-georgetown-wash-plant",
+  "slug": "top-grade-aggregates-georgetown-wash-plant",
+  "name": "Top Grade Aggregates – Georgetown Wash Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Georgetown",
+    "state": "MI",
+    "zip": "49344"
+  },
+  "location": {
+    "lat": 42.603889,
+    "lng": -85.603889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003712"
+  },
+  "msha": [
+    {
+      "mine_id": "2003712",
+      "name": "Georgetown Wash Plant",
+      "operator": "Top Grade Aggregates, LLC.",
+      "status": "Intermittent",
+      "status_since": "2026-11-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

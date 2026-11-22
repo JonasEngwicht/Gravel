@@ -1,0 +1,48 @@
+{
+  "id": "il-forreston-adeline-sand-and-gravel",
+  "slug": "adeline-sand-and-gravel",
+  "name": "Adeline Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8431 N Cherry Rd",
+    "city": "Forreston",
+    "state": "IL",
+    "zip": "61030"
+  },
+  "location": {
+    "lat": 42.131073,
+    "lng": -89.50116
+  },
+  "contact": {
+    "phone": "(815) 938-2880",
+    "website": "http://sandandrock.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a318a766-2d8f-44e4-bdb8-bcecce3568d4",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1103088",
+      "name": "Adeline Sand & Gravel LLC",
+      "operator": "Adeline Sand & Gravel LLC",
+      "status": "Abandoned",
+      "status_since": "2012-07-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wi-iron-river-milestone-materials-div-mathy-construction",
+  "slug": "milestone-materials-div-mathy-construction",
+  "name": "Milestone Materials Div Mathy Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Iron River",
+    "state": "WI",
+    "zip": "54650"
+  },
+  "location": {
+    "lat": 43.896389,
+    "lng": -91.225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703465"
+  },
+  "msha": [
+    {
+      "mine_id": "4703465",
+      "name": "Plant #74",
+      "operator": "Milestone Materials Div Mathy Construction Co",
+      "status": "Intermittent",
+      "status_since": "2020-08-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

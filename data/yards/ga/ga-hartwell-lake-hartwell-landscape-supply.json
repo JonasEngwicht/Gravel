@@ -1,0 +1,35 @@
+{
+  "id": "ga-hartwell-lake-hartwell-landscape-supply",
+  "slug": "lake-hartwell-landscape-supply",
+  "name": "Lake Hartwell Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "41 Greenway Upholstery Rd",
+    "city": "Hartwell",
+    "state": "GA",
+    "zip": "30643"
+  },
+  "location": {
+    "lat": 34.448418,
+    "lng": -82.929016
+  },
+  "contact": {
+    "phone": "(706) 436-3621"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c7353f15-20cc-4448-ab0b-d99c8144a21c",
+    "confidence": 0.531,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "in-gas-city-gas-city-mulch",
+  "slug": "gas-city-mulch",
+  "name": "Gas City Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "567 W Main St",
+    "city": "Gas City",
+    "state": "IN",
+    "zip": "46933"
+  },
+  "location": {
+    "lat": 40.48769,
+    "lng": -85.622414
+  },
+  "contact": {
+    "phone": "(765) 717-1865"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c9d4c3e-c9a5-4f59-9c64-917fc4c6f948",
+    "confidence": 0.607,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-plainfield-fox-landscape-supply",
+  "slug": "fox-landscape-supply",
+  "name": "Fox Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "26049 Lockport St",
+    "city": "Plainfield",
+    "state": "IL",
+    "zip": "60544"
+  },
+  "location": {
+    "lat": 41.606949,
+    "lng": -88.250542
+  },
+  "contact": {
+    "phone": "(815) 577-8294",
+    "website": "http://foxlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "92975901-cf2e-4eb8-a2c7-17bcd9486c55",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

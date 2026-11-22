@@ -1,0 +1,41 @@
+{
+  "id": "vt-berlin-mccullough-crushing-mcdwire-quarry",
+  "slug": "mccullough-crushing-mcdwire-quarry",
+  "name": "McCullough Crushing – McDwire Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Berlin",
+    "state": "VT",
+    "zip": "05602"
+  },
+  "location": {
+    "lat": 44.263611,
+    "lng": -72.580278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300832"
+  },
+  "msha": [
+    {
+      "mine_id": "4300832",
+      "name": "McDwire Quarry",
+      "operator": "McCullough Crushing, INC",
+      "status": "Intermittent",
+      "status_since": "2025-08-12",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

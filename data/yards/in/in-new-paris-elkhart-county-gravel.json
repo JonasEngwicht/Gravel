@@ -1,0 +1,36 @@
+{
+  "id": "in-new-paris-elkhart-county-gravel",
+  "slug": "elkhart-county-gravel",
+  "name": "Elkhart County Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "19242 US Highway 6",
+    "city": "New Paris",
+    "state": "IN",
+    "zip": "46553"
+  },
+  "location": {
+    "lat": 41.445614,
+    "lng": -85.830841
+  },
+  "contact": {
+    "phone": "(574) 831-2815",
+    "website": "https://www.elkhartcountygravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "acecb08f-3199-42af-84c7-798d65276385",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

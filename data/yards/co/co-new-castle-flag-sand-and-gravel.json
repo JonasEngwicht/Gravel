@@ -1,0 +1,36 @@
+{
+  "id": "co-new-castle-flag-sand-and-gravel",
+  "slug": "flag-sand-and-gravel",
+  "name": "Flag Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1412 Co Rd 311",
+    "city": "New Castle",
+    "state": "CO",
+    "zip": "81647"
+  },
+  "location": {
+    "lat": 39.539421,
+    "lng": -107.629173
+  },
+  "contact": {
+    "phone": "(970) 876-2397",
+    "website": "http://Flagresourcesinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "63ede567-ef21-461a-b204-896820d76578",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

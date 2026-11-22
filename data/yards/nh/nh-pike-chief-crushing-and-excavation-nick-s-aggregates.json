@@ -1,0 +1,41 @@
+{
+  "id": "nh-pike-chief-crushing-and-excavation-nick-s-aggregates",
+  "slug": "chief-crushing-and-excavation-nick-s-aggregates",
+  "name": "Chief Crushing & Excavation – Nick's Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Pike",
+    "state": "NH",
+    "zip": "03780"
+  },
+  "location": {
+    "lat": 44.021667,
+    "lng": -71.960556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700465"
+  },
+  "msha": [
+    {
+      "mine_id": "2700465",
+      "name": "Nick's Aggregates",
+      "operator": "Chief Crushing & Excavation Inc",
+      "status": "Intermittent",
+      "status_since": "2012-11-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

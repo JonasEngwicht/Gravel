@@ -1,0 +1,36 @@
+{
+  "id": "mi-shepherd-kyser-sand-and-gravel",
+  "slug": "kyser-sand-and-gravel",
+  "name": "Kyser Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7902 S Lincoln Rd",
+    "city": "Shepherd",
+    "state": "MI",
+    "zip": "48883"
+  },
+  "location": {
+    "lat": 43.525028,
+    "lng": -84.808662
+  },
+  "contact": {
+    "phone": "(989) 289-8013",
+    "website": "http://www.kysersandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2060cdfa-3573-4716-b796-68858c4b2acc",
+    "confidence": 0.968,
+    "merged_records": 1
+  }
+}

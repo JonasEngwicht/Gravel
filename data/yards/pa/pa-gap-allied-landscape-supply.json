@@ -1,0 +1,36 @@
+{
+  "id": "pa-gap-allied-landscape-supply",
+  "slug": "allied-landscape-supply",
+  "name": "Allied Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5834 Lincoln Hwy",
+    "city": "Gap",
+    "state": "PA",
+    "zip": "17527"
+  },
+  "location": {
+    "lat": 39.987091,
+    "lng": -75.973381
+  },
+  "contact": {
+    "phone": "(717) 442-4390",
+    "website": "http://www.alliedlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "531df6af-9bea-4adb-ae6d-c670348d69cd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mi-davisburg-tri-city-aggregates-inc",
+  "slug": "tri-city-aggregates-inc",
+  "name": "Tri City Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16821 Dixie Hwy",
+    "city": "Davisburg",
+    "state": "MI",
+    "zip": "48442"
+  },
+  "location": {
+    "lat": 42.790051,
+    "lng": -83.510834
+  },
+  "contact": {
+    "phone": "(248) 634-9636"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81d25e7c-bf9d-43bb-8349-c5a5e1f7546d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

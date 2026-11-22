@@ -1,0 +1,41 @@
+{
+  "id": "tx-liberty-hill-wilco-aggregates-armadillo-pit",
+  "slug": "wilco-aggregates-armadillo-pit",
+  "name": "Wilco Aggregates – Armadillo Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Liberty Hill",
+    "state": "TX",
+    "zip": "78642"
+  },
+  "location": {
+    "lat": 30.630556,
+    "lng": -98.009444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105692"
+  },
+  "msha": [
+    {
+      "mine_id": "4105692",
+      "name": "Armadillo Pit",
+      "operator": "Wilco Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2025-08-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

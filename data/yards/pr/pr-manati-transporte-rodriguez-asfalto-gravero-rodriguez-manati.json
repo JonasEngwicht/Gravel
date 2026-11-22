@@ -1,0 +1,41 @@
+{
+  "id": "pr-manati-transporte-rodriguez-asfalto-gravero-rodriguez-manati",
+  "slug": "transporte-rodriguez-asfalto-gravero-rodriguez-manati",
+  "name": "Transporte Rodriguez Asfalto – Gravero Rodriguez, Manati",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Manati",
+    "state": "PR",
+    "zip": "00693"
+  },
+  "location": {
+    "lat": 18.433611,
+    "lng": -66.425
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400235"
+  },
+  "msha": [
+    {
+      "mine_id": "5400235",
+      "name": "Gravero Rodriguez, Manati",
+      "operator": "Transporte Rodriguez Asfalto, Inc.",
+      "status": "Active",
+      "status_since": "2004-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

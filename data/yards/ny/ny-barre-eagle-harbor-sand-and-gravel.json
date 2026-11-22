@@ -1,0 +1,48 @@
+{
+  "id": "ny-barre-eagle-harbor-sand-and-gravel",
+  "slug": "eagle-harbor-sand-and-gravel",
+  "name": "Eagle Harbor Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4780 Eagle Harbor Rd",
+    "city": "Barre",
+    "state": "NY",
+    "zip": "14411"
+  },
+  "location": {
+    "lat": 43.180084,
+    "lng": -78.254906
+  },
+  "contact": {
+    "phone": "(585) 589-5178",
+    "website": "http://www.shelbystone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "47614604-c845-424e-b3b4-30e165f2cf9b",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3002519",
+      "name": "Eagle Harbor Sand & Gravel Inc",
+      "operator": "Eagle Harbor Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2025-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

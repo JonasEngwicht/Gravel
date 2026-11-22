@@ -1,0 +1,36 @@
+{
+  "id": "ma-north-adams-duke-s-sand-and-gravel",
+  "slug": "duke-s-sand-and-gravel",
+  "name": "Duke's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1526 Curran Hwy",
+    "city": "North Adams",
+    "state": "MA",
+    "zip": "01247"
+  },
+  "location": {
+    "lat": 42.661049,
+    "lng": -73.108231
+  },
+  "contact": {
+    "phone": "(413) 743-1500",
+    "website": "http://www.dukes-lumber.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f44ed5d-fae2-404a-b073-f77538a347b8",
+    "confidence": 0.712,
+    "merged_records": 1
+  }
+}

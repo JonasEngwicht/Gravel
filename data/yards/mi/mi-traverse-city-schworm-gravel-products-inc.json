@@ -1,0 +1,35 @@
+{
+  "id": "mi-traverse-city-schworm-gravel-products-inc",
+  "slug": "schworm-gravel-products-inc",
+  "name": "Schworm Gravel Products Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1289 S M 37",
+    "city": "Traverse City",
+    "state": "MI",
+    "zip": "49685"
+  },
+  "location": {
+    "lat": 44.665932,
+    "lng": -85.656128
+  },
+  "contact": {
+    "phone": "(231) 943-8300"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b598ea08-6461-4626-9994-2fa2f7547de5",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

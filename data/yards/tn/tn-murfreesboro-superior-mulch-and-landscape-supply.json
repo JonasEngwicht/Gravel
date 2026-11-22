@@ -1,0 +1,36 @@
+{
+  "id": "tn-murfreesboro-superior-mulch-and-landscape-supply",
+  "slug": "superior-mulch-and-landscape-supply",
+  "name": "Superior Mulch & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1825 Lascassas Pike",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37130"
+  },
+  "location": {
+    "lat": 35.866493,
+    "lng": -86.36161
+  },
+  "contact": {
+    "phone": "(615) 410-7759",
+    "website": "https://www.superiormulchtn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "719469b8-46e5-402b-920f-5937687542fd",
+    "confidence": 0.977,
+    "merged_records": 1
+  }
+}

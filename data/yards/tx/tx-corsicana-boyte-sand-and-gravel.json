@@ -1,0 +1,35 @@
+{
+  "id": "tx-corsicana-boyte-sand-and-gravel",
+  "slug": "boyte-sand-and-gravel",
+  "name": "Boyte Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1217 S 7th St",
+    "city": "Corsicana",
+    "state": "TX",
+    "zip": "75110"
+  },
+  "location": {
+    "lat": 32.085968,
+    "lng": -96.453674
+  },
+  "contact": {
+    "phone": "(903) 874-3478"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44b737a6-a031-4ee0-8e6c-09967969e51b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

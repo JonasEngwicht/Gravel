@@ -1,0 +1,36 @@
+{
+  "id": "ca-menifee-southern-california-mulch",
+  "slug": "southern-california-mulch",
+  "name": "Southern California Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "30115 Scott Rd",
+    "city": "Menifee",
+    "state": "CA",
+    "zip": "92584"
+  },
+  "location": {
+    "lat": 33.640995,
+    "lng": -117.134766
+  },
+  "contact": {
+    "phone": "(951) 325-5355",
+    "website": "https://socalmulch.com/directions-locations/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c669e8c-a6fe-4ee6-b1f0-3e4fdfeac73d",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

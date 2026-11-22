@@ -1,0 +1,41 @@
+{
+  "id": "pa-mt-holly-springs-pennsy-supply-mt-holly-quarry",
+  "slug": "pennsy-supply-mt-holly-quarry",
+  "name": "Pennsy Supply – Mt Holly Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mt. Holly Springs",
+    "state": "PA",
+    "zip": "17065"
+  },
+  "location": {
+    "lat": 40.106944,
+    "lng": -77.210278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3603215"
+  },
+  "msha": [
+    {
+      "mine_id": "3603215",
+      "name": "Mt Holly Quarry",
+      "operator": "Pennsy Supply Inc",
+      "status": "Active",
+      "status_since": "2012-04-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

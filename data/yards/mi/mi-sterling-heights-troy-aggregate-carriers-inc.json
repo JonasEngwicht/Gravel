@@ -1,0 +1,36 @@
+{
+  "id": "mi-sterling-heights-troy-aggregate-carriers-inc",
+  "slug": "troy-aggregate-carriers-inc",
+  "name": "Troy Aggregate Carriers Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6075 Elmridge Dr",
+    "city": "Sterling Heights",
+    "state": "MI",
+    "zip": "48313"
+  },
+  "location": {
+    "lat": 42.592556,
+    "lng": -83.048607
+  },
+  "contact": {
+    "phone": "(586) 446-9200",
+    "website": "http://troyaggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd376a42-b75c-4818-98cd-644c306fb061",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

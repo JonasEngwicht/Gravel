@@ -1,0 +1,35 @@
+{
+  "id": "ut-farr-west-summit-stone-supply",
+  "slug": "summit-stone-supply",
+  "name": "Summit Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1980 N 2000 W  Ste 2",
+    "city": "Farr West",
+    "state": "UT",
+    "zip": "84404"
+  },
+  "location": {
+    "lat": 41.294037,
+    "lng": -112.027168
+  },
+  "contact": {
+    "phone": "(801) 707-3373"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4744d799-d50d-40eb-babf-3b8c79f08074",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

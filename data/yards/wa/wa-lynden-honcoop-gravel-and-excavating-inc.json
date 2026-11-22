@@ -1,0 +1,36 @@
+{
+  "id": "wa-lynden-honcoop-gravel-and-excavating-inc",
+  "slug": "honcoop-gravel-and-excavating-inc",
+  "name": "Honcoop Gravel & Excavating Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8911 Guide Meridian Rd",
+    "city": "Lynden",
+    "state": "WA",
+    "zip": "98264"
+  },
+  "location": {
+    "lat": 48.964958,
+    "lng": -122.485214
+  },
+  "contact": {
+    "phone": "(360) 360-0447",
+    "website": "https://www.honcoop.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "610e386d-02e3-4bcd-81b0-e86abeb8be0c",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

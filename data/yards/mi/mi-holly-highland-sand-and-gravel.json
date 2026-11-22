@@ -1,0 +1,48 @@
+{
+  "id": "mi-holly-highland-sand-and-gravel",
+  "slug": "highland-sand-and-gravel",
+  "name": "Highland Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6454 N Hickory Ridge Rd",
+    "city": "Holly",
+    "state": "MI",
+    "zip": "48442"
+  },
+  "location": {
+    "lat": 42.688461,
+    "lng": -83.660515
+  },
+  "contact": {
+    "phone": "(248) 529-2100",
+    "website": "http://www.highlandstone.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "641f002c-4467-4a92-9234-d66b5dc7c439",
+    "confidence": 0.77,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2002965",
+      "name": "Highland Plant",
+      "operator": "American Aggregates of Michigan Inc",
+      "status": "Active",
+      "status_since": "2015-05-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 16
+    }
+  ]
+}

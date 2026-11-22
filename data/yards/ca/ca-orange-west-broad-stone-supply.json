@@ -1,0 +1,36 @@
+{
+  "id": "ca-orange-west-broad-stone-supply",
+  "slug": "west-broad-stone-supply",
+  "name": "West Broad Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "614 W Katella Ave",
+    "city": "Orange",
+    "state": "CA",
+    "zip": "92867"
+  },
+  "location": {
+    "lat": 33.808289,
+    "lng": -117.858238
+  },
+  "contact": {
+    "phone": "(714) 516-0908",
+    "website": "http://www.wbstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d42fa55-a91f-4615-a96e-2f0e2290838c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

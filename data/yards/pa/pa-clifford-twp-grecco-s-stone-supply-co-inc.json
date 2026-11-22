@@ -1,0 +1,36 @@
+{
+  "id": "pa-clifford-twp-grecco-s-stone-supply-co-inc",
+  "slug": "grecco-s-stone-supply-co-inc",
+  "name": "Grecco's Stone Supply Co. Inc.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1665 Creamery Rd",
+    "city": "Clifford Twp",
+    "state": "PA",
+    "zip": "18407"
+  },
+  "location": {
+    "lat": 41.649006,
+    "lng": -75.599655
+  },
+  "contact": {
+    "phone": "(570) 222-3885",
+    "website": "http://www.greccos-stone-supply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0c7e3ce6-174b-44e6-b0da-81bf4f91a245",
+    "confidence": 0.834,
+    "merged_records": 1
+  }
+}

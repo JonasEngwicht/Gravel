@@ -1,0 +1,36 @@
+{
+  "id": "sc-gilbert-gilbert-landscape-supply",
+  "slug": "gilbert-landscape-supply",
+  "name": "Gilbert Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "105 Evans Addy Rd",
+    "city": "Gilbert",
+    "state": "SC",
+    "zip": "29054"
+  },
+  "location": {
+    "lat": 33.952694,
+    "lng": -81.415367
+  },
+  "contact": {
+    "phone": "(803) 348-3322",
+    "website": "http://Bigcatlawncare.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "686a84ff-7ba0-4006-9784-08dce0a8984b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

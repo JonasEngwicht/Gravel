@@ -1,0 +1,36 @@
+{
+  "id": "id-burley-aztex-sand-and-gravel",
+  "slug": "aztex-sand-and-gravel",
+  "name": "Aztex Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "597 S 50 E",
+    "city": "Burley",
+    "state": "ID",
+    "zip": "83318"
+  },
+  "location": {
+    "lat": 42.445984,
+    "lng": -113.783356
+  },
+  "contact": {
+    "phone": "(208) 678-1222",
+    "website": "http://www.aztecgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc82aef8-97eb-4af0-ba4a-85d16e735e1d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "va-ruckersville-luck-stone-greene-plant",
+  "slug": "luck-stone-greene-plant",
+  "name": "Luck Stone – Greene Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ruckersville",
+    "state": "VA",
+    "zip": "22968"
+  },
+  "location": {
+    "lat": 38.247778,
+    "lng": -78.366389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406052"
+  },
+  "msha": [
+    {
+      "mine_id": "4406052",
+      "name": "Greene Plant",
+      "operator": "Luck Stone Corporation",
+      "status": "Active",
+      "status_since": "1984-01-16",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

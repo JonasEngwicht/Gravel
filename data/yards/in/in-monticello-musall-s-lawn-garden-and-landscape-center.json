@@ -1,0 +1,36 @@
+{
+  "id": "in-monticello-musall-s-lawn-garden-and-landscape-center",
+  "slug": "musall-s-lawn-garden-and-landscape-center",
+  "name": "Musall's Lawn, Garden & Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "408 S Beach Dr",
+    "city": "Monticello",
+    "state": "IN",
+    "zip": "47960"
+  },
+  "location": {
+    "lat": 40.754246,
+    "lng": -86.758095
+  },
+  "contact": {
+    "phone": "(574) 583-8080",
+    "website": "http://musallslawngarden.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0b73f3c3-4ec9-407b-bb64-4e29bc375b38",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wa-naselle-naselle-rock-and-asphalt",
+  "slug": "naselle-rock-and-asphalt",
+  "name": "Naselle Rock & Asphalt",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Naselle",
+    "state": "WA",
+    "zip": "98638"
+  },
+  "location": {
+    "lat": 46.381667,
+    "lng": -123.785
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4500063"
+  },
+  "msha": [
+    {
+      "mine_id": "4500063",
+      "name": "Naselle Quarry",
+      "operator": "Naselle Rock & Asphalt Company",
+      "status": "Active",
+      "status_since": "1985-10-28",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "in-cloverdale-243-quarry",
+  "slug": "243-quarry",
+  "name": "243 Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cloverdale",
+    "state": "IN",
+    "zip": "46170"
+  },
+  "location": {
+    "lat": 39.544167,
+    "lng": -86.877222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202409"
+  },
+  "msha": [
+    {
+      "mine_id": "1202409",
+      "name": "243 Quarry",
+      "operator": "US Aggregates LLC",
+      "status": "Active",
+      "status_since": "2011-12-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

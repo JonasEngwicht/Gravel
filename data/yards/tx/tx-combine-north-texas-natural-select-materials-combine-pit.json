@@ -1,0 +1,41 @@
+{
+  "id": "tx-combine-north-texas-natural-select-materials-combine-pit",
+  "slug": "north-texas-natural-select-materials-combine-pit",
+  "name": "North Texas Natural Select Materials – Combine Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Combine",
+    "state": "TX",
+    "zip": "75159"
+  },
+  "location": {
+    "lat": 32.592222,
+    "lng": -96.511111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105820"
+  },
+  "msha": [
+    {
+      "mine_id": "4105820",
+      "name": "Combine Pit",
+      "operator": "North Texas Natural Select Materials",
+      "status": "Active",
+      "status_since": "2025-10-08",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

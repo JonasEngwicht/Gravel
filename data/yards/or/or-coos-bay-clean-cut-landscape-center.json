@@ -1,0 +1,36 @@
+{
+  "id": "or-coos-bay-clean-cut-landscape-center",
+  "slug": "clean-cut-landscape-center",
+  "name": "Clean Cut Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "755 S Empire Blvd",
+    "city": "Coos Bay",
+    "state": "OR",
+    "zip": "97420"
+  },
+  "location": {
+    "lat": 43.384445,
+    "lng": -124.281654
+  },
+  "contact": {
+    "phone": "(541) 290-3952",
+    "website": "http://cleancutlandscapellc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42439238-7edc-4136-b369-ca3c18627301",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

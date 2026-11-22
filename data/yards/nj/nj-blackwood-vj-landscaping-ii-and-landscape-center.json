@@ -1,0 +1,36 @@
+{
+  "id": "nj-blackwood-vj-landscaping-ii-and-landscape-center",
+  "slug": "vj-landscaping-ii-and-landscape-center",
+  "name": "Vj Landscaping II & Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1861 Chews Landing-Clementon Rd",
+    "city": "Blackwood",
+    "state": "NJ",
+    "zip": "08012"
+  },
+  "location": {
+    "lat": 39.833744,
+    "lng": -75.064522
+  },
+  "contact": {
+    "phone": "(856) 228-5588",
+    "website": "http://vjlandscaping-southjersey.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27e27c13-64fd-49d7-b065-cfe89f363f1c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

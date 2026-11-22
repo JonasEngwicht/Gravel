@@ -1,0 +1,41 @@
+{
+  "id": "ny-stafford-heidelberg-materials-northeast-ny-stafford-quarry",
+  "slug": "heidelberg-materials-northeast-ny-stafford-quarry",
+  "name": "Heidelberg Materials Northeast-NY – Stafford Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Stafford",
+    "state": "NY",
+    "zip": "14143"
+  },
+  "location": {
+    "lat": 42.986389,
+    "lng": -78.099167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000055"
+  },
+  "msha": [
+    {
+      "mine_id": "3000055",
+      "name": "Stafford Quarry",
+      "operator": "Heidelberg Materials Northeast-NY LLC",
+      "status": "Intermittent",
+      "status_since": "2024-12-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

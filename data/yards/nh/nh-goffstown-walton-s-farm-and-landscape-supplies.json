@@ -1,0 +1,35 @@
+{
+  "id": "nh-goffstown-walton-s-farm-and-landscape-supplies",
+  "slug": "walton-s-farm-and-landscape-supplies",
+  "name": "Walton's Farm & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "182 Goffstown Back Rd",
+    "city": "Goffstown",
+    "state": "NH",
+    "zip": "03045"
+  },
+  "location": {
+    "lat": 43.018379,
+    "lng": -71.52298
+  },
+  "contact": {
+    "phone": "(603) 234-3711"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a0a78d4-dfc0-4e34-a69e-d9722bfe76a3",
+    "confidence": 0.863,
+    "merged_records": 1
+  }
+}

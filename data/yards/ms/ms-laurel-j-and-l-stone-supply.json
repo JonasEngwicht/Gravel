@@ -1,0 +1,36 @@
+{
+  "id": "ms-laurel-j-and-l-stone-supply",
+  "slug": "j-and-l-stone-supply",
+  "name": "J & L Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "56 Co Rd 237",
+    "city": "Laurel",
+    "state": "MS",
+    "zip": "39443"
+  },
+  "location": {
+    "lat": 31.820745,
+    "lng": -89.154984
+  },
+  "contact": {
+    "phone": "(601) 425-3487",
+    "website": "https://j-l-stone-supply.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7576a426-947a-461c-8de7-abe874c2e9e7",
+    "confidence": 0.978,
+    "merged_records": 2
+  }
+}

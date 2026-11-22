@@ -1,0 +1,37 @@
+{
+  "id": "ca-lakeside-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "12560 Highway 67",
+    "city": "Lakeside",
+    "state": "CA",
+    "zip": "92040"
+  },
+  "location": {
+    "lat": 32.902321,
+    "lng": -116.949394
+  },
+  "contact": {
+    "phone": "(619) 561-8500",
+    "website": "http://www.heidelbergcement.com/uk/en/hanson/home.htm"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "63fd26eb-5949-4edb-a799-860eaf981169",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nh-manchester-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "888 Dunbarton Rd",
+    "city": "Manchester",
+    "state": "NH",
+    "zip": "03102"
+  },
+  "location": {
+    "lat": 43.021214,
+    "lng": -71.497116
+  },
+  "contact": {
+    "phone": "(603) 623-7271",
+    "website": "https://www.aggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b736ce9-b59e-4605-ade7-e63b4ceaa33e",
+    "confidence": 0.55,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2700057",
+      "name": "Manchester Plant",
+      "operator": "Aggregate Industries Northeast Region",
+      "status": "Abandoned",
+      "status_since": "2003-12-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

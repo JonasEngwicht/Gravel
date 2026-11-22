@@ -1,0 +1,41 @@
+{
+  "id": "ar-little-rock-jeffrey-sand-dredge-cora-j",
+  "slug": "jeffrey-sand-dredge-cora-j",
+  "name": "Jeffrey Sand – Dredge Cora J",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72202"
+  },
+  "location": {
+    "lat": 34.750278,
+    "lng": -92.241389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301813"
+  },
+  "msha": [
+    {
+      "mine_id": "0301813",
+      "name": "Dredge Cora J",
+      "operator": "Jeffrey Sand Company",
+      "status": "Active",
+      "status_since": "2022-05-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

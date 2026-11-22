@@ -1,0 +1,36 @@
+{
+  "id": "ms-jackson-williams-and-sons-sand-and-gravel-haulers",
+  "slug": "williams-and-sons-sand-and-gravel-haulers",
+  "name": "Williams & Sons Sand and Gravel Haulers",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1215 Fairmont Ave",
+    "city": "Jackson",
+    "state": "MS",
+    "zip": "39204"
+  },
+  "location": {
+    "lat": 32.291447,
+    "lng": -90.204224
+  },
+  "contact": {
+    "phone": "(601) 948-2084",
+    "website": "http://williams-shop.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d199bf1-f603-45a2-97cb-141b21bc2b37",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

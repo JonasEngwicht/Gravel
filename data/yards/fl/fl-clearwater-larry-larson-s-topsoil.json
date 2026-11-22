@@ -1,0 +1,36 @@
+{
+  "id": "fl-clearwater-larry-larson-s-topsoil",
+  "slug": "larry-larson-s-topsoil",
+  "name": "Larry Larson's Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4700 Ulmerton Rd",
+    "city": "Clearwater",
+    "state": "FL",
+    "zip": "33762"
+  },
+  "location": {
+    "lat": 27.893396,
+    "lng": -82.697495
+  },
+  "contact": {
+    "phone": "(727) 297-2027",
+    "website": "https://www.larrylarsontopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5c49528-4e53-4cf2-97fc-17153b347b97",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

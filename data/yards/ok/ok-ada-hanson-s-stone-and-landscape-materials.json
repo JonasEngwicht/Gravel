@@ -1,0 +1,32 @@
+{
+  "id": "ok-ada-hanson-s-stone-and-landscape-materials",
+  "slug": "hanson-s-stone-and-landscape-materials",
+  "name": "Hanson's Stone & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "Corner of HWY 1 And Homer Rd",
+    "city": "Ada",
+    "state": "OK",
+    "zip": "74820"
+  },
+  "location": {
+    "lat": 34.781528,
+    "lng": -96.611092
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "67a7495e-8cab-45db-bc6f-fa9b73be4133",
+    "confidence": 0.596,
+    "merged_records": 1
+  }
+}

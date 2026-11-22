@@ -1,0 +1,36 @@
+{
+  "id": "mi-charlevoix-boss-landscape-supply",
+  "slug": "boss-landscape-supply",
+  "name": "Boss Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "06798 US-31",
+    "city": "Charlevoix",
+    "state": "MI",
+    "zip": "49720"
+  },
+  "location": {
+    "lat": 45.300716,
+    "lng": -85.275261
+  },
+  "contact": {
+    "phone": "(231) 547-0766",
+    "website": "https://www.bosslandscapemi.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a89241f5-d7fe-43c2-940d-152439d344ba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wi-sheboygan-lake-ellen-stone",
+  "slug": "lake-ellen-stone",
+  "name": "Lake Ellen Stone",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sheboygan",
+    "state": "WI",
+    "zip": "53001"
+  },
+  "location": {
+    "lat": 43.602222,
+    "lng": -88.070556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4700791"
+  },
+  "msha": [
+    {
+      "mine_id": "4700791",
+      "name": "Lake Ellen Stone, Inc.",
+      "operator": "Lake Ellen Stone, Inc.",
+      "status": "Intermittent",
+      "status_since": "2021-03-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

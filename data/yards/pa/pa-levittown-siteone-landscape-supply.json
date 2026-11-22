@@ -1,0 +1,37 @@
+{
+  "id": "pa-levittown-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "98 Tulip Tree Rd",
+    "city": "Levittown",
+    "state": "PA",
+    "zip": "19056"
+  },
+  "location": {
+    "lat": 40.1311,
+    "lng": -75.469086
+  },
+  "contact": {
+    "phone": "(610) 666-0595",
+    "website": "https://www.siteone.com/store/646"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eebca189-76e3-4183-826a-11d44e9fe028",
+    "confidence": 0.988,
+    "merged_records": 1
+  }
+}

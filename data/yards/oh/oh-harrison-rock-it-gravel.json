@@ -1,0 +1,35 @@
+{
+  "id": "oh-harrison-rock-it-gravel",
+  "slug": "rock-it-gravel",
+  "name": "Rock It Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10974 Campbell Rd",
+    "city": "Harrison",
+    "state": "OH",
+    "zip": "45030"
+  },
+  "location": {
+    "lat": 39.246342,
+    "lng": -84.803871
+  },
+  "contact": {
+    "phone": "(513) 367-5174"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1bd3819e-4ce1-499a-bdcf-2e5a1690dedf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-farmington-hills-noble-s-landscape-supply",
+  "slug": "noble-s-landscape-supply",
+  "name": "Noble's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "29450 W 8 Mile Rd",
+    "city": "Farmington Hills",
+    "state": "MI",
+    "zip": "48336"
+  },
+  "location": {
+    "lat": 42.441879,
+    "lng": -83.337936
+  },
+  "contact": {
+    "phone": "(248) 474-4922",
+    "website": "http://www.nobleslandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "48ba01a5-85ae-4929-864a-fbf95567aa69",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

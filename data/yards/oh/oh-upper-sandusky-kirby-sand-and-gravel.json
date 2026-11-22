@@ -1,0 +1,48 @@
+{
+  "id": "oh-upper-sandusky-kirby-sand-and-gravel",
+  "slug": "kirby-sand-and-gravel",
+  "name": "Kirby Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4876 Co Hwy 43",
+    "city": "Upper Sandusky",
+    "state": "OH",
+    "zip": "43351"
+  },
+  "location": {
+    "lat": 40.892231,
+    "lng": -83.206566
+  },
+  "contact": {
+    "phone": "(419) 927-2260",
+    "website": "http://www.kirbysand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d5dce0f3-e282-44f2-a577-4c256e9ace2d",
+    "confidence": 0.999,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3302403",
+      "name": "Kirbys Sand & Gravel",
+      "operator": "Kirby & Sons Inc",
+      "status": "Active",
+      "status_since": "2000-08-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

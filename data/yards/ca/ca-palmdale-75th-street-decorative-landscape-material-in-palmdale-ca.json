@@ -1,0 +1,58 @@
+{
+  "id": "ca-palmdale-75th-street-decorative-landscape-material-in-palmdale-ca",
+  "slug": "75th-street-decorative-landscape-material-in-palmdale-ca",
+  "name": "75th Street Decorative Landscape Material in Palmdale, CA",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "38050 75th St E",
+    "city": "Palmdale",
+    "state": "CA",
+    "zip": "93552"
+  },
+  "location": {
+    "lat": 34.573746,
+    "lng": -117.996002
+  },
+  "contact": {
+    "phone": "(661) 362-8758",
+    "website": "https://www.palmdalerock.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71791b61-7d81-46f5-bc60-5a29d02c228f",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0404803",
+      "name": "Palmdale",
+      "operator": "Robertson's",
+      "status": "Active",
+      "status_since": "1988-04-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    },
+    {
+      "mine_id": "0405896",
+      "name": "75th Street Quarry and Recycling",
+      "operator": "75th Street Quarry and Recycling",
+      "status": "Active",
+      "status_since": "2016-04-18",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

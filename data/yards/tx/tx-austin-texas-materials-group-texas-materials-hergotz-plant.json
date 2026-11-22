@@ -1,0 +1,41 @@
+{
+  "id": "tx-austin-texas-materials-group-texas-materials-hergotz-plant",
+  "slug": "texas-materials-group-texas-materials-hergotz-plant",
+  "name": "Texas Materials Group – Texas Materials Hergotz Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78742"
+  },
+  "location": {
+    "lat": 30.238611,
+    "lng": -97.661389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104441"
+  },
+  "msha": [
+    {
+      "mine_id": "4104441",
+      "name": "Texas Materials Hergotz Plant",
+      "operator": "Texas Materials Group, Inc",
+      "status": "Active",
+      "status_since": "2003-09-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

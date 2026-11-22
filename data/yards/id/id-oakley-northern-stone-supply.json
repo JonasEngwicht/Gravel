@@ -1,0 +1,36 @@
+{
+  "id": "id-oakley-northern-stone-supply",
+  "slug": "northern-stone-supply",
+  "name": "Northern Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "203 W Main St",
+    "city": "Oakley",
+    "state": "ID",
+    "zip": "83346"
+  },
+  "location": {
+    "lat": 42.243027,
+    "lng": -113.884987
+  },
+  "contact": {
+    "phone": "(208) 862-3353",
+    "website": "http://www.northernstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e67e70a7-e1eb-46e4-9960-c07699d75169",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

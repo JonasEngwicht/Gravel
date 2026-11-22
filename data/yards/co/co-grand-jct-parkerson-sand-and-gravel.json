@@ -1,0 +1,35 @@
+{
+  "id": "co-grand-jct-parkerson-sand-and-gravel",
+  "slug": "parkerson-sand-and-gravel",
+  "name": "Parkerson Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "710 S 15th St",
+    "city": "Grand JCT",
+    "state": "CO",
+    "zip": "81501"
+  },
+  "location": {
+    "lat": 39.060555,
+    "lng": -108.547501
+  },
+  "contact": {
+    "phone": "(970) 242-8134"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6c097f79-6893-4449-96e1-88ebac0cfe57",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

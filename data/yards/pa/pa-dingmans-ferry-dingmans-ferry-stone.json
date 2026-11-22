@@ -1,0 +1,41 @@
+{
+  "id": "pa-dingmans-ferry-dingmans-ferry-stone",
+  "slug": "dingmans-ferry-stone",
+  "name": "Dingmans Ferry Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dingmans Ferry",
+    "state": "PA",
+    "zip": "18328"
+  },
+  "location": {
+    "lat": 41.232778,
+    "lng": -74.930833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609569"
+  },
+  "msha": [
+    {
+      "mine_id": "3609569",
+      "name": "Dingmans Ferry Stone Inc",
+      "operator": "Dingmans Ferry Stone Inc",
+      "status": "Active",
+      "status_since": "2014-01-03",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

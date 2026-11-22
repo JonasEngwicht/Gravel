@@ -1,0 +1,47 @@
+{
+  "id": "ny-rossie-cooke-sand-and-gravel",
+  "slug": "cooke-sand-and-gravel",
+  "name": "Cooke Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "90 County Rd 9",
+    "city": "Rossie",
+    "state": "NY",
+    "zip": "13642"
+  },
+  "location": {
+    "lat": 44.259277,
+    "lng": -75.530067
+  },
+  "contact": {
+    "phone": "(315) 287-3187"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8106bb22-508d-4297-8ade-7d1416d7a2e6",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3000884",
+      "name": "Cooke Sand & Gravel Inc",
+      "operator": "Cooke Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "1983-01-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "nc-thomasville-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "691 Upper Lake Rd",
+    "city": "Thomasville",
+    "state": "NC",
+    "zip": "27360"
+  },
+  "location": {
+    "lat": 35.851898,
+    "lng": -80.161949
+  },
+  "contact": {
+    "phone": "(336) 475-9134",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c40576a-253f-43c1-a7ed-5549274d1066",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3101475",
+      "name": "Thomasville Quarry",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Active",
+      "status_since": "1975-02-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

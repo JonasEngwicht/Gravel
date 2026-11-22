@@ -1,0 +1,41 @@
+{
+  "id": "oh-sidney-barrett-paving-materials",
+  "slug": "barrett-paving-materials",
+  "name": "Barrett Paving Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sidney",
+    "state": "OH",
+    "zip": "45356"
+  },
+  "location": {
+    "lat": 40.216389,
+    "lng": -84.2125
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300115"
+  },
+  "msha": [
+    {
+      "mine_id": "3300115",
+      "name": "Barrett Paving Materials Inc",
+      "operator": "Barrett Paving Materials Inc",
+      "status": "Active",
+      "status_since": "2023-11-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

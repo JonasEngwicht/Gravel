@@ -1,0 +1,36 @@
+{
+  "id": "tn-franklin-dickens-turf-and-landscape-supply",
+  "slug": "dickens-turf-and-landscape-supply",
+  "name": "Dickens Turf & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "454 Downs Blvd #160",
+    "city": "Franklin",
+    "state": "TN",
+    "zip": "37064"
+  },
+  "location": {
+    "lat": 35.908798,
+    "lng": -86.885063
+  },
+  "contact": {
+    "phone": "(615) 265-0470",
+    "website": "https://www.dickenssupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5da3c91b-9efc-412c-a73e-ab158ff25379",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

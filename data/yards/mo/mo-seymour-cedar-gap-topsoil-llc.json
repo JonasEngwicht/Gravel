@@ -1,0 +1,35 @@
+{
+  "id": "mo-seymour-cedar-gap-topsoil-llc",
+  "slug": "cedar-gap-topsoil-llc",
+  "name": "Cedar Gap Topsoil LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "23778 US Highway 60",
+    "city": "Seymour",
+    "state": "MO",
+    "zip": "65746"
+  },
+  "location": {
+    "lat": 37.117069,
+    "lng": -92.687744
+  },
+  "contact": {
+    "phone": "(417) 935-2877"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3faff22-4827-470c-a76d-b07217df4aaf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

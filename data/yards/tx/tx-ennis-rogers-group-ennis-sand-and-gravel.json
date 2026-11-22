@@ -1,0 +1,41 @@
+{
+  "id": "tx-ennis-rogers-group-ennis-sand-and-gravel",
+  "slug": "rogers-group-ennis-sand-and-gravel",
+  "name": "Rogers Group – Ennis Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ennis",
+    "state": "TX",
+    "zip": "75105"
+  },
+  "location": {
+    "lat": 32.305556,
+    "lng": -96.431667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105412"
+  },
+  "msha": [
+    {
+      "mine_id": "4105412",
+      "name": "Ennis Sand & Gravel",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "2021-10-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

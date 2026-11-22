@@ -1,0 +1,41 @@
+{
+  "id": "ca-valley-springs-foothill-materials-hogan-quarry",
+  "slug": "foothill-materials-hogan-quarry",
+  "name": "Foothill Materials – Hogan Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Valley Springs",
+    "state": "CA",
+    "zip": "95252"
+  },
+  "location": {
+    "lat": 38.147222,
+    "lng": -120.826944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404819"
+  },
+  "msha": [
+    {
+      "mine_id": "0404819",
+      "name": "Hogan Quarry",
+      "operator": "Foothill Materials, Inc.",
+      "status": "Active",
+      "status_since": "1996-01-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

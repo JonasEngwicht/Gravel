@@ -1,0 +1,41 @@
+{
+  "id": "wi-monroe-pentt",
+  "slug": "pentt",
+  "name": "Pentt",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Monroe",
+    "state": "WI",
+    "zip": "53566"
+  },
+  "location": {
+    "lat": 42.6028,
+    "lng": -89.6423
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4704003"
+  },
+  "msha": [
+    {
+      "mine_id": "4704003",
+      "name": "Pentt quarry",
+      "operator": "Pentt Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-08-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

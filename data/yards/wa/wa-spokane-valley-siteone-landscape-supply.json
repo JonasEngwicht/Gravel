@@ -1,0 +1,37 @@
+{
+  "id": "wa-spokane-valley-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "16823 E Sprague Ave",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99037"
+  },
+  "location": {
+    "lat": 47.657646,
+    "lng": -117.178024
+  },
+  "contact": {
+    "phone": "(509) 928-5403",
+    "website": "https://www.siteone.com/en/store/360"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3649a58f-d7cb-48c3-aa9c-406fb25f2c9e",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

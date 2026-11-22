@@ -1,0 +1,37 @@
+{
+  "id": "ma-chelmsford-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7B Doris Dr",
+    "city": "Chelmsford",
+    "state": "MA",
+    "zip": "01863"
+  },
+  "location": {
+    "lat": 42.631706,
+    "lng": -71.409592
+  },
+  "contact": {
+    "phone": "(978) 251-7100",
+    "website": "https://www.siteone.com/store/447"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81e86ba4-05ea-432d-b99c-626d9766ca5c",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

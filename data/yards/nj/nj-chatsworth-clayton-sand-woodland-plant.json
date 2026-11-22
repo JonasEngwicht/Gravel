@@ -1,0 +1,41 @@
+{
+  "id": "nj-chatsworth-clayton-sand-woodland-plant",
+  "slug": "clayton-sand-woodland-plant",
+  "name": "Clayton Sand – Woodland Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Chatsworth",
+    "state": "NJ",
+    "zip": "08015"
+  },
+  "location": {
+    "lat": 39.868611,
+    "lng": -74.466111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800715"
+  },
+  "msha": [
+    {
+      "mine_id": "2800715",
+      "name": "Woodland Plant",
+      "operator": "Clayton Sand Company",
+      "status": "Active",
+      "status_since": "1984-08-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

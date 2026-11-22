@@ -1,0 +1,48 @@
+{
+  "id": "tx-bonham-n-tex-sand-and-gravel",
+  "slug": "n-tex-sand-and-gravel",
+  "name": "N-Tex Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1575 W FM 1753",
+    "city": "Bonham",
+    "state": "TX",
+    "zip": "75418"
+  },
+  "location": {
+    "lat": 33.664509,
+    "lng": -96.203384
+  },
+  "contact": {
+    "phone": "(903) 583-9122",
+    "website": "https://www.ntexsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d1fbebbd-9db7-4d7e-8e4a-2956ac3ac1fd",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4104956",
+      "name": "Wolf Creek",
+      "operator": "N-Tex Sand & Gravel Wolf Creek, LLC",
+      "status": "Active",
+      "status_since": "2012-11-26",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

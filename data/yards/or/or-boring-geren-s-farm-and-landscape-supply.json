@@ -1,0 +1,36 @@
+{
+  "id": "or-boring-geren-s-farm-and-landscape-supply",
+  "slug": "geren-s-farm-and-landscape-supply",
+  "name": "Geren's Farm & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "33680 SE Kelso Rd",
+    "city": "Boring",
+    "state": "OR",
+    "zip": "97009"
+  },
+  "location": {
+    "lat": 45.417957,
+    "lng": -122.316734
+  },
+  "contact": {
+    "phone": "(503) 668-9323",
+    "website": "https://gerensfarmsupply.com/departments/chick-schedule/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4f677181-6faa-4d43-9544-4ca2d9ebf14e",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sc-ridgeway-luck-stone-fairfield-plant",
+  "slug": "luck-stone-fairfield-plant",
+  "name": "Luck Stone – Fairfield Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ridgeway",
+    "state": "SC",
+    "zip": "29180"
+  },
+  "location": {
+    "lat": 34.310833,
+    "lng": -81.017222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800761"
+  },
+  "msha": [
+    {
+      "mine_id": "3800761",
+      "name": "Fairfield Plant",
+      "operator": "Luck Stone Corporation",
+      "status": "Active",
+      "status_since": "2023-09-25",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

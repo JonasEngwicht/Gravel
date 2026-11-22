@@ -1,0 +1,36 @@
+{
+  "id": "pa-dauphin-robinson-s-excavating-and-mulch-llc",
+  "slug": "robinson-s-excavating-and-mulch-llc",
+  "name": "Robinson's Excavating & Mulch Llc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1021 Peters Mountain Rd",
+    "city": "Dauphin",
+    "state": "PA",
+    "zip": "17018"
+  },
+  "location": {
+    "lat": 40.381676,
+    "lng": -76.933075
+  },
+  "contact": {
+    "phone": "(717) 921-8980",
+    "website": "http://www.robinson-excavating.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3f37083e-fdc4-4a17-b18f-c17f252a3e03",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

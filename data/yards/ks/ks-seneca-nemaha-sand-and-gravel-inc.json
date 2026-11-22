@@ -1,0 +1,48 @@
+{
+  "id": "ks-seneca-nemaha-sand-and-gravel-inc",
+  "slug": "nemaha-sand-and-gravel-inc",
+  "name": "Nemaha Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1201 Baltimore St",
+    "city": "Seneca",
+    "state": "KS",
+    "zip": "66538"
+  },
+  "location": {
+    "lat": 39.833263,
+    "lng": -96.072372
+  },
+  "contact": {
+    "phone": "(785) 336-3063",
+    "website": "https://nemaha-sand-gravel-inc.hub.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c60b4a32-62ee-4fdc-b92c-3710fdf5173e",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1401615",
+      "name": "Bauman Pit",
+      "operator": "Nemaha Sand & Gravel Inc.",
+      "status": "Active",
+      "status_since": "2023-04-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

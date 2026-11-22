@@ -1,0 +1,35 @@
+{
+  "id": "sd-rapid-city-rapid-landscape-supply",
+  "slug": "rapid-landscape-supply",
+  "name": "Rapid Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2740 Haines Ave",
+    "city": "Rapid City",
+    "state": "SD",
+    "zip": "57701"
+  },
+  "location": {
+    "lat": 44.112644,
+    "lng": -103.221138
+  },
+  "contact": {
+    "phone": "(605) 641-3813"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b16e432e-29cc-4dca-85ca-28a4fe98a748",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

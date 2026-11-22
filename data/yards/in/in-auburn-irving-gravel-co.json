@@ -1,0 +1,36 @@
+{
+  "id": "in-auburn-irving-gravel-co",
+  "slug": "irving-gravel-co",
+  "name": "Irving Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7182 County Road 17",
+    "city": "Auburn",
+    "state": "IN",
+    "zip": "46706"
+  },
+  "location": {
+    "lat": 41.356647,
+    "lng": -85.04245
+  },
+  "contact": {
+    "phone": "(260) 637-3120",
+    "website": "http://irving-gravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90a3d098-d70b-4466-8d7c-7bc3f389fdcd",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

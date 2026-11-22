@@ -1,0 +1,36 @@
+{
+  "id": "ny-montgomery-aden-aggregates",
+  "slug": "aden-aggregates",
+  "name": "Aden Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "574 State Route 416",
+    "city": "Montgomery",
+    "state": "NY",
+    "zip": "12549"
+  },
+  "location": {
+    "lat": 41.484497,
+    "lng": -74.259964
+  },
+  "contact": {
+    "phone": "(845) 990-7625",
+    "website": "https://www.adensalt.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf698205-c847-4729-b7de-9537c9d27859",
+    "confidence": 0.918,
+    "merged_records": 1
+  }
+}

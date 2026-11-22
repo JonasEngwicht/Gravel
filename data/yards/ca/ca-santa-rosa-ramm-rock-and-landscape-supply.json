@@ -1,0 +1,36 @@
+{
+  "id": "ca-santa-rosa-ramm-rock-and-landscape-supply",
+  "slug": "ramm-rock-and-landscape-supply",
+  "name": "Ramm Rock & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5454 Old Redwood Hwy",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95403"
+  },
+  "location": {
+    "lat": 38.514477,
+    "lng": -122.767181
+  },
+  "contact": {
+    "phone": "(707) 528-6067",
+    "website": "http://www.rammrocksupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ddf765ee-d190-43ea-870f-2692653c8088",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "id": "al-oxford-coldwater-landscape-supply",
+  "slug": "coldwater-landscape-supply",
+  "name": "Coldwater Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3155 US-78",
+    "city": "Oxford",
+    "state": "AL",
+    "zip": "36203"
+  },
+  "location": {
+    "lat": 33.591942,
+    "lng": -85.898842
+  },
+  "contact": {
+    "phone": "(256) 835-0350"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a190c635-986b-4f45-9ede-566e7e3e4843",
+    "confidence": 0.936,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0103135",
+      "name": "Coldwater Quarry",
+      "operator": "Vulcan Materials Asphalt and Construction, LLC",
+      "status": "Active",
+      "status_since": "2026-08-03",
+      "commodity": "Crushed, Broken Quartzite",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ny-ravena-carver-sand-and-gravel",
+  "slug": "carver-sand-and-gravel",
+  "name": "Carver Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "375 Jarvis Rd S",
+    "city": "Ravena",
+    "state": "NY",
+    "zip": "12143"
+  },
+  "location": {
+    "lat": 42.491287,
+    "lng": -73.842384
+  },
+  "contact": {
+    "phone": "(518) 756-8300"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7279802e-df67-4734-b53f-59c4b20387b9",
+    "confidence": 0.567,
+    "merged_records": 1
+  }
+}

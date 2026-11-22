@@ -1,0 +1,36 @@
+{
+  "id": "nc-rural-hall-a-and-j-pallets-and-designer-mulch",
+  "slug": "a-and-j-pallets-and-designer-mulch",
+  "name": "A & J Pallets and Designer Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "121 Anderson Rd",
+    "city": "Rural-Hall",
+    "state": "NC",
+    "zip": "27045"
+  },
+  "location": {
+    "lat": 36.245087,
+    "lng": -80.300934
+  },
+  "contact": {
+    "phone": "(743) 730-0004",
+    "website": "http://www.ajpalletsandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "88d30626-6a14-4c40-8f0f-13089ba7a9fc",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

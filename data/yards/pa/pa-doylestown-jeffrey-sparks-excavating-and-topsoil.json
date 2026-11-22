@@ -1,0 +1,36 @@
+{
+  "id": "pa-doylestown-jeffrey-sparks-excavating-and-topsoil",
+  "slug": "jeffrey-sparks-excavating-and-topsoil",
+  "name": "Jeffrey Sparks Excavating and Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4042 Burnt House Hill Rd",
+    "city": "Doylestown",
+    "state": "PA",
+    "zip": "18902"
+  },
+  "location": {
+    "lat": 40.345318,
+    "lng": -75.107704
+  },
+  "contact": {
+    "phone": "(215) 345-4481",
+    "website": "https://www.sparkstopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f016107e-b187-4032-8a5e-b5a84aa2cd65",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-cartersville-etowah-valley-landscape-supply",
+  "slug": "etowah-valley-landscape-supply",
+  "name": "Etowah Valley Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5 Riverside Dr SW",
+    "city": "Cartersville",
+    "state": "GA",
+    "zip": "30120"
+  },
+  "location": {
+    "lat": 34.136684,
+    "lng": -84.847214
+  },
+  "contact": {
+    "phone": "(678) 932-8683",
+    "website": "http://etowahvalleylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f4e4f787-4836-4dc3-a5ce-a61d2737f52e",
+    "confidence": 0.852,
+    "merged_records": 1
+  }
+}

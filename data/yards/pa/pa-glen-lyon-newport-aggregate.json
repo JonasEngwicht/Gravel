@@ -1,0 +1,36 @@
+{
+  "id": "pa-glen-lyon-newport-aggregate",
+  "slug": "newport-aggregate",
+  "name": "Newport Aggregate",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "75 Main Rd",
+    "city": "Glen Lyon",
+    "state": "PA",
+    "zip": "18617"
+  },
+  "location": {
+    "lat": 41.158676,
+    "lng": -76.084038
+  },
+  "contact": {
+    "phone": "(570) 736-6613",
+    "website": "http://www.newportaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "be1e1ac9-b1e6-447c-be55-2c6868466d02",
+    "confidence": 0.975,
+    "merged_records": 1
+  }
+}

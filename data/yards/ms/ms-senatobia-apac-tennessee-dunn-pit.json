@@ -1,0 +1,41 @@
+{
+  "id": "ms-senatobia-apac-tennessee-dunn-pit",
+  "slug": "apac-tennessee-dunn-pit",
+  "name": "APAC Tennessee – Dunn Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Senatobia",
+    "state": "MS",
+    "zip": "38668"
+  },
+  "location": {
+    "lat": 34.552222,
+    "lng": -89.968333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200831"
+  },
+  "msha": [
+    {
+      "mine_id": "2200831",
+      "name": "Dunn Pit",
+      "operator": "APAC Tennessee, Inc.",
+      "status": "Active",
+      "status_since": "2019-02-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

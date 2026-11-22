@@ -1,0 +1,36 @@
+{
+  "id": "wi-waukesha-mavroff-the-mulch-man",
+  "slug": "mavroff-the-mulch-man",
+  "name": "Mavroff \"The Mulch Man\"",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "21305 Watertown Rd",
+    "city": "Waukesha",
+    "state": "WI",
+    "zip": "53186"
+  },
+  "location": {
+    "lat": 43.043911,
+    "lng": -88.178596
+  },
+  "contact": {
+    "phone": "(262) 782-6250",
+    "website": "http://www.mavroffinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2b6cb68-d8a3-409a-88e6-cbeccea6f31f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

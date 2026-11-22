@@ -1,0 +1,35 @@
+{
+  "id": "mn-hanover-miller-trucking-and-landscape-supply-inc",
+  "slug": "miller-trucking-and-landscape-supply-inc",
+  "name": "Miller Trucking & Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "491 Labeaux Ave",
+    "city": "Hanover",
+    "state": "MN",
+    "zip": "55341"
+  },
+  "location": {
+    "lat": 45.15881,
+    "lng": -93.665977
+  },
+  "contact": {
+    "phone": "(763) 498-8342"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c735928-6c9a-41be-8555-4cd9179715b0",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

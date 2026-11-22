@@ -1,0 +1,41 @@
+{
+  "id": "ca-oroville-dunstone-rock-quarry",
+  "slug": "dunstone-rock-quarry",
+  "name": "Dunstone Rock Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Oroville",
+    "state": "CA",
+    "zip": "95914"
+  },
+  "location": {
+    "lat": 39.373889,
+    "lng": -121.474722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405372"
+  },
+  "msha": [
+    {
+      "mine_id": "0405372",
+      "name": "Dunstone Rock Quarry",
+      "operator": "Dunstone Rock Quarry",
+      "status": "Intermittent",
+      "status_since": "2010-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

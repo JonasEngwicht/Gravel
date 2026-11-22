@@ -1,0 +1,36 @@
+{
+  "id": "il-lansing-mulch-masters",
+  "slug": "mulch-masters",
+  "name": "Mulch Masters",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "17900 Harper St",
+    "city": "Lansing",
+    "state": "IL",
+    "zip": "60438"
+  },
+  "location": {
+    "lat": 41.570789,
+    "lng": -87.579544
+  },
+  "contact": {
+    "phone": "(708) 889-9600",
+    "website": "http://www.mulch-masters.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7906c861-4a47-4149-8095-c1990998bacc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

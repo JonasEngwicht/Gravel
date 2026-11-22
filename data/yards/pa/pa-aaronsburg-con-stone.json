@@ -1,0 +1,41 @@
+{
+  "id": "pa-aaronsburg-con-stone",
+  "slug": "con-stone",
+  "name": "Con-Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Aaronsburg",
+    "state": "PA",
+    "zip": "16854"
+  },
+  "location": {
+    "lat": 40.901667,
+    "lng": -77.44
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608596"
+  },
+  "msha": [
+    {
+      "mine_id": "3608596",
+      "name": "Con-Stone Inc",
+      "operator": "Con-Stone Inc",
+      "status": "Active",
+      "status_since": "1996-12-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

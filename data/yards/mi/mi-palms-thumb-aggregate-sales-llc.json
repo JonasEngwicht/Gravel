@@ -1,0 +1,35 @@
+{
+  "id": "mi-palms-thumb-aggregate-sales-llc",
+  "slug": "thumb-aggregate-sales-llc",
+  "name": "Thumb Aggregate Sales LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1024 Palms Rd",
+    "city": "Palms",
+    "state": "MI",
+    "zip": "48465"
+  },
+  "location": {
+    "lat": 43.612873,
+    "lng": -82.795227
+  },
+  "contact": {
+    "phone": "(989) 872-3435"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e15dd3c4-fb58-4544-b9d6-b16d98b2caea",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

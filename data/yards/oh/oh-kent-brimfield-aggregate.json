@@ -1,0 +1,35 @@
+{
+  "id": "oh-kent-brimfield-aggregate",
+  "slug": "brimfield-aggregate",
+  "name": "Brimfield Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4200 Sunnybrook Rd",
+    "city": "Kent",
+    "state": "OH",
+    "zip": "44240"
+  },
+  "location": {
+    "lat": 41.103424,
+    "lng": -81.37088
+  },
+  "contact": {
+    "phone": "(330) 676-1533"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce2c67f9-e398-4b85-88f3-e6b84b389bba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

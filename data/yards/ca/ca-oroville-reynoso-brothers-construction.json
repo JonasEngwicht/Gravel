@@ -1,0 +1,41 @@
+{
+  "id": "ca-oroville-reynoso-brothers-construction",
+  "slug": "reynoso-brothers-construction",
+  "name": "Reynoso Brothers Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Oroville",
+    "state": "CA",
+    "zip": "95965"
+  },
+  "location": {
+    "lat": 39.531389,
+    "lng": -121.564444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405974"
+  },
+  "msha": [
+    {
+      "mine_id": "0405974",
+      "name": "Reynoso Brothers Quarry",
+      "operator": "Reynoso Brothers Construction",
+      "status": "Intermittent",
+      "status_since": "2023-08-17",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

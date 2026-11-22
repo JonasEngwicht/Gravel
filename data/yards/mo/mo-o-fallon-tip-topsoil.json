@@ -1,0 +1,36 @@
+{
+  "id": "mo-o-fallon-tip-topsoil",
+  "slug": "tip-topsoil",
+  "name": "Tip Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "500 Peruque Creek Rd",
+    "city": "O'Fallon",
+    "state": "MO",
+    "zip": "63366"
+  },
+  "location": {
+    "lat": 38.850826,
+    "lng": -90.665382
+  },
+  "contact": {
+    "phone": "(636) 978-7645",
+    "website": "https://www.tiptopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "45a64155-05ad-4135-b4df-b2b55bb0b599",
+    "confidence": 0.642,
+    "merged_records": 1
+  }
+}

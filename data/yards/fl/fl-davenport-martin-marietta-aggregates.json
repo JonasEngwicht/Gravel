@@ -1,0 +1,37 @@
+{
+  "id": "fl-davenport-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3606 County Road 547 N",
+    "city": "Davenport",
+    "state": "FL",
+    "zip": "33837"
+  },
+  "location": {
+    "lat": 28.216145,
+    "lng": -81.594994
+  },
+  "contact": {
+    "phone": "(863) 424-1302",
+    "website": "https://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd63f591-5ce0-4720-bd1a-7611c4cce536",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

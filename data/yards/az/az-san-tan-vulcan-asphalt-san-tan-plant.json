@@ -1,0 +1,41 @@
+{
+  "id": "az-san-tan-vulcan-asphalt-san-tan-plant",
+  "slug": "vulcan-asphalt-san-tan-plant",
+  "name": "Vulcan Asphalt – San Tan Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "San Tan",
+    "state": "AZ",
+    "zip": "85121"
+  },
+  "location": {
+    "lat": 33.148611,
+    "lng": -111.831667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203380"
+  },
+  "msha": [
+    {
+      "mine_id": "0203380",
+      "name": "San Tan Plant",
+      "operator": "Vulcan Asphalt LLC",
+      "status": "Intermittent",
+      "status_since": "2021-11-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

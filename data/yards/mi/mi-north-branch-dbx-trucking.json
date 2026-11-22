@@ -1,0 +1,41 @@
+{
+  "id": "mi-north-branch-dbx-trucking",
+  "slug": "dbx-trucking",
+  "name": "DBX Trucking",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "North Branch",
+    "state": "MI",
+    "zip": "48723"
+  },
+  "location": {
+    "lat": 43.449722,
+    "lng": -83.378611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003620"
+  },
+  "msha": [
+    {
+      "mine_id": "2003620",
+      "name": "DBX Aggregates",
+      "operator": "DBX Trucking",
+      "status": "Intermittent",
+      "status_since": "2021-08-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

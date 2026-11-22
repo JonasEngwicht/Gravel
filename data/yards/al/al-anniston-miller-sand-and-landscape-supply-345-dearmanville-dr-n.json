@@ -1,0 +1,36 @@
+{
+  "id": "al-anniston-miller-sand-and-landscape-supply-345-dearmanville-dr-n",
+  "slug": "miller-sand-and-landscape-supply-345-dearmanville-dr-n",
+  "name": "Miller Sand and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "345 Dearmanville Dr N",
+    "city": "Anniston",
+    "state": "AL",
+    "zip": "36207"
+  },
+  "location": {
+    "lat": 33.628998,
+    "lng": -85.755394
+  },
+  "contact": {
+    "phone": "(256) 237-5352",
+    "website": "http://millersand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8a1bf498-bc9c-46c5-bba6-838d9912a172",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ga-dallas-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3031 Buchanan Hwy",
+    "city": "Dallas",
+    "state": "GA",
+    "zip": "30157"
+  },
+  "location": {
+    "lat": 33.882156,
+    "lng": -84.883682
+  },
+  "contact": {
+    "phone": "(770) 443-0066",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "07ddde60-d99f-472e-8af0-19c2a0d8fa52",
+    "confidence": 0.972,
+    "merged_records": 2
+  }
+}

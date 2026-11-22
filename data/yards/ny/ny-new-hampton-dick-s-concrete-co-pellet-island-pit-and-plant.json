@@ -1,0 +1,41 @@
+{
+  "id": "ny-new-hampton-dick-s-concrete-co-pellet-island-pit-and-plant",
+  "slug": "dick-s-concrete-co-pellet-island-pit-and-plant",
+  "name": "Dick's Concrete Co – Pellet Island Pit & Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "New Hampton",
+    "state": "NY",
+    "zip": "10958"
+  },
+  "location": {
+    "lat": 41.381944,
+    "lng": -74.4175
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001532"
+  },
+  "msha": [
+    {
+      "mine_id": "3001532",
+      "name": "Pellet Island Pit & Plant",
+      "operator": "Dick's Concrete Co Inc",
+      "status": "Intermittent",
+      "status_since": "2024-06-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

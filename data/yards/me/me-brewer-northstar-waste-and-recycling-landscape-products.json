@@ -1,0 +1,36 @@
+{
+  "id": "me-brewer-northstar-waste-and-recycling-landscape-products",
+  "slug": "northstar-waste-and-recycling-landscape-products",
+  "name": "Northstar Waste & Recycling / Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "198 Dirigo Dr",
+    "city": "Brewer",
+    "state": "ME",
+    "zip": "04412"
+  },
+  "location": {
+    "lat": 44.77594,
+    "lng": -68.741196
+  },
+  "contact": {
+    "phone": "(207) 989-4000",
+    "website": "http://www.nswmaine.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "224482ea-2a64-42fe-8f17-5354d0eb6fc8",
+    "confidence": 0.885,
+    "merged_records": 1
+  }
+}

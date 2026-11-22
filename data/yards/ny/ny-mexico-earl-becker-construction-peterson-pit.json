@@ -1,0 +1,41 @@
+{
+  "id": "ny-mexico-earl-becker-construction-peterson-pit",
+  "slug": "earl-becker-construction-peterson-pit",
+  "name": "Earl Becker Construction – Peterson Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Mexico",
+    "state": "NY",
+    "zip": "13114"
+  },
+  "location": {
+    "lat": 43.436667,
+    "lng": -76.216944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003062"
+  },
+  "msha": [
+    {
+      "mine_id": "3003062",
+      "name": "Peterson Pit",
+      "operator": "Earl Becker Construction Inc",
+      "status": "Intermittent",
+      "status_since": "2019-06-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

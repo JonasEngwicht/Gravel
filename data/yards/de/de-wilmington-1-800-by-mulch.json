@@ -1,0 +1,36 @@
+{
+  "id": "de-wilmington-1-800-by-mulch",
+  "slug": "1-800-by-mulch",
+  "name": "1-800-BY-Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2204 Rodman Rd",
+    "city": "Wilmington",
+    "state": "DE",
+    "zip": "19805"
+  },
+  "location": {
+    "lat": 39.742859,
+    "lng": -75.584244
+  },
+  "contact": {
+    "phone": "(302) 521-3689",
+    "website": "http://www.1800bymulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b031c224-2245-4d0a-8ec6-b6719238f149",
+    "confidence": 0.514,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-mariposa-mark-long-tractor-work-long-decomposed-granite-pit",
+  "slug": "mark-long-tractor-work-long-decomposed-granite-pit",
+  "name": "Mark Long Tractor Work – Long Decomposed Granite Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mariposa",
+    "state": "CA",
+    "zip": "95338"
+  },
+  "location": {
+    "lat": 37.447222,
+    "lng": -119.984444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405398"
+  },
+  "msha": [
+    {
+      "mine_id": "0405398",
+      "name": "Long Decomposed Granite Pit",
+      "operator": "Mark Long Tractor Work",
+      "status": "Intermittent",
+      "status_since": "2017-01-18",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

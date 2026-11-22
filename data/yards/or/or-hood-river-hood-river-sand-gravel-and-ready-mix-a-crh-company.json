@@ -1,0 +1,36 @@
+{
+  "id": "or-hood-river-hood-river-sand-gravel-and-ready-mix-a-crh-company",
+  "slug": "hood-river-sand-gravel-and-ready-mix-a-crh-company",
+  "name": "Hood River Sand, Gravel & Ready-mix, A Crh Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2630 Old Columbia River Dr",
+    "city": "Hood River",
+    "state": "OR",
+    "zip": "97031"
+  },
+  "location": {
+    "lat": 45.708061,
+    "lng": -121.498352
+  },
+  "contact": {
+    "phone": "(541) 386-1400",
+    "website": "https://www.hrsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "156e6ee9-b997-4857-b1cb-8fe11bcf05a4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

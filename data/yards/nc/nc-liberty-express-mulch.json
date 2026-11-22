@@ -1,0 +1,36 @@
+{
+  "id": "nc-liberty-express-mulch",
+  "slug": "express-mulch",
+  "name": "Express Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6306 Old 421 Rd",
+    "city": "Liberty",
+    "state": "NC",
+    "zip": "27298"
+  },
+  "location": {
+    "lat": 35.885719,
+    "lng": -79.582237
+  },
+  "contact": {
+    "phone": "(336) 622-2266",
+    "website": "https://www.expressmulchgreensboronc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4dc9677e-5a80-4b20-afdd-b760267f778c",
+    "confidence": 0.658,
+    "merged_records": 1
+  }
+}

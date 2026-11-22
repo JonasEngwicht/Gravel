@@ -1,0 +1,41 @@
+{
+  "id": "ne-genoa-sempek-sand-and-gravel",
+  "slug": "sempek-sand-and-gravel",
+  "name": "Sempek Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Genoa",
+    "state": "NE",
+    "zip": "68640"
+  },
+  "location": {
+    "lat": 41.409444,
+    "lng": -97.697778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2500868"
+  },
+  "msha": [
+    {
+      "mine_id": "2500868",
+      "name": "Sempek Sand & Gravel",
+      "operator": "Sempek Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "1988-11-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

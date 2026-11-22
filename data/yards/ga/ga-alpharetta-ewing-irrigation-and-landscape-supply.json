@@ -1,0 +1,37 @@
+{
+  "id": "ga-alpharetta-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "4080 Nine McFarland Dr",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004"
+  },
+  "location": {
+    "lat": 34.135384,
+    "lng": -84.25486
+  },
+  "contact": {
+    "phone": "(770) 410-5731",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5bebcbe0-c22a-4ece-a666-6b861b540262",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

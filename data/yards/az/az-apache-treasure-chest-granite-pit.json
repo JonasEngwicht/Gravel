@@ -1,0 +1,41 @@
+{
+  "id": "az-apache-treasure-chest-granite-pit",
+  "slug": "treasure-chest-granite-pit",
+  "name": "Treasure Chest Granite Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Apache",
+    "state": "AZ",
+    "zip": "85119"
+  },
+  "location": {
+    "lat": 33.459167,
+    "lng": -111.515833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202194"
+  },
+  "msha": [
+    {
+      "mine_id": "0202194",
+      "name": "Treasure Chest Granite Pit Llc",
+      "operator": "Treasure Chest Granite Pit LLC",
+      "status": "Active",
+      "status_since": "1987-11-30",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

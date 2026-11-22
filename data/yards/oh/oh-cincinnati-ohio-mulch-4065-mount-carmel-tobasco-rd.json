@@ -1,0 +1,37 @@
+{
+  "id": "oh-cincinnati-ohio-mulch-4065-mount-carmel-tobasco-rd",
+  "slug": "ohio-mulch-4065-mount-carmel-tobasco-rd",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "4065 Mount Carmel Tobasco Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45255"
+  },
+  "location": {
+    "lat": 39.072926,
+    "lng": -84.298279
+  },
+  "contact": {
+    "phone": "(513) 528-4110",
+    "website": "http://www.ohiomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8f8a81ad-1ec8-4324-aa48-6af2313e2dba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

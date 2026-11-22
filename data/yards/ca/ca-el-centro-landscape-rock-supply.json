@@ -1,0 +1,35 @@
+{
+  "id": "ca-el-centro-landscape-rock-supply",
+  "slug": "landscape-rock-supply",
+  "name": "Landscape Rock Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "212 E Evan Hewes Hwy",
+    "city": "El Centro",
+    "state": "CA",
+    "zip": "92243"
+  },
+  "location": {
+    "lat": 32.796799,
+    "lng": -115.513351
+  },
+  "contact": {
+    "phone": "(760) 427-9522"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd24051a-ed25-447a-946e-c7bcd71a58f8",
+    "confidence": 0.59,
+    "merged_records": 2
+  }
+}

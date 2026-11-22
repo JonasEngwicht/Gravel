@@ -1,0 +1,36 @@
+{
+  "id": "ks-mcpherson-e-m-sand-and-gravel-llc",
+  "slug": "e-m-sand-and-gravel-llc",
+  "name": "E-m Sand & Gravel Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2131 9th Ave",
+    "city": "McPherson",
+    "state": "KS",
+    "zip": "67460"
+  },
+  "location": {
+    "lat": 38.482338,
+    "lng": -97.76207
+  },
+  "contact": {
+    "phone": "(785) 227-2530",
+    "website": "http://www.sandandgravelmcpherson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0ba7231-fb77-4c28-89b3-723f23e31f8d",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

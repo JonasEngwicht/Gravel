@@ -1,0 +1,41 @@
+{
+  "id": "tx-goldthwaite-espinoza-stone-goldthwaite-quarry",
+  "slug": "espinoza-stone-goldthwaite-quarry",
+  "name": "Espinoza Stone – Goldthwaite Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Goldthwaite",
+    "state": "TX",
+    "zip": "76844"
+  },
+  "location": {
+    "lat": 31.335,
+    "lng": -98.593889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105271"
+  },
+  "msha": [
+    {
+      "mine_id": "4105271",
+      "name": "Goldthwaite Quarry",
+      "operator": "Espinoza Stone Inc.",
+      "status": "Active",
+      "status_since": "2017-06-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

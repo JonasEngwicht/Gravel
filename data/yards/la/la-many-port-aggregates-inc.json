@@ -1,0 +1,36 @@
+{
+  "id": "la-many-port-aggregates-inc",
+  "slug": "port-aggregates-inc",
+  "name": "Port Aggregates Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2409 Texas Hwy",
+    "city": "Many",
+    "state": "LA",
+    "zip": "71449"
+  },
+  "location": {
+    "lat": 31.547026,
+    "lng": -93.519264
+  },
+  "contact": {
+    "phone": "(318) 256-2205",
+    "website": "http://www.angellematerials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a89922b9-86bc-4ae6-b28a-e512913892b2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

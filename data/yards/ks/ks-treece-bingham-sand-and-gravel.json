@@ -1,0 +1,36 @@
+{
+  "id": "ks-treece-bingham-sand-and-gravel",
+  "slug": "bingham-sand-and-gravel",
+  "name": "Bingham Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "40 SW Grove Rd",
+    "city": "Treece",
+    "state": "KS",
+    "zip": "66713"
+  },
+  "location": {
+    "lat": 37.000534,
+    "lng": -94.836128
+  },
+  "contact": {
+    "phone": "(620) 679-9810",
+    "website": "http://binghamsand.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90dd8e9e-870b-4c5c-81b1-861a193296c0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

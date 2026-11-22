@@ -1,0 +1,41 @@
+{
+  "id": "nj-forked-river-clayton-sand-lacey-plant",
+  "slug": "clayton-sand-lacey-plant",
+  "name": "Clayton Sand-Lacey Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Forked River",
+    "state": "NJ",
+    "zip": "08731"
+  },
+  "location": {
+    "lat": 39.885,
+    "lng": -74.287778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2801005"
+  },
+  "msha": [
+    {
+      "mine_id": "2801005",
+      "name": "Clayton Sand-Lacey Plant",
+      "operator": "Clayton Sand Co, LLC",
+      "status": "Active",
+      "status_since": "2007-07-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nm-glencoe-bonnell-sand-and-gravel",
+  "slug": "bonnell-sand-and-gravel",
+  "name": "Bonnell Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "27485 US-70",
+    "city": "Glencoe",
+    "state": "NM",
+    "zip": "88324"
+  },
+  "location": {
+    "lat": 33.418602,
+    "lng": -105.435295
+  },
+  "contact": {
+    "phone": "(575) 653-4789"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "547c060b-b391-4dfe-afc5-2eadf4bab647",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

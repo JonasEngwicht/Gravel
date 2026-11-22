@@ -1,0 +1,36 @@
+{
+  "id": "mi-white-pigeon-michiana-decorative-mulch",
+  "slug": "michiana-decorative-mulch",
+  "name": "Michiana Decorative Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "69676 M-103",
+    "city": "White Pigeon",
+    "state": "MI",
+    "zip": "49099"
+  },
+  "location": {
+    "lat": 41.784531,
+    "lng": -85.764122
+  },
+  "contact": {
+    "phone": "(888) 926-8524",
+    "website": "http://www.michianamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce0d46d4-3e65-4777-888a-130bb1866c8f",
+    "confidence": 0.745,
+    "merged_records": 1
+  }
+}

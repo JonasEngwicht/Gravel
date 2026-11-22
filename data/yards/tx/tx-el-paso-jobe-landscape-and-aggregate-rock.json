@@ -1,0 +1,47 @@
+{
+  "id": "tx-el-paso-jobe-landscape-and-aggregate-rock",
+  "slug": "jobe-landscape-and-aggregate-rock",
+  "name": "Jobe Landscape And Aggregate Rock",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12123 Dyer St",
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79934"
+  },
+  "location": {
+    "lat": 31.958328,
+    "lng": -106.358086
+  },
+  "contact": {
+    "website": "https://jobeconcrete.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4b61172d-80ee-43d1-91ef-cc4d5900b504",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4104712",
+      "name": "Dyer Sand Pit",
+      "operator": "Jobe Materials LP",
+      "status": "Active",
+      "status_since": "2008-12-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

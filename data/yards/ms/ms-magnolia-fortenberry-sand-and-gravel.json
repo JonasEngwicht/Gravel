@@ -1,0 +1,35 @@
+{
+  "id": "ms-magnolia-fortenberry-sand-and-gravel",
+  "slug": "fortenberry-sand-and-gravel",
+  "name": "Fortenberry Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1610 N Clark Ave",
+    "city": "Magnolia",
+    "state": "MS",
+    "zip": "39652"
+  },
+  "location": {
+    "lat": 31.167786,
+    "lng": -90.45108
+  },
+  "contact": {
+    "phone": "(601) 810-1342"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c01b5dc0-ea34-450d-8183-05195977445b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

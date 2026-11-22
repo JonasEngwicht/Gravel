@@ -1,0 +1,37 @@
+{
+  "id": "fl-winter-garden-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4023 Avalon Rd",
+    "city": "Winter Garden",
+    "state": "FL",
+    "zip": "34787"
+  },
+  "location": {
+    "lat": 28.498627,
+    "lng": -81.640312
+  },
+  "contact": {
+    "phone": "(321) 221-4505",
+    "website": "https://www.siteone.com/store/18"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "47598bc6-d094-42a5-8428-77b7987f1eea",
+    "confidence": 0.981,
+    "merged_records": 1
+  }
+}

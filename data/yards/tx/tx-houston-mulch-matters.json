@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-mulch-matters",
+  "slug": "mulch-matters",
+  "name": "Mulch Matters",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9911 C E King Pkwy",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77044"
+  },
+  "location": {
+    "lat": 29.868324,
+    "lng": -95.209282
+  },
+  "contact": {
+    "phone": "(281) 459-1800",
+    "website": "http://www.mulchmatters.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a229cf69-5d3d-40a5-993b-a02289094970",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

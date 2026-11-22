@@ -1,0 +1,36 @@
+{
+  "id": "tn-sevierville-seagle-landscaping-supplies",
+  "slug": "seagle-landscaping-supplies",
+  "name": "Seagle Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1774 New Era Rd",
+    "city": "Sevierville",
+    "state": "TN",
+    "zip": "37862"
+  },
+  "location": {
+    "lat": 35.835777,
+    "lng": -83.588242
+  },
+  "contact": {
+    "phone": "(865) 428-1888",
+    "website": "http://seaglelandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a81c517a-26d5-4271-83da-1f8fe53f7783",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

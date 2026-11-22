@@ -1,0 +1,36 @@
+{
+  "id": "ma-westport-c-a-cabral-landscaping-supply",
+  "slug": "c-a-cabral-landscaping-supply",
+  "name": "C A Cabral Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12 B Sodom Rd",
+    "city": "Westport",
+    "state": "MA",
+    "zip": "02790"
+  },
+  "location": {
+    "lat": 41.62606,
+    "lng": -71.112137
+  },
+  "contact": {
+    "phone": "(508) 636-3616",
+    "website": "http://cacabrallandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b397892b-640f-4527-8c41-cb59e903569e",
+    "confidence": 0.977,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "me-robbinston-stanhope-trucking-pennknife-pit",
+  "slug": "stanhope-trucking-pennknife-pit",
+  "name": "Stanhope Trucking – Pennknife Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Robbinston",
+    "state": "ME",
+    "zip": "04671"
+  },
+  "location": {
+    "lat": 45.024722,
+    "lng": -67.176944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701182"
+  },
+  "msha": [
+    {
+      "mine_id": "1701182",
+      "name": "Pennknife Pit",
+      "operator": "Stanhope Trucking Llc",
+      "status": "Intermittent",
+      "status_since": "2026-04-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

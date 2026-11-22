@@ -1,0 +1,41 @@
+{
+  "id": "tn-woodbury-martin-marietta-southeast-agg-operations-stones-river-quarry",
+  "slug": "martin-marietta-southeast-agg-operations-stones-river-quarry",
+  "name": "Martin Marietta Southeast Agg Operations – Stones River Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Woodbury",
+    "state": "TN",
+    "zip": "37149"
+  },
+  "location": {
+    "lat": 35.803333,
+    "lng": -86.145556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003415"
+  },
+  "msha": [
+    {
+      "mine_id": "4003415",
+      "name": "Stones River Quarry",
+      "operator": "Martin Marietta Southeast Agg Operations, LLC",
+      "status": "Active",
+      "status_since": "2012-02-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

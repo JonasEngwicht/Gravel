@@ -1,0 +1,41 @@
+{
+  "id": "al-titus-dunn-construction",
+  "slug": "dunn-construction",
+  "name": "Dunn Construction",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Titus",
+    "state": "AL",
+    "zip": "36080"
+  },
+  "location": {
+    "lat": 32.734444,
+    "lng": -86.269722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103347"
+  },
+  "msha": [
+    {
+      "mine_id": "0103347",
+      "name": "Dunn Construction Company",
+      "operator": "Dunn Construction Company",
+      "status": "Active",
+      "status_since": "2006-12-18",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

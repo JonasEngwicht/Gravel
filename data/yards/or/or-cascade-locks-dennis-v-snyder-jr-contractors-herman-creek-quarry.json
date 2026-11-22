@@ -1,0 +1,41 @@
+{
+  "id": "or-cascade-locks-dennis-v-snyder-jr-contractors-herman-creek-quarry",
+  "slug": "dennis-v-snyder-jr-contractors-herman-creek-quarry",
+  "name": "Dennis V Snyder Jr Contractors – Herman Creek Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cascade Locks",
+    "state": "OR",
+    "zip": "97014"
+  },
+  "location": {
+    "lat": 45.661944,
+    "lng": -121.861667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503874"
+  },
+  "msha": [
+    {
+      "mine_id": "3503874",
+      "name": "Herman Creek Quarry",
+      "operator": "Dennis V Snyder Jr Contractors",
+      "status": "Intermittent",
+      "status_since": "2021-10-28",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

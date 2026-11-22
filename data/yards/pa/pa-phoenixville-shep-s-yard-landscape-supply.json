@@ -1,0 +1,36 @@
+{
+  "id": "pa-phoenixville-shep-s-yard-landscape-supply",
+  "slug": "shep-s-yard-landscape-supply",
+  "name": "Shep's Yard - Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "405 W Pothouse Rd",
+    "city": "Phoenixville",
+    "state": "PA",
+    "zip": "19460"
+  },
+  "location": {
+    "lat": 40.121552,
+    "lng": -75.535332
+  },
+  "contact": {
+    "phone": "(484) 302-9555",
+    "website": "http://www.shepsyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "441dca8c-bd70-411d-a73f-619a653e5ded",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

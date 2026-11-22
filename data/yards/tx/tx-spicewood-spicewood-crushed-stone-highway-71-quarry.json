@@ -1,0 +1,41 @@
+{
+  "id": "tx-spicewood-spicewood-crushed-stone-highway-71-quarry",
+  "slug": "spicewood-crushed-stone-highway-71-quarry",
+  "name": "Spicewood Crushed Stone – Highway 71 Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Spicewood",
+    "state": "TX",
+    "zip": "78654"
+  },
+  "location": {
+    "lat": 30.487778,
+    "lng": -98.214444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105477"
+  },
+  "msha": [
+    {
+      "mine_id": "4105477",
+      "name": "Highway 71 Quarry",
+      "operator": "Spicewood Crushed Stone LLC",
+      "status": "Active",
+      "status_since": "2023-01-24",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

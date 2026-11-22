@@ -1,0 +1,41 @@
+{
+  "id": "ks-raymond-raymond-sand-and-gravel",
+  "slug": "raymond-sand-and-gravel",
+  "name": "Raymond Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Raymond",
+    "state": "KS",
+    "zip": "67526"
+  },
+  "location": {
+    "lat": 38.2975,
+    "lng": -98.479722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1400458"
+  },
+  "msha": [
+    {
+      "mine_id": "1400458",
+      "name": "Raymond Sand & Gravel",
+      "operator": "Raymond Sand & Gravel, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-07-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "de-delmar-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "38535 Sussex Hwy",
+    "city": "Delmar",
+    "state": "DE",
+    "zip": "19940"
+  },
+  "location": {
+    "lat": 38.46048,
+    "lng": -75.556473
+  },
+  "contact": {
+    "phone": "(302) 846-3527",
+    "website": "https://www.siteone.com/store/230"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abfa479e-43f8-4afe-9d63-a5f9704f9a31",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

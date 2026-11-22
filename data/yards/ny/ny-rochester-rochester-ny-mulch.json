@@ -1,0 +1,36 @@
+{
+  "id": "ny-rochester-rochester-ny-mulch",
+  "slug": "rochester-ny-mulch",
+  "name": "Rochester NY Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3680 Buffalo Rd",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14624"
+  },
+  "location": {
+    "lat": 43.140228,
+    "lng": -77.752922
+  },
+  "contact": {
+    "phone": "(585) 204-7715",
+    "website": "http://www.rochesternymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "745d5574-f62c-4cc1-8045-4393d85debeb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

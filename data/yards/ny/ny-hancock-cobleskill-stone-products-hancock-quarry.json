@@ -1,0 +1,41 @@
+{
+  "id": "ny-hancock-cobleskill-stone-products-hancock-quarry",
+  "slug": "cobleskill-stone-products-hancock-quarry",
+  "name": "Cobleskill Stone Products – Hancock Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hancock",
+    "state": "NY",
+    "zip": "13783"
+  },
+  "location": {
+    "lat": 41.955556,
+    "lng": -75.242778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001252"
+  },
+  "msha": [
+    {
+      "mine_id": "3001252",
+      "name": "Hancock Quarry",
+      "operator": "Cobleskill Stone Products Inc",
+      "status": "Active",
+      "status_since": "2012-02-21",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

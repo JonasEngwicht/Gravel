@@ -1,0 +1,36 @@
+{
+  "id": "ny-hempstead-island-hopper-landscape-supplies-ltd",
+  "slug": "island-hopper-landscape-supplies-ltd",
+  "name": "Island Hopper Landscape Supplies Ltd.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3966 Long Beach Rd",
+    "city": "Hempstead",
+    "state": "NY",
+    "zip": "11558"
+  },
+  "location": {
+    "lat": 40.614166,
+    "lng": -73.645798
+  },
+  "contact": {
+    "phone": "(516) 670-8460",
+    "website": "https://www.youtube.com/@IslandHopperLandscapeOfficial"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b6e6d29-5cc8-484c-b3b8-bb85c5209c78",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ky-louisville-ken-mulch",
+  "slug": "ken-mulch",
+  "name": "Ken-Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2708 Outer Loop",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40219"
+  },
+  "location": {
+    "lat": 38.135082,
+    "lng": -85.716476
+  },
+  "contact": {
+    "phone": "(502) 964-7222",
+    "website": "http://ken-mulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ff4b8da-3df3-4555-a1f0-ef3da8f55aa1",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

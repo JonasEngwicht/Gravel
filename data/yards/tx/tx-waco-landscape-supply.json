@@ -1,0 +1,35 @@
+{
+  "id": "tx-waco-landscape-supply",
+  "slug": "landscape-supply",
+  "name": "Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "city": "Waco",
+    "state": "TX",
+    "zip": "76711"
+  },
+  "location": {
+    "lat": 31.50001,
+    "lng": -97.166016
+  },
+  "contact": {
+    "phone": "(254) 753-7900",
+    "website": "http://www.landscapesupplywaco.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "207d8d3c-7802-48f8-ba57-ef59aed6cf4f",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

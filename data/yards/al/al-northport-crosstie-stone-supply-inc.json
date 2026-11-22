@@ -1,0 +1,36 @@
+{
+  "id": "al-northport-crosstie-stone-supply-inc",
+  "slug": "crosstie-stone-supply-inc",
+  "name": "Crosstie Stone Supply Inc.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1417 Martin Rd E",
+    "city": "Northport",
+    "state": "AL",
+    "zip": "35473"
+  },
+  "location": {
+    "lat": 33.266277,
+    "lng": -87.544449
+  },
+  "contact": {
+    "phone": "(205) 345-4631",
+    "website": "http://www.crosstiestonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0b662b9-d3b2-44ca-89db-7abc1fe69f87",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

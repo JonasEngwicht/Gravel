@@ -1,0 +1,35 @@
+{
+  "id": "sc-gaffney-highway-11-mulch-and-stone",
+  "slug": "highway-11-mulch-and-stone",
+  "name": "Highway 11 Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1175 Bonner Rd",
+    "city": "Gaffney",
+    "state": "SC",
+    "zip": "29341"
+  },
+  "location": {
+    "lat": 35.127319,
+    "lng": -81.78022
+  },
+  "contact": {
+    "phone": "(864) 461-9524"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "819c0d97-f4f6-4c72-8473-64be0a920ba0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

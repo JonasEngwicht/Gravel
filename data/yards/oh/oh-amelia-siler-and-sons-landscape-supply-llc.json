@@ -1,0 +1,35 @@
+{
+  "id": "oh-amelia-siler-and-sons-landscape-supply-llc",
+  "slug": "siler-and-sons-landscape-supply-llc",
+  "name": "Siler and Sons Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1275 Ohio Pike",
+    "city": "Amelia",
+    "state": "OH",
+    "zip": "45102"
+  },
+  "location": {
+    "lat": 39.044865,
+    "lng": -84.242912
+  },
+  "contact": {
+    "phone": "(513) 753-9186"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a08b28bf-0f5b-4782-8a2f-6e65821c25bc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

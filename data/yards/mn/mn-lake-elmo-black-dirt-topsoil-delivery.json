@@ -1,0 +1,36 @@
+{
+  "id": "mn-lake-elmo-black-dirt-topsoil-delivery",
+  "slug": "black-dirt-topsoil-delivery",
+  "name": "Black Dirt / Topsoil Delivery",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8718 Lake Jane Trl N",
+    "city": "Lake Elmo",
+    "state": "MN",
+    "zip": "55042"
+  },
+  "location": {
+    "lat": 44.985088,
+    "lng": -92.882423
+  },
+  "contact": {
+    "phone": "(651) 777-3775",
+    "website": "http://www.blackdirtdeliverymn.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89ca3662-d4e5-4a50-86af-9409cc503187",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

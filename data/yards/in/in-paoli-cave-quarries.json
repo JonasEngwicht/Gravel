@@ -1,0 +1,41 @@
+{
+  "id": "in-paoli-cave-quarries",
+  "slug": "cave-quarries",
+  "name": "Cave Quarries",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Paoli",
+    "state": "IN",
+    "zip": "47469"
+  },
+  "location": {
+    "lat": 38.571944,
+    "lng": -86.540833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200015"
+  },
+  "msha": [
+    {
+      "mine_id": "1200015",
+      "name": "Cave Quarries Inc",
+      "operator": "Cave Quarries Inc",
+      "status": "Active",
+      "status_since": "1972-02-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

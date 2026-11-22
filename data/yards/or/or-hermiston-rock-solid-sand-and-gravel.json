@@ -1,0 +1,41 @@
+{
+  "id": "or-hermiston-rock-solid-sand-and-gravel",
+  "slug": "rock-solid-sand-and-gravel",
+  "name": "Rock Solid Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hermiston",
+    "state": "OR",
+    "zip": "97838"
+  },
+  "location": {
+    "lat": 45.804722,
+    "lng": -119.428333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503452"
+  },
+  "msha": [
+    {
+      "mine_id": "3503452",
+      "name": "Rock Solid Sand & Gravel LLC",
+      "operator": "Rock Solid Sand & Gravel",
+      "status": "Active",
+      "status_since": "2019-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

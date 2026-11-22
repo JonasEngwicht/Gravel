@@ -1,0 +1,36 @@
+{
+  "id": "ma-tewksbury-tewksbury-masonry-and-landscaping-supply-co",
+  "slug": "tewksbury-masonry-and-landscaping-supply-co",
+  "name": "Tewksbury Masonry and Landscaping Supply Co",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1585 Shawsheen St",
+    "city": "Tewksbury",
+    "state": "MA",
+    "zip": "01876"
+  },
+  "location": {
+    "lat": 42.617874,
+    "lng": -71.184631
+  },
+  "contact": {
+    "phone": "(978) 640-1007",
+    "website": "http://www.tewksburymasonry.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90f3fdf0-2d9b-4169-aa54-157088965016",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-park-city-lurvey-landscape-supply",
+  "slug": "lurvey-landscape-supply",
+  "name": "Lurvey Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "496 Old Skokie Rd",
+    "city": "Park City",
+    "state": "IL",
+    "zip": "60085"
+  },
+  "location": {
+    "lat": 42.353111,
+    "lng": -87.892067
+  },
+  "contact": {
+    "phone": "(847) 249-7670",
+    "website": "http://www.lurveys.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1936070-19b2-42d5-b143-ff0fa4b40521",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

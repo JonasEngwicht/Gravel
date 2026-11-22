@@ -1,0 +1,41 @@
+{
+  "id": "mo-fair-play-conco-quarries-fair-play",
+  "slug": "conco-quarries-fair-play",
+  "name": "Conco Quarries- Fair Play",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Fair Play",
+    "state": "MO",
+    "zip": "65601"
+  },
+  "location": {
+    "lat": 37.585833,
+    "lng": -93.541667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302117"
+  },
+  "msha": [
+    {
+      "mine_id": "2302117",
+      "name": "Conco Quarries- Fair Play",
+      "operator": "Conco Quarries",
+      "status": "Intermittent",
+      "status_since": "2026-06-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

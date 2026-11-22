@@ -1,0 +1,41 @@
+{
+  "id": "ma-charlton-rawson-materials",
+  "slug": "rawson-materials",
+  "name": "Rawson Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Charlton",
+    "state": "MA",
+    "zip": "01540"
+  },
+  "location": {
+    "lat": 42.111389,
+    "lng": -71.918333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901166"
+  },
+  "msha": [
+    {
+      "mine_id": "1901166",
+      "name": "Rawson Materials Plant # 10",
+      "operator": "Rawson Materials",
+      "status": "Active",
+      "status_since": "2012-03-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

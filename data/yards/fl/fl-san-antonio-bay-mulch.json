@@ -1,0 +1,36 @@
+{
+  "id": "fl-san-antonio-bay-mulch",
+  "slug": "bay-mulch",
+  "name": "Bay Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11228 Bellamy Brothers Blvd",
+    "city": "San Antonio",
+    "state": "FL",
+    "zip": "33576"
+  },
+  "location": {
+    "lat": 28.321274,
+    "lng": -82.357407
+  },
+  "contact": {
+    "phone": "(352) 588-5200",
+    "website": "http://www.baymulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a6a0092-84a4-4765-be4e-8576919eeda4",
+    "confidence": 0.618,
+    "merged_records": 1
+  }
+}

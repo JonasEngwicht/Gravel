@@ -1,0 +1,48 @@
+{
+  "id": "in-anderson-imi-aggregates-pendleton",
+  "slug": "imi-aggregates-pendleton",
+  "name": "imi Aggregates - Pendleton",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "5002 S St Rd 67",
+    "city": "Anderson",
+    "state": "IN",
+    "zip": "46013"
+  },
+  "location": {
+    "lat": 40.032776,
+    "lng": -85.722191
+  },
+  "contact": {
+    "phone": "(765) 778-4760",
+    "website": "https://locations.irvmat.com/in/259?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "109d8220-346c-4988-b6d6-0d50f19dec0a",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200354",
+      "name": "Pendleton Quarry",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 20
+    }
+  ]
+}

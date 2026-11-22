@@ -1,0 +1,47 @@
+{
+  "id": "oh-chillicothe-triple-a-sand-and-gravel",
+  "slug": "triple-a-sand-and-gravel",
+  "name": "Triple A Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3371 S Bridge St",
+    "city": "Chillicothe",
+    "state": "OH",
+    "zip": "45601"
+  },
+  "location": {
+    "lat": 39.293808,
+    "lng": -82.947327
+  },
+  "contact": {
+    "phone": "(740) 637-7212"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "46812bd7-8aca-4efe-9308-f54e7982e017",
+    "confidence": 0.839,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304761",
+      "name": "Triple A Sand and Gravel LLC",
+      "operator": "Triple A Sand and Gravel LLC",
+      "status": "Active",
+      "status_since": "2023-12-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

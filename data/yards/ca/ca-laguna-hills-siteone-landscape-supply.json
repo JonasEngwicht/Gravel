@@ -1,0 +1,37 @@
+{
+  "id": "ca-laguna-hills-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "23432 S Pointe Dr",
+    "city": "Laguna Hills",
+    "state": "CA",
+    "zip": "92653"
+  },
+  "location": {
+    "lat": 33.625103,
+    "lng": -117.720909
+  },
+  "contact": {
+    "phone": "(949) 837-4460",
+    "website": "https://www.siteone.com/en/store/323"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b58b58a-6eb1-413e-a064-0e4f98dd5db8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

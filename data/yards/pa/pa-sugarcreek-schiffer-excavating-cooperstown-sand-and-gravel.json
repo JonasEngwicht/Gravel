@@ -1,0 +1,41 @@
+{
+  "id": "pa-sugarcreek-schiffer-excavating-cooperstown-sand-and-gravel",
+  "slug": "schiffer-excavating-cooperstown-sand-and-gravel",
+  "name": "Schiffer Excavating – Cooperstown Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sugarcreek",
+    "state": "PA",
+    "zip": "16323"
+  },
+  "location": {
+    "lat": 41.439167,
+    "lng": -79.886389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3604673"
+  },
+  "msha": [
+    {
+      "mine_id": "3604673",
+      "name": "Cooperstown Sand & Gravel",
+      "operator": "Schiffer Excavating Inc",
+      "status": "Active",
+      "status_since": "2000-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

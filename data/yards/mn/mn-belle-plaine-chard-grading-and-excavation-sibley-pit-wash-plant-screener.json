@@ -1,0 +1,41 @@
+{
+  "id": "mn-belle-plaine-chard-grading-and-excavation-sibley-pit-wash-plant-screener",
+  "slug": "chard-grading-and-excavation-sibley-pit-wash-plant-screener",
+  "name": "Chard Grading and Excavation – Sibley Pit Wash Plant/ Screener",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Belle Plaine",
+    "state": "MN",
+    "zip": "56011"
+  },
+  "location": {
+    "lat": 44.629722,
+    "lng": -93.848611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2104042"
+  },
+  "msha": [
+    {
+      "mine_id": "2104042",
+      "name": "Sibley Pit Wash Plant/ Screener",
+      "operator": "Chard Grading and Excavation LLC",
+      "status": "Intermittent",
+      "status_since": "2023-03-08",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

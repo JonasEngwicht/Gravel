@@ -1,0 +1,41 @@
+{
+  "id": "tx-cleveland-arcosa-aggregates-texas-rye-plant-1144",
+  "slug": "arcosa-aggregates-texas-rye-plant-1144",
+  "name": "Arcosa Aggregates Texas – Rye Plant 1144",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cleveland",
+    "state": "TX",
+    "zip": "77369"
+  },
+  "location": {
+    "lat": 30.403611,
+    "lng": -94.767222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4102547"
+  },
+  "msha": [
+    {
+      "mine_id": "4102547",
+      "name": "Rye Plant 1144",
+      "operator": "Arcosa Aggregates Texas, LLC",
+      "status": "Active",
+      "status_since": "1976-01-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

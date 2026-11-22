@@ -1,0 +1,36 @@
+{
+  "id": "ca-paradise-northstate-aggregate-inc",
+  "slug": "northstate-aggregate-inc",
+  "name": "Northstate Aggregate Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "685 Pearson Rd",
+    "city": "Paradise",
+    "state": "CA",
+    "zip": "95969"
+  },
+  "location": {
+    "lat": 39.752262,
+    "lng": -121.607193
+  },
+  "contact": {
+    "phone": "(530) 877-1088",
+    "website": "https://www.northstateaggregateinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "539d684b-ed14-489d-8043-c9eaaac8d979",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

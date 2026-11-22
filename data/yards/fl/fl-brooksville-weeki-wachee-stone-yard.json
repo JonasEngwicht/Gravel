@@ -1,0 +1,36 @@
+{
+  "id": "fl-brooksville-weeki-wachee-stone-yard",
+  "slug": "weeki-wachee-stone-yard",
+  "name": "Weeki Wachee Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7966 Commercial Way",
+    "city": "Brooksville",
+    "state": "FL",
+    "zip": "34613"
+  },
+  "location": {
+    "lat": 28.540672,
+    "lng": -82.564583
+  },
+  "contact": {
+    "phone": "(352) 596-3568",
+    "website": "https://www.weekiwacheestoneyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f731b7a5-270a-40a1-8b43-8300bbe577da",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

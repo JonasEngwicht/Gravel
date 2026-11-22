@@ -1,0 +1,36 @@
+{
+  "id": "pa-douglassville-monty-s-mulch",
+  "slug": "monty-s-mulch",
+  "name": "Monty's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1379 E Main St",
+    "city": "Douglassville",
+    "state": "PA",
+    "zip": "19518"
+  },
+  "location": {
+    "lat": 40.259132,
+    "lng": -75.779953
+  },
+  "contact": {
+    "phone": "(610) 582-3599",
+    "website": "https://www.montysmulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04717c2a-11be-4cbf-88f1-c5a1ad36b59e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

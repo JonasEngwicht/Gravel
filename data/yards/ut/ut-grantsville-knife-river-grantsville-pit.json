@@ -1,0 +1,41 @@
+{
+  "id": "ut-grantsville-knife-river-grantsville-pit",
+  "slug": "knife-river-grantsville-pit",
+  "name": "Knife River – Grantsville Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Grantsville",
+    "state": "UT",
+    "zip": "84074"
+  },
+  "location": {
+    "lat": 40.675556,
+    "lng": -112.551667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202675"
+  },
+  "msha": [
+    {
+      "mine_id": "4202675",
+      "name": "Grantsville Pit",
+      "operator": "Knife River",
+      "status": "Active",
+      "status_since": "2020-04-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

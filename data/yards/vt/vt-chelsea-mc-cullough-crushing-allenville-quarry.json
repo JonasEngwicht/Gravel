@@ -1,0 +1,41 @@
+{
+  "id": "vt-chelsea-mc-cullough-crushing-allenville-quarry",
+  "slug": "mc-cullough-crushing-allenville-quarry",
+  "name": "Mc Cullough Crushing – Allenville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Chelsea",
+    "state": "VT",
+    "zip": "05038"
+  },
+  "location": {
+    "lat": 43.971111,
+    "lng": -72.482222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300487"
+  },
+  "msha": [
+    {
+      "mine_id": "4300487",
+      "name": "Allenville Quarry",
+      "operator": "Mc Cullough Crushing Inc",
+      "status": "Intermittent",
+      "status_since": "2018-03-12",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

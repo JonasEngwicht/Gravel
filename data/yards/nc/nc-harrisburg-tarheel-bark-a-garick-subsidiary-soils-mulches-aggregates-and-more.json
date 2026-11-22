@@ -1,0 +1,36 @@
+{
+  "id": "nc-harrisburg-tarheel-bark-a-garick-subsidiary-soils-mulches-aggregates-and-more",
+  "slug": "tarheel-bark-a-garick-subsidiary-soils-mulches-aggregates-and-more",
+  "name": "Tarheel Bark | A Garick Subsidiary | Soils, Mulches, Aggregates, and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8829 Rocky River Rd #7636",
+    "city": "Harrisburg",
+    "state": "NC",
+    "zip": "28075"
+  },
+  "location": {
+    "lat": 35.293091,
+    "lng": -80.637283
+  },
+  "contact": {
+    "phone": "(704) 455-6418",
+    "website": "http://www.garick.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75670b73-5f8a-40a0-9ce1-067121a55552",
+    "confidence": 0.979,
+    "merged_records": 1
+  }
+}

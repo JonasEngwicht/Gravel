@@ -1,0 +1,41 @@
+{
+  "id": "mi-wavland-michigan-paving-and-materials-patterson-road",
+  "slug": "michigan-paving-and-materials-patterson-road",
+  "name": "Michigan Paving and Materials – Patterson Road",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wavland",
+    "state": "MI",
+    "zip": "49316"
+  },
+  "location": {
+    "lat": 42.732778,
+    "lng": -85.545556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2002995"
+  },
+  "msha": [
+    {
+      "mine_id": "2002995",
+      "name": "Patterson Road",
+      "operator": "Michigan Paving and Materials Company",
+      "status": "Active",
+      "status_since": "2020-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

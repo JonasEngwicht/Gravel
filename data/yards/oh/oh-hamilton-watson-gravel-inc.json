@@ -1,0 +1,48 @@
+{
+  "id": "oh-hamilton-watson-gravel-inc",
+  "slug": "watson-gravel-inc",
+  "name": "Watson Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2728 Hamilton Cleves Rd",
+    "city": "Hamilton",
+    "state": "OH",
+    "zip": "45013"
+  },
+  "location": {
+    "lat": 39.348225,
+    "lng": -84.609016
+  },
+  "contact": {
+    "phone": "(513) 863-0070",
+    "website": "http://www.watsongravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89ddf8fd-d6b6-44ce-bf34-d342630affba",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3302679",
+      "name": "Watson Gravel Inc (Ross Plant)",
+      "operator": "Watson Gravel Inc",
+      "status": "Active",
+      "status_since": "1996-11-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

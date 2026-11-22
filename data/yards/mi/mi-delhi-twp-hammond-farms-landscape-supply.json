@@ -1,0 +1,35 @@
+{
+  "id": "mi-delhi-twp-hammond-farms-landscape-supply",
+  "slug": "hammond-farms-landscape-supply",
+  "name": "Hammond Farms Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1100 N Cedar St #8722",
+    "city": "Delhi Twp",
+    "state": "MI",
+    "zip": "48854"
+  },
+  "location": {
+    "lat": 42.612968,
+    "lng": -84.491943
+  },
+  "contact": {
+    "phone": "(517) 999-0788"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4525929d-d84b-433a-a77a-4597a84d6904",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

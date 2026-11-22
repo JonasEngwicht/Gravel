@@ -1,0 +1,41 @@
+{
+  "id": "nj-forked-river-brick-wall",
+  "slug": "brick-wall",
+  "name": "Brick-Wall",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Forked River",
+    "state": "NJ",
+    "zip": "08731"
+  },
+  "location": {
+    "lat": 39.889444,
+    "lng": -74.301944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800480"
+  },
+  "msha": [
+    {
+      "mine_id": "2800480",
+      "name": "Brick-Wall Corp., Plant #2",
+      "operator": "Brick-Wall Corp",
+      "status": "Active",
+      "status_since": "2014-02-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

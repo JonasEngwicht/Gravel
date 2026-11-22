@@ -1,0 +1,41 @@
+{
+  "id": "pa-pleasant-gap-glenn-o-hawbaker-pleasant-gap-aggregate-plant-2",
+  "slug": "glenn-o-hawbaker-pleasant-gap-aggregate-plant-2",
+  "name": "Glenn O Hawbaker – Pleasant Gap Aggregate Plant #2",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pleasant Gap",
+    "state": "PA",
+    "zip": "16823"
+  },
+  "location": {
+    "lat": 40.881389,
+    "lng": -77.719722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3607433"
+  },
+  "msha": [
+    {
+      "mine_id": "3607433",
+      "name": "Pleasant Gap Aggregate Plant #2",
+      "operator": "Glenn O Hawbaker Inc",
+      "status": "Active",
+      "status_since": "1993-10-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 30
+    }
+  ]
+}

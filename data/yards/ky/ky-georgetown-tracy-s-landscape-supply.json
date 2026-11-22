@@ -1,0 +1,36 @@
+{
+  "id": "ky-georgetown-tracy-s-landscape-supply",
+  "slug": "tracy-s-landscape-supply",
+  "name": "Tracy's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1233 Paris Pike",
+    "city": "Georgetown",
+    "state": "KY",
+    "zip": "40324"
+  },
+  "location": {
+    "lat": 38.212864,
+    "lng": -84.543694
+  },
+  "contact": {
+    "phone": "(502) 603-8111",
+    "website": "http://www.tracyslandscapesupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c6b91216-1791-4ea5-9c53-a6f52ac87183",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pa-shaverton-wilkes-barre-materials-315-quarry",
+  "slug": "wilkes-barre-materials-315-quarry",
+  "name": "Wilkes Barre Materials 315 QUARRY",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Shaverton",
+    "state": "PA",
+    "zip": "18705"
+  },
+  "location": {
+    "lat": 41.278056,
+    "lng": -75.803611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600796"
+  },
+  "msha": [
+    {
+      "mine_id": "3600796",
+      "name": "Wilkes Barre Materials 315 QUARRY",
+      "operator": "Wilkes Barre Materials LLC",
+      "status": "Active",
+      "status_since": "2001-07-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

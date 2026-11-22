@@ -1,0 +1,41 @@
+{
+  "id": "vt-berlin-mccullough-crushing-mcbro-quarry",
+  "slug": "mccullough-crushing-mcbro-quarry",
+  "name": "McCullough Crushing – McBro Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Berlin",
+    "state": "VT",
+    "zip": "05670"
+  },
+  "location": {
+    "lat": 44.165278,
+    "lng": -72.5675
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300502"
+  },
+  "msha": [
+    {
+      "mine_id": "4300502",
+      "name": "McBro Quarry",
+      "operator": "McCullough Crushing, Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-05-29",
+      "commodity": "Crushed, Broken Slate",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

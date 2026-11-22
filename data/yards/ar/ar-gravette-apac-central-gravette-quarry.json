@@ -1,0 +1,41 @@
+{
+  "id": "ar-gravette-apac-central-gravette-quarry",
+  "slug": "apac-central-gravette-quarry",
+  "name": "APAC-Central – Gravette Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gravette",
+    "state": "AR",
+    "zip": "72739"
+  },
+  "location": {
+    "lat": 36.460833,
+    "lng": -94.382222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0302012"
+  },
+  "msha": [
+    {
+      "mine_id": "0302012",
+      "name": "Gravette Quarry",
+      "operator": "APAC-Central",
+      "status": "Active",
+      "status_since": "2024-11-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

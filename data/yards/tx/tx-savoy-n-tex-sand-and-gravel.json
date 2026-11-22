@@ -1,0 +1,48 @@
+{
+  "id": "tx-savoy-n-tex-sand-and-gravel",
+  "slug": "n-tex-sand-and-gravel",
+  "name": "N-Tex Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9500 W FM 1753",
+    "city": "Savoy",
+    "state": "TX",
+    "zip": "75479"
+  },
+  "location": {
+    "lat": 33.685837,
+    "lng": -96.335312
+  },
+  "contact": {
+    "phone": "(903) 965-9122",
+    "website": "http://www.ntexsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b91fb8c-b666-4f6e-a50a-02613ef5723e",
+    "confidence": 0.937,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4103864",
+      "name": "Red River Plant",
+      "operator": "N-Tex Sand & Gravel. Llc",
+      "status": "Active",
+      "status_since": "2007-12-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 17
+    }
+  ]
+}

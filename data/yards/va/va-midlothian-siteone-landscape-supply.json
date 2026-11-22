@@ -1,0 +1,37 @@
+{
+  "id": "va-midlothian-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "14440 Sommerville Ct",
+    "city": "Midlothian",
+    "state": "VA",
+    "zip": "23113"
+  },
+  "location": {
+    "lat": 37.509304,
+    "lng": -77.676773
+  },
+  "contact": {
+    "phone": "(804) 379-2879",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0f05db5c-76b9-46fb-9075-512a171fc284",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

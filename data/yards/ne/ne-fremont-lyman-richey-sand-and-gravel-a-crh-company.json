@@ -1,0 +1,48 @@
+{
+  "id": "ne-fremont-lyman-richey-sand-and-gravel-a-crh-company",
+  "slug": "lyman-richey-sand-and-gravel-a-crh-company",
+  "name": "Lyman-richey Sand & Gravel, A Crh Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4204 N Luther Rd",
+    "city": "Fremont",
+    "state": "NE",
+    "zip": "68025"
+  },
+  "location": {
+    "lat": 41.470856,
+    "lng": -96.457687
+  },
+  "contact": {
+    "phone": "(402) 359-2522",
+    "website": "https://www.lymanrichey.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df098f4d-e98f-4e4b-83fa-d2685d3cb546",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2501290",
+      "name": "Pit #45 Fremont North Pit",
+      "operator": "Lyman Richey Corp dba L-R S&G Co",
+      "status": "Active",
+      "status_since": "2025-04-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

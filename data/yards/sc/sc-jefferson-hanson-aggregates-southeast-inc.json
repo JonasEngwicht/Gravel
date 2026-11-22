@@ -1,0 +1,48 @@
+{
+  "id": "sc-jefferson-hanson-aggregates-southeast-inc",
+  "slug": "hanson-aggregates-southeast-inc",
+  "name": "Hanson Aggregates Southeast Inc.",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "3383 Kirkley Rd",
+    "city": "Jefferson",
+    "state": "SC",
+    "zip": "29718"
+  },
+  "location": {
+    "lat": 34.699032,
+    "lng": -80.335716
+  },
+  "contact": {
+    "phone": "(843) 658-3816"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11034d0e-18cd-45ba-8075-ac62712a1e13",
+    "confidence": 0.975,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3800122",
+      "name": "Brewer Sand",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "1978-12-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

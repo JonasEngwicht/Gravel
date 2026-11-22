@@ -1,0 +1,41 @@
+{
+  "id": "pa-hanover-vulcan-construction-materials-hanover-quarry",
+  "slug": "vulcan-construction-materials-hanover-quarry",
+  "name": "Vulcan Construction Materials – Hanover Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hanover",
+    "state": "PA",
+    "zip": "17344"
+  },
+  "location": {
+    "lat": 39.826389,
+    "lng": -77.029722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600015"
+  },
+  "msha": [
+    {
+      "mine_id": "3600015",
+      "name": "Hanover Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1976-03-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 57
+    }
+  ]
+}

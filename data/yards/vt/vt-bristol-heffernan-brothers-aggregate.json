@@ -1,0 +1,41 @@
+{
+  "id": "vt-bristol-heffernan-brothers-aggregate",
+  "slug": "heffernan-brothers-aggregate",
+  "name": "Heffernan Brothers Aggregate",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bristol",
+    "state": "VT",
+    "zip": "05443"
+  },
+  "location": {
+    "lat": 44.158056,
+    "lng": -73.1025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300384"
+  },
+  "msha": [
+    {
+      "mine_id": "4300384",
+      "name": "Heffernan Brothers Aggregate",
+      "operator": "Heffernan Brothers Aggregate",
+      "status": "Intermittent",
+      "status_since": "2018-09-06",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

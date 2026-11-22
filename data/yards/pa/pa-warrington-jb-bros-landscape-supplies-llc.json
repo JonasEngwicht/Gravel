@@ -1,0 +1,32 @@
+{
+  "id": "pa-warrington-jb-bros-landscape-supplies-llc",
+  "slug": "jb-bros-landscape-supplies-llc",
+  "name": "Jb Bros Landscape Supplies Llc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "424 Easton Rd",
+    "city": "Warrington",
+    "state": "PA",
+    "zip": "18976"
+  },
+  "location": {
+    "lat": 40.224644,
+    "lng": -75.140572
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd0b7b61-54cf-475a-8b39-77543759c0c7",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ny-oswego-lindsey-aggregates-inc",
+  "slug": "lindsey-aggregates-inc",
+  "name": "Lindsey Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5646 State Route 104",
+    "city": "Oswego",
+    "state": "NY",
+    "zip": "13126"
+  },
+  "location": {
+    "lat": 43.464897,
+    "lng": -76.443008
+  },
+  "contact": {
+    "phone": "(315) 529-2773",
+    "website": "http://www.lindseyaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b3795706-69ec-4b52-bea5-a27f6fecbeb4",
+    "confidence": 0.985,
+    "merged_records": 1
+  }
+}

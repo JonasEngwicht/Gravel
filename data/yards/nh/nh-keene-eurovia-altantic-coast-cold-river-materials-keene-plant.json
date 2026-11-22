@@ -1,0 +1,41 @@
+{
+  "id": "nh-keene-eurovia-altantic-coast-cold-river-materials-keene-plant",
+  "slug": "eurovia-altantic-coast-cold-river-materials-keene-plant",
+  "name": "Eurovia Altantic Coast – Cold River Materials Keene Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Keene",
+    "state": "NH",
+    "zip": "03446"
+  },
+  "location": {
+    "lat": 42.877222,
+    "lng": -72.269167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700058"
+  },
+  "msha": [
+    {
+      "mine_id": "2700058",
+      "name": "Cold River Materials Keene Plant",
+      "operator": "Eurovia Altantic Coast LLC",
+      "status": "Active",
+      "status_since": "2020-06-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

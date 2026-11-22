@@ -1,0 +1,37 @@
+{
+  "id": "nc-matthews-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "12040 Stallings Commerce Dr",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28105"
+  },
+  "location": {
+    "lat": 35.099518,
+    "lng": -80.676285
+  },
+  "contact": {
+    "phone": "(704) 893-0707",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/FISMATT/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90c23f38-71d2-4a59-b907-51ccadf7cf5c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

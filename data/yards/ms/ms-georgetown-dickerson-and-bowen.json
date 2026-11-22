@@ -1,0 +1,41 @@
+{
+  "id": "ms-georgetown-dickerson-and-bowen",
+  "slug": "dickerson-and-bowen",
+  "name": "Dickerson and Bowen",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Georgetown",
+    "state": "MS",
+    "zip": "39078"
+  },
+  "location": {
+    "lat": 31.912778,
+    "lng": -90.228056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200467"
+  },
+  "msha": [
+    {
+      "mine_id": "2200467",
+      "name": "D & B Sand And Gravel",
+      "operator": "Dickerson and Bowen Inc",
+      "status": "Active",
+      "status_since": "1979-09-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-chico-pro-aggregate",
+  "slug": "pro-aggregate",
+  "name": "PRO Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3668 Hicks Ln",
+    "city": "Chico",
+    "state": "CA",
+    "zip": "95973"
+  },
+  "location": {
+    "lat": 39.783886,
+    "lng": -121.865829
+  },
+  "contact": {
+    "phone": "(530) 342-8028",
+    "website": "http://www.proaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6946bef1-2012-4461-8f90-230e380ea1e0",
+    "confidence": 0.999,
+    "merged_records": 2
+  }
+}

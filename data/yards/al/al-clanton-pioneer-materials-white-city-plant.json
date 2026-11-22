@@ -1,0 +1,41 @@
+{
+  "id": "al-clanton-pioneer-materials-white-city-plant",
+  "slug": "pioneer-materials-white-city-plant",
+  "name": "Pioneer Materials – White City Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Clanton",
+    "state": "AL",
+    "zip": "36051"
+  },
+  "location": {
+    "lat": 32.673611,
+    "lng": -86.586111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103223"
+  },
+  "msha": [
+    {
+      "mine_id": "0103223",
+      "name": "White City Plant",
+      "operator": "Pioneer Materials LLC",
+      "status": "Active",
+      "status_since": "2013-01-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

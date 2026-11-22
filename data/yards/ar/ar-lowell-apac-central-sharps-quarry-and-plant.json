@@ -1,0 +1,41 @@
+{
+  "id": "ar-lowell-apac-central-sharps-quarry-and-plant",
+  "slug": "apac-central-sharps-quarry-and-plant",
+  "name": "APAC-Central – Sharps Quarry & Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lowell",
+    "state": "AR",
+    "zip": "72718"
+  },
+  "location": {
+    "lat": 36.226111,
+    "lng": -94.179166
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301583"
+  },
+  "msha": [
+    {
+      "mine_id": "0301583",
+      "name": "Sharps Quarry & Plant",
+      "operator": "APAC-Central, Inc",
+      "status": "Active",
+      "status_since": "2014-01-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

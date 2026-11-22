@@ -1,0 +1,35 @@
+{
+  "id": "nm-albuquerque-albuquerque-gravel-products",
+  "slug": "albuquerque-gravel-products",
+  "name": "Albuquerque Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8217 Central Ave NW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87121"
+  },
+  "location": {
+    "lat": 35.076748,
+    "lng": -106.7276
+  },
+  "contact": {
+    "phone": "(505) 831-0279"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fcc17013-4f43-4feb-bfe5-ad4defcb9a19",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

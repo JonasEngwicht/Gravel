@@ -1,0 +1,36 @@
+{
+  "id": "md-upper-marlboro-aggregate-technologies-inc",
+  "slug": "aggregate-technologies-inc",
+  "name": "Aggregate Technologies, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14404 Old Mill Rd Ste 201",
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "zip": "20772"
+  },
+  "location": {
+    "lat": 38.81881,
+    "lng": -76.756119
+  },
+  "contact": {
+    "phone": "(301) 952-8804",
+    "website": "https://aggregatetechnologies.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "279d02af-5f07-4d43-9424-f5e78c86b419",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

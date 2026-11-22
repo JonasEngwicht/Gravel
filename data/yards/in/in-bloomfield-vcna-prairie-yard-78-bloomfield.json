@@ -1,0 +1,41 @@
+{
+  "id": "in-bloomfield-vcna-prairie-yard-78-bloomfield",
+  "slug": "vcna-prairie-yard-78-bloomfield",
+  "name": "VCNA Prairie – Yard 78 - Bloomfield",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bloomfield",
+    "state": "IN",
+    "zip": "47424"
+  },
+  "location": {
+    "lat": 39.023889,
+    "lng": -86.96
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202260"
+  },
+  "msha": [
+    {
+      "mine_id": "1202260",
+      "name": "Yard 78 - Bloomfield",
+      "operator": "VCNA Prairie LLC",
+      "status": "Active",
+      "status_since": "2016-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

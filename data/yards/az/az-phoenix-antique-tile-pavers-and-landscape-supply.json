@@ -1,0 +1,36 @@
+{
+  "id": "az-phoenix-antique-tile-pavers-and-landscape-supply",
+  "slug": "antique-tile-pavers-and-landscape-supply",
+  "name": "Antique Tile, Pavers and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "22026 N 24th Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85027"
+  },
+  "location": {
+    "lat": 33.686607,
+    "lng": -112.110222
+  },
+  "contact": {
+    "phone": "(623) 587-0421",
+    "website": "https://www.antiquetilephoenixaz.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b5cdce7f-23f1-41aa-8883-25ef623cf0fc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

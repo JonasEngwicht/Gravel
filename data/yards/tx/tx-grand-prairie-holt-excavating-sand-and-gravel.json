@@ -1,0 +1,36 @@
+{
+  "id": "tx-grand-prairie-holt-excavating-sand-and-gravel",
+  "slug": "holt-excavating-sand-and-gravel",
+  "name": "Holt Excavating Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4330 E Jefferson St",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip": "75051"
+  },
+  "location": {
+    "lat": 32.747826,
+    "lng": -96.931099
+  },
+  "contact": {
+    "phone": "(903) 549-3001",
+    "website": "https://holtsandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44eed653-8ce7-4508-8165-97bee96df50e",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

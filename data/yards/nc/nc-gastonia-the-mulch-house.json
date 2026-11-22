@@ -1,0 +1,36 @@
+{
+  "id": "nc-gastonia-the-mulch-house",
+  "slug": "the-mulch-house",
+  "name": "The Mulch House",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "602 Forest Dr",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28054"
+  },
+  "location": {
+    "lat": 35.251801,
+    "lng": -81.175552
+  },
+  "contact": {
+    "phone": "(980) 888-0010",
+    "website": "https://themulchhouse.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c82e9ac4-d6bb-4302-a1c4-8812ac5bae26",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-naples-fogg-s-nursery-and-mulch-supply",
+  "slug": "fogg-s-nursery-and-mulch-supply",
+  "name": "Fogg's Nursery & Mulch Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10270 Immokalee Rd",
+    "city": "Naples",
+    "state": "FL",
+    "zip": "34120"
+  },
+  "location": {
+    "lat": 26.272766,
+    "lng": -81.661896
+  },
+  "contact": {
+    "phone": "(239) 352-8181",
+    "website": "https://www.foggsnursery.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b8069fb-fd32-47fd-8ca3-0cc4ec574174",
+    "confidence": 0.907,
+    "merged_records": 1
+  }
+}

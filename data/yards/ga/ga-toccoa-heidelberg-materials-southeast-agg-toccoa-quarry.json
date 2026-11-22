@@ -1,0 +1,41 @@
+{
+  "id": "ga-toccoa-heidelberg-materials-southeast-agg-toccoa-quarry",
+  "slug": "heidelberg-materials-southeast-agg-toccoa-quarry",
+  "name": "Heidelberg Materials Southeast Agg – Toccoa Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Toccoa",
+    "state": "GA",
+    "zip": "30577"
+  },
+  "location": {
+    "lat": 34.577222,
+    "lng": -83.3325
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900051"
+  },
+  "msha": [
+    {
+      "mine_id": "0900051",
+      "name": "Toccoa Quarry",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "1976-04-23",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

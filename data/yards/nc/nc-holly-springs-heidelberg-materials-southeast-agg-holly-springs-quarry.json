@@ -1,0 +1,41 @@
+{
+  "id": "nc-holly-springs-heidelberg-materials-southeast-agg-holly-springs-quarry",
+  "slug": "heidelberg-materials-southeast-agg-holly-springs-quarry",
+  "name": "Heidelberg Materials Southeast Agg – Holly Springs Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Holly Springs",
+    "state": "NC",
+    "zip": "27540"
+  },
+  "location": {
+    "lat": 35.6025,
+    "lng": -78.8775
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102074"
+  },
+  "msha": [
+    {
+      "mine_id": "3102074",
+      "name": "Holly Springs Quarry",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "2000-10-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

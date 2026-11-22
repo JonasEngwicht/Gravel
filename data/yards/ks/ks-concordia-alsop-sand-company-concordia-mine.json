@@ -1,0 +1,41 @@
+{
+  "id": "ks-concordia-alsop-sand-company-concordia-mine",
+  "slug": "alsop-sand-company-concordia-mine",
+  "name": "Alsop Sand Company – Concordia Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Concordia",
+    "state": "KS",
+    "zip": "66901"
+  },
+  "location": {
+    "lat": 39.576667,
+    "lng": -97.630833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1400481"
+  },
+  "msha": [
+    {
+      "mine_id": "1400481",
+      "name": "Concordia Mine",
+      "operator": "Alsop Sand Company Inc",
+      "status": "Intermittent",
+      "status_since": "2025-07-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

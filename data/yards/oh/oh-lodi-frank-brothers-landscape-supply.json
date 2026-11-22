@@ -1,0 +1,36 @@
+{
+  "id": "oh-lodi-frank-brothers-landscape-supply",
+  "slug": "frank-brothers-landscape-supply",
+  "name": "Frank Brothers Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9718 Avon Lake Rd",
+    "city": "Lodi",
+    "state": "OH",
+    "zip": "44254"
+  },
+  "location": {
+    "lat": 41.008469,
+    "lng": -81.996887
+  },
+  "contact": {
+    "phone": "(330) 948-1006",
+    "website": "http://www.frankbrothers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3619798b-e6ae-43c2-ad83-52141ba9568e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

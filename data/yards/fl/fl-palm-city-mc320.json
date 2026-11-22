@@ -1,0 +1,41 @@
+{
+  "id": "fl-palm-city-mc320",
+  "slug": "mc320",
+  "name": "Mc320",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Palm City",
+    "state": "FL",
+    "zip": "34956"
+  },
+  "location": {
+    "lat": 27.034722,
+    "lng": -80.403333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801456"
+  },
+  "msha": [
+    {
+      "mine_id": "0801456",
+      "name": "MC320 Mine",
+      "operator": "Mc320 Llc",
+      "status": "Active",
+      "status_since": "2023-11-08",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

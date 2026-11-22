@@ -1,0 +1,41 @@
+{
+  "id": "az-florence-calmat-queen-creek-stone",
+  "slug": "calmat-queen-creek-stone",
+  "name": "CalMat – Queen Creek Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Florence",
+    "state": "AZ",
+    "zip": "85143"
+  },
+  "location": {
+    "lat": 33.099444,
+    "lng": -111.471111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203342"
+  },
+  "msha": [
+    {
+      "mine_id": "0203342",
+      "name": "Queen Creek Stone",
+      "operator": "CalMat Co.",
+      "status": "Active",
+      "status_since": "2016-12-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

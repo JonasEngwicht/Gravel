@@ -1,0 +1,37 @@
+{
+  "id": "ca-anaheim-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "1480 N Hancock St  Ste A",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92807"
+  },
+  "location": {
+    "lat": 33.863636,
+    "lng": -117.813499
+  },
+  "contact": {
+    "phone": "(714) 792-2920",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "703107cc-bd7a-4e0d-b668-39a82978994c",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

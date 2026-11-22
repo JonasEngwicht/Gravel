@@ -1,0 +1,41 @@
+{
+  "id": "vt-middlebury-joseph-p-carrara-and-sons-chapman-and-19-middlebury-ml-and-pl",
+  "slug": "joseph-p-carrara-and-sons-chapman-and-19-middlebury-ml-and-pl",
+  "name": "Joseph P Carrara & Sons – Chapman & #19 Middlebury Ml & Pl",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Middlebury",
+    "state": "VT",
+    "zip": "05753"
+  },
+  "location": {
+    "lat": 44.007222,
+    "lng": -73.097222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300111"
+  },
+  "msha": [
+    {
+      "mine_id": "4300111",
+      "name": "Chapman & #19 Middlebury Ml & Pl",
+      "operator": "Joseph P Carrara & Sons Inc",
+      "status": "Intermittent",
+      "status_since": "1985-06-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

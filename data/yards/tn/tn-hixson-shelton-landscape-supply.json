@@ -1,0 +1,36 @@
+{
+  "id": "tn-hixson-shelton-landscape-supply",
+  "slug": "shelton-landscape-supply",
+  "name": "Shelton Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7703 Hixson Pike",
+    "city": "Hixson",
+    "state": "TN",
+    "zip": "37343"
+  },
+  "location": {
+    "lat": 35.176003,
+    "lng": -85.17189
+  },
+  "contact": {
+    "phone": "(423) 842-9708",
+    "website": "https://shelton-landscape-supply.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "29a24e41-2ad2-4fc2-9121-041d53d69d6c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

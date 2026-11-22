@@ -1,0 +1,41 @@
+{
+  "id": "ny-springville-gernatt-asphalt-products-springville",
+  "slug": "gernatt-asphalt-products-springville",
+  "name": "Gernatt Asphalt Products – Springville",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Springville",
+    "state": "NY",
+    "zip": "14141"
+  },
+  "location": {
+    "lat": 42.504444,
+    "lng": -78.651944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001581"
+  },
+  "msha": [
+    {
+      "mine_id": "3001581",
+      "name": "Springville",
+      "operator": "Gernatt Asphalt Products, Inc",
+      "status": "Intermittent",
+      "status_since": "2025-05-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

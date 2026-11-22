@@ -1,0 +1,36 @@
+{
+  "id": "tx-caddo-mills-mclarry-sand-and-gravel",
+  "slug": "mclarry-sand-and-gravel",
+  "name": "McLarry Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5221 Interstate 30 W",
+    "city": "Caddo Mills",
+    "state": "TX",
+    "zip": "75135"
+  },
+  "location": {
+    "lat": 32.999252,
+    "lng": -96.238434
+  },
+  "contact": {
+    "phone": "(903) 456-1852",
+    "website": "http://www.topsoilgreenville.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b0efdb0-e584-41ab-96df-3ffa0bd64646",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

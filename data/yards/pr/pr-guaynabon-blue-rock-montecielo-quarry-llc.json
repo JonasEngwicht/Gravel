@@ -1,0 +1,41 @@
+{
+  "id": "pr-guaynabon-blue-rock-montecielo-quarry-llc",
+  "slug": "blue-rock-montecielo-quarry-llc",
+  "name": "Blue Rock – Montecielo Quarry LLC",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Guaynabon",
+    "state": "PR",
+    "zip": "00926"
+  },
+  "location": {
+    "lat": 18.353333,
+    "lng": -66.071944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400461"
+  },
+  "msha": [
+    {
+      "mine_id": "5400461",
+      "name": "Montecielo Quarry LLC",
+      "operator": "Blue Rock Inc",
+      "status": "Active",
+      "status_since": "2012-10-15",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

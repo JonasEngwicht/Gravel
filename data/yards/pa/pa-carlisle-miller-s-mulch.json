@@ -1,0 +1,36 @@
+{
+  "id": "pa-carlisle-miller-s-mulch",
+  "slug": "miller-s-mulch",
+  "name": "Miller's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1106 Pine Rd",
+    "city": "Carlisle",
+    "state": "PA",
+    "zip": "17015"
+  },
+  "location": {
+    "lat": 40.111084,
+    "lng": -77.269852
+  },
+  "contact": {
+    "phone": "(717) 486-3336",
+    "website": "http://nrproducts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a404a7c-832f-43ef-ba69-7c4096675aaa",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

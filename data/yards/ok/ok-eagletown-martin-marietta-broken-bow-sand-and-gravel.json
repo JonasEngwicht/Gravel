@@ -1,0 +1,37 @@
+{
+  "id": "ok-eagletown-martin-marietta-broken-bow-sand-and-gravel",
+  "slug": "martin-marietta-broken-bow-sand-and-gravel",
+  "name": "Martin Marietta - Broken Bow Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "160 Mayfly Lane",
+    "city": "Eagletown",
+    "state": "OK",
+    "zip": "74734"
+  },
+  "location": {
+    "lat": 34.039703,
+    "lng": -94.600052
+  },
+  "contact": {
+    "phone": "(580) 326-0406",
+    "website": "https://www.martinmarietta.com/locations/southwest/arkansas-district/broken-bow-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c357b3ed-3589-4f7c-ba4f-d233c79caf99",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

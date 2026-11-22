@@ -1,0 +1,41 @@
+{
+  "id": "nh-bethlehem-chick-s-sand-and-gravel",
+  "slug": "chick-s-sand-and-gravel",
+  "name": "Chick's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bethlehem",
+    "state": "NH",
+    "zip": "03598"
+  },
+  "location": {
+    "lat": 44.346667,
+    "lng": -71.616944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700340"
+  },
+  "msha": [
+    {
+      "mine_id": "2700340",
+      "name": "Chick's Sand & Gravel",
+      "operator": "Chick's Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "1999-08-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

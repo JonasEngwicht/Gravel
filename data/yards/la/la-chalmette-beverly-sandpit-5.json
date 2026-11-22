@@ -1,0 +1,41 @@
+{
+  "id": "la-chalmette-beverly-sandpit-5",
+  "slug": "beverly-sandpit-5",
+  "name": "Beverly Sandpit #5",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Chalmette",
+    "state": "LA",
+    "zip": "70005"
+  },
+  "location": {
+    "lat": 29.981667,
+    "lng": -90.133056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1600784"
+  },
+  "msha": [
+    {
+      "mine_id": "1600784",
+      "name": "Beverly Sandpit #5",
+      "operator": "Beverly Sand and Aggregate LLC",
+      "status": "Active",
+      "status_since": "2017-10-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

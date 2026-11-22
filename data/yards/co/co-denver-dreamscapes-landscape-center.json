@@ -1,0 +1,36 @@
+{
+  "id": "co-denver-dreamscapes-landscape-center",
+  "slug": "dreamscapes-landscape-center",
+  "name": "Dreamscapes Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6100 E 104th Ave",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80233"
+  },
+  "location": {
+    "lat": 39.88501,
+    "lng": -104.915894
+  },
+  "contact": {
+    "phone": "(303) 288-8877",
+    "website": "http://www.dreamscapesdenver.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1615fe0e-47c4-4e39-a742-4e2cd5983d37",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

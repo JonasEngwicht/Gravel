@@ -1,0 +1,41 @@
+{
+  "id": "il-pana-pana-limestone",
+  "slug": "pana-limestone",
+  "name": "Pana Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pana",
+    "state": "IL",
+    "zip": "62083"
+  },
+  "location": {
+    "lat": 39.3975,
+    "lng": -89.233056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103100"
+  },
+  "msha": [
+    {
+      "mine_id": "1103100",
+      "name": "Pana Limestone Company",
+      "operator": "Pana Limestone Company",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

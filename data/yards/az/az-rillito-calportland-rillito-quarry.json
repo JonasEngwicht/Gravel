@@ -1,0 +1,41 @@
+{
+  "id": "az-rillito-calportland-rillito-quarry",
+  "slug": "calportland-rillito-quarry",
+  "name": "CalPortland – Rillito Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Rillito",
+    "state": "AZ",
+    "zip": "85743"
+  },
+  "location": {
+    "lat": 32.361111,
+    "lng": -111.187222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0200006"
+  },
+  "msha": [
+    {
+      "mine_id": "0200006",
+      "name": "Rillito Quarry",
+      "operator": "CalPortland Company",
+      "status": "Active",
+      "status_since": "2012-04-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 23
+    }
+  ]
+}

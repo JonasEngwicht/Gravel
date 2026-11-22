@@ -1,0 +1,35 @@
+{
+  "id": "nj-dunellen-stone-depot",
+  "slug": "stone-depot",
+  "name": "Stone depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1232 North Ave",
+    "city": "Dunellen",
+    "state": "NJ",
+    "zip": "08812"
+  },
+  "location": {
+    "lat": 40.59166,
+    "lng": -74.465088
+  },
+  "contact": {
+    "phone": "(908) 540-9153"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c9f8782-a094-4cd1-b8ce-1c1d22cb6a3a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

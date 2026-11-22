@@ -1,0 +1,41 @@
+{
+  "id": "ky-water-valley-ford-construction",
+  "slug": "ford-construction",
+  "name": "Ford Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Water Valley",
+    "state": "KY",
+    "zip": "42088"
+  },
+  "location": {
+    "lat": 36.606111,
+    "lng": -88.781667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1516612"
+  },
+  "msha": [
+    {
+      "mine_id": "1516612",
+      "name": "Ford Construction Company",
+      "operator": "Ford Construction Company",
+      "status": "Intermittent",
+      "status_since": "2019-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

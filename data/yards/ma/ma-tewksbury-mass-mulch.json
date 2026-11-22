@@ -1,0 +1,36 @@
+{
+  "id": "ma-tewksbury-mass-mulch",
+  "slug": "mass-mulch",
+  "name": "Mass Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1628 Shawsheen St",
+    "city": "Tewksbury",
+    "state": "MA",
+    "zip": "01876"
+  },
+  "location": {
+    "lat": 42.619091,
+    "lng": -71.184975
+  },
+  "contact": {
+    "phone": "(781) 944-9716",
+    "website": "https://massmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da803c9d-4c79-4dde-9971-55c139111196",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-lakewood-ranch-smr-aggregates",
+  "slug": "smr-aggregates",
+  "name": "SMR Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5875 Quarry Dr",
+    "city": "Lakewood Ranch",
+    "state": "FL",
+    "zip": "34240"
+  },
+  "location": {
+    "lat": 27.380556,
+    "lng": -82.381165
+  },
+  "contact": {
+    "phone": "(941) 907-0041",
+    "website": "http://www.smraggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37f148fa-13ea-44ff-834e-635165234497",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

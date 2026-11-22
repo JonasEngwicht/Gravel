@@ -1,0 +1,48 @@
+{
+  "id": "mn-fergus-falls-mark-sand-and-gravel-co",
+  "slug": "mark-sand-and-gravel-co",
+  "name": "Mark Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "525 Kennedy Park Rd",
+    "city": "Fergus Falls",
+    "state": "MN",
+    "zip": "56537"
+  },
+  "location": {
+    "lat": 46.288097,
+    "lng": -96.1147
+  },
+  "contact": {
+    "phone": "(218) 736-7523",
+    "website": "https://marksandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1e511435-94f4-4898-8aeb-470add360f07",
+    "confidence": 0.95,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2103707",
+      "name": "Mark Sand & Gravel Co. Quarry",
+      "operator": "Mark Sand & Gravel Co.",
+      "status": "Abandoned",
+      "status_since": "2026-09-16",
+      "commodity": "Crushed, Broken Granite",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

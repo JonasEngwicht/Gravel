@@ -1,0 +1,35 @@
+{
+  "id": "ms-sardis-evans-sand-and-gravel",
+  "slug": "evans-sand-and-gravel",
+  "name": "Evans Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1715 River Rd",
+    "city": "Sardis",
+    "state": "MS",
+    "zip": "38666"
+  },
+  "location": {
+    "lat": 34.381607,
+    "lng": -89.899834
+  },
+  "contact": {
+    "phone": "(662) 487-3854"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "397361aa-47d7-43fb-883e-761d9deeba0d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

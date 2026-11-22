@@ -1,0 +1,36 @@
+{
+  "id": "ca-penn-valley-four-seasons-landscape-materials",
+  "slug": "four-seasons-landscape-materials",
+  "name": "Four Seasons Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "17115 Penn Valley Dr",
+    "city": "Penn Valley",
+    "state": "CA",
+    "zip": "95946"
+  },
+  "location": {
+    "lat": 39.200165,
+    "lng": -121.172279
+  },
+  "contact": {
+    "phone": "(530) 432-9906",
+    "website": "http://www.fourseasonsmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85c3c898-1460-437f-95c2-7a9d7c01dc1f",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "vt-wells-river-chief-crushing-and-excavation-wells-river-quarry",
+  "slug": "chief-crushing-and-excavation-wells-river-quarry",
+  "name": "Chief Crushing & Excavation – Wells River Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wells River",
+    "state": "VT",
+    "zip": "05081"
+  },
+  "location": {
+    "lat": 44.1575,
+    "lng": -72.058056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300696"
+  },
+  "msha": [
+    {
+      "mine_id": "4300696",
+      "name": "Wells River Quarry",
+      "operator": "Chief Crushing & Excavation Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-05-22",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

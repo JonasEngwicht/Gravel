@@ -1,0 +1,48 @@
+{
+  "id": "nh-allenstown-allenstown-aggregate-and-recycling",
+  "slug": "allenstown-aggregate-and-recycling",
+  "name": "Allenstown Aggregate & Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "169 Granite St",
+    "city": "Allenstown",
+    "state": "NH",
+    "zip": "03275"
+  },
+  "location": {
+    "lat": 43.125931,
+    "lng": -71.430954
+  },
+  "contact": {
+    "phone": "(603) 210-1656",
+    "website": "http://www.allenstownaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e31c9f0e-2929-46f8-9544-487f57ab9d17",
+    "confidence": 0.986,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2700505",
+      "name": "Allenstown Materials LLC",
+      "operator": "Allenstown Materials LLC",
+      "status": "Abandoned",
+      "status_since": "2022-03-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

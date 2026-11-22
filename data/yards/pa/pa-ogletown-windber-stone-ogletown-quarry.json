@@ -1,0 +1,41 @@
+{
+  "id": "pa-ogletown-windber-stone-ogletown-quarry",
+  "slug": "windber-stone-ogletown-quarry",
+  "name": "Windber Stone – Ogletown Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ogletown",
+    "state": "PA",
+    "zip": "15521"
+  },
+  "location": {
+    "lat": 40.239444,
+    "lng": -78.6825
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3610314"
+  },
+  "msha": [
+    {
+      "mine_id": "3610314",
+      "name": "Ogletown Quarry",
+      "operator": "Windber Stone, Llc",
+      "status": "Intermittent",
+      "status_since": "2020-04-14",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

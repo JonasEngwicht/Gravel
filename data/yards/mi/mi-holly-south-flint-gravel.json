@@ -1,0 +1,36 @@
+{
+  "id": "mi-holly-south-flint-gravel",
+  "slug": "south-flint-gravel",
+  "name": "South Flint Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12166 Dixie Hwy",
+    "city": "Holly",
+    "state": "MI",
+    "zip": "48442"
+  },
+  "location": {
+    "lat": 42.854134,
+    "lng": -83.580292
+  },
+  "contact": {
+    "phone": "(810) 232-8911",
+    "website": "http://Www.aldridgetruckingco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca7bd478-990a-4498-9f04-71972a5dd7cf",
+    "confidence": 0.888,
+    "merged_records": 1
+  }
+}

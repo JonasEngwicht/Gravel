@@ -1,0 +1,36 @@
+{
+  "id": "wi-waunakee-madcity-mulch-llc",
+  "slug": "madcity-mulch-llc",
+  "name": "MadCity Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6432 Nature Cove Trl",
+    "city": "Waunakee",
+    "state": "WI",
+    "zip": "53597"
+  },
+  "location": {
+    "lat": 43.209816,
+    "lng": -89.376816
+  },
+  "contact": {
+    "phone": "(608) 843-7435",
+    "website": "http://www.madcitymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ad614cc-f51d-41e8-9fbf-4598a43dd803",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

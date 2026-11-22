@@ -1,0 +1,41 @@
+{
+  "id": "mn-edgerton-buffalo-ridge-concrete-pronk-pit-and-mill",
+  "slug": "buffalo-ridge-concrete-pronk-pit-and-mill",
+  "name": "Buffalo Ridge Concrete – Pronk Pit And Mill",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Edgerton",
+    "state": "MN",
+    "zip": "56128"
+  },
+  "location": {
+    "lat": 43.8725,
+    "lng": -96.128611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2100583"
+  },
+  "msha": [
+    {
+      "mine_id": "2100583",
+      "name": "Pronk Pit And Mill",
+      "operator": "Buffalo Ridge Concrete, Inc.",
+      "status": "Active",
+      "status_since": "2025-08-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

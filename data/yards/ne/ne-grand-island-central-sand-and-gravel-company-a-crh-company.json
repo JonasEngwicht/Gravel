@@ -1,0 +1,36 @@
+{
+  "id": "ne-grand-island-central-sand-and-gravel-company-a-crh-company",
+  "slug": "central-sand-and-gravel-company-a-crh-company",
+  "name": "Central Sand & Gravel Company, A Crh Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1672 S Shady Bend Rd",
+    "city": "Grand Island",
+    "state": "NE",
+    "zip": "68801"
+  },
+  "location": {
+    "lat": 40.907246,
+    "lng": -98.30529
+  },
+  "contact": {
+    "phone": "(308) 382-5555",
+    "website": "https://www.lymanrichey.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa85fd09-040a-4c54-99d2-00d49519f472",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

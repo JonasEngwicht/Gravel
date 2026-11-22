@@ -1,0 +1,36 @@
+{
+  "id": "fl-cape-canaveral-marietta-martin-aggregates",
+  "slug": "marietta-martin-aggregates",
+  "name": "Marietta Martin Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "8980 Discovery Rd",
+    "city": "Cape Canaveral",
+    "state": "FL",
+    "zip": "32920"
+  },
+  "location": {
+    "lat": 28.403477,
+    "lng": -80.610466
+  },
+  "contact": {
+    "phone": "(321) 323-1140",
+    "website": "http://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c3b4d52a-cffd-42c6-880e-7e9c2dfd6cc1",
+    "confidence": 0.779,
+    "merged_records": 1
+  }
+}

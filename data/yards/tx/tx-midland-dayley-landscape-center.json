@@ -1,0 +1,35 @@
+{
+  "id": "tx-midland-dayley-landscape-center",
+  "slug": "dayley-landscape-center",
+  "name": "Dayley Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1501 N Fairgrounds Rd",
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79706"
+  },
+  "location": {
+    "lat": 32.019424,
+    "lng": -102.054543
+  },
+  "contact": {
+    "phone": "(432) 682-6700"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "99ef4606-c359-4973-be6c-11b23a337f16",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "fl-fort-walton-beach-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "632 A Lovejoy Rd NW",
+    "city": "Fort Walton Beach",
+    "state": "FL",
+    "zip": "32548"
+  },
+  "location": {
+    "lat": 30.424198,
+    "lng": -86.6567
+  },
+  "contact": {
+    "phone": "(850) 243-0911",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c7f5eb69-00c3-477b-a418-59540c08e18a",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

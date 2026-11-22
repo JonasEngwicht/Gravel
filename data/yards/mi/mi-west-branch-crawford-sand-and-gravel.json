@@ -1,0 +1,35 @@
+{
+  "id": "mi-west-branch-crawford-sand-and-gravel",
+  "slug": "crawford-sand-and-gravel",
+  "name": "Crawford Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "320 S Fairview Rd",
+    "city": "West Branch",
+    "state": "MI",
+    "zip": "48661"
+  },
+  "location": {
+    "lat": 44.340649,
+    "lng": -84.226563
+  },
+  "contact": {
+    "phone": "(989) 345-0260"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1f51ab44-d8a5-4404-8a0a-9fe22479e41e",
+    "confidence": 0.539,
+    "merged_records": 1
+  }
+}

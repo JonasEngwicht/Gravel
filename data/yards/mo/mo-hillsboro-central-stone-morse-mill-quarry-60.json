@@ -1,0 +1,41 @@
+{
+  "id": "mo-hillsboro-central-stone-morse-mill-quarry-60",
+  "slug": "central-stone-morse-mill-quarry-60",
+  "name": "Central Stone – Morse Mill Quarry #60",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hillsboro",
+    "state": "MO",
+    "zip": "63023"
+  },
+  "location": {
+    "lat": 38.247778,
+    "lng": -90.658056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302524"
+  },
+  "msha": [
+    {
+      "mine_id": "2302524",
+      "name": "Morse Mill Quarry #60",
+      "operator": "Central Stone Company",
+      "status": "Intermittent",
+      "status_since": "2026-03-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

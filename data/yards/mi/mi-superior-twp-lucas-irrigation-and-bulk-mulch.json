@@ -1,0 +1,36 @@
+{
+  "id": "mi-superior-twp-lucas-irrigation-and-bulk-mulch",
+  "slug": "lucas-irrigation-and-bulk-mulch",
+  "name": "Lucas Irrigation and Bulk Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10190 Ann Arbor Rd",
+    "city": "Superior Twp",
+    "state": "MI",
+    "zip": "48170"
+  },
+  "location": {
+    "lat": 42.341698,
+    "lng": -83.56369
+  },
+  "contact": {
+    "phone": "(734) 330-6136",
+    "website": "http://www.lucasnlc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eabf7a30-69af-40dd-ad6f-fadb68a1b197",
+    "confidence": 0.701,
+    "merged_records": 1
+  }
+}

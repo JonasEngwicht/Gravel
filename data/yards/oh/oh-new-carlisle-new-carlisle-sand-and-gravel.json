@@ -1,0 +1,36 @@
+{
+  "id": "oh-new-carlisle-new-carlisle-sand-and-gravel",
+  "slug": "new-carlisle-sand-and-gravel",
+  "name": "New Carlisle Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6090 Scarff Rd",
+    "city": "New Carlisle",
+    "state": "OH",
+    "zip": "45344"
+  },
+  "location": {
+    "lat": 39.936817,
+    "lng": -84.049675
+  },
+  "contact": {
+    "phone": "(937) 845-8434",
+    "website": "http://www.newcarlisleautoparts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "376a6d23-7623-4b3d-8a58-ab5c49824a76",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

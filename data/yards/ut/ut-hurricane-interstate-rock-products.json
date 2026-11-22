@@ -1,0 +1,41 @@
+{
+  "id": "ut-hurricane-interstate-rock-products",
+  "slug": "interstate-rock-products",
+  "name": "Interstate Rock Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hurricane",
+    "state": "UT",
+    "zip": "84746"
+  },
+  "location": {
+    "lat": 37.183056,
+    "lng": -113.340278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4201609"
+  },
+  "msha": [
+    {
+      "mine_id": "4201609",
+      "name": "5M Pit",
+      "operator": "Interstate Rock Products Inc",
+      "status": "Active",
+      "status_since": "2016-03-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

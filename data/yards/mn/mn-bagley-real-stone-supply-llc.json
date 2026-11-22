@@ -1,0 +1,36 @@
+{
+  "id": "mn-bagley-real-stone-supply-llc",
+  "slug": "real-stone-supply-llc",
+  "name": "Real Stone Supply, Llc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "335 Park Ave NW",
+    "city": "Bagley",
+    "state": "MN",
+    "zip": "56621"
+  },
+  "location": {
+    "lat": 47.525837,
+    "lng": -95.423149
+  },
+  "contact": {
+    "phone": "(218) 694-6207",
+    "website": "https://www.realstonesupplyllcbagley.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b889ff7b-2e1b-4a03-8d02-2b9e00f45cea",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

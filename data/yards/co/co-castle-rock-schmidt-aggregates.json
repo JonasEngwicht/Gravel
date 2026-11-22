@@ -1,0 +1,36 @@
+{
+  "id": "co-castle-rock-schmidt-aggregates",
+  "slug": "schmidt-aggregates",
+  "name": "Schmidt Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2830 S Ridge Rd",
+    "city": "Castle Rock",
+    "state": "CO",
+    "zip": "80104"
+  },
+  "location": {
+    "lat": 39.320755,
+    "lng": -104.812607
+  },
+  "contact": {
+    "phone": "(303) 688-4150",
+    "website": "http://schmidtconstr.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "203c9ad3-183a-46a1-bf91-494bf5a6906e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

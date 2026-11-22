@@ -1,0 +1,35 @@
+{
+  "id": "fl-lake-alfred-stone-and-mulch-place",
+  "slug": "stone-and-mulch-place",
+  "name": "Stone & Mulch Place",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "870 Alfred St E",
+    "city": "Lake Alfred",
+    "state": "FL",
+    "zip": "33850"
+  },
+  "location": {
+    "lat": 28.097082,
+    "lng": -81.715775
+  },
+  "contact": {
+    "phone": "(863) 956-3336"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "537b841b-b593-431d-9875-7ef97c05039d",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

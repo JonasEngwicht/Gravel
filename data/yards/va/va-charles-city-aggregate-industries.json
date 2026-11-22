@@ -1,0 +1,37 @@
+{
+  "id": "va-charles-city-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "7420 Two Mile Trl",
+    "city": "Charles City",
+    "state": "VA",
+    "zip": "23030"
+  },
+  "location": {
+    "lat": 37.38829,
+    "lng": -77.166435
+  },
+  "contact": {
+    "phone": "(804) 829-9783",
+    "website": "https://www.aggregate-us.com/_aius/regions/hd/hd_home.cfm"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "969568b8-3bc2-455b-85fc-1971bd015e16",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

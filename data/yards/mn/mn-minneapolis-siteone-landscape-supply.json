@@ -1,0 +1,37 @@
+{
+  "id": "mn-minneapolis-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6925 Washington Ave S",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55439"
+  },
+  "location": {
+    "lat": 44.877872,
+    "lng": -93.39801
+  },
+  "contact": {
+    "phone": "(952) 942-9282",
+    "website": "https://www.siteone.com/store/416"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7157e87c-e2ff-4187-af38-0a6ce3f80d49",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

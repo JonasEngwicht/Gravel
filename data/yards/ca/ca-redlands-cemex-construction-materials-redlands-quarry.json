@@ -1,0 +1,41 @@
+{
+  "id": "ca-redlands-cemex-construction-materials-redlands-quarry",
+  "slug": "cemex-construction-materials-redlands-quarry",
+  "name": "Cemex Construction Materials – Redlands Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Redlands",
+    "state": "CA",
+    "zip": "92346"
+  },
+  "location": {
+    "lat": 34.098333,
+    "lng": -117.181944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404869"
+  },
+  "msha": [
+    {
+      "mine_id": "0404869",
+      "name": "Redlands Quarry",
+      "operator": "Cemex Construction Materials LP",
+      "status": "Active",
+      "status_since": "2018-04-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

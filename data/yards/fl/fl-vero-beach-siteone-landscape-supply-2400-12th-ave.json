@@ -1,0 +1,37 @@
+{
+  "id": "fl-vero-beach-siteone-landscape-supply-2400-12th-ave",
+  "slug": "siteone-landscape-supply-2400-12th-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2400 12th Ave",
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip": "32960"
+  },
+  "location": {
+    "lat": 27.643253,
+    "lng": -80.397079
+  },
+  "contact": {
+    "phone": "(772) 778-7875",
+    "website": "https://www.siteone.com/en/store/740"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b786a2ab-a43b-44e1-a12f-7ecfda61d16a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

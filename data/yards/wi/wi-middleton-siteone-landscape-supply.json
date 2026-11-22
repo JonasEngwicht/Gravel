@@ -1,0 +1,37 @@
+{
+  "id": "wi-middleton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8520 Fairway Pl",
+    "city": "Middleton",
+    "state": "WI",
+    "zip": "53562"
+  },
+  "location": {
+    "lat": 43.103367,
+    "lng": -89.533615
+  },
+  "contact": {
+    "phone": "(608) 831-3240",
+    "website": "https://www.siteone.com/store/569"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa83f96c-3860-4ba5-8158-ff313bff391c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

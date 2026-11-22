@@ -1,0 +1,41 @@
+{
+  "id": "mo-gravois-mills-fischer-materials",
+  "slug": "fischer-materials",
+  "name": "Fischer Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gravois Mills",
+    "state": "MO",
+    "zip": "65037"
+  },
+  "location": {
+    "lat": 38.323889,
+    "lng": -92.835833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301119"
+  },
+  "msha": [
+    {
+      "mine_id": "2301119",
+      "name": "Fischer Materials",
+      "operator": "Fischer Materials LLC",
+      "status": "Active",
+      "status_since": "2017-01-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

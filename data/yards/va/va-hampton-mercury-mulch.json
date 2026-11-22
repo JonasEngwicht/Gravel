@@ -1,0 +1,36 @@
+{
+  "id": "va-hampton-mercury-mulch",
+  "slug": "mercury-mulch",
+  "name": "Mercury Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "220 E Mercury Blvd",
+    "city": "Hampton",
+    "state": "VA",
+    "zip": "23669"
+  },
+  "location": {
+    "lat": 37.034004,
+    "lng": -76.326248
+  },
+  "contact": {
+    "phone": "(757) 219-2033",
+    "website": "https://www.mulchhr.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "032de49f-a531-4f8e-856d-1ad3beaad73e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

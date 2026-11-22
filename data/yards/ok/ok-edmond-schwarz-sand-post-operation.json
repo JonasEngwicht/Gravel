@@ -1,0 +1,41 @@
+{
+  "id": "ok-edmond-schwarz-sand-post-operation",
+  "slug": "schwarz-sand-post-operation",
+  "name": "Schwarz Sand – Post Operation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Edmond",
+    "state": "OK",
+    "zip": "73151"
+  },
+  "location": {
+    "lat": 35.576389,
+    "lng": -97.373611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402044"
+  },
+  "msha": [
+    {
+      "mine_id": "3402044",
+      "name": "Post Operation",
+      "operator": "Schwarz Sand, Llc",
+      "status": "Active",
+      "status_since": "2025-01-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

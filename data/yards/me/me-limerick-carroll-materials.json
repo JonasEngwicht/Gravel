@@ -1,0 +1,41 @@
+{
+  "id": "me-limerick-carroll-materials",
+  "slug": "carroll-materials",
+  "name": "Carroll Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Limerick",
+    "state": "ME",
+    "zip": "04048"
+  },
+  "location": {
+    "lat": 43.697222,
+    "lng": -70.766111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700282"
+  },
+  "msha": [
+    {
+      "mine_id": "1700282",
+      "name": "Carroll Materials,LLC.",
+      "operator": "Carroll Materials, LLC.",
+      "status": "Active",
+      "status_since": "2013-07-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

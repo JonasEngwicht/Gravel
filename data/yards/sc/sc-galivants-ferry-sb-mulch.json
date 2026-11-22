@@ -1,0 +1,36 @@
+{
+  "id": "sc-galivants-ferry-sb-mulch",
+  "slug": "sb-mulch",
+  "name": "SB Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4403 McCracken Rd",
+    "city": "Galivants Ferry",
+    "state": "SC",
+    "zip": "29544"
+  },
+  "location": {
+    "lat": 34.057419,
+    "lng": -79.159805
+  },
+  "contact": {
+    "phone": "(843) 358-2574",
+    "website": "http://www.facebook.com/sbturfandmulch"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee985863-4536-430b-a561-b686ca89ee85",
+    "confidence": 0.655,
+    "merged_records": 1
+  }
+}

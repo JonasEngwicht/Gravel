@@ -1,0 +1,47 @@
+{
+  "id": "ia-sac-city-hosteng-concrete-and-gravel",
+  "slug": "hosteng-concrete-and-gravel",
+  "name": "Hosteng Concrete & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "312 Sioux St",
+    "city": "Sac City",
+    "state": "IA",
+    "zip": "50583"
+  },
+  "location": {
+    "lat": 42.424042,
+    "lng": -94.987221
+  },
+  "contact": {
+    "phone": "(712) 662-4207"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d20db18-44c5-4392-bcfa-8756ee43b054",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1302025",
+      "name": "Portable Plant #1",
+      "operator": "J W Ready Mix & Construction Inc",
+      "status": "Intermittent",
+      "status_since": "2015-09-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

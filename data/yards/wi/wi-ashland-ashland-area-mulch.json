@@ -1,0 +1,36 @@
+{
+  "id": "wi-ashland-ashland-area-mulch",
+  "slug": "ashland-area-mulch",
+  "name": "Ashland Area Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "810 14th Ave E",
+    "city": "Ashland",
+    "state": "WI",
+    "zip": "54806"
+  },
+  "location": {
+    "lat": 46.593594,
+    "lng": -90.861633
+  },
+  "contact": {
+    "phone": "(715) 373-2344",
+    "website": "http://www.ashlandareamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bdb5a5b5-cd23-41f5-be67-48a9bd1865d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

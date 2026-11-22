@@ -1,0 +1,36 @@
+{
+  "id": "tx-livingston-mulch-2-go",
+  "slug": "mulch-2-go",
+  "name": "Mulch 2 Go",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2075 US-59 S",
+    "city": "Livingston",
+    "state": "TX",
+    "zip": "77351"
+  },
+  "location": {
+    "lat": 30.678286,
+    "lng": -94.950623
+  },
+  "contact": {
+    "phone": "(936) 327-1000",
+    "website": "http://www.mulch2go.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2244002f-3abd-4cb9-b591-a5931ef74013",
+    "confidence": 0.965,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-fruitport-carr-s-landscape-supplies",
+  "slug": "carr-s-landscape-supplies",
+  "name": "Carr's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5970 Airline Rd",
+    "city": "Fruitport",
+    "state": "MI",
+    "zip": "49415"
+  },
+  "location": {
+    "lat": 43.143829,
+    "lng": -86.154968
+  },
+  "contact": {
+    "phone": "(231) 681-4036",
+    "website": "https://carrslandscapesupplies.localsearch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fce72aa3-12aa-4b4e-a117-7a1651ade42d",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

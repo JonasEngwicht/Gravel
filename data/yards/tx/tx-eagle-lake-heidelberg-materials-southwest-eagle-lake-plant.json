@@ -1,0 +1,41 @@
+{
+  "id": "tx-eagle-lake-heidelberg-materials-southwest-eagle-lake-plant",
+  "slug": "heidelberg-materials-southwest-eagle-lake-plant",
+  "name": "Heidelberg Materials Southwest – Eagle Lake Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Eagle Lake",
+    "state": "TX",
+    "zip": "78940"
+  },
+  "location": {
+    "lat": 29.949722,
+    "lng": -96.612778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4101696"
+  },
+  "msha": [
+    {
+      "mine_id": "4101696",
+      "name": "Eagle Lake Plant",
+      "operator": "Heidelberg Materials Southwest LLC",
+      "status": "Active",
+      "status_since": "1972-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

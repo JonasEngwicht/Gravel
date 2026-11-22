@@ -1,0 +1,41 @@
+{
+  "id": "nh-londonderry-continental-paving",
+  "slug": "continental-paving",
+  "name": "Continental Paving",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Londonderry",
+    "state": "NH",
+    "zip": "03052"
+  },
+  "location": {
+    "lat": 42.825833,
+    "lng": -71.416111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700259"
+  },
+  "msha": [
+    {
+      "mine_id": "2700259",
+      "name": "West Road Pit",
+      "operator": "Continental Paving Inc",
+      "status": "Intermittent",
+      "status_since": "2024-12-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

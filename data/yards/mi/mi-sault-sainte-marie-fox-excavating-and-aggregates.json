@@ -1,0 +1,36 @@
+{
+  "id": "mi-sault-sainte-marie-fox-excavating-and-aggregates",
+  "slug": "fox-excavating-and-aggregates",
+  "name": "Fox Excavating and Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3239 Radar Rd",
+    "city": "Sault Sainte Marie",
+    "state": "MI",
+    "zip": "49783"
+  },
+  "location": {
+    "lat": 46.459431,
+    "lng": -84.3899
+  },
+  "contact": {
+    "phone": "(906) 632-4200",
+    "website": "http://www.foxexcavatingandaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "878ef2dc-73a2-4e6a-9254-1cc4df963406",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

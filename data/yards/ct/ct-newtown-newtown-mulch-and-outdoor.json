@@ -1,0 +1,36 @@
+{
+  "id": "ct-newtown-newtown-mulch-and-outdoor",
+  "slug": "newtown-mulch-and-outdoor",
+  "name": "Newtown Mulch and Outdoor",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "144 Mt Pleasant Rd",
+    "city": "Newtown",
+    "state": "CT",
+    "zip": "06470"
+  },
+  "location": {
+    "lat": 41.416939,
+    "lng": -73.35968
+  },
+  "contact": {
+    "phone": "(203) 270-3390",
+    "website": "http://www.newtownmulchandoutdoor.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb2e17cd-a4d7-475f-8858-8311030a34cd",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

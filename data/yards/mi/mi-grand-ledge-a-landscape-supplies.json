@@ -1,0 +1,35 @@
+{
+  "id": "mi-grand-ledge-a-landscape-supplies",
+  "slug": "a-landscape-supplies",
+  "name": "A+ Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10658 W Grand River Hwy",
+    "city": "Grand Ledge",
+    "state": "MI",
+    "zip": "48837"
+  },
+  "location": {
+    "lat": 42.797165,
+    "lng": -84.734634
+  },
+  "contact": {
+    "phone": "(517) 627-2602"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77f333d0-4c39-41f0-a858-95f45c8aae5d",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

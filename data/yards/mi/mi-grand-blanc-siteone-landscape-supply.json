@@ -1,0 +1,37 @@
+{
+  "id": "mi-grand-blanc-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "498 E Reid Rd Ste 5",
+    "city": "Grand Blanc",
+    "state": "MI",
+    "zip": "48439"
+  },
+  "location": {
+    "lat": 42.927635,
+    "lng": -83.639923
+  },
+  "contact": {
+    "phone": "(810) 694-9100",
+    "website": "https://www.siteone.com/store/534"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8720e450-55ee-4c0f-ba36-09b8b366a666",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

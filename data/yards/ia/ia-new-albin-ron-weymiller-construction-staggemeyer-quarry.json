@@ -1,0 +1,41 @@
+{
+  "id": "ia-new-albin-ron-weymiller-construction-staggemeyer-quarry",
+  "slug": "ron-weymiller-construction-staggemeyer-quarry",
+  "name": "Ron Weymiller Construction – Staggemeyer Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "New Albin",
+    "state": "IA",
+    "zip": "52160"
+  },
+  "location": {
+    "lat": 43.478142,
+    "lng": -91.345977
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302399"
+  },
+  "msha": [
+    {
+      "mine_id": "1302399",
+      "name": "Staggemeyer Quarry",
+      "operator": "Ron Weymiller Construction",
+      "status": "Intermittent",
+      "status_since": "2009-08-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

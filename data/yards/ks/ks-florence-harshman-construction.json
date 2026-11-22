@@ -1,0 +1,41 @@
+{
+  "id": "ks-florence-harshman-construction",
+  "slug": "harshman-construction",
+  "name": "Harshman Construction",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Florence",
+    "state": "KS",
+    "zip": "66510"
+  },
+  "location": {
+    "lat": 38.539444,
+    "lng": -95.601111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401857"
+  },
+  "msha": [
+    {
+      "mine_id": "1401857",
+      "name": "Plant 1",
+      "operator": "Harshman Construction L.L.C.",
+      "status": "Intermittent",
+      "status_since": "2025-07-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

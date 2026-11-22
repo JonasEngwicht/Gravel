@@ -1,0 +1,41 @@
+{
+  "id": "pa-prescott-pennsy-supply-prescott-quarry",
+  "slug": "pennsy-supply-prescott-quarry",
+  "name": "Pennsy Supply – Prescott Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Prescott",
+    "state": "PA",
+    "zip": "17067"
+  },
+  "location": {
+    "lat": 40.355556,
+    "lng": -76.356111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600039"
+  },
+  "msha": [
+    {
+      "mine_id": "3600039",
+      "name": "Prescott Quarry",
+      "operator": "Pennsy Supply Inc",
+      "status": "Active",
+      "status_since": "2010-10-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

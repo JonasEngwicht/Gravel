@@ -1,0 +1,36 @@
+{
+  "id": "pa-patton-slovikosky-stone-and-mulch",
+  "slug": "slovikosky-stone-and-mulch",
+  "name": "Slovikosky Stone and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3780 Colonel Drake Hwy",
+    "city": "Patton",
+    "state": "PA",
+    "zip": "16668"
+  },
+  "location": {
+    "lat": 40.604889,
+    "lng": -78.606628
+  },
+  "contact": {
+    "phone": "(814) 674-2322",
+    "website": "http://slovikoskystoneandmulchsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c52097f-fc27-4694-85cd-a2540e010f04",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

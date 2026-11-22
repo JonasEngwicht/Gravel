@@ -1,0 +1,41 @@
+{
+  "id": "ks-wichita-air-capitol-materials",
+  "slug": "air-capitol-materials",
+  "name": "Air Capitol Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67205"
+  },
+  "location": {
+    "lat": 37.775,
+    "lng": -97.408333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401809"
+  },
+  "msha": [
+    {
+      "mine_id": "1401809",
+      "name": "Air Capitol Materials",
+      "operator": "Air Capitol Materials",
+      "status": "Active",
+      "status_since": "2023-04-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

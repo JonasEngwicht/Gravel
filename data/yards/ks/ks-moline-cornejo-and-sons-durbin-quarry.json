@@ -1,0 +1,41 @@
+{
+  "id": "ks-moline-cornejo-and-sons-durbin-quarry",
+  "slug": "cornejo-and-sons-durbin-quarry",
+  "name": "Cornejo & Sons – Durbin Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Moline",
+    "state": "KS",
+    "zip": "67353"
+  },
+  "location": {
+    "lat": 37.360278,
+    "lng": -96.303889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401719"
+  },
+  "msha": [
+    {
+      "mine_id": "1401719",
+      "name": "Durbin Quarry",
+      "operator": "Cornejo & Sons LLC",
+      "status": "Active",
+      "status_since": "2011-01-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

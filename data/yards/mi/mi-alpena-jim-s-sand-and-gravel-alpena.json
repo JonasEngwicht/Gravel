@@ -1,0 +1,48 @@
+{
+  "id": "mi-alpena-jim-s-sand-and-gravel-alpena",
+  "slug": "jim-s-sand-and-gravel-alpena",
+  "name": "Jim's sand and gravel Alpena",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1010 Long Lake Ave",
+    "city": "Alpena",
+    "state": "MI",
+    "zip": "49707"
+  },
+  "location": {
+    "lat": 45.079426,
+    "lng": -83.431717
+  },
+  "contact": {
+    "phone": "(989) 590-0886",
+    "website": "http://www.Alpenasandpit.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6c3c360b-be3a-417d-be8c-a7aff83e0303",
+    "confidence": 0.546,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2001189",
+      "name": "Long Lake Avenue Quarry",
+      "operator": "Specification Stone Products",
+      "status": "Active",
+      "status_since": "2020-09-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

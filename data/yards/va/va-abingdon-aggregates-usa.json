@@ -1,0 +1,36 @@
+{
+  "id": "va-abingdon-aggregates-usa",
+  "slug": "aggregates-usa",
+  "name": "Aggregates USA",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21339 Gravel Lake Rd",
+    "city": "Abingdon",
+    "state": "VA",
+    "zip": "24211"
+  },
+  "location": {
+    "lat": 36.696964,
+    "lng": -81.986061
+  },
+  "contact": {
+    "phone": "(276) 628-9337",
+    "website": "http://www.aggregatesusa.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "51cea9d1-39c8-4f04-83ae-21e7b5a0f68a",
+    "confidence": 0.549,
+    "merged_records": 1
+  }
+}

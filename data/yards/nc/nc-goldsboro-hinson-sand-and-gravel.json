@@ -1,0 +1,35 @@
+{
+  "id": "nc-goldsboro-hinson-sand-and-gravel",
+  "slug": "hinson-sand-and-gravel",
+  "name": "Hinson Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1239 Stevens Mill Rd",
+    "city": "Goldsboro",
+    "state": "NC",
+    "zip": "27530"
+  },
+  "location": {
+    "lat": 35.3661,
+    "lng": -78.066513
+  },
+  "contact": {
+    "phone": "(919) 689-1004"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "acfca470-4b13-4ca6-9014-a0ed4a38fb97",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

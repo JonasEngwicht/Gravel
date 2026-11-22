@@ -1,0 +1,41 @@
+{
+  "id": "ca-stoney-point-soiland-co",
+  "slug": "soiland-co",
+  "name": "Soiland Co",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Stoney Point",
+    "state": "CA",
+    "zip": "94931"
+  },
+  "location": {
+    "lat": 38.321111,
+    "lng": -122.735556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0400284"
+  },
+  "msha": [
+    {
+      "mine_id": "0400284",
+      "name": "Soiland Co., Inc.",
+      "operator": "Soiland Co., Inc.",
+      "status": "Active",
+      "status_since": "1988-06-16",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

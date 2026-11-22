@@ -1,0 +1,36 @@
+{
+  "id": "pa-newtown-mckeon-landscape-supply",
+  "slug": "mckeon-landscape-supply",
+  "name": "McKeon Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "831 Swamp Rd",
+    "city": "Newtown",
+    "state": "PA",
+    "zip": "18940"
+  },
+  "location": {
+    "lat": 40.256485,
+    "lng": -75.013527
+  },
+  "contact": {
+    "phone": "(215) 675-6811",
+    "website": "http://www.mckeonlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a1af7df-ac40-4740-aa6b-2c9514e33312",
+    "confidence": 0.883,
+    "merged_records": 1
+  }
+}

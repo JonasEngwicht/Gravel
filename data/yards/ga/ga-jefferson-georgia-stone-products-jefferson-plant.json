@@ -1,0 +1,41 @@
+{
+  "id": "ga-jefferson-georgia-stone-products-jefferson-plant",
+  "slug": "georgia-stone-products-jefferson-plant",
+  "name": "Georgia Stone Products – Jefferson Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jefferson",
+    "state": "GA",
+    "zip": "30549"
+  },
+  "location": {
+    "lat": 34.116944,
+    "lng": -83.5725
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901260"
+  },
+  "msha": [
+    {
+      "mine_id": "0901260",
+      "name": "Jefferson Plant",
+      "operator": "Georgia Stone Products",
+      "status": "Active",
+      "status_since": "2021-06-03",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 23
+    }
+  ]
+}

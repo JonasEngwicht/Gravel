@@ -1,0 +1,35 @@
+{
+  "id": "sc-north-charleston-a-1-topsoil-of-charleston",
+  "slug": "a-1-topsoil-of-charleston",
+  "name": "A-1 Topsoil of Charleston",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7200 Cross County Rd",
+    "city": "North Charleston",
+    "state": "SC",
+    "zip": "29418"
+  },
+  "location": {
+    "lat": 32.916286,
+    "lng": -80.066833
+  },
+  "contact": {
+    "phone": "(843) 509-2351"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aca594be-189b-4937-ac61-dc1a25636185",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

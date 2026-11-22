@@ -1,0 +1,49 @@
+{
+  "id": "sc-anderson-hanson-aggregates-southeast",
+  "slug": "hanson-aggregates-southeast",
+  "name": "Hanson Aggregates Southeast",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "1413 Hayes Rd",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29624"
+  },
+  "location": {
+    "lat": 34.430019,
+    "lng": -82.62928
+  },
+  "contact": {
+    "phone": "(864) 296-9242",
+    "website": "http://lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8670febc-4f9f-4eb8-882d-d0ea9e6e448e",
+    "confidence": 0.901,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3800250",
+      "name": "Anderson Quarry",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "1979-04-02",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

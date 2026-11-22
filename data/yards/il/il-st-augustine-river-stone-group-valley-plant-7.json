@@ -1,0 +1,41 @@
+{
+  "id": "il-st-augustine-river-stone-group-valley-plant-7",
+  "slug": "river-stone-group-valley-plant-7",
+  "name": "River Stone Group – Valley Plant #7",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "St. Augustine",
+    "state": "IL",
+    "zip": "61474"
+  },
+  "location": {
+    "lat": 40.734167,
+    "lng": -90.453611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100136"
+  },
+  "msha": [
+    {
+      "mine_id": "1100136",
+      "name": "Valley Plant #7",
+      "operator": "River Stone Group Inc",
+      "status": "Active",
+      "status_since": "2011-12-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

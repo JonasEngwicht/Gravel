@@ -1,0 +1,37 @@
+{
+  "id": "oh-north-bend-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "10905 US Highway 50",
+    "city": "North Bend",
+    "state": "OH",
+    "zip": "45052"
+  },
+  "location": {
+    "lat": 39.161182,
+    "lng": -84.797798
+  },
+  "contact": {
+    "phone": "(513) 353-1400",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e950e280-77f0-43dd-b7a1-85cc84f901db",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

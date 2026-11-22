@@ -1,0 +1,37 @@
+{
+  "id": "tx-san-antonio-siteone-landscape-supply-16113-university-oak",
+  "slug": "siteone-landscape-supply-16113-university-oak",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "16113 University Oak",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78249"
+  },
+  "location": {
+    "lat": 29.588989,
+    "lng": -98.578033
+  },
+  "contact": {
+    "phone": "(210) 764-0619",
+    "website": "https://www.siteone.com/store/512"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "adf01cc1-8f41-40eb-ad04-e73b2777ae17",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-peoria-peoria-mulch",
+  "slug": "peoria-mulch",
+  "name": "Peoria Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1119 SW Adams St",
+    "city": "Peoria",
+    "state": "IL",
+    "zip": "61602"
+  },
+  "location": {
+    "lat": 40.683895,
+    "lng": -89.602829
+  },
+  "contact": {
+    "phone": "(309) 673-3688",
+    "website": "https://peoriamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da0b7aff-acda-4561-b93e-e776dcaa866d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

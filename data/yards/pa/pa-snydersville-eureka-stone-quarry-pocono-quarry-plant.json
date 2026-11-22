@@ -1,0 +1,41 @@
+{
+  "id": "pa-snydersville-eureka-stone-quarry-pocono-quarry-plant",
+  "slug": "eureka-stone-quarry-pocono-quarry-plant",
+  "name": "Eureka Stone Quarry – Pocono Quarry Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Snydersville",
+    "state": "PA",
+    "zip": "18354"
+  },
+  "location": {
+    "lat": 40.937778,
+    "lng": -75.2925
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3604243"
+  },
+  "msha": [
+    {
+      "mine_id": "3604243",
+      "name": "Pocono Quarry Plant",
+      "operator": "Eureka Stone Quarry Inc",
+      "status": "Active",
+      "status_since": "2024-11-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

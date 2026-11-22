@@ -1,0 +1,41 @@
+{
+  "id": "tx-limestone-nickel-rock-materials-nrm-stevens-pit",
+  "slug": "nickel-rock-materials-nrm-stevens-pit",
+  "name": "Nickel Rock Materials – NRM Stevens Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Limestone",
+    "state": "TX",
+    "zip": "76642"
+  },
+  "location": {
+    "lat": 31.555,
+    "lng": -96.579722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105916"
+  },
+  "msha": [
+    {
+      "mine_id": "4105916",
+      "name": "NRM Stevens Pit",
+      "operator": "Nickel Rock Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2026-09-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

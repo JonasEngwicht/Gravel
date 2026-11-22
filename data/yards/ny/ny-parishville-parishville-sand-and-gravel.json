@@ -1,0 +1,41 @@
+{
+  "id": "ny-parishville-parishville-sand-and-gravel",
+  "slug": "parishville-sand-and-gravel",
+  "name": "Parishville Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Parishville",
+    "state": "NY",
+    "zip": "13676"
+  },
+  "location": {
+    "lat": 44.626389,
+    "lng": -74.832778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002783"
+  },
+  "msha": [
+    {
+      "mine_id": "3002783",
+      "name": "Parishville Pit",
+      "operator": "Parishville Sand & Gravel Inc.",
+      "status": "Intermittent",
+      "status_since": "2019-11-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

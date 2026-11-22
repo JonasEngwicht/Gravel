@@ -1,0 +1,35 @@
+{
+  "id": "tn-sevierville-valley-landscape-supply-and-produce",
+  "slug": "valley-landscape-supply-and-produce",
+  "name": "Valley Landscape Supply & Produce",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3903 Wears Valley Rd",
+    "city": "Sevierville",
+    "state": "TN",
+    "zip": "37862"
+  },
+  "location": {
+    "lat": 35.710423,
+    "lng": -83.663345
+  },
+  "contact": {
+    "phone": "(865) 323-5521"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c34943b-e26e-4643-b718-8de66fef8692",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "al-flomaton-south-alabama-materials-cedar-creek-pit",
+  "slug": "south-alabama-materials-cedar-creek-pit",
+  "name": "South Alabama Materials – Cedar Creek Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Flomaton",
+    "state": "AL",
+    "zip": "36441"
+  },
+  "location": {
+    "lat": 31.003889,
+    "lng": -87.21
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103401"
+  },
+  "msha": [
+    {
+      "mine_id": "0103401",
+      "name": "Cedar Creek Pit",
+      "operator": "South Alabama Materials, Inc.",
+      "status": "Active",
+      "status_since": "2023-07-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "md-boonsboro-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "20301 Benevola Church Rd",
+    "city": "Boonsboro",
+    "state": "MD",
+    "zip": "21713"
+  },
+  "location": {
+    "lat": 39.549934,
+    "lng": -77.662132
+  },
+  "contact": {
+    "phone": "(301) 739-6406",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "87d542c8-21b6-4814-8ad5-14fd49112803",
+    "confidence": 0.508,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1800024",
+      "name": "Boonsboro Quarry",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Active",
+      "status_since": "2019-04-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

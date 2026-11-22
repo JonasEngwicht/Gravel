@@ -1,0 +1,36 @@
+{
+  "id": "ny-rochester-adirondack-mulch-and-stone-company",
+  "slug": "adirondack-mulch-and-stone-company",
+  "name": "Adirondack Mulch & Stone Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1277 Mount Read Blvd",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14613"
+  },
+  "location": {
+    "lat": 43.176579,
+    "lng": -77.660042
+  },
+  "contact": {
+    "phone": "(585) 254-0522",
+    "website": "https://www.adkmulchandstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c06bbde7-436e-4e10-8d4a-d5b9be6dd3cc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

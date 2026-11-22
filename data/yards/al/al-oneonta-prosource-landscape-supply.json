@@ -1,0 +1,36 @@
+{
+  "id": "al-oneonta-prosource-landscape-supply",
+  "slug": "prosource-landscape-supply",
+  "name": "Prosource Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1800 2nd Ave E",
+    "city": "Oneonta",
+    "state": "AL",
+    "zip": "35121"
+  },
+  "location": {
+    "lat": 33.966541,
+    "lng": -86.458153
+  },
+  "contact": {
+    "phone": "(205) 274-4002",
+    "website": "https://www.ccaglobalpartners.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a335dbfd-0e1a-4739-81ee-51371dc0532c",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

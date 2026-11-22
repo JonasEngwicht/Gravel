@@ -1,0 +1,36 @@
+{
+  "id": "tx-league-city-jardina-sand-and-gravel",
+  "slug": "jardina-sand-and-gravel",
+  "name": "Jardina Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2125 Gulf Fwy S",
+    "city": "League City",
+    "state": "TX",
+    "zip": "77573"
+  },
+  "location": {
+    "lat": 29.486027,
+    "lng": -95.104813
+  },
+  "contact": {
+    "phone": "(832) 632-2620",
+    "website": "https://jardina-sand-gravel.business.site/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c6d0d79-4849-417e-af5b-3679405db9cd",
+    "confidence": 0.963,
+    "merged_records": 1
+  }
+}

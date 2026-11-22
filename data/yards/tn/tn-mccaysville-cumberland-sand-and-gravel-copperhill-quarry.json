@@ -1,0 +1,41 @@
+{
+  "id": "tn-mccaysville-cumberland-sand-and-gravel-copperhill-quarry",
+  "slug": "cumberland-sand-and-gravel-copperhill-quarry",
+  "name": "Cumberland Sand & Gravel – Copperhill Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "McCaysville",
+    "state": "TN",
+    "zip": "30555"
+  },
+  "location": {
+    "lat": 34.992778,
+    "lng": -84.377222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003620"
+  },
+  "msha": [
+    {
+      "mine_id": "4003620",
+      "name": "Copperhill Quarry",
+      "operator": "Cumberland Sand & Gravel",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

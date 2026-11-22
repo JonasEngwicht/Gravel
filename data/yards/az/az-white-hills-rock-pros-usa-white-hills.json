@@ -1,0 +1,41 @@
+{
+  "id": "az-white-hills-rock-pros-usa-white-hills",
+  "slug": "rock-pros-usa-white-hills",
+  "name": "Rock Pros USA – White Hills",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "White Hills",
+    "state": "AZ",
+    "zip": "86443"
+  },
+  "location": {
+    "lat": 35.799444,
+    "lng": -114.310833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202677"
+  },
+  "msha": [
+    {
+      "mine_id": "0202677",
+      "name": "White Hills",
+      "operator": "Rock Pros USA",
+      "status": "Intermittent",
+      "status_since": "2026-05-27",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "md-henderson-chaney-enterprises-henderson-md-sand-and-gravel",
+  "slug": "chaney-enterprises-henderson-md-sand-and-gravel",
+  "name": "Chaney Enterprises - Henderson, MD Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15890 Oakland Rd",
+    "city": "Henderson",
+    "state": "MD",
+    "zip": "21640"
+  },
+  "location": {
+    "lat": 39.045269,
+    "lng": -75.867645
+  },
+  "contact": {
+    "phone": "(301) 932-5000",
+    "website": "https://www.chaneyenterprises.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c198fbfd-ea5d-402e-933f-c9f1ab98ea1e",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1800738",
+      "name": "Henderson-MD Sand & Gravel",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-04-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

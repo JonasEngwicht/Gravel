@@ -1,0 +1,36 @@
+{
+  "id": "il-arlington-heights-lurvey-landscape-supply",
+  "slug": "lurvey-landscape-supply",
+  "name": "Lurvey Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1819 N Wilke Rd",
+    "city": "Arlington Heights",
+    "state": "IL",
+    "zip": "60004"
+  },
+  "location": {
+    "lat": 42.108025,
+    "lng": -88.00354
+  },
+  "contact": {
+    "phone": "(847) 255-5800",
+    "website": "http://www.lurveys.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dba0bf80-3571-4a84-871c-6c775d12f611",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

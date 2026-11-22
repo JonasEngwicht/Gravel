@@ -1,0 +1,36 @@
+{
+  "id": "va-harrisonburg-mission-mulch",
+  "slug": "mission-mulch",
+  "name": "Mission Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "894 Auto Motion Way",
+    "city": "Harrisonburg",
+    "state": "VA",
+    "zip": "22801"
+  },
+  "location": {
+    "lat": 38.394432,
+    "lng": -78.902458
+  },
+  "contact": {
+    "phone": "(703) 608-7693",
+    "website": "http://missionmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9bcb398-3e62-4eae-907c-4e9c90de670e",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

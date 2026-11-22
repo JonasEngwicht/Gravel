@@ -1,0 +1,35 @@
+{
+  "id": "ny-busti-chautauqua-landscape-supply",
+  "slug": "chautauqua-landscape-supply",
+  "name": "Chautauqua Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2363 W Lake Rd",
+    "city": "Busti",
+    "state": "NY",
+    "zip": "14710"
+  },
+  "location": {
+    "lat": 42.103012,
+    "lng": -79.35939
+  },
+  "contact": {
+    "phone": "(716) 526-1127"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52ddd030-c099-4ef9-8e7a-9eccfca4da12",
+    "confidence": 0.728,
+    "merged_records": 1
+  }
+}

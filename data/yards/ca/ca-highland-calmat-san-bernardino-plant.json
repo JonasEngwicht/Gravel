@@ -1,0 +1,41 @@
+{
+  "id": "ca-highland-calmat-san-bernardino-plant",
+  "slug": "calmat-san-bernardino-plant",
+  "name": "CalMat – San Bernardino Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Highland",
+    "state": "CA",
+    "zip": "92411"
+  },
+  "location": {
+    "lat": 34.136111,
+    "lng": -117.344444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401984"
+  },
+  "msha": [
+    {
+      "mine_id": "0401984",
+      "name": "San Bernardino Plant",
+      "operator": "CalMat Co",
+      "status": "Active",
+      "status_since": "1973-06-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 24
+    }
+  ]
+}

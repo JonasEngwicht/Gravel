@@ -1,0 +1,35 @@
+{
+  "id": "nc-norlina-heritage-mulch",
+  "slug": "heritage-mulch",
+  "name": "Heritage Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "155 Collins Rd",
+    "city": "Norlina",
+    "state": "NC",
+    "zip": "27563"
+  },
+  "location": {
+    "lat": 36.424992,
+    "lng": -78.257935
+  },
+  "contact": {
+    "phone": "(252) 456-5012"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3c09124-6cdf-4a02-b0ac-9cc0bd796562",
+    "confidence": 0.586,
+    "merged_records": 1
+  }
+}

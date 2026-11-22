@@ -1,0 +1,41 @@
+{
+  "id": "tx-wimberly-far-south-mining-needmore-rock-quarry",
+  "slug": "far-south-mining-needmore-rock-quarry",
+  "name": "Far South Mining – Needmore Rock Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Wimberly",
+    "state": "TX",
+    "zip": "78666"
+  },
+  "location": {
+    "lat": 29.942222,
+    "lng": -98.017778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105785"
+  },
+  "msha": [
+    {
+      "mine_id": "4105785",
+      "name": "Needmore Rock Quarry",
+      "operator": "Far South Mining LLC",
+      "status": "Intermittent",
+      "status_since": "2025-05-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

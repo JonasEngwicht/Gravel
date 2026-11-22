@@ -1,0 +1,36 @@
+{
+  "id": "sc-okatie-taylor-s-landscape-supply-and-nursery",
+  "slug": "taylor-s-landscape-supply-and-nursery",
+  "name": "Taylor's Landscape Supply & Nursery",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "36 Cecil Reynolds Dr",
+    "city": "Okatie",
+    "state": "SC",
+    "zip": "29910"
+  },
+  "location": {
+    "lat": 32.290237,
+    "lng": -80.935364
+  },
+  "contact": {
+    "phone": "(843) 705-2600",
+    "website": "https://taylorslandscapesupply.com/pages/bluffton-sc"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c53f2791-155e-4065-b87e-5b266c559d4b",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ky-cave-city-scotty-s-contracting-and-stone-barren-county-stone",
+  "slug": "scotty-s-contracting-and-stone-barren-county-stone",
+  "name": "Scotty's Contracting & Stone – Barren County Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cave City",
+    "state": "KY",
+    "zip": "42127"
+  },
+  "location": {
+    "lat": 37.060833,
+    "lng": -85.946389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1506863"
+  },
+  "msha": [
+    {
+      "mine_id": "1506863",
+      "name": "Barren County Stone",
+      "operator": "Scotty's Contracting & Stone, LLC",
+      "status": "Active",
+      "status_since": "2009-02-24",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

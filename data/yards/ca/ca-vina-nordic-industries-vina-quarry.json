@@ -1,0 +1,41 @@
+{
+  "id": "ca-vina-nordic-industries-vina-quarry",
+  "slug": "nordic-industries-vina-quarry",
+  "name": "Nordic Industries – Vina Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Vina",
+    "state": "CA",
+    "zip": "96092"
+  },
+  "location": {
+    "lat": 39.9325,
+    "lng": -122.054167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404261"
+  },
+  "msha": [
+    {
+      "mine_id": "0404261",
+      "name": "Vina Quarry",
+      "operator": "Nordic Industries, Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-05-29",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

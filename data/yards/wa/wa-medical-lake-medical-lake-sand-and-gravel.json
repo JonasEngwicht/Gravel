@@ -1,0 +1,36 @@
+{
+  "id": "wa-medical-lake-medical-lake-sand-and-gravel",
+  "slug": "medical-lake-sand-and-gravel",
+  "name": "Medical Lake Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21115 W Thorpe Rd",
+    "city": "Medical Lake",
+    "state": "WA",
+    "zip": "99022"
+  },
+  "location": {
+    "lat": 47.612057,
+    "lng": -117.703537
+  },
+  "contact": {
+    "phone": "(509) 299-4794",
+    "website": "http://www.medical-lake.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dddd7600-458b-45ea-b228-afaaa9bbaf82",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

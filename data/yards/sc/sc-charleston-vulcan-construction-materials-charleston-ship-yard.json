@@ -1,0 +1,41 @@
+{
+  "id": "sc-charleston-vulcan-construction-materials-charleston-ship-yard",
+  "slug": "vulcan-construction-materials-charleston-ship-yard",
+  "name": "Vulcan Construction Materials – Charleston Ship Yard",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Charleston",
+    "state": "SC",
+    "zip": "29405"
+  },
+  "location": {
+    "lat": 32.881575,
+    "lng": -79.973511
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800754"
+  },
+  "msha": [
+    {
+      "mine_id": "3800754",
+      "name": "Charleston Ship Yard",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2020-06-22",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

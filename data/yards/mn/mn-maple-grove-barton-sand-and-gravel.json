@@ -1,0 +1,58 @@
+{
+  "id": "mn-maple-grove-barton-sand-and-gravel",
+  "slug": "barton-sand-and-gravel",
+  "name": "Barton Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7200 Hemlock Ln N",
+    "city": "Maple Grove",
+    "state": "MN",
+    "zip": "55369"
+  },
+  "location": {
+    "lat": 45.08601,
+    "lng": -93.430702
+  },
+  "contact": {
+    "phone": "(763) 425-4191",
+    "website": "http://www.tillercorp.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b90d4740-654e-4b0c-b9dc-33c856611d92",
+    "confidence": 0.68,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2101112",
+      "name": "Maple Grove Pit",
+      "operator": "Barton Sand & Gravel Co",
+      "status": "Intermittent",
+      "status_since": "2014-12-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    },
+    {
+      "mine_id": "2101218",
+      "name": "Elk River South Pit",
+      "operator": "Barton Sand & Gravel Co",
+      "status": "Intermittent",
+      "status_since": "2019-02-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-rochester-hills-main-s-mulch-express-rochester-hills",
+  "slug": "main-s-mulch-express-rochester-hills",
+  "name": "Main's Mulch Express - Rochester Hills",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1835 S Rochester Rd",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "zip": "48307"
+  },
+  "location": {
+    "lat": 42.652798,
+    "lng": -83.131966
+  },
+  "contact": {
+    "phone": "(248) 895-6701",
+    "website": "http://www.mainslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4f491b38-a37c-4dce-a0ac-112fdb0b5ffa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

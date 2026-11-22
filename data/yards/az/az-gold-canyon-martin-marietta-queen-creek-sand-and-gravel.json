@@ -1,0 +1,48 @@
+{
+  "id": "az-gold-canyon-martin-marietta-queen-creek-sand-and-gravel",
+  "slug": "martin-marietta-queen-creek-sand-and-gravel",
+  "name": "Martin Marietta - Queen Creek Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "44431 N Peckary Rd",
+    "city": "Gold Canyon",
+    "state": "AZ",
+    "zip": "85118"
+  },
+  "location": {
+    "lat": 33.271317,
+    "lng": -111.355911
+  },
+  "contact": {
+    "phone": "(602) 685-4815",
+    "website": "https://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9a815fa-ef45-4152-bf13-224448781c0d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0202126",
+      "name": "Queen Creek Plant #42",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Abandoned",
+      "status_since": "2011-05-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mn-jordan-rock-hard-landscape-supply",
+  "slug": "rock-hard-landscape-supply",
+  "name": "Rock Hard Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "944 E 215th St",
+    "city": "Jordan",
+    "state": "MN",
+    "zip": "55352"
+  },
+  "location": {
+    "lat": 44.638599,
+    "lng": -93.503258
+  },
+  "contact": {
+    "phone": "(952) 492-2890",
+    "website": "https://www.rockhardlandscapesupply.com/jordan/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85aa21b6-3cb2-40cc-bb94-12599d91126b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

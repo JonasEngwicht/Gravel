@@ -1,0 +1,36 @@
+{
+  "id": "nc-pineville-hensons-inc-mulch-and-more",
+  "slug": "hensons-inc-mulch-and-more",
+  "name": "HENSONS' INC. MULCH & MORE",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13010 LANCASTER Highway",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134"
+  },
+  "location": {
+    "lat": 35.066563,
+    "lng": -80.879005
+  },
+  "contact": {
+    "phone": "(704) 543-9952",
+    "website": "https://hensonsinc.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fbc832ac-b049-43cb-90c3-b63610a60f75",
+    "confidence": 0.983,
+    "merged_records": 1
+  }
+}

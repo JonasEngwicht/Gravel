@@ -1,0 +1,36 @@
+{
+  "id": "tx-missouri-city-al-co-landscape-supply",
+  "slug": "al-co-landscape-supply",
+  "name": "Al-Co Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14022 S Gessner Rd",
+    "city": "Missouri City",
+    "state": "TX",
+    "zip": "77489"
+  },
+  "location": {
+    "lat": 29.619896,
+    "lng": -95.539879
+  },
+  "contact": {
+    "phone": "(281) 208-2373",
+    "website": "http://www.alcolandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "91da7248-3529-4474-9651-94b6e137e05d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

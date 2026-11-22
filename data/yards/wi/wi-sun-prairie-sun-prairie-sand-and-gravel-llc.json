@@ -1,0 +1,35 @@
+{
+  "id": "wi-sun-prairie-sun-prairie-sand-and-gravel-llc",
+  "slug": "sun-prairie-sand-and-gravel-llc",
+  "name": "Sun Prairie Sand & Gravel Llc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "109 S Thompson Rd",
+    "city": "Sun Prairie",
+    "state": "WI",
+    "zip": "53590"
+  },
+  "location": {
+    "lat": 43.175289,
+    "lng": -89.253792
+  },
+  "contact": {
+    "phone": "(608) 837-8006"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "17e9cbd6-ed6e-4607-b4ba-6953a8ec50e7",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-malone-h-and-c-robinson-contractors",
+  "slug": "h-and-c-robinson-contractors",
+  "name": "H & C Robinson Contractors",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Malone",
+    "state": "NY",
+    "zip": "12926"
+  },
+  "location": {
+    "lat": 44.891389,
+    "lng": -74.321944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003789"
+  },
+  "msha": [
+    {
+      "mine_id": "3003789",
+      "name": "Robinson Pit",
+      "operator": "H & C Robinson Contractors Inc.",
+      "status": "Intermittent",
+      "status_since": "2010-11-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

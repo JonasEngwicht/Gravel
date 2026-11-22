@@ -1,0 +1,41 @@
+{
+  "id": "nj-vineland-dun-rite-sand-and-gravel-co",
+  "slug": "dun-rite-sand-and-gravel-co",
+  "name": "Dun-Rite Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Vineland",
+    "state": "NJ",
+    "zip": "21919"
+  },
+  "location": {
+    "lat": 39.420278,
+    "lng": -75.961111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2801010"
+  },
+  "msha": [
+    {
+      "mine_id": "2801010",
+      "name": "Plant #4",
+      "operator": "Dun-Rite Sand & Gravel Co Inc",
+      "status": "Active",
+      "status_since": "2002-07-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 26
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ny-college-point-aggregate-and-cement-trucking-llc",
+  "slug": "aggregate-and-cement-trucking-llc",
+  "name": "Aggregate & Cement Trucking Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12902 23rd Ave",
+    "city": "College Point",
+    "state": "NY",
+    "zip": "11356"
+  },
+  "location": {
+    "lat": 40.778309,
+    "lng": -73.839233
+  },
+  "contact": {
+    "phone": "(917) 654-8334",
+    "website": "https://www.nycement.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "188b4348-13b3-489f-855e-33b7784e4eb5",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

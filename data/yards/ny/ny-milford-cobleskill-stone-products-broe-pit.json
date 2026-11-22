@@ -1,0 +1,41 @@
+{
+  "id": "ny-milford-cobleskill-stone-products-broe-pit",
+  "slug": "cobleskill-stone-products-broe-pit",
+  "name": "Cobleskill Stone Products – Broe Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Milford",
+    "state": "NY",
+    "zip": "13747"
+  },
+  "location": {
+    "lat": 42.467222,
+    "lng": -74.987222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002416"
+  },
+  "msha": [
+    {
+      "mine_id": "3002416",
+      "name": "Broe Pit",
+      "operator": "Cobleskill Stone Products Inc",
+      "status": "Intermittent",
+      "status_since": "2022-04-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

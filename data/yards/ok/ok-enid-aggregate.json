@@ -1,0 +1,36 @@
+{
+  "id": "ok-enid-aggregate",
+  "slug": "aggregate",
+  "name": "Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "925 N Grand St",
+    "city": "Enid",
+    "state": "OK",
+    "zip": "73701"
+  },
+  "location": {
+    "lat": 36.406265,
+    "lng": -97.877708
+  },
+  "contact": {
+    "phone": "(580) 297-5168",
+    "website": "https://www.aggregatepro.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4fb20e6-db70-49a5-bb78-09476817ecde",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

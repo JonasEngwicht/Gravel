@@ -1,0 +1,36 @@
+{
+  "id": "nh-brookline-powell-stone-and-gravel",
+  "slug": "powell-stone-and-gravel",
+  "name": "Powell Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "87 Rte 13",
+    "city": "Brookline",
+    "state": "NH",
+    "zip": "03033"
+  },
+  "location": {
+    "lat": 42.726448,
+    "lng": -71.66301
+  },
+  "contact": {
+    "phone": "(603) 673-8100",
+    "website": "https://www.powellstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd322538-5d67-4559-8f26-987d4d4c908d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

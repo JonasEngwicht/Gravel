@@ -1,0 +1,36 @@
+{
+  "id": "il-west-chicago-landscape-material-and-firewood-sales",
+  "slug": "landscape-material-and-firewood-sales",
+  "name": "Landscape Material and Firewood Sales",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "27W250 St Charles Rd",
+    "city": "West Chicago",
+    "state": "IL",
+    "zip": "60185"
+  },
+  "location": {
+    "lat": 41.905479,
+    "lng": -88.151794
+  },
+  "contact": {
+    "phone": "(630) 231-7911",
+    "website": "http://LMFSinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c27cc0c-2a1d-471b-a9fc-681a2cee441d",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

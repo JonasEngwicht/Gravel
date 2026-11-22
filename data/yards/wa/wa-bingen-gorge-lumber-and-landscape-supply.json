@@ -1,0 +1,35 @@
+{
+  "id": "wa-bingen-gorge-lumber-and-landscape-supply",
+  "slug": "gorge-lumber-and-landscape-supply",
+  "name": "Gorge Lumber and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "850 E Steuben St",
+    "city": "Bingen",
+    "state": "WA",
+    "zip": "98605"
+  },
+  "location": {
+    "lat": 45.709084,
+    "lng": -121.456306
+  },
+  "contact": {
+    "phone": "(509) 774-7002"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "266a12f1-0361-47cf-ac46-8b22512a8f8a",
+    "confidence": 0.947,
+    "merged_records": 2
+  }
+}

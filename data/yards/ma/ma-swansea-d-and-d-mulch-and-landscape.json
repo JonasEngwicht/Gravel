@@ -1,0 +1,36 @@
+{
+  "id": "ma-swansea-d-and-d-mulch-and-landscape",
+  "slug": "d-and-d-mulch-and-landscape",
+  "name": "D&D Mulch and Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1306 Grand Army of the Republic Highway",
+    "city": "Swansea",
+    "state": "MA",
+    "zip": "02777"
+  },
+  "location": {
+    "lat": 41.75248,
+    "lng": -71.232269
+  },
+  "contact": {
+    "phone": "(508) 676-8025",
+    "website": "https://www.ddmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b3e2ebf-4887-4af4-9df7-ffd461228ac0",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mi-vestaburg-wichert-trucking-and-excavating-jean-s-pit",
+  "slug": "wichert-trucking-and-excavating-jean-s-pit",
+  "name": "Wichert Trucking & Excavating – Jean's Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Vestaburg",
+    "state": "MI",
+    "zip": "48891"
+  },
+  "location": {
+    "lat": 43.414167,
+    "lng": -84.950278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003520"
+  },
+  "msha": [
+    {
+      "mine_id": "2003520",
+      "name": "Jean's Pit",
+      "operator": "Wichert Trucking & Excavating, llc",
+      "status": "Intermittent",
+      "status_since": "2015-10-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

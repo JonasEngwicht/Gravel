@@ -1,0 +1,35 @@
+{
+  "id": "mn-erhard-stadum-plumbing-and-gravel-llp",
+  "slug": "stadum-plumbing-and-gravel-llp",
+  "name": "Stadum Plumbing & Gravel Llp",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "712 Main St",
+    "city": "Erhard",
+    "state": "MN",
+    "zip": "56534"
+  },
+  "location": {
+    "lat": 46.48481,
+    "lng": -96.095337
+  },
+  "contact": {
+    "phone": "(218) 842-5100"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4077bb44-5666-4181-82be-067a6db5a276",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

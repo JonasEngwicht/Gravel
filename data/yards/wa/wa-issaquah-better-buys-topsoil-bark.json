@@ -1,0 +1,36 @@
+{
+  "id": "wa-issaquah-better-buys-topsoil-bark",
+  "slug": "better-buys-topsoil-bark",
+  "name": "Better Buys Topsoil Bark",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10924 Issaquah Hobart Rd SE",
+    "city": "Issaquah",
+    "state": "WA",
+    "zip": "98027"
+  },
+  "location": {
+    "lat": 47.504204,
+    "lng": -122.022331
+  },
+  "contact": {
+    "phone": "(206) 227-7645",
+    "website": "http://www.betterbuystopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f785b684-43f6-467f-9a77-ec41544d5b5d",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

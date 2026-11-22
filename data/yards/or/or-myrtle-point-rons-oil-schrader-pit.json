@@ -1,0 +1,41 @@
+{
+  "id": "or-myrtle-point-rons-oil-schrader-pit",
+  "slug": "rons-oil-schrader-pit",
+  "name": "Rons Oil – Schrader Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Myrtle point",
+    "state": "OR",
+    "zip": "97458"
+  },
+  "location": {
+    "lat": 43.037222,
+    "lng": -124.1
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503923"
+  },
+  "msha": [
+    {
+      "mine_id": "3503923",
+      "name": "Schrader Pit",
+      "operator": "Rons Oil Company",
+      "status": "Intermittent",
+      "status_since": "2024-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

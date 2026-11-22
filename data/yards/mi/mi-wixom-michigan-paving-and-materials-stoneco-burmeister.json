@@ -1,0 +1,41 @@
+{
+  "id": "mi-wixom-michigan-paving-and-materials-stoneco-burmeister",
+  "slug": "michigan-paving-and-materials-stoneco-burmeister",
+  "name": "Michigan Paving and Materials – Stoneco Burmeister",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wixom",
+    "state": "MI",
+    "zip": "48176"
+  },
+  "location": {
+    "lat": 42.168889,
+    "lng": -83.826111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2002524"
+  },
+  "msha": [
+    {
+      "mine_id": "2002524",
+      "name": "Stoneco Burmeister",
+      "operator": "Michigan Paving and Materials Company",
+      "status": "Intermittent",
+      "status_since": "2023-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

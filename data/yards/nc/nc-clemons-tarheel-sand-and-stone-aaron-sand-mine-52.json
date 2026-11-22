@@ -1,0 +1,41 @@
+{
+  "id": "nc-clemons-tarheel-sand-and-stone-aaron-sand-mine-52",
+  "slug": "tarheel-sand-and-stone-aaron-sand-mine-52",
+  "name": "Tarheel Sand & Stone – Aaron Sand Mine #52",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Clemons",
+    "state": "NC",
+    "zip": "27962"
+  },
+  "location": {
+    "lat": 35.831985,
+    "lng": -76.805133
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102058"
+  },
+  "msha": [
+    {
+      "mine_id": "3102058",
+      "name": "Aaron Sand Mine #52",
+      "operator": "Tarheel Sand & Stone Inc.",
+      "status": "Active",
+      "status_since": "2018-08-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

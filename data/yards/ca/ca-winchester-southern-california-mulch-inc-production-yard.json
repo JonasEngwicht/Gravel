@@ -1,0 +1,36 @@
+{
+  "id": "ca-winchester-southern-california-mulch-inc-production-yard",
+  "slug": "southern-california-mulch-inc-production-yard",
+  "name": "Southern California Mulch Inc. Production Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "30075 Grand Ave",
+    "city": "Winchester",
+    "state": "CA",
+    "zip": "92596"
+  },
+  "location": {
+    "lat": 33.712948,
+    "lng": -117.133537
+  },
+  "contact": {
+    "phone": "(951) 325-5355",
+    "website": "http://www.socalmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a88cb2b6-54c7-40e2-9a05-87d49981ebc6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

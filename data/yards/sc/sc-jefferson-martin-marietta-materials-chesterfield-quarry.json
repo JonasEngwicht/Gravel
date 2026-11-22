@@ -1,0 +1,41 @@
+{
+  "id": "sc-jefferson-martin-marietta-materials-chesterfield-quarry",
+  "slug": "martin-marietta-materials-chesterfield-quarry",
+  "name": "Martin Marietta Materials – Chesterfield Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jefferson",
+    "state": "SC",
+    "zip": "29718"
+  },
+  "location": {
+    "lat": 34.596111,
+    "lng": -80.371667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800682"
+  },
+  "msha": [
+    {
+      "mine_id": "3800682",
+      "name": "Chesterfield Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2025-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "al-calera-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3703 Highway 31",
+    "city": "Calera",
+    "state": "AL",
+    "zip": "35040"
+  },
+  "location": {
+    "lat": 33.165749,
+    "lng": -86.755707
+  },
+  "contact": {
+    "phone": "(205) 664-9025",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "adc3c76b-f387-4f1f-9a92-9ced0c809b04",
+    "confidence": 0.853,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0103076",
+      "name": "O'Neal Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1996-05-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 17
+    }
+  ]
+}

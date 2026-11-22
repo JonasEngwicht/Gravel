@@ -1,0 +1,41 @@
+{
+  "id": "ny-sodus-grandpas-nursery-gardens",
+  "slug": "grandpas-nursery-gardens",
+  "name": "Grandpas Nursery Gardens",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sodus",
+    "state": "NY",
+    "zip": "14551"
+  },
+  "location": {
+    "lat": 43.208056,
+    "lng": -77.111111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001901"
+  },
+  "msha": [
+    {
+      "mine_id": "3001901",
+      "name": "Grandpas Gravel Pit",
+      "operator": "Grandpas Nursery Gardens Inc",
+      "status": "Intermittent",
+      "status_since": "2014-11-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

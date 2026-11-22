@@ -1,0 +1,36 @@
+{
+  "id": "pa-denver-crystal-lake-landscape-supply",
+  "slug": "crystal-lake-landscape-supply",
+  "name": "Crystal Lake Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2355 Reading Rd",
+    "city": "Denver",
+    "state": "PA",
+    "zip": "17517"
+  },
+  "location": {
+    "lat": 40.227692,
+    "lng": -76.087814
+  },
+  "contact": {
+    "phone": "(717) 336-1906",
+    "website": "http://www.crystal-lake-landscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7bbf6152-4031-479d-9368-6d47eddd3f6d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

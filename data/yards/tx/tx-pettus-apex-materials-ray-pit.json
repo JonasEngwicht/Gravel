@@ -1,0 +1,41 @@
+{
+  "id": "tx-pettus-apex-materials-ray-pit",
+  "slug": "apex-materials-ray-pit",
+  "name": "Apex Materials – Ray Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pettus",
+    "state": "TX",
+    "zip": "78162"
+  },
+  "location": {
+    "lat": 28.619722,
+    "lng": -97.795556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104966"
+  },
+  "msha": [
+    {
+      "mine_id": "4104966",
+      "name": "Ray Pit",
+      "operator": "Apex Materials LLC",
+      "status": "Active",
+      "status_since": "2025-05-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

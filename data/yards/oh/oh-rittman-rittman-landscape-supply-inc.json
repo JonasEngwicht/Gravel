@@ -1,0 +1,36 @@
+{
+  "id": "oh-rittman-rittman-landscape-supply-inc",
+  "slug": "rittman-landscape-supply-inc",
+  "name": "Rittman Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "64 Sterling Ave",
+    "city": "Rittman",
+    "state": "OH",
+    "zip": "44270"
+  },
+  "location": {
+    "lat": 40.966412,
+    "lng": -81.785522
+  },
+  "contact": {
+    "phone": "(330) 925-1015",
+    "website": "http://www.rittmanlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b27c5599-17eb-4bb5-988e-53a1794de978",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

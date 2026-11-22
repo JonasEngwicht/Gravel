@@ -1,0 +1,37 @@
+{
+  "id": "fl-miami-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "7250 NW 43rd St",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33166"
+  },
+  "location": {
+    "lat": 25.812845,
+    "lng": -80.314491
+  },
+  "contact": {
+    "phone": "(305) 392-3202",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "144e21d6-b7e1-4e78-98d8-32870a6c0017",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

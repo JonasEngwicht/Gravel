@@ -1,0 +1,35 @@
+{
+  "id": "va-clarksville-bedrock-landscape-supply",
+  "slug": "bedrock-landscape-supply",
+  "name": "Bedrock Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11508 US-15",
+    "city": "Clarksville",
+    "state": "VA",
+    "zip": "23927"
+  },
+  "location": {
+    "lat": 36.602432,
+    "lng": -78.558311
+  },
+  "contact": {
+    "phone": "(434) 362-2012"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "489cf50c-a961-4db6-91eb-ebd1d0418c14",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

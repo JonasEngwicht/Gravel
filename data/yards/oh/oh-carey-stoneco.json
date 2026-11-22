@@ -1,0 +1,41 @@
+{
+  "id": "oh-carey-stoneco",
+  "slug": "stoneco",
+  "name": "Stoneco",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Carey",
+    "state": "OH",
+    "zip": "43316"
+  },
+  "location": {
+    "lat": 40.964167,
+    "lng": -83.369722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300181"
+  },
+  "msha": [
+    {
+      "mine_id": "3300181",
+      "name": "Stoneco, Inc.",
+      "operator": "Stoneco, Inc.",
+      "status": "Active",
+      "status_since": "2024-12-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 34
+    }
+  ]
+}

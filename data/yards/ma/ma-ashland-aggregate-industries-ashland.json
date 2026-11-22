@@ -1,0 +1,49 @@
+{
+  "id": "ma-ashland-aggregate-industries-ashland",
+  "slug": "aggregate-industries-ashland",
+  "name": "Aggregate Industries Ashland",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "71 Spring St",
+    "city": "Ashland",
+    "state": "MA",
+    "zip": "01721"
+  },
+  "location": {
+    "lat": 42.231197,
+    "lng": -71.476364
+  },
+  "contact": {
+    "phone": "(508) 881-1430",
+    "website": "http://www.aggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8bd8ae99-73cb-4874-9cc4-bf2c696abed2",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900001",
+      "name": "Ashland Quarry",
+      "operator": "Aggregate Industries Northeast Region Inc",
+      "status": "Abandoned",
+      "status_since": "2012-01-23",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

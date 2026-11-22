@@ -1,0 +1,35 @@
+{
+  "id": "ms-corinth-all-seasons-landscape-supply",
+  "slug": "all-seasons-landscape-supply",
+  "name": "All Seasons Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2691 S Harper Rd",
+    "city": "Corinth",
+    "state": "MS",
+    "zip": "38834"
+  },
+  "location": {
+    "lat": 34.908188,
+    "lng": -88.52211
+  },
+  "contact": {
+    "phone": "(662) 286-6005"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f5afb124-98d7-4710-996c-c3dfc7bd8b4c",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-austin-whittlesey-landscape-supplies-and-recycling",
+  "slug": "whittlesey-landscape-supplies-and-recycling",
+  "name": "Whittlesey Landscape Supplies & Recycling",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "629 Dalton Ln",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78742"
+  },
+  "location": {
+    "lat": 30.235346,
+    "lng": -97.663795
+  },
+  "contact": {
+    "phone": "(512) 385-0732",
+    "website": "http://www.989rock.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "006ecc93-a768-45d8-937f-bb9f2c7587fd",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

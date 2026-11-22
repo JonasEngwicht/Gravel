@@ -1,0 +1,35 @@
+{
+  "id": "la-covington-keith-s-soil-sand-gravel",
+  "slug": "keith-s-soil-sand-gravel",
+  "name": "Keith's Soil Sand Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1526 N US-190",
+    "city": "Covington",
+    "state": "LA",
+    "zip": "70433"
+  },
+  "location": {
+    "lat": 30.451956,
+    "lng": -90.08165
+  },
+  "contact": {
+    "phone": "(985) 893-9646"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52f4265c-48cc-4318-8e47-d0117aa09ecd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

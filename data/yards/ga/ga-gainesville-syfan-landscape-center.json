@@ -1,0 +1,36 @@
+{
+  "id": "ga-gainesville-syfan-landscape-center",
+  "slug": "syfan-landscape-center",
+  "name": "Syfan Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1218 SW Martin Luther King Jr Blvd",
+    "city": "Gainesville",
+    "state": "GA",
+    "zip": "30501"
+  },
+  "location": {
+    "lat": 34.289829,
+    "lng": -83.821777
+  },
+  "contact": {
+    "phone": "(770) 532-8262",
+    "website": "http://www.syfanlandscapecenter.com/Syfan_Landscape_Center/Welcome.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53b89fd5-a7ba-4fbf-b861-d9d0e7909726",
+    "confidence": 0.797,
+    "merged_records": 1
+  }
+}

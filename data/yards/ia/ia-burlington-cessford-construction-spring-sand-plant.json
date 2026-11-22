@@ -1,0 +1,41 @@
+{
+  "id": "ia-burlington-cessford-construction-spring-sand-plant",
+  "slug": "cessford-construction-spring-sand-plant",
+  "name": "Cessford Construction – Spring Sand Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Burlington",
+    "state": "IA",
+    "zip": "52658"
+  },
+  "location": {
+    "lat": 40.736111,
+    "lng": -91.142778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300766"
+  },
+  "msha": [
+    {
+      "mine_id": "1300766",
+      "name": "Spring Sand Plant",
+      "operator": "Cessford Construction Company",
+      "status": "Intermittent",
+      "status_since": "2022-09-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

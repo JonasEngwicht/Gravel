@@ -1,0 +1,36 @@
+{
+  "id": "mi-white-pigeon-advanced-landscaping-supplies",
+  "slug": "advanced-landscaping-supplies",
+  "name": "Advanced Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14775 US-12",
+    "city": "White Pigeon",
+    "state": "MI",
+    "zip": "49099"
+  },
+  "location": {
+    "lat": 41.796009,
+    "lng": -85.66684
+  },
+  "contact": {
+    "phone": "(269) 483-0281",
+    "website": "http://www.husqvarna.com/us/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8caac2a6-c597-477e-a026-486c2d20d26a",
+    "confidence": 0.641,
+    "merged_records": 1
+  }
+}

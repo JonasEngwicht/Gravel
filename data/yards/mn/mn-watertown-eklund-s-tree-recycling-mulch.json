@@ -1,0 +1,36 @@
+{
+  "id": "mn-watertown-eklund-s-tree-recycling-mulch",
+  "slug": "eklund-s-tree-recycling-mulch",
+  "name": "Eklund's Tree Recycling Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4220 County Road 10 N",
+    "city": "Watertown",
+    "state": "MN",
+    "zip": "55388"
+  },
+  "location": {
+    "lat": 44.926556,
+    "lng": -93.830711
+  },
+  "contact": {
+    "phone": "(952) 955-1136",
+    "website": "http://www.mda.state.mn.us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9b1a624-f42b-4c00-9996-699e1e1850df",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

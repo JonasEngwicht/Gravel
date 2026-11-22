@@ -1,0 +1,36 @@
+{
+  "id": "md-silver-spring-rels-landscaping-supply",
+  "slug": "rels-landscaping-supply",
+  "name": "RELS Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "16300 Layhill Rd",
+    "city": "Silver Spring",
+    "state": "MD",
+    "zip": "20906"
+  },
+  "location": {
+    "lat": 39.12405,
+    "lng": -77.029266
+  },
+  "contact": {
+    "phone": "(301) 924-5656",
+    "website": "https://relslandscaping.com/silver-spring/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ec7fef56-a066-43f8-abe3-c3267f479ff9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

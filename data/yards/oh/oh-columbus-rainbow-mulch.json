@@ -1,0 +1,36 @@
+{
+  "id": "oh-columbus-rainbow-mulch",
+  "slug": "rainbow-mulch",
+  "name": "Rainbow Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1241 Mckinley Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43222"
+  },
+  "location": {
+    "lat": 39.963112,
+    "lng": -83.035225
+  },
+  "contact": {
+    "phone": "(614) 395-2946",
+    "website": "http://www.rainbowmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f6081575-2bb8-4e47-a36e-8b6f5cb20ce8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

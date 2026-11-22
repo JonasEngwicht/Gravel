@@ -1,0 +1,36 @@
+{
+  "id": "pa-stroudsburg-mountain-road-masonry-and-landscape-supply-center",
+  "slug": "mountain-road-masonry-and-landscape-supply-center",
+  "name": "Mountain Road Masonry and Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2729 Mountain Rd",
+    "city": "Stroudsburg",
+    "state": "PA",
+    "zip": "18360"
+  },
+  "location": {
+    "lat": 41.020069,
+    "lng": -75.343414
+  },
+  "contact": {
+    "phone": "(570) 629-1916",
+    "website": "https://www.landscapesuppliescenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53fe8852-163b-47dc-848a-81cfb28c9b67",
+    "confidence": 0.923,
+    "merged_records": 1
+  }
+}

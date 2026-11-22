@@ -1,0 +1,41 @@
+{
+  "id": "ga-greensboro-vulcan-construction-materials-siloam-quarry",
+  "slug": "vulcan-construction-materials-siloam-quarry",
+  "name": "Vulcan Construction Materials – Siloam Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Greensboro",
+    "state": "GA",
+    "zip": "30665"
+  },
+  "location": {
+    "lat": 33.541667,
+    "lng": -83.075556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901114"
+  },
+  "msha": [
+    {
+      "mine_id": "0901114",
+      "name": "Siloam Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2009-04-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

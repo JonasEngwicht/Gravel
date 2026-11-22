@@ -1,0 +1,36 @@
+{
+  "id": "oh-toledo-aggregate-x-llc",
+  "slug": "aggregate-x-llc",
+  "name": "Aggregate X, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5439 Lewis Ave",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43612"
+  },
+  "location": {
+    "lat": 41.715511,
+    "lng": -83.566795
+  },
+  "contact": {
+    "phone": "(419) 476-0888",
+    "website": "https://www.aggregatex.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dee9610a-1e1c-418f-8fad-11c8a199c755",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

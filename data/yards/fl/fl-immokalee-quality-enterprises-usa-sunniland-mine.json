@@ -1,0 +1,41 @@
+{
+  "id": "fl-immokalee-quality-enterprises-usa-sunniland-mine",
+  "slug": "quality-enterprises-usa-sunniland-mine",
+  "name": "Quality Enterprises USA – Sunniland Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Immokalee",
+    "state": "FL",
+    "zip": "33930"
+  },
+  "location": {
+    "lat": 26.428889,
+    "lng": -81.438611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0800345"
+  },
+  "msha": [
+    {
+      "mine_id": "0800345",
+      "name": "Sunniland Mine",
+      "operator": "Quality Enterprises USA, Inc.",
+      "status": "Active",
+      "status_since": "2022-09-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

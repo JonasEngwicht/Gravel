@@ -1,0 +1,36 @@
+{
+  "id": "oh-north-canton-oster-sand-and-gravel-inc",
+  "slug": "oster-sand-and-gravel-inc",
+  "name": "Oster Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5947 Whipple Ave NW",
+    "city": "North Canton",
+    "state": "OH",
+    "zip": "44720"
+  },
+  "location": {
+    "lat": 40.868114,
+    "lng": -81.422531
+  },
+  "contact": {
+    "phone": "(330) 494-5472",
+    "website": "http://www.ostersandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b0ac4510-dcb9-40a5-80de-c69fe3064ad8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

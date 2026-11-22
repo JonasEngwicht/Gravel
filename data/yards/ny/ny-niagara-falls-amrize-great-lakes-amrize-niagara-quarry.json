@@ -1,0 +1,41 @@
+{
+  "id": "ny-niagara-falls-amrize-great-lakes-amrize-niagara-quarry",
+  "slug": "amrize-great-lakes-amrize-niagara-quarry",
+  "name": "Amrize Great Lakes – Amrize Niagara Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Niagara Falls",
+    "state": "NY",
+    "zip": "14304"
+  },
+  "location": {
+    "lat": 43.126111,
+    "lng": -78.965278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000085"
+  },
+  "msha": [
+    {
+      "mine_id": "3000085",
+      "name": "Amrize Niagara Quarry",
+      "operator": "Amrize Great Lakes Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-12-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

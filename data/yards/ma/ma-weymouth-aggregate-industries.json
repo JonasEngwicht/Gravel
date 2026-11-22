@@ -1,0 +1,37 @@
+{
+  "id": "ma-weymouth-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "611 Pleasant St",
+    "city": "Weymouth",
+    "state": "MA",
+    "zip": "02189"
+  },
+  "location": {
+    "lat": 42.185635,
+    "lng": -70.925812
+  },
+  "contact": {
+    "phone": "(781) 337-2304",
+    "website": "http://www.aggregate-us.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6684613e-5bde-4905-968f-13186b38993b",
+    "confidence": 0.866,
+    "merged_records": 1
+  }
+}

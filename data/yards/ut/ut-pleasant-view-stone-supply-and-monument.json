@@ -1,0 +1,36 @@
+{
+  "id": "ut-pleasant-view-stone-supply-and-monument",
+  "slug": "stone-supply-and-monument",
+  "name": "Stone Supply & Monument",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3975 N Highway 89",
+    "city": "Pleasant View",
+    "state": "UT",
+    "zip": "84404"
+  },
+  "location": {
+    "lat": 41.333858,
+    "lng": -112.026413
+  },
+  "contact": {
+    "phone": "(801) 690-0322",
+    "website": "https://www.stonesupplymonument.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb7fc4d6-20fc-4641-8583-6e976a672ef4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

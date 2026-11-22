@@ -1,0 +1,41 @@
+{
+  "id": "nm-algodones-cal-mat-baca-pit",
+  "slug": "cal-mat-baca-pit",
+  "name": "Cal Mat – Baca Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Algodones",
+    "state": "NM",
+    "zip": "87001"
+  },
+  "location": {
+    "lat": 35.398889,
+    "lng": -106.43
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2901667"
+  },
+  "msha": [
+    {
+      "mine_id": "2901667",
+      "name": "Baca Pit",
+      "operator": "Cal Mat Co",
+      "status": "Intermittent",
+      "status_since": "2025-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

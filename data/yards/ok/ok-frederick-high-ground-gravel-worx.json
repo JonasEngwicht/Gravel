@@ -1,0 +1,36 @@
+{
+  "id": "ok-frederick-high-ground-gravel-worx",
+  "slug": "high-ground-gravel-worx",
+  "name": "High Ground Gravel Worx",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "820 N Main St",
+    "city": "Frederick",
+    "state": "OK",
+    "zip": "73542"
+  },
+  "location": {
+    "lat": 34.397808,
+    "lng": -99.016647
+  },
+  "contact": {
+    "phone": "(580) 418-8677",
+    "website": "http://highgroundgravelworx.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52f190c4-40af-489d-afab-d96f248bd94e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

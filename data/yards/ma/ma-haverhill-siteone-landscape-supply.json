@@ -1,0 +1,37 @@
+{
+  "id": "ma-haverhill-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "113 Neck Rd",
+    "city": "Haverhill",
+    "state": "MA",
+    "zip": "01835"
+  },
+  "location": {
+    "lat": 42.752823,
+    "lng": -71.114288
+  },
+  "contact": {
+    "phone": "(978) 372-1014",
+    "website": "https://www.siteone.com/en/store/640"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e1e2455-a57d-4414-b43f-000c26c8429f",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

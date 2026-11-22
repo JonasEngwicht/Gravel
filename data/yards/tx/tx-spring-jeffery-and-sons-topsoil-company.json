@@ -1,0 +1,35 @@
+{
+  "id": "tx-spring-jeffery-and-sons-topsoil-company",
+  "slug": "jeffery-and-sons-topsoil-company",
+  "name": "Jeffery and Sons Topsoil Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9532 Louetta Rd",
+    "city": "Spring",
+    "state": "TX",
+    "zip": "77379"
+  },
+  "location": {
+    "lat": 30.003435,
+    "lng": -95.556274
+  },
+  "contact": {
+    "phone": "(281) 444-8207"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0a771c4-69e6-4594-a4b0-132e887620ca",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

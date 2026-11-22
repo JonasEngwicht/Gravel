@@ -1,0 +1,36 @@
+{
+  "id": "oh-milford-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "850 Round Bottom Rd",
+    "city": "Milford",
+    "state": "OH",
+    "zip": "45150"
+  },
+  "location": {
+    "lat": 39.149643,
+    "lng": -84.263863
+  },
+  "contact": {
+    "website": "https://www.ohiomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e2895daf-63c7-400a-9261-5c0f03ab2a2f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

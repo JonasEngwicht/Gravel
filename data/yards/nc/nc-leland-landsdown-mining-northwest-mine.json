@@ -1,0 +1,41 @@
+{
+  "id": "nc-leland-landsdown-mining-northwest-mine",
+  "slug": "landsdown-mining-northwest-mine",
+  "name": "Landsdown Mining – Northwest Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Leland",
+    "state": "NC",
+    "zip": "28435"
+  },
+  "location": {
+    "lat": 34.337307,
+    "lng": -78.13469
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102290"
+  },
+  "msha": [
+    {
+      "mine_id": "3102290",
+      "name": "Northwest Mine",
+      "operator": "Landsdown Mining Corporation",
+      "status": "Active",
+      "status_since": "2014-02-26",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

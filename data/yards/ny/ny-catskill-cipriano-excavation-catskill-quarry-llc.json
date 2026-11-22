@@ -1,0 +1,41 @@
+{
+  "id": "ny-catskill-cipriano-excavation-catskill-quarry-llc",
+  "slug": "cipriano-excavation-catskill-quarry-llc",
+  "name": "Cipriano Excavation – Catskill Quarry, Llc",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Catskill",
+    "state": "NY",
+    "zip": "12015"
+  },
+  "location": {
+    "lat": 42.274167,
+    "lng": -73.880556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003954"
+  },
+  "msha": [
+    {
+      "mine_id": "3003954",
+      "name": "Catskill Quarry, Llc",
+      "operator": "Cipriano Excavation, Inc",
+      "status": "Intermittent",
+      "status_since": "2024-02-28",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

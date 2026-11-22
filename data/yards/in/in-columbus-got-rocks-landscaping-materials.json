@@ -1,0 +1,36 @@
+{
+  "id": "in-columbus-got-rocks-landscaping-materials",
+  "slug": "got-rocks-landscaping-materials",
+  "name": "Got Rocks Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5205 N Indianapolis Rd",
+    "city": "Columbus",
+    "state": "IN",
+    "zip": "47203"
+  },
+  "location": {
+    "lat": 39.251938,
+    "lng": -85.940773
+  },
+  "contact": {
+    "phone": "(812) 372-7508",
+    "website": "http://www.nugentsand.com/products"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fdae3908-203d-4dd4-9fd5-f99361f890ff",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

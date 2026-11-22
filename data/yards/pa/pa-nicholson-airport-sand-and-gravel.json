@@ -1,0 +1,48 @@
+{
+  "id": "pa-nicholson-airport-sand-and-gravel",
+  "slug": "airport-sand-and-gravel",
+  "name": "Airport Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3980 PA-92",
+    "city": "Nicholson",
+    "state": "PA",
+    "zip": "18446"
+  },
+  "location": {
+    "lat": 41.637772,
+    "lng": -75.722908
+  },
+  "contact": {
+    "phone": "(570) 942-4222",
+    "website": "https://www.airportsand-gravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0fdd703f-f725-4a71-b7e7-2183bc21b7db",
+    "confidence": 0.997,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3610274",
+      "name": "Glennwood Quarry",
+      "operator": "Airport Sand And Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-12-09",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

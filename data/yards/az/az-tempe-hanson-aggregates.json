@@ -1,0 +1,37 @@
+{
+  "id": "az-tempe-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "4025 S McClintock Dr",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": "85282"
+  },
+  "location": {
+    "lat": 33.387066,
+    "lng": -111.908562
+  },
+  "contact": {
+    "phone": "(602) 685-4830",
+    "website": "https://www.lehighhanson.com/contact?s=quote&fid=nusazf0001-phoenix-sales%20office-AZ-Area-Sales-Office"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37d513ec-4671-4c51-bdef-b64265fc0b57",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

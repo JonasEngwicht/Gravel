@@ -1,0 +1,41 @@
+{
+  "id": "tx-monahans-imperial-sand-and-gravel-grandfalls",
+  "slug": "imperial-sand-and-gravel-grandfalls",
+  "name": "Imperial Sand & Gravel-Grandfalls",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Monahans",
+    "state": "TX",
+    "zip": "79743"
+  },
+  "location": {
+    "lat": 31.251111,
+    "lng": -102.656111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105385"
+  },
+  "msha": [
+    {
+      "mine_id": "4105385",
+      "name": "Imperial Sand & Gravel-Grandfalls",
+      "operator": "Imperial Sand & Gravel",
+      "status": "Active",
+      "status_since": "2025-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

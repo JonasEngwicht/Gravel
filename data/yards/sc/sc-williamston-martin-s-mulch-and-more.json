@@ -1,0 +1,35 @@
+{
+  "id": "sc-williamston-martin-s-mulch-and-more",
+  "slug": "martin-s-mulch-and-more",
+  "name": "Martin's Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4815 US-29",
+    "city": "Williamston",
+    "state": "SC",
+    "zip": "29697"
+  },
+  "location": {
+    "lat": 34.592442,
+    "lng": -82.547829
+  },
+  "contact": {
+    "phone": "(864) 840-9711"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "25ca78d2-a534-4fbf-99e2-98fed24893bf",
+    "confidence": 0.948,
+    "merged_records": 1
+  }
+}

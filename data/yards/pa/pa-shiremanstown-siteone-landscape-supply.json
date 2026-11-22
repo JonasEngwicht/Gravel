@@ -1,0 +1,37 @@
+{
+  "id": "pa-shiremanstown-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "301 Railroad Ave",
+    "city": "Shiremanstown",
+    "state": "PA",
+    "zip": "17011"
+  },
+  "location": {
+    "lat": 40.2286,
+    "lng": -76.956375
+  },
+  "contact": {
+    "phone": "(717) 761-2463",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac58caa4-26ba-4a0a-b1e0-4bc05066b115",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

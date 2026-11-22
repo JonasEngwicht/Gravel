@@ -1,0 +1,35 @@
+{
+  "id": "tx-graford-custom-stone-work-ltd-and-rock-yard-and-custom-land-services",
+  "slug": "custom-stone-work-ltd-and-rock-yard-and-custom-land-services",
+  "name": "Custom Stone Work LTD & Rock Yard and Custom Land Services",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "300 N Fm 2353",
+    "city": "Graford",
+    "state": "TX",
+    "zip": "76449"
+  },
+  "location": {
+    "lat": 32.909565,
+    "lng": -98.437096
+  },
+  "contact": {
+    "phone": "(940) 779-3700"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6cfa1dd5-dfe8-4e0a-81ae-8c062298e86d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

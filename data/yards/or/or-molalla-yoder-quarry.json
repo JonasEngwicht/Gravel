@@ -1,0 +1,41 @@
+{
+  "id": "or-molalla-yoder-quarry",
+  "slug": "yoder-quarry",
+  "name": "Yoder Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Molalla",
+    "state": "OR",
+    "zip": "97038"
+  },
+  "location": {
+    "lat": 45.085278,
+    "lng": -122.538889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503925"
+  },
+  "msha": [
+    {
+      "mine_id": "3503925",
+      "name": "Yoder Quarry LLC",
+      "operator": "Yoder Quarry LLC",
+      "status": "Active",
+      "status_since": "2023-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

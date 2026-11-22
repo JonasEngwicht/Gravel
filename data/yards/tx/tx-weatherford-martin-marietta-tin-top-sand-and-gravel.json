@@ -1,0 +1,49 @@
+{
+  "id": "tx-weatherford-martin-marietta-tin-top-sand-and-gravel",
+  "slug": "martin-marietta-tin-top-sand-and-gravel",
+  "name": "Martin Marietta - Tin Top Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "5211 New Tin Top Rd",
+    "city": "Weatherford",
+    "state": "TX",
+    "zip": "76087"
+  },
+  "location": {
+    "lat": 32.593113,
+    "lng": -97.827057
+  },
+  "contact": {
+    "phone": "(972) 647-3377",
+    "website": "https://www.martinmarietta.com/locations/southwest/north-texas-oklahoma-district/tin-top-sand-and-gravel-plant/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4b85039d-0232-4d0a-92f4-db59067e5d9c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4102852",
+      "name": "Tin Top Sand And Gravel Plant",
+      "operator": "Martin Marietta Materials Southwest, LLC",
+      "status": "Active",
+      "status_since": "1979-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 24
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-milner-vulcan-construction-materials-lamar-quarry",
+  "slug": "vulcan-construction-materials-lamar-quarry",
+  "name": "Vulcan Construction Materials – Lamar Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Milner",
+    "state": "GA",
+    "zip": "30257"
+  },
+  "location": {
+    "lat": 33.159722,
+    "lng": -84.110278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901263"
+  },
+  "msha": [
+    {
+      "mine_id": "0901263",
+      "name": "Lamar Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2023-04-07",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

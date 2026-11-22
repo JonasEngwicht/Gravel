@@ -1,0 +1,37 @@
+{
+  "id": "sc-bennettsville-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "1798 W Main St",
+    "city": "Bennettsville",
+    "state": "SC",
+    "zip": "29512"
+  },
+  "location": {
+    "lat": 34.607548,
+    "lng": -79.712303
+  },
+  "contact": {
+    "phone": "(843) 479-8909",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "983b75bf-b499-46ca-9e3c-fa9637d2e9c4",
+    "confidence": 0.744,
+    "merged_records": 1
+  }
+}

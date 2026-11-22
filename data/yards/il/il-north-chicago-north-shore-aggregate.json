@@ -1,0 +1,36 @@
+{
+  "id": "il-north-chicago-north-shore-aggregate",
+  "slug": "north-shore-aggregate",
+  "name": "North Shore Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3337 Berwyn Ave Ste 200",
+    "city": "North Chicago",
+    "state": "IL",
+    "zip": "60044"
+  },
+  "location": {
+    "lat": 42.304935,
+    "lng": -87.879326
+  },
+  "contact": {
+    "phone": "(847) 566-6111",
+    "website": "http://northshoreaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "29acdf66-6430-4a6b-a629-b22dcf65d153",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

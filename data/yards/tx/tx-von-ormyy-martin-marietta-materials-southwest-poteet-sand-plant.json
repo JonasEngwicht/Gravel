@@ -1,0 +1,41 @@
+{
+  "id": "tx-von-ormyy-martin-marietta-materials-southwest-poteet-sand-plant",
+  "slug": "martin-marietta-materials-southwest-poteet-sand-plant",
+  "name": "Martin Marietta Materials Southwest – Poteet Sand Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Von Ormyy",
+    "state": "TX",
+    "zip": "78073"
+  },
+  "location": {
+    "lat": 29.225556,
+    "lng": -98.584444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4101342"
+  },
+  "msha": [
+    {
+      "mine_id": "4101342",
+      "name": "Poteet Sand Plant",
+      "operator": "Martin Marietta Materials Southwest LLC",
+      "status": "Active",
+      "status_since": "1972-03-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

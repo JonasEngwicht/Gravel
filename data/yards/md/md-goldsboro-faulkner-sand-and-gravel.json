@@ -1,0 +1,47 @@
+{
+  "id": "md-goldsboro-faulkner-sand-and-gravel",
+  "slug": "faulkner-sand-and-gravel",
+  "name": "Faulkner Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "26047 Bridgetown Rd",
+    "city": "Goldsboro",
+    "state": "MD",
+    "zip": "21636"
+  },
+  "location": {
+    "lat": 39.026829,
+    "lng": -75.797516
+  },
+  "contact": {
+    "website": "https://www.paxcos.com/production-facilities/faulkner-plant/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34e26811-06ca-4538-9209-9514ef50ef42",
+    "confidence": 0.565,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1800810",
+      "name": "Faulkner Site",
+      "operator": "Pax-Shore Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2024-12-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mn-paynesville-paynesville-excavating-and-gravel-wash-plant",
+  "slug": "paynesville-excavating-and-gravel-wash-plant",
+  "name": "Paynesville Excavating and Gravel – Wash Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Paynesville",
+    "state": "MN",
+    "zip": "56362"
+  },
+  "location": {
+    "lat": 45.446667,
+    "lng": -94.7225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103916"
+  },
+  "msha": [
+    {
+      "mine_id": "2103916",
+      "name": "Wash Plant",
+      "operator": "Paynesville Excavating and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2017-09-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

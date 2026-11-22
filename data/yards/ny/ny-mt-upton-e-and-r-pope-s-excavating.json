@@ -1,0 +1,41 @@
+{
+  "id": "ny-mt-upton-e-and-r-pope-s-excavating",
+  "slug": "e-and-r-pope-s-excavating",
+  "name": "E & R Pope's Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Mt. Upton",
+    "state": "NY",
+    "zip": "13809"
+  },
+  "location": {
+    "lat": 42.44,
+    "lng": -75.3875
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003262"
+  },
+  "msha": [
+    {
+      "mine_id": "3003262",
+      "name": "E & R Pope's Excavating Llc",
+      "operator": "E & R Pope's Excavating Llc",
+      "status": "Intermittent",
+      "status_since": "1999-03-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

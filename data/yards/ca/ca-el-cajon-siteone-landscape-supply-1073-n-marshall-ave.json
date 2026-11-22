@@ -1,0 +1,37 @@
+{
+  "id": "ca-el-cajon-siteone-landscape-supply-1073-n-marshall-ave",
+  "slug": "siteone-landscape-supply-1073-n-marshall-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1073 N Marshall Ave",
+    "city": "El Cajon",
+    "state": "CA",
+    "zip": "92020"
+  },
+  "location": {
+    "lat": 32.809631,
+    "lng": -116.975677
+  },
+  "contact": {
+    "phone": "(619) 562-8777",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abc99e32-422d-4ea3-8e97-177d79249722",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

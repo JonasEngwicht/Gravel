@@ -1,0 +1,37 @@
+{
+  "id": "nj-branchburg-twp-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "100 Meister Ave",
+    "city": "Branchburg Twp",
+    "state": "NJ",
+    "zip": "08876"
+  },
+  "location": {
+    "lat": 40.601704,
+    "lng": -74.704529
+  },
+  "contact": {
+    "phone": "(908) 707-8222",
+    "website": "https://www.siteone.com/en/store/639"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba755f39-1fd9-40ef-9535-74ce92efdc00",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

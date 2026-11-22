@@ -1,0 +1,49 @@
+{
+  "id": "md-clinton-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "5401 Kirby Rd",
+    "city": "Clinton",
+    "state": "MD",
+    "zip": "20735"
+  },
+  "location": {
+    "lat": 38.781174,
+    "lng": -76.916435
+  },
+  "contact": {
+    "phone": "(301) 297-8760",
+    "website": "https://www.aggregate-us.com/_aius/regions/hd/hd_home.cfm"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ad2ed5b-7d7c-4a08-a6c5-d7a4f39122d8",
+    "confidence": 0.99,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1800304",
+      "name": "Amrize Kirby Road Sand & Gravel",
+      "operator": "Amrize Mid-Atlantic Inc.",
+      "status": "Active",
+      "status_since": "2020-07-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

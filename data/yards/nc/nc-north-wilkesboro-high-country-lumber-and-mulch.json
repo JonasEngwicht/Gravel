@@ -1,0 +1,36 @@
+{
+  "id": "nc-north-wilkesboro-high-country-lumber-and-mulch",
+  "slug": "high-country-lumber-and-mulch",
+  "name": "High Country Lumber & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1461 Speedway Rd",
+    "city": "North Wilkesboro",
+    "state": "NC",
+    "zip": "28659"
+  },
+  "location": {
+    "lat": 36.147999,
+    "lng": -81.084129
+  },
+  "contact": {
+    "phone": "(336) 838-1101",
+    "website": "http://www.highcountrylumberandmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b1466868-4841-4251-81ec-d971c3a48fb6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

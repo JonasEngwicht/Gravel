@@ -1,0 +1,49 @@
+{
+  "id": "nc-castle-hayne-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "5635 Holly Shelter Rd",
+    "city": "Castle Hayne",
+    "state": "NC",
+    "zip": "28429"
+  },
+  "location": {
+    "lat": 34.367168,
+    "lng": -77.851967
+  },
+  "contact": {
+    "phone": "(910) 602-6058",
+    "website": "https://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "be7f3d46-e7f8-4f0c-a2ea-af7b716ae1db",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3100063",
+      "name": "Castle Hayne Quarry",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Active",
+      "status_since": "1971-12-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 29
+    }
+  ]
+}

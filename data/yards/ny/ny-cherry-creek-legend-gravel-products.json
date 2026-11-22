@@ -1,0 +1,41 @@
+{
+  "id": "ny-cherry-creek-legend-gravel-products",
+  "slug": "legend-gravel-products",
+  "name": "Legend Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cherry Creek",
+    "state": "NY",
+    "zip": "14723"
+  },
+  "location": {
+    "lat": 42.342778,
+    "lng": -79.172778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004192"
+  },
+  "msha": [
+    {
+      "mine_id": "3004192",
+      "name": "Legend Gravel Products, LLC",
+      "operator": "Legend Gravel Products, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-10-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

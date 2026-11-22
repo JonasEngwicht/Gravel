@@ -1,0 +1,36 @@
+{
+  "id": "pa-carlisle-a-h-reiff-landscape-supply-co",
+  "slug": "a-h-reiff-landscape-supply-co",
+  "name": "A H Reiff Landscape Supply Co.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7365 Wertzville Rd",
+    "city": "Carlisle",
+    "state": "PA",
+    "zip": "17015"
+  },
+  "location": {
+    "lat": 40.285145,
+    "lng": -77.100372
+  },
+  "contact": {
+    "phone": "(717) 766-2050",
+    "website": "http://www.ahreiff.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75d3c456-311e-49df-b0a0-04065b6c28f1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

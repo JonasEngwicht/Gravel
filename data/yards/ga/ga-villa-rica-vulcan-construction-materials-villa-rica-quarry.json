@@ -1,0 +1,41 @@
+{
+  "id": "ga-villa-rica-vulcan-construction-materials-villa-rica-quarry",
+  "slug": "vulcan-construction-materials-villa-rica-quarry",
+  "name": "Vulcan Construction Materials – Villa Rica Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Villa Rica",
+    "state": "GA",
+    "zip": "30180"
+  },
+  "location": {
+    "lat": 33.66909,
+    "lng": -84.924835
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900736"
+  },
+  "msha": [
+    {
+      "mine_id": "0900736",
+      "name": "Villa Rica Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2009-04-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 31
+    }
+  ]
+}

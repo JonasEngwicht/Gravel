@@ -1,0 +1,37 @@
+{
+  "id": "ma-auburn-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5 B St Bldg 9E",
+    "city": "Auburn",
+    "state": "MA",
+    "zip": "01501"
+  },
+  "location": {
+    "lat": 42.221344,
+    "lng": -71.829529
+  },
+  "contact": {
+    "phone": "(508) 757-0592",
+    "website": "https://www.siteone.com/store/562"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d321946-feee-44c5-be5c-76180166b6c0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

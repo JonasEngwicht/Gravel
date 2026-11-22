@@ -1,0 +1,36 @@
+{
+  "id": "pa-indiana-risinger-landscaping-supplies-and-excavating",
+  "slug": "risinger-landscaping-supplies-and-excavating",
+  "name": "Risinger Landscaping Supplies & Excavating",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "501 Indian Springs Rd",
+    "city": "Indiana",
+    "state": "PA",
+    "zip": "15701"
+  },
+  "location": {
+    "lat": 40.594124,
+    "lng": -79.158638
+  },
+  "contact": {
+    "phone": "(724) 463-0344",
+    "website": "https://www.risinger-online.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64de8ba9-acb9-4cfc-ae4b-1ecef477b980",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

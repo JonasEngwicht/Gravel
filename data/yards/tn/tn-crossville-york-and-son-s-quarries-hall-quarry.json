@@ -1,0 +1,41 @@
+{
+  "id": "tn-crossville-york-and-son-s-quarries-hall-quarry",
+  "slug": "york-and-son-s-quarries-hall-quarry",
+  "name": "York & Son's Quarries – Hall Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Crossville",
+    "state": "TN",
+    "zip": "38578"
+  },
+  "location": {
+    "lat": 35.932778,
+    "lng": -85.173889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003548"
+  },
+  "msha": [
+    {
+      "mine_id": "4003548",
+      "name": "Hall Quarry",
+      "operator": "York & Son's Quarries",
+      "status": "Active",
+      "status_since": "2021-03-31",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

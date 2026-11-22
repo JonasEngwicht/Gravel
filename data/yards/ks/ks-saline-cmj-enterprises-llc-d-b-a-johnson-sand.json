@@ -1,0 +1,41 @@
+{
+  "id": "ks-saline-cmj-enterprises-llc-d-b-a-johnson-sand",
+  "slug": "cmj-enterprises-llc-d-b-a-johnson-sand",
+  "name": "CMJ Enterprises LLC d/b/a Johnson Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Saline",
+    "state": "KS",
+    "zip": "67481"
+  },
+  "location": {
+    "lat": 39.011944,
+    "lng": -98.484167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401127"
+  },
+  "msha": [
+    {
+      "mine_id": "1401127",
+      "name": "Johnson Sand",
+      "operator": "CMJ Enterprises LLC d/b/a Johnson Sand",
+      "status": "Active",
+      "status_since": "2026-04-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "oh-cleves-watson-gravel-inc",
+  "slug": "watson-gravel-inc",
+  "name": "Watson Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4809 E Miami River Rd",
+    "city": "Cleves",
+    "state": "OH",
+    "zip": "45002"
+  },
+  "location": {
+    "lat": 39.197414,
+    "lng": -84.742912
+  },
+  "contact": {
+    "phone": "(513) 863-0070",
+    "website": "http://www.watsongravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1cffc59-5bdd-40d6-bf18-940422e2c7ac",
+    "confidence": 0.993,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304422",
+      "name": "Watson Gravel Inc (Dry Fork Plant)",
+      "operator": "Watson Gravel Inc",
+      "status": "Active",
+      "status_since": "2026-01-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    },
+    {
+      "mine_id": "3304543",
+      "name": "Watson Gravel Inc. (Edgewater Plant)",
+      "operator": "Watson Gravel Inc",
+      "status": "Active",
+      "status_since": "2005-04-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

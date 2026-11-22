@@ -1,0 +1,35 @@
+{
+  "id": "tx-athens-athens-landscape-supply",
+  "slug": "athens-landscape-supply",
+  "name": "Athens Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3623 TX-7 Loop",
+    "city": "Athens",
+    "state": "TX",
+    "zip": "75751"
+  },
+  "location": {
+    "lat": 32.17952,
+    "lng": -95.902443
+  },
+  "contact": {
+    "phone": "(903) 675-8499"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ba014bf-3a4d-4eac-8abd-104a10d10b52",
+    "confidence": 0.825,
+    "merged_records": 1
+  }
+}

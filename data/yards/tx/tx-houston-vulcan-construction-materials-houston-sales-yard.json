@@ -1,0 +1,41 @@
+{
+  "id": "tx-houston-vulcan-construction-materials-houston-sales-yard",
+  "slug": "vulcan-construction-materials-houston-sales-yard",
+  "name": "Vulcan Construction Materials – Houston Sales Yard",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77015"
+  },
+  "location": {
+    "lat": 29.752778,
+    "lng": -95.185
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103646"
+  },
+  "msha": [
+    {
+      "mine_id": "4103646",
+      "name": "Houston Sales Yard",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2025-04-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

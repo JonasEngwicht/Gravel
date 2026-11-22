@@ -1,0 +1,41 @@
+{
+  "id": "ca-clearlake-clearlake-lava",
+  "slug": "clearlake-lava",
+  "name": "Clearlake Lava",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Clearlake",
+    "state": "CA",
+    "zip": "95457"
+  },
+  "location": {
+    "lat": 38.984444,
+    "lng": -122.546944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401036"
+  },
+  "msha": [
+    {
+      "mine_id": "0401036",
+      "name": "Clearlake Lava",
+      "operator": "Clearlake Lava Inc",
+      "status": "Active",
+      "status_since": "1990-09-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

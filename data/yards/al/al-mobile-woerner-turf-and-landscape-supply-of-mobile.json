@@ -1,0 +1,36 @@
+{
+  "id": "al-mobile-woerner-turf-and-landscape-supply-of-mobile",
+  "slug": "woerner-turf-and-landscape-supply-of-mobile",
+  "name": "Woerner Turf & Landscape Supply of Mobile",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8035 Cottage Hill Rd",
+    "city": "Mobile",
+    "state": "AL",
+    "zip": "36695"
+  },
+  "location": {
+    "lat": 30.639353,
+    "lng": -88.230713
+  },
+  "contact": {
+    "phone": "(251) 639-6857",
+    "website": "https://woernerturf.com/landscape-supply-mobile/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5be3c1b9-807c-46c4-919b-3890fd737559",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

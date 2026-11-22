@@ -1,0 +1,36 @@
+{
+  "id": "va-roanoke-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4927 Starkey Rd",
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24018"
+  },
+  "location": {
+    "lat": 37.218105,
+    "lng": -79.986519
+  },
+  "contact": {
+    "phone": "(540) 776-8718",
+    "website": "http://www.mulchnmore.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1549be14-9f4e-42c3-8e41-605bcfc46bed",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

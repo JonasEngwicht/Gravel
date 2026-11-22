@@ -1,0 +1,37 @@
+{
+  "id": "va-ashland-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "11102 Air Park Rd",
+    "city": "Ashland",
+    "state": "VA",
+    "zip": "23005"
+  },
+  "location": {
+    "lat": 37.704891,
+    "lng": -77.435806
+  },
+  "contact": {
+    "phone": "(804) 752-7017",
+    "website": "https://www.siteone.com/store/481"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d5d0d7c4-e594-4721-a34d-041f75821ecf",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

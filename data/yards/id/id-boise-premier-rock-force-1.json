@@ -1,0 +1,41 @@
+{
+  "id": "id-boise-premier-rock-force-1",
+  "slug": "premier-rock-force-1",
+  "name": "Premier – Rock Force 1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83705"
+  },
+  "location": {
+    "lat": 43.527778,
+    "lng": -116.228333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1001717"
+  },
+  "msha": [
+    {
+      "mine_id": "1001717",
+      "name": "Rock Force 1",
+      "operator": "Premier LLC",
+      "status": "Active",
+      "status_since": "2016-10-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

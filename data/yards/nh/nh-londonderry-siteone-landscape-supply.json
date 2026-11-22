@@ -1,0 +1,37 @@
+{
+  "id": "nh-londonderry-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3 Aviation Park Dr",
+    "city": "Londonderry",
+    "state": "NH",
+    "zip": "03053"
+  },
+  "location": {
+    "lat": 42.907719,
+    "lng": -71.418159
+  },
+  "contact": {
+    "phone": "(603) 425-2572",
+    "website": "https://www.siteone.com/store/587"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30297a3b-2a3a-442a-bef3-393fe0a0defd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

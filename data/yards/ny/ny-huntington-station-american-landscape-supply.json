@@ -1,0 +1,36 @@
+{
+  "id": "ny-huntington-station-american-landscape-supply",
+  "slug": "american-landscape-supply",
+  "name": "American Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "160 W 10th St",
+    "city": "Huntington Station",
+    "state": "NY",
+    "zip": "11746"
+  },
+  "location": {
+    "lat": 40.843472,
+    "lng": -73.423218
+  },
+  "contact": {
+    "phone": "(631) 547-0336",
+    "website": "https://www.americanlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "048d408a-f51a-42c1-aba9-8fc7e027a899",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

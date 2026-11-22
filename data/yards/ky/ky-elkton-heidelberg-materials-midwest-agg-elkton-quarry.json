@@ -1,0 +1,41 @@
+{
+  "id": "ky-elkton-heidelberg-materials-midwest-agg-elkton-quarry",
+  "slug": "heidelberg-materials-midwest-agg-elkton-quarry",
+  "name": "Heidelberg Materials Midwest Agg – Elkton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Elkton",
+    "state": "KY",
+    "zip": "42220"
+  },
+  "location": {
+    "lat": 36.83,
+    "lng": -87.230278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500054"
+  },
+  "msha": [
+    {
+      "mine_id": "1500054",
+      "name": "Elkton Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2023-05-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

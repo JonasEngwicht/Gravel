@@ -1,0 +1,36 @@
+{
+  "id": "az-phoenix-cemex-67th-ave-phoenix-aggregates-plant",
+  "slug": "cemex-67th-ave-phoenix-aggregates-plant",
+  "name": "Cemex 67th Ave Phoenix Aggregates Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "4815 S 67th Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85043"
+  },
+  "location": {
+    "lat": 33.436184,
+    "lng": -112.21949
+  },
+  "contact": {
+    "phone": "(800) 992-3639",
+    "website": "http://www.cemexusa.com/ProductsServices/Aggregates.aspx"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d49b04e5-118e-4c25-a554-95326eeee13f",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

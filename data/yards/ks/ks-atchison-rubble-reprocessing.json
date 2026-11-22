@@ -1,0 +1,41 @@
+{
+  "id": "ks-atchison-rubble-reprocessing",
+  "slug": "rubble-reprocessing",
+  "name": "Rubble Reprocessing",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Atchison",
+    "state": "KS",
+    "zip": "66002"
+  },
+  "location": {
+    "lat": 39.606944,
+    "lng": -95.110556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401786"
+  },
+  "msha": [
+    {
+      "mine_id": "1401786",
+      "name": "Rubble Reprocessing LLC",
+      "operator": "Rubble Reprocessing LLC",
+      "status": "Active",
+      "status_since": "2019-05-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

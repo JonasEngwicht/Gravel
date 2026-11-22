@@ -1,0 +1,36 @@
+{
+  "id": "co-englewood-direct-landscape-supply",
+  "slug": "direct-landscape-supply",
+  "name": "Direct Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2901 S Santa Fe Dr",
+    "city": "Englewood",
+    "state": "CO",
+    "zip": "80110"
+  },
+  "location": {
+    "lat": 39.663765,
+    "lng": -104.998329
+  },
+  "contact": {
+    "phone": "(303) 781-2270",
+    "website": "http://www.directlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7afe24e-91fa-45e3-b960-10748c9c2ac5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

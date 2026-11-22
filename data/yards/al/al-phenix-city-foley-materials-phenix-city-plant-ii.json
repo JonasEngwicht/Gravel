@@ -1,0 +1,41 @@
+{
+  "id": "al-phenix-city-foley-materials-phenix-city-plant-ii",
+  "slug": "foley-materials-phenix-city-plant-ii",
+  "name": "Foley Materials – Phenix City Plant II",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Phenix City",
+    "state": "AL",
+    "zip": "31901"
+  },
+  "location": {
+    "lat": 32.433889,
+    "lng": -84.992778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103357"
+  },
+  "msha": [
+    {
+      "mine_id": "0103357",
+      "name": "Phenix City Plant II",
+      "operator": "Foley Materials Company",
+      "status": "Active",
+      "status_since": "2019-03-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

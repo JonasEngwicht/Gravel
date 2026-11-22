@@ -1,0 +1,36 @@
+{
+  "id": "co-ignacio-crossfire-aggregate-services",
+  "slug": "crossfire-aggregate-services",
+  "name": "Crossfire Aggregate Services",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "223 Chicken Hawk Ln",
+    "city": "Ignacio",
+    "state": "CO",
+    "zip": "81137"
+  },
+  "location": {
+    "lat": 37.171566,
+    "lng": -107.711609
+  },
+  "contact": {
+    "phone": "(970) 442-6536",
+    "website": "http://crossfireaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa23af6c-616a-460b-91bf-dd463c878ce9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

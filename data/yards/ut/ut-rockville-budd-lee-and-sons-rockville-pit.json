@@ -1,0 +1,41 @@
+{
+  "id": "ut-rockville-budd-lee-and-sons-rockville-pit",
+  "slug": "budd-lee-and-sons-rockville-pit",
+  "name": "Budd Lee & Sons – Rockville Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Rockville",
+    "state": "UT",
+    "zip": "84737"
+  },
+  "location": {
+    "lat": 37.074167,
+    "lng": -113.170556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202303"
+  },
+  "msha": [
+    {
+      "mine_id": "4202303",
+      "name": "Rockville Pit",
+      "operator": "Budd Lee & Sons Inc",
+      "status": "Intermittent",
+      "status_since": "2000-10-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

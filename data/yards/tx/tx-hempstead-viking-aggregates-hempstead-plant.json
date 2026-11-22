@@ -1,0 +1,41 @@
+{
+  "id": "tx-hempstead-viking-aggregates-hempstead-plant",
+  "slug": "viking-aggregates-hempstead-plant",
+  "name": "Viking Aggregates – Hempstead Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hempstead",
+    "state": "TX",
+    "zip": "77445"
+  },
+  "location": {
+    "lat": 30.033889,
+    "lng": -96.122778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105593"
+  },
+  "msha": [
+    {
+      "mine_id": "4105593",
+      "name": "Hempstead Plant",
+      "operator": "Viking Aggregates",
+      "status": "Active",
+      "status_since": "2021-11-22",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

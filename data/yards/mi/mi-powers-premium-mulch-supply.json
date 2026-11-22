@@ -1,0 +1,35 @@
+{
+  "id": "mi-powers-premium-mulch-supply",
+  "slug": "premium-mulch-supply",
+  "name": "Premium Mulch Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "15385 US-41",
+    "city": "Powers",
+    "state": "MI",
+    "zip": "49874"
+  },
+  "location": {
+    "lat": 45.669163,
+    "lng": -87.526863
+  },
+  "contact": {
+    "phone": "(906) 497-5605"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b2113245-86e4-4e2d-878a-b9d520672640",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wi-holland-holland-landscape-supply-and-country-and-garden-store",
+  "slug": "holland-landscape-supply-and-country-and-garden-store",
+  "name": "Holland Landscape Supply and Country & Garden Store",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "W1901 Smies Rd",
+    "city": "Holland",
+    "state": "WI",
+    "zip": "53070"
+  },
+  "location": {
+    "lat": 43.585979,
+    "lng": -87.789513
+  },
+  "contact": {
+    "phone": "(920) 668-5106",
+    "website": "http://Hollandlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf6c046f-0ff8-4620-9bff-75233d73f959",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

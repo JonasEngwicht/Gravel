@@ -1,0 +1,36 @@
+{
+  "id": "ny-mineola-d-and-a-sand-and-gravel",
+  "slug": "d-and-a-sand-and-gravel",
+  "name": "D & A Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "335 Sagamore Ave Ste 1",
+    "city": "Mineola",
+    "state": "NY",
+    "zip": "11501"
+  },
+  "location": {
+    "lat": 40.752007,
+    "lng": -73.63829
+  },
+  "contact": {
+    "phone": "(516) 248-9444",
+    "website": "http://www.mix-with-us.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72b16a7a-6261-4545-8b95-a4c876f75827",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

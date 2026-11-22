@@ -1,0 +1,36 @@
+{
+  "id": "nc-charlotte-atlantic-landscape-supplies",
+  "slug": "atlantic-landscape-supplies",
+  "name": "Atlantic Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6145 Brookshire Blvd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28216"
+  },
+  "location": {
+    "lat": 35.285362,
+    "lng": -80.908043
+  },
+  "contact": {
+    "phone": "(704) 391-7645",
+    "website": "https://atlanticlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "705fdea6-119c-4e88-a322-7567938444f5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

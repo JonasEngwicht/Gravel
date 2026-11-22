@@ -1,0 +1,41 @@
+{
+  "id": "ca-king-city-wm-j-clark-trucking-service",
+  "slug": "wm-j-clark-trucking-service",
+  "name": "Wm J Clark Trucking Service",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "King City",
+    "state": "CA",
+    "zip": "93930"
+  },
+  "location": {
+    "lat": 36.278333,
+    "lng": -121.063611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404119"
+  },
+  "msha": [
+    {
+      "mine_id": "0404119",
+      "name": "Clark Pit",
+      "operator": "Wm J Clark Trucking Service Inc",
+      "status": "Active",
+      "status_since": "2023-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

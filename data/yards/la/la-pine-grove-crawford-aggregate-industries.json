@@ -1,0 +1,47 @@
+{
+  "id": "la-pine-grove-crawford-aggregate-industries",
+  "slug": "crawford-aggregate-industries",
+  "name": "Crawford Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "379 Powers Ln",
+    "city": "Pine Grove",
+    "state": "LA",
+    "zip": "70453"
+  },
+  "location": {
+    "lat": 30.735256,
+    "lng": -90.835083
+  },
+  "contact": {
+    "phone": "(225) 222-3016"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0f228822-f8ec-4e6c-a171-ac6094fac2b7",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1601493",
+      "name": "Powers Pit",
+      "operator": "Aggregate Industries",
+      "status": "Abandoned",
+      "status_since": "2012-08-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-abilene-renegade-rockworks-pinnacle-crushing-and-aggregate-llc",
+  "slug": "renegade-rockworks-pinnacle-crushing-and-aggregate-llc",
+  "name": "Renegade Rockworks – Pinnacle Crushing & Aggregate, LLC",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79606"
+  },
+  "location": {
+    "lat": 32.325556,
+    "lng": -99.861944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105550"
+  },
+  "msha": [
+    {
+      "mine_id": "4105550",
+      "name": "Pinnacle Crushing & Aggregate, LLC",
+      "operator": "Renegade Rockworks, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-08-10",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

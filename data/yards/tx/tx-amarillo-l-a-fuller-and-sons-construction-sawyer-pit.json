@@ -1,0 +1,41 @@
+{
+  "id": "tx-amarillo-l-a-fuller-and-sons-construction-sawyer-pit",
+  "slug": "l-a-fuller-and-sons-construction-sawyer-pit",
+  "name": "L.A. Fuller & Sons Construction – Sawyer Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "10010"
+  },
+  "location": {
+    "lat": 40.741667,
+    "lng": -73.989167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103181"
+  },
+  "msha": [
+    {
+      "mine_id": "4103181",
+      "name": "Sawyer Pit",
+      "operator": "L.A. Fuller & Sons Construction, Ltd.",
+      "status": "Active",
+      "status_since": "2026-02-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

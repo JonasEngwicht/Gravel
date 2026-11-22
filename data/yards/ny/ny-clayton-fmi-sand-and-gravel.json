@@ -1,0 +1,48 @@
+{
+  "id": "ny-clayton-fmi-sand-and-gravel",
+  "slug": "fmi-sand-and-gravel",
+  "name": "FMI Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "19000 County Rte 3",
+    "city": "Clayton",
+    "state": "NY",
+    "zip": "13624"
+  },
+  "location": {
+    "lat": 44.23909,
+    "lng": -75.992714
+  },
+  "contact": {
+    "phone": "(315) 771-1450",
+    "website": "http://www.fmisandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aaa71cba-8e29-4886-88a1-27d3681525e9",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3003542",
+      "name": "Flick Pit",
+      "operator": "Forger Marceau Industries INC",
+      "status": "Active",
+      "status_since": "2026-03-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

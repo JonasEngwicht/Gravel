@@ -1,0 +1,37 @@
+{
+  "id": "tn-knoxville-siteone-landscape-supply-2200-lovell-rd",
+  "slug": "siteone-landscape-supply-2200-lovell-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2200 Lovell Rd",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37932"
+  },
+  "location": {
+    "lat": 35.948128,
+    "lng": -84.126305
+  },
+  "contact": {
+    "phone": "(865) 693-3013",
+    "website": "https://www.siteone.com/store/196"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9af6c446-e507-4592-83a3-0df25dc96a05",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

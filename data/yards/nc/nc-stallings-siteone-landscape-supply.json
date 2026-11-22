@@ -1,0 +1,37 @@
+{
+  "id": "nc-stallings-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "140 Cupped Oak Dr Union West Business Park",
+    "city": "Stallings",
+    "state": "NC",
+    "zip": "28104"
+  },
+  "location": {
+    "lat": 35.096188,
+    "lng": -80.667236
+  },
+  "contact": {
+    "phone": "(704) 893-2102",
+    "website": "https://www.siteone.com/en/store/706"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea5022d4-eac5-4b30-b4fd-6c408643c6a3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

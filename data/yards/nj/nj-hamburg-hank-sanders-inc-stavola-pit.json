@@ -1,0 +1,41 @@
+{
+  "id": "nj-hamburg-hank-sanders-inc-stavola-pit",
+  "slug": "hank-sanders-inc-stavola-pit",
+  "name": "Hank Sanders Inc Stavola Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hamburg",
+    "state": "NJ",
+    "zip": "07419"
+  },
+  "location": {
+    "lat": 41.1575,
+    "lng": -74.606389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2801025"
+  },
+  "msha": [
+    {
+      "mine_id": "2801025",
+      "name": "Hank Sanders Inc Stavola Pit",
+      "operator": "Hank Sanders Inc",
+      "status": "Active",
+      "status_since": "2022-06-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

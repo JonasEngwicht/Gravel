@@ -1,0 +1,32 @@
+{
+  "id": "pa-wilkes-barre-cabinet-and-stone-depot-llc",
+  "slug": "cabinet-and-stone-depot-llc",
+  "name": "Cabinet & Stone Depot Llc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "213 Mundy St",
+    "city": "Wilkes Barre",
+    "state": "PA",
+    "zip": "18702"
+  },
+  "location": {
+    "lat": 41.242138,
+    "lng": -75.848045
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "696c2e97-44e2-4a81-8521-147c149a3e7a",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

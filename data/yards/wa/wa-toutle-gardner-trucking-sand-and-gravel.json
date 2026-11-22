@@ -1,0 +1,48 @@
+{
+  "id": "wa-toutle-gardner-trucking-sand-and-gravel",
+  "slug": "gardner-trucking-sand-and-gravel",
+  "name": "Gardner Trucking-Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1616 S Toutle Rd",
+    "city": "Toutle",
+    "state": "WA",
+    "zip": "98649"
+  },
+  "location": {
+    "lat": 46.330112,
+    "lng": -122.682022
+  },
+  "contact": {
+    "phone": "(360) 274-6720",
+    "website": "http://www.gardnertrucking.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12626c77-bb43-4517-8c34-aaa243a826b0",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503582",
+      "name": "Rock Quarry",
+      "operator": "Gardner Trucking",
+      "status": "Active",
+      "status_since": "2014-01-31",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

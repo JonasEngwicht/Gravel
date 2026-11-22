@@ -1,0 +1,37 @@
+{
+  "id": "mn-minneapolis-aggregate-industries-minneapolis",
+  "slug": "aggregate-industries-minneapolis",
+  "name": "Aggregate Industries Minneapolis",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "400 W 61st St",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55419"
+  },
+  "location": {
+    "lat": 44.893032,
+    "lng": -93.284752
+  },
+  "contact": {
+    "phone": "(651) 683-8150",
+    "website": "https://aggregatemn.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6356e46-3b3b-4a2f-9652-a38526929eca",
+    "confidence": 0.925,
+    "merged_records": 1
+  }
+}

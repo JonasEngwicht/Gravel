@@ -1,0 +1,48 @@
+{
+  "id": "mn-rosemount-dakota-aggregates",
+  "slug": "dakota-aggregates",
+  "name": "Dakota Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15900 Station Trl",
+    "city": "Rosemount",
+    "state": "MN",
+    "zip": "55068"
+  },
+  "location": {
+    "lat": 44.7215,
+    "lng": -93.100777
+  },
+  "contact": {
+    "phone": "(651) 423-1580",
+    "website": "https://dakota-aggregates.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30a82d6d-072b-45df-9765-b48fb4953d27",
+    "confidence": 0.631,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2103793",
+      "name": "UMore Park Mining Operation",
+      "operator": "Dakota Aggregates LLC",
+      "status": "Intermittent",
+      "status_since": "2013-04-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

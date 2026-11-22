@@ -1,0 +1,41 @@
+{
+  "id": "vt-brattleboro-zaluzny-excavating",
+  "slug": "zaluzny-excavating",
+  "name": "Zaluzny Excavating",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Brattleboro",
+    "state": "VT",
+    "zip": "03451"
+  },
+  "location": {
+    "lat": 42.831389,
+    "lng": -72.554167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300434"
+  },
+  "msha": [
+    {
+      "mine_id": "4300434",
+      "name": "Zaluzny Excavating Corp",
+      "operator": "Zaluzny Excavating Corporation",
+      "status": "Intermittent",
+      "status_since": "1989-07-17",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

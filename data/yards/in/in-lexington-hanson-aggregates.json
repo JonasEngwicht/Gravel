@@ -1,0 +1,49 @@
+{
+  "id": "in-lexington-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "313 S State Rd 203,Scott County Quarry",
+    "city": "Lexington",
+    "state": "IN",
+    "zip": "47138"
+  },
+  "location": {
+    "lat": 38.689049,
+    "lng": -85.657959
+  },
+  "contact": {
+    "phone": "(812) 889-2120",
+    "website": "https://www.lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e184962f-d322-4ddc-9476-cb04b25bfcaa",
+    "confidence": 0.77,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1200107",
+      "name": "Scott County Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2025-10-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

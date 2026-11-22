@@ -1,0 +1,36 @@
+{
+  "id": "ma-plymouth-ryco-landscape-supply",
+  "slug": "ryco-landscape-supply",
+  "name": "RYCO Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "38 Hedges Pond Rd",
+    "city": "Plymouth",
+    "state": "MA",
+    "zip": "02360"
+  },
+  "location": {
+    "lat": 41.822475,
+    "lng": -70.554871
+  },
+  "contact": {
+    "phone": "(508) 888-8828",
+    "website": "https://www.rycolandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9567e09-8369-4db3-a440-e50b433d1e09",
+    "confidence": 0.986,
+    "merged_records": 2
+  }
+}

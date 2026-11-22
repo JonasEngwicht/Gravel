@@ -1,0 +1,36 @@
+{
+  "id": "az-yuma-foothills-sand-and-gravel",
+  "slug": "foothills-sand-and-gravel",
+  "name": "Foothills Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14875 E 31st St",
+    "city": "Yuma",
+    "state": "AZ",
+    "zip": "85367"
+  },
+  "location": {
+    "lat": 32.671322,
+    "lng": -114.376068
+  },
+  "contact": {
+    "phone": "(928) 305-9934",
+    "website": "https://foothillssandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "188dfa50-d47b-4761-a6ee-e2a9e5e333a2",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

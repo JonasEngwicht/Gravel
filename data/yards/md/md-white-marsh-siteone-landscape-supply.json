@@ -1,0 +1,37 @@
+{
+  "id": "md-white-marsh-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5801 Stevens Rd",
+    "city": "White Marsh",
+    "state": "MD",
+    "zip": "21162"
+  },
+  "location": {
+    "lat": 39.389614,
+    "lng": -76.414055
+  },
+  "contact": {
+    "phone": "(410) 335-1990",
+    "website": "https://www.siteone.com/store/650"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3ee070ca-8b73-40fa-a6b6-6a5a6113e3b1",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

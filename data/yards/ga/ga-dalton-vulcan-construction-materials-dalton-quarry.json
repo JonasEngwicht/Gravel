@@ -1,0 +1,41 @@
+{
+  "id": "ga-dalton-vulcan-construction-materials-dalton-quarry",
+  "slug": "vulcan-construction-materials-dalton-quarry",
+  "name": "Vulcan Construction Materials – Dalton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dalton",
+    "state": "GA",
+    "zip": "30721"
+  },
+  "location": {
+    "lat": 34.835278,
+    "lng": -84.914167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900008"
+  },
+  "msha": [
+    {
+      "mine_id": "0900008",
+      "name": "Dalton Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2009-04-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 22
+    }
+  ]
+}

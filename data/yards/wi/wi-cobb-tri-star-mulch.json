@@ -1,0 +1,36 @@
+{
+  "id": "wi-cobb-tri-star-mulch",
+  "slug": "tri-star-mulch",
+  "name": "Tri star Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "403 Division Street",
+    "city": "Cobb",
+    "state": "WI",
+    "zip": "53526"
+  },
+  "location": {
+    "lat": 42.970234,
+    "lng": -90.331444
+  },
+  "contact": {
+    "phone": "(608) 623-2323",
+    "website": "https://www.tri-starmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "625b1591-f197-4b86-9c4e-2298235652e5",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

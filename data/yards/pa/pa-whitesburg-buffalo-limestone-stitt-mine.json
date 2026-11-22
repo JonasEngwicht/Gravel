@@ -1,0 +1,41 @@
+{
+  "id": "pa-whitesburg-buffalo-limestone-stitt-mine",
+  "slug": "buffalo-limestone-stitt-mine",
+  "name": "Buffalo Limestone – Stitt Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Whitesburg",
+    "state": "PA",
+    "zip": "16236"
+  },
+  "location": {
+    "lat": 40.763611,
+    "lng": -79.470833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608537"
+  },
+  "msha": [
+    {
+      "mine_id": "3608537",
+      "name": "Stitt Mine",
+      "operator": "Buffalo Limestone Inc",
+      "status": "Active",
+      "status_since": "2023-11-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

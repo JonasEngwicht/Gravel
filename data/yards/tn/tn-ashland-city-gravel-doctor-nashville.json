@@ -1,0 +1,36 @@
+{
+  "id": "tn-ashland-city-gravel-doctor-nashville",
+  "slug": "gravel-doctor-nashville",
+  "name": "Gravel Doctor Nashville",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3189 Bell St",
+    "city": "Ashland City",
+    "state": "TN",
+    "zip": "37015"
+  },
+  "location": {
+    "lat": 36.282295,
+    "lng": -87.04911
+  },
+  "contact": {
+    "phone": "(629) 321-8873",
+    "website": "http://graveldoctornashville.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ec51600-4c47-4553-8204-97bd79145254",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

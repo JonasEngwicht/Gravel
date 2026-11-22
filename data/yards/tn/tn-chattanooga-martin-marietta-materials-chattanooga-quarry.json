@@ -1,0 +1,41 @@
+{
+  "id": "tn-chattanooga-martin-marietta-materials-chattanooga-quarry",
+  "slug": "martin-marietta-materials-chattanooga-quarry",
+  "name": "Martin Marietta Materials – Chattanooga Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37416"
+  },
+  "location": {
+    "lat": 35.069167,
+    "lng": -85.189167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003159"
+  },
+  "msha": [
+    {
+      "mine_id": "4003159",
+      "name": "Chattanooga Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2008-08-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

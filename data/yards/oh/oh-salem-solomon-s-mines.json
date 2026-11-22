@@ -1,0 +1,41 @@
+{
+  "id": "oh-salem-solomon-s-mines",
+  "slug": "solomon-s-mines",
+  "name": "Solomon's Mines",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Salem",
+    "state": "OH",
+    "zip": "44490"
+  },
+  "location": {
+    "lat": 40.901944,
+    "lng": -80.789167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3303344"
+  },
+  "msha": [
+    {
+      "mine_id": "3303344",
+      "name": "Solomon's Mines Inc.",
+      "operator": "Solomon's Mines Inc.",
+      "status": "Active",
+      "status_since": "2026-02-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

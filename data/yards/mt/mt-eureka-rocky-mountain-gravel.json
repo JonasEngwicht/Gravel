@@ -1,0 +1,41 @@
+{
+  "id": "mt-eureka-rocky-mountain-gravel",
+  "slug": "rocky-mountain-gravel",
+  "name": "Rocky Mountain Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Eureka",
+    "state": "MT",
+    "zip": "59930"
+  },
+  "location": {
+    "lat": 48.88,
+    "lng": -115.053611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402709"
+  },
+  "msha": [
+    {
+      "mine_id": "2402709",
+      "name": "Rocky Mountain Gravel",
+      "operator": "Rocky Mountain Gravel, Inc.",
+      "status": "Intermittent",
+      "status_since": "2019-10-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

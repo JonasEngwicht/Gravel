@@ -1,0 +1,36 @@
+{
+  "id": "ct-enfield-connecticut-mulch-distributors",
+  "slug": "connecticut-mulch-distributors",
+  "name": "Connecticut Mulch Distributors",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "70 Mullen Rd",
+    "city": "Enfield",
+    "state": "CT",
+    "zip": "06082"
+  },
+  "location": {
+    "lat": 41.94191,
+    "lng": -72.585648
+  },
+  "contact": {
+    "phone": "(860) 698-9579",
+    "website": "http://connecticutmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8a2f676-44fe-4612-917f-cc0e66abad64",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

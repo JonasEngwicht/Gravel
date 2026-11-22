@@ -1,0 +1,36 @@
+{
+  "id": "nc-bailey-langley-garland-sand-and-gravel-co",
+  "slug": "langley-garland-sand-and-gravel-co",
+  "name": "Langley Garland Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5312 Roseheath Rd",
+    "city": "Bailey",
+    "state": "NC",
+    "zip": "27807"
+  },
+  "location": {
+    "lat": 35.857029,
+    "lng": -78.103172
+  },
+  "contact": {
+    "phone": "(252) 450-9022",
+    "website": "http://garlandlangleysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d995d30-d30b-404d-a545-33871b0a5c92",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

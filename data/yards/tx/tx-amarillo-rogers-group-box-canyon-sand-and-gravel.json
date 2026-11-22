@@ -1,0 +1,41 @@
+{
+  "id": "tx-amarillo-rogers-group-box-canyon-sand-and-gravel",
+  "slug": "rogers-group-box-canyon-sand-and-gravel",
+  "name": "Rogers Group – Box Canyon Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79101"
+  },
+  "location": {
+    "lat": 35.221944,
+    "lng": -101.831389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104465"
+  },
+  "msha": [
+    {
+      "mine_id": "4104465",
+      "name": "Box Canyon Sand & Gravel",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "2023-10-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

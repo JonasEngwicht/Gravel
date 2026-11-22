@@ -1,0 +1,37 @@
+{
+  "id": "wi-eau-claire-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2840 Melby St",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54703"
+  },
+  "location": {
+    "lat": 44.865074,
+    "lng": -91.4701
+  },
+  "contact": {
+    "phone": "(715) 834-2124",
+    "website": "https://www.siteone.com/store/265"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3ae81b02-daca-4ab9-9d85-19a14d0491e7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

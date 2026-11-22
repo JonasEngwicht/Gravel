@@ -1,0 +1,35 @@
+{
+  "id": "tx-dallas-rock-n-roll-stone-supply",
+  "slug": "rock-n-roll-stone-supply",
+  "name": "Rock N Roll Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2530 Merrell Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75229"
+  },
+  "location": {
+    "lat": 32.887577,
+    "lng": -96.892754
+  },
+  "contact": {
+    "phone": "(972) 697-5133"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dff0d98a-3659-4a24-8cae-abee21f24b70",
+    "confidence": 0.895,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nj-williamstown-sahara-sand-of-franklin",
+  "slug": "sahara-sand-of-franklin",
+  "name": "Sahara Sand of Franklin",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Williamstown",
+    "state": "NJ",
+    "zip": "08094"
+  },
+  "location": {
+    "lat": 39.686111,
+    "lng": -74.995278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2801012"
+  },
+  "msha": [
+    {
+      "mine_id": "2801012",
+      "name": "Sahara Sand of Franklin",
+      "operator": "Sahara Sand Inc.",
+      "status": "Active",
+      "status_since": "2023-04-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

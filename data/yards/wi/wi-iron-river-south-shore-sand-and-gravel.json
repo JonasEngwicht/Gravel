@@ -1,0 +1,36 @@
+{
+  "id": "wi-iron-river-south-shore-sand-and-gravel",
+  "slug": "south-shore-sand-and-gravel",
+  "name": "South Shore Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "68280 Primrose Ln",
+    "city": "Iron River",
+    "state": "WI",
+    "zip": "54847"
+  },
+  "location": {
+    "lat": 46.564274,
+    "lng": -91.352928
+  },
+  "contact": {
+    "phone": "(715) 372-4522",
+    "website": "http://www.southshoresandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d4993fca-43a5-4bbc-aa59-b9d37d669bc3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-sierra-blanca-desert-rock-sierra-red-quarry",
+  "slug": "desert-rock-sierra-red-quarry",
+  "name": "Desert Rock – Sierra Red Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sierra Blanca",
+    "state": "TX",
+    "zip": "79851"
+  },
+  "location": {
+    "lat": 31.125,
+    "lng": -105.357778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105318"
+  },
+  "msha": [
+    {
+      "mine_id": "4105318",
+      "name": "Sierra Red Quarry",
+      "operator": "Desert Rock Co.",
+      "status": "Intermittent",
+      "status_since": "2025-04-10",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

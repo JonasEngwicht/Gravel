@@ -1,0 +1,48 @@
+{
+  "id": "al-winfield-all-star-sand-and-gravel",
+  "slug": "all-star-sand-and-gravel",
+  "name": "All Star Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "700 Blue Ridge Rd",
+    "city": "Winfield",
+    "state": "AL",
+    "zip": "35594"
+  },
+  "location": {
+    "lat": 33.948681,
+    "lng": -87.781372
+  },
+  "contact": {
+    "phone": "(205) 494-7904",
+    "website": "http://www.allstarsandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd1b7ee3-2b84-42b6-af01-1049bb34635f",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0103571",
+      "name": "All Star Sand & Gravel, Inc.",
+      "operator": "All Star Sand & Gravel, Inc.",
+      "status": "Active",
+      "status_since": "2024-02-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

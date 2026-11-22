@@ -1,0 +1,41 @@
+{
+  "id": "ma-westhampton-marion-excavating-co",
+  "slug": "marion-excavating-co",
+  "name": "Marion Excavating Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Westhampton",
+    "state": "MA",
+    "zip": "01027"
+  },
+  "location": {
+    "lat": 42.315,
+    "lng": -72.768611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900569"
+  },
+  "msha": [
+    {
+      "mine_id": "1900569",
+      "name": "Marion Excavating Co., Inc.",
+      "operator": "Marion Excavating Co., Inc.",
+      "status": "Active",
+      "status_since": "2025-05-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

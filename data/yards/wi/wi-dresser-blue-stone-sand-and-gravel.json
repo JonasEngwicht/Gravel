@@ -1,0 +1,41 @@
+{
+  "id": "wi-dresser-blue-stone-sand-and-gravel",
+  "slug": "blue-stone-sand-and-gravel",
+  "name": "Blue Stone Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Dresser",
+    "state": "WI",
+    "zip": "54009"
+  },
+  "location": {
+    "lat": 45.352778,
+    "lng": -92.615556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703303"
+  },
+  "msha": [
+    {
+      "mine_id": "4703303",
+      "name": "Blue Stone Sand and Gravel LLC",
+      "operator": "Blue Stone Sand and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2009-07-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

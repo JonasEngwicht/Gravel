@@ -1,0 +1,36 @@
+{
+  "id": "me-acton-acton-gravel-pit-seth-mccoy-s-trucking-and-excavating-llc",
+  "slug": "acton-gravel-pit-seth-mccoy-s-trucking-and-excavating-llc",
+  "name": "Acton Gravel Pit - Seth McCoy's Trucking & Excavating, LLC",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "2491 H Rd",
+    "city": "Acton",
+    "state": "ME",
+    "zip": "04001"
+  },
+  "location": {
+    "lat": 43.590755,
+    "lng": -70.931068
+  },
+  "contact": {
+    "phone": "(207) 289-0497",
+    "website": "http://www.smtemaine.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89c7638d-630d-41ee-8f45-f658dde2d546",
+    "confidence": 0.553,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "in-north-salem-mule-barn-farm-mulch",
+  "slug": "mule-barn-farm-mulch",
+  "name": "Mule Barn Farm Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8614 W 100 N",
+    "city": "North Salem",
+    "state": "IN",
+    "zip": "46122"
+  },
+  "location": {
+    "lat": 39.858849,
+    "lng": -86.649681
+  },
+  "contact": {
+    "phone": "(317) 440-0525"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14c3c337-a7b0-434b-917a-c73e3f7ef616",
+    "confidence": 0.873,
+    "merged_records": 1
+  }
+}

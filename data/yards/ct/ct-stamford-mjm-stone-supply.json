@@ -1,0 +1,32 @@
+{
+  "id": "ct-stamford-mjm-stone-supply",
+  "slug": "mjm-stone-supply",
+  "name": "Mjm Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "39 Larkin St",
+    "city": "Stamford",
+    "state": "CT",
+    "zip": "06907"
+  },
+  "location": {
+    "lat": 41.077641,
+    "lng": -73.518845
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b04d0e35-0d95-4a13-a7d1-8fd35924312d",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

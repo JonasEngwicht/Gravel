@@ -1,0 +1,37 @@
+{
+  "id": "tx-bryan-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10253 State Highway 30",
+    "city": "Bryan",
+    "state": "TX",
+    "zip": "77845"
+  },
+  "location": {
+    "lat": 30.652906,
+    "lng": -96.269775
+  },
+  "contact": {
+    "phone": "(979) 776-8000",
+    "website": "https://www.siteone.com/store/269"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0776985-5ca5-464c-a856-695bddffbf20",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

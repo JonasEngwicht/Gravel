@@ -1,0 +1,41 @@
+{
+  "id": "wa-port-orchard-miles-sand-and-gravel-high-ridge",
+  "slug": "miles-sand-and-gravel-high-ridge",
+  "name": "Miles Sand & Gravel – High Ridge",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Port Orchard",
+    "state": "WA",
+    "zip": "98367"
+  },
+  "location": {
+    "lat": 47.458056,
+    "lng": -122.635278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503746"
+  },
+  "msha": [
+    {
+      "mine_id": "4503746",
+      "name": "High Ridge",
+      "operator": "Miles Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2019-01-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

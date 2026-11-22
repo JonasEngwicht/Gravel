@@ -1,0 +1,41 @@
+{
+  "id": "nm-artesia-n-m-ramirez-and-sons-rsi-2",
+  "slug": "ramirez-and-sons-rsi-2",
+  "name": "Ramirez and Sons RSI-2",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Artesia N.M.",
+    "state": "NM",
+    "zip": "88254"
+  },
+  "location": {
+    "lat": 32.749444,
+    "lng": -104.476667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902436"
+  },
+  "msha": [
+    {
+      "mine_id": "2902436",
+      "name": "Ramirez and Sons RSI-2",
+      "operator": "Ramirez and Sons Inc.",
+      "status": "Active",
+      "status_since": "2013-05-15",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

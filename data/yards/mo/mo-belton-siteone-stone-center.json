@@ -1,0 +1,37 @@
+{
+  "id": "mo-belton-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "2515 Semco Dr",
+    "city": "Belton",
+    "state": "MO",
+    "zip": "64012"
+  },
+  "location": {
+    "lat": 38.815208,
+    "lng": -94.568413
+  },
+  "contact": {
+    "phone": "(816) 318-1203",
+    "website": "https://www.semcooutdoor.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1d6f01f0-8545-4f99-9331-8e96c812ff17",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

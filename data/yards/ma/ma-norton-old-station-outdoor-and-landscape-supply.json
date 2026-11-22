@@ -1,0 +1,36 @@
+{
+  "id": "ma-norton-old-station-outdoor-and-landscape-supply",
+  "slug": "old-station-outdoor-and-landscape-supply",
+  "name": "Old Station Outdoor & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "142 E Main St",
+    "city": "Norton",
+    "state": "MA",
+    "zip": "02766"
+  },
+  "location": {
+    "lat": 41.975811,
+    "lng": -71.168991
+  },
+  "contact": {
+    "phone": "(508) 622-1698",
+    "website": "https://oldstationlandscapesupply.com/?utm_source=meta&utm_medium=paid_social&utm_campaign=default"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "493ce3f0-13e9-4241-87d5-0a4f6a1632ef",
+    "confidence": 0.999,
+    "merged_records": 2
+  }
+}

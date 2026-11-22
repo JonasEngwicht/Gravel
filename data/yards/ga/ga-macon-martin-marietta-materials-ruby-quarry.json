@@ -1,0 +1,41 @@
+{
+  "id": "ga-macon-martin-marietta-materials-ruby-quarry",
+  "slug": "martin-marietta-materials-ruby-quarry",
+  "name": "Martin Marietta Materials – Ruby Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31217"
+  },
+  "location": {
+    "lat": 32.928611,
+    "lng": -83.499722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900074"
+  },
+  "msha": [
+    {
+      "mine_id": "0900074",
+      "name": "Ruby Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 42
+    }
+  ]
+}

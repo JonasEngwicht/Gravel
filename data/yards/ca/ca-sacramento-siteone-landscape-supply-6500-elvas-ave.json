@@ -1,0 +1,37 @@
+{
+  "id": "ca-sacramento-siteone-landscape-supply-6500-elvas-ave",
+  "slug": "siteone-landscape-supply-6500-elvas-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6500 Elvas Ave",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95819"
+  },
+  "location": {
+    "lat": 38.555775,
+    "lng": -121.426849
+  },
+  "contact": {
+    "phone": "(916) 452-8041",
+    "website": "https://www.siteone.com/store/306"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "32e37ea2-550c-4d3e-b604-d9161f350399",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

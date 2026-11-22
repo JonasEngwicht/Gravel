@@ -1,0 +1,41 @@
+{
+  "id": "mo-franklin-riverstone-quarry",
+  "slug": "riverstone-quarry",
+  "name": "Riverstone Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Franklin",
+    "state": "MO",
+    "zip": "65409"
+  },
+  "location": {
+    "lat": 37.964166,
+    "lng": -91.831944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300203"
+  },
+  "msha": [
+    {
+      "mine_id": "2300203",
+      "name": "Riverstone Quarry Inc",
+      "operator": "Riverstone Quarry Inc",
+      "status": "Active",
+      "status_since": "1974-10-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-mckinney-sod-and-stone-supply",
+  "slug": "sod-and-stone-supply",
+  "name": "Sod and Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3404 E University Dr",
+    "city": "McKinney",
+    "state": "TX",
+    "zip": "75069"
+  },
+  "location": {
+    "lat": 33.193073,
+    "lng": -96.559769
+  },
+  "contact": {
+    "phone": "(945) 244-1341"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd9a08e8-f95c-4942-ba92-378fc1a096ad",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

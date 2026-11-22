@@ -1,0 +1,36 @@
+{
+  "id": "oh-portage-d-and-d-landscaping-supply",
+  "slug": "d-and-d-landscaping-supply",
+  "name": "D & D Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12540 S Dixie Hwy",
+    "city": "Portage",
+    "state": "OH",
+    "zip": "43451"
+  },
+  "location": {
+    "lat": 41.333576,
+    "lng": -83.647995
+  },
+  "contact": {
+    "phone": "(419) 354-6007",
+    "website": "https://www.danddlandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "310d7575-40ff-4cdd-a1c8-d7bd463b5d99",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

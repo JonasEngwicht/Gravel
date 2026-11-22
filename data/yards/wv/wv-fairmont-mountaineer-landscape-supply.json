@@ -1,0 +1,35 @@
+{
+  "id": "wv-fairmont-mountaineer-landscape-supply",
+  "slug": "mountaineer-landscape-supply",
+  "name": "Mountaineer Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "714 Merchant St",
+    "city": "Fairmont",
+    "state": "WV",
+    "zip": "26554"
+  },
+  "location": {
+    "lat": 39.479134,
+    "lng": -80.14267
+  },
+  "contact": {
+    "phone": "(304) 844-6696"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c399d69-49ce-4cf6-9e41-721bbb7f38fb",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

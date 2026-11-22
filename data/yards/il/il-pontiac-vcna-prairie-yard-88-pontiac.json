@@ -1,0 +1,41 @@
+{
+  "id": "il-pontiac-vcna-prairie-yard-88-pontiac",
+  "slug": "vcna-prairie-yard-88-pontiac",
+  "name": "VCNA Prairie – Yard 88 - Pontiac",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pontiac",
+    "state": "IL",
+    "zip": "61764"
+  },
+  "location": {
+    "lat": 40.800556,
+    "lng": -88.633056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103029"
+  },
+  "msha": [
+    {
+      "mine_id": "1103029",
+      "name": "Yard 88 - Pontiac",
+      "operator": "VCNA Prairie LLC",
+      "status": "Active",
+      "status_since": "2011-11-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

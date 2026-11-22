@@ -1,0 +1,41 @@
+{
+  "id": "va-manassas-vulcan-construction-materials-manassas",
+  "slug": "vulcan-construction-materials-manassas",
+  "name": "Vulcan Construction Materials – Manassas",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Manassas",
+    "state": "VA",
+    "zip": "20109"
+  },
+  "location": {
+    "lat": 38.775278,
+    "lng": -77.519722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400159"
+  },
+  "msha": [
+    {
+      "mine_id": "4400159",
+      "name": "Manassas",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1983-03-17",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 38
+    }
+  ]
+}

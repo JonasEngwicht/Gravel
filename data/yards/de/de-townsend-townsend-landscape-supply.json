@@ -1,0 +1,36 @@
+{
+  "id": "de-townsend-townsend-landscape-supply",
+  "slug": "townsend-landscape-supply",
+  "name": "Townsend Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4351 Dupont Pkwy",
+    "city": "Townsend",
+    "state": "DE",
+    "zip": "19734"
+  },
+  "location": {
+    "lat": 39.374699,
+    "lng": -75.665451
+  },
+  "contact": {
+    "phone": "(302) 464-1093",
+    "website": "http://www.townsendls.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d496c473-855f-472b-9165-52d79e5b631c",
+    "confidence": 0.982,
+    "merged_records": 1
+  }
+}

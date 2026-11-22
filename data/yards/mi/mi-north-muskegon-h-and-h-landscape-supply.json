@@ -1,0 +1,36 @@
+{
+  "id": "mi-north-muskegon-h-and-h-landscape-supply",
+  "slug": "h-and-h-landscape-supply",
+  "name": "H & H Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "925 Witham Dr",
+    "city": "North Muskegon",
+    "state": "MI",
+    "zip": "49445"
+  },
+  "location": {
+    "lat": 43.269112,
+    "lng": -86.262848
+  },
+  "contact": {
+    "phone": "(231) 759-8807",
+    "website": "http://www.hhlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da4698d4-5cc5-4079-96d0-578a1f459dfd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pa-hazleton-delta-sand-and-gravel-co",
+  "slug": "delta-sand-and-gravel-co",
+  "name": "Delta Sand And Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "225 E Broad St",
+    "city": "Hazleton",
+    "state": "PA",
+    "zip": "18201"
+  },
+  "location": {
+    "lat": 40.953228,
+    "lng": -75.970062
+  },
+  "contact": {
+    "website": "https://www.hazletonsartleague.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cecf47c4-5c41-4d54-b483-1bc5037fa359",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

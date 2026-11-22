@@ -1,0 +1,37 @@
+{
+  "id": "tn-knoxville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1337 E Weisgarber Rd",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37909"
+  },
+  "location": {
+    "lat": 35.952965,
+    "lng": -84.017769
+  },
+  "contact": {
+    "phone": "(865) 584-3566",
+    "website": "https://www.siteone.com/en/store/473"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b495525-b562-481a-baef-39e69d1f5720",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

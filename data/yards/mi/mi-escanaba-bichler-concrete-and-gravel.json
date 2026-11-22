@@ -1,0 +1,48 @@
+{
+  "id": "mi-escanaba-bichler-concrete-and-gravel",
+  "slug": "bichler-concrete-and-gravel",
+  "name": "Bichler Concrete & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6851 M5 Rd",
+    "city": "Escanaba",
+    "state": "MI",
+    "zip": "49829"
+  },
+  "location": {
+    "lat": 45.793064,
+    "lng": -87.08477
+  },
+  "contact": {
+    "phone": "(906) 786-0343",
+    "website": "https://www.bichlerconcrete.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a8455c9-f390-4a53-9119-9620ab365afd",
+    "confidence": 0.876,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2000676",
+      "name": "Bichler Pit",
+      "operator": "Bichler Concrete & Gravel",
+      "status": "Intermittent",
+      "status_since": "2024-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

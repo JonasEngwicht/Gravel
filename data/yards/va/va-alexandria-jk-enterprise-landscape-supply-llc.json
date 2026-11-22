@@ -1,0 +1,35 @@
+{
+  "id": "va-alexandria-jk-enterprise-landscape-supply-llc",
+  "slug": "jk-enterprise-landscape-supply-llc",
+  "name": "JK Enterprise Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6200 Farrington Ave",
+    "city": "Alexandria",
+    "state": "VA",
+    "zip": "22304"
+  },
+  "location": {
+    "lat": 38.797737,
+    "lng": -77.14537
+  },
+  "contact": {
+    "phone": "(703) 212-8088"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "88f4f284-a705-494f-bdea-6b2179aefb7c",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

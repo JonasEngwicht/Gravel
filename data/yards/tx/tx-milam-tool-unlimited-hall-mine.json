@@ -1,0 +1,41 @@
+{
+  "id": "tx-milam-tool-unlimited-hall-mine",
+  "slug": "tool-unlimited-hall-mine",
+  "name": "Tool Unlimited – Hall Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Milam",
+    "state": "TX",
+    "zip": "75930"
+  },
+  "location": {
+    "lat": 31.428611,
+    "lng": -93.956111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103712"
+  },
+  "msha": [
+    {
+      "mine_id": "4103712",
+      "name": "Hall Mine",
+      "operator": "Tool Unlimited",
+      "status": "Intermittent",
+      "status_since": "2022-05-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

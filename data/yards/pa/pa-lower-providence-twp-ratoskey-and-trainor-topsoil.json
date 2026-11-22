@@ -1,0 +1,36 @@
+{
+  "id": "pa-lower-providence-twp-ratoskey-and-trainor-topsoil",
+  "slug": "ratoskey-and-trainor-topsoil",
+  "name": "Ratoskey & Trainor Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "501 N Trooper Rd",
+    "city": "Lower Providence Twp",
+    "state": "PA",
+    "zip": "19403"
+  },
+  "location": {
+    "lat": 40.151306,
+    "lng": -75.382118
+  },
+  "contact": {
+    "phone": "(610) 539-8988",
+    "website": "http://RatoskeyTrainor.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "57fd9005-d130-470f-bcfe-215139b53bfc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

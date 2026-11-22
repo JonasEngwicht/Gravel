@@ -1,0 +1,36 @@
+{
+  "id": "wa-yakima-soracco-landscaping-materials",
+  "slug": "soracco-landscaping-materials",
+  "name": "Soracco Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "31 W Washington Ave",
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98903"
+  },
+  "location": {
+    "lat": 46.571098,
+    "lng": -120.501595
+  },
+  "contact": {
+    "phone": "(509) 469-3836",
+    "website": "http://www.soraccorocks.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc66a67e-77ce-4890-9c3b-33a43ca17fc2",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

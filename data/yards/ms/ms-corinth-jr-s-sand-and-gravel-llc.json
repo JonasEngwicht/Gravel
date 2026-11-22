@@ -1,0 +1,36 @@
+{
+  "id": "ms-corinth-jr-s-sand-and-gravel-llc",
+  "slug": "jr-s-sand-and-gravel-llc",
+  "name": "Jr's Sand & Gravel, LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "563 County Rd 512",
+    "city": "Corinth",
+    "state": "MS",
+    "zip": "38834"
+  },
+  "location": {
+    "lat": 34.858303,
+    "lng": -88.567924
+  },
+  "contact": {
+    "phone": "(662) 664-3722",
+    "website": "https://www.jrssandandgravelms.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6de1aa36-ef81-477f-95a0-2636b55167e4",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

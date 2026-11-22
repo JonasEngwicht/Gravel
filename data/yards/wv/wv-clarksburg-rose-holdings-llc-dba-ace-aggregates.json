@@ -1,0 +1,35 @@
+{
+  "id": "wv-clarksburg-rose-holdings-llc-dba-ace-aggregates",
+  "slug": "rose-holdings-llc-dba-ace-aggregates",
+  "name": "Rose Holdings, Llc.dba Ace Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "70 Columbia Blvd",
+    "city": "Clarksburg",
+    "state": "WV",
+    "zip": "26301"
+  },
+  "location": {
+    "lat": 39.286293,
+    "lng": -80.301086
+  },
+  "contact": {
+    "phone": "(304) 842-9050"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "491e4d62-9b2f-4354-bbf0-c41ff498b770",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

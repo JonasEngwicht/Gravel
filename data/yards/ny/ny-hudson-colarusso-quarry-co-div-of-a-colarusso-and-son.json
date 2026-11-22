@@ -1,0 +1,41 @@
+{
+  "id": "ny-hudson-colarusso-quarry-co-div-of-a-colarusso-and-son",
+  "slug": "colarusso-quarry-co-div-of-a-colarusso-and-son",
+  "name": "Colarusso Quarry Co/Div Of A Colarusso & Son",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hudson",
+    "state": "NY",
+    "zip": "12534"
+  },
+  "location": {
+    "lat": 42.236944,
+    "lng": -73.769722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000215"
+  },
+  "msha": [
+    {
+      "mine_id": "3000215",
+      "name": "Colarusso Quarry Company",
+      "operator": "Colarusso Quarry Co/Div Of A Colarusso & Son Inc",
+      "status": "Active",
+      "status_since": "1996-03-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

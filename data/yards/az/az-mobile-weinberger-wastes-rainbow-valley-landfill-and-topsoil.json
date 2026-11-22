@@ -1,0 +1,36 @@
+{
+  "id": "az-mobile-weinberger-wastes-rainbow-valley-landfill-and-topsoil",
+  "slug": "weinberger-wastes-rainbow-valley-landfill-and-topsoil",
+  "name": "Weinberger Waste’s Rainbow Valley Landfill and Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "39500 S 99th Ave",
+    "city": "Mobile",
+    "state": "AZ",
+    "zip": "85139"
+  },
+  "location": {
+    "lat": 33.088436,
+    "lng": -112.273018
+  },
+  "contact": {
+    "phone": "(602) 278-9155",
+    "website": "http://www.gwwd.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30b32e01-0881-4895-9240-d4ed030abcea",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

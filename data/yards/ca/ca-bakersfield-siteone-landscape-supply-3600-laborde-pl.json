@@ -1,0 +1,37 @@
+{
+  "id": "ca-bakersfield-siteone-landscape-supply-3600-laborde-pl",
+  "slug": "siteone-landscape-supply-3600-laborde-pl",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3600 Laborde Pl",
+    "city": "Bakersfield",
+    "state": "CA",
+    "zip": "93308"
+  },
+  "location": {
+    "lat": 35.39333,
+    "lng": -119.084694
+  },
+  "contact": {
+    "phone": "(661) 589-0027",
+    "website": "https://www.siteone.com/store/316"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b06cb0fb-395f-4cd2-95f6-ab3d73b16337",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

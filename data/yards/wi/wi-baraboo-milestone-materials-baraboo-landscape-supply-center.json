@@ -1,0 +1,36 @@
+{
+  "id": "wi-baraboo-milestone-materials-baraboo-landscape-supply-center",
+  "slug": "milestone-materials-baraboo-landscape-supply-center",
+  "name": "Milestone Materials Baraboo Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "S3782 Fox Hill Rd",
+    "city": "Baraboo",
+    "state": "WI",
+    "zip": "53913"
+  },
+  "location": {
+    "lat": 43.5084,
+    "lng": -89.761192
+  },
+  "contact": {
+    "phone": "(608) 356-8368",
+    "website": "http://www.milestonematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11b97f99-52e5-4cd9-a875-5d904c10a717",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

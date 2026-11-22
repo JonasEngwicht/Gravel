@@ -1,0 +1,48 @@
+{
+  "id": "ca-corona-foster-sand-and-gravel-co",
+  "slug": "foster-sand-and-gravel-co",
+  "name": "Foster Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "25050 Maitri Rd",
+    "city": "Corona",
+    "state": "CA",
+    "zip": "92883"
+  },
+  "location": {
+    "lat": 33.758644,
+    "lng": -117.481224
+  },
+  "contact": {
+    "phone": "(951) 277-4586",
+    "website": "https://www.wernercorp.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cce5e2d9-0e92-4bc4-82dd-cbced5cd2215",
+    "confidence": 0.972,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0403684",
+      "name": "Maitri Canyon Plant",
+      "operator": "Foster Sand & Gravel",
+      "status": "Active",
+      "status_since": "1974-09-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 19
+    }
+  ]
+}

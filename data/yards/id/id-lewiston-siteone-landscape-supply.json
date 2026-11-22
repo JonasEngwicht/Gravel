@@ -1,0 +1,37 @@
+{
+  "id": "id-lewiston-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "206 22nd St",
+    "city": "Lewiston",
+    "state": "ID",
+    "zip": "83501"
+  },
+  "location": {
+    "lat": 46.422901,
+    "lng": -117.001205
+  },
+  "contact": {
+    "phone": "(208) 798-3115",
+    "website": "https://www.siteone.com/en/store/361"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c05a63c-c231-422b-a375-9511b3c5605f",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

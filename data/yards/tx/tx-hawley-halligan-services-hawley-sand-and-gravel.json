@@ -1,0 +1,41 @@
+{
+  "id": "tx-hawley-halligan-services-hawley-sand-and-gravel",
+  "slug": "halligan-services-hawley-sand-and-gravel",
+  "name": "Halligan Services – Hawley Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hawley",
+    "state": "TX",
+    "zip": "79525"
+  },
+  "location": {
+    "lat": 32.633889,
+    "lng": -99.811389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105605"
+  },
+  "msha": [
+    {
+      "mine_id": "4105605",
+      "name": "Hawley Sand and Gravel",
+      "operator": "Halligan Services LLC",
+      "status": "Intermittent",
+      "status_since": "2022-03-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

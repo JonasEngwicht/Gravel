@@ -1,0 +1,41 @@
+{
+  "id": "ny-clayton-heidelberg-materials-northeast-clayton-sand-and-gravel",
+  "slug": "heidelberg-materials-northeast-clayton-sand-and-gravel",
+  "name": "Heidelberg Materials Northeast – Clayton Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Clayton",
+    "state": "NY",
+    "zip": "13624"
+  },
+  "location": {
+    "lat": 44.203056,
+    "lng": -76.161944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002504"
+  },
+  "msha": [
+    {
+      "mine_id": "3002504",
+      "name": "Clayton Sand & Gravel",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Intermittent",
+      "status_since": "1991-01-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

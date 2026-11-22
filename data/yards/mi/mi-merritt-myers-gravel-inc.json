@@ -1,0 +1,35 @@
+{
+  "id": "mi-merritt-myers-gravel-inc",
+  "slug": "myers-gravel-inc",
+  "name": "Myers Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3563 S 13 Mile Rd",
+    "city": "Merritt",
+    "state": "MI",
+    "zip": "49667"
+  },
+  "location": {
+    "lat": 44.284649,
+    "lng": -84.953194
+  },
+  "contact": {
+    "phone": "(231) 206-9274"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3254d07d-b3ca-4e97-850b-2ec29685596b",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

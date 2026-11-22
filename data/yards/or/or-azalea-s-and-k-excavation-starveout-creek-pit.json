@@ -1,0 +1,41 @@
+{
+  "id": "or-azalea-s-and-k-excavation-starveout-creek-pit",
+  "slug": "s-and-k-excavation-starveout-creek-pit",
+  "name": "S & K Excavation – Starveout Creek Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Azalea",
+    "state": "OR",
+    "zip": "97410"
+  },
+  "location": {
+    "lat": 42.761667,
+    "lng": -123.1975
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503572"
+  },
+  "msha": [
+    {
+      "mine_id": "3503572",
+      "name": "Starveout Creek Pit",
+      "operator": "S & K Excavation",
+      "status": "Intermittent",
+      "status_since": "2015-05-18",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

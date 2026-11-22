@@ -1,0 +1,37 @@
+{
+  "id": "ca-merced-martin-marietta-merced-aggregates",
+  "slug": "martin-marietta-merced-aggregates",
+  "name": "Martin Marietta - Merced Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "12523 N State Highway 59",
+    "city": "Merced",
+    "state": "CA",
+    "zip": "95348"
+  },
+  "location": {
+    "lat": 37.470169,
+    "lng": -120.505928
+  },
+  "contact": {
+    "phone": "(209) 563-6370",
+    "website": "https://www.martinmarietta.com/locations/west/california-aggregates-district/merced-aggregates"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "16830b43-b929-47fa-a65a-125967a719f6",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

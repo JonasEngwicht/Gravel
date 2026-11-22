@@ -1,0 +1,36 @@
+{
+  "id": "wv-morgantown-laurel-aggregates-inc",
+  "slug": "laurel-aggregates-inc",
+  "name": "Laurel Aggregates, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "300 Dents Run Rd",
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26501"
+  },
+  "location": {
+    "lat": 39.622677,
+    "lng": -79.989334
+  },
+  "contact": {
+    "phone": "(304) 296-7501",
+    "website": "http://www.laurelaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac7062f8-80de-4560-b60c-c01a2fdbbe38",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

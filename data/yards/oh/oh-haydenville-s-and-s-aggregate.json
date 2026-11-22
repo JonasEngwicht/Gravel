@@ -1,0 +1,41 @@
+{
+  "id": "oh-haydenville-s-and-s-aggregate",
+  "slug": "s-and-s-aggregate",
+  "name": "S & S Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Haydenville",
+    "state": "OH",
+    "zip": "43127"
+  },
+  "location": {
+    "lat": 39.476389,
+    "lng": -82.326111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3303635"
+  },
+  "msha": [
+    {
+      "mine_id": "3303635",
+      "name": "S & S AGGREGATE Plant # 3",
+      "operator": "S & S Aggregate",
+      "status": "Intermittent",
+      "status_since": "2026-04-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

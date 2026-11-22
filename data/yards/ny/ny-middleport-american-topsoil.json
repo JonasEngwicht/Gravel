@@ -1,0 +1,35 @@
+{
+  "id": "ny-middleport-american-topsoil",
+  "slug": "american-topsoil",
+  "name": "American Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4558 Freeman Rd",
+    "city": "Middleport",
+    "state": "NY",
+    "zip": "14105"
+  },
+  "location": {
+    "lat": 43.186184,
+    "lng": -78.477356
+  },
+  "contact": {
+    "phone": "(716) 439-8400"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9f50354-0219-4705-95cf-4f19bbc9c997",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

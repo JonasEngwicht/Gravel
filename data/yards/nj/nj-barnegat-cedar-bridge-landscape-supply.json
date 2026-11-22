@@ -1,0 +1,36 @@
+{
+  "id": "nj-barnegat-cedar-bridge-landscape-supply",
+  "slug": "cedar-bridge-landscape-supply",
+  "name": "Cedar Bridge Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "309 NJ-72",
+    "city": "Barnegat",
+    "state": "NJ",
+    "zip": "08005"
+  },
+  "location": {
+    "lat": 39.779922,
+    "lng": -74.33844
+  },
+  "contact": {
+    "phone": "(609) 982-3400",
+    "website": "https://www.cambridgepavers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7530a642-96d5-4c50-8a27-f2b81ba584d9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-anaheim-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1301 N Tustin Ave",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92807"
+  },
+  "location": {
+    "lat": 33.862827,
+    "lng": -117.84259
+  },
+  "contact": {
+    "phone": "(714) 996-9937",
+    "website": "https://www.siteone.com/store/318"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "595fd3f4-2380-4e89-818b-56eb76ee56e6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

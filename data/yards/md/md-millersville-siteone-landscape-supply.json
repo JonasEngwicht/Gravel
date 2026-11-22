@@ -1,0 +1,37 @@
+{
+  "id": "md-millersville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1512 Jabez Run",
+    "city": "Millersville",
+    "state": "MD",
+    "zip": "21108"
+  },
+  "location": {
+    "lat": 39.074955,
+    "lng": -76.631783
+  },
+  "contact": {
+    "phone": "(410) 923-1486",
+    "website": "https://www.siteone.com/store/710"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "104d6563-d07d-4a1a-92e8-20e9ec9078b8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

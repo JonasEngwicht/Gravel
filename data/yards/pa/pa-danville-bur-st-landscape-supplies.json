@@ -1,0 +1,35 @@
+{
+  "id": "pa-danville-bur-st-landscape-supplies",
+  "slug": "bur-st-landscape-supplies",
+  "name": "Bur-ST Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2370 Continental Blvd",
+    "city": "Danville",
+    "state": "PA",
+    "zip": "17821"
+  },
+  "location": {
+    "lat": 41.081905,
+    "lng": -76.694061
+  },
+  "contact": {
+    "phone": "(570) 437-2400"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59684f7e-f7cd-4fea-bf83-6c8f8b31a319",
+    "confidence": 0.919,
+    "merged_records": 1
+  }
+}

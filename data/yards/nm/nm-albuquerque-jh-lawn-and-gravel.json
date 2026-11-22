@@ -1,0 +1,36 @@
+{
+  "id": "nm-albuquerque-jh-lawn-and-gravel",
+  "slug": "jh-lawn-and-gravel",
+  "name": "JH Lawn and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1313 Parsifal St NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87112"
+  },
+  "location": {
+    "lat": 35.093796,
+    "lng": -106.537216
+  },
+  "contact": {
+    "phone": "(505) 362-7654",
+    "website": "http://www.lawnservicesalb.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a44617a9-527c-484a-a0eb-8e7ad0613d18",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

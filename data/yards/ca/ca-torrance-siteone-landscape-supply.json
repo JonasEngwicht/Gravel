@@ -1,0 +1,37 @@
+{
+  "id": "ca-torrance-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3017 Kashiwa St",
+    "city": "Torrance",
+    "state": "CA",
+    "zip": "90505"
+  },
+  "location": {
+    "lat": 33.8144,
+    "lng": -118.337662
+  },
+  "contact": {
+    "phone": "(310) 784-0316",
+    "website": "https://www.siteone.com/store/363"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ecb77b67-741b-466c-a91c-3c82d73e0991",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

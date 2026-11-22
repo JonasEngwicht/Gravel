@@ -1,0 +1,35 @@
+{
+  "id": "mn-inver-grove-heights-solberg-aggregate-inc",
+  "slug": "solberg-aggregate-inc",
+  "name": "Solberg Aggregate, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10620 Courthouse Blvd  Ste C",
+    "city": "Inver Grove Heights",
+    "state": "MN",
+    "zip": "55077"
+  },
+  "location": {
+    "lat": 44.795521,
+    "lng": -93.02935
+  },
+  "contact": {
+    "phone": "(651) 457-8700"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "94a065dc-ba14-45ab-8d19-94625302c916",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

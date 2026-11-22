@@ -1,0 +1,41 @@
+{
+  "id": "ia-ames-hallett-materials-ames-plant",
+  "slug": "hallett-materials-ames-plant",
+  "name": "Hallett Materials – Ames Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ames",
+    "state": "IA",
+    "zip": "50010"
+  },
+  "location": {
+    "lat": 42.0025,
+    "lng": -93.581111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1301019"
+  },
+  "msha": [
+    {
+      "mine_id": "1301019",
+      "name": "Ames Plant",
+      "operator": "Hallett Materials",
+      "status": "Active",
+      "status_since": "2023-04-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

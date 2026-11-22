@@ -1,0 +1,37 @@
+{
+  "id": "co-broomfield-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "11250 W Dillon Rd",
+    "city": "Broomfield",
+    "state": "CO",
+    "zip": "80020"
+  },
+  "location": {
+    "lat": 39.957851,
+    "lng": -105.088959
+  },
+  "contact": {
+    "phone": "(303) 465-4212",
+    "website": "http://www.pioneersand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea433de8-49e0-4044-ab4e-4bf4ac873c77",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

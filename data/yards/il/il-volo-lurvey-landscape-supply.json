@@ -1,0 +1,36 @@
+{
+  "id": "il-volo-lurvey-landscape-supply",
+  "slug": "lurvey-landscape-supply",
+  "name": "Lurvey Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "30560 N Russell Dr",
+    "city": "Volo",
+    "state": "IL",
+    "zip": "60073"
+  },
+  "location": {
+    "lat": 42.308098,
+    "lng": -88.16748
+  },
+  "contact": {
+    "phone": "(815) 363-4420",
+    "website": "http://www.lurveys.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1819a30a-625b-4063-a844-c4071dd94229",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

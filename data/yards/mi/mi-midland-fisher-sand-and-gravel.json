@@ -1,0 +1,36 @@
+{
+  "id": "mi-midland-fisher-sand-and-gravel",
+  "slug": "fisher-sand-and-gravel",
+  "name": "Fisher Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3403 Contractor Dr",
+    "city": "Midland",
+    "state": "MI",
+    "zip": "48642"
+  },
+  "location": {
+    "lat": 43.596416,
+    "lng": -84.185707
+  },
+  "contact": {
+    "phone": "(989) 835-7187",
+    "website": "http://fishersand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b19f8001-f189-41dc-a731-0cd2842acd94",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

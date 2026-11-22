@@ -1,0 +1,36 @@
+{
+  "id": "tx-porter-warren-s-rock-and-mulch",
+  "slug": "warren-s-rock-and-mulch",
+  "name": "Warren's Rock and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "23995 US-59 Access Rd",
+    "city": "Porter",
+    "state": "TX",
+    "zip": "77365"
+  },
+  "location": {
+    "lat": 30.100367,
+    "lng": -95.237022
+  },
+  "contact": {
+    "phone": "(281) 354-1950",
+    "website": "https://www.rocknmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c73e7eec-8dab-4a8c-9d45-12166391c2da",
+    "confidence": 0.973,
+    "merged_records": 1
+  }
+}

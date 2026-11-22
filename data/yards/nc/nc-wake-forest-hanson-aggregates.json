@@ -1,0 +1,37 @@
+{
+  "id": "nc-wake-forest-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "10501 Capital Blvd",
+    "city": "Wake Forest",
+    "state": "NC",
+    "zip": "27587"
+  },
+  "location": {
+    "lat": 35.931499,
+    "lng": -78.551704
+  },
+  "contact": {
+    "phone": "(919) 556-4011",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62850f47-a686-4a94-9b6f-31ca4d59ad1d",
+    "confidence": 0.708,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "va-hillsville-hillsville-building-and-landscape-supply",
+  "slug": "hillsville-building-and-landscape-supply",
+  "name": "Hillsville Building & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1294 E Stuart Dr",
+    "city": "Hillsville",
+    "state": "VA",
+    "zip": "24343"
+  },
+  "location": {
+    "lat": 36.759434,
+    "lng": -80.712547
+  },
+  "contact": {
+    "phone": "(276) 728-5064",
+    "website": "https://hblsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3029cb54-7e22-4905-90e2-d5d987ddc5b3",
+    "confidence": 0.967,
+    "merged_records": 1
+  }
+}

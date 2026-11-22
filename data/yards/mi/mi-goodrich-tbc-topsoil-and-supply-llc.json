@@ -1,0 +1,35 @@
+{
+  "id": "mi-goodrich-tbc-topsoil-and-supply-llc",
+  "slug": "tbc-topsoil-and-supply-llc",
+  "name": "TBC Topsoil and Supply LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7269 S State Rd",
+    "city": "Goodrich",
+    "state": "MI",
+    "zip": "48438"
+  },
+  "location": {
+    "lat": 42.926228,
+    "lng": -83.500237
+  },
+  "contact": {
+    "phone": "(810) 348-5185"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb0e9e90-373a-4398-b13e-c46ed5dc044e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

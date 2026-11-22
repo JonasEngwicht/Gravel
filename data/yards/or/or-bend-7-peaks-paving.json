@@ -1,0 +1,41 @@
+{
+  "id": "or-bend-7-peaks-paving",
+  "slug": "7-peaks-paving",
+  "name": "7 Peaks Paving",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bend",
+    "state": "OR",
+    "zip": "97702"
+  },
+  "location": {
+    "lat": 43.979167,
+    "lng": -121.360833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503566"
+  },
+  "msha": [
+    {
+      "mine_id": "3503566",
+      "name": "7 Peaks Paving",
+      "operator": "7 Peaks Paving LLC",
+      "status": "Intermittent",
+      "status_since": "2026-10-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ma-west-springfield-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1004 Memorial Ave",
+    "city": "West Springfield",
+    "state": "MA",
+    "zip": "01089"
+  },
+  "location": {
+    "lat": 42.094818,
+    "lng": -72.61441
+  },
+  "contact": {
+    "phone": "(413) 732-5335",
+    "website": "https://www.siteone.com/store/97"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "33e1819b-8842-4d3e-8ff8-bf969e157be3",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-austin-texas-materials-group-texas-materials-garfield-plant",
+  "slug": "texas-materials-group-texas-materials-garfield-plant",
+  "name": "Texas Materials Group – Texas Materials Garfield Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78617"
+  },
+  "location": {
+    "lat": 30.181111,
+    "lng": -97.537778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104963"
+  },
+  "msha": [
+    {
+      "mine_id": "4104963",
+      "name": "Texas Materials Garfield Plant",
+      "operator": "Texas Materials Group, Inc",
+      "status": "Active",
+      "status_since": "2012-10-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "in-swayzee-imi-aggregates-pipe-creek-jr",
+  "slug": "imi-aggregates-pipe-creek-jr",
+  "name": "imi Aggregates - Pipe Creek Jr.",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "6377 W 600 South",
+    "city": "Swayzee",
+    "state": "IN",
+    "zip": "46986"
+  },
+  "location": {
+    "lat": 40.464138,
+    "lng": -85.794083
+  },
+  "contact": {
+    "phone": "(765) 922-7991",
+    "website": "https://locations.irvmat.com/in/266?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "17e3b6b3-f73e-4cd8-af97-a913503e5760",
+    "confidence": 0.966,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1201173",
+      "name": "Pipe Creek Jr",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "1996-03-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 14
+    },
+    {
+      "mine_id": "1201961",
+      "name": "Calcium Products Co",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "1984-11-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

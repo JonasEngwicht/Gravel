@@ -1,0 +1,36 @@
+{
+  "id": "ne-springfield-western-sand-and-gravel-co",
+  "slug": "western-sand-and-gravel-co",
+  "name": "Western Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18805 NE-31",
+    "city": "Springfield",
+    "state": "NE",
+    "zip": "68059"
+  },
+  "location": {
+    "lat": 41.004253,
+    "lng": -96.209702
+  },
+  "contact": {
+    "phone": "(402) 253-2257",
+    "website": "http://www.westernsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac1d6e1f-5bbb-4bac-a3a7-ec2c15206637",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

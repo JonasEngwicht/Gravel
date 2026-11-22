@@ -1,0 +1,41 @@
+{
+  "id": "ny-bernhard-s-bay-syracuse-sand-and-gravel-panther-lake-mine-and-pits",
+  "slug": "syracuse-sand-and-gravel-panther-lake-mine-and-pits",
+  "name": "Syracuse Sand & Gravel – Panther Lake Mine and Pits",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bernhard's Bay",
+    "state": "NY",
+    "zip": "13028"
+  },
+  "location": {
+    "lat": 43.279722,
+    "lng": -75.919444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003070"
+  },
+  "msha": [
+    {
+      "mine_id": "3003070",
+      "name": "Panther Lake Mine and Pits",
+      "operator": "Syracuse Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2006-04-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

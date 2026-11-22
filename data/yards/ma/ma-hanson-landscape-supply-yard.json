@@ -1,0 +1,36 @@
+{
+  "id": "ma-hanson-landscape-supply-yard",
+  "slug": "landscape-supply-yard",
+  "name": "Landscape Supply Yard",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1 Liberty St",
+    "city": "Hanson",
+    "state": "MA",
+    "zip": "02341"
+  },
+  "location": {
+    "lat": 42.075336,
+    "lng": -70.879501
+  },
+  "contact": {
+    "phone": "(339) 933-8918",
+    "website": "http://hansonlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "03368041-6591-481f-a551-295602c9b68c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

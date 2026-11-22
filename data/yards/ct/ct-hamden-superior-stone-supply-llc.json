@@ -1,0 +1,36 @@
+{
+  "id": "ct-hamden-superior-stone-supply-llc",
+  "slug": "superior-stone-supply-llc",
+  "name": "Superior Stone Supply Llc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3876 Whitney Ave",
+    "city": "Hamden",
+    "state": "CT",
+    "zip": "06518"
+  },
+  "location": {
+    "lat": 41.434032,
+    "lng": -72.908829
+  },
+  "contact": {
+    "phone": "(475) 238-6094",
+    "website": "https://www.superiorstoneandsupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d69a1859-222b-4575-ae21-1f97976eb66a",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

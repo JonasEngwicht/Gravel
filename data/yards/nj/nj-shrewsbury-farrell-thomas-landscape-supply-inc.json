@@ -1,0 +1,36 @@
+{
+  "id": "nj-shrewsbury-farrell-thomas-landscape-supply-inc",
+  "slug": "farrell-thomas-landscape-supply-inc",
+  "name": "Farrell Thomas Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "761 Shrewsbury Ave",
+    "city": "Shrewsbury",
+    "state": "NJ",
+    "zip": "07702"
+  },
+  "location": {
+    "lat": 40.322041,
+    "lng": -74.071709
+  },
+  "contact": {
+    "phone": "(732) 741-5632",
+    "website": "http://www.tflandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89788b72-643e-4e19-b98c-467ec4f7d5e1",
+    "confidence": 0.981,
+    "merged_records": 1
+  }
+}

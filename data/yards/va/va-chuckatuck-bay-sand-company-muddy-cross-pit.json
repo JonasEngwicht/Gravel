@@ -1,0 +1,41 @@
+{
+  "id": "va-chuckatuck-bay-sand-company-muddy-cross-pit",
+  "slug": "bay-sand-company-muddy-cross-pit",
+  "name": "Bay Sand Company – Muddy Cross Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Chuckatuck",
+    "state": "VA",
+    "zip": "23432"
+  },
+  "location": {
+    "lat": 36.915833,
+    "lng": -76.581944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4407328"
+  },
+  "msha": [
+    {
+      "mine_id": "4407328",
+      "name": "Muddy Cross Pit",
+      "operator": "Bay Sand Company, Inc.",
+      "status": "Active",
+      "status_since": "2014-11-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

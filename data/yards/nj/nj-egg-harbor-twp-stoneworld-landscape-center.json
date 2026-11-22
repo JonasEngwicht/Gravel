@@ -1,0 +1,36 @@
+{
+  "id": "nj-egg-harbor-twp-stoneworld-landscape-center",
+  "slug": "stoneworld-landscape-center",
+  "name": "Stoneworld Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1333 Doughty Rd",
+    "city": "Egg Harbor Twp",
+    "state": "NJ",
+    "zip": "08234"
+  },
+  "location": {
+    "lat": 39.411327,
+    "lng": -74.540535
+  },
+  "contact": {
+    "phone": "(609) 646-2200",
+    "website": "http://www.stoneworldlandscapecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2114083c-8dd7-4353-813e-2194038fffc9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

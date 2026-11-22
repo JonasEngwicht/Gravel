@@ -1,0 +1,41 @@
+{
+  "id": "ny-saranac-lake-upstone-materials-saranac-lake-quarry",
+  "slug": "upstone-materials-saranac-lake-quarry",
+  "name": "Upstone Materials – Saranac Lake Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Saranac Lake",
+    "state": "NY",
+    "zip": "12983"
+  },
+  "location": {
+    "lat": 44.361389,
+    "lng": -74.105
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000963"
+  },
+  "msha": [
+    {
+      "mine_id": "3000963",
+      "name": "Saranac Lake Quarry",
+      "operator": "Upstone Materials Inc.",
+      "status": "Intermittent",
+      "status_since": "1983-06-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

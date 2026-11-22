@@ -1,0 +1,47 @@
+{
+  "id": "ny-batavia-seven-springs-gravel-products",
+  "slug": "seven-springs-gravel-products",
+  "name": "Seven Springs Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8479 Seven Springs Rd",
+    "city": "Batavia",
+    "state": "NY",
+    "zip": "14020"
+  },
+  "location": {
+    "lat": 43.000145,
+    "lng": -78.130859
+  },
+  "contact": {
+    "phone": "(585) 343-4336"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77ec5d8c-3dea-435d-a832-9f73663ccf55",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3003354",
+      "name": "Seven Springs Gravel Products LLC",
+      "operator": "Seven Springs Gravel Products LLC",
+      "status": "Intermittent",
+      "status_since": "2000-11-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

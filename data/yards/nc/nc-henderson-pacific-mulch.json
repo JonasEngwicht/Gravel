@@ -1,0 +1,36 @@
+{
+  "id": "nc-henderson-pacific-mulch",
+  "slug": "pacific-mulch",
+  "name": "Pacific Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "650 Peter Gill Rd",
+    "city": "Henderson",
+    "state": "NC",
+    "zip": "27537"
+  },
+  "location": {
+    "lat": 36.261688,
+    "lng": -78.397552
+  },
+  "contact": {
+    "phone": "(252) 492-4451",
+    "website": "http://www.pacific-organics.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "22f75955-cd86-47f8-b36d-a4c9c6f40975",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

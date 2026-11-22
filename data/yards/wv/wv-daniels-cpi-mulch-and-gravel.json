@@ -1,0 +1,36 @@
+{
+  "id": "wv-daniels-cpi-mulch-and-gravel",
+  "slug": "cpi-mulch-and-gravel",
+  "name": "CPI - Mulch & Gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1817 Ritter Dr",
+    "city": "Daniels",
+    "state": "WV",
+    "zip": "25832"
+  },
+  "location": {
+    "lat": 37.733669,
+    "lng": -81.113358
+  },
+  "contact": {
+    "phone": "(304) 763-4683",
+    "website": "http://www.americanelectricequipment.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8b69bdf2-b24f-4dc8-9c23-13adbf1ca08e",
+    "confidence": 0.549,
+    "merged_records": 1
+  }
+}

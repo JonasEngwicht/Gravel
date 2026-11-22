@@ -1,0 +1,36 @@
+{
+  "id": "ca-american-canyon-broadway-landscape-materials",
+  "slug": "broadway-landscape-materials",
+  "name": "Broadway Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3631 Broadway St",
+    "city": "American Canyon",
+    "state": "CA",
+    "zip": "94503"
+  },
+  "location": {
+    "lat": 38.172253,
+    "lng": -122.254486
+  },
+  "contact": {
+    "phone": "(707) 643-6321",
+    "website": "http://www.broadwaylandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2775bbf9-044c-4ecc-adc7-3eaaaf4b9b71",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-ponte-vedra-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10780 US-1 N",
+    "city": "Ponte Vedra",
+    "state": "FL",
+    "zip": "32081"
+  },
+  "location": {
+    "lat": 30.084379,
+    "lng": -81.457802
+  },
+  "contact": {
+    "phone": "(904) 886-7080",
+    "website": "http://jaxmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a4decde7-0279-486d-a8af-d035e509e0b0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

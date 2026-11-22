@@ -1,0 +1,41 @@
+{
+  "id": "pa-jersey-shore-p-stone",
+  "slug": "p-stone",
+  "name": "P Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jersey Shore",
+    "state": "PA",
+    "zip": "17720"
+  },
+  "location": {
+    "lat": 41.144167,
+    "lng": -77.23
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3606380"
+  },
+  "msha": [
+    {
+      "mine_id": "3606380",
+      "name": "P Stone Inc",
+      "operator": "P Stone Inc",
+      "status": "Active",
+      "status_since": "2013-02-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

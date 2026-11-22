@@ -1,0 +1,36 @@
+{
+  "id": "tx-spring-rio-grande-landscape-supplies",
+  "slug": "rio-grande-landscape-supplies",
+  "name": "Rio Grande Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "23122 Aldine Westfield Rd",
+    "city": "Spring",
+    "state": "TX",
+    "zip": "77373"
+  },
+  "location": {
+    "lat": 30.048433,
+    "lng": -95.386337
+  },
+  "contact": {
+    "phone": "(832) 996-6476",
+    "website": "https://riograndelandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c2ff96b7-ac62-425d-aa0b-fb34a8d4323b",
+    "confidence": 0.813,
+    "merged_records": 1
+  }
+}

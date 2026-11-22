@@ -1,0 +1,36 @@
+{
+  "id": "wi-madison-jr-s-mulch-sales",
+  "slug": "jr-s-mulch-sales",
+  "name": "JR's Mulch Sales",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4230 Acker Rd",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53704"
+  },
+  "location": {
+    "lat": 43.167259,
+    "lng": -89.325157
+  },
+  "contact": {
+    "phone": "(608) 573-2275",
+    "website": "https://www.jrsmulchsales.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c6bdfa6-fe4f-415a-9b6f-62e9b5fef4a5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

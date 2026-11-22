@@ -1,0 +1,41 @@
+{
+  "id": "mn-owatonna-don-loken-drainage-wash-plant",
+  "slug": "don-loken-drainage-wash-plant",
+  "name": "Don Loken Drainage – Wash Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Owatonna",
+    "state": "MN",
+    "zip": "55060"
+  },
+  "location": {
+    "lat": 44.051388,
+    "lng": -93.259722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103566"
+  },
+  "msha": [
+    {
+      "mine_id": "2103566",
+      "name": "Wash Plant",
+      "operator": "Don Loken Drainage Inc.",
+      "status": "Intermittent",
+      "status_since": "2007-04-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "md-upper-marlboro-landscape-supply",
+  "slug": "landscape-supply",
+  "name": "Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "671 Commerce Dr",
+    "city": "Upper Marlboro",
+    "state": "MD",
+    "zip": "20774"
+  },
+  "location": {
+    "lat": 38.8792,
+    "lng": -76.731827
+  },
+  "contact": {
+    "phone": "(240) 547-4614",
+    "website": "http://www.landscapesupplyva.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a652cffb-4cb8-458b-8537-945894a947f8",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

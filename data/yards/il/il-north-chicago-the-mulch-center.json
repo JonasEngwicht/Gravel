@@ -1,0 +1,36 @@
+{
+  "id": "il-north-chicago-the-mulch-center",
+  "slug": "the-mulch-center",
+  "name": "The Mulch Center",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3023 23rd Pl",
+    "city": "North Chicago",
+    "state": "IL",
+    "zip": "60064"
+  },
+  "location": {
+    "lat": 42.316444,
+    "lng": -87.871857
+  },
+  "contact": {
+    "phone": "(847) 578-0100",
+    "website": "http://www.mulchcenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5fa5f3a0-5133-4940-9daf-7a10fcee6061",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

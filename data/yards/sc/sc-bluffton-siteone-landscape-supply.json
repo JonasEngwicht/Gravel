@@ -1,0 +1,37 @@
+{
+  "id": "sc-bluffton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "24 Sheridan Park Cir",
+    "city": "Bluffton",
+    "state": "SC",
+    "zip": "29910"
+  },
+  "location": {
+    "lat": 32.262558,
+    "lng": -80.859474
+  },
+  "contact": {
+    "phone": "(843) 815-5011",
+    "website": "https://www.siteone.com/store/592"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5973df7f-fa4e-4569-af22-90cbf25b7963",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

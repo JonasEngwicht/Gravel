@@ -1,0 +1,41 @@
+{
+  "id": "ks-arma-mulberry-limestone-quarry-engelvale-quarry",
+  "slug": "mulberry-limestone-quarry-engelvale-quarry",
+  "name": "Mulberry Limestone Quarry – Engelvale Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Arma",
+    "state": "KS",
+    "zip": "67481"
+  },
+  "location": {
+    "lat": 39.011944,
+    "lng": -98.484167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401594"
+  },
+  "msha": [
+    {
+      "mine_id": "1401594",
+      "name": "Engelvale Quarry",
+      "operator": "Mulberry Limestone Quarry Company",
+      "status": "Intermittent",
+      "status_since": "2013-05-24",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

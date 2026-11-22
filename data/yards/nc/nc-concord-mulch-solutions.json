@@ -1,0 +1,36 @@
+{
+  "id": "nc-concord-mulch-solutions",
+  "slug": "mulch-solutions",
+  "name": "Mulch Solutions",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "900 Warren C Coleman Blvd",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28025"
+  },
+  "location": {
+    "lat": 35.380787,
+    "lng": -80.562622
+  },
+  "contact": {
+    "phone": "(704) 956-2343",
+    "website": "http://mulch-solutions.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3956ba2c-9043-4285-a167-25567b3c2583",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

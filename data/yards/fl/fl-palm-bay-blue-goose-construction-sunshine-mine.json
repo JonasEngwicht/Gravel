@@ -1,0 +1,41 @@
+{
+  "id": "fl-palm-bay-blue-goose-construction-sunshine-mine",
+  "slug": "blue-goose-construction-sunshine-mine",
+  "name": "Blue Goose Construction – Sunshine Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Palm Bay",
+    "state": "FL",
+    "zip": "32976"
+  },
+  "location": {
+    "lat": 27.831399,
+    "lng": -80.614837
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801426"
+  },
+  "msha": [
+    {
+      "mine_id": "0801426",
+      "name": "Sunshine Mine",
+      "operator": "Blue Goose Construction LLC",
+      "status": "Active",
+      "status_since": "2019-11-05",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

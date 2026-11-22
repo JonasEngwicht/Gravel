@@ -1,0 +1,48 @@
+{
+  "id": "in-garrett-hixson-sand-and-gravel",
+  "slug": "hixson-sand-and-gravel",
+  "name": "Hixson Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6178 Co Rd 7",
+    "city": "Garrett",
+    "state": "IN",
+    "zip": "46738"
+  },
+  "location": {
+    "lat": 41.305523,
+    "lng": -85.157776
+  },
+  "contact": {
+    "phone": "(260) 357-4477",
+    "website": "http://hixsoninc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7fa045d-6533-4122-aac9-baf86eedffd1",
+    "confidence": 0.996,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1200672",
+      "name": "Hixson Sand & Gravel Inc",
+      "operator": "Hixson Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2011-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

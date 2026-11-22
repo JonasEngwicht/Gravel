@@ -1,0 +1,36 @@
+{
+  "id": "mi-muskegon-prestige-landscape-supply",
+  "slug": "prestige-landscape-supply",
+  "name": "Prestige Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5260 Airline Rd",
+    "city": "Muskegon",
+    "state": "MI",
+    "zip": "49444"
+  },
+  "location": {
+    "lat": 43.155727,
+    "lng": -86.180344
+  },
+  "contact": {
+    "phone": "(231) 865-2066",
+    "website": "http://www.prestigelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c433472-572e-492f-8ddc-2682cb91593e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

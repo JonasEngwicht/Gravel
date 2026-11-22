@@ -1,0 +1,36 @@
+{
+  "id": "ca-porter-ranch-all-valley-sand-and-gravel-inc",
+  "slug": "all-valley-sand-and-gravel-inc",
+  "name": "All Valley Sand And Gravel Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "19300 Rinaldi St",
+    "city": "Porter Ranch",
+    "state": "CA",
+    "zip": "91326"
+  },
+  "location": {
+    "lat": 34.273849,
+    "lng": -118.554497
+  },
+  "contact": {
+    "phone": "(818) 824-6126",
+    "website": "https://allvalleysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac7ae559-d9b6-4dd3-a63c-9d30ea343e72",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

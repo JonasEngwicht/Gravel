@@ -1,0 +1,36 @@
+{
+  "id": "nc-greensboro-the-mulch-yard-garden-and-gift",
+  "slug": "the-mulch-yard-garden-and-gift",
+  "name": "The Mulch Yard Garden and Gift",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2308 W Gate City Blvd",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27403"
+  },
+  "location": {
+    "lat": 36.056767,
+    "lng": -79.829819
+  },
+  "contact": {
+    "phone": "(336) 617-0650",
+    "website": "http://www.mygardenandgift.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9aee5f42-223b-4493-b666-cb68e7e9e401",
+    "confidence": 0.891,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "co-brighton-martin-marietta-riverbend-sand-and-gravel",
+  "slug": "martin-marietta-riverbend-sand-and-gravel",
+  "name": "Martin Marietta - Riverbend Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "12673 County Road 6",
+    "city": "Brighton",
+    "state": "CO",
+    "zip": "80603"
+  },
+  "location": {
+    "lat": 40.029678,
+    "lng": -104.815689
+  },
+  "contact": {
+    "phone": "(720) 378-5515",
+    "website": "https://www.martinmarietta.com/locations/west/rocky-mountain-aggregates-district/riverbend-sand-and-gravel"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34b2ab45-a3a5-43fd-9189-1a9cb57544c8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

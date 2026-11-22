@@ -1,0 +1,36 @@
+{
+  "id": "ca-san-jose-bay-stone-depot",
+  "slug": "bay-stone-depot",
+  "name": "Bay Stone Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "495 E Brokaw Rd",
+    "city": "San Jose",
+    "state": "CA",
+    "zip": "95112"
+  },
+  "location": {
+    "lat": 37.379551,
+    "lng": -121.910843
+  },
+  "contact": {
+    "phone": "(408) 441-1114",
+    "website": "http://www.baystonedepot.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c06132e-8b6e-4f6a-ab8c-41a5c879cad5",
+    "confidence": 0.984,
+    "merged_records": 1
+  }
+}

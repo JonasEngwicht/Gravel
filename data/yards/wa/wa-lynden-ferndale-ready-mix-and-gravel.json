@@ -1,0 +1,36 @@
+{
+  "id": "wa-lynden-ferndale-ready-mix-and-gravel",
+  "slug": "ferndale-ready-mix-and-gravel",
+  "name": "Ferndale Ready Mix And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "144 River Rd",
+    "city": "Lynden",
+    "state": "WA",
+    "zip": "98264"
+  },
+  "location": {
+    "lat": 48.919975,
+    "lng": -122.48732
+  },
+  "contact": {
+    "phone": "(360) 354-1400",
+    "website": "http://www.ferndalereadymix.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74f8fdd3-63d2-405d-8b98-d3ea20ccb6aa",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

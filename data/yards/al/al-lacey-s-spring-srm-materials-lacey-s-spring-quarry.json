@@ -1,0 +1,41 @@
+{
+  "id": "al-lacey-s-spring-srm-materials-lacey-s-spring-quarry",
+  "slug": "srm-materials-lacey-s-spring-quarry",
+  "name": "SRM Materials – Lacey's Spring Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lacey's Spring",
+    "state": "AL",
+    "zip": "35754"
+  },
+  "location": {
+    "lat": 34.516944,
+    "lng": -86.614444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103612"
+  },
+  "msha": [
+    {
+      "mine_id": "0103612",
+      "name": "Lacey's Spring Quarry",
+      "operator": "SRM Materials, LLC",
+      "status": "Active",
+      "status_since": "2025-03-07",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

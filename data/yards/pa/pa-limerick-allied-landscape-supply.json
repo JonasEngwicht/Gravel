@@ -1,0 +1,36 @@
+{
+  "id": "pa-limerick-allied-landscape-supply",
+  "slug": "allied-landscape-supply",
+  "name": "Allied Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "200 Limerick Center Rd",
+    "city": "Limerick",
+    "state": "PA",
+    "zip": "19468"
+  },
+  "location": {
+    "lat": 40.228661,
+    "lng": -75.550613
+  },
+  "contact": {
+    "phone": "(610) 495-1408",
+    "website": "http://www.alliedlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "244f512e-fbcc-468b-a31f-1b06fd32be68",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-burnet-heidelberg-materials-southwest-burnet-plant",
+  "slug": "heidelberg-materials-southwest-burnet-plant",
+  "name": "Heidelberg Materials Southwest – Burnet Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Burnet",
+    "state": "TX",
+    "zip": "78611"
+  },
+  "location": {
+    "lat": 30.695556,
+    "lng": -98.253611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4100066"
+  },
+  "msha": [
+    {
+      "mine_id": "4100066",
+      "name": "Burnet Plant",
+      "operator": "Heidelberg Materials Southwest LLC",
+      "status": "Active",
+      "status_since": "2015-01-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

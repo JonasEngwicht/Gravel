@@ -1,0 +1,47 @@
+{
+  "id": "nc-goldsboro-a-and-s-of-mar-mac-aggregates-llc",
+  "slug": "a-and-s-of-mar-mac-aggregates-llc",
+  "name": "A&S OF MAR MAC AGGREGATES LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "226 Old Grantham Rd",
+    "city": "Goldsboro",
+    "state": "NC",
+    "zip": "27530"
+  },
+  "location": {
+    "lat": 35.342987,
+    "lng": -78.034401
+  },
+  "contact": {
+    "phone": "(919) 735-0900"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d642c834-7fc4-4ba7-8830-98c4719f7928",
+    "confidence": 0.966,
+    "merged_records": 3
+  },
+  "msha": [
+    {
+      "mine_id": "3102176",
+      "name": "Mar Mac Pit",
+      "operator": "Mar Mac Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2001-07-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

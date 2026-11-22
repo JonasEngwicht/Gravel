@@ -1,0 +1,36 @@
+{
+  "id": "wa-gig-harbor-walrath-landscape-supply",
+  "slug": "walrath-landscape-supply",
+  "name": "Walrath Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4521 56th St NW",
+    "city": "Gig Harbor",
+    "state": "WA",
+    "zip": "98335"
+  },
+  "location": {
+    "lat": 47.309273,
+    "lng": -122.599487
+  },
+  "contact": {
+    "phone": "(253) 858-8184",
+    "website": "https://tacoma.tewalrath.com/catalog"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7539d10-3048-40d5-a0e4-5b567958bad7",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

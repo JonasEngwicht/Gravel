@@ -1,0 +1,41 @@
+{
+  "id": "pa-oley-heidelberg-materials-us-cement-oley-2",
+  "slug": "heidelberg-materials-us-cement-oley-2",
+  "name": "Heidelberg Materials US Cement – Oley #2",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Oley",
+    "state": "PA",
+    "zip": "19547"
+  },
+  "location": {
+    "lat": 40.361111,
+    "lng": -75.770556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3604849"
+  },
+  "msha": [
+    {
+      "mine_id": "3604849",
+      "name": "Oley #2",
+      "operator": "Heidelberg Materials US Cement LLC",
+      "status": "Intermittent",
+      "status_since": "2026-09-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

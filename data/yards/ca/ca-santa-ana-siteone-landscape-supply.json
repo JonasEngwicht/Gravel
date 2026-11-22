@@ -1,0 +1,37 @@
+{
+  "id": "ca-santa-ana-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1441 E McFadden Ave",
+    "city": "Santa Ana",
+    "state": "CA",
+    "zip": "92705"
+  },
+  "location": {
+    "lat": 33.734318,
+    "lng": -117.848312
+  },
+  "contact": {
+    "phone": "(714) 285-9092",
+    "website": "https://www.siteone.com/store/388"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b295fca1-f5b9-4bea-9150-42bdd3bbe420",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

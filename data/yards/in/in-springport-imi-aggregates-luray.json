@@ -1,0 +1,48 @@
+{
+  "id": "in-springport-imi-aggregates-luray",
+  "slug": "imi-aggregates-luray",
+  "name": "imi Aggregates - Luray",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1078 East Luray Rd",
+    "city": "Springport",
+    "state": "IN",
+    "zip": "47386"
+  },
+  "location": {
+    "lat": 40.070042,
+    "lng": -85.365738
+  },
+  "contact": {
+    "phone": "(765) 755-3447",
+    "website": "https://locations.irvmat.com/in/252?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f690ff3f-a3e0-47d7-bae4-ef2bae45e6d1",
+    "confidence": 0.966,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200992",
+      "name": "IMI Luray Sand & Gravel",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2011-12-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

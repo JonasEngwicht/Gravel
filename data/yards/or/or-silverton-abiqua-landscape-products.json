@@ -1,0 +1,36 @@
+{
+  "id": "or-silverton-abiqua-landscape-products",
+  "slug": "abiqua-landscape-products",
+  "name": "Abiqua Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1295 N 1st St",
+    "city": "Silverton",
+    "state": "OR",
+    "zip": "97381"
+  },
+  "location": {
+    "lat": 45.016571,
+    "lng": -122.787201
+  },
+  "contact": {
+    "phone": "(503) 873-3535",
+    "website": "http://www.abiqualandscapeproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "99658a04-ff44-4f67-97d6-579c92ba172a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-bastrop-the-rock-yard-and-sawmill-at-community-gardens",
+  "slug": "the-rock-yard-and-sawmill-at-community-gardens",
+  "name": "The Rock Yard & Sawmill At Community Gardens",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1067 Highway 71 W",
+    "city": "Bastrop",
+    "state": "TX",
+    "zip": "78602"
+  },
+  "location": {
+    "lat": 30.109556,
+    "lng": -97.399841
+  },
+  "contact": {
+    "website": "http://www.cgbastrop.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f12ff8bb-9d0d-4724-b600-ab64e1cbb909",
+    "confidence": 0.743,
+    "merged_records": 1
+  }
+}

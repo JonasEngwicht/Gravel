@@ -1,0 +1,41 @@
+{
+  "id": "pa-york-york-building-products-co-roosevelt-avenue-quarry",
+  "slug": "york-building-products-co-roosevelt-avenue-quarry",
+  "name": "York Building Products Co – Roosevelt Avenue Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "York",
+    "state": "PA",
+    "zip": "17401"
+  },
+  "location": {
+    "lat": 39.969444,
+    "lng": -76.751389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600277"
+  },
+  "msha": [
+    {
+      "mine_id": "3600277",
+      "name": "Roosevelt Avenue Quarry",
+      "operator": "York Building Products Co Inc",
+      "status": "Active",
+      "status_since": "1986-01-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

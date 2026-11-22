@@ -1,0 +1,36 @@
+{
+  "id": "mo-raytown-phillips-mulch-and-top-soil-sales",
+  "slug": "phillips-mulch-and-top-soil-sales",
+  "name": "Phillips Mulch and Top Soil Sales",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10600 E State Route 350",
+    "city": "Raytown",
+    "state": "MO",
+    "zip": "64138"
+  },
+  "location": {
+    "lat": 38.982414,
+    "lng": -94.455574
+  },
+  "contact": {
+    "phone": "(816) 358-5408",
+    "website": "http://www.phillipsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4cead995-2f1a-4b1f-a728-1e1c7384ccc7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

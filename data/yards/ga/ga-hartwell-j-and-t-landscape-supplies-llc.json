@@ -1,0 +1,35 @@
+{
+  "id": "ga-hartwell-j-and-t-landscape-supplies-llc",
+  "slug": "j-and-t-landscape-supplies-llc",
+  "name": "J and T Landscape Supplies. LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1801 Royston Hwy",
+    "city": "Hartwell",
+    "state": "GA",
+    "zip": "30643"
+  },
+  "location": {
+    "lat": 34.337116,
+    "lng": -82.958069
+  },
+  "contact": {
+    "phone": "(706) 436-3066"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6501b1ee-0c9e-4874-b00c-787279ae8511",
+    "confidence": 0.912,
+    "merged_records": 1
+  }
+}

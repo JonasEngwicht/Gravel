@@ -1,0 +1,36 @@
+{
+  "id": "oh-uniontown-uniontown-topsoil-and-mulch",
+  "slug": "uniontown-topsoil-and-mulch",
+  "name": "Uniontown Topsoil & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13088 Mogadore Ave NW",
+    "city": "Uniontown",
+    "state": "OH",
+    "zip": "44685"
+  },
+  "location": {
+    "lat": 40.978397,
+    "lng": -81.392769
+  },
+  "contact": {
+    "phone": "(330) 699-9963",
+    "website": "https://www.uniontowntopsoilandmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "63249271-d703-43bf-b58a-7ae5f7a402a0",
+    "confidence": 0.682,
+    "merged_records": 1
+  }
+}

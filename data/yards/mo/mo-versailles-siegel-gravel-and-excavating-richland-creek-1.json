@@ -1,0 +1,41 @@
+{
+  "id": "mo-versailles-siegel-gravel-and-excavating-richland-creek-1",
+  "slug": "siegel-gravel-and-excavating-richland-creek-1",
+  "name": "Siegel Gravel & Excavating – Richland Creek #1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Versailles",
+    "state": "MO",
+    "zip": "65329"
+  },
+  "location": {
+    "lat": 38.554722,
+    "lng": -92.922222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302238"
+  },
+  "msha": [
+    {
+      "mine_id": "2302238",
+      "name": "Richland Creek #1",
+      "operator": "Siegel Gravel & Excavating",
+      "status": "Intermittent",
+      "status_since": "2021-08-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

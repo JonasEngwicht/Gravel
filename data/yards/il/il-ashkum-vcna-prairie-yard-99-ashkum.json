@@ -1,0 +1,41 @@
+{
+  "id": "il-ashkum-vcna-prairie-yard-99-ashkum",
+  "slug": "vcna-prairie-yard-99-ashkum",
+  "name": "VCNA Prairie – Yard 99 - Ashkum",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ashkum",
+    "state": "IL",
+    "zip": "60946"
+  },
+  "location": {
+    "lat": 40.901389,
+    "lng": -88.0925
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102986"
+  },
+  "msha": [
+    {
+      "mine_id": "1102986",
+      "name": "Yard 99 - Ashkum",
+      "operator": "VCNA Prairie LLC",
+      "status": "Active",
+      "status_since": "2003-02-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

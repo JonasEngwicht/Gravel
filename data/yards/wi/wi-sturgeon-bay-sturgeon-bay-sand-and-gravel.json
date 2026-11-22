@@ -1,0 +1,35 @@
+{
+  "id": "wi-sturgeon-bay-sturgeon-bay-sand-and-gravel",
+  "slug": "sturgeon-bay-sand-and-gravel",
+  "name": "Sturgeon Bay Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "934 Shiloh Rd",
+    "city": "Sturgeon Bay",
+    "state": "WI",
+    "zip": "54235"
+  },
+  "location": {
+    "lat": 44.817596,
+    "lng": -87.375496
+  },
+  "contact": {
+    "phone": "(920) 743-2904"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "afcc9363-8c11-4c94-86d7-980b9c1dbe62",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

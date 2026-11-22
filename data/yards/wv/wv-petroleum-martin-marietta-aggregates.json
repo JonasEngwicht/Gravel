@@ -1,0 +1,49 @@
+{
+  "id": "wv-petroleum-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "619 Sand Hill Rd",
+    "city": "Petroleum",
+    "state": "WV",
+    "zip": "26161"
+  },
+  "location": {
+    "lat": 39.252293,
+    "lng": -81.263359
+  },
+  "contact": {
+    "phone": "(304) 679-3139",
+    "website": "https://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b8e7c70-963e-4b05-949c-500bc760be7f",
+    "confidence": 0.894,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4608862",
+      "name": "Burning Springs Mine",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Active",
+      "status_since": "2009-12-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 29
+    }
+  ]
+}

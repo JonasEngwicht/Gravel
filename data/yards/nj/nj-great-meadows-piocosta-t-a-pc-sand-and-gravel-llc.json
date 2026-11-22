@@ -1,0 +1,41 @@
+{
+  "id": "nj-great-meadows-piocosta-t-a-pc-sand-and-gravel-llc",
+  "slug": "piocosta-t-a-pc-sand-and-gravel-llc",
+  "name": "PioCosta t/a PC Sand & Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Great Meadows",
+    "state": "NJ",
+    "zip": "07838"
+  },
+  "location": {
+    "lat": 40.861944,
+    "lng": -74.917222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800975"
+  },
+  "msha": [
+    {
+      "mine_id": "2800975",
+      "name": "PioCosta t/a PC Sand & Gravel LLC",
+      "operator": "PC Sand & Gravel",
+      "status": "Active",
+      "status_since": "2017-09-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

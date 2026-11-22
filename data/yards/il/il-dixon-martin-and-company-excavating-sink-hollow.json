@@ -1,0 +1,41 @@
+{
+  "id": "il-dixon-martin-and-company-excavating-sink-hollow",
+  "slug": "martin-and-company-excavating-sink-hollow",
+  "name": "Martin & Company Excavating – Sink Hollow",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Dixon",
+    "state": "IL",
+    "zip": "61021"
+  },
+  "location": {
+    "lat": 41.8486,
+    "lng": -89.4819
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103309"
+  },
+  "msha": [
+    {
+      "mine_id": "1103309",
+      "name": "Sink Hollow",
+      "operator": "Martin & Company Excavating",
+      "status": "Intermittent",
+      "status_since": "2023-06-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

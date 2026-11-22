@@ -1,0 +1,41 @@
+{
+  "id": "ga-friendship-vulcan-construction-materials-friendship-quarry",
+  "slug": "vulcan-construction-materials-friendship-quarry",
+  "name": "Vulcan Construction Materials – Friendship Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Friendship",
+    "state": "GA",
+    "zip": "30519"
+  },
+  "location": {
+    "lat": 34.131667,
+    "lng": -83.9275
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900878"
+  },
+  "msha": [
+    {
+      "mine_id": "0900878",
+      "name": "Friendship Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1983-06-06",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 37
+    }
+  ]
+}

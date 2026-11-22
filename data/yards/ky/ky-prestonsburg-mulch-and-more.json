@@ -1,0 +1,35 @@
+{
+  "id": "ky-prestonsburg-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "758 Water Gap Rd",
+    "city": "Prestonsburg",
+    "state": "KY",
+    "zip": "41653"
+  },
+  "location": {
+    "lat": 37.658211,
+    "lng": -82.733978
+  },
+  "contact": {
+    "phone": "(606) 949-1134"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1bf812e8-dd2d-47c2-942a-607d28949d5f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

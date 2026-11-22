@@ -1,0 +1,36 @@
+{
+  "id": "ct-putnam-riverview-landscape-supply",
+  "slug": "riverview-landscape-supply",
+  "name": "Riverview Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "147 Kennedy Dr",
+    "city": "Putnam",
+    "state": "CT",
+    "zip": "06260"
+  },
+  "location": {
+    "lat": 41.912827,
+    "lng": -71.911034
+  },
+  "contact": {
+    "phone": "(860) 928-4222",
+    "website": "https://www.riverviewlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b42b728a-b505-4ff2-a969-01ee38ae9d93",
+    "confidence": 0.914,
+    "merged_records": 1
+  }
+}

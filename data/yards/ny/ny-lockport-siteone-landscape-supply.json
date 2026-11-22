@@ -1,0 +1,37 @@
+{
+  "id": "ny-lockport-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5025 Lockport Rd",
+    "city": "Lockport",
+    "state": "NY",
+    "zip": "14094"
+  },
+  "location": {
+    "lat": 43.133911,
+    "lng": -78.766701
+  },
+  "contact": {
+    "phone": "(716) 625-9916",
+    "website": "https://www.siteone.com/store/252/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d665257-616d-42e5-b94b-19558120946b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

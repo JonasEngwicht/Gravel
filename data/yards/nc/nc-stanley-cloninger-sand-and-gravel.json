@@ -1,0 +1,35 @@
+{
+  "id": "nc-stanley-cloninger-sand-and-gravel",
+  "slug": "cloninger-sand-and-gravel",
+  "name": "Cloninger Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "349 Upper Stanley Rd",
+    "city": "Stanley",
+    "state": "NC",
+    "zip": "28164"
+  },
+  "location": {
+    "lat": 35.389103,
+    "lng": -81.073547
+  },
+  "contact": {
+    "phone": "(704) 326-2680"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62ce4cef-9620-4527-a3c7-303fcf251721",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

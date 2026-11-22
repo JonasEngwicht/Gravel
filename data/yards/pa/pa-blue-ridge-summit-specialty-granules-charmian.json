@@ -1,0 +1,41 @@
+{
+  "id": "pa-blue-ridge-summit-specialty-granules-charmian",
+  "slug": "specialty-granules-charmian",
+  "name": "Specialty Granules – Charmian",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Blue Ridge Summit",
+    "state": "PA",
+    "zip": "17214"
+  },
+  "location": {
+    "lat": 39.744444,
+    "lng": -77.457222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3603460"
+  },
+  "msha": [
+    {
+      "mine_id": "3603460",
+      "name": "Charmian",
+      "operator": "Specialty Granules LLC",
+      "status": "Active",
+      "status_since": "1976-03-09",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 155
+    }
+  ]
+}

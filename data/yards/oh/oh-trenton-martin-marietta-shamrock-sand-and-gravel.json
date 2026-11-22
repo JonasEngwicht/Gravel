@@ -1,0 +1,49 @@
+{
+  "id": "oh-trenton-martin-marietta-shamrock-sand-and-gravel",
+  "slug": "martin-marietta-shamrock-sand-and-gravel",
+  "name": "Martin Marietta - Shamrock Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "2900 Woodsdale Rd",
+    "city": "Trenton",
+    "state": "OH",
+    "zip": "45067"
+  },
+  "location": {
+    "lat": 39.463985,
+    "lng": -84.449356
+  },
+  "contact": {
+    "phone": "(513) 444-7527",
+    "website": "https://www.martinmarietta.com/locations/central/ohio-district/shamrock-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa9bb215-2033-42b6-9220-b2e8c635be81",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304011",
+      "name": "Shamrock Sand & Gravel",
+      "operator": "Martin Marietta Materials Inc.",
+      "status": "Intermittent",
+      "status_since": "2024-11-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

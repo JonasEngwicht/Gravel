@@ -1,0 +1,48 @@
+{
+  "id": "in-columbus-us-aggregates",
+  "slug": "us-aggregates",
+  "name": "US Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3415 S County Road 650 E",
+    "city": "Columbus",
+    "state": "IN",
+    "zip": "47203"
+  },
+  "location": {
+    "lat": 39.168167,
+    "lng": -85.79071
+  },
+  "contact": {
+    "phone": "(812) 579-5241",
+    "website": "http://www.usagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b12111c9-e40f-4a9e-810b-62b3283dc52c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200073",
+      "name": "US Aggregates-Columbus Plant",
+      "operator": "US Aggregates LLC",
+      "status": "Active",
+      "status_since": "2011-12-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

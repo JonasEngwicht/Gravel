@@ -1,0 +1,36 @@
+{
+  "id": "vt-concord-kirby-mulch-company",
+  "slug": "kirby-mulch-company",
+  "name": "Kirby Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "576 Route 2",
+    "city": "Concord",
+    "state": "VT",
+    "zip": "05824"
+  },
+  "location": {
+    "lat": 44.450676,
+    "lng": -71.926498
+  },
+  "contact": {
+    "phone": "(802) 274-6239",
+    "website": "https://www.kirbymulchcompany.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9caf5493-db8a-4ab1-b0bc-ecaa6bdedafb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

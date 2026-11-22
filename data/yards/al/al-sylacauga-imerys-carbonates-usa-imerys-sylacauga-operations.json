@@ -1,0 +1,41 @@
+{
+  "id": "al-sylacauga-imerys-carbonates-usa-imerys-sylacauga-operations",
+  "slug": "imerys-carbonates-usa-imerys-sylacauga-operations",
+  "name": "Imerys Carbonates Usa – Imerys Sylacauga Operations",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sylacauga",
+    "state": "AL",
+    "zip": "35150"
+  },
+  "location": {
+    "lat": 33.161944,
+    "lng": -86.298056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0100011"
+  },
+  "msha": [
+    {
+      "mine_id": "0100011",
+      "name": "Imerys Sylacauga Operations",
+      "operator": "Imerys Carbonates Usa, Inc.",
+      "status": "Active",
+      "status_since": "1975-11-14",
+      "commodity": "Crushed, Broken Marble",
+      "match": "source",
+      "employees": 280
+    }
+  ]
+}

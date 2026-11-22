@@ -1,0 +1,41 @@
+{
+  "id": "ny-chaffee-woodruff-construction",
+  "slug": "woodruff-construction",
+  "name": "Woodruff Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Chaffee",
+    "state": "NY",
+    "zip": "14030"
+  },
+  "location": {
+    "lat": 42.570556,
+    "lng": -78.476944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004005"
+  },
+  "msha": [
+    {
+      "mine_id": "3004005",
+      "name": "Woodruff Gravel",
+      "operator": "Woodruff Construction",
+      "status": "Active",
+      "status_since": "2026-02-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

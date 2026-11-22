@@ -1,0 +1,36 @@
+{
+  "id": "il-mahomet-mid-america-sand-and-gravel",
+  "slug": "mid-america-sand-and-gravel",
+  "name": "Mid America Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "250 E South Mahomet Rd",
+    "city": "Mahomet",
+    "state": "IL",
+    "zip": "61853"
+  },
+  "location": {
+    "lat": 40.178642,
+    "lng": -88.405357
+  },
+  "contact": {
+    "phone": "(217) 586-4536",
+    "website": "http://masgagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "72bbdb9d-aad3-4ede-a147-0af0d7c8fa34",
+    "confidence": 0.894,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "al-russeville-vulcan-construction-materials-south-russellville-quarry",
+  "slug": "vulcan-construction-materials-south-russellville-quarry",
+  "name": "Vulcan Construction Materials – South Russellville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Russeville",
+    "state": "AL",
+    "zip": "35654"
+  },
+  "location": {
+    "lat": 34.48,
+    "lng": -87.556944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103143"
+  },
+  "msha": [
+    {
+      "mine_id": "0103143",
+      "name": "South Russellville Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2001-08-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

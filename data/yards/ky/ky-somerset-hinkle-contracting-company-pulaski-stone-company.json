@@ -1,0 +1,41 @@
+{
+  "id": "ky-somerset-hinkle-contracting-company-pulaski-stone-company",
+  "slug": "hinkle-contracting-company-pulaski-stone-company",
+  "name": "Hinkle Contracting Company – Pulaski Stone Company",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Somerset",
+    "state": "KY",
+    "zip": "42503"
+  },
+  "location": {
+    "lat": 37.150278,
+    "lng": -84.522778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1519092"
+  },
+  "msha": [
+    {
+      "mine_id": "1519092",
+      "name": "Pulaski Stone Company",
+      "operator": "Hinkle Contracting Company Llc",
+      "status": "Active",
+      "status_since": "2021-12-27",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

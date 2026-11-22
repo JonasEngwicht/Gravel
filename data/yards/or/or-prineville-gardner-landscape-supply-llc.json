@@ -1,0 +1,35 @@
+{
+  "id": "or-prineville-gardner-landscape-supply-llc",
+  "slug": "gardner-landscape-supply-llc",
+  "name": "Gardner Landscape Supply LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1955 N Gardner Rd",
+    "city": "Prineville",
+    "state": "OR",
+    "zip": "97754"
+  },
+  "location": {
+    "lat": 44.318378,
+    "lng": -120.867325
+  },
+  "contact": {
+    "phone": "(541) 233-7396"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55b67cfc-e4d8-40a8-a468-552dbdd710d7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "pa-newtown-hanson-aggregates-bmc-div",
+  "slug": "hanson-aggregates-bmc-div",
+  "name": "Hanson Aggregates Bmc Div.",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "852 Swamp Rd",
+    "city": "Newtown",
+    "state": "PA",
+    "zip": "18940"
+  },
+  "location": {
+    "lat": 40.258888,
+    "lng": -75.013885
+  },
+  "contact": {
+    "phone": "(215) 598-3152",
+    "website": "http://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83ed6266-3597-4829-8fce-dbdc0c9c5018",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3604297",
+      "name": "Rush Valley Quarry Plant I",
+      "operator": "Eureka Stone Quarry Inc",
+      "status": "Active",
+      "status_since": "2011-04-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

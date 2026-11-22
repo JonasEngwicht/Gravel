@@ -1,0 +1,41 @@
+{
+  "id": "in-cloverdale-ilc-resources-cloverdale-plant",
+  "slug": "ilc-resources-cloverdale-plant",
+  "name": "ILC Resources Cloverdale Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cloverdale",
+    "state": "IN",
+    "zip": "46170"
+  },
+  "location": {
+    "lat": 39.546944,
+    "lng": -86.872778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202443"
+  },
+  "msha": [
+    {
+      "mine_id": "1202443",
+      "name": "ILC Resources Cloverdale Plant",
+      "operator": "ILC Resources",
+      "status": "Active",
+      "status_since": "2012-02-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 24
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ar-fort-smith-arkhola-sand-and-gravel-co",
+  "slug": "arkhola-sand-and-gravel-co",
+  "name": "Arkhola Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5215 S Zero St",
+    "city": "Fort Smith",
+    "state": "AR",
+    "zip": "72903"
+  },
+  "location": {
+    "lat": 35.327763,
+    "lng": -94.374283
+  },
+  "contact": {
+    "phone": "(479) 648-7372",
+    "website": "http://www.ashland.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "05302ab1-6154-4633-890f-addf178bfb08",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

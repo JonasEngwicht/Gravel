@@ -1,0 +1,35 @@
+{
+  "id": "ks-nickerson-gravel-and-concrete-inc",
+  "slug": "gravel-and-concrete-inc",
+  "name": "Gravel & Concrete Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7010 N Nickerson Rd",
+    "city": "Nickerson",
+    "state": "KS",
+    "zip": "67561"
+  },
+  "location": {
+    "lat": 38.132919,
+    "lng": -98.085892
+  },
+  "contact": {
+    "phone": "(620) 422-3249"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f034dd2b-c4a6-452a-9ece-e32696ccdad0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

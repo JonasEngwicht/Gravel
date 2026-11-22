@@ -1,0 +1,41 @@
+{
+  "id": "co-golden-oldcastle-sw-group-ralston-quarry",
+  "slug": "oldcastle-sw-group-ralston-quarry",
+  "name": "Oldcastle SW Group – Ralston Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Golden",
+    "state": "CO",
+    "zip": "80403"
+  },
+  "location": {
+    "lat": 39.813889,
+    "lng": -105.248056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0503007"
+  },
+  "msha": [
+    {
+      "mine_id": "0503007",
+      "name": "Ralston Quarry",
+      "operator": "Oldcastle SW Group, Inc",
+      "status": "Intermittent",
+      "status_since": "2026-07-22",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

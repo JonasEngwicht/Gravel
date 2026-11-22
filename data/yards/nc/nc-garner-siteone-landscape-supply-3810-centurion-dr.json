@@ -1,0 +1,37 @@
+{
+  "id": "nc-garner-siteone-landscape-supply-3810-centurion-dr",
+  "slug": "siteone-landscape-supply-3810-centurion-dr",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3810 Centurion Dr",
+    "city": "Garner",
+    "state": "NC",
+    "zip": "27529"
+  },
+  "location": {
+    "lat": 35.730339,
+    "lng": -78.571045
+  },
+  "contact": {
+    "phone": "(919) 661-0068",
+    "website": "http://siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d22aa2da-1caf-4fcf-bf5d-9421863ad284",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "fl-n-fort-myers-southwest-florida-landscape-supply",
+  "slug": "southwest-florida-landscape-supply",
+  "name": "Southwest Florida Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8090 Littleton Rd",
+    "city": "N Fort Myers",
+    "state": "FL",
+    "zip": "33903"
+  },
+  "location": {
+    "lat": 26.697626,
+    "lng": -81.891724
+  },
+  "contact": {
+    "phone": "(239) 887-7794"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fcc8f5bc-1509-470f-ac27-a2675b8d903b",
+    "confidence": 0.773,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ok-hugo-meridian-aggregates-company-a-limited-partnership-hugo",
+  "slug": "meridian-aggregates-company-a-limited-partnership-hugo",
+  "name": "Meridian Aggregates Company, a Limited Partnership – Hugo",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hugo",
+    "state": "OK",
+    "zip": "74743"
+  },
+  "location": {
+    "lat": 34.091944,
+    "lng": -95.539167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400061"
+  },
+  "msha": [
+    {
+      "mine_id": "3400061",
+      "name": "Hugo",
+      "operator": "Meridian Aggregates Company, a Limited Partnership",
+      "status": "Active",
+      "status_since": "1972-10-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

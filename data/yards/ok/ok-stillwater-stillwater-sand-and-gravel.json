@@ -1,0 +1,35 @@
+{
+  "id": "ok-stillwater-stillwater-sand-and-gravel",
+  "slug": "stillwater-sand-and-gravel",
+  "name": "Stillwater Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4623 S Perkins Rd",
+    "city": "Stillwater",
+    "state": "OK",
+    "zip": "74074"
+  },
+  "location": {
+    "lat": 36.068241,
+    "lng": -97.050476
+  },
+  "contact": {
+    "phone": "(405) 377-4050"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e91f437-275a-44f4-a805-dd276841a817",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "sc-summerville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2411 N Main St",
+    "city": "Summerville",
+    "state": "SC",
+    "zip": "29486"
+  },
+  "location": {
+    "lat": 33.052078,
+    "lng": -80.10231
+  },
+  "contact": {
+    "phone": "(843) 873-5724",
+    "website": "https://www.siteone.com/en/store/294"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b129225-2b26-4ea2-a7f7-dfc366b101c7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

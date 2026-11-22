@@ -1,0 +1,41 @@
+{
+  "id": "ny-avoca-tim-hubbard-gravel-supply-2",
+  "slug": "tim-hubbard-gravel-supply-2",
+  "name": "Tim Hubbard Gravel Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Avoca",
+    "state": "NY",
+    "zip": "14809"
+  },
+  "location": {
+    "lat": 42.404722,
+    "lng": -77.494444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3002595"
+  },
+  "msha": [
+    {
+      "mine_id": "3002595",
+      "name": "Tim Hubbard Gravel Supply",
+      "operator": "Tim Hubbard Gravel Supply",
+      "status": "Intermittent",
+      "status_since": "1996-03-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

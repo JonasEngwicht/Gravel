@@ -1,0 +1,35 @@
+{
+  "id": "nc-new-bern-the-little-guy-s-mulch-and-more",
+  "slug": "the-little-guy-s-mulch-and-more",
+  "name": "The Little Guy's Mulch And More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3713 Trent Rd",
+    "city": "New Bern",
+    "state": "NC",
+    "zip": "28562"
+  },
+  "location": {
+    "lat": 35.0942,
+    "lng": -77.102478
+  },
+  "contact": {
+    "phone": "(252) 229-2528"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "afb7c171-01b0-4303-a65c-860bc7f30c0b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

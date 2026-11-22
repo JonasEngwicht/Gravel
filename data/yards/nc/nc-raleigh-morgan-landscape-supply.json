@@ -1,0 +1,36 @@
+{
+  "id": "nc-raleigh-morgan-landscape-supply",
+  "slug": "morgan-landscape-supply",
+  "name": "Morgan Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1613 Old Louisburg Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27604"
+  },
+  "location": {
+    "lat": 35.803078,
+    "lng": -78.623779
+  },
+  "contact": {
+    "phone": "(919) 720-4275",
+    "website": "http://www.morganlandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "266d2d5b-587c-48de-9790-355019e5e053",
+    "confidence": 0.569,
+    "merged_records": 1
+  }
+}

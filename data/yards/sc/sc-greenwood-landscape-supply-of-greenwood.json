@@ -1,0 +1,36 @@
+{
+  "id": "sc-greenwood-landscape-supply-of-greenwood",
+  "slug": "landscape-supply-of-greenwood",
+  "name": "Landscape Supply of Greenwood",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1500 Highway 72 221 E",
+    "city": "Greenwood",
+    "state": "SC",
+    "zip": "29649"
+  },
+  "location": {
+    "lat": 34.21106,
+    "lng": -82.140839
+  },
+  "contact": {
+    "phone": "(864) 388-2138",
+    "website": "https://landscape-supply-of-Greenwood.myshopify.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b12c04c6-5c18-4e94-bff2-80725155fb85",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

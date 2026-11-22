@@ -1,0 +1,41 @@
+{
+  "id": "tx-cuero-abn-construction-rath-pit",
+  "slug": "abn-construction-rath-pit",
+  "name": "ABN Construction – Rath Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cuero",
+    "state": "TX",
+    "zip": "77954"
+  },
+  "location": {
+    "lat": 29.009444,
+    "lng": -97.234722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105490"
+  },
+  "msha": [
+    {
+      "mine_id": "4105490",
+      "name": "Rath Pit",
+      "operator": "ABN Construction, LLC",
+      "status": "Active",
+      "status_since": "2020-05-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

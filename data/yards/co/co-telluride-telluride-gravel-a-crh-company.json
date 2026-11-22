@@ -1,0 +1,36 @@
+{
+  "id": "co-telluride-telluride-gravel-a-crh-company",
+  "slug": "telluride-gravel-a-crh-company",
+  "name": "Telluride Gravel, A CRH Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "964 County Road 63L",
+    "city": "Telluride",
+    "state": "CO",
+    "zip": "81435"
+  },
+  "location": {
+    "lat": 37.944561,
+    "lng": -107.901558
+  },
+  "contact": {
+    "phone": "(970) 243-4900",
+    "website": "https://united-gj.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c88528d-084f-4505-80a9-f8aa7dc669f1",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

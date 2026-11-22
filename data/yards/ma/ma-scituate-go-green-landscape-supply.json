@@ -1,0 +1,36 @@
+{
+  "id": "ma-scituate-go-green-landscape-supply",
+  "slug": "go-green-landscape-supply",
+  "name": "Go Green Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "167 Driftway",
+    "city": "Scituate",
+    "state": "MA",
+    "zip": "02066"
+  },
+  "location": {
+    "lat": 42.17701,
+    "lng": -70.727547
+  },
+  "contact": {
+    "phone": "(781) 545-6003",
+    "website": "http://www.gogreenlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1aa01f2b-d66d-4b49-be32-4beb656ef98f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

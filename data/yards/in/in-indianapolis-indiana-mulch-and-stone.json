@@ -1,0 +1,36 @@
+{
+  "id": "in-indianapolis-indiana-mulch-and-stone",
+  "slug": "indiana-mulch-and-stone",
+  "name": "Indiana Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10300 Pendleton Pike",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46236"
+  },
+  "location": {
+    "lat": 39.859829,
+    "lng": -85.985199
+  },
+  "contact": {
+    "phone": "(317) 826-7777",
+    "website": "http://www.indianamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "89ada3cd-7635-4bed-9eb0-45bab57a26e6",
+    "confidence": 0.961,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "in-mooresville-prairie-aggregates",
+  "slug": "prairie-aggregates",
+  "name": "Prairie Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9668 N Smokey Row Rd",
+    "city": "Mooresville",
+    "state": "IN",
+    "zip": "46158"
+  },
+  "location": {
+    "lat": 39.571438,
+    "lng": -86.271957
+  },
+  "contact": {
+    "phone": "(317) 834-2789"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d883a17-d7c4-4d85-9969-6eca8e17f53c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

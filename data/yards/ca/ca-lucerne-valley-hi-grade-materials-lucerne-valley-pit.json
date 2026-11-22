@@ -1,0 +1,41 @@
+{
+  "id": "ca-lucerne-valley-hi-grade-materials-lucerne-valley-pit",
+  "slug": "hi-grade-materials-lucerne-valley-pit",
+  "name": "Hi-Grade Materials – Lucerne Valley Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lucerne Valley",
+    "state": "CA",
+    "zip": "92356"
+  },
+  "location": {
+    "lat": 34.413056,
+    "lng": -116.926111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0403178"
+  },
+  "msha": [
+    {
+      "mine_id": "0403178",
+      "name": "Lucerne Valley Pit",
+      "operator": "Hi-Grade Materials Co",
+      "status": "Active",
+      "status_since": "1973-01-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

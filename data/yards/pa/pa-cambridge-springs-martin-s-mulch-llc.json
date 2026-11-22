@@ -1,0 +1,36 @@
+{
+  "id": "pa-cambridge-springs-martin-s-mulch-llc",
+  "slug": "martin-s-mulch-llc",
+  "name": "Martin's Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "28070 State Highway 408",
+    "city": "Cambridge Springs",
+    "state": "PA",
+    "zip": "16403"
+  },
+  "location": {
+    "lat": 41.750668,
+    "lng": -79.943939
+  },
+  "contact": {
+    "phone": "(814) 398-8516",
+    "website": "http://www.martinsmulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9735182-e99a-4568-8823-cbdac61d0dd2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

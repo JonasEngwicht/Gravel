@@ -1,0 +1,48 @@
+{
+  "id": "fl-miami-cemex-miami-krome-aggregates-quarry",
+  "slug": "cemex-miami-krome-aggregates-quarry",
+  "name": "CEMEX Miami Krome Aggregates Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "8800 Southwest 177th Avenue",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33196"
+  },
+  "location": {
+    "lat": 25.689091,
+    "lng": -80.482658
+  },
+  "contact": {
+    "phone": "(305) 386-0078",
+    "website": "https://www.cemexusa.com/-/miami-krome-aggregates-quarry"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de0ff511-177a-4b4d-aaf4-148082f4fffe",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0801015",
+      "name": "Krome Quarry",
+      "operator": "CEMEX Construction Materials Florida, LLC",
+      "status": "Active",
+      "status_since": "2008-12-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 55
+    }
+  ]
+}

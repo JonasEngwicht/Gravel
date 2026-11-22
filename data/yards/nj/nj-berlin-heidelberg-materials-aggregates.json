@@ -1,0 +1,48 @@
+{
+  "id": "nj-berlin-heidelberg-materials-aggregates",
+  "slug": "heidelberg-materials-aggregates",
+  "name": "Heidelberg Materials, Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "409 New Freedom Rd",
+    "city": "Berlin",
+    "state": "NJ",
+    "zip": "08009"
+  },
+  "location": {
+    "lat": 39.760017,
+    "lng": -74.927155
+  },
+  "contact": {
+    "phone": "(856) 809-0142",
+    "website": "https://www.heidelbergmaterials.us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dfad0a80-772f-49b9-9348-2f49570e9358",
+    "confidence": 0.618,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2800615",
+      "name": "Berlin Plant",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Active",
+      "status_since": "1984-02-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pa-red-lion-mighty-oak-mulch",
+  "slug": "mighty-oak-mulch",
+  "name": "Mighty Oak Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "497 Barshinger Rd",
+    "city": "Red Lion",
+    "state": "PA",
+    "zip": "17356"
+  },
+  "location": {
+    "lat": 39.920547,
+    "lng": -76.520264
+  },
+  "contact": {
+    "phone": "(717) 244-3099"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64793d58-d59e-4f2b-8c7f-51e78b0d3a9a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

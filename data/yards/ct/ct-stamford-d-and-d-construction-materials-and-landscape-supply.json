@@ -1,0 +1,36 @@
+{
+  "id": "ct-stamford-d-and-d-construction-materials-and-landscape-supply",
+  "slug": "d-and-d-construction-materials-and-landscape-supply",
+  "name": "D & D Construction Materials & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "124 Magee Ave",
+    "city": "Stamford",
+    "state": "CT",
+    "zip": "06902"
+  },
+  "location": {
+    "lat": 41.045574,
+    "lng": -73.52787
+  },
+  "contact": {
+    "phone": "(203) 325-9992",
+    "website": "http://www.ddindustriesinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8f0a6d4-2c08-4a94-9485-7d53d55bab48",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-hastings-house-mining-and-aggregates",
+  "slug": "house-mining-and-aggregates",
+  "name": "House Mining & Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hastings",
+    "state": "NY",
+    "zip": "13103"
+  },
+  "location": {
+    "lat": 43.3175,
+    "lng": -76.123056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004014"
+  },
+  "msha": [
+    {
+      "mine_id": "3004014",
+      "name": "House Pit",
+      "operator": "House Mining & Aggregates",
+      "status": "Intermittent",
+      "status_since": "2018-05-10",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

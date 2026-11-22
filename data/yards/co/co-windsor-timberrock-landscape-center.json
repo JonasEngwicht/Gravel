@@ -1,0 +1,36 @@
+{
+  "id": "co-windsor-timberrock-landscape-center",
+  "slug": "timberrock-landscape-center",
+  "name": "TimberRock Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "28629 Weld County Rd 17",
+    "city": "Windsor",
+    "state": "CO",
+    "zip": "80550"
+  },
+  "location": {
+    "lat": 40.414955,
+    "lng": -104.9105
+  },
+  "contact": {
+    "phone": "(970) 686-0442",
+    "website": "https://www.timberrocklandscapecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0daa48a8-27b2-4d02-bbdf-27cb06182425",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

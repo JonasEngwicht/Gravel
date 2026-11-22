@@ -1,0 +1,48 @@
+{
+  "id": "ne-gibbon-mid-nebraska-aggregate",
+  "slug": "mid-nebraska-aggregate",
+  "name": "Mid-Nebraska Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "42500 Kilgore Rd",
+    "city": "Gibbon",
+    "state": "NE",
+    "zip": "68840"
+  },
+  "location": {
+    "lat": 40.677814,
+    "lng": -98.914436
+  },
+  "contact": {
+    "phone": "(308) 237-7372",
+    "website": "http://www.mnarock.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a287b767-fa90-4ba5-8aba-63f65a93225b",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2500573",
+      "name": "Minden Pit",
+      "operator": "Mid-Nebraska Aggregate Inc",
+      "status": "Intermittent",
+      "status_since": "2026-04-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ky-louisville-innovative-crushing-aggregate",
+  "slug": "innovative-crushing-aggregate",
+  "name": "Innovative Crushing-aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2412 Millers Ln",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40216"
+  },
+  "location": {
+    "lat": 38.215122,
+    "lng": -85.807716
+  },
+  "contact": {
+    "phone": "(502) 776-3507",
+    "website": "http://www.innovativecrushing.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f490455-d6e6-403d-8234-7afbf84b01d1",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

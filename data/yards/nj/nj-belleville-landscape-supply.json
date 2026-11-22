@@ -1,0 +1,36 @@
+{
+  "id": "nj-belleville-landscape-supply",
+  "slug": "landscape-supply",
+  "name": "Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "133 Passaic Ave",
+    "city": "Belleville",
+    "state": "NJ",
+    "zip": "07109"
+  },
+  "location": {
+    "lat": 40.805099,
+    "lng": -74.161713
+  },
+  "contact": {
+    "phone": "(973) 759-9190",
+    "website": "http://landscape-supply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "73cc3d31-4904-4821-b6a6-50d668a6ff8b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

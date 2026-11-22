@@ -1,0 +1,36 @@
+{
+  "id": "tn-lebanon-earhart-landscape-supplies",
+  "slug": "earhart-landscape-supplies",
+  "name": "Earhart Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2410 TN-109",
+    "city": "Lebanon",
+    "state": "TN",
+    "zip": "37090"
+  },
+  "location": {
+    "lat": 36.216881,
+    "lng": -86.423225
+  },
+  "contact": {
+    "phone": "(615) 681-4835",
+    "website": "https://www.earhartlandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f524ea2c-c1c9-4392-94b0-e7bf4859472c",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

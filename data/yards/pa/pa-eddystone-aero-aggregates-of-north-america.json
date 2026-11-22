@@ -1,0 +1,36 @@
+{
+  "id": "pa-eddystone-aero-aggregates-of-north-america",
+  "slug": "aero-aggregates-of-north-america",
+  "name": "Aero Aggregates Of North America",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1500 Chester Pike",
+    "city": "Eddystone",
+    "state": "PA",
+    "zip": "19022"
+  },
+  "location": {
+    "lat": 39.862217,
+    "lng": -75.3396
+  },
+  "contact": {
+    "phone": "(610) 447-8900",
+    "website": "https://www.aeroaggna.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "091cd454-2ecd-45d6-b4d3-edfe71cf8b90",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

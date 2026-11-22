@@ -1,0 +1,36 @@
+{
+  "id": "ar-rogers-ewp-mulch",
+  "slug": "ewp-mulch",
+  "name": "EWP Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2535 S 8th St",
+    "city": "Rogers",
+    "state": "AR",
+    "zip": "72758"
+  },
+  "location": {
+    "lat": 36.293701,
+    "lng": -94.126404
+  },
+  "contact": {
+    "phone": "(479) 636-8305",
+    "website": "https://www.ewpmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ec6cd16-2c77-41e8-8e3a-3f609d8d3358",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

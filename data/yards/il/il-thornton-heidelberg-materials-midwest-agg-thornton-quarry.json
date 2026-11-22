@@ -1,0 +1,41 @@
+{
+  "id": "il-thornton-heidelberg-materials-midwest-agg-thornton-quarry",
+  "slug": "heidelberg-materials-midwest-agg-thornton-quarry",
+  "name": "Heidelberg Materials Midwest Agg – Thornton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Thornton",
+    "state": "IL",
+    "zip": "60476"
+  },
+  "location": {
+    "lat": 41.565833,
+    "lng": -87.613611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100066"
+  },
+  "msha": [
+    {
+      "mine_id": "1100066",
+      "name": "Thornton Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2013-06-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 75
+    }
+  ]
+}

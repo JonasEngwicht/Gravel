@@ -1,0 +1,41 @@
+{
+  "id": "ny-gloversville-bradley-reed-enterprises",
+  "slug": "bradley-reed-enterprises",
+  "name": "Bradley Reed Enterprises",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Gloversville",
+    "state": "NY",
+    "zip": "12070"
+  },
+  "location": {
+    "lat": 43.063333,
+    "lng": -74.243611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003905"
+  },
+  "msha": [
+    {
+      "mine_id": "3003905",
+      "name": "Bradley Reed Pit",
+      "operator": "Bradley Reed Enterprises Inc",
+      "status": "Intermittent",
+      "status_since": "2022-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

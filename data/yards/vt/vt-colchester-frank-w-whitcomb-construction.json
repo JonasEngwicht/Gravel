@@ -1,0 +1,41 @@
+{
+  "id": "vt-colchester-frank-w-whitcomb-construction",
+  "slug": "frank-w-whitcomb-construction",
+  "name": "Frank W Whitcomb Construction",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Colchester",
+    "state": "VT",
+    "zip": "05404"
+  },
+  "location": {
+    "lat": 44.504444,
+    "lng": -73.182222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300005"
+  },
+  "msha": [
+    {
+      "mine_id": "4300005",
+      "name": "Crushed Stone Quarry And Plant",
+      "operator": "Frank W Whitcomb Construction Corp",
+      "status": "Active",
+      "status_since": "2024-12-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

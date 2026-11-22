@@ -1,0 +1,36 @@
+{
+  "id": "mo-nixa-pitchfork-landscape-materials",
+  "slug": "pitchfork-landscape-materials",
+  "name": "Pitchfork Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3152 W Jackson Rd",
+    "city": "Nixa",
+    "state": "MO",
+    "zip": "65714"
+  },
+  "location": {
+    "lat": 37.027203,
+    "lng": -93.250046
+  },
+  "contact": {
+    "phone": "(417) 880-5549",
+    "website": "http://www.pitchforkmaterial.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5e318940-9e88-42b2-8b08-c966b0f8edb8",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

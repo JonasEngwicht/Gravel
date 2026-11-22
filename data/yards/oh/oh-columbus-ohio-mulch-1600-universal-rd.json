@@ -1,0 +1,37 @@
+{
+  "id": "oh-columbus-ohio-mulch-1600-universal-rd",
+  "slug": "ohio-mulch-1600-universal-rd",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "1600 Universal Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43207"
+  },
+  "location": {
+    "lat": 39.924839,
+    "lng": -82.949921
+  },
+  "contact": {
+    "phone": "(614) 586-4588",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "249b7f03-3a3e-413d-a56a-a68f467f3242",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

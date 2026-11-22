@@ -1,0 +1,36 @@
+{
+  "id": "pa-enola-knisely-landscape-materials",
+  "slug": "knisely-landscape-materials",
+  "name": "Knisely Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "19 N Enola Rd",
+    "city": "Enola",
+    "state": "PA",
+    "zip": "17025"
+  },
+  "location": {
+    "lat": 40.288784,
+    "lng": -76.929878
+  },
+  "contact": {
+    "phone": "(717) 635-8924",
+    "website": "http://www.kniselylandsculpting.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85a40feb-3656-4514-8fa6-c657f8e96ef7",
+    "confidence": 0.978,
+    "merged_records": 1
+  }
+}

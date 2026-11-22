@@ -1,0 +1,35 @@
+{
+  "id": "nj-wyckoff-american-mulch",
+  "slug": "american-mulch",
+  "name": "American Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "681 Lawlins Rd Unit 50-103",
+    "city": "Wyckoff",
+    "state": "NJ",
+    "zip": "07481"
+  },
+  "location": {
+    "lat": 41.016129,
+    "lng": -74.185539
+  },
+  "contact": {
+    "phone": "(201) 485-8488"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d2f3ce9-0ab2-4c25-aa1d-2a9095898554",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

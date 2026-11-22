@@ -1,0 +1,41 @@
+{
+  "id": "oh-columbus-grove-the-national-lime-and-stone-rimer-plant",
+  "slug": "the-national-lime-and-stone-rimer-plant",
+  "name": "The National Lime & Stone – Rimer Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Columbus Grove",
+    "state": "OH",
+    "zip": "45808"
+  },
+  "location": {
+    "lat": 40.818056,
+    "lng": -84.012222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300126"
+  },
+  "msha": [
+    {
+      "mine_id": "3300126",
+      "name": "Rimer Plant",
+      "operator": "The National Lime & Stone Company",
+      "status": "Intermittent",
+      "status_since": "2026-05-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pr-barranquitas-empresas-jbr-cantera-jimmy-ferrer",
+  "slug": "empresas-jbr-cantera-jimmy-ferrer",
+  "name": "Empresas JBR – Cantera Jimmy Ferrer",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Barranquitas",
+    "state": "PR",
+    "zip": "00794"
+  },
+  "location": {
+    "lat": 18.172222,
+    "lng": -66.343611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400187"
+  },
+  "msha": [
+    {
+      "mine_id": "5400187",
+      "name": "Cantera Jimmy Ferrer",
+      "operator": "Empresas JBR Inc",
+      "status": "Active",
+      "status_since": "2025-09-16",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

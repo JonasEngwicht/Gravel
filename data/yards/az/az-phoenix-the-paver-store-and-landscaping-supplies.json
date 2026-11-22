@@ -1,0 +1,36 @@
+{
+  "id": "az-phoenix-the-paver-store-and-landscaping-supplies",
+  "slug": "the-paver-store-and-landscaping-supplies",
+  "name": "The Paver Store and Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3830 E Miami Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85040"
+  },
+  "location": {
+    "lat": 33.418419,
+    "lng": -111.998329
+  },
+  "contact": {
+    "phone": "(602) 454-6339",
+    "website": "http://www.paverstoreaz.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9134fc61-df84-4566-9c49-0a93c27ac4be",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "in-kokomo-kokomo-gravel-inc",
+  "slug": "kokomo-gravel-inc",
+  "name": "Kokomo Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2617 W 300 S",
+    "city": "Kokomo",
+    "state": "IN",
+    "zip": "46902"
+  },
+  "location": {
+    "lat": 40.431118,
+    "lng": -86.176926
+  },
+  "contact": {
+    "phone": "(765) 453-1616",
+    "website": "http://www.kokomogravelinc.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "57712129-254f-4248-8e82-b21c3c2fd3b5",
+    "confidence": 0.968,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-bolingbrook-wilson-nurseries-and-wilson-landscape-supply",
+  "slug": "wilson-nurseries-and-wilson-landscape-supply",
+  "name": "Wilson Nurseries and Wilson Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1050 Lily Cache Ln Ste B",
+    "city": "Bolingbrook",
+    "state": "IL",
+    "zip": "60440"
+  },
+  "location": {
+    "lat": 41.690273,
+    "lng": -88.114128
+  },
+  "contact": {
+    "phone": "(815) 439-7188",
+    "website": "http://www.wilsonnurseries.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a9f8c81-1e38-4183-9ce6-49e3b1170f25",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

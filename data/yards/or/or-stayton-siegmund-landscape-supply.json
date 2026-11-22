@@ -1,0 +1,36 @@
+{
+  "id": "or-stayton-siegmund-landscape-supply",
+  "slug": "siegmund-landscape-supply",
+  "name": "Siegmund Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21393 N Santiam Hwy SE",
+    "city": "Stayton",
+    "state": "OR",
+    "zip": "97383"
+  },
+  "location": {
+    "lat": 44.792068,
+    "lng": -122.627396
+  },
+  "contact": {
+    "phone": "(503) 769-6291",
+    "website": "http://www.siegmundlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11f66b7c-f94e-4954-8a96-3d547d8783a8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-oxford-a-1-mulch",
+  "slug": "a-1-mulch",
+  "name": "A-1 Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "410 Limestone Rd",
+    "city": "Oxford",
+    "state": "PA",
+    "zip": "19363"
+  },
+  "location": {
+    "lat": 39.809986,
+    "lng": -75.967316
+  },
+  "contact": {
+    "phone": "(610) 932-7420",
+    "website": "http://www.a1mulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b1868512-183d-4734-a4ac-2862bfd08a15",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

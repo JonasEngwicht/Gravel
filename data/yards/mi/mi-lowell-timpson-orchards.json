@@ -1,0 +1,41 @@
+{
+  "id": "mi-lowell-timpson-orchards",
+  "slug": "timpson-orchards",
+  "name": "Timpson Orchards",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lowell",
+    "state": "MI",
+    "zip": "49331"
+  },
+  "location": {
+    "lat": 42.907222,
+    "lng": -85.340833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003534"
+  },
+  "msha": [
+    {
+      "mine_id": "2003534",
+      "name": "Timpson Pit",
+      "operator": "Timpson Orchards, Inc.",
+      "status": "Active",
+      "status_since": "2019-04-15",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

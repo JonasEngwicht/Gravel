@@ -1,0 +1,41 @@
+{
+  "id": "oh-portage-stoneco-portage-quarry",
+  "slug": "stoneco-portage-quarry",
+  "name": "Stoneco – Portage Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Portage",
+    "state": "OH",
+    "zip": "43451"
+  },
+  "location": {
+    "lat": 41.318333,
+    "lng": -83.650278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300105"
+  },
+  "msha": [
+    {
+      "mine_id": "3300105",
+      "name": "Portage Quarry",
+      "operator": "Stoneco Inc",
+      "status": "Intermittent",
+      "status_since": "2026-03-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ny-ithaca-odessa-sand-stone-and-gravel",
+  "slug": "odessa-sand-stone-and-gravel",
+  "name": "Odessa Sand, Stone and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "226 Cecil Malone Dr Ste 1",
+    "city": "Ithaca",
+    "state": "NY",
+    "zip": "14850"
+  },
+  "location": {
+    "lat": 42.436878,
+    "lng": -76.51519
+  },
+  "contact": {
+    "phone": "(607) 564-7829",
+    "website": "http://odessasandstoneandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8bb4df5b-5806-4ff4-a406-d033f8b28831",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

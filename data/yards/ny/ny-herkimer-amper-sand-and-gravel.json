@@ -1,0 +1,35 @@
+{
+  "id": "ny-herkimer-amper-sand-and-gravel",
+  "slug": "amper-sand-and-gravel",
+  "name": "Amper Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5967 State Route 5",
+    "city": "Herkimer",
+    "state": "NY",
+    "zip": "13350"
+  },
+  "location": {
+    "lat": 43.022903,
+    "lng": -74.921539
+  },
+  "contact": {
+    "phone": "(315) 823-3100"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a5d8a40d-fb9e-47a4-bf22-e935664597bc",
+    "confidence": 0.523,
+    "merged_records": 1
+  }
+}

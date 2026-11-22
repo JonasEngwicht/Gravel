@@ -1,0 +1,41 @@
+{
+  "id": "nm-costilla-robert-medina-and-sons-costilla-pit",
+  "slug": "robert-medina-and-sons-costilla-pit",
+  "name": "Robert Medina & Sons Costilla Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Costilla",
+    "state": "NM",
+    "zip": "87524"
+  },
+  "location": {
+    "lat": 36.950833,
+    "lng": -105.548611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902050"
+  },
+  "msha": [
+    {
+      "mine_id": "2902050",
+      "name": "Robert Medina & Sons Costilla Pit",
+      "operator": "Robert Medina & Sons Concrete & Sand Inc",
+      "status": "Intermittent",
+      "status_since": "2016-06-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

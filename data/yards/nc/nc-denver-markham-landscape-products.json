@@ -1,0 +1,36 @@
+{
+  "id": "nc-denver-markham-landscape-products",
+  "slug": "markham-landscape-products",
+  "name": "Markham Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "824 N, NC-16",
+    "city": "Denver",
+    "state": "NC",
+    "zip": "28037"
+  },
+  "location": {
+    "lat": 35.465134,
+    "lng": -80.992798
+  },
+  "contact": {
+    "phone": "(704) 489-2600",
+    "website": "http://www.markhamlandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14251841-0496-4227-842b-464e88a7dff0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

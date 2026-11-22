@@ -1,0 +1,36 @@
+{
+  "id": "ma-westford-oak-hill-mulch-company",
+  "slug": "oak-hill-mulch-company",
+  "name": "Oak Hill Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "124 Oak Hill Rd",
+    "city": "Westford",
+    "state": "MA",
+    "zip": "01886"
+  },
+  "location": {
+    "lat": 42.626678,
+    "lng": -71.421432
+  },
+  "contact": {
+    "phone": "(978) 287-5777",
+    "website": "https://oakhillmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c3af6126-1a15-43c8-885d-9bc2b4746028",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

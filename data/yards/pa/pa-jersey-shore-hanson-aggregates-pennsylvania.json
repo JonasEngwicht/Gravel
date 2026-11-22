@@ -1,0 +1,37 @@
+{
+  "id": "pa-jersey-shore-hanson-aggregates-pennsylvania",
+  "slug": "hanson-aggregates-pennsylvania",
+  "name": "Hanson Aggregates Pennsylvania",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "503 Quarry Rd",
+    "city": "Jersey Shore",
+    "state": "PA",
+    "zip": "17740"
+  },
+  "location": {
+    "lat": 41.151424,
+    "lng": -77.214417
+  },
+  "contact": {
+    "phone": "(610) 269-1710",
+    "website": "http://www.lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e2345526-9f72-48fd-b811-cca231a84d60",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

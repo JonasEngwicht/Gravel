@@ -1,0 +1,37 @@
+{
+  "id": "ca-chatsworth-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "21101 Superior St",
+    "city": "Chatsworth",
+    "state": "CA",
+    "zip": "91311"
+  },
+  "location": {
+    "lat": 34.246349,
+    "lng": -118.593231
+  },
+  "contact": {
+    "phone": "(818) 882-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d7aa91f-a73d-4ad1-87c3-6990373adf79",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

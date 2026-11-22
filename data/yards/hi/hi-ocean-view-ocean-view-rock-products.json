@@ -1,0 +1,41 @@
+{
+  "id": "hi-ocean-view-ocean-view-rock-products",
+  "slug": "ocean-view-rock-products",
+  "name": "Ocean View Rock Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Ocean View",
+    "state": "HI",
+    "zip": "96737"
+  },
+  "location": {
+    "lat": 19.133056,
+    "lng": -155.729167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5100302"
+  },
+  "msha": [
+    {
+      "mine_id": "5100302",
+      "name": "Ocean View Quarry",
+      "operator": "Ocean View Rock Products Inc.",
+      "status": "Intermittent",
+      "status_since": "2024-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

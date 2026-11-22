@@ -1,0 +1,41 @@
+{
+  "id": "mo-orrick-missouri-rock",
+  "slug": "missouri-rock",
+  "name": "Missouri Rock",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Orrick",
+    "state": "MO",
+    "zip": "64077"
+  },
+  "location": {
+    "lat": 39.271111,
+    "lng": -94.168333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300168"
+  },
+  "msha": [
+    {
+      "mine_id": "2300168",
+      "name": "Missouri Rock Inc",
+      "operator": "Missouri Rock Inc",
+      "status": "Active",
+      "status_since": "2010-04-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mi-bad-axe-vollmer-ready-mix-alexander-pit",
+  "slug": "vollmer-ready-mix-alexander-pit",
+  "name": "Vollmer Ready Mix – Alexander Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bad Axe",
+    "state": "MI",
+    "zip": "48413"
+  },
+  "location": {
+    "lat": 43.803059,
+    "lng": -82.966058
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2002960"
+  },
+  "msha": [
+    {
+      "mine_id": "2002960",
+      "name": "Alexander Pit",
+      "operator": "Vollmer Ready Mix Inc.",
+      "status": "Intermittent",
+      "status_since": "2012-12-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pa-deemston-neiswonger-construction-maggie-lynn-quarry",
+  "slug": "neiswonger-construction-maggie-lynn-quarry",
+  "name": "Neiswonger Construction – Maggie Lynn Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Deemston",
+    "state": "PA",
+    "zip": "15322"
+  },
+  "location": {
+    "lat": 40.001389,
+    "lng": -80.031389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3610012"
+  },
+  "msha": [
+    {
+      "mine_id": "3610012",
+      "name": "Maggie Lynn Quarry",
+      "operator": "Neiswonger Construction Inc.",
+      "status": "Active",
+      "status_since": "2026-03-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

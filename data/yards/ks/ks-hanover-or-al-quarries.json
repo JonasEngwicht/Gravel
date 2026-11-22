@@ -1,0 +1,41 @@
+{
+  "id": "ks-hanover-or-al-quarries",
+  "slug": "or-al-quarries",
+  "name": "OR-AL Quarries",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hanover",
+    "state": "KS",
+    "zip": "66548"
+  },
+  "location": {
+    "lat": 39.691111,
+    "lng": -96.7475
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401608"
+  },
+  "msha": [
+    {
+      "mine_id": "1401608",
+      "name": "OR-AL Quarries, Inc",
+      "operator": "OR-AL Quarries, Inc.",
+      "status": "Active",
+      "status_since": "2011-12-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

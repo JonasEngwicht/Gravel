@@ -1,0 +1,35 @@
+{
+  "id": "ga-commerce-legacy-landscape-supply",
+  "slug": "legacy-landscape-supply",
+  "name": "Legacy Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "30265 Highway 441 S",
+    "city": "Commerce",
+    "state": "GA",
+    "zip": "30529"
+  },
+  "location": {
+    "lat": 34.264439,
+    "lng": -83.466606
+  },
+  "contact": {
+    "phone": "(706) 520-1010"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea67d5dc-6258-466f-b107-4f920ea2e583",
+    "confidence": 0.897,
+    "merged_records": 1
+  }
+}

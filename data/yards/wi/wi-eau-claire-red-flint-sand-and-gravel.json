@@ -1,0 +1,36 @@
+{
+  "id": "wi-eau-claire-red-flint-sand-and-gravel",
+  "slug": "red-flint-sand-and-gravel",
+  "name": "Red Flint Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "615 Short St",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54701"
+  },
+  "location": {
+    "lat": 44.794731,
+    "lng": -91.524986
+  },
+  "contact": {
+    "phone": "(800) 238-9139",
+    "website": "http://www.redflint.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dcac2953-8586-41f3-b5ab-10daa05830df",
+    "confidence": 0.909,
+    "merged_records": 1
+  }
+}

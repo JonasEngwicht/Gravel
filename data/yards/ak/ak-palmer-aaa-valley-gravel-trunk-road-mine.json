@@ -1,0 +1,41 @@
+{
+  "id": "ak-palmer-aaa-valley-gravel-trunk-road-mine",
+  "slug": "aaa-valley-gravel-trunk-road-mine",
+  "name": "AAA Valley Gravel / Trunk road mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Palmer",
+    "state": "AK",
+    "zip": "99654"
+  },
+  "location": {
+    "lat": 61.596666,
+    "lng": -149.243333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001501"
+  },
+  "msha": [
+    {
+      "mine_id": "5001501",
+      "name": "AAA Valley Gravel / Trunk road mine",
+      "operator": "AAA Valley Gravel",
+      "status": "Intermittent",
+      "status_since": "1986-06-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

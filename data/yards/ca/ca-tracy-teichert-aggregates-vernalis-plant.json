@@ -1,0 +1,58 @@
+{
+  "id": "ca-tracy-teichert-aggregates-vernalis-plant",
+  "slug": "teichert-aggregates-vernalis-plant",
+  "name": "Teichert Aggregates - Vernalis Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "36314 S Bird Rd",
+    "city": "Tracy",
+    "state": "CA",
+    "zip": "95304"
+  },
+  "location": {
+    "lat": 37.619442,
+    "lng": -121.356339
+  },
+  "contact": {
+    "phone": "(209) 834-8300",
+    "website": "https://www.teichert.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c03e61e1-c1cd-42fc-aa7b-dada907cc5c7",
+    "confidence": 0.98,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0402792",
+      "name": "Vernalis Plant",
+      "operator": "Teichert Aggregates",
+      "status": "Active",
+      "status_since": "2001-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 39
+    },
+    {
+      "mine_id": "0405459",
+      "name": "Knife River Construction Vernalis Plant",
+      "operator": "Knife River Construction",
+      "status": "Active",
+      "status_since": "2013-04-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

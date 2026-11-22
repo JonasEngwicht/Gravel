@@ -1,0 +1,35 @@
+{
+  "id": "in-muncie-arnolds-mulch-and-excavating",
+  "slug": "arnolds-mulch-and-excavating",
+  "name": "Arnolds Mulch and Excavating",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4605 Old State Rd 3",
+    "city": "Muncie",
+    "state": "IN",
+    "zip": "47303"
+  },
+  "location": {
+    "lat": 40.231339,
+    "lng": -85.368195
+  },
+  "contact": {
+    "phone": "(765) 749-2256"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa7b1f58-90b4-4ed8-8ccb-780ff76f253b",
+    "confidence": 0.87,
+    "merged_records": 1
+  }
+}

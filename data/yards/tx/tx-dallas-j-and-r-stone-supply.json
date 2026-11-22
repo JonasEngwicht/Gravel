@@ -1,0 +1,35 @@
+{
+  "id": "tx-dallas-j-and-r-stone-supply",
+  "slug": "j-and-r-stone-supply",
+  "name": "J&r Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2508 Forest Ln",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75234"
+  },
+  "location": {
+    "lat": 32.90712,
+    "lng": -96.893738
+  },
+  "contact": {
+    "phone": "(972) 241-3155"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a12f0030-c532-4170-ac29-e75e5b0eb420",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "la-baton-rouge-central-mulch-and-recycling",
+  "slug": "central-mulch-and-recycling",
+  "name": "Central Mulch & Recycling",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6855 Joor Rd",
+    "city": "Baton Rouge",
+    "state": "LA",
+    "zip": "70811"
+  },
+  "location": {
+    "lat": 30.511887,
+    "lng": -91.079071
+  },
+  "contact": {
+    "phone": "(225) 928-8373",
+    "website": "http://www.dennisstewarts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "132619fb-710f-4eea-b6a1-9f0cb3e69e1a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

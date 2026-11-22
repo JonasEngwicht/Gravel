@@ -1,0 +1,36 @@
+{
+  "id": "pa-quarryville-fishers-stone-yard",
+  "slug": "fishers-stone-yard",
+  "name": "Fishers Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "51 Furnace Rd",
+    "city": "Quarryville",
+    "state": "PA",
+    "zip": "17566"
+  },
+  "location": {
+    "lat": 39.935909,
+    "lng": -76.087097
+  },
+  "contact": {
+    "phone": "(717) 786-1133",
+    "website": "https://www.fishersstoneyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "762b9f1d-ccec-41a2-b492-d16a8c5fd675",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

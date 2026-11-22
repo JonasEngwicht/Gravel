@@ -1,0 +1,41 @@
+{
+  "id": "mi-marlette-thom-farms-karlstone",
+  "slug": "thom-farms-karlstone",
+  "name": "Thom Farms – Karlstone",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Marlette",
+    "state": "MI",
+    "zip": "48759"
+  },
+  "location": {
+    "lat": 43.741944,
+    "lng": -83.413056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003681"
+  },
+  "msha": [
+    {
+      "mine_id": "2003681",
+      "name": "Karlstone",
+      "operator": "Thom Farms Inc",
+      "status": "Intermittent",
+      "status_since": "2024-12-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

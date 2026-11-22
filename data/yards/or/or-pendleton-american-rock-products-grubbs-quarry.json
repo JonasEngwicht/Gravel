@@ -1,0 +1,41 @@
+{
+  "id": "or-pendleton-american-rock-products-grubbs-quarry",
+  "slug": "american-rock-products-grubbs-quarry",
+  "name": "American Rock Products – Grubbs Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pendleton",
+    "state": "OR",
+    "zip": "97801"
+  },
+  "location": {
+    "lat": 45.623333,
+    "lng": -118.6275
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503968"
+  },
+  "msha": [
+    {
+      "mine_id": "3503968",
+      "name": "Grubbs Quarry",
+      "operator": "American Rock Products",
+      "status": "Intermittent",
+      "status_since": "2025-01-29",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

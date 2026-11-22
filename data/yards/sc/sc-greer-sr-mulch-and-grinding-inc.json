@@ -1,0 +1,36 @@
+{
+  "id": "sc-greer-sr-mulch-and-grinding-inc",
+  "slug": "sr-mulch-and-grinding-inc",
+  "name": "SR Mulch & Grinding, Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1710 Hood Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29650"
+  },
+  "location": {
+    "lat": 34.928917,
+    "lng": -82.249222
+  },
+  "contact": {
+    "phone": "(864) 491-5239",
+    "website": "https://www.srmulchandgrinding.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c127fbe8-f92c-402d-bf3b-826734ee555e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

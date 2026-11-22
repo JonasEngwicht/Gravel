@@ -1,0 +1,36 @@
+{
+  "id": "pa-ross-twp-dragun-s-landscape-supply",
+  "slug": "dragun-s-landscape-supply",
+  "name": "Dragun's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4535 Peoples Rd",
+    "city": "Ross Twp",
+    "state": "PA",
+    "zip": "15237"
+  },
+  "location": {
+    "lat": 40.500893,
+    "lng": -80.004387
+  },
+  "contact": {
+    "phone": "(412) 939-3675",
+    "website": "http://www.draguns.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ca9f22e-e9db-4a35-8803-1f0d74ea859a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

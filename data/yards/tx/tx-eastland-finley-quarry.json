@@ -1,0 +1,41 @@
+{
+  "id": "tx-eastland-finley-quarry",
+  "slug": "finley-quarry",
+  "name": "Finley Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Eastland",
+    "state": "TX",
+    "zip": "76448"
+  },
+  "location": {
+    "lat": 32.382778,
+    "lng": -98.741944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105589"
+  },
+  "msha": [
+    {
+      "mine_id": "4105589",
+      "name": "Finley Quarry",
+      "operator": "BC Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2021-12-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

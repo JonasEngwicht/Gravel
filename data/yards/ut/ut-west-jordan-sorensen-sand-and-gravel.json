@@ -1,0 +1,36 @@
+{
+  "id": "ut-west-jordan-sorensen-sand-and-gravel",
+  "slug": "sorensen-sand-and-gravel",
+  "name": "Sorensen Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7382 W New Bingham Hwy",
+    "city": "West Jordan",
+    "state": "UT",
+    "zip": "84081"
+  },
+  "location": {
+    "lat": 40.57692,
+    "lng": -112.070732
+  },
+  "contact": {
+    "phone": "(801) 569-2327",
+    "website": "https://www.rockutah.com/index.php?route=common/home"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d59dd7ff-9434-4ea9-9ff5-2501f1217b90",
+    "confidence": 0.641,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-cashmere-curb-appeal-landscape-supply",
+  "slug": "curb-appeal-landscape-supply",
+  "name": "Curb Appeal Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4331 Eels Rd",
+    "city": "Cashmere",
+    "state": "WA",
+    "zip": "98815"
+  },
+  "location": {
+    "lat": 47.516788,
+    "lng": -120.449005
+  },
+  "contact": {
+    "phone": "(509) 881-4804",
+    "website": "http://www.curbappealcashmere.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19be1ed8-e1b8-4024-85c1-90cb41084482",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

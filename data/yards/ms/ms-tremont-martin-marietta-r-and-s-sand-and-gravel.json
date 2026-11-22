@@ -1,0 +1,49 @@
+{
+  "id": "ms-tremont-martin-marietta-r-and-s-sand-and-gravel",
+  "slug": "martin-marietta-r-and-s-sand-and-gravel",
+  "name": "Martin Marietta - R & S Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "2050 Cotton Gin Rd",
+    "city": "Tremont",
+    "state": "MS",
+    "zip": "38876"
+  },
+  "location": {
+    "lat": 34.266872,
+    "lng": -88.196793
+  },
+  "contact": {
+    "phone": "(662) 652-3836",
+    "website": "https://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "56edc98a-a4b2-46dd-9f80-36b62b58a930",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2200381",
+      "name": "R&S Sand & Gravel",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Abandoned",
+      "status_since": "2015-07-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

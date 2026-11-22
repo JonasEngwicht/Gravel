@@ -1,0 +1,36 @@
+{
+  "id": "ky-benton-butz-farms-gravel-and-soil",
+  "slug": "butz-farms-gravel-and-soil",
+  "name": "Butz Farms Gravel & Soil",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "Lents Cemetery Ln",
+    "city": "Benton",
+    "state": "KY",
+    "zip": "42025"
+  },
+  "location": {
+    "lat": 36.843559,
+    "lng": -88.329315
+  },
+  "contact": {
+    "phone": "(270) 210-7238",
+    "website": "http://www.butzpropertiesandconstruction.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da088dc7-343b-4979-955f-7c496f804b7d",
+    "confidence": 0.566,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "co-montrose-cooper-soils-and-landscaping-supplies",
+  "slug": "cooper-soils-and-landscaping-supplies",
+  "name": "Cooper Soils & Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3001 N Townsend Ave",
+    "city": "Montrose",
+    "state": "CO",
+    "zip": "81401"
+  },
+  "location": {
+    "lat": 38.50787,
+    "lng": -107.913124
+  },
+  "contact": {
+    "phone": "(970) 240-0123",
+    "website": "http://www.coopersoils.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fe4cc6c1-81f4-42c6-a201-7104c526e40d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

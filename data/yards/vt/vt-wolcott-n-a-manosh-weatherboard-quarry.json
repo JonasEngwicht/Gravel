@@ -1,0 +1,41 @@
+{
+  "id": "vt-wolcott-n-a-manosh-weatherboard-quarry",
+  "slug": "n-a-manosh-weatherboard-quarry",
+  "name": "N.A. Manosh – Weatherboard Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wolcott",
+    "state": "VT",
+    "zip": "05680"
+  },
+  "location": {
+    "lat": 44.531111,
+    "lng": -72.423889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300515"
+  },
+  "msha": [
+    {
+      "mine_id": "4300515",
+      "name": "Weatherboard Quarry",
+      "operator": "N.A. Manosh Inc",
+      "status": "Intermittent",
+      "status_since": "2019-05-14",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

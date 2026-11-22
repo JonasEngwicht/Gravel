@@ -1,0 +1,41 @@
+{
+  "id": "al-winfield-bunn-brothers-materials-marion-county-rock",
+  "slug": "bunn-brothers-materials-marion-county-rock",
+  "name": "Bunn Brothers Materials – Marion County Rock",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Winfield",
+    "state": "AL",
+    "zip": "35548"
+  },
+  "location": {
+    "lat": 33.999722,
+    "lng": -87.691389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0102372"
+  },
+  "msha": [
+    {
+      "mine_id": "0102372",
+      "name": "Marion County Rock",
+      "operator": "Bunn Brothers Materials Inc",
+      "status": "Active",
+      "status_since": "1998-06-02",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

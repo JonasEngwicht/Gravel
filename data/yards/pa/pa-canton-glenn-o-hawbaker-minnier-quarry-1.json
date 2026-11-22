@@ -1,0 +1,41 @@
+{
+  "id": "pa-canton-glenn-o-hawbaker-minnier-quarry-1",
+  "slug": "glenn-o-hawbaker-minnier-quarry-1",
+  "name": "Glenn O. Hawbaker – Minnier Quarry #1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Canton",
+    "state": "PA",
+    "zip": "17768"
+  },
+  "location": {
+    "lat": 41.531944,
+    "lng": -76.808056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609895"
+  },
+  "msha": [
+    {
+      "mine_id": "3609895",
+      "name": "Minnier Quarry #1",
+      "operator": "Glenn O. Hawbaker, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-04-21",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

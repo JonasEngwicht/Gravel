@@ -1,0 +1,35 @@
+{
+  "id": "tx-dallas-harless-sand-and-gravel",
+  "slug": "harless-sand-and-gravel",
+  "name": "Harless Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8635 Scyene Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75227"
+  },
+  "location": {
+    "lat": 32.763706,
+    "lng": -96.67318
+  },
+  "contact": {
+    "phone": "(214) 275-9134"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f00da477-2fd8-4cda-ba82-8d17895abb76",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

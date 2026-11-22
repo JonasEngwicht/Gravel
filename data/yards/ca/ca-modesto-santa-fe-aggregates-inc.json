@@ -1,0 +1,35 @@
+{
+  "id": "ca-modesto-santa-fe-aggregates-inc",
+  "slug": "santa-fe-aggregates-inc",
+  "name": "Santa Fe Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1620 N Carpenter Rd  Ste C19",
+    "city": "Modesto",
+    "state": "CA",
+    "zip": "95351"
+  },
+  "location": {
+    "lat": 37.660053,
+    "lng": -121.02977
+  },
+  "contact": {
+    "phone": "(209) 524-7321"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d40ad12-ed08-4dc9-920e-33b0061cd6ab",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

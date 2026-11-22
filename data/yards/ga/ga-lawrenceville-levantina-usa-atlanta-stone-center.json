@@ -1,0 +1,36 @@
+{
+  "id": "ga-lawrenceville-levantina-usa-atlanta-stone-center",
+  "slug": "levantina-usa-atlanta-stone-center",
+  "name": "Levantina USA Atlanta Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2499 Newpoint Pkwy",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30043"
+  },
+  "location": {
+    "lat": 33.974464,
+    "lng": -84.087341
+  },
+  "contact": {
+    "phone": "(678) 436-5439",
+    "website": "http://www.levantina.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9f63cf1-c009-4219-87a8-5acec0a89850",
+    "confidence": 0.926,
+    "merged_records": 1
+  }
+}

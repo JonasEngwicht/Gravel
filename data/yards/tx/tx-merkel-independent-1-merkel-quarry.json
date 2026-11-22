@@ -1,0 +1,41 @@
+{
+  "id": "tx-merkel-independent-1-merkel-quarry",
+  "slug": "independent-1-merkel-quarry",
+  "name": "Independent #1 - Merkel Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Merkel",
+    "state": "TX",
+    "zip": "79537"
+  },
+  "location": {
+    "lat": 32.333056,
+    "lng": -100.133056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105837"
+  },
+  "msha": [
+    {
+      "mine_id": "4105837",
+      "name": "Independent #1 - Merkel Quarry",
+      "operator": "Independent Aggregates LLC",
+      "status": "Intermittent",
+      "status_since": "2026-06-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

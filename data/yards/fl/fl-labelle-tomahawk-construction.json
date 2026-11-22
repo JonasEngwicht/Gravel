@@ -1,0 +1,41 @@
+{
+  "id": "fl-labelle-tomahawk-construction",
+  "slug": "tomahawk-construction",
+  "name": "Tomahawk Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Labelle",
+    "state": "FL",
+    "zip": "33935"
+  },
+  "location": {
+    "lat": 26.767839,
+    "lng": -81.420192
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801435"
+  },
+  "msha": [
+    {
+      "mine_id": "0801435",
+      "name": "Tomahawk 29 Mine",
+      "operator": "Tomahawk Construction LLC",
+      "status": "Active",
+      "status_since": "2022-11-15",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "va-lynchburg-jmj-landscape-supply-center",
+  "slug": "jmj-landscape-supply-center",
+  "name": "JMJ Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14719 Wards Rd",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24502"
+  },
+  "location": {
+    "lat": 37.329933,
+    "lng": -79.190285
+  },
+  "contact": {
+    "phone": "(434) 239-5311",
+    "website": "http://jmjcompanies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c602f63-9c9c-42c4-965c-ba2da6fc0a06",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

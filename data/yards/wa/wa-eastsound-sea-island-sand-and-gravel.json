@@ -1,0 +1,47 @@
+{
+  "id": "wa-eastsound-sea-island-sand-and-gravel",
+  "slug": "sea-island-sand-and-gravel",
+  "name": "Sea Island Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "340 Gravel Pit Rd  # 340",
+    "city": "Eastsound",
+    "state": "WA",
+    "zip": "98245"
+  },
+  "location": {
+    "lat": 48.665165,
+    "lng": -122.936249
+  },
+  "contact": {
+    "phone": "(360) 376-4215"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa4dc367-d979-4ae2-af33-a1be9c2da8e0",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503250",
+      "name": "Sea Island Quarry",
+      "operator": "Sea Island Corp",
+      "status": "Active",
+      "status_since": "2003-06-05",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

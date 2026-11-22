@@ -1,0 +1,41 @@
+{
+  "id": "fl-high-springs-arcosa-aggregates-gulf-coast-1416-high-springs",
+  "slug": "arcosa-aggregates-gulf-coast-1416-high-springs",
+  "name": "Arcosa Aggregates Gulf Coast – 1416 High Springs",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "High Springs",
+    "state": "FL",
+    "zip": "32615"
+  },
+  "location": {
+    "lat": 29.857778,
+    "lng": -82.555556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0800001"
+  },
+  "msha": [
+    {
+      "mine_id": "0800001",
+      "name": "1416 High Springs",
+      "operator": "Arcosa Aggregates Gulf Coast, LLC",
+      "status": "Intermittent",
+      "status_since": "2024-01-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

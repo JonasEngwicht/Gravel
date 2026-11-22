@@ -1,0 +1,37 @@
+{
+  "id": "ca-oxnard-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "260 Lambert St Ste G",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93036"
+  },
+  "location": {
+    "lat": 34.254215,
+    "lng": -119.15976
+  },
+  "contact": {
+    "phone": "(805) 278-4556",
+    "website": "https://www.siteone.com/store/274"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c273fc9e-e40d-44e9-a8f2-a04ee309e152",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-simi-valley-ramco-recycled-aggregate-materials-company",
+  "slug": "ramco-recycled-aggregate-materials-company",
+  "name": "RAMCO (Recycled Aggregate Materials Company)",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2655 1st St Ste 210",
+    "city": "Simi Valley",
+    "state": "CA",
+    "zip": "93065"
+  },
+  "location": {
+    "lat": 34.283989,
+    "lng": -118.778976
+  },
+  "contact": {
+    "phone": "(805) 522-1646",
+    "website": "https://www.ramco.us.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "99302f04-7a56-43e4-84cb-cdb861781462",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

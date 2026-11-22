@@ -1,0 +1,36 @@
+{
+  "id": "tx-fort-worth-crouch-sand-and-gravel-inc",
+  "slug": "crouch-sand-and-gravel-inc",
+  "name": "Crouch Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4365 Dick Price Rd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76140"
+  },
+  "location": {
+    "lat": 32.626492,
+    "lng": -97.229851
+  },
+  "contact": {
+    "phone": "(972) 986-7951",
+    "website": "https://crouchsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2feb08f4-bdae-49ce-929b-d4f2ffc80d6d",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

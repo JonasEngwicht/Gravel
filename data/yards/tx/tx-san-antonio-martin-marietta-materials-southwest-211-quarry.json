@@ -1,0 +1,41 @@
+{
+  "id": "tx-san-antonio-martin-marietta-materials-southwest-211-quarry",
+  "slug": "martin-marietta-materials-southwest-211-quarry",
+  "name": "Martin Marietta Materials Southwest – 211 Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78254"
+  },
+  "location": {
+    "lat": 29.555,
+    "lng": -98.801944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103829"
+  },
+  "msha": [
+    {
+      "mine_id": "4103829",
+      "name": "211 Quarry",
+      "operator": "Martin Marietta Materials Southwest LLC",
+      "status": "Active",
+      "status_since": "2014-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

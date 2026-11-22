@@ -1,0 +1,35 @@
+{
+  "id": "al-butler-buddy-s-sand-and-gravel",
+  "slug": "buddy-s-sand-and-gravel",
+  "name": "Buddy's Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1349 AL-114",
+    "city": "Butler",
+    "state": "AL",
+    "zip": "36904"
+  },
+  "location": {
+    "lat": 32.151249,
+    "lng": -88.080864
+  },
+  "contact": {
+    "phone": "(205) 654-2592"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cea70e77-267e-4545-b1b2-a3a26498ec06",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

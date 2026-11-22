@@ -1,0 +1,41 @@
+{
+  "id": "ga-talking-rock-imerys-carbonates-usa-whitestone-mine-4",
+  "slug": "imerys-carbonates-usa-whitestone-mine-4",
+  "name": "Imerys Carbonates USA – Whitestone Mine #4",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Talking Rock",
+    "state": "GA",
+    "zip": "30175"
+  },
+  "location": {
+    "lat": 34.509167,
+    "lng": -84.505
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900047"
+  },
+  "msha": [
+    {
+      "mine_id": "0900047",
+      "name": "Whitestone Mine #4",
+      "operator": "Imerys Carbonates USA, Inc",
+      "status": "Active",
+      "status_since": "1978-03-23",
+      "commodity": "Crushed, Broken Marble",
+      "match": "source",
+      "employees": 55
+    }
+  ]
+}

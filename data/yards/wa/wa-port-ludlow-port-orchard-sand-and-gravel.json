@@ -1,0 +1,35 @@
+{
+  "id": "wa-port-ludlow-port-orchard-sand-and-gravel",
+  "slug": "port-orchard-sand-and-gravel",
+  "name": "Port Orchard Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9868 State Route 104",
+    "city": "Port Ludlow",
+    "state": "WA",
+    "zip": "98365"
+  },
+  "location": {
+    "lat": 47.877663,
+    "lng": -122.711914
+  },
+  "contact": {
+    "phone": "(360) 681-2526"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5009fa1-3cd7-421c-bf29-54b1f5203c82",
+    "confidence": 0.889,
+    "merged_records": 1
+  }
+}

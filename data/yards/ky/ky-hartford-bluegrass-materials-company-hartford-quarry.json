@@ -1,0 +1,41 @@
+{
+  "id": "ky-hartford-bluegrass-materials-company-hartford-quarry",
+  "slug": "bluegrass-materials-company-hartford-quarry",
+  "name": "Bluegrass Materials Company – Hartford Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hartford",
+    "state": "KY",
+    "zip": "42338"
+  },
+  "location": {
+    "lat": 37.531944,
+    "lng": -86.792778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500095"
+  },
+  "msha": [
+    {
+      "mine_id": "1500095",
+      "name": "Hartford Quarry",
+      "operator": "Bluegrass Materials Company, LLC",
+      "status": "Active",
+      "status_since": "2021-04-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

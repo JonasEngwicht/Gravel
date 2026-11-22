@@ -1,0 +1,41 @@
+{
+  "id": "wv-albert-fairfax-materials-metso-screener-st-2-8",
+  "slug": "fairfax-materials-metso-screener-st-2-8",
+  "name": "Fairfax Materials – Metso Screener ST 2.8",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Albert",
+    "state": "WV",
+    "zip": "26818"
+  },
+  "location": {
+    "lat": 39.092222,
+    "lng": -79.0625
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4609594"
+  },
+  "msha": [
+    {
+      "mine_id": "4609594",
+      "name": "Metso Screener ST 2.8",
+      "operator": "Fairfax Materials Inc.",
+      "status": "Active",
+      "status_since": "2024-09-23",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

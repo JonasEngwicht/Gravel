@@ -1,0 +1,36 @@
+{
+  "id": "sc-north-charleston-markham-landscape-products-inc",
+  "slug": "markham-landscape-products-inc",
+  "name": "Markham Landscape Products, Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4963 Banco Rd",
+    "city": "North Charleston",
+    "state": "SC",
+    "zip": "29418"
+  },
+  "location": {
+    "lat": 32.862869,
+    "lng": -80.01284
+  },
+  "contact": {
+    "phone": "(843) 625-6675",
+    "website": "http://www.markhamlandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ed0905a-008d-4376-8e60-c7d74060cfcf",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

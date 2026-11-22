@@ -1,0 +1,36 @@
+{
+  "id": "id-caldwell-rambo-sand-and-gravel",
+  "slug": "rambo-sand-and-gravel",
+  "name": "Rambo Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15245 Highway 20/26",
+    "city": "Caldwell",
+    "state": "ID",
+    "zip": "83607"
+  },
+  "location": {
+    "lat": 43.690392,
+    "lng": -116.696243
+  },
+  "contact": {
+    "phone": "(208) 455-4242",
+    "website": "http://www.rambosand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "142455d9-a85a-487c-813b-9338710f3ebc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

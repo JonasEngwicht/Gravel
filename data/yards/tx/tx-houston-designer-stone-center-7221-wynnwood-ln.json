@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-designer-stone-center-7221-wynnwood-ln",
+  "slug": "designer-stone-center-7221-wynnwood-ln",
+  "name": "Designer Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7221 Wynnwood Ln",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77008"
+  },
+  "location": {
+    "lat": 29.793089,
+    "lng": -95.445671
+  },
+  "contact": {
+    "phone": "(713) 862-5439",
+    "website": "https://designerstonecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "508bc003-18e6-422e-a82b-b45316c05f85",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

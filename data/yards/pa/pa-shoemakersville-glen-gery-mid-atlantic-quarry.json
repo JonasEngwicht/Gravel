@@ -1,0 +1,41 @@
+{
+  "id": "pa-shoemakersville-glen-gery-mid-atlantic-quarry",
+  "slug": "glen-gery-mid-atlantic-quarry",
+  "name": "Glen-Gery – Mid-Atlantic Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Shoemakersville",
+    "state": "PA",
+    "zip": "19555"
+  },
+  "location": {
+    "lat": 40.486111,
+    "lng": -75.964444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3604254"
+  },
+  "msha": [
+    {
+      "mine_id": "3604254",
+      "name": "Mid-Atlantic Quarry",
+      "operator": "Glen-Gery Corporation",
+      "status": "Active",
+      "status_since": "2023-10-02",
+      "commodity": "Crushed, Broken Slate",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

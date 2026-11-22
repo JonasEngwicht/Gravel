@@ -1,0 +1,41 @@
+{
+  "id": "va-stuarts-draft-d-m-conner",
+  "slug": "d-m-conner",
+  "name": "D M Conner",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Stuarts Draft",
+    "state": "VA",
+    "zip": "24477"
+  },
+  "location": {
+    "lat": 38.003611,
+    "lng": -79.026389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4402385"
+  },
+  "msha": [
+    {
+      "mine_id": "4402385",
+      "name": "D M Conner Sand Co",
+      "operator": "D M Conner Inc",
+      "status": "Active",
+      "status_since": "2010-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

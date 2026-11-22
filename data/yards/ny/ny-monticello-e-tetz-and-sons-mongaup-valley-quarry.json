@@ -1,0 +1,41 @@
+{
+  "id": "ny-monticello-e-tetz-and-sons-mongaup-valley-quarry",
+  "slug": "e-tetz-and-sons-mongaup-valley-quarry",
+  "name": "E Tetz & Sons – Mongaup Valley Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Monticello",
+    "state": "NY",
+    "zip": "12762"
+  },
+  "location": {
+    "lat": 41.666667,
+    "lng": -74.768611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001287"
+  },
+  "msha": [
+    {
+      "mine_id": "3001287",
+      "name": "Mongaup Valley Quarry",
+      "operator": "E Tetz & Sons LLC",
+      "status": "Active",
+      "status_since": "2002-10-31",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

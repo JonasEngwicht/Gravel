@@ -1,0 +1,36 @@
+{
+  "id": "ca-irwindale-aggregate-equipment-sales",
+  "slug": "aggregate-equipment-sales",
+  "name": "Aggregate Equipment Sales",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12823 Schabarum Ave",
+    "city": "Irwindale",
+    "state": "CA",
+    "zip": "91706"
+  },
+  "location": {
+    "lat": 34.080917,
+    "lng": -117.993286
+  },
+  "contact": {
+    "phone": "(866) 755-5650",
+    "website": "https://www.aggequipment.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf0460be-bf28-4a79-8504-4e847adde9cf",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "al-mt-hope-srm-mt-hope-quarry",
+  "slug": "srm-mt-hope-quarry",
+  "name": "SRM Mt Hope Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mt. Hope",
+    "state": "AL",
+    "zip": "35651"
+  },
+  "location": {
+    "lat": 34.521389,
+    "lng": -87.523056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103096"
+  },
+  "msha": [
+    {
+      "mine_id": "0103096",
+      "name": "SRM Mt Hope Quarry",
+      "operator": "SRM Materials, LLC",
+      "status": "Active",
+      "status_since": "2009-12-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

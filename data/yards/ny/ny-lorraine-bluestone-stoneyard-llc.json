@@ -1,0 +1,35 @@
+{
+  "id": "ny-lorraine-bluestone-stoneyard-llc",
+  "slug": "bluestone-stoneyard-llc",
+  "name": "Bluestone Stoneyard LLC",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "8784 County Rd 97",
+    "city": "Lorraine",
+    "state": "NY",
+    "zip": "13605"
+  },
+  "location": {
+    "lat": 43.795345,
+    "lng": -75.949753
+  },
+  "contact": {
+    "phone": "(315) 232-4423"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1544ca3d-80b2-436a-be9f-713edf03f7c9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

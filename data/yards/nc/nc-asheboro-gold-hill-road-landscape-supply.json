@@ -1,0 +1,36 @@
+{
+  "id": "nc-asheboro-gold-hill-road-landscape-supply",
+  "slug": "gold-hill-road-landscape-supply",
+  "name": "Gold Hill Road Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "385 Gold Hill Rd",
+    "city": "Asheboro",
+    "state": "NC",
+    "zip": "27203"
+  },
+  "location": {
+    "lat": 35.718971,
+    "lng": -79.790894
+  },
+  "contact": {
+    "phone": "(336) 629-7175",
+    "website": "http://www.goldhillroad.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "43f7a116-3bd9-47ce-b3b6-bb43cf88387b",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

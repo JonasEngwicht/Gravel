@@ -1,0 +1,37 @@
+{
+  "id": "tx-hewitt-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "400 Barbara Jean St",
+    "city": "Hewitt",
+    "state": "TX",
+    "zip": "76643"
+  },
+  "location": {
+    "lat": 31.472031,
+    "lng": -97.196701
+  },
+  "contact": {
+    "phone": "(254) 666-7667",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "171374a2-5616-4aa4-a07d-48553b077a7a",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

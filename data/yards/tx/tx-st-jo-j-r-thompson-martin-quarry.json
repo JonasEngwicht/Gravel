@@ -1,0 +1,41 @@
+{
+  "id": "tx-st-jo-j-r-thompson-martin-quarry",
+  "slug": "j-r-thompson-martin-quarry",
+  "name": "J R Thompson – Martin Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "St. Jo",
+    "state": "TX",
+    "zip": "76265"
+  },
+  "location": {
+    "lat": 33.685278,
+    "lng": -97.574722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103014"
+  },
+  "msha": [
+    {
+      "mine_id": "4103014",
+      "name": "Martin Quarry",
+      "operator": "J R Thompson Inc",
+      "status": "Active",
+      "status_since": "1986-09-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

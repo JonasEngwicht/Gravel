@@ -1,0 +1,35 @@
+{
+  "id": "wa-usk-loon-lake-sand-and-gravel",
+  "slug": "loon-lake-sand-and-gravel",
+  "name": "Loon Lake Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "22 Triangle Rd",
+    "city": "Usk",
+    "state": "WA",
+    "zip": "99180"
+  },
+  "location": {
+    "lat": 48.307255,
+    "lng": -117.283989
+  },
+  "contact": {
+    "phone": "(509) 445-0966"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59bc95e9-a238-42f5-9a64-fd5f605d1ec0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

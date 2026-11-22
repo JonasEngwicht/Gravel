@@ -1,0 +1,35 @@
+{
+  "id": "nc-kernersville-b-and-b-landscape-supplies",
+  "slug": "b-and-b-landscape-supplies",
+  "name": "B&b Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "500 Cinema Dr",
+    "city": "Kernersville",
+    "state": "NC",
+    "zip": "27284"
+  },
+  "location": {
+    "lat": 36.129913,
+    "lng": -80.06337
+  },
+  "contact": {
+    "phone": "(336) 992-9204"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf45d754-ebb8-4db4-a3cd-2267a3e3a70e",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

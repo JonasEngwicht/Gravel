@@ -1,0 +1,48 @@
+{
+  "id": "nj-phillipsburg-riverline-aggregates-llc",
+  "slug": "riverline-aggregates-llc",
+  "name": "Riverline Aggregates, Llc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "454 River Rd",
+    "city": "Phillipsburg",
+    "state": "NJ",
+    "zip": "08865"
+  },
+  "location": {
+    "lat": 40.646214,
+    "lng": -75.191429
+  },
+  "contact": {
+    "phone": "(908) 454-4412",
+    "website": "http://rlagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc49106f-526a-4865-be76-94a01ed1d024",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2800469",
+      "name": "Riverline Aggregates",
+      "operator": "Riverline Aggregates LLC",
+      "status": "Active",
+      "status_since": "2014-02-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

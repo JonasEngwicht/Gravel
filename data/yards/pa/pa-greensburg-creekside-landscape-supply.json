@@ -1,0 +1,36 @@
+{
+  "id": "pa-greensburg-creekside-landscape-supply",
+  "slug": "creekside-landscape-supply",
+  "name": "Creekside Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "777 S Main St",
+    "city": "Greensburg",
+    "state": "PA",
+    "zip": "15601"
+  },
+  "location": {
+    "lat": 40.292107,
+    "lng": -79.543961
+  },
+  "contact": {
+    "phone": "(724) 834-2929",
+    "website": "http://creeksidelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c835520e-df4a-476d-a9cc-095461e05d5d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

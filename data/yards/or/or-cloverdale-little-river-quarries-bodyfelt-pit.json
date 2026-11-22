@@ -1,0 +1,41 @@
+{
+  "id": "or-cloverdale-little-river-quarries-bodyfelt-pit",
+  "slug": "little-river-quarries-bodyfelt-pit",
+  "name": "Little River Quarries – Bodyfelt Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cloverdale",
+    "state": "OR",
+    "zip": "97149"
+  },
+  "location": {
+    "lat": 45.141389,
+    "lng": -123.905
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503824"
+  },
+  "msha": [
+    {
+      "mine_id": "3503824",
+      "name": "Bodyfelt Pit",
+      "operator": "Little River Quarries LLC",
+      "status": "Intermittent",
+      "status_since": "2018-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

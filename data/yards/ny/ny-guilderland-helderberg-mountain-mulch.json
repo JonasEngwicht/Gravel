@@ -1,0 +1,36 @@
+{
+  "id": "ny-guilderland-helderberg-mountain-mulch",
+  "slug": "helderberg-mountain-mulch",
+  "name": "Helderberg Mountain Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4555 Western Turnpike",
+    "city": "Guilderland",
+    "state": "NY",
+    "zip": "12009"
+  },
+  "location": {
+    "lat": 42.733086,
+    "lng": -73.978271
+  },
+  "contact": {
+    "phone": "(518) 355-3200",
+    "website": "http://www.helderbergmountain.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f334f5b-e13e-4d5b-a206-5066cbb34e0a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

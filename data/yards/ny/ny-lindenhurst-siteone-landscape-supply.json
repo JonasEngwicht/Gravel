@@ -1,0 +1,37 @@
+{
+  "id": "ny-lindenhurst-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "80 E Gates Ave",
+    "city": "Lindenhurst",
+    "state": "NY",
+    "zip": "11757"
+  },
+  "location": {
+    "lat": 40.686043,
+    "lng": -73.367989
+  },
+  "contact": {
+    "phone": "(631) 789-6680",
+    "website": "https://www.siteone.com/en/store/433"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06e992fd-5644-40b1-9147-8e0fabcce574",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

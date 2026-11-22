@@ -1,0 +1,41 @@
+{
+  "id": "wv-morgantown-decker-s-creek-limestone",
+  "slug": "decker-s-creek-limestone",
+  "name": "Decker's Creek Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Morgantown",
+    "state": "WV",
+    "zip": "26508"
+  },
+  "location": {
+    "lat": 39.5775,
+    "lng": -79.860278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4600029"
+  },
+  "msha": [
+    {
+      "mine_id": "4600029",
+      "name": "Decker's Creek Limestone Company",
+      "operator": "Decker's Creek Limestone Company",
+      "status": "Active",
+      "status_since": "1996-08-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 39
+    }
+  ]
+}

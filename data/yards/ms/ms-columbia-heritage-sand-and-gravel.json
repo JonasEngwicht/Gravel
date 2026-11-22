@@ -1,0 +1,41 @@
+{
+  "id": "ms-columbia-heritage-sand-and-gravel",
+  "slug": "heritage-sand-and-gravel",
+  "name": "Heritage Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Columbia",
+    "state": "MS",
+    "zip": "39478"
+  },
+  "location": {
+    "lat": 31.125,
+    "lng": -89.775
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200837"
+  },
+  "msha": [
+    {
+      "mine_id": "2200837",
+      "name": "Heritage Sand and Gravel LLC",
+      "operator": "Heritage Sand and Gravel LLC",
+      "status": "Active",
+      "status_since": "2021-06-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

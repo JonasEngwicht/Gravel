@@ -1,0 +1,36 @@
+{
+  "id": "wa-buckley-burbank-construction-and-landscape-supplies",
+  "slug": "burbank-construction-and-landscape-supplies",
+  "name": "Burbank Construction & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "26120 Entwhistle Rd E",
+    "city": "Buckley",
+    "state": "WA",
+    "zip": "98321"
+  },
+  "location": {
+    "lat": 47.163017,
+    "lng": -122.080788
+  },
+  "contact": {
+    "phone": "(253) 350-0187",
+    "website": "https://www.burbankconstructionllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90026e90-371b-4fe6-92a8-e208d30612f4",
+    "confidence": 0.857,
+    "merged_records": 1
+  }
+}

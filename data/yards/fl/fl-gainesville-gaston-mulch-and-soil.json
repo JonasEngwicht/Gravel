@@ -1,0 +1,36 @@
+{
+  "id": "fl-gainesville-gaston-mulch-and-soil",
+  "slug": "gaston-mulch-and-soil",
+  "name": "Gaston Mulch & Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9333 NW 13th St",
+    "city": "Gainesville",
+    "state": "FL",
+    "zip": "32653"
+  },
+  "location": {
+    "lat": 29.739456,
+    "lng": -82.38253
+  },
+  "contact": {
+    "phone": "(352) 372-9965",
+    "website": "https://www.gastonmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d14c9bf6-0cad-4a66-9e40-716fbc5dc763",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

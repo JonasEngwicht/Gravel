@@ -1,0 +1,41 @@
+{
+  "id": "oh-circleville-melvin-stone-company-circleville",
+  "slug": "melvin-stone-company-circleville",
+  "name": "Melvin Stone Company – Circleville",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Circleville",
+    "state": "OH",
+    "zip": "43113"
+  },
+  "location": {
+    "lat": 39.580833,
+    "lng": -82.976111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304329"
+  },
+  "msha": [
+    {
+      "mine_id": "3304329",
+      "name": "Circleville",
+      "operator": "Melvin Stone Company LLC",
+      "status": "Active",
+      "status_since": "2014-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

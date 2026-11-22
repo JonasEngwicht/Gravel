@@ -1,0 +1,41 @@
+{
+  "id": "in-waverly-beaver-gravel",
+  "slug": "beaver-gravel",
+  "name": "Beaver Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Waverly",
+    "state": "IN",
+    "zip": "46106"
+  },
+  "location": {
+    "lat": 39.5675,
+    "lng": -86.263611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200768"
+  },
+  "msha": [
+    {
+      "mine_id": "1200768",
+      "name": "Beaver Materials",
+      "operator": "Beaver Gravel Corporation",
+      "status": "Active",
+      "status_since": "2011-12-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

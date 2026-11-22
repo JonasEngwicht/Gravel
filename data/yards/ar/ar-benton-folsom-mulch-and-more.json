@@ -1,0 +1,35 @@
+{
+  "id": "ar-benton-folsom-mulch-and-more",
+  "slug": "folsom-mulch-and-more",
+  "name": "Folsom Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1810 Thomas Rd Suite C",
+    "city": "Benton",
+    "state": "AR",
+    "zip": "72019"
+  },
+  "location": {
+    "lat": 34.590416,
+    "lng": -92.564796
+  },
+  "contact": {
+    "phone": "(501) 650-3478"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bfb3dbd8-7bc9-43e7-9175-e24f33ac9538",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

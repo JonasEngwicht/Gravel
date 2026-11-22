@@ -1,0 +1,35 @@
+{
+  "id": "ct-ledyard-reays-mulch-and-moore",
+  "slug": "reays-mulch-and-moore",
+  "name": "Reays Mulch and Moore",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "22 Willow Ln",
+    "city": "Ledyard",
+    "state": "CT",
+    "zip": "06339"
+  },
+  "location": {
+    "lat": 41.477268,
+    "lng": -72.046127
+  },
+  "contact": {
+    "phone": "(860) 245-5526"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59174e9a-5f50-4814-be66-bdc8fd29f3f8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

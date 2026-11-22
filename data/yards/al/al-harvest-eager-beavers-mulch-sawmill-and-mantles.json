@@ -1,0 +1,36 @@
+{
+  "id": "al-harvest-eager-beavers-mulch-sawmill-and-mantles",
+  "slug": "eager-beavers-mulch-sawmill-and-mantles",
+  "name": "Eager Beavers Mulch Sawmill & Mantles",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13917 Dupree Worthey Rd",
+    "city": "Harvest",
+    "state": "AL",
+    "zip": "35749"
+  },
+  "location": {
+    "lat": 34.758759,
+    "lng": -86.798485
+  },
+  "contact": {
+    "phone": "(256) 759-0346",
+    "website": "http://www.eagerbeaverssawmill.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c83a7e2-0b8d-40a4-9aaf-086f5e52237f",
+    "confidence": 0.937,
+    "merged_records": 2
+  }
+}

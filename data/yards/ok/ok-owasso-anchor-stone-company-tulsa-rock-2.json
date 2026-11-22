@@ -1,0 +1,41 @@
+{
+  "id": "ok-owasso-anchor-stone-company-tulsa-rock-2",
+  "slug": "anchor-stone-company-tulsa-rock-2",
+  "name": "Anchor Stone Company-Tulsa Rock #2",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Owasso",
+    "state": "OK",
+    "zip": "74055"
+  },
+  "location": {
+    "lat": 36.249444,
+    "lng": -95.815278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401093"
+  },
+  "msha": [
+    {
+      "mine_id": "3401093",
+      "name": "Anchor Stone Company-Tulsa Rock #2",
+      "operator": "Anchor Stone Company",
+      "status": "Active",
+      "status_since": "2004-03-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 41
+    }
+  ]
+}

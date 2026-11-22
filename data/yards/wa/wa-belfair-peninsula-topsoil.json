@@ -1,0 +1,36 @@
+{
+  "id": "wa-belfair-peninsula-topsoil",
+  "slug": "peninsula-topsoil",
+  "name": "Peninsula Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "500 NE Timberline Dr",
+    "city": "Belfair",
+    "state": "WA",
+    "zip": "98528"
+  },
+  "location": {
+    "lat": 47.466011,
+    "lng": -122.835892
+  },
+  "contact": {
+    "phone": "(360) 275-1007",
+    "website": "http://www.peninsulatopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d952b634-a611-4544-8c04-0c05931017b9",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

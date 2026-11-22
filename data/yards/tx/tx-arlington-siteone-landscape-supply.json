@@ -1,0 +1,37 @@
+{
+  "id": "tx-arlington-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "811 W Harris Rd",
+    "city": "Arlington",
+    "state": "TX",
+    "zip": "76001"
+  },
+  "location": {
+    "lat": 32.62775,
+    "lng": -97.121147
+  },
+  "contact": {
+    "phone": "(817) 557-9732",
+    "website": "https://www.siteone.com/en/store/220"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d45d2d3-1df1-4456-b75c-3d8de0debbe1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

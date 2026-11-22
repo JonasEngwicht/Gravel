@@ -1,0 +1,36 @@
+{
+  "id": "va-toano-peninsula-hardwood-mulch",
+  "slug": "peninsula-hardwood-mulch",
+  "name": "Peninsula Hardwood Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7800A Richmond Rd",
+    "city": "Toano",
+    "state": "VA",
+    "zip": "23168"
+  },
+  "location": {
+    "lat": 37.377949,
+    "lng": -76.798737
+  },
+  "contact": {
+    "phone": "(757) 566-1699",
+    "website": "https://www.peninsulahardwoodmulchinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c33764c0-cc98-4c61-b016-d591e804f71c",
+    "confidence": 0.949,
+    "merged_records": 2
+  }
+}

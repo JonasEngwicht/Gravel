@@ -1,0 +1,36 @@
+{
+  "id": "tx-sanger-denton-sand-and-gravel",
+  "slug": "denton-sand-and-gravel",
+  "name": "Denton Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10531 FM 2450",
+    "city": "Sanger",
+    "state": "TX",
+    "zip": "76266"
+  },
+  "location": {
+    "lat": 33.356407,
+    "lng": -97.243996
+  },
+  "contact": {
+    "phone": "(940) 566-4664",
+    "website": "http://www.dentonsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cbffa317-82df-417d-a539-67ce58b5ec21",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

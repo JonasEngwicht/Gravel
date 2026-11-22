@@ -1,0 +1,41 @@
+{
+  "id": "mo-hunter-indian-creek-materials-hunter-quarry",
+  "slug": "indian-creek-materials-hunter-quarry",
+  "name": "Indian Creek Materials – Hunter Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hunter",
+    "state": "MO",
+    "zip": "63937"
+  },
+  "location": {
+    "lat": 36.934167,
+    "lng": -90.746667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302376"
+  },
+  "msha": [
+    {
+      "mine_id": "2302376",
+      "name": "Hunter Quarry",
+      "operator": "Indian Creek Materials LLC",
+      "status": "Active",
+      "status_since": "2010-04-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

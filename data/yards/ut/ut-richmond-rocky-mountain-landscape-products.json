@@ -1,0 +1,36 @@
+{
+  "id": "ut-richmond-rocky-mountain-landscape-products",
+  "slug": "rocky-mountain-landscape-products",
+  "name": "Rocky Mountain Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "70 S 200 W",
+    "city": "Richmond",
+    "state": "UT",
+    "zip": "84333"
+  },
+  "location": {
+    "lat": 41.921276,
+    "lng": -111.81459
+  },
+  "contact": {
+    "phone": "(435) 512-2795",
+    "website": "https://rockymountainlandscapeproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "682a866f-29d1-413d-b26e-0346f67940d6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

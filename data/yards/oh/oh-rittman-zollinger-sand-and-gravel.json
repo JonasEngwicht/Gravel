@@ -1,0 +1,36 @@
+{
+  "id": "oh-rittman-zollinger-sand-and-gravel",
+  "slug": "zollinger-sand-and-gravel",
+  "name": "Zollinger Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11687 Wadsworth Rd",
+    "city": "Rittman",
+    "state": "OH",
+    "zip": "44270"
+  },
+  "location": {
+    "lat": 40.941483,
+    "lng": -81.761772
+  },
+  "contact": {
+    "phone": "(330) 855-2464",
+    "website": "http://www.zollingersandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a8640071-8cdf-4704-bba8-da9a41ee97e0",
+    "confidence": 0.95,
+    "merged_records": 2
+  }
+}

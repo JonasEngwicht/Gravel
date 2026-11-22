@@ -1,0 +1,47 @@
+{
+  "id": "or-brownsville-northern-rock-supply-llc",
+  "slug": "northern-rock-supply-llc",
+  "name": "Northern Rock Supply LLC",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "37355 Northern Dr",
+    "city": "Brownsville",
+    "state": "OR",
+    "zip": "97327"
+  },
+  "location": {
+    "lat": 44.384163,
+    "lng": -122.897041
+  },
+  "contact": {
+    "phone": "(541) 974-3277"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d73b0cc-a218-477d-acca-92576464760a",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3503863",
+      "name": "Northern Rock Supply",
+      "operator": "Northern Rock Supply",
+      "status": "Intermittent",
+      "status_since": "2018-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

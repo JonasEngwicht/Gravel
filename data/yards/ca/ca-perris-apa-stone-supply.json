@@ -1,0 +1,36 @@
+{
+  "id": "ca-perris-apa-stone-supply",
+  "slug": "apa-stone-supply",
+  "name": "Apa Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1980 Goetz Rd",
+    "city": "Perris",
+    "state": "CA",
+    "zip": "92570"
+  },
+  "location": {
+    "lat": 33.765041,
+    "lng": -117.224693
+  },
+  "contact": {
+    "phone": "(951) 550-5838",
+    "website": "http://www.apastonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1727f289-b562-42c5-bf9b-e57f05541d51",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "in-russiaville-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3891 S County Road 500 W",
+    "city": "Russiaville",
+    "state": "IN",
+    "zip": "46979"
+  },
+  "location": {
+    "lat": 40.421299,
+    "lng": -86.224724
+  },
+  "contact": {
+    "phone": "(765) 883-8172",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf693a2b-5e6a-460b-a1cd-9672377ce92d",
+    "confidence": 0.91,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202203",
+      "name": "Kokomo Sand",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Abandoned",
+      "status_since": "2026-03-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

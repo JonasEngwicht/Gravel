@@ -1,0 +1,36 @@
+{
+  "id": "mn-pipestone-double-d-gravel-inc",
+  "slug": "double-d-gravel-inc",
+  "name": "Double D Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "611 4th St NE",
+    "city": "Pipestone",
+    "state": "MN",
+    "zip": "56164"
+  },
+  "location": {
+    "lat": 44.003937,
+    "lng": -96.30941
+  },
+  "contact": {
+    "phone": "(507) 825-5552",
+    "website": "https://doubledgravelinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8febb8da-af2f-4885-93e0-70b08ee9b01b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-valley-view-carroll-s-sand-and-gravel",
+  "slug": "carroll-s-sand-and-gravel",
+  "name": "Carroll's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4306 E Lone Oak Rd",
+    "city": "Valley View",
+    "state": "TX",
+    "zip": "76272"
+  },
+  "location": {
+    "lat": 33.43158,
+    "lng": -97.091125
+  },
+  "contact": {
+    "phone": "(972) 977-8032",
+    "website": "http://carrollssandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4890e13f-af5c-4b5c-aab2-d5cd4e0c9f0f",
+    "confidence": 0.947,
+    "merged_records": 1
+  }
+}

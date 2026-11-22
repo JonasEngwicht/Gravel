@@ -1,0 +1,41 @@
+{
+  "id": "ky-louisville-rogers-group-jefferson-county-stone",
+  "slug": "rogers-group-jefferson-county-stone",
+  "name": "Rogers Group – Jefferson County Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40223"
+  },
+  "location": {
+    "lat": 38.268611,
+    "lng": -85.504167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1518157"
+  },
+  "msha": [
+    {
+      "mine_id": "1518157",
+      "name": "Jefferson County Stone",
+      "operator": "Rogers Group Inc",
+      "status": "Active",
+      "status_since": "2001-10-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 60
+    }
+  ]
+}

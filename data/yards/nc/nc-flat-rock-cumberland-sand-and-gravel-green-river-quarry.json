@@ -1,0 +1,41 @@
+{
+  "id": "nc-flat-rock-cumberland-sand-and-gravel-green-river-quarry",
+  "slug": "cumberland-sand-and-gravel-green-river-quarry",
+  "name": "Cumberland Sand and Gravel – Green River Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Flat Rock",
+    "state": "NC",
+    "zip": "28726"
+  },
+  "location": {
+    "lat": 35.249167,
+    "lng": -82.402778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102142"
+  },
+  "msha": [
+    {
+      "mine_id": "3102142",
+      "name": "Green River Quarry",
+      "operator": "Cumberland Sand and Gravel",
+      "status": "Active",
+      "status_since": "2015-08-03",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

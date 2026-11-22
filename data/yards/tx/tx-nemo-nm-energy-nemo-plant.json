@@ -1,0 +1,41 @@
+{
+  "id": "tx-nemo-nm-energy-nemo-plant",
+  "slug": "nm-energy-nemo-plant",
+  "name": "Nm Energy – Nemo Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Nemo",
+    "state": "TX",
+    "zip": "76070"
+  },
+  "location": {
+    "lat": 32.263889,
+    "lng": -97.595833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105068"
+  },
+  "msha": [
+    {
+      "mine_id": "4105068",
+      "name": "Nemo Plant",
+      "operator": "Nm Energy Llc",
+      "status": "Active",
+      "status_since": "2016-10-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-griffin-rock-it-sand-and-gravel-inc",
+  "slug": "rock-it-sand-and-gravel-inc",
+  "name": "Rock-it Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "101 Blanton Rd",
+    "city": "Griffin",
+    "state": "GA",
+    "zip": "30224"
+  },
+  "location": {
+    "lat": 33.215855,
+    "lng": -84.312622
+  },
+  "contact": {
+    "phone": "(770) 229-1160",
+    "website": "https://www.rockitsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b72ecb7c-263e-4156-bc7a-a7c3743f5a28",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

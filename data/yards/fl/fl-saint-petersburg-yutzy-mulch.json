@@ -1,0 +1,35 @@
+{
+  "id": "fl-saint-petersburg-yutzy-mulch",
+  "slug": "yutzy-mulch",
+  "name": "Yutzy Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2331 6th Ave S",
+    "city": "Saint Petersburg",
+    "state": "FL",
+    "zip": "33712"
+  },
+  "location": {
+    "lat": 27.773771,
+    "lng": -82.669479
+  },
+  "contact": {
+    "phone": "(727) 439-0656"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac6e2049-60e9-4a0e-bc75-0bf7de79865f",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ut-fairfield-dunn-construction-lc-5-mile-crusher",
+  "slug": "dunn-construction-lc-5-mile-crusher",
+  "name": "Dunn Construction, LC – 5 Mile Crusher",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Fairfield",
+    "state": "UT",
+    "zip": "84013"
+  },
+  "location": {
+    "lat": 40.237222,
+    "lng": -112.163333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202701"
+  },
+  "msha": [
+    {
+      "mine_id": "4202701",
+      "name": "5 Mile Crusher",
+      "operator": "Dunn Construction, LC",
+      "status": "Active",
+      "status_since": "2021-07-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

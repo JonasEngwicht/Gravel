@@ -1,0 +1,37 @@
+{
+  "id": "ca-roseville-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "500 Berry St Unit B",
+    "city": "Roseville",
+    "state": "CA",
+    "zip": "95678"
+  },
+  "location": {
+    "lat": 38.759434,
+    "lng": -121.270569
+  },
+  "contact": {
+    "phone": "(916) 784-0323",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d043936a-dbb2-4e75-9b9f-05a83d208c6c",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "in-upland-jack-himelick-gravel-company",
+  "slug": "jack-himelick-gravel-company",
+  "name": "Jack Himelick Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7984 E 700 S",
+    "city": "Upland",
+    "state": "IN",
+    "zip": "46989"
+  },
+  "location": {
+    "lat": 40.450272,
+    "lng": -85.524353
+  },
+  "contact": {
+    "phone": "(765) 998-2050",
+    "website": "https://jack-himelick-gravel-company.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1c8b562-dc18-46d1-89f3-2094bd1077bc",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1201259",
+      "name": "Jack Himelick Gravel Co. Inc.",
+      "operator": "Jack Himelick Gravel Co. Inc.",
+      "status": "Abandoned",
+      "status_since": "2020-10-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

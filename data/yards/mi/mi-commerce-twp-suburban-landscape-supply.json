@@ -1,0 +1,36 @@
+{
+  "id": "mi-commerce-twp-suburban-landscape-supply",
+  "slug": "suburban-landscape-supply",
+  "name": "Suburban Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "960 Ladd Rd",
+    "city": "Commerce Twp",
+    "state": "MI",
+    "zip": "48390"
+  },
+  "location": {
+    "lat": 42.538197,
+    "lng": -83.491875
+  },
+  "contact": {
+    "phone": "(248) 960-4000",
+    "website": "https://suburbanlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c3a494c5-42a2-45a2-b386-9caf9d6fcf63",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

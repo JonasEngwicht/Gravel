@@ -1,0 +1,36 @@
+{
+  "id": "pa-east-lampeter-twp-welsh-stone-supply",
+  "slug": "welsh-stone-supply",
+  "name": "Welsh Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3056 Lincoln Hwy E",
+    "city": "East Lampeter Twp",
+    "state": "PA",
+    "zip": "17529"
+  },
+  "location": {
+    "lat": 40.011265,
+    "lng": -76.136742
+  },
+  "contact": {
+    "phone": "(717) 278-6406",
+    "website": "http://WelshStoneSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6a80c20-e075-46ce-8441-f57bb5b15796",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

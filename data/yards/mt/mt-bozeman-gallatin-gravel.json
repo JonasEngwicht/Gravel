@@ -1,0 +1,47 @@
+{
+  "id": "mt-bozeman-gallatin-gravel",
+  "slug": "gallatin-gravel",
+  "name": "Gallatin Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "675 Hulbert Rd E",
+    "city": "Bozeman",
+    "state": "MT",
+    "zip": "59718"
+  },
+  "location": {
+    "lat": 45.715931,
+    "lng": -111.17234
+  },
+  "contact": {
+    "phone": "(406) 551-3532"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da99abaf-104a-48ed-aa6b-d9e0d9c2e9dd",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2402783",
+      "name": "Gallatin Gravel",
+      "operator": "Gallatin Gravel LLC",
+      "status": "Active",
+      "status_since": "2024-11-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-gilboa-eric-j-dahlberg-cont-manorkill-gravel-mine",
+  "slug": "eric-j-dahlberg-cont-manorkill-gravel-mine",
+  "name": "Eric J Dahlberg Cont – Manorkill Gravel Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Gilboa",
+    "state": "NY",
+    "zip": "12076"
+  },
+  "location": {
+    "lat": 42.386667,
+    "lng": -74.318889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003593"
+  },
+  "msha": [
+    {
+      "mine_id": "3003593",
+      "name": "Manorkill Gravel Mine",
+      "operator": "Eric J Dahlberg Cont Inc",
+      "status": "Intermittent",
+      "status_since": "2007-05-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

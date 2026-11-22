@@ -1,0 +1,35 @@
+{
+  "id": "ga-conyers-aggregate-plant-products-company",
+  "slug": "aggregate-plant-products-company",
+  "name": "Aggregate Plant Products Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1305 Olympic Ct Sw  Ste D",
+    "city": "Conyers",
+    "state": "GA",
+    "zip": "30012"
+  },
+  "location": {
+    "lat": 33.671188,
+    "lng": -84.038803
+  },
+  "contact": {
+    "phone": "(678) 427-4490"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "148aaa4f-1f68-4dbb-8eca-1e49f6084de0",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

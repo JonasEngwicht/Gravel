@@ -1,0 +1,36 @@
+{
+  "id": "mi-birch-run-stone-yard-landscape-center",
+  "slug": "stone-yard-landscape-center",
+  "name": "Stone Yard Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10888 Birch Run Rd",
+    "city": "Birch Run",
+    "state": "MI",
+    "zip": "48415"
+  },
+  "location": {
+    "lat": 43.248158,
+    "lng": -83.737984
+  },
+  "contact": {
+    "phone": "(810) 391-1068",
+    "website": "https://michiganculvert.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b9285b4-ff30-4c96-b9f2-3ce7f1306eca",
+    "confidence": 0.876,
+    "merged_records": 1
+  }
+}

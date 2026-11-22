@@ -1,0 +1,35 @@
+{
+  "id": "ma-wilmington-middlesex-landscape-supply",
+  "slug": "middlesex-landscape-supply",
+  "name": "Middlesex Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "140 Lowell St",
+    "city": "Wilmington",
+    "state": "MA",
+    "zip": "01887"
+  },
+  "location": {
+    "lat": 42.540855,
+    "lng": -71.156929
+  },
+  "contact": {
+    "phone": "(978) 447-3446"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c1f07755-aa49-4933-97e0-db88d280227f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

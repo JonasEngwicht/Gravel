@@ -1,0 +1,41 @@
+{
+  "id": "ok-wewoka-limestone-rock-gravel-and-sand-wolf",
+  "slug": "limestone-rock-gravel-and-sand-wolf",
+  "name": "Limestone Rock, Gravel & Sand – Wolf",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wewoka",
+    "state": "OK",
+    "zip": "74884"
+  },
+  "location": {
+    "lat": 35.158611,
+    "lng": -96.493333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401440"
+  },
+  "msha": [
+    {
+      "mine_id": "3401440",
+      "name": "Wolf",
+      "operator": "Limestone Rock, Gravel & Sand, Llc.",
+      "status": "Active",
+      "status_since": "2023-10-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-yuba-city-sperbeck-s-nursery-and-landscape-center",
+  "slug": "sperbeck-s-nursery-and-landscape-center",
+  "name": "Sperbeck's Nursery and Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1332 Woodward St",
+    "city": "Yuba City",
+    "state": "CA",
+    "zip": "95993"
+  },
+  "location": {
+    "lat": 39.140591,
+    "lng": -121.635521
+  },
+  "contact": {
+    "phone": "(530) 673-8312",
+    "website": "https://sperbecksnursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf579f0e-9f36-4dca-b9b2-fddcdc753a04",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

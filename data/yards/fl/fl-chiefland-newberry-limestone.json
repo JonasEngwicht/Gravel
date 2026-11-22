@@ -1,0 +1,41 @@
+{
+  "id": "fl-chiefland-newberry-limestone",
+  "slug": "newberry-limestone",
+  "name": "Newberry Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Chiefland",
+    "state": "FL",
+    "zip": "32669"
+  },
+  "location": {
+    "lat": 29.666667,
+    "lng": -82.557222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0800761"
+  },
+  "msha": [
+    {
+      "mine_id": "0800761",
+      "name": "Newberry Limestone",
+      "operator": "Newberry Limestone, Llc",
+      "status": "Active",
+      "status_since": "2026-01-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

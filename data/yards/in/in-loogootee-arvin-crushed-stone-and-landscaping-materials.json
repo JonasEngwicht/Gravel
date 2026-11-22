@@ -1,0 +1,36 @@
+{
+  "id": "in-loogootee-arvin-crushed-stone-and-landscaping-materials",
+  "slug": "arvin-crushed-stone-and-landscaping-materials",
+  "name": "Arvin Crushed Stone & Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11526 US Highway 231",
+    "city": "Loogootee",
+    "state": "IN",
+    "zip": "47553"
+  },
+  "location": {
+    "lat": 38.665527,
+    "lng": -86.913086
+  },
+  "contact": {
+    "phone": "(812) 295-5959",
+    "website": "http://www.arvinlandscapingmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d6fe5dd-f9c3-4a54-a920-960d80a18b31",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-windsor-sbi-materials-and-landscape-supplies",
+  "slug": "sbi-materials-and-landscape-supplies",
+  "name": "SBI Materials and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "10540 Old Redwood Hwy",
+    "city": "Windsor",
+    "state": "CA",
+    "zip": "95492"
+  },
+  "location": {
+    "lat": 38.565075,
+    "lng": -122.828232
+  },
+  "contact": {
+    "phone": "(707) 431-1617",
+    "website": "http://www.sbimaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf600938-02c5-4f87-a0e7-4423d3c3d779",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

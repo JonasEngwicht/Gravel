@@ -1,0 +1,41 @@
+{
+  "id": "ok-drumright-the-quapaw-drumright-quarry",
+  "slug": "the-quapaw-drumright-quarry",
+  "name": "The Quapaw – Drumright Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Drumright",
+    "state": "OK",
+    "zip": "74030"
+  },
+  "location": {
+    "lat": 36.002778,
+    "lng": -96.590556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401273"
+  },
+  "msha": [
+    {
+      "mine_id": "3401273",
+      "name": "Drumright Quarry",
+      "operator": "The Quapaw Company",
+      "status": "Active",
+      "status_since": "1980-06-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

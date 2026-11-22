@@ -1,0 +1,48 @@
+{
+  "id": "in-muncie-imi-aggregates-muncie",
+  "slug": "imi-aggregates-muncie",
+  "name": "imi Aggregates - Muncie",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "4312 E 350 North",
+    "city": "Muncie",
+    "state": "IN",
+    "zip": "47303"
+  },
+  "location": {
+    "lat": 40.242085,
+    "lng": -85.33651
+  },
+  "contact": {
+    "phone": "(765) 288-5566",
+    "website": "https://locations.irvmat.com/in/260?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9a39ecdc-997f-4662-935c-8026299f5b22",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200053",
+      "name": "IMI Muncie Aggregates",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "1999-07-21",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

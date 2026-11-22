@@ -1,0 +1,35 @@
+{
+  "id": "ca-temecula-gsi-sand-and-gravel",
+  "slug": "gsi-sand-and-gravel",
+  "name": "GSI Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "31275 Pescado Dr",
+    "city": "Temecula",
+    "state": "CA",
+    "zip": "92592"
+  },
+  "location": {
+    "lat": 33.487156,
+    "lng": -117.113991
+  },
+  "contact": {
+    "phone": "(951) 303-0878"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab38e613-8073-41eb-870b-87460996dfc2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

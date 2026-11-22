@@ -1,0 +1,36 @@
+{
+  "id": "nh-derry-delahunty-garden-and-landscape-center",
+  "slug": "delahunty-garden-and-landscape-center",
+  "name": "Delahunty Garden and Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "187 Hampstead Rd",
+    "city": "Derry",
+    "state": "NH",
+    "zip": "03038"
+  },
+  "location": {
+    "lat": 42.899082,
+    "lng": -71.255249
+  },
+  "contact": {
+    "phone": "(603) 893-7155",
+    "website": "http://www.delahuntys.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "548c635e-a8d2-42f0-a360-defca21b3cea",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

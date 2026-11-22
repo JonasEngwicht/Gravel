@@ -1,0 +1,41 @@
+{
+  "id": "vt-wallingford-troy-minerals-wallingford-quarry",
+  "slug": "troy-minerals-wallingford-quarry",
+  "name": "Troy Minerals – Wallingford Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wallingford",
+    "state": "VT",
+    "zip": "05773"
+  },
+  "location": {
+    "lat": 43.406389,
+    "lng": -72.995556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300064"
+  },
+  "msha": [
+    {
+      "mine_id": "4300064",
+      "name": "Wallingford Quarry",
+      "operator": "Troy Minerals",
+      "status": "Active",
+      "status_since": "1983-03-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

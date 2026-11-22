@@ -1,0 +1,41 @@
+{
+  "id": "tx-verhalen-capitol-aggregates-hoban-pit-and-plant",
+  "slug": "capitol-aggregates-hoban-pit-and-plant",
+  "name": "Capitol Aggregates – Hoban Pit And Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Verhalen",
+    "state": "TX",
+    "zip": "79772"
+  },
+  "location": {
+    "lat": 31.351111,
+    "lng": -103.636389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4101162"
+  },
+  "msha": [
+    {
+      "mine_id": "4101162",
+      "name": "Hoban Pit And Plant",
+      "operator": "Capitol Aggregates, Inc.",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

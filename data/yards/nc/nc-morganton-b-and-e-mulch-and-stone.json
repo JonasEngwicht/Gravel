@@ -1,0 +1,35 @@
+{
+  "id": "nc-morganton-b-and-e-mulch-and-stone",
+  "slug": "b-and-e-mulch-and-stone",
+  "name": "B & E Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "329 E Fleming Dr",
+    "city": "Morganton",
+    "state": "NC",
+    "zip": "28655"
+  },
+  "location": {
+    "lat": 35.744949,
+    "lng": -81.669312
+  },
+  "contact": {
+    "phone": "(828) 430-9411"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c829c17-3676-441a-a33f-4eeb0c4f7844",
+    "confidence": 0.509,
+    "merged_records": 1
+  }
+}

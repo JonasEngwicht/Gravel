@@ -1,0 +1,36 @@
+{
+  "id": "wa-bellingham-northstar-stone-and-landscape-supply",
+  "slug": "northstar-stone-and-landscape-supply",
+  "name": "Northstar Stone & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4840 Pacific Hwy",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226"
+  },
+  "location": {
+    "lat": 48.816208,
+    "lng": -122.545219
+  },
+  "contact": {
+    "phone": "(360) 383-9090",
+    "website": "http://www.northstarstone.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02025444-6224-42fb-935c-b9c1e42ab29f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

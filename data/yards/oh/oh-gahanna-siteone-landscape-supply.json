@@ -1,0 +1,37 @@
+{
+  "id": "oh-gahanna-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "960 Claycraft Rd",
+    "city": "Gahanna",
+    "state": "OH",
+    "zip": "43230"
+  },
+  "location": {
+    "lat": 39.993118,
+    "lng": -82.849312
+  },
+  "contact": {
+    "phone": "(614) 863-4013",
+    "website": "https://www.siteone.com/store/105"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b32f2654-94d9-4e83-8236-50f754fcc58e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

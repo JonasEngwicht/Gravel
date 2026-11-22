@@ -1,0 +1,41 @@
+{
+  "id": "tx-barstow-eagle-731-quarry",
+  "slug": "eagle-731-quarry",
+  "name": "Eagle 731 Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Barstow",
+    "state": "TX",
+    "zip": "79701"
+  },
+  "location": {
+    "lat": 31.934722,
+    "lng": -102.059444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105651"
+  },
+  "msha": [
+    {
+      "mine_id": "4105651",
+      "name": "Eagle 731 Quarry",
+      "operator": "Eagle 731 Quarry LLC",
+      "status": "Intermittent",
+      "status_since": "2025-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mt-polson-delaney-s-landscape-center",
+  "slug": "delaney-s-landscape-center",
+  "name": "Delaney's Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "40514 MT Highway 35",
+    "city": "Polson",
+    "state": "MT",
+    "zip": "59860"
+  },
+  "location": {
+    "lat": 47.688976,
+    "lng": -114.117828
+  },
+  "contact": {
+    "phone": "(406) 883-2612",
+    "website": "http://delaneyslandscapecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b2f6732d-4a9f-48d9-8329-61fec0a97f79",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

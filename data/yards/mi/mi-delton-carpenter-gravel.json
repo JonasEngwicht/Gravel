@@ -1,0 +1,36 @@
+{
+  "id": "mi-delton-carpenter-gravel",
+  "slug": "carpenter-gravel",
+  "name": "Carpenter Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11250 Manning Lake Rd",
+    "city": "Delton",
+    "state": "MI",
+    "zip": "49046"
+  },
+  "location": {
+    "lat": 42.487938,
+    "lng": -85.30912
+  },
+  "contact": {
+    "phone": "(269) 721-9989",
+    "website": "https://www.carpentergravelinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db6e9564-fe3a-45e4-9762-0fade8cd9436",
+    "confidence": 0.878,
+    "merged_records": 2
+  }
+}

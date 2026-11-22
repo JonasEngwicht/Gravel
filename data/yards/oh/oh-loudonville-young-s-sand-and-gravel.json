@@ -1,0 +1,41 @@
+{
+  "id": "oh-loudonville-young-s-sand-and-gravel",
+  "slug": "young-s-sand-and-gravel",
+  "name": "Young's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Loudonville",
+    "state": "OH",
+    "zip": "44687"
+  },
+  "location": {
+    "lat": 40.543889,
+    "lng": -81.730833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3301710"
+  },
+  "msha": [
+    {
+      "mine_id": "3301710",
+      "name": "Young's Sand & Gravel Inc.",
+      "operator": "Young's Sand & Gravel Co",
+      "status": "Active",
+      "status_since": "2000-03-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

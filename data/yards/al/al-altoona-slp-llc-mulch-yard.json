@@ -1,0 +1,35 @@
+{
+  "id": "al-altoona-slp-llc-mulch-yard",
+  "slug": "slp-llc-mulch-yard",
+  "name": "SLP LLC Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9019 Fairview Cove Rd",
+    "city": "Altoona",
+    "state": "AL",
+    "zip": "35952"
+  },
+  "location": {
+    "lat": 34.094387,
+    "lng": -86.229637
+  },
+  "contact": {
+    "phone": "(205) 589-2047"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "76a6fd5e-c8e9-4941-b696-88eecfa1c950",
+    "confidence": 0.789,
+    "merged_records": 1
+  }
+}

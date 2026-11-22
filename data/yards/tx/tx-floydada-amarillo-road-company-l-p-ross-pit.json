@@ -1,0 +1,41 @@
+{
+  "id": "tx-floydada-amarillo-road-company-l-p-ross-pit",
+  "slug": "amarillo-road-company-l-p-ross-pit",
+  "name": "Amarillo Road Company L.P – Ross Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Floydada",
+    "state": "TX",
+    "zip": "79235"
+  },
+  "location": {
+    "lat": 33.965556,
+    "lng": -101.356389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105063"
+  },
+  "msha": [
+    {
+      "mine_id": "4105063",
+      "name": "Ross Pit",
+      "operator": "Amarillo Road Company L.P.",
+      "status": "Active",
+      "status_since": "2023-10-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

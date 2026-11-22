@@ -1,0 +1,41 @@
+{
+  "id": "vt-middlebury-shelburne-limestone-middlebury-quarry",
+  "slug": "shelburne-limestone-middlebury-quarry",
+  "name": "Shelburne Limestone – Middlebury Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Middlebury",
+    "state": "VT",
+    "zip": "05753"
+  },
+  "location": {
+    "lat": 43.998056,
+    "lng": -73.124444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300299"
+  },
+  "msha": [
+    {
+      "mine_id": "4300299",
+      "name": "Middlebury Quarry",
+      "operator": "Shelburne Limestone Corp",
+      "status": "Active",
+      "status_since": "2003-10-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

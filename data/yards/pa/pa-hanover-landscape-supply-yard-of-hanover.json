@@ -1,0 +1,36 @@
+{
+  "id": "pa-hanover-landscape-supply-yard-of-hanover",
+  "slug": "landscape-supply-yard-of-hanover",
+  "name": "Landscape Supply Yard of Hanover",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "700 High St",
+    "city": "Hanover",
+    "state": "PA",
+    "zip": "17331"
+  },
+  "location": {
+    "lat": 39.810471,
+    "lng": -76.998085
+  },
+  "contact": {
+    "phone": "(717) 633-6278",
+    "website": "https://www.landscapersupplyyardofhanover.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df4b64b6-9c3b-4b92-89d3-c808d1baca78",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-moraine-olg-landscape-supply-and-sawmill",
+  "slug": "olg-landscape-supply-and-sawmill",
+  "name": "OLG Landscape Supply and Sawmill",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2000 Sandridge Dr",
+    "city": "Moraine",
+    "state": "OH",
+    "zip": "45439"
+  },
+  "location": {
+    "lat": 39.722755,
+    "lng": -84.210938
+  },
+  "contact": {
+    "phone": "(937) 572-2360",
+    "website": "https://www.olgohio.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9881265-1603-432f-bd18-5200dc486d1c",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

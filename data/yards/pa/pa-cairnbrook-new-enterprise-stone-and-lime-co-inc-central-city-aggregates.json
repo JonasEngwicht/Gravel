@@ -1,0 +1,48 @@
+{
+  "id": "pa-cairnbrook-new-enterprise-stone-and-lime-co-inc-central-city-aggregates",
+  "slug": "new-enterprise-stone-and-lime-co-inc-central-city-aggregates",
+  "name": "New Enterprise Stone & Lime Co., Inc. -- Central City Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "417 Sandplant Rd",
+    "city": "Cairnbrook",
+    "state": "PA",
+    "zip": "15924"
+  },
+  "location": {
+    "lat": 40.122837,
+    "lng": -78.79422
+  },
+  "contact": {
+    "phone": "(800) 426-7334",
+    "website": "https://www.nesl.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "660d6034-3572-4fb6-a297-6be030611873",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3600058",
+      "name": "Central City Quarry & Mill",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Temporarily Idled",
+      "status_since": "2025-03-20",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

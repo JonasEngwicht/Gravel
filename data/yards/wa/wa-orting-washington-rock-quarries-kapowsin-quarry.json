@@ -1,0 +1,41 @@
+{
+  "id": "wa-orting-washington-rock-quarries-kapowsin-quarry",
+  "slug": "washington-rock-quarries-kapowsin-quarry",
+  "name": "Washington Rock Quarries – Kapowsin Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Orting",
+    "state": "WA",
+    "zip": "98338"
+  },
+  "location": {
+    "lat": 46.976667,
+    "lng": -122.202778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503224"
+  },
+  "msha": [
+    {
+      "mine_id": "4503224",
+      "name": "Kapowsin Quarry",
+      "operator": "Washington Rock Quarries, Inc.",
+      "status": "Active",
+      "status_since": "1990-04-30",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

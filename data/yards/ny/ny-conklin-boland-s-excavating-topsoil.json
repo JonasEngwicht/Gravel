@@ -1,0 +1,36 @@
+{
+  "id": "ny-conklin-boland-s-excavating-topsoil",
+  "slug": "boland-s-excavating-topsoil",
+  "name": "Boland's Excavating Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1403 Millburn Dr",
+    "city": "Conklin",
+    "state": "NY",
+    "zip": "13748"
+  },
+  "location": {
+    "lat": 42.029831,
+    "lng": -75.800957
+  },
+  "contact": {
+    "phone": "(607) 775-5030",
+    "website": "http://bolandstopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "641434c7-2f3a-4da0-a91e-3d923bcb7b83",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

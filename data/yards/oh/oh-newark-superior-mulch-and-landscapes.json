@@ -1,0 +1,32 @@
+{
+  "id": "oh-newark-superior-mulch-and-landscapes",
+  "slug": "superior-mulch-and-landscapes",
+  "name": "Superior Mulch And Landscapes",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "188 Westgate Dr",
+    "city": "Newark",
+    "state": "OH",
+    "zip": "43055"
+  },
+  "location": {
+    "lat": 40.055454,
+    "lng": -82.476654
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "315cbb4c-0f75-4c30-a34e-d58e581b1f79",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "co-colorado-springs-don-s-garden-shop-and-landscape-materials",
+  "slug": "don-s-garden-shop-and-landscape-materials",
+  "name": "Don's Garden Shop & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6001 E Platte Ave",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80915"
+  },
+  "location": {
+    "lat": 38.838264,
+    "lng": -104.715492
+  },
+  "contact": {
+    "phone": "(719) 591-1040",
+    "website": "https://www.donsgardenshop.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9dcb474-61e0-4d8c-8a75-3dfe4bba5221",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

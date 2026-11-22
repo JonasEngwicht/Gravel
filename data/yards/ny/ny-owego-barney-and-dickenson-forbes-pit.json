@@ -1,0 +1,41 @@
+{
+  "id": "ny-owego-barney-and-dickenson-forbes-pit",
+  "slug": "barney-and-dickenson-forbes-pit",
+  "name": "Barney & Dickenson – Forbes Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Owego",
+    "state": "NY",
+    "zip": "13827"
+  },
+  "location": {
+    "lat": 42.154722,
+    "lng": -76.256667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003340"
+  },
+  "msha": [
+    {
+      "mine_id": "3003340",
+      "name": "Forbes Pit",
+      "operator": "Barney & Dickenson Inc",
+      "status": "Intermittent",
+      "status_since": "2026-10-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

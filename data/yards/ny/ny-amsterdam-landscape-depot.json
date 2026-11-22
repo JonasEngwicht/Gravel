@@ -1,0 +1,36 @@
+{
+  "id": "ny-amsterdam-landscape-depot",
+  "slug": "landscape-depot",
+  "name": "Landscape Depot",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "207 Wallins Corners Rd Ste G",
+    "city": "Amsterdam",
+    "state": "NY",
+    "zip": "12010"
+  },
+  "location": {
+    "lat": 42.970985,
+    "lng": -74.181175
+  },
+  "contact": {
+    "phone": "(518) 842-3500",
+    "website": "http://www.landscapedepotny.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0d53ba0e-5bac-44b1-9377-21662d1584f1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

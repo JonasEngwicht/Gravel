@@ -1,0 +1,36 @@
+{
+  "id": "pa-new-holland-welsh-stone-supply",
+  "slug": "welsh-stone-supply",
+  "name": "Welsh Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5031 Diem Rd",
+    "city": "New Holland",
+    "state": "PA",
+    "zip": "17557"
+  },
+  "location": {
+    "lat": 40.05695,
+    "lng": -76.046852
+  },
+  "contact": {
+    "phone": "(717) 278-6406",
+    "website": "http://www.welshstonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d6a7340-a16b-4aaf-8da4-b3ccc9c1f7e9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wi-fitchburg-madison-top-soil",
+  "slug": "madison-top-soil",
+  "name": "Madison Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5930 Seminole Centre Ct Ste B3",
+    "city": "Fitchburg",
+    "state": "WI",
+    "zip": "53711"
+  },
+  "location": {
+    "lat": 43.014931,
+    "lng": -89.452423
+  },
+  "contact": {
+    "phone": "(608) 576-7343",
+    "website": "https://madisontopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c418482b-2876-464f-987f-40410f8e2823",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

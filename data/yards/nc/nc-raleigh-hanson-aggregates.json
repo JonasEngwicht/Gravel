@@ -1,0 +1,49 @@
+{
+  "id": "nc-raleigh-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "5001 Duraleigh Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27612"
+  },
+  "location": {
+    "lat": 35.84869,
+    "lng": -78.710976
+  },
+  "contact": {
+    "phone": "(919) 787-0613",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a79d08c-3265-42b2-93a0-4d7feb7f7229",
+    "confidence": 0.796,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3100079",
+      "name": "Crabtree Quarry",
+      "operator": "Heidelberg Materials, Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 22
+    }
+  ]
+}

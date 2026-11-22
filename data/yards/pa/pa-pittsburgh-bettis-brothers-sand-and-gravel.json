@@ -1,0 +1,35 @@
+{
+  "id": "pa-pittsburgh-bettis-brothers-sand-and-gravel",
+  "slug": "bettis-brothers-sand-and-gravel",
+  "name": "Bettis Brothers Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7101 Penn Ave",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15208"
+  },
+  "location": {
+    "lat": 40.450211,
+    "lng": -79.903397
+  },
+  "contact": {
+    "website": "https://bettissand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b653b5ad-211a-454a-b3c3-190dd0fbcb3e",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

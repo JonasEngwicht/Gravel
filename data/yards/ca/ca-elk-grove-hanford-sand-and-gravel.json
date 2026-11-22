@@ -1,0 +1,36 @@
+{
+  "id": "ca-elk-grove-hanford-sand-and-gravel",
+  "slug": "hanford-sand-and-gravel",
+  "name": "Hanford Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9816 Kent St",
+    "city": "Elk Grove",
+    "state": "CA",
+    "zip": "95624"
+  },
+  "location": {
+    "lat": 38.398453,
+    "lng": -121.358452
+  },
+  "contact": {
+    "phone": "(916) 685-9774",
+    "website": "https://hanfordsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f1e44ad3-9916-4f30-a42e-ffe05a83c28c",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

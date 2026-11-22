@@ -1,0 +1,36 @@
+{
+  "id": "il-wheaton-wheaton-mulch",
+  "slug": "wheaton-mulch",
+  "name": "Wheaton Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "709 Childs St",
+    "city": "Wheaton",
+    "state": "IL",
+    "zip": "60187"
+  },
+  "location": {
+    "lat": 41.862362,
+    "lng": -88.117699
+  },
+  "contact": {
+    "phone": "(630) 653-4444",
+    "website": "http://wheatonmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "179e1c95-b376-43be-867e-54aede811d27",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

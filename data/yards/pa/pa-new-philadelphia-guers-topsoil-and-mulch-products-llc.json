@@ -1,0 +1,36 @@
+{
+  "id": "pa-new-philadelphia-guers-topsoil-and-mulch-products-llc",
+  "slug": "guers-topsoil-and-mulch-products-llc",
+  "name": "Guers Topsoil & Mulch Products LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "110 N Valley St",
+    "city": "New Philadelphia",
+    "state": "PA",
+    "zip": "17959"
+  },
+  "location": {
+    "lat": 40.729134,
+    "lng": -76.100075
+  },
+  "contact": {
+    "phone": "(570) 277-0332",
+    "website": "http://www.guerstopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f535d68-c2e9-4751-9035-5b07e975dde9",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

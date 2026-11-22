@@ -1,0 +1,36 @@
+{
+  "id": "wa-black-diamond-jim-s-landscape-supplies",
+  "slug": "jim-s-landscape-supplies",
+  "name": "Jim's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "28945 229th Pl SE",
+    "city": "Black Diamond",
+    "state": "WA",
+    "zip": "98010"
+  },
+  "location": {
+    "lat": 47.341873,
+    "lng": -122.036308
+  },
+  "contact": {
+    "phone": "(206) 963-9801",
+    "website": "https://jimslandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f290401d-78f0-42a7-90b6-6b0d27bbe5fc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

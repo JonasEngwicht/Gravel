@@ -1,0 +1,37 @@
+{
+  "id": "tn-nashville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2500 Cruzen St",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37211"
+  },
+  "location": {
+    "lat": 36.117317,
+    "lng": -86.752014
+  },
+  "contact": {
+    "phone": "(615) 254-3100",
+    "website": "https://www.siteone.com/en/store/104"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7bce0864-ca2b-4d99-a4d4-dcaf2500fc8f",
+    "confidence": 0.99,
+    "merged_records": 2
+  }
+}

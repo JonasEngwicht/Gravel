@@ -1,0 +1,48 @@
+{
+  "id": "ct-falls-village-century-aggregates-inc",
+  "slug": "century-aggregates-inc",
+  "name": "Century Aggregates Inc",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "73 Sand Rd",
+    "city": "Falls Village",
+    "state": "CT",
+    "zip": "06031"
+  },
+  "location": {
+    "lat": 41.983799,
+    "lng": -73.354546
+  },
+  "contact": {
+    "phone": "(860) 824-7589",
+    "website": "http://www.centuryaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b3a56f3-99d1-4809-adb1-2c8eaf3a2f10",
+    "confidence": 0.994,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0600727",
+      "name": "Century Aggregates Sand Road Mine",
+      "operator": "Century Aggregates Inc",
+      "status": "Active",
+      "status_since": "2024-11-29",
+      "commodity": "Crushed, Broken Marble",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

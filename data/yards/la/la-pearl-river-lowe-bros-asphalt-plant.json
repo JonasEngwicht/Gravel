@@ -1,0 +1,41 @@
+{
+  "id": "la-pearl-river-lowe-bros-asphalt-plant",
+  "slug": "lowe-bros-asphalt-plant",
+  "name": "Lowe Bros – Asphalt Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pearl River",
+    "state": "LA",
+    "zip": "70452"
+  },
+  "location": {
+    "lat": 30.376111,
+    "lng": -89.748333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601542"
+  },
+  "msha": [
+    {
+      "mine_id": "1601542",
+      "name": "Asphalt Plant",
+      "operator": "Lowe Bros. LLC",
+      "status": "Intermittent",
+      "status_since": "2016-06-14",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

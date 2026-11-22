@@ -1,0 +1,41 @@
+{
+  "id": "oh-coshocton-shelly-materials-coshocton-plant",
+  "slug": "shelly-materials-coshocton-plant",
+  "name": "Shelly Materials – Coshocton Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Coshocton",
+    "state": "OH",
+    "zip": "43812"
+  },
+  "location": {
+    "lat": 40.304444,
+    "lng": -81.9125
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3301408"
+  },
+  "msha": [
+    {
+      "mine_id": "3301408",
+      "name": "Coshocton Plant",
+      "operator": "Shelly Materials Inc",
+      "status": "Intermittent",
+      "status_since": "2026-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

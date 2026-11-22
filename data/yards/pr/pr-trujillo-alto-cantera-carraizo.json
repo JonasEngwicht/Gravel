@@ -1,0 +1,41 @@
+{
+  "id": "pr-trujillo-alto-cantera-carraizo",
+  "slug": "cantera-carraizo",
+  "name": "Cantera Carraizo",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Trujillo Alto",
+    "state": "PR",
+    "zip": "00924"
+  },
+  "location": {
+    "lat": 18.374167,
+    "lng": -66.001667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400019"
+  },
+  "msha": [
+    {
+      "mine_id": "5400019",
+      "name": "Cantera Carraizo",
+      "operator": "Cantera Carraizo Inc",
+      "status": "Active",
+      "status_since": "1975-12-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 40
+    }
+  ]
+}

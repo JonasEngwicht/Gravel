@@ -1,0 +1,36 @@
+{
+  "id": "ca-truckee-sierra-stone-supply-inc",
+  "slug": "sierra-stone-supply-inc",
+  "name": "Sierra Stone Supply Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "11036 W River St",
+    "city": "Truckee",
+    "state": "CA",
+    "zip": "96161"
+  },
+  "location": {
+    "lat": 39.318836,
+    "lng": -120.198235
+  },
+  "contact": {
+    "phone": "(530) 550-0530",
+    "website": "https://sierrastonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8a2b4dfd-4077-4e4f-81ed-6d64ee529f02",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

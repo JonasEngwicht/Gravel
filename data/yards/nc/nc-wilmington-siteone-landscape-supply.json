@@ -1,0 +1,37 @@
+{
+  "id": "nc-wilmington-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3406 Merchant Ct",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28405"
+  },
+  "location": {
+    "lat": 34.314388,
+    "lng": -77.87513
+  },
+  "contact": {
+    "phone": "(910) 798-8289",
+    "website": "https://www.siteone.com/store/707"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27969a71-0a64-4746-82f6-da3e939a37d7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

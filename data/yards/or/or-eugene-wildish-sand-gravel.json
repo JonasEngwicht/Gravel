@@ -1,0 +1,48 @@
+{
+  "id": "or-eugene-wildish-sand-gravel",
+  "slug": "wildish-sand-gravel",
+  "name": "Wildish Sand Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3600 Wildish Ln",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97408"
+  },
+  "location": {
+    "lat": 44.109676,
+    "lng": -123.067116
+  },
+  "contact": {
+    "phone": "(541) 485-1700",
+    "website": "https://wildish-sand-gravel-co-or.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "198d88ed-084a-49f0-834c-36f86849fcce",
+    "confidence": 0.972,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3500515",
+      "name": "Wildish Sand & Gravel Co Plant #2",
+      "operator": "Wildish Sand & Gravel Co",
+      "status": "Active",
+      "status_since": "1983-07-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

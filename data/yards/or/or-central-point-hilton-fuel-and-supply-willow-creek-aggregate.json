@@ -1,0 +1,41 @@
+{
+  "id": "or-central-point-hilton-fuel-and-supply-willow-creek-aggregate",
+  "slug": "hilton-fuel-and-supply-willow-creek-aggregate",
+  "name": "Hilton Fuel & Supply – Willow Creek Aggregate",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Central Point",
+    "state": "OR",
+    "zip": "97502"
+  },
+  "location": {
+    "lat": 42.383889,
+    "lng": -122.976389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503378"
+  },
+  "msha": [
+    {
+      "mine_id": "3503378",
+      "name": "Willow Creek Aggregate",
+      "operator": "Hilton Fuel & Supply",
+      "status": "Active",
+      "status_since": "2020-01-24",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

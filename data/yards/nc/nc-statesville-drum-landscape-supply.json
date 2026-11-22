@@ -1,0 +1,36 @@
+{
+  "id": "nc-statesville-drum-landscape-supply",
+  "slug": "drum-landscape-supply",
+  "name": "Drum Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2410 Northside Dr",
+    "city": "Statesville",
+    "state": "NC",
+    "zip": "28625"
+  },
+  "location": {
+    "lat": 35.795891,
+    "lng": -80.930214
+  },
+  "contact": {
+    "phone": "(704) 253-7010",
+    "website": "http://www.drumlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e1ef9b6-9d82-41ac-8a86-425893818a8a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

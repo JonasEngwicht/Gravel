@@ -1,0 +1,36 @@
+{
+  "id": "nc-matthews-hill-sand-and-gravel",
+  "slug": "hill-sand-and-gravel",
+  "name": "Hill Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2168 Stevens Mill Rd",
+    "city": "Matthews",
+    "state": "NC",
+    "zip": "28104"
+  },
+  "location": {
+    "lat": 35.108665,
+    "lng": -80.683533
+  },
+  "contact": {
+    "phone": "(704) 847-9874",
+    "website": "http://www.hillsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ee8e93c-2dcf-4563-a971-93756ee3070e",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

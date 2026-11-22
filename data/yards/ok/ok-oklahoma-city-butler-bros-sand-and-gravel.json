@@ -1,0 +1,36 @@
+{
+  "id": "ok-oklahoma-city-butler-bros-sand-and-gravel",
+  "slug": "butler-bros-sand-and-gravel",
+  "name": "Butler Bros Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15600 S Meridian Ave",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73173"
+  },
+  "location": {
+    "lat": 35.31348,
+    "lng": -97.600281
+  },
+  "contact": {
+    "phone": "(405) 378-7400",
+    "website": "http://bbsandg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "550fa7cd-b31c-49ce-b912-8ba09d6cd4c7",
+    "confidence": 0.979,
+    "merged_records": 1
+  }
+}

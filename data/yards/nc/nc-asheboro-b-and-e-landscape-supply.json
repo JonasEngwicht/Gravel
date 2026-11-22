@@ -1,0 +1,36 @@
+{
+  "id": "nc-asheboro-b-and-e-landscape-supply",
+  "slug": "b-and-e-landscape-supply",
+  "name": "B & E Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2194 State Hwy 49",
+    "city": "Asheboro",
+    "state": "NC",
+    "zip": "27205"
+  },
+  "location": {
+    "lat": 35.667107,
+    "lng": -79.884422
+  },
+  "contact": {
+    "phone": "(336) 626-3300",
+    "website": "https://bandelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7f5ce34-8210-4014-a952-388082c3e25d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

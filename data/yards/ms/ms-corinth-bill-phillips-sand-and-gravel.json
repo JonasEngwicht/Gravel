@@ -1,0 +1,35 @@
+{
+  "id": "ms-corinth-bill-phillips-sand-and-gravel",
+  "slug": "bill-phillips-sand-and-gravel",
+  "name": "Bill Phillips Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1505 A HWY 72 W",
+    "city": "Corinth",
+    "state": "MS",
+    "zip": "38834"
+  },
+  "location": {
+    "lat": 34.933094,
+    "lng": -88.570129
+  },
+  "contact": {
+    "phone": "(662) 284-6061"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "610f9f79-0146-492a-9fbf-27a3b230e87e",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

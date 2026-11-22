@@ -1,0 +1,41 @@
+{
+  "id": "tn-spring-city-cook-stone-company-soak-creek",
+  "slug": "cook-stone-company-soak-creek",
+  "name": "Cook Stone Company – Soak Creek",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Spring City",
+    "state": "TN",
+    "zip": "37381"
+  },
+  "location": {
+    "lat": 35.748056,
+    "lng": -84.956944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003459"
+  },
+  "msha": [
+    {
+      "mine_id": "4003459",
+      "name": "Soak Creek",
+      "operator": "Cook Stone Company LLC",
+      "status": "Active",
+      "status_since": "2019-03-22",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

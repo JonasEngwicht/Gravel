@@ -1,0 +1,35 @@
+{
+  "id": "ma-holliston-new-england-sand-and-gravel-co",
+  "slug": "new-england-sand-and-gravel-co",
+  "name": "New England Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1508 Washington St",
+    "city": "Holliston",
+    "state": "MA",
+    "zip": "01746"
+  },
+  "location": {
+    "lat": 42.179844,
+    "lng": -71.44709
+  },
+  "contact": {
+    "phone": "(508) 877-2460"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6724960d-d27a-4268-8be4-36a04fc632a4",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

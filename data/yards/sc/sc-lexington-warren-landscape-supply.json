@@ -1,0 +1,35 @@
+{
+  "id": "sc-lexington-warren-landscape-supply",
+  "slug": "warren-landscape-supply",
+  "name": "Warren' Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2152 US-378",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072"
+  },
+  "location": {
+    "lat": 34.012383,
+    "lng": -81.386612
+  },
+  "contact": {
+    "phone": "(839) 250-7451"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e61e531-8c0b-4dea-95f6-18ff208e85d0",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

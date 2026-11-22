@@ -1,0 +1,36 @@
+{
+  "id": "wa-marysville-smokey-point-masonry-and-landscape-supply-inc",
+  "slug": "smokey-point-masonry-and-landscape-supply-inc",
+  "name": "Smokey Point Masonry & Landscape Supply Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7822 47th Ave NE",
+    "city": "Marysville",
+    "state": "WA",
+    "zip": "98270"
+  },
+  "location": {
+    "lat": 48.06712,
+    "lng": -122.167671
+  },
+  "contact": {
+    "phone": "(360) 653-1367",
+    "website": "http://smokeypointmasonry.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62858ce1-8184-480f-b722-6ed19f730077",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

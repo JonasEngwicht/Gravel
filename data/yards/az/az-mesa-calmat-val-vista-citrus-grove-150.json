@@ -1,0 +1,41 @@
+{
+  "id": "az-mesa-calmat-val-vista-citrus-grove-150",
+  "slug": "calmat-val-vista-citrus-grove-150",
+  "name": "CalMat – Val Vista - Citrus Grove 150",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85213"
+  },
+  "location": {
+    "lat": 33.475556,
+    "lng": -111.757778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202891"
+  },
+  "msha": [
+    {
+      "mine_id": "0202891",
+      "name": "Val Vista - Citrus Grove 150",
+      "operator": "CalMat Co",
+      "status": "Active",
+      "status_since": "2014-02-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "vt-jeffersonville-g-and-m-contracting",
+  "slug": "g-and-m-contracting",
+  "name": "G & M Contracting",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jeffersonville",
+    "state": "VT",
+    "zip": "05464"
+  },
+  "location": {
+    "lat": 44.644167,
+    "lng": -72.841944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300613"
+  },
+  "msha": [
+    {
+      "mine_id": "4300613",
+      "name": "G & M Contracting Inc",
+      "operator": "G & M Contracting Inc",
+      "status": "Intermittent",
+      "status_since": "2018-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

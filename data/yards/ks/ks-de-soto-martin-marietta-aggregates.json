@@ -1,0 +1,49 @@
+{
+  "id": "ks-de-soto-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "34135 W 95th St",
+    "city": "De Soto",
+    "state": "KS",
+    "zip": "66018"
+  },
+  "location": {
+    "lat": 38.956467,
+    "lng": -94.982544
+  },
+  "contact": {
+    "phone": "(913) 583-3311",
+    "website": "http://martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f65f68c0-e6ba-4123-aba5-889f7c043cfb",
+    "confidence": 0.649,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "1401556",
+      "name": "Sunflower Quarry",
+      "operator": "Martin Marietta Kansas City, LLC",
+      "status": "Active",
+      "status_since": "1993-06-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

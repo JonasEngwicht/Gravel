@@ -1,0 +1,41 @@
+{
+  "id": "vt-north-hero-beaver-creek-contracting",
+  "slug": "beaver-creek-contracting",
+  "name": "Beaver Creek Contracting",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "North Hero",
+    "state": "VT",
+    "zip": "05474"
+  },
+  "location": {
+    "lat": 44.861944,
+    "lng": -73.268056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300770"
+  },
+  "msha": [
+    {
+      "mine_id": "4300770",
+      "name": "Beaver Creek Contracting",
+      "operator": "Beaver Creek Contracting",
+      "status": "Intermittent",
+      "status_since": "2026-05-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "tx-princeton-north-texas-stone-supply",
+  "slug": "north-texas-stone-supply",
+  "name": "North Texas Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2667 FM982",
+    "city": "Princeton",
+    "state": "TX",
+    "zip": "75407"
+  },
+  "location": {
+    "lat": 33.138641,
+    "lng": -96.490593
+  },
+  "contact": {
+    "phone": "(972) 302-3117"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e250066e-0f4e-42f9-9301-849a8671d807",
+    "confidence": 0.975,
+    "merged_records": 1
+  }
+}

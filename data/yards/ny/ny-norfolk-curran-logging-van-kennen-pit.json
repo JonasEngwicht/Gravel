@@ -1,0 +1,41 @@
+{
+  "id": "ny-norfolk-curran-logging-van-kennen-pit",
+  "slug": "curran-logging-van-kennen-pit",
+  "name": "Curran Logging – Van Kennen Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Norfolk",
+    "state": "NY",
+    "zip": "13678"
+  },
+  "location": {
+    "lat": 44.825278,
+    "lng": -74.905
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004092"
+  },
+  "msha": [
+    {
+      "mine_id": "3004092",
+      "name": "Van Kennen Pit",
+      "operator": "Curran Logging, Inc.",
+      "status": "Intermittent",
+      "status_since": "2022-09-02",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

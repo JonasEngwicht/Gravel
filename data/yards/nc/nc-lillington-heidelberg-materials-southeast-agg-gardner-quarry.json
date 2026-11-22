@@ -1,0 +1,41 @@
+{
+  "id": "nc-lillington-heidelberg-materials-southeast-agg-gardner-quarry",
+  "slug": "heidelberg-materials-southeast-agg-gardner-quarry",
+  "name": "Heidelberg Materials Southeast Agg – Gardner Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lillington",
+    "state": "NC",
+    "zip": "28323"
+  },
+  "location": {
+    "lat": 35.336944,
+    "lng": -78.858056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101871"
+  },
+  "msha": [
+    {
+      "mine_id": "3101871",
+      "name": "Gardner Quarry",
+      "operator": "Heidelberg Materials Southeast Agg. LLC",
+      "status": "Active",
+      "status_since": "1980-01-02",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 24
+    }
+  ]
+}

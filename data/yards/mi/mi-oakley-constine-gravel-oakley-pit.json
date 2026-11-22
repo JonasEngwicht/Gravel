@@ -1,0 +1,41 @@
+{
+  "id": "mi-oakley-constine-gravel-oakley-pit",
+  "slug": "constine-gravel-oakley-pit",
+  "name": "Constine Gravel – Oakley Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Oakley",
+    "state": "MI",
+    "zip": "48649"
+  },
+  "location": {
+    "lat": 43.154167,
+    "lng": -84.2025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2002976"
+  },
+  "msha": [
+    {
+      "mine_id": "2002976",
+      "name": "Oakley Pit",
+      "operator": "Constine Gravel Co.",
+      "status": "Intermittent",
+      "status_since": "2020-09-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

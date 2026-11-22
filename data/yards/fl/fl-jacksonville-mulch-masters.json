@@ -1,0 +1,36 @@
+{
+  "id": "fl-jacksonville-mulch-masters",
+  "slug": "mulch-masters",
+  "name": "Mulch Masters",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "230 Lee Rd",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32225"
+  },
+  "location": {
+    "lat": 30.326593,
+    "lng": -81.536484
+  },
+  "contact": {
+    "phone": "(904) 727-1100",
+    "website": "http://www.mulchmasters.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee8bbffa-82f0-4a6b-9d08-4fd56bc8dba2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

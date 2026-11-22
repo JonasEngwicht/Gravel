@@ -1,0 +1,41 @@
+{
+  "id": "tx-jacksboro-zack-burkett-springfield-pit",
+  "slug": "zack-burkett-springfield-pit",
+  "name": "Zack Burkett – Springfield Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jacksboro",
+    "state": "TX",
+    "zip": "76458"
+  },
+  "location": {
+    "lat": 33.211389,
+    "lng": -98.126389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104851"
+  },
+  "msha": [
+    {
+      "mine_id": "4104851",
+      "name": "Springfield Pit",
+      "operator": "Zack Burkett Co.",
+      "status": "Active",
+      "status_since": "2012-03-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

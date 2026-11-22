@@ -1,0 +1,36 @@
+{
+  "id": "ny-spencerport-huff-sand-and-gravel",
+  "slug": "huff-sand-and-gravel",
+  "name": "Huff Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4108 Canal Rd",
+    "city": "Spencerport",
+    "state": "NY",
+    "zip": "14559"
+  },
+  "location": {
+    "lat": 43.201038,
+    "lng": -77.834465
+  },
+  "contact": {
+    "phone": "(585) 352-1551",
+    "website": "http://www.llhuffco.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8c595ca-2892-4f16-bf9e-8fd6378725cf",
+    "confidence": 0.537,
+    "merged_records": 1
+  }
+}

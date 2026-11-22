@@ -1,0 +1,49 @@
+{
+  "id": "ca-concord-martin-marietta-clayton-aggregates",
+  "slug": "martin-marietta-clayton-aggregates",
+  "name": "Martin Marietta - Clayton Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "501 Kaiser Quarry Rd",
+    "city": "Concord",
+    "state": "CA",
+    "zip": "94521"
+  },
+  "location": {
+    "lat": 37.931416,
+    "lng": -121.957771
+  },
+  "contact": {
+    "phone": "(925) 672-4956",
+    "website": "https://www.martinmarietta.com/locations/west/california-aggregates-district/clayton-aggregates"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dfe5f0c2-f8ad-42e9-905c-ee5042517252",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0400159",
+      "name": "Clayton Aggregates",
+      "operator": "Martin Marietta Northern California Aggregates,LLC",
+      "status": "Active",
+      "status_since": "1973-07-25",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

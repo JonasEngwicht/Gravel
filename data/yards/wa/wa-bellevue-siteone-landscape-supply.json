@@ -1,0 +1,37 @@
+{
+  "id": "wa-bellevue-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "13162 SE 32nd St",
+    "city": "Bellevue",
+    "state": "WA",
+    "zip": "98005"
+  },
+  "location": {
+    "lat": 47.582169,
+    "lng": -122.16478
+  },
+  "contact": {
+    "phone": "(425) 644-5577",
+    "website": "https://terrazzostone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "28910d72-5b57-4ad6-9511-42e98f68dc4b",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

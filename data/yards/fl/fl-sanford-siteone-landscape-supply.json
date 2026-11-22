@@ -1,0 +1,37 @@
+{
+  "id": "fl-sanford-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5316 Mcintosh Pt",
+    "city": "Sanford",
+    "state": "FL",
+    "zip": "32773"
+  },
+  "location": {
+    "lat": 28.734262,
+    "lng": -81.300751
+  },
+  "contact": {
+    "phone": "(407) 323-7977",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "973cf467-cf6f-432a-9f02-8f4480593c9a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

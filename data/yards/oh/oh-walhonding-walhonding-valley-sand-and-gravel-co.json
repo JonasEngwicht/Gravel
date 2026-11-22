@@ -1,0 +1,36 @@
+{
+  "id": "oh-walhonding-walhonding-valley-sand-and-gravel-co",
+  "slug": "walhonding-valley-sand-and-gravel-co",
+  "name": "Walhonding Valley Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "27679 State Route 206",
+    "city": "Walhonding",
+    "state": "OH",
+    "zip": "43843"
+  },
+  "location": {
+    "lat": 40.364105,
+    "lng": -82.143295
+  },
+  "contact": {
+    "phone": "(740) 824-5251",
+    "website": "http://www.walhondingvalleysandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee75776c-e9b6-4803-9e66-a2a65bfc7a08",
+    "confidence": 0.887,
+    "merged_records": 2
+  }
+}

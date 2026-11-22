@@ -1,0 +1,41 @@
+{
+  "id": "nm-des-moines-red-hill-lava-products",
+  "slug": "red-hill-lava-products",
+  "name": "Red Hill Lava Products",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Des Moines",
+    "state": "NM",
+    "zip": "88414"
+  },
+  "location": {
+    "lat": 36.82,
+    "lng": -103.884167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902359"
+  },
+  "msha": [
+    {
+      "mine_id": "2902359",
+      "name": "TO Mine Plant",
+      "operator": "Red Hill Lava Products, Inc.",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

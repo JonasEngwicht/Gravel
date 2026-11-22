@@ -1,0 +1,41 @@
+{
+  "id": "sd-platte-ringling-gravel-and-construction-vanderpol-pit",
+  "slug": "ringling-gravel-and-construction-vanderpol-pit",
+  "name": "Ringling Gravel & Construction – Vanderpol Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Platte",
+    "state": "SD",
+    "zip": "57369"
+  },
+  "location": {
+    "lat": 43.425,
+    "lng": -98.9425
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3901636"
+  },
+  "msha": [
+    {
+      "mine_id": "3901636",
+      "name": "Vanderpol Pit",
+      "operator": "Ringling Gravel & Construction LLC",
+      "status": "Intermittent",
+      "status_since": "2019-11-08",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

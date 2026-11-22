@@ -1,0 +1,41 @@
+{
+  "id": "ga-cisco-imerys-carbonates-usa-imerys-cisco-mine",
+  "slug": "imerys-carbonates-usa-imerys-cisco-mine",
+  "name": "Imerys Carbonates USA – Imerys Cisco Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cisco",
+    "state": "GA",
+    "zip": "30708"
+  },
+  "location": {
+    "lat": 34.967222,
+    "lng": -84.665833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901101"
+  },
+  "msha": [
+    {
+      "mine_id": "0901101",
+      "name": "Imerys Cisco Mine",
+      "operator": "Imerys Carbonates USA, INC",
+      "status": "Active",
+      "status_since": "2024-09-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

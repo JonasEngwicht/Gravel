@@ -1,0 +1,41 @@
+{
+  "id": "il-charleston-charleston-stone",
+  "slug": "charleston-stone",
+  "name": "Charleston Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Charleston",
+    "state": "IL",
+    "zip": "61920"
+  },
+  "location": {
+    "lat": 39.519167,
+    "lng": -88.101111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100027"
+  },
+  "msha": [
+    {
+      "mine_id": "1100027",
+      "name": "Charleston Stone Co",
+      "operator": "Charleston Stone Company",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

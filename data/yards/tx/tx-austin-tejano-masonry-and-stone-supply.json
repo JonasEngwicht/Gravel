@@ -1,0 +1,35 @@
+{
+  "id": "tx-austin-tejano-masonry-and-stone-supply",
+  "slug": "tejano-masonry-and-stone-supply",
+  "name": "Tejano Masonry & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5180 E Ben White Blvd",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78741"
+  },
+  "location": {
+    "lat": 30.214376,
+    "lng": -97.725182
+  },
+  "contact": {
+    "phone": "(512) 966-5063"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "08fc6da7-9b7c-4d69-b0e6-9ba9a6b3e4d6",
+    "confidence": 0.897,
+    "merged_records": 1
+  }
+}

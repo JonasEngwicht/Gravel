@@ -1,0 +1,36 @@
+{
+  "id": "pa-elizabethtown-mulch-mountain",
+  "slug": "mulch-mountain",
+  "name": "Mulch Mountain",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5645 Ridge Rd",
+    "city": "Elizabethtown",
+    "state": "PA",
+    "zip": "17022"
+  },
+  "location": {
+    "lat": 40.225948,
+    "lng": -76.627899
+  },
+  "contact": {
+    "phone": "(717) 367-3692",
+    "website": "http://mulchmountain.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d43db92-f8a0-4918-9cd0-2cd6405bd984",
+    "confidence": 0.551,
+    "merged_records": 1
+  }
+}

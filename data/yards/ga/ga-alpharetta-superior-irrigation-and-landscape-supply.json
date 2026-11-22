@@ -1,0 +1,37 @@
+{
+  "id": "ga-alpharetta-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "755 Union Hill Road",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004"
+  },
+  "location": {
+    "lat": 34.129208,
+    "lng": -84.231369
+  },
+  "contact": {
+    "phone": "(470) 731-3478",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/SILALPH/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf595316-e971-4a7a-a10e-e568222c0393",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

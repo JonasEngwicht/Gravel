@@ -1,0 +1,35 @@
+{
+  "id": "mi-clyde-twp-ruby-sand-and-gravel",
+  "slug": "ruby-sand-and-gravel",
+  "name": "Ruby Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6601 Imlay City Rd",
+    "city": "Clyde Twp",
+    "state": "MI",
+    "zip": "48049"
+  },
+  "location": {
+    "lat": 43.03397,
+    "lng": -82.596107
+  },
+  "contact": {
+    "phone": "(810) 364-6100"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c731c8d1-30c7-49e3-af39-4fdeb0ec734a",
+    "confidence": 0.599,
+    "merged_records": 1
+  }
+}

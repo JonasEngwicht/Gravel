@@ -1,0 +1,35 @@
+{
+  "id": "ga-thomasville-plantation-landscape-supply",
+  "slug": "plantation-landscape-supply",
+  "name": "Plantation Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12790 US Highway 19 S",
+    "city": "Thomasville",
+    "state": "GA",
+    "zip": "31757"
+  },
+  "location": {
+    "lat": 30.826759,
+    "lng": -83.94072
+  },
+  "contact": {
+    "phone": "(229) 226-3672"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8840ad1-7af8-4a98-89a2-a2d41fe06d31",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

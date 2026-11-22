@@ -1,0 +1,41 @@
+{
+  "id": "nv-pahrump-st-cloud-mining-ash-meadows-plant-and-mine",
+  "slug": "st-cloud-mining-ash-meadows-plant-and-mine",
+  "name": "St. Cloud Mining – Ash Meadows Plant & Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pahrump",
+    "state": "NV",
+    "zip": "89060"
+  },
+  "location": {
+    "lat": 36.363333,
+    "lng": -116.29
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602104"
+  },
+  "msha": [
+    {
+      "mine_id": "2602104",
+      "name": "Ash Meadows Plant & Mine",
+      "operator": "St. Cloud Mining Company",
+      "status": "Intermittent",
+      "status_since": "2025-04-21",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

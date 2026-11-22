@@ -1,0 +1,36 @@
+{
+  "id": "ny-newburgh-cutrone-sand-and-stone-landscape-supply",
+  "slug": "cutrone-sand-and-stone-landscape-supply",
+  "name": "Cutrone Sand & Stone Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5405 US-9W",
+    "city": "Newburgh",
+    "state": "NY",
+    "zip": "12550"
+  },
+  "location": {
+    "lat": 41.566216,
+    "lng": -73.998199
+  },
+  "contact": {
+    "phone": "(845) 562-4660",
+    "website": "http://www.cutronesandandstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "520024a4-e295-4056-b0d3-ce213e2d62c9",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

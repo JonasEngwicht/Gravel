@@ -1,0 +1,36 @@
+{
+  "id": "mi-hopkins-allegan-county-sand-and-gravel",
+  "slug": "allegan-county-sand-and-gravel",
+  "name": "Allegan County Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2328 23rd St",
+    "city": "Hopkins",
+    "state": "MI",
+    "zip": "49328"
+  },
+  "location": {
+    "lat": 42.590096,
+    "lng": -85.766685
+  },
+  "contact": {
+    "phone": "(269) 793-3526",
+    "website": "http://www.allegancountysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5e9556d8-0bb5-4f75-b15c-5f74b44b04f4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

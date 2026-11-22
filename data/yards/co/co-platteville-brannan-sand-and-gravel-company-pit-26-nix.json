@@ -1,0 +1,41 @@
+{
+  "id": "co-platteville-brannan-sand-and-gravel-company-pit-26-nix",
+  "slug": "brannan-sand-and-gravel-company-pit-26-nix",
+  "name": "Brannan Sand and Gravel Company – Pit 26-Nix",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Platteville",
+    "state": "CO",
+    "zip": "80651"
+  },
+  "location": {
+    "lat": 40.189722,
+    "lng": -104.8975
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0505158"
+  },
+  "msha": [
+    {
+      "mine_id": "0505158",
+      "name": "Pit 26-Nix",
+      "operator": "Brannan Sand and Gravel Company, LLC.",
+      "status": "Intermittent",
+      "status_since": "2022-10-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

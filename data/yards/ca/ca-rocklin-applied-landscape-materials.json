@@ -1,0 +1,36 @@
+{
+  "id": "ca-rocklin-applied-landscape-materials",
+  "slug": "applied-landscape-materials",
+  "name": "Applied Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4500 Pacific St",
+    "city": "Rocklin",
+    "state": "CA",
+    "zip": "95677"
+  },
+  "location": {
+    "lat": 38.79884,
+    "lng": -121.228241
+  },
+  "contact": {
+    "phone": "(800) 256-7147",
+    "website": "http://appliedlandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6c6f7e12-8e3b-4e8e-bad9-b632ec7a4189",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

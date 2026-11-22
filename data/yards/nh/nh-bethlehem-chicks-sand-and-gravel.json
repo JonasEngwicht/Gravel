@@ -1,0 +1,36 @@
+{
+  "id": "nh-bethlehem-chicks-sand-and-gravel",
+  "slug": "chicks-sand-and-gravel",
+  "name": "Chicks Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "104 Douglas Dr",
+    "city": "Bethlehem",
+    "state": "NH",
+    "zip": "03574"
+  },
+  "location": {
+    "lat": 44.327728,
+    "lng": -71.693756
+  },
+  "contact": {
+    "phone": "(603) 444-0676",
+    "website": "https://chicks-sand-and-gravel-at-route-116.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59b78c13-d4cc-4fcb-bbea-8bca50c428b7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

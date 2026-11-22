@@ -1,0 +1,36 @@
+{
+  "id": "mi-holland-autumn-ridge-stone-and-landscape-supply",
+  "slug": "autumn-ridge-stone-and-landscape-supply",
+  "name": "Autumn Ridge Stone and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5960 136th Ave",
+    "city": "Holland",
+    "state": "MI",
+    "zip": "49424"
+  },
+  "location": {
+    "lat": 42.874584,
+    "lng": -86.118446
+  },
+  "contact": {
+    "phone": "(616) 786-2800",
+    "website": "http://www.autumnridgestone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ffd477f7-90e4-4100-9826-30433d6d1ee9",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

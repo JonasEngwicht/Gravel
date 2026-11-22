@@ -1,0 +1,36 @@
+{
+  "id": "pa-elizabeth-blue-ridge-landscape-supply",
+  "slug": "blue-ridge-landscape-supply",
+  "name": "Blue Ridge Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "308 Scenery Dr",
+    "city": "Elizabeth",
+    "state": "PA",
+    "zip": "15037"
+  },
+  "location": {
+    "lat": 40.279659,
+    "lng": -79.83651
+  },
+  "contact": {
+    "phone": "(412) 751-2000",
+    "website": "http://www.blueridgesupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0cab915f-55aa-4d10-983f-c48cff67d85c",
+    "confidence": 0.82,
+    "merged_records": 1
+  }
+}

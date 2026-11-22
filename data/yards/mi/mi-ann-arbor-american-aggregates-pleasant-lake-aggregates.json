@@ -1,0 +1,36 @@
+{
+  "id": "mi-ann-arbor-american-aggregates-pleasant-lake-aggregates",
+  "slug": "american-aggregates-pleasant-lake-aggregates",
+  "name": "American Aggregates - Pleasant Lake Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9985 Pleasant Lake Rd",
+    "city": "Ann Arbor",
+    "state": "MI",
+    "zip": "48103"
+  },
+  "location": {
+    "lat": 42.199448,
+    "lng": -83.931145
+  },
+  "contact": {
+    "phone": "(734) 944-1189",
+    "website": "https://www.edwclevy.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7215d9c1-707d-456e-ab3e-ab607b097aa6",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "va-providence-forge-schreiber-mulch-and-materials",
+  "slug": "schreiber-mulch-and-materials",
+  "name": "Schreiber Mulch & Materials",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5001 Courthouse Rd",
+    "city": "Providence Forge",
+    "state": "VA",
+    "zip": "23140"
+  },
+  "location": {
+    "lat": 37.424385,
+    "lng": -77.046837
+  },
+  "contact": {
+    "phone": "(804) 966-1251",
+    "website": "https://schreibermulchmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ee954b5-638e-408d-b2e6-5b25bd34ea95",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

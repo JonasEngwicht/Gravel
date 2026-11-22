@@ -1,0 +1,36 @@
+{
+  "id": "va-wirtz-hilltop-mulch-inc",
+  "slug": "hilltop-mulch-inc",
+  "name": "Hilltop Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "430 Wirtz Rd",
+    "city": "Wirtz",
+    "state": "VA",
+    "zip": "24184"
+  },
+  "location": {
+    "lat": 37.073418,
+    "lng": -79.891289
+  },
+  "contact": {
+    "phone": "(540) 334-5321",
+    "website": "http://hilltopmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9314df6a-fd06-4bf6-8bee-8b71a73be663",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

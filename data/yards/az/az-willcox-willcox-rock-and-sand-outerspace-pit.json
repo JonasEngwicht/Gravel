@@ -1,0 +1,41 @@
+{
+  "id": "az-willcox-willcox-rock-and-sand-outerspace-pit",
+  "slug": "willcox-rock-and-sand-outerspace-pit",
+  "name": "Willcox Rock & Sand – Outerspace Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Willcox",
+    "state": "AZ",
+    "zip": "85605"
+  },
+  "location": {
+    "lat": 32.184444,
+    "lng": -109.699444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0200732"
+  },
+  "msha": [
+    {
+      "mine_id": "0200732",
+      "name": "Outerspace Pit",
+      "operator": "Willcox Rock & Sand Inc",
+      "status": "Active",
+      "status_since": "2015-04-03",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

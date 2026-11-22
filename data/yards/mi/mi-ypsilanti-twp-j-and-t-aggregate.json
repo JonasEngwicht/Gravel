@@ -1,0 +1,35 @@
+{
+  "id": "mi-ypsilanti-twp-j-and-t-aggregate",
+  "slug": "j-and-t-aggregate",
+  "name": "J & T Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7200 Rawsonville Rd",
+    "city": "Ypsilanti Twp",
+    "state": "MI",
+    "zip": "48111"
+  },
+  "location": {
+    "lat": 42.185825,
+    "lng": -83.544121
+  },
+  "contact": {
+    "phone": "(734) 787-5819"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82043c06-a2f1-4ff7-a2df-7816e91952b2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

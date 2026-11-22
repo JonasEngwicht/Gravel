@@ -1,0 +1,41 @@
+{
+  "id": "in-walkerton-landmark-materials",
+  "slug": "landmark-materials",
+  "name": "Landmark Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Walkerton",
+    "state": "IN",
+    "zip": "46532"
+  },
+  "location": {
+    "lat": 41.473056,
+    "lng": -86.591944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202466"
+  },
+  "msha": [
+    {
+      "mine_id": "1202466",
+      "name": "Landmark Materials",
+      "operator": "Landmark Materials, LLC",
+      "status": "Active",
+      "status_since": "2019-08-13",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

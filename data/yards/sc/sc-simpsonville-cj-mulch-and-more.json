@@ -1,0 +1,36 @@
+{
+  "id": "sc-simpsonville-cj-mulch-and-more",
+  "slug": "cj-mulch-and-more",
+  "name": "CJ Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "910 NE Main St.",
+    "city": "Simpsonville",
+    "state": "SC",
+    "zip": "29681"
+  },
+  "location": {
+    "lat": 34.753128,
+    "lng": -82.2659
+  },
+  "contact": {
+    "phone": "(864) 505-1499",
+    "website": "http://www.cjmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3b997a5-2740-474d-9e08-8e9935812f2c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

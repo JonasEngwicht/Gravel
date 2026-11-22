@@ -1,0 +1,49 @@
+{
+  "id": "nc-woodleaf-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "9025 Cool Springs Rd",
+    "city": "Woodleaf",
+    "state": "NC",
+    "zip": "27054"
+  },
+  "location": {
+    "lat": 35.769615,
+    "lng": -80.591568
+  },
+  "contact": {
+    "phone": "(704) 278-4825",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "00131621-83d3-45a3-8d51-760f5c4ea3a1",
+    "confidence": 0.715,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3100069",
+      "name": "Woodleaf Quarry",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Active",
+      "status_since": "1972-03-27",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

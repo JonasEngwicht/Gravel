@@ -1,0 +1,41 @@
+{
+  "id": "ky-butler-florida-rock-industries-butler-quarry",
+  "slug": "florida-rock-industries-butler-quarry",
+  "name": "Florida Rock Industries – Butler Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Butler",
+    "state": "KY",
+    "zip": "41006"
+  },
+  "location": {
+    "lat": 38.793889,
+    "lng": -84.345
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500030"
+  },
+  "msha": [
+    {
+      "mine_id": "1500030",
+      "name": "Butler Quarry",
+      "operator": "Florida Rock Industries Inc.",
+      "status": "Active",
+      "status_since": "2004-01-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ar-pea-ridge-tillman-sand-and-gravel",
+  "slug": "tillman-sand-and-gravel",
+  "name": "Tillman Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14574 It'll Do Rd",
+    "city": "Pea-Ridge",
+    "state": "AR",
+    "zip": "72751"
+  },
+  "location": {
+    "lat": 36.445946,
+    "lng": -94.140564
+  },
+  "contact": {
+    "phone": "(479) 488-3006"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c005af2-4d4e-47e0-96ac-c5dcfdeb139e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "il-sheridan-tri-con-materials-sheridan",
+  "slug": "tri-con-materials-sheridan",
+  "name": "Tri-Con Materials – Sheridan",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sheridan",
+    "state": "IL",
+    "zip": "60551"
+  },
+  "location": {
+    "lat": 41.544444,
+    "lng": -88.678611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102855"
+  },
+  "msha": [
+    {
+      "mine_id": "1102855",
+      "name": "Sheridan",
+      "operator": "Tri-Con Materials Inc",
+      "status": "Intermittent",
+      "status_since": "2026-04-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

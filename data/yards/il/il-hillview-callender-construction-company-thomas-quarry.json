@@ -1,0 +1,41 @@
+{
+  "id": "il-hillview-callender-construction-company-thomas-quarry",
+  "slug": "callender-construction-company-thomas-quarry",
+  "name": "Callender Construction Company – Thomas Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hillview",
+    "state": "IL",
+    "zip": "62078"
+  },
+  "location": {
+    "lat": 39.526667,
+    "lng": -90.519722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100214"
+  },
+  "msha": [
+    {
+      "mine_id": "1100214",
+      "name": "Thomas Quarry",
+      "operator": "Callender Construction Company Inc",
+      "status": "Active",
+      "status_since": "1995-11-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

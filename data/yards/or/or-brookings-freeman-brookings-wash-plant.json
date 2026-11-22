@@ -1,0 +1,41 @@
+{
+  "id": "or-brookings-freeman-brookings-wash-plant",
+  "slug": "freeman-brookings-wash-plant",
+  "name": "Freeman Brookings Wash Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Brookings",
+    "state": "OR",
+    "zip": "97415"
+  },
+  "location": {
+    "lat": 42.069166,
+    "lng": -124.253611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503600"
+  },
+  "msha": [
+    {
+      "mine_id": "3503600",
+      "name": "Freeman Brookings Wash Plant",
+      "operator": "Freeman Rock Inc",
+      "status": "Intermittent",
+      "status_since": "2013-05-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

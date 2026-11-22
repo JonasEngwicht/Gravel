@@ -1,0 +1,41 @@
+{
+  "id": "in-jeffersonville-heidelberg-materials-midwest-agg-atkins-mine",
+  "slug": "heidelberg-materials-midwest-agg-atkins-mine",
+  "name": "Heidelberg Materials Midwest Agg – Atkins Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jeffersonville",
+    "state": "IN",
+    "zip": "47129"
+  },
+  "location": {
+    "lat": 38.301389,
+    "lng": -85.741944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200004"
+  },
+  "msha": [
+    {
+      "mine_id": "1200004",
+      "name": "Atkins Mine",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

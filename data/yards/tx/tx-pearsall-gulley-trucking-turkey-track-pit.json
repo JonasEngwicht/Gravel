@@ -1,0 +1,41 @@
+{
+  "id": "tx-pearsall-gulley-trucking-turkey-track-pit",
+  "slug": "gulley-trucking-turkey-track-pit",
+  "name": "Gulley Trucking – Turkey Track Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Pearsall",
+    "state": "TX",
+    "zip": "78061"
+  },
+  "location": {
+    "lat": 28.830556,
+    "lng": -99.147222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104959"
+  },
+  "msha": [
+    {
+      "mine_id": "4104959",
+      "name": "Turkey Track Pit",
+      "operator": "Gulley Trucking, Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-10-05",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

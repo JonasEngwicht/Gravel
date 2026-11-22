@@ -1,0 +1,41 @@
+{
+  "id": "me-belfast-state-sand-and-gravel-belfast-pit-and-mill",
+  "slug": "state-sand-and-gravel-belfast-pit-and-mill",
+  "name": "State Sand & Gravel – Belfast Pit And Mill",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Belfast",
+    "state": "ME",
+    "zip": "04915"
+  },
+  "location": {
+    "lat": 44.425833,
+    "lng": -69.006389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700252"
+  },
+  "msha": [
+    {
+      "mine_id": "1700252",
+      "name": "Belfast Pit And Mill",
+      "operator": "State Sand & Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "1991-06-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

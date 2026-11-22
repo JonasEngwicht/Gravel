@@ -1,0 +1,41 @@
+{
+  "id": "tn-caryville-rogers-group-caryville-quarry",
+  "slug": "rogers-group-caryville-quarry",
+  "name": "Rogers Group – Caryville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Caryville",
+    "state": "TN",
+    "zip": "37769"
+  },
+  "location": {
+    "lat": 36.258889,
+    "lng": -84.183056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4002899"
+  },
+  "msha": [
+    {
+      "mine_id": "4002899",
+      "name": "Caryville Quarry",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "2008-07-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

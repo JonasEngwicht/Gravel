@@ -1,0 +1,36 @@
+{
+  "id": "il-new-lenox-815-mulch-it",
+  "slug": "815-mulch-it",
+  "name": "815 Mulch It",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2085 Spencer Rd",
+    "city": "New Lenox",
+    "state": "IL",
+    "zip": "60451"
+  },
+  "location": {
+    "lat": 41.481915,
+    "lng": -87.941383
+  },
+  "contact": {
+    "phone": "(815) 685-2448",
+    "website": "http://www.815MulchIt.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0f0f38b9-df06-4f60-913d-3a8da523ea30",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

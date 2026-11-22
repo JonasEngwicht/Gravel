@@ -1,0 +1,35 @@
+{
+  "id": "in-clay-city-quality-mulch-products",
+  "slug": "quality-mulch-products",
+  "name": "Quality Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8142 IN-59",
+    "city": "Clay City",
+    "state": "IN",
+    "zip": "47841"
+  },
+  "location": {
+    "lat": 39.270744,
+    "lng": -87.11882
+  },
+  "contact": {
+    "phone": "(812) 249-0114"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abe2208c-4b5c-4994-a947-40723faff1d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

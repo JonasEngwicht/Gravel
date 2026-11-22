@@ -1,0 +1,48 @@
+{
+  "id": "nh-hooksett-manchester-sand-and-gravel",
+  "slug": "manchester-sand-and-gravel",
+  "name": "Manchester Sand and Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1355 Hooksett Rd",
+    "city": "Hooksett",
+    "state": "NH",
+    "zip": "03106"
+  },
+  "location": {
+    "lat": 43.062885,
+    "lng": -71.441689
+  },
+  "contact": {
+    "phone": "(603) 668-4000",
+    "website": "https://www.manchestersand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ec4b8c3-fe41-4ff8-ab9c-7ec7e3b56857",
+    "confidence": 0.612,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2700062",
+      "name": "Hooksett Gp #1",
+      "operator": "Manchester Sand Gravel & Cement Company Inc",
+      "status": "Active",
+      "status_since": "2012-02-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

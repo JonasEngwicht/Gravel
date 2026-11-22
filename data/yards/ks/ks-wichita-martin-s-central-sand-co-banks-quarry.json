@@ -1,0 +1,41 @@
+{
+  "id": "ks-wichita-martin-s-central-sand-co-banks-quarry",
+  "slug": "martin-s-central-sand-co-banks-quarry",
+  "name": "Martin's Central Sand Co – Banks Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67101"
+  },
+  "location": {
+    "lat": 37.781111,
+    "lng": -97.443333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401726"
+  },
+  "msha": [
+    {
+      "mine_id": "1401726",
+      "name": "Banks Quarry",
+      "operator": "Martin's Central Sand Co., Inc.",
+      "status": "Active",
+      "status_since": "2023-04-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

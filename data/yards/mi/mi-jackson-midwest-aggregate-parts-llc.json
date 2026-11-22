@@ -1,0 +1,36 @@
+{
+  "id": "mi-jackson-midwest-aggregate-parts-llc",
+  "slug": "midwest-aggregate-parts-llc",
+  "name": "Midwest Aggregate Parts, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3203 Brooklyn Rd",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49203"
+  },
+  "location": {
+    "lat": 42.194374,
+    "lng": -84.362206
+  },
+  "contact": {
+    "phone": "(517) 990-6860",
+    "website": "https://www.midwestaggregateparts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3142a2f2-5c97-428a-81e1-4c485ca03bb6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

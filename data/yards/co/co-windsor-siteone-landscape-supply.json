@@ -1,0 +1,37 @@
+{
+  "id": "co-windsor-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6166 County Road 74",
+    "city": "Windsor",
+    "state": "CO",
+    "zip": "80550"
+  },
+  "location": {
+    "lat": 40.517857,
+    "lng": -104.938797
+  },
+  "contact": {
+    "phone": "(970) 226-8733",
+    "website": "https://www.siteone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f89abb0b-8f2a-4e0f-861e-b908451395d3",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

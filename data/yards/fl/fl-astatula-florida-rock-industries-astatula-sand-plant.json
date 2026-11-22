@@ -1,0 +1,41 @@
+{
+  "id": "fl-astatula-florida-rock-industries-astatula-sand-plant",
+  "slug": "florida-rock-industries-astatula-sand-plant",
+  "name": "Florida Rock Industries – Astatula Sand Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Astatula",
+    "state": "FL",
+    "zip": "34705"
+  },
+  "location": {
+    "lat": 28.7025,
+    "lng": -81.733056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0800300"
+  },
+  "msha": [
+    {
+      "mine_id": "0800300",
+      "name": "Astatula Sand Plant",
+      "operator": "Florida Rock Industries Inc",
+      "status": "Active",
+      "status_since": "1975-08-28",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

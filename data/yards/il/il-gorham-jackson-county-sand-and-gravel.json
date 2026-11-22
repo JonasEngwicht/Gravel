@@ -1,0 +1,36 @@
+{
+  "id": "il-gorham-jackson-county-sand-and-gravel",
+  "slug": "jackson-county-sand-and-gravel",
+  "name": "Jackson County Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1 Sickler Rd",
+    "city": "Gorham",
+    "state": "IL",
+    "zip": "62940"
+  },
+  "location": {
+    "lat": 37.735909,
+    "lng": -89.467293
+  },
+  "contact": {
+    "phone": "(618) 763-4711",
+    "website": "http://jacksongov.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5808630-fda6-46e1-aa05-42ab0dea16c4",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

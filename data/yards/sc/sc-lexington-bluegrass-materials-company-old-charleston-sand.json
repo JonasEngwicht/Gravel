@@ -1,0 +1,41 @@
+{
+  "id": "sc-lexington-bluegrass-materials-company-old-charleston-sand",
+  "slug": "bluegrass-materials-company-old-charleston-sand",
+  "name": "Bluegrass Materials Company – Old Charleston Sand",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29073"
+  },
+  "location": {
+    "lat": 33.842222,
+    "lng": -81.314444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800702"
+  },
+  "msha": [
+    {
+      "mine_id": "3800702",
+      "name": "Old Charleston Sand",
+      "operator": "Bluegrass Materials Company, LLC",
+      "status": "Active",
+      "status_since": "2001-06-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

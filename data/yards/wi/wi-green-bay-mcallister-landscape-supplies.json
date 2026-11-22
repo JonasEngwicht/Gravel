@@ -1,0 +1,36 @@
+{
+  "id": "wi-green-bay-mcallister-landscape-supplies",
+  "slug": "mcallister-landscape-supplies",
+  "name": "McAllister Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4589 Milltown Rd",
+    "city": "Green Bay",
+    "state": "WI",
+    "zip": "54313"
+  },
+  "location": {
+    "lat": 44.57423,
+    "lng": -88.158813
+  },
+  "contact": {
+    "phone": "(920) 865-7241",
+    "website": "http://mcallisterlandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0b2d2037-b0f6-43ee-8eb1-33ce00a5169a",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

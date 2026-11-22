@@ -1,0 +1,35 @@
+{
+  "id": "md-goldsboro-bridgetown-sand-and-gravel",
+  "slug": "bridgetown-sand-and-gravel",
+  "name": "Bridgetown Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15112 Oakland Rd",
+    "city": "Goldsboro",
+    "state": "MD",
+    "zip": "21636"
+  },
+  "location": {
+    "lat": 39.023323,
+    "lng": -75.875885
+  },
+  "contact": {
+    "website": "https://www.paxcos.com/production-facilities/bridgetown-plant/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "277c4a40-a8ac-4105-97f9-921599dbf8ce",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

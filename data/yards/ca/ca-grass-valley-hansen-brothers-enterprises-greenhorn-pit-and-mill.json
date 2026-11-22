@@ -1,0 +1,41 @@
+{
+  "id": "ca-grass-valley-hansen-brothers-enterprises-greenhorn-pit-and-mill",
+  "slug": "hansen-brothers-enterprises-greenhorn-pit-and-mill",
+  "name": "Hansen Brothers Enterprises – Greenhorn Pit & Mill",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Grass Valley",
+    "state": "CA",
+    "zip": "95945"
+  },
+  "location": {
+    "lat": 39.198333,
+    "lng": -120.933611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0403138"
+  },
+  "msha": [
+    {
+      "mine_id": "0403138",
+      "name": "Greenhorn Pit & Mill",
+      "operator": "Hansen Brothers Enterprises",
+      "status": "Active",
+      "status_since": "1987-10-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ia-la-porte-city-bmc-aggregates-lc",
+  "slug": "bmc-aggregates-lc",
+  "name": "BMC Aggregates LC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11305 Dysart Rd",
+    "city": "La Porte City",
+    "state": "IA",
+    "zip": "50651"
+  },
+  "location": {
+    "lat": 42.350941,
+    "lng": -92.297218
+  },
+  "contact": {
+    "phone": "(319) 342-2299",
+    "website": "http://www.bmcaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "30ff8ffb-da2e-4f57-88cf-925817d5828a",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1302173",
+      "name": "Waterloo South Quarry",
+      "operator": "BMC Aggregates LC",
+      "status": "Active",
+      "status_since": "2009-03-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

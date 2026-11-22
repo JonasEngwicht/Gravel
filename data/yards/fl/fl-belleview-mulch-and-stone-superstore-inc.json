@@ -1,0 +1,36 @@
+{
+  "id": "fl-belleview-mulch-and-stone-superstore-inc",
+  "slug": "mulch-and-stone-superstore-inc",
+  "name": "Mulch And Stone Superstore Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8545 E Highway 25",
+    "city": "Belleview",
+    "state": "FL",
+    "zip": "34420"
+  },
+  "location": {
+    "lat": 29.058796,
+    "lng": -82.011108
+  },
+  "contact": {
+    "phone": "(352) 237-7870",
+    "website": "http://www.mulchandstonesuperstore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df081547-0ecd-468a-9283-4063fb5b9812",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

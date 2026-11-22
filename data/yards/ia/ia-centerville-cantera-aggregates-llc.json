@@ -1,0 +1,36 @@
+{
+  "id": "ia-centerville-cantera-aggregates-llc",
+  "slug": "cantera-aggregates-llc",
+  "name": "Cantera Aggregates, LLC.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18651 IA-2",
+    "city": "Centerville",
+    "state": "IA",
+    "zip": "52544"
+  },
+  "location": {
+    "lat": 40.738777,
+    "lng": -92.931206
+  },
+  "contact": {
+    "phone": "(641) 649-2730",
+    "website": "http://www.canteraaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba6a93fe-c095-4de8-af2e-6cba4cc4f028",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

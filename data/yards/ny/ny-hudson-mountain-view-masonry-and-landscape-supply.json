@@ -1,0 +1,36 @@
+{
+  "id": "ny-hudson-mountain-view-masonry-and-landscape-supply",
+  "slug": "mountain-view-masonry-and-landscape-supply",
+  "name": "Mountain View Masonry & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2057 Route 9H",
+    "city": "Hudson",
+    "state": "NY",
+    "zip": "12534"
+  },
+  "location": {
+    "lat": 42.342831,
+    "lng": -73.705185
+  },
+  "contact": {
+    "phone": "(866) 935-0525",
+    "website": "http://www.mountainviewmasonry.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e28bfc5c-032e-4b93-b782-5c8c84a3b49a",
+    "confidence": 0.601,
+    "merged_records": 1
+  }
+}

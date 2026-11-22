@@ -1,0 +1,36 @@
+{
+  "id": "md-jarrettsville-greenspring-nursery-and-stone-supply",
+  "slug": "greenspring-nursery-and-stone-supply",
+  "name": "Greenspring Nursery And Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1608B Jarrettsville Rd",
+    "city": "Jarrettsville",
+    "state": "MD",
+    "zip": "21084"
+  },
+  "location": {
+    "lat": 39.609322,
+    "lng": -76.458725
+  },
+  "contact": {
+    "phone": "(410) 893-2307",
+    "website": "https://www.greenspringstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3692adbd-75b3-4dfe-93d3-b5d196ca1ec5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

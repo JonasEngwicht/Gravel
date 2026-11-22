@@ -1,0 +1,36 @@
+{
+  "id": "tx-georgetown-cc-aggregates",
+  "slug": "cc-aggregates",
+  "name": "Cc Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1700 County Road 147",
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78633"
+  },
+  "location": {
+    "lat": 30.736942,
+    "lng": -97.670792
+  },
+  "contact": {
+    "phone": "(512) 863-5675",
+    "website": "https://www.ccaggregatesllc.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b013bc55-65ab-4ec6-aa62-a9c22bce8bbb",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

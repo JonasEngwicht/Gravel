@@ -1,0 +1,41 @@
+{
+  "id": "al-montgomery-asphalt-contractors-jenkins-pit",
+  "slug": "asphalt-contractors-jenkins-pit",
+  "name": "Asphalt Contractors – Jenkins Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36130"
+  },
+  "location": {
+    "lat": 32.359444,
+    "lng": -86.304444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103003"
+  },
+  "msha": [
+    {
+      "mine_id": "0103003",
+      "name": "Jenkins Pit",
+      "operator": "Asphalt Contractors Inc",
+      "status": "Active",
+      "status_since": "2013-01-25",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

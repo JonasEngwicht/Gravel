@@ -1,0 +1,36 @@
+{
+  "id": "mi-zeeland-mulch-pro",
+  "slug": "mulch-pro",
+  "name": "Mulch Pro",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6640 96th Ave",
+    "city": "Zeeland",
+    "state": "MI",
+    "zip": "49464"
+  },
+  "location": {
+    "lat": 42.88942,
+    "lng": -86.021362
+  },
+  "contact": {
+    "phone": "(616) 875-4500",
+    "website": "http://www.mulchpro.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9bba9e48-9819-42ef-9586-505ed48b1af9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

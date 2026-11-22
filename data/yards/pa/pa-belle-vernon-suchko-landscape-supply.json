@@ -1,0 +1,35 @@
+{
+  "id": "pa-belle-vernon-suchko-landscape-supply",
+  "slug": "suchko-landscape-supply",
+  "name": "Suchko Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "267 Finley Rd",
+    "city": "Belle Vernon",
+    "state": "PA",
+    "zip": "15012"
+  },
+  "location": {
+    "lat": 40.139099,
+    "lng": -79.827187
+  },
+  "contact": {
+    "phone": "(724) 929-6096"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15839f3c-810c-4608-865e-4900dae03ea1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

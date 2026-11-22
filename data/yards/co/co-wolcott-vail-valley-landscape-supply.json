@@ -1,0 +1,36 @@
+{
+  "id": "co-wolcott-vail-valley-landscape-supply",
+  "slug": "vail-valley-landscape-supply",
+  "name": "Vail Valley Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1190 Ute Creek Rd",
+    "city": "Wolcott",
+    "state": "CO",
+    "zip": "81655"
+  },
+  "location": {
+    "lat": 39.719891,
+    "lng": -106.647316
+  },
+  "contact": {
+    "phone": "(970) 390-6545",
+    "website": "http://www.vailvalleylandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "60736d49-e5fd-424e-abcf-d30a5b7c7fbb",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

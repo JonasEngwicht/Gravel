@@ -1,0 +1,41 @@
+{
+  "id": "ny-cortland-east-homer-sand-and-gravel-beard-mine",
+  "slug": "east-homer-sand-and-gravel-beard-mine",
+  "name": "East Homer Sand & Gravel – Beard Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cortland",
+    "state": "NY",
+    "zip": "13101"
+  },
+  "location": {
+    "lat": 42.658333,
+    "lng": -76.0975
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003596"
+  },
+  "msha": [
+    {
+      "mine_id": "3003596",
+      "name": "Beard Mine",
+      "operator": "East Homer Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2007-06-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mo-ellington-rmc-ellington-aggregates",
+  "slug": "rmc-ellington-aggregates",
+  "name": "Rmc – Ellington Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Ellington",
+    "state": "MO",
+    "zip": "63633"
+  },
+  "location": {
+    "lat": 37.3675,
+    "lng": -90.959167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302137"
+  },
+  "msha": [
+    {
+      "mine_id": "2302137",
+      "name": "Ellington Aggregates",
+      "operator": "Rmc, Llc",
+      "status": "Intermittent",
+      "status_since": "1996-05-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

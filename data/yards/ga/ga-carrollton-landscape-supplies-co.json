@@ -1,0 +1,32 @@
+{
+  "id": "ga-carrollton-landscape-supplies-co",
+  "slug": "landscape-supplies-co",
+  "name": "Landscape Supplies Co",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2585 Mastec Dr",
+    "city": "Carrollton",
+    "state": "GA",
+    "zip": "30116"
+  },
+  "location": {
+    "lat": 33.610844,
+    "lng": -84.996613
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "232647a0-38c0-4f65-b6ad-3091b25df4a2",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

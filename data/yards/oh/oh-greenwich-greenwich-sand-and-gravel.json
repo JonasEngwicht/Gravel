@@ -1,0 +1,35 @@
+{
+  "id": "oh-greenwich-greenwich-sand-and-gravel",
+  "slug": "greenwich-sand-and-gravel",
+  "name": "Greenwich Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6 Pierce St",
+    "city": "Greenwich",
+    "state": "OH",
+    "zip": "44837"
+  },
+  "location": {
+    "lat": 41.031391,
+    "lng": -82.511551
+  },
+  "contact": {
+    "phone": "(419) 750-3162"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "67917da5-9ad2-4e81-96e8-f78af2c5bf51",
+    "confidence": 0.508,
+    "merged_records": 1
+  }
+}

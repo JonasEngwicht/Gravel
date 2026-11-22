@@ -1,0 +1,41 @@
+{
+  "id": "mo-gilliam-martin-marietta-materials-gilliam-quarry",
+  "slug": "martin-marietta-materials-gilliam-quarry",
+  "name": "Martin Marietta Materials – Gilliam Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gilliam",
+    "state": "MO",
+    "zip": "65349"
+  },
+  "location": {
+    "lat": 39.233056,
+    "lng": -93.004722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300083"
+  },
+  "msha": [
+    {
+      "mine_id": "2300083",
+      "name": "Gilliam Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2010-04-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

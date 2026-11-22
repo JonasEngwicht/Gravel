@@ -1,0 +1,41 @@
+{
+  "id": "pa-berwick-riverview-block-s-m-rinehimer",
+  "slug": "riverview-block-s-m-rinehimer",
+  "name": "Riverview Block – S M Rinehimer",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Berwick",
+    "state": "PA",
+    "zip": "18603"
+  },
+  "location": {
+    "lat": 41.07,
+    "lng": -76.234722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3605944"
+  },
+  "msha": [
+    {
+      "mine_id": "3605944",
+      "name": "S M Rinehimer",
+      "operator": "Riverview Block, Inc.",
+      "status": "Intermittent",
+      "status_since": "1990-04-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

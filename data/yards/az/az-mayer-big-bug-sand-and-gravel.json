@@ -1,0 +1,48 @@
+{
+  "id": "az-mayer-big-bug-sand-and-gravel",
+  "slug": "big-bug-sand-and-gravel",
+  "name": "Big Bug Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11501 Finley Rd",
+    "city": "Mayer",
+    "state": "AZ",
+    "zip": "86333"
+  },
+  "location": {
+    "lat": 34.427097,
+    "lng": -112.259491
+  },
+  "contact": {
+    "phone": "(928) 632-9359",
+    "website": "http://bigbugsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f07e705d-1891-4bd4-8a38-d10d7b92b696",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0202013",
+      "name": "Star Placer dba: Big Bug Sand & Gravel",
+      "operator": "Carlin Trend Mining Supplies and Service",
+      "status": "Active",
+      "status_since": "2013-05-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

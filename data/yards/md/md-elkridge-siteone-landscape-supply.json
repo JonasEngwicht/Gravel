@@ -1,0 +1,37 @@
+{
+  "id": "md-elkridge-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7387 Washington Blvd Ste 108",
+    "city": "Elkridge",
+    "state": "MD",
+    "zip": "21075"
+  },
+  "location": {
+    "lat": 39.179058,
+    "lng": -76.762733
+  },
+  "contact": {
+    "phone": "(410) 379-6986",
+    "website": "https://www.siteone.com/store/500"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "84c28678-6ca6-4d0c-bc93-b21aba7b0cab",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

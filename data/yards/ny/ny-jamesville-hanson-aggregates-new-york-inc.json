@@ -1,0 +1,37 @@
+{
+  "id": "ny-jamesville-hanson-aggregates-new-york-inc",
+  "slug": "hanson-aggregates-new-york-inc",
+  "name": "Hanson Aggregates New York Inc.",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "4800 Jamesville Rd",
+    "city": "Jamesville",
+    "state": "NY",
+    "zip": "13078"
+  },
+  "location": {
+    "lat": 43.007263,
+    "lng": -76.074402
+  },
+  "contact": {
+    "phone": "(315) 469-5501",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "58bf35c5-1dc7-46ba-af9b-565ac5fbe1a7",
+    "confidence": 0.851,
+    "merged_records": 1
+  }
+}

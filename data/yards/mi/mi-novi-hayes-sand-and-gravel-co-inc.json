@@ -1,0 +1,32 @@
+{
+  "id": "mi-novi-hayes-sand-and-gravel-co-inc",
+  "slug": "hayes-sand-and-gravel-co-inc",
+  "name": "Hayes Sand & Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "26650 Taft Rd",
+    "city": "Novi",
+    "state": "MI",
+    "zip": "48375"
+  },
+  "location": {
+    "lat": 42.486519,
+    "lng": -83.494888
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dffe71c8-d723-4ed6-8666-fd0c2b2c1706",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

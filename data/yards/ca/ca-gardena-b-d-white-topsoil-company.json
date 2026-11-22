@@ -1,0 +1,36 @@
+{
+  "id": "ca-gardena-b-d-white-topsoil-company",
+  "slug": "b-d-white-topsoil-company",
+  "name": "B D White Topsoil Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "18800 S Broadway",
+    "city": "Gardena",
+    "state": "CA",
+    "zip": "90248"
+  },
+  "location": {
+    "lat": 33.859741,
+    "lng": -118.278267
+  },
+  "contact": {
+    "phone": "(310) 370-5511",
+    "website": "https://bdwhitetopsoil.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f5cd3260-95a7-4287-b8fe-0c79fffb0a96",
+    "confidence": 0.949,
+    "merged_records": 1
+  }
+}

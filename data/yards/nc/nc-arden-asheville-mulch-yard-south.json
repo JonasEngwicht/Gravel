@@ -1,0 +1,36 @@
+{
+  "id": "nc-arden-asheville-mulch-yard-south",
+  "slug": "asheville-mulch-yard-south",
+  "name": "Asheville Mulch Yard (South)",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9 Frito Way",
+    "city": "Arden",
+    "state": "NC",
+    "zip": "28704"
+  },
+  "location": {
+    "lat": 35.480782,
+    "lng": -82.581154
+  },
+  "contact": {
+    "phone": "(828) 687-2792",
+    "website": "http://www.ashevillemulchyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4159f7f1-e104-4e7b-bc0c-80bdb89a12a6",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "in-mitchell-indian-creek-stone-products-stone-yard",
+  "slug": "indian-creek-stone-products-stone-yard",
+  "name": "Indian Creek Stone Products - Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "12998 US Highway 50 West",
+    "city": "Mitchell",
+    "state": "IN",
+    "zip": "47446"
+  },
+  "location": {
+    "lat": 38.721069,
+    "lng": -86.683945
+  },
+  "contact": {
+    "phone": "(812) 849-4808",
+    "website": "http://indiancreek33421498-357744.hibustudio.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d017f551-3d90-48da-9707-da23eea15679",
+    "confidence": 0.988,
+    "merged_records": 1
+  }
+}

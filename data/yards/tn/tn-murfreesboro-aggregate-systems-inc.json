@@ -1,0 +1,36 @@
+{
+  "id": "tn-murfreesboro-aggregate-systems-inc",
+  "slug": "aggregate-systems-inc",
+  "name": "Aggregate Systems, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2441 Old Fort Pkwy  # 403",
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37128"
+  },
+  "location": {
+    "lat": 35.843197,
+    "lng": -86.440964
+  },
+  "contact": {
+    "phone": "(615) 494-1210",
+    "website": "https://www.asiequipmentsales.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42907556-0f3f-420f-8e95-7fe79418bf1b",
+    "confidence": 0.933,
+    "merged_records": 1
+  }
+}

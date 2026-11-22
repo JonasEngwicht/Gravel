@@ -1,0 +1,36 @@
+{
+  "id": "mi-stockbridge-52-landscape-supply",
+  "slug": "52-landscape-supply",
+  "name": "52 Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "396 W Main St",
+    "city": "Stockbridge",
+    "state": "MI",
+    "zip": "49285"
+  },
+  "location": {
+    "lat": 42.452431,
+    "lng": -84.184067
+  },
+  "contact": {
+    "phone": "(517) 851-0052",
+    "website": "http://www.52landscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a7ff942-5cf1-4bba-8085-2c9e6870e069",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

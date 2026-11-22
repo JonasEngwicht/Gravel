@@ -1,0 +1,41 @@
+{
+  "id": "al-wedowee-aggrastone-long-pit",
+  "slug": "aggrastone-long-pit",
+  "name": "Aggrastone – Long Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Wedowee",
+    "state": "AL",
+    "zip": "36276"
+  },
+  "location": {
+    "lat": 33.209722,
+    "lng": -85.560556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103514"
+  },
+  "msha": [
+    {
+      "mine_id": "0103514",
+      "name": "Long Pit",
+      "operator": "Aggrastone",
+      "status": "Active",
+      "status_since": "2026-03-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "il-darien-boeger-s-landscape-supply",
+  "slug": "boeger-s-landscape-supply",
+  "name": "Boeger's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8700 Lemont Rd #1746",
+    "city": "Darien",
+    "state": "IL",
+    "zip": "60561"
+  },
+  "location": {
+    "lat": 41.728981,
+    "lng": -88.012634
+  },
+  "contact": {
+    "phone": "(630) 985-0533"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "faaae43a-2b27-424a-a686-8db2d08a404d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

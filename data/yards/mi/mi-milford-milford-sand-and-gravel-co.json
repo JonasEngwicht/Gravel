@@ -1,0 +1,35 @@
+{
+  "id": "mi-milford-milford-sand-and-gravel-co",
+  "slug": "milford-sand-and-gravel-co",
+  "name": "Milford Sand and Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4780 S Hill Rd",
+    "city": "Milford",
+    "state": "MI",
+    "zip": "48381"
+  },
+  "location": {
+    "lat": 42.524601,
+    "lng": -83.599091
+  },
+  "contact": {
+    "phone": "(248) 437-3033"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8b3dff74-3541-4764-b763-7fdfc0c64147",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

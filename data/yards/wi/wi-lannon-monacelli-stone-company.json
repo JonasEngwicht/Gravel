@@ -1,0 +1,41 @@
+{
+  "id": "wi-lannon-monacelli-stone-company",
+  "slug": "monacelli-stone-company",
+  "name": "Monacelli Stone Company",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lannon",
+    "state": "WI",
+    "zip": "53046"
+  },
+  "location": {
+    "lat": 43.148333,
+    "lng": -88.155833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703135"
+  },
+  "msha": [
+    {
+      "mine_id": "4703135",
+      "name": "Monacelli Stone Company Inc",
+      "operator": "Monacelli Stone Company Inc",
+      "status": "Active",
+      "status_since": "2014-04-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

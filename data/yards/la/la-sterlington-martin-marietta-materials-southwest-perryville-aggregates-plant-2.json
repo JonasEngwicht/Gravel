@@ -1,0 +1,41 @@
+{
+  "id": "la-sterlington-martin-marietta-materials-southwest-perryville-aggregates-plant-2",
+  "slug": "martin-marietta-materials-southwest-perryville-aggregates-plant-2",
+  "name": "Martin Marietta Materials Southwest – Perryville Aggregates Plant #2",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sterlington",
+    "state": "LA",
+    "zip": "71220"
+  },
+  "location": {
+    "lat": 32.756111,
+    "lng": -91.872222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601417"
+  },
+  "msha": [
+    {
+      "mine_id": "1601417",
+      "name": "Perryville Aggregates Plant #2",
+      "operator": "Martin Marietta Materials Southwest, LLC",
+      "status": "Active",
+      "status_since": "2004-11-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

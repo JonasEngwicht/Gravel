@@ -1,0 +1,49 @@
+{
+  "id": "oh-bloomville-hanson-aggregates-mid-west",
+  "slug": "hanson-aggregates-mid-west",
+  "name": "Hanson Aggregates Mid West",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "4575 S County Road 49",
+    "city": "Bloomville",
+    "state": "OH",
+    "zip": "44818"
+  },
+  "location": {
+    "lat": 41.057995,
+    "lng": -82.991653
+  },
+  "contact": {
+    "phone": "(419) 983-2211",
+    "website": "https://www.lehighhanson.com/home/advanced?s=quote&fid=nusohf5026-bloomville-quarry-OH-Limestone&isAdvancedPage=true&utm_source=I&utm_medium=lpm&utm_campaign=lehigh"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31d0dcb9-aa58-43b4-8007-fbec5d0e816d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3300066",
+      "name": "Bloomville Stone Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2012-06-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

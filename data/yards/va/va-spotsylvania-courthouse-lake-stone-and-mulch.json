@@ -1,0 +1,36 @@
+{
+  "id": "va-spotsylvania-courthouse-lake-stone-and-mulch",
+  "slug": "lake-stone-and-mulch",
+  "name": "Lake Stone and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5730 Courthouse Road",
+    "city": "Spotsylvania Courthouse",
+    "state": "VA",
+    "zip": "22551"
+  },
+  "location": {
+    "lat": 38.118515,
+    "lng": -77.762665
+  },
+  "contact": {
+    "phone": "(540) 895-0006",
+    "website": "https://lakestonemulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5db7d511-94ce-4cc1-87a1-61d05ff9aa1a",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

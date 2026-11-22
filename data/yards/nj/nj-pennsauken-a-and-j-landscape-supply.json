@@ -1,0 +1,36 @@
+{
+  "id": "nj-pennsauken-a-and-j-landscape-supply",
+  "slug": "a-and-j-landscape-supply",
+  "name": "A & J Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2955 Haddonfield Rd",
+    "city": "Pennsauken",
+    "state": "NJ",
+    "zip": "08110"
+  },
+  "location": {
+    "lat": 39.968159,
+    "lng": -75.02372
+  },
+  "contact": {
+    "phone": "(856) 356-2083",
+    "website": "https://ajgarden.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7f89b1d9-9dec-41a9-848e-1997c1ec2407",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-friday-harbor-cattle-point-rock-and-topsoil",
+  "slug": "cattle-point-rock-and-topsoil",
+  "name": "Cattle Point Rock & Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "933 Cattle Point Rd",
+    "city": "Friday Harbor",
+    "state": "WA",
+    "zip": "98250"
+  },
+  "location": {
+    "lat": 48.510773,
+    "lng": -123.026527
+  },
+  "contact": {
+    "phone": "(360) 378-6300",
+    "website": "http://www.cprockandtopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d821ed4-e0b3-491f-9bc9-408c8b6cf239",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wi-belgium-maxfield-s-topsoil",
+  "slug": "maxfield-s-topsoil",
+  "name": "Maxfield's Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1734 County Road D",
+    "city": "Belgium",
+    "state": "WI",
+    "zip": "53004"
+  },
+  "location": {
+    "lat": 43.499649,
+    "lng": -87.871651
+  },
+  "contact": {
+    "phone": "(262) 376-7645",
+    "website": "http://www.maxfieldstopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7c5053f6-6991-469b-9422-46a3f7e946cc",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

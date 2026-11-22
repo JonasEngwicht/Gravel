@@ -1,0 +1,58 @@
+{
+  "id": "nh-bennington-francestown-sand-and-gravel",
+  "slug": "francestown-sand-and-gravel",
+  "name": "Francestown Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "200 Francestown Rd",
+    "city": "Bennington",
+    "state": "NH",
+    "zip": "03442"
+  },
+  "location": {
+    "lat": 43.010254,
+    "lng": -71.902939
+  },
+  "contact": {
+    "phone": "(603) 588-3900",
+    "website": "http://timesquarelabs.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "034d06db-3ac8-43dd-a184-780cf51aeebe",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2700466",
+      "name": "Bennington Pit",
+      "operator": "Francestown Sand & Gravel, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    },
+    {
+      "mine_id": "2700467",
+      "name": "D.H. Hardwick + Sons, Inc.",
+      "operator": "D.H. Hardwick + Sons, Inc.",
+      "status": "Intermittent",
+      "status_since": "2012-11-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

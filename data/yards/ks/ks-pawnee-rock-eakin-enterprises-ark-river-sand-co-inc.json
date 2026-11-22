@@ -1,0 +1,41 @@
+{
+  "id": "ks-pawnee-rock-eakin-enterprises-ark-river-sand-co-inc",
+  "slug": "eakin-enterprises-ark-river-sand-co-inc",
+  "name": "Eakin Enterprises – Ark River Sand Co. Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Pawnee Rock",
+    "state": "KS",
+    "zip": "67567"
+  },
+  "location": {
+    "lat": 38.275833,
+    "lng": -98.995556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401764"
+  },
+  "msha": [
+    {
+      "mine_id": "1401764",
+      "name": "Ark River Sand Co. Inc.",
+      "operator": "Eakin Enterprises Inc.",
+      "status": "Active",
+      "status_since": "2023-04-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

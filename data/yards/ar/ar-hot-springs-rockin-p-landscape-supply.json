@@ -1,0 +1,36 @@
+{
+  "id": "ar-hot-springs-rockin-p-landscape-supply",
+  "slug": "rockin-p-landscape-supply",
+  "name": "Rockin' P Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2137 Carpenter Dam Rd",
+    "city": "Hot Springs",
+    "state": "AR",
+    "zip": "71913"
+  },
+  "location": {
+    "lat": 34.42934,
+    "lng": -93.020073
+  },
+  "contact": {
+    "phone": "(501) 545-0093",
+    "website": "http://www.rockinplandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "92db7017-3e3b-4daf-ad73-9f2668ceff91",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

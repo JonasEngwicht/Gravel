@@ -1,0 +1,41 @@
+{
+  "id": "va-branchville-titan-mid-atlantic-aggregates-branchville-sand-mine",
+  "slug": "titan-mid-atlantic-aggregates-branchville-sand-mine",
+  "name": "Titan Mid Atlantic Aggregates – Branchville Sand Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Branchville",
+    "state": "VA",
+    "zip": "23828"
+  },
+  "location": {
+    "lat": 36.578611,
+    "lng": -77.295556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406591"
+  },
+  "msha": [
+    {
+      "mine_id": "4406591",
+      "name": "Branchville Sand Mine",
+      "operator": "Titan Mid Atlantic Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2020-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

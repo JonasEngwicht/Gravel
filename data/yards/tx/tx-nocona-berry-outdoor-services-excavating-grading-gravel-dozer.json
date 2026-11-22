@@ -1,0 +1,36 @@
+{
+  "id": "tx-nocona-berry-outdoor-services-excavating-grading-gravel-dozer",
+  "slug": "berry-outdoor-services-excavating-grading-gravel-dozer",
+  "name": "Berry Outdoor Services - Excavating, Grading, Gravel, Dozer",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5632 Dixie School Rd",
+    "city": "Nocona",
+    "state": "TX",
+    "zip": "76255"
+  },
+  "location": {
+    "lat": 33.732361,
+    "lng": -97.66011
+  },
+  "contact": {
+    "phone": "(940) 441-3289",
+    "website": "http://www.berryoutdoorservices.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4e701ec8-5f3d-42af-8dd5-4a71a6eac51e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-uvalde-south-texas-aggregates-inc",
+  "slug": "south-texas-aggregates-inc",
+  "name": "South Texas Aggregates Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4343 E Main St",
+    "city": "Uvalde",
+    "state": "TX",
+    "zip": "78801"
+  },
+  "location": {
+    "lat": 29.248745,
+    "lng": -99.737106
+  },
+  "contact": {
+    "phone": "(830) 591-1400",
+    "website": "http://www.southtexasaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "977c81e5-ad6f-4d38-918e-072e06aa63c1",
+    "confidence": 0.98,
+    "merged_records": 1
+  }
+}

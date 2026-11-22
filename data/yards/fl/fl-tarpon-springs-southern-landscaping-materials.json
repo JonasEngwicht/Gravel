@@ -1,0 +1,36 @@
+{
+  "id": "fl-tarpon-springs-southern-landscaping-materials",
+  "slug": "southern-landscaping-materials",
+  "name": "Southern Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "39660 US-19",
+    "city": "Tarpon Springs",
+    "state": "FL",
+    "zip": "34689"
+  },
+  "location": {
+    "lat": 28.132607,
+    "lng": -82.74073
+  },
+  "contact": {
+    "phone": "(727) 942-1919",
+    "website": "http://dirtsoilandmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2d55addd-9e27-40c8-abe3-27e0b429bc7f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

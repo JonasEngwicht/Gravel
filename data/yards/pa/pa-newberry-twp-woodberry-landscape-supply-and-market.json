@@ -1,0 +1,35 @@
+{
+  "id": "pa-newberry-twp-woodberry-landscape-supply-and-market",
+  "slug": "woodberry-landscape-supply-and-market",
+  "name": "Woodberry Landscape Supply & Market",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1745 Old Trail Rd",
+    "city": "Newberry Twp",
+    "state": "PA",
+    "zip": "17319"
+  },
+  "location": {
+    "lat": 40.139015,
+    "lng": -76.807953
+  },
+  "contact": {
+    "phone": "(717) 562-1654"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0fa2147-d30e-4266-b88d-7a11cba2de87",
+    "confidence": 0.597,
+    "merged_records": 1
+  }
+}

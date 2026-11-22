@@ -1,0 +1,41 @@
+{
+  "id": "ms-tremont-apac-ms-tremont-pit",
+  "slug": "apac-ms-tremont-pit",
+  "name": "Apac, Ms – Tremont Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Tremont",
+    "state": "MS",
+    "zip": "35593"
+  },
+  "location": {
+    "lat": 34.318611,
+    "lng": -88.1825
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200784"
+  },
+  "msha": [
+    {
+      "mine_id": "2200784",
+      "name": "Tremont Pit",
+      "operator": "Apac, Ms Inc.",
+      "status": "Active",
+      "status_since": "2009-03-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

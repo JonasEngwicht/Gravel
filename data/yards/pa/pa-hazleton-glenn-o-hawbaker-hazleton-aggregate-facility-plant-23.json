@@ -1,0 +1,41 @@
+{
+  "id": "pa-hazleton-glenn-o-hawbaker-hazleton-aggregate-facility-plant-23",
+  "slug": "glenn-o-hawbaker-hazleton-aggregate-facility-plant-23",
+  "name": "Glenn O Hawbaker – Hazleton Aggregate Facility Plant #23",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hazleton",
+    "state": "PA",
+    "zip": "18201"
+  },
+  "location": {
+    "lat": 40.958333,
+    "lng": -75.974722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609515"
+  },
+  "msha": [
+    {
+      "mine_id": "3609515",
+      "name": "Hazleton Aggregate Facility Plant #23",
+      "operator": "Glenn O Hawbaker Inc",
+      "status": "Active",
+      "status_since": "2018-06-07",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

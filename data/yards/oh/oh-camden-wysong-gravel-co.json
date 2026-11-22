@@ -1,0 +1,35 @@
+{
+  "id": "oh-camden-wysong-gravel-co",
+  "slug": "wysong-gravel-co",
+  "name": "Wysong Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "120 Camden College Corner Rd",
+    "city": "Camden",
+    "state": "OH",
+    "zip": "45311"
+  },
+  "location": {
+    "lat": 39.845524,
+    "lng": -84.53714
+  },
+  "contact": {
+    "phone": "(937) 452-1523"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "838f5617-ad90-4722-ae37-e55f3202bc9b",
+    "confidence": 0.599,
+    "merged_records": 1
+  }
+}

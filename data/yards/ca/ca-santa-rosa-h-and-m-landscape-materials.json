@@ -1,0 +1,36 @@
+{
+  "id": "ca-santa-rosa-h-and-m-landscape-materials",
+  "slug": "h-and-m-landscape-materials",
+  "name": "H and M Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2030 Llano Rd",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95407"
+  },
+  "location": {
+    "lat": 38.410591,
+    "lng": -122.793541
+  },
+  "contact": {
+    "phone": "(707) 545-3227",
+    "website": "http://www.hmlandscapematerials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b86557de-88b6-4000-994e-4ca6493c3d55",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

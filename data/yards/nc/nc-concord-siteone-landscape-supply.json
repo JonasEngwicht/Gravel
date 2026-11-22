@@ -1,0 +1,37 @@
+{
+  "id": "nc-concord-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1161 Biscayne Dr",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28027"
+  },
+  "location": {
+    "lat": 35.429317,
+    "lng": -80.669418
+  },
+  "contact": {
+    "phone": "(704) 262-7855",
+    "website": "https://www.siteone.com/en/store/77"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "abd33469-bbeb-4196-8e33-fd0d9d9deb63",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "fl-lecanto-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4301 W Gulf To Lake Hwy",
+    "city": "Lecanto",
+    "state": "FL",
+    "zip": "34461"
+  },
+  "location": {
+    "lat": 28.861338,
+    "lng": -82.505142
+  },
+  "contact": {
+    "phone": "(352) 746-7600",
+    "website": "https://www.siteone.com/store/754"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e93c2e26-6d2b-4c58-bd80-356c4f42aa06",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-montrose-newton-s-landscape-supply",
+  "slug": "newton-s-landscape-supply",
+  "name": "Newton's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9230 Vienna Rd",
+    "city": "Montrose",
+    "state": "MI",
+    "zip": "48457"
+  },
+  "location": {
+    "lat": 43.17728,
+    "lng": -83.861923
+  },
+  "contact": {
+    "phone": "(810) 639-2616",
+    "website": "http://www.newtonexcavating.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a76eb467-edff-4769-99ab-7c5925d935eb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

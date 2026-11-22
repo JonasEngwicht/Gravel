@@ -1,0 +1,41 @@
+{
+  "id": "tn-lebanon-grade-a-construction-jennings-pond-road-mine",
+  "slug": "grade-a-construction-jennings-pond-road-mine",
+  "name": "Grade A Construction – Jennings Pond Road Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lebanon",
+    "state": "TN",
+    "zip": "37090"
+  },
+  "location": {
+    "lat": 36.054167,
+    "lng": -86.338611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003587"
+  },
+  "msha": [
+    {
+      "mine_id": "4003587",
+      "name": "Jennings Pond Road Mine",
+      "operator": "Grade A Construction LLC",
+      "status": "Active",
+      "status_since": "2023-02-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

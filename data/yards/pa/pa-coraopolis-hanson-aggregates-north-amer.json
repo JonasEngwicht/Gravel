@@ -1,0 +1,49 @@
+{
+  "id": "pa-coraopolis-hanson-aggregates-north-amer",
+  "slug": "hanson-aggregates-north-amer",
+  "name": "Hanson Aggregates North Amer",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "819 Pennsylvania Ave",
+    "city": "Coraopolis",
+    "state": "PA",
+    "zip": "15108"
+  },
+  "location": {
+    "lat": 40.52285,
+    "lng": -80.166389
+  },
+  "contact": {
+    "phone": "(412) 264-2797",
+    "website": "http://www.lehighhanson.com/sites/hanson-western-pa"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aca62fa8-626e-4886-bec1-ccb3eb6ddbd3",
+    "confidence": 0.522,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3610183",
+      "name": "Temp. Screen - Cory Yard",
+      "operator": "Hanson Aggregates BMC, Inc.",
+      "status": "Abandoned",
+      "status_since": "2016-09-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

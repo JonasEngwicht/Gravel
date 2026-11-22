@@ -1,0 +1,48 @@
+{
+  "id": "ca-redwood-city-cemex-redwood-city-harbor-sand-and-gravel",
+  "slug": "cemex-redwood-city-harbor-sand-and-gravel",
+  "name": "CEMEX Redwood City Harbor Sand&Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "775 Seaport Boulevard",
+    "city": "Redwood City",
+    "state": "CA",
+    "zip": "94063"
+  },
+  "location": {
+    "lat": 37.512283,
+    "lng": -122.208839
+  },
+  "contact": {
+    "phone": "(916) 941-2872",
+    "website": "https://www.cemexusa.com/-/redwood-city-harbor-sand-gravel"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4279f323-10ca-442a-85dc-dbe165436a5c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405528",
+      "name": "Harbor Plant",
+      "operator": "CEMEX Construction Materials LP",
+      "status": "Abandoned",
+      "status_since": "2008-06-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

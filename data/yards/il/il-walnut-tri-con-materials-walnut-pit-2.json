@@ -1,0 +1,41 @@
+{
+  "id": "il-walnut-tri-con-materials-walnut-pit-2",
+  "slug": "tri-con-materials-walnut-pit-2",
+  "name": "Tri-Con Materials – Walnut Pit #2",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Walnut",
+    "state": "IL",
+    "zip": "61376"
+  },
+  "location": {
+    "lat": 41.562222,
+    "lng": -89.618333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1101241"
+  },
+  "msha": [
+    {
+      "mine_id": "1101241",
+      "name": "Walnut Pit #2",
+      "operator": "Tri-Con Materials, Inc.",
+      "status": "Active",
+      "status_since": "2023-10-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

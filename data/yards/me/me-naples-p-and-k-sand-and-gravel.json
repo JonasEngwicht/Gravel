@@ -1,0 +1,36 @@
+{
+  "id": "me-naples-p-and-k-sand-and-gravel",
+  "slug": "p-and-k-sand-and-gravel",
+  "name": "P and K Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "234 Casco Rd",
+    "city": "Naples",
+    "state": "ME",
+    "zip": "04055"
+  },
+  "location": {
+    "lat": 43.978306,
+    "lng": -70.56707
+  },
+  "contact": {
+    "phone": "(207) 693-6765",
+    "website": "http://www.pksandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "47d1b170-eb97-46f3-90c7-2bead9077be8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

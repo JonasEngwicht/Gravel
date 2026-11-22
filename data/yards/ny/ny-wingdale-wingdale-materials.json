@@ -1,0 +1,41 @@
+{
+  "id": "ny-wingdale-wingdale-materials",
+  "slug": "wingdale-materials",
+  "name": "Wingdale Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wingdale",
+    "state": "NY",
+    "zip": "12594"
+  },
+  "location": {
+    "lat": 41.641944,
+    "lng": -73.605833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003138"
+  },
+  "msha": [
+    {
+      "mine_id": "3003138",
+      "name": "Wingdale Mine",
+      "operator": "Wingdale Materials Llc",
+      "status": "Active",
+      "status_since": "2013-07-18",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

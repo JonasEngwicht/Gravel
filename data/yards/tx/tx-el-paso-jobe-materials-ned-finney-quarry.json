@@ -1,0 +1,41 @@
+{
+  "id": "tx-el-paso-jobe-materials-ned-finney-quarry",
+  "slug": "jobe-materials-ned-finney-quarry",
+  "name": "Jobe Materials – Ned Finney Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "El Paso",
+    "state": "TX",
+    "zip": "79938"
+  },
+  "location": {
+    "lat": 31.828611,
+    "lng": -106.113056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104568"
+  },
+  "msha": [
+    {
+      "mine_id": "4104568",
+      "name": "Ned Finney Quarry",
+      "operator": "Jobe Materials LP",
+      "status": "Active",
+      "status_since": "2005-11-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mi-mt-pleasant-mcguirk-sand-and-gravel",
+  "slug": "mcguirk-sand-and-gravel",
+  "name": "McGuirk Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3046 Jens Way",
+    "city": "Mt Pleasant",
+    "state": "MI",
+    "zip": "48858"
+  },
+  "location": {
+    "lat": 43.596668,
+    "lng": -84.810051
+  },
+  "contact": {
+    "phone": "(989) 772-1309"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d4357ec-7010-43c2-af1c-93fec90d3229",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

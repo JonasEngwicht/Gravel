@@ -1,0 +1,37 @@
+{
+  "id": "nc-charlotte-siteone-landscape-supply-10404-granite-st-ste-k",
+  "slug": "siteone-landscape-supply-10404-granite-st-ste-k",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "10404 Granite St Ste K",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28273"
+  },
+  "location": {
+    "lat": 35.126873,
+    "lng": -80.923759
+  },
+  "contact": {
+    "phone": "(866) 928-9934",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b0eea3c-55c7-4bd0-abd1-dec7b7d0abac",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

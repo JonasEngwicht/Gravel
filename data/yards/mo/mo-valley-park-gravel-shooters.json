@@ -1,0 +1,36 @@
+{
+  "id": "mo-valley-park-gravel-shooters",
+  "slug": "gravel-shooters",
+  "name": "Gravel Shooters",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "200 S Elam Ave Ste 200-A",
+    "city": "Valley Park",
+    "state": "MO",
+    "zip": "63088"
+  },
+  "location": {
+    "lat": 38.541264,
+    "lng": -90.499146
+  },
+  "contact": {
+    "phone": "(636) 451-5915",
+    "website": "https://www.gravelshooters.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59793331-21ac-440d-a832-d6c36efa84ae",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

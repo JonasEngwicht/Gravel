@@ -1,0 +1,41 @@
+{
+  "id": "mo-pleasant-hope-gillespie-excavating-company-ats-farms",
+  "slug": "gillespie-excavating-company-ats-farms",
+  "name": "Gillespie Excavating Company – ATS Farms",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Pleasant Hope",
+    "state": "MO",
+    "zip": "65725"
+  },
+  "location": {
+    "lat": 37.495833,
+    "lng": -93.286111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302604"
+  },
+  "msha": [
+    {
+      "mine_id": "2302604",
+      "name": "ATS Farms",
+      "operator": "Gillespie Excavating Company, L.L.C.",
+      "status": "Intermittent",
+      "status_since": "2026-03-20",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

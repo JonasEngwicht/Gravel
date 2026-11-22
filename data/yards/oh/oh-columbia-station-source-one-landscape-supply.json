@@ -1,0 +1,36 @@
+{
+  "id": "oh-columbia-station-source-one-landscape-supply",
+  "slug": "source-one-landscape-supply",
+  "name": "Source One Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "33590 Royalton Rd",
+    "city": "Columbia Station",
+    "state": "OH",
+    "zip": "44028"
+  },
+  "location": {
+    "lat": 41.313946,
+    "lng": -81.973656
+  },
+  "contact": {
+    "phone": "(440) 552-1539",
+    "website": "http://sourceonelandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eecdf2d7-5a46-49fd-a287-49931c295520",
+    "confidence": 0.519,
+    "merged_records": 1
+  }
+}

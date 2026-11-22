@@ -1,0 +1,49 @@
+{
+  "id": "md-williamsport-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "14932 Bottom Rd",
+    "city": "Williamsport",
+    "state": "MD",
+    "zip": "21795"
+  },
+  "location": {
+    "lat": 39.616795,
+    "lng": -77.866058
+  },
+  "contact": {
+    "phone": "(301) 582-2660",
+    "website": "http://martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "905fb6da-e409-4787-8b09-3814624c2382",
+    "confidence": 0.645,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1800021",
+      "name": "Pinesburg Quarry",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Active",
+      "status_since": "1976-03-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 17
+    }
+  ]
+}

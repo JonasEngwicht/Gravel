@@ -1,0 +1,37 @@
+{
+  "id": "oh-blacklick-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "537 High St",
+    "city": "Blacklick",
+    "state": "OH",
+    "zip": "43004"
+  },
+  "location": {
+    "lat": 39.993626,
+    "lng": -82.812538
+  },
+  "contact": {
+    "phone": "(614) 863-0445",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d8a6d211-6a17-4a8b-abb3-db178e3e6643",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

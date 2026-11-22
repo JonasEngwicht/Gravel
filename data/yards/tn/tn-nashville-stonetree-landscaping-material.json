@@ -1,0 +1,36 @@
+{
+  "id": "tn-nashville-stonetree-landscaping-material",
+  "slug": "stonetree-landscaping-material",
+  "name": "Stonetree Landscaping Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9320 Highway 100",
+    "city": "Nashville",
+    "state": "TN",
+    "zip": "37221"
+  },
+  "location": {
+    "lat": 36.018482,
+    "lng": -87.029625
+  },
+  "contact": {
+    "phone": "(615) 646-2208",
+    "website": "http://www.stonetreematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "918f59a2-5bc7-4016-821e-84fe8e325f4b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

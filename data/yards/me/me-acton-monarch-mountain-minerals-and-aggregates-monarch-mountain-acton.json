@@ -1,0 +1,41 @@
+{
+  "id": "me-acton-monarch-mountain-minerals-and-aggregates-monarch-mountain-acton",
+  "slug": "monarch-mountain-minerals-and-aggregates-monarch-mountain-acton",
+  "name": "Monarch Mountain Minerals & Aggregates – Monarch Mountain Acton",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Acton",
+    "state": "ME",
+    "zip": "04001"
+  },
+  "location": {
+    "lat": 43.552222,
+    "lng": -70.944167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700820"
+  },
+  "msha": [
+    {
+      "mine_id": "1700820",
+      "name": "Monarch Mountain Acton",
+      "operator": "Monarch Mountain Minerals & Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2022-05-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

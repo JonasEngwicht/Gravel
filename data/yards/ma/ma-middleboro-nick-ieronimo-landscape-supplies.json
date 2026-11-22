@@ -1,0 +1,36 @@
+{
+  "id": "ma-middleboro-nick-ieronimo-landscape-supplies",
+  "slug": "nick-ieronimo-landscape-supplies",
+  "name": "Nick Ieronimo Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "457 Wareham St",
+    "city": "Middleboro",
+    "state": "MA",
+    "zip": "02346"
+  },
+  "location": {
+    "lat": 41.843174,
+    "lng": -70.845993
+  },
+  "contact": {
+    "phone": "(508) 947-5363",
+    "website": "http://mulchbynick.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1081979-a770-479d-bf16-7eccdf338e87",
+    "confidence": 0.673,
+    "merged_records": 1
+  }
+}

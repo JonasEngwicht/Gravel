@@ -1,0 +1,36 @@
+{
+  "id": "pa-brockport-northstar-aggregates",
+  "slug": "northstar-aggregates",
+  "name": "Northstar Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "101 Howard Rd",
+    "city": "Brockport",
+    "state": "PA",
+    "zip": "15823"
+  },
+  "location": {
+    "lat": 41.254314,
+    "lng": -78.734375
+  },
+  "contact": {
+    "phone": "(814) 265-0318",
+    "website": "http://www.northstaraggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6bc30de2-90d8-48ac-8086-ff9dc247735a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

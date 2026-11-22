@@ -1,0 +1,36 @@
+{
+  "id": "ky-ashland-bobby-s-mulch",
+  "slug": "bobby-s-mulch",
+  "name": "Bobby's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5297 Winchester Ave",
+    "city": "Ashland",
+    "state": "KY",
+    "zip": "41101"
+  },
+  "location": {
+    "lat": 38.443035,
+    "lng": -82.609489
+  },
+  "contact": {
+    "phone": "(606) 329-8855",
+    "website": "https://bobbys-mulch.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea9ea2e4-3333-4e60-b22e-a87e5f028bfa",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

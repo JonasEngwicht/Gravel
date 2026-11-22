@@ -1,0 +1,36 @@
+{
+  "id": "ga-norcross-bentley-s-stone-yard",
+  "slug": "bentley-s-stone-yard",
+  "name": "Bentley's Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3319 Medlock Bridge Rd",
+    "city": "Norcross",
+    "state": "GA",
+    "zip": "30092"
+  },
+  "location": {
+    "lat": 33.964855,
+    "lng": -84.208542
+  },
+  "contact": {
+    "phone": "(770) 448-2302",
+    "website": "http://www.stonesalesatlanta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "07bcc06f-de3c-4419-8d21-a84d53d84944",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

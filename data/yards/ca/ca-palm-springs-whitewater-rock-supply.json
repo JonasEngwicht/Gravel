@@ -1,0 +1,35 @@
+{
+  "id": "ca-palm-springs-whitewater-rock-supply",
+  "slug": "whitewater-rock-supply",
+  "name": "Whitewater Rock Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "801 E Tahquitz Canyon Way",
+    "city": "Palm Springs",
+    "state": "CA",
+    "zip": "92262"
+  },
+  "location": {
+    "lat": 33.822826,
+    "lng": -116.539154
+  },
+  "contact": {
+    "phone": "(760) 325-2747"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26bffc45-b5ec-4a34-bf33-4be28b012348",
+    "confidence": 0.582,
+    "merged_records": 1
+  }
+}

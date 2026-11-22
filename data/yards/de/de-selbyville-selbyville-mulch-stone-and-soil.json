@@ -1,0 +1,36 @@
+{
+  "id": "de-selbyville-selbyville-mulch-stone-and-soil",
+  "slug": "selbyville-mulch-stone-and-soil",
+  "name": "Selbyville Mulch, Stone, & Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "38205 Dupont Blvd",
+    "city": "Selbyville",
+    "state": "DE",
+    "zip": "19975"
+  },
+  "location": {
+    "lat": 38.460503,
+    "lng": -75.23291
+  },
+  "contact": {
+    "phone": "(302) 436-8286",
+    "website": "http://www.selbyvillepetandgarden.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce778f66-a5aa-4745-9361-9c211d7bca85",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

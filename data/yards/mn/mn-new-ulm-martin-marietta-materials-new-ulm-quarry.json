@@ -1,0 +1,41 @@
+{
+  "id": "mn-new-ulm-martin-marietta-materials-new-ulm-quarry",
+  "slug": "martin-marietta-materials-new-ulm-quarry",
+  "name": "Martin Marietta Materials – New Ulm Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "New Ulm",
+    "state": "MN",
+    "zip": "56073"
+  },
+  "location": {
+    "lat": 44.289167,
+    "lng": -94.411944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2100789"
+  },
+  "msha": [
+    {
+      "mine_id": "2100789",
+      "name": "New Ulm Quarry",
+      "operator": "Martin Marietta Materials Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-01-13",
+      "commodity": "Crushed, Broken Quartzite",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

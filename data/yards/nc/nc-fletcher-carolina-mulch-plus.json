@@ -1,0 +1,36 @@
+{
+  "id": "nc-fletcher-carolina-mulch-plus",
+  "slug": "carolina-mulch-plus",
+  "name": "Carolina Mulch Plus",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5245 Hendersonville Rd",
+    "city": "Fletcher",
+    "state": "NC",
+    "zip": "28732"
+  },
+  "location": {
+    "lat": 35.411316,
+    "lng": -82.511635
+  },
+  "contact": {
+    "phone": "(828) 684-2942",
+    "website": "https://www.carolinamulchplus.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "855b185e-8040-414d-a855-f9be40368d7b",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

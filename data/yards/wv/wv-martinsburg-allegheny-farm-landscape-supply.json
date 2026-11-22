@@ -1,0 +1,36 @@
+{
+  "id": "wv-martinsburg-allegheny-farm-landscape-supply",
+  "slug": "allegheny-farm-landscape-supply",
+  "name": "Allegheny Farm Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "527 Eagle School Rd",
+    "city": "Martinsburg",
+    "state": "WV",
+    "zip": "25404"
+  },
+  "location": {
+    "lat": 39.479092,
+    "lng": -77.950508
+  },
+  "contact": {
+    "phone": "(304) 262-4500",
+    "website": "http://www.alleghenyfarm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ba66054-5e7a-4bc1-9d16-644e868e2e4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

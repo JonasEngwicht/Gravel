@@ -1,0 +1,35 @@
+{
+  "id": "pa-central-city-mulch-king-enterprises-llc",
+  "slug": "mulch-king-enterprises-llc",
+  "name": "Mulch King Enterprises LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7695 Lincoln Highway",
+    "city": "Central City",
+    "state": "PA",
+    "zip": "15926"
+  },
+  "location": {
+    "lat": 40.058094,
+    "lng": -78.831123
+  },
+  "contact": {
+    "phone": "(814) 754-1364"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "57a0efdc-4bd9-48a2-a8da-120afdfeb48e",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

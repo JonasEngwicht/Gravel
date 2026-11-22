@@ -1,0 +1,41 @@
+{
+  "id": "md-flintstone-allegany-aggregates-bedrock-quarry",
+  "slug": "allegany-aggregates-bedrock-quarry",
+  "name": "Allegany Aggregates – Bedrock Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Flintstone",
+    "state": "MD",
+    "zip": "21530"
+  },
+  "location": {
+    "lat": 39.709167,
+    "lng": -78.615556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1800719"
+  },
+  "msha": [
+    {
+      "mine_id": "1800719",
+      "name": "Bedrock Quarry",
+      "operator": "Allegany Aggregates Inc",
+      "status": "Active",
+      "status_since": "1995-12-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nj-hamburg-vulcan-construction-materials-hamburg-quarry",
+  "slug": "vulcan-construction-materials-hamburg-quarry",
+  "name": "Vulcan Construction Materials – Hamburg Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hamburg",
+    "state": "NJ",
+    "zip": "07419"
+  },
+  "location": {
+    "lat": 41.150278,
+    "lng": -74.575278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800011"
+  },
+  "msha": [
+    {
+      "mine_id": "2800011",
+      "name": "Hamburg Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1982-12-29",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 23
+    }
+  ]
+}

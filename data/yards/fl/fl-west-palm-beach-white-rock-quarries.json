@@ -1,0 +1,41 @@
+{
+  "id": "fl-west-palm-beach-white-rock-quarries",
+  "slug": "white-rock-quarries",
+  "name": "White Rock Quarries",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "West Palm Beach",
+    "state": "FL",
+    "zip": "33018"
+  },
+  "location": {
+    "lat": 25.938611,
+    "lng": -80.398333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801058"
+  },
+  "msha": [
+    {
+      "mine_id": "0801058",
+      "name": "White Rock Quarries",
+      "operator": "White Rock Quarries",
+      "status": "Active",
+      "status_since": "1986-12-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 205
+    }
+  ]
+}

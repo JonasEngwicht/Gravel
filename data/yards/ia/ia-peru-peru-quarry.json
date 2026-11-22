@@ -1,0 +1,41 @@
+{
+  "id": "ia-peru-peru-quarry",
+  "slug": "peru-quarry",
+  "name": "Peru Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Peru",
+    "state": "IA",
+    "zip": "50222"
+  },
+  "location": {
+    "lat": 41.265278,
+    "lng": -93.961944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302398"
+  },
+  "msha": [
+    {
+      "mine_id": "1302398",
+      "name": "Peru Quarry Inc",
+      "operator": "Peru Quarry Inc",
+      "status": "Active",
+      "status_since": "2021-05-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

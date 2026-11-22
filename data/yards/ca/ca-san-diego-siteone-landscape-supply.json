@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-diego-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5805 Kearny Villa Rd",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92123"
+  },
+  "location": {
+    "lat": 32.838749,
+    "lng": -117.132919
+  },
+  "contact": {
+    "phone": "(858) 560-6611",
+    "website": "https://www.siteone.com/en/store/102"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "781c7ee6-3a77-4936-9532-9e775481e6d7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

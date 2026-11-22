@@ -1,0 +1,41 @@
+{
+  "id": "nc-battlesboro-wake-stone-nash-county-quarry",
+  "slug": "wake-stone-nash-county-quarry",
+  "name": "Wake Stone – Nash County Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Battlesboro",
+    "state": "NC",
+    "zip": "27804"
+  },
+  "location": {
+    "lat": 36.058889,
+    "lng": -77.831389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102071"
+  },
+  "msha": [
+    {
+      "mine_id": "3102071",
+      "name": "Nash County Quarry",
+      "operator": "Wake Stone Corp",
+      "status": "Active",
+      "status_since": "1991-05-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

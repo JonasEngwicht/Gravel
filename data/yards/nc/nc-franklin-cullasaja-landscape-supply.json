@@ -1,0 +1,36 @@
+{
+  "id": "nc-franklin-cullasaja-landscape-supply",
+  "slug": "cullasaja-landscape-supply",
+  "name": "Cullasaja Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "33 Jake Dr",
+    "city": "Franklin",
+    "state": "NC",
+    "zip": "28734"
+  },
+  "location": {
+    "lat": 35.163643,
+    "lng": -83.316704
+  },
+  "contact": {
+    "phone": "(828) 349-3000",
+    "website": "http://www.828Rocks.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b80ffe0f-c5ed-46be-9450-963046cedad6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

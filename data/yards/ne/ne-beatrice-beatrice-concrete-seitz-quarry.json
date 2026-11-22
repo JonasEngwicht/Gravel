@@ -1,0 +1,41 @@
+{
+  "id": "ne-beatrice-beatrice-concrete-seitz-quarry",
+  "slug": "beatrice-concrete-seitz-quarry",
+  "name": "Beatrice Concrete – Seitz Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Beatrice",
+    "state": "NE",
+    "zip": "68318"
+  },
+  "location": {
+    "lat": 40.197222,
+    "lng": -96.670556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2500008"
+  },
+  "msha": [
+    {
+      "mine_id": "2500008",
+      "name": "Seitz Quarry",
+      "operator": "Beatrice Concrete Company",
+      "status": "Active",
+      "status_since": "1994-02-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

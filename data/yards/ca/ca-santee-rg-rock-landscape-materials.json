@@ -1,0 +1,36 @@
+{
+  "id": "ca-santee-rg-rock-landscape-materials",
+  "slug": "rg-rock-landscape-materials",
+  "name": "RG Rock Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11377 Woodside Ave",
+    "city": "Santee",
+    "state": "CA",
+    "zip": "92071"
+  },
+  "location": {
+    "lat": 32.848938,
+    "lng": -116.952599
+  },
+  "contact": {
+    "phone": "(619) 249-9655",
+    "website": "http://rgrockmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7e094d8d-6dfa-40b5-8348-90001ca5acb1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

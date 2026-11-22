@@ -1,0 +1,41 @@
+{
+  "id": "mi-evart-j-r-aggregates",
+  "slug": "j-r-aggregates",
+  "name": "J R Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Evart",
+    "state": "MI",
+    "zip": "49631"
+  },
+  "location": {
+    "lat": 43.937778,
+    "lng": -85.354444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003250"
+  },
+  "msha": [
+    {
+      "mine_id": "2003250",
+      "name": "J R Aggregates",
+      "operator": "J R Aggregates",
+      "status": "Intermittent",
+      "status_since": "2002-07-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

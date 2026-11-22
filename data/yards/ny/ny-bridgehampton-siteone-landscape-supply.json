@@ -1,0 +1,37 @@
+{
+  "id": "ny-bridgehampton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "213 Butter Lane Unit I Unit I",
+    "city": "Bridgehampton",
+    "state": "NY",
+    "zip": "11932"
+  },
+  "location": {
+    "lat": 40.940807,
+    "lng": -72.30899
+  },
+  "contact": {
+    "phone": "(631) 537-1444",
+    "website": "https://www.siteone.com/en/store/213"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "992edc98-ab74-4e61-b5ff-f2176b2876c7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

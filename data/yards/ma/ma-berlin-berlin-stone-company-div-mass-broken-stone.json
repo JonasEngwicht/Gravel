@@ -1,0 +1,41 @@
+{
+  "id": "ma-berlin-berlin-stone-company-div-mass-broken-stone",
+  "slug": "berlin-stone-company-div-mass-broken-stone",
+  "name": "Berlin Stone Company-Div/Mass Broken Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Berlin",
+    "state": "MA",
+    "zip": "01503"
+  },
+  "location": {
+    "lat": 42.391944,
+    "lng": -71.620556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900003"
+  },
+  "msha": [
+    {
+      "mine_id": "1900003",
+      "name": "Berlin Stone Company",
+      "operator": "Berlin Stone Company-Div/Mass Broken Stone Co",
+      "status": "Active",
+      "status_since": "2014-01-22",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

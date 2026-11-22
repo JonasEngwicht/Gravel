@@ -1,0 +1,36 @@
+{
+  "id": "va-danville-raywood-landscape-center",
+  "slug": "raywood-landscape-center",
+  "name": "Raywood Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "165 James Rd",
+    "city": "Danville",
+    "state": "VA",
+    "zip": "24541"
+  },
+  "location": {
+    "lat": 36.594837,
+    "lng": -79.466393
+  },
+  "contact": {
+    "phone": "(434) 822-1400",
+    "website": "http://raywoodlandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f70a1c42-fc1a-42ee-8f23-db2b08cee53e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

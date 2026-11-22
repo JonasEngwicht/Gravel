@@ -1,0 +1,41 @@
+{
+  "id": "mi-cedarville-o-n-minerals-michigan-o-n-minerals-cedarville-operation",
+  "slug": "o-n-minerals-michigan-o-n-minerals-cedarville-operation",
+  "name": "O-N Minerals (Michigan) – O-N Minerals, Cedarville Operation",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cedarville",
+    "state": "MI",
+    "zip": "49719"
+  },
+  "location": {
+    "lat": 46.048889,
+    "lng": -84.313056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2000061"
+  },
+  "msha": [
+    {
+      "mine_id": "2000061",
+      "name": "O-N Minerals, Cedarville Operation",
+      "operator": "O-N Minerals (Michigan) Company",
+      "status": "Active",
+      "status_since": "1991-04-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 87
+    }
+  ]
+}

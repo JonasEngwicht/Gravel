@@ -1,0 +1,35 @@
+{
+  "id": "pa-blairsville-stoney-run-landscape-supply",
+  "slug": "stoney-run-landscape-supply",
+  "name": "Stoney Run Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "669 Stoney Run Rd",
+    "city": "Blairsville",
+    "state": "PA",
+    "zip": "15717"
+  },
+  "location": {
+    "lat": 40.428757,
+    "lng": -79.292496
+  },
+  "contact": {
+    "phone": "(724) 771-0405"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d906724-ce11-4b6d-8abc-868722e03ac4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

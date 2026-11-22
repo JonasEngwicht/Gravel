@@ -1,0 +1,37 @@
+{
+  "id": "co-olathe-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "58521 Amber Rd",
+    "city": "Olathe",
+    "state": "CO",
+    "zip": "81425"
+  },
+  "location": {
+    "lat": 38.665569,
+    "lng": -107.994942
+  },
+  "contact": {
+    "phone": "(970) 323-6300",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ac3e65d-3ef8-4558-9655-61ff0f839ae9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

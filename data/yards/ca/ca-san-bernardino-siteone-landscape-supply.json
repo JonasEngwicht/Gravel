@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-bernardino-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1548 S Mountain View Ave",
+    "city": "San Bernardino",
+    "state": "CA",
+    "zip": "92408"
+  },
+  "location": {
+    "lat": 34.072598,
+    "lng": -117.244087
+  },
+  "contact": {
+    "phone": "(909) 824-3612",
+    "website": "https://www.siteone.com/store/109"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06f261ae-6bf5-446c-ad8e-a595bbc3100b",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

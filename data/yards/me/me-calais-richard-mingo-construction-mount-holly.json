@@ -1,0 +1,41 @@
+{
+  "id": "me-calais-richard-mingo-construction-mount-holly",
+  "slug": "richard-mingo-construction-mount-holly",
+  "name": "Richard Mingo Construction – Mount Holly",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Calais",
+    "state": "ME",
+    "zip": "04671"
+  },
+  "location": {
+    "lat": 45.104722,
+    "lng": -67.162222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701190"
+  },
+  "msha": [
+    {
+      "mine_id": "1701190",
+      "name": "Mount Holly",
+      "operator": "Richard Mingo Construction, Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-08-21",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ny-montrose-dakota-masonry-and-landscaping-supply",
+  "slug": "dakota-masonry-and-landscaping-supply",
+  "name": "Dakota Masonry & Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2097 Albany Post Rd",
+    "city": "Montrose",
+    "state": "NY",
+    "zip": "10548"
+  },
+  "location": {
+    "lat": 41.245827,
+    "lng": -73.924034
+  },
+  "contact": {
+    "phone": "(914) 201-1966",
+    "website": "http://dakotasupply.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e67fadaa-ba35-4d1f-ac56-57905814f426",
+    "confidence": 0.982,
+    "merged_records": 1
+  }
+}

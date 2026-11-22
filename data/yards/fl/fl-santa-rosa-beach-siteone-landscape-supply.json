@@ -1,0 +1,37 @@
+{
+  "id": "fl-santa-rosa-beach-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "77 Shannon Ln",
+    "city": "Santa Rosa Beach",
+    "state": "FL",
+    "zip": "32459"
+  },
+  "location": {
+    "lat": 30.372004,
+    "lng": -86.230316
+  },
+  "contact": {
+    "phone": "(850) 622-1919",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b12eec38-1199-4481-a620-7340582759d5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "sc-inman-inman-mulch-yard",
+  "slug": "inman-mulch-yard",
+  "name": "Inman Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "18 W Clark Rd",
+    "city": "Inman",
+    "state": "SC",
+    "zip": "29349"
+  },
+  "location": {
+    "lat": 35.037251,
+    "lng": -82.086967
+  },
+  "contact": {
+    "phone": "(864) 473-8825",
+    "website": "http://inmanmulchyard.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f58c280e-90bf-41b3-a7cb-30ea4abca968",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

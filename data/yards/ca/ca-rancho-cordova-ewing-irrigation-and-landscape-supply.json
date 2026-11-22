@@ -1,0 +1,36 @@
+{
+  "id": "ca-rancho-cordova-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "3267 Monier Cir",
+    "city": "Rancho Cordova",
+    "state": "CA",
+    "zip": "95742"
+  },
+  "location": {
+    "lat": 38.584267,
+    "lng": -121.261955
+  },
+  "contact": {
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2dc2ee08-bba1-4ee6-a9d7-4aa153a32b35",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

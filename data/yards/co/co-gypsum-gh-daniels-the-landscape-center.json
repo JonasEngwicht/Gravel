@@ -1,0 +1,36 @@
+{
+  "id": "co-gypsum-gh-daniels-the-landscape-center",
+  "slug": "gh-daniels-the-landscape-center",
+  "name": "GH Daniels The Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "140 GH Daniels Blvd.",
+    "city": "Gypsum",
+    "state": "CO",
+    "zip": "81637"
+  },
+  "location": {
+    "lat": 39.64814,
+    "lng": -106.904045
+  },
+  "contact": {
+    "phone": "(970) 524-5010",
+    "website": "http://ghdthelandscapecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b1d3054f-d640-4f19-9e4f-e0241171d22c",
+    "confidence": 0.912,
+    "merged_records": 1
+  }
+}

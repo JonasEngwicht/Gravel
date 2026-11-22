@@ -1,0 +1,36 @@
+{
+  "id": "tx-flint-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "552 CR-149",
+    "city": "Flint",
+    "state": "TX",
+    "zip": "75762"
+  },
+  "location": {
+    "lat": 32.187824,
+    "lng": -95.320465
+  },
+  "contact": {
+    "phone": "(903) 894-8449"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19c289f7-5d34-4974-abcb-45c2bfb58674",
+    "confidence": 0.54,
+    "merged_records": 1
+  }
+}

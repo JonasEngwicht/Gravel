@@ -1,0 +1,37 @@
+{
+  "id": "va-newport-news-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12660 Mcmanus Blvd",
+    "city": "Newport News",
+    "state": "VA",
+    "zip": "23602"
+  },
+  "location": {
+    "lat": 37.139606,
+    "lng": -76.510712
+  },
+  "contact": {
+    "phone": "(757) 833-1607",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e59ccc55-aee1-4996-86f7-901be20c7038",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

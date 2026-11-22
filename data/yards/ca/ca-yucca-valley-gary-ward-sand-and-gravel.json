@@ -1,0 +1,35 @@
+{
+  "id": "ca-yucca-valley-gary-ward-sand-and-gravel",
+  "slug": "gary-ward-sand-and-gravel",
+  "name": "Gary Ward Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "55501 Yucca Trail",
+    "city": "Yucca Valley",
+    "state": "CA",
+    "zip": "92284"
+  },
+  "location": {
+    "lat": 34.120529,
+    "lng": -116.453781
+  },
+  "contact": {
+    "phone": "(760) 577-9328"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9b21331-65a5-4223-ba52-db4c5b5534f4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

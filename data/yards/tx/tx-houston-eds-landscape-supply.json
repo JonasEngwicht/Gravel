@@ -1,0 +1,36 @@
+{
+  "id": "tx-houston-eds-landscape-supply",
+  "slug": "eds-landscape-supply",
+  "name": "EDS Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1550 Dixie Farm Rd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77089"
+  },
+  "location": {
+    "lat": 29.581858,
+    "lng": -95.190857
+  },
+  "contact": {
+    "phone": "(832) 770-9480",
+    "website": "http://www.edslandscapes.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4236f856-70fa-438f-8eeb-ccd010aaf1b3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

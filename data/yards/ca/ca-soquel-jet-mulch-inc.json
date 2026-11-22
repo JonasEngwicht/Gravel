@@ -1,0 +1,35 @@
+{
+  "id": "ca-soquel-jet-mulch-inc",
+  "slug": "jet-mulch-inc",
+  "name": "Jet Mulch Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2901 Park Ave Ste D3",
+    "city": "Soquel",
+    "state": "CA",
+    "zip": "95073"
+  },
+  "location": {
+    "lat": 36.98727,
+    "lng": -121.936821
+  },
+  "contact": {
+    "phone": "(925) 250-5590"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1fca04a0-2a0e-47c7-b468-e77ecdb7a473",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nj-woodbury-deptford-mulch",
+  "slug": "deptford-mulch",
+  "name": "Deptford mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1722 Delsea Dr",
+    "city": "Woodbury",
+    "state": "NJ",
+    "zip": "08096"
+  },
+  "location": {
+    "lat": 39.812305,
+    "lng": -75.125282
+  },
+  "contact": {
+    "phone": "(856) 522-8100",
+    "website": "https://www.nicksfamilygardencenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aee7e930-4e02-4009-8ea6-7f1009686d94",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

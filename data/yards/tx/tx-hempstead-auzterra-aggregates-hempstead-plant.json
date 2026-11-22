@@ -1,0 +1,41 @@
+{
+  "id": "tx-hempstead-auzterra-aggregates-hempstead-plant",
+  "slug": "auzterra-aggregates-hempstead-plant",
+  "name": "AuzTerra Aggregates – Hempstead Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hempstead",
+    "state": "TX",
+    "zip": "11550"
+  },
+  "location": {
+    "lat": 40.706111,
+    "lng": -73.618611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105905"
+  },
+  "msha": [
+    {
+      "mine_id": "4105905",
+      "name": "Hempstead Plant",
+      "operator": "AuzTerra Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2026-08-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

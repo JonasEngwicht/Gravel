@@ -1,0 +1,37 @@
+{
+  "id": "ma-raynham-aggregate-industries-raynham",
+  "slug": "aggregate-industries-raynham",
+  "name": "Aggregate Industries Raynham",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "1500 King Philip St",
+    "city": "Raynham",
+    "state": "MA",
+    "zip": "02767"
+  },
+  "location": {
+    "lat": 41.930439,
+    "lng": -71.06044
+  },
+  "contact": {
+    "phone": "(508) 822-7120",
+    "website": "http://aggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "026017da-8a21-41ec-af8f-7d041f489d97",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

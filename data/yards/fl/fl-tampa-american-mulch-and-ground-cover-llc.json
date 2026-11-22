@@ -1,0 +1,36 @@
+{
+  "id": "fl-tampa-american-mulch-and-ground-cover-llc",
+  "slug": "american-mulch-and-ground-cover-llc",
+  "name": "American Mulch & Ground Cover, LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10512 N Nebraska Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33612"
+  },
+  "location": {
+    "lat": 28.044945,
+    "lng": -82.451263
+  },
+  "contact": {
+    "phone": "(813) 443-2121",
+    "website": "http://www.americanmulch.net/index.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "195c17f2-d1c5-411d-8d60-f6e2f0951420",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

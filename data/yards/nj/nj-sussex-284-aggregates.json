@@ -1,0 +1,36 @@
+{
+  "id": "nj-sussex-284-aggregates",
+  "slug": "284-aggregates",
+  "name": "284 Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "10 NJ-284",
+    "city": "Sussex",
+    "state": "NJ",
+    "zip": "07461"
+  },
+  "location": {
+    "lat": 41.214607,
+    "lng": -74.59938
+  },
+  "contact": {
+    "phone": "(973) 702-0284",
+    "website": "http://284ags.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1636d8de-2eee-46ad-81f1-8097a6f9ba4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

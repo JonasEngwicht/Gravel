@@ -1,0 +1,35 @@
+{
+  "id": "me-buxton-pompeo-sand-and-gravel",
+  "slug": "pompeo-sand-and-gravel",
+  "name": "Pompeo Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "262 Webster Rd",
+    "city": "Buxton",
+    "state": "ME",
+    "zip": "04093"
+  },
+  "location": {
+    "lat": 43.679249,
+    "lng": -70.511597
+  },
+  "contact": {
+    "phone": "(207) 929-8002"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed52907c-1fcc-470f-84b5-9e0277977e20",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ny-garden-city-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3 Commercial Ave",
+    "city": "Garden City",
+    "state": "NY",
+    "zip": "11530"
+  },
+  "location": {
+    "lat": 40.727879,
+    "lng": -73.617615
+  },
+  "contact": {
+    "phone": "(516) 294-1096",
+    "website": "http://siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8efd9327-7206-4cb6-b2a0-87149138305d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

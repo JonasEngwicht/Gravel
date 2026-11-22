@@ -1,0 +1,36 @@
+{
+  "id": "ca-sonoma-sonoma-mulch",
+  "slug": "sonoma-mulch",
+  "name": "Sonoma Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1180 Fremont Dr",
+    "city": "Sonoma",
+    "state": "CA",
+    "zip": "95476"
+  },
+  "location": {
+    "lat": 38.245045,
+    "lng": -122.445091
+  },
+  "contact": {
+    "phone": "(707) 938-2877",
+    "website": "http://www.sonpac.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af95b371-7296-4349-ab9a-76a02dcff7dd",
+    "confidence": 0.977,
+    "merged_records": 1
+  }
+}

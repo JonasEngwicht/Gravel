@@ -1,0 +1,48 @@
+{
+  "id": "al-gadsden-wiregrass-construction-coosa-sand-and-gravel",
+  "slug": "wiregrass-construction-coosa-sand-and-gravel",
+  "name": "Wiregrass Construction - Coosa Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "246 Boatfield Ln",
+    "city": "Gadsden",
+    "state": "AL",
+    "zip": "35901"
+  },
+  "location": {
+    "lat": 34.038345,
+    "lng": -85.839417
+  },
+  "contact": {
+    "phone": "(256) 547-4104",
+    "website": "https://wiregrassconstruction.com/aggregates/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7d32a59-71ee-4286-9a5c-3e04f8e80a98",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0103327",
+      "name": "Coosa Plant",
+      "operator": "Wiregrass Construction Co., Inc.",
+      "status": "Active",
+      "status_since": "2005-07-06",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-san-diego-calmat-chula-vista-quarry",
+  "slug": "calmat-chula-vista-quarry",
+  "name": "CalMat – Chula Vista Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92154"
+  },
+  "location": {
+    "lat": 32.59,
+    "lng": -116.993889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404080"
+  },
+  "msha": [
+    {
+      "mine_id": "0404080",
+      "name": "Chula Vista Quarry",
+      "operator": "CalMat Co",
+      "status": "Active",
+      "status_since": "2007-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 32
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "in-westfield-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "16938 Westfield Park Rd",
+    "city": "Westfield",
+    "state": "IN",
+    "zip": "46074"
+  },
+  "location": {
+    "lat": 40.033455,
+    "lng": -86.13929
+  },
+  "contact": {
+    "phone": "(463) 600-9001",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b3b12e4-89a1-41ca-aab5-838dc5a1de5b",
+    "confidence": 0.898,
+    "merged_records": 1
+  }
+}

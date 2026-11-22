@@ -1,0 +1,36 @@
+{
+  "id": "oh-lewis-center-wholesale-mulch-company",
+  "slug": "wholesale-mulch-company",
+  "name": "Wholesale Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5404 Columbus Pike",
+    "city": "Lewis Center",
+    "state": "OH",
+    "zip": "43035"
+  },
+  "location": {
+    "lat": 40.21801,
+    "lng": -83.03511
+  },
+  "contact": {
+    "phone": "(614) 369-2149",
+    "website": "http://Wholesalemulchcolumbus.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d8b8465-f917-41b2-a362-05da50f4da11",
+    "confidence": 0.912,
+    "merged_records": 2
+  }
+}

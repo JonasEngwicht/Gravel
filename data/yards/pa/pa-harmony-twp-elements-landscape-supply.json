@@ -1,0 +1,36 @@
+{
+  "id": "pa-harmony-twp-elements-landscape-supply",
+  "slug": "elements-landscape-supply",
+  "name": "Elements Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3805 Ohio River Blvd",
+    "city": "Harmony Twp",
+    "state": "PA",
+    "zip": "15005"
+  },
+  "location": {
+    "lat": 40.624912,
+    "lng": -80.229889
+  },
+  "contact": {
+    "phone": "(724) 650-8418",
+    "website": "http://elementslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "44bbc16d-f93a-404e-be62-d654ed437a58",
+    "confidence": 0.531,
+    "merged_records": 1
+  }
+}

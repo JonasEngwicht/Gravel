@@ -1,0 +1,41 @@
+{
+  "id": "sd-sioux-falls-l-g-everist-brookings-sand-and-gravel",
+  "slug": "l-g-everist-brookings-sand-and-gravel",
+  "name": "L. G. Everist – Brookings Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sioux Falls",
+    "state": "SD",
+    "zip": "57007"
+  },
+  "location": {
+    "lat": 44.2975,
+    "lng": -96.7575
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3900305"
+  },
+  "msha": [
+    {
+      "mine_id": "3900305",
+      "name": "Brookings Sand & Gravel",
+      "operator": "L. G. Everist, Inc.",
+      "status": "Active",
+      "status_since": "2013-08-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

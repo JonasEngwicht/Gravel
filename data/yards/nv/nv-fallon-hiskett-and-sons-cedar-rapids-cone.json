@@ -1,0 +1,41 @@
+{
+  "id": "nv-fallon-hiskett-and-sons-cedar-rapids-cone",
+  "slug": "hiskett-and-sons-cedar-rapids-cone",
+  "name": "Hiskett & Sons – Cedar Rapids Cone",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Fallon",
+    "state": "NV",
+    "zip": "89496"
+  },
+  "location": {
+    "lat": 39.229444,
+    "lng": -118.738056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2601045"
+  },
+  "msha": [
+    {
+      "mine_id": "2601045",
+      "name": "Cedar Rapids Cone",
+      "operator": "Hiskett & Sons LLC",
+      "status": "Intermittent",
+      "status_since": "2015-04-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

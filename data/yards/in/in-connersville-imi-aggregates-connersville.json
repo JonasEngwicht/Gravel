@@ -1,0 +1,48 @@
+{
+  "id": "in-connersville-imi-aggregates-connersville",
+  "slug": "imi-aggregates-connersville",
+  "name": "imi Aggregates - Connersville",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1998 S St Rd 121",
+    "city": "Connersville",
+    "state": "IN",
+    "zip": "47331"
+  },
+  "location": {
+    "lat": 39.61245,
+    "lng": -85.151459
+  },
+  "contact": {
+    "phone": "(765) 825-2581",
+    "website": "https://locations.irvmat.com/in/254?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f37a95f-7611-4bd8-93a9-8761b143603e",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200641",
+      "name": "Connersville Pit",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2016-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

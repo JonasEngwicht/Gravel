@@ -1,0 +1,36 @@
+{
+  "id": "ca-american-canyon-crown-hill-stone-supply",
+  "slug": "crown-hill-stone-supply",
+  "name": "Crown Hill Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "650 Green Island Rd",
+    "city": "American Canyon",
+    "state": "CA",
+    "zip": "94503"
+  },
+  "location": {
+    "lat": 38.195663,
+    "lng": -122.265732
+  },
+  "contact": {
+    "phone": "(707) 642-6162",
+    "website": "http://www.crownhillstonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ae0bf74-601f-4dcd-9329-2d8b37680710",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

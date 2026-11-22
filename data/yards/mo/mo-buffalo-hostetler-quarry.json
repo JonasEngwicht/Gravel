@@ -1,0 +1,41 @@
+{
+  "id": "mo-buffalo-hostetler-quarry",
+  "slug": "hostetler-quarry",
+  "name": "Hostetler Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Buffalo",
+    "state": "MO",
+    "zip": "65644"
+  },
+  "location": {
+    "lat": 37.529722,
+    "lng": -93.131389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302255"
+  },
+  "msha": [
+    {
+      "mine_id": "2302255",
+      "name": "Hostetler Quarry LLC",
+      "operator": "Hostetler Quarry LLC",
+      "status": "Active",
+      "status_since": "2006-11-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

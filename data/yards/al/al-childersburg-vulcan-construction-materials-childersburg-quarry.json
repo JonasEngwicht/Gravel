@@ -1,0 +1,41 @@
+{
+  "id": "al-childersburg-vulcan-construction-materials-childersburg-quarry",
+  "slug": "vulcan-construction-materials-childersburg-quarry",
+  "name": "Vulcan Construction Materials – Childersburg Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Childersburg",
+    "state": "AL",
+    "zip": "35044"
+  },
+  "location": {
+    "lat": 33.278056,
+    "lng": -86.355
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0100037"
+  },
+  "msha": [
+    {
+      "mine_id": "0100037",
+      "name": "Childersburg Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1975-11-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

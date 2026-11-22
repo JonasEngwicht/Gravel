@@ -1,0 +1,41 @@
+{
+  "id": "tx-kermit-atlas-energy-solutions-atlas-874-115-mine",
+  "slug": "atlas-energy-solutions-atlas-874-115-mine",
+  "name": "Atlas Energy Solutions – Atlas 874/115 Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Kermit",
+    "state": "TX",
+    "zip": "79745"
+  },
+  "location": {
+    "lat": 31.915556,
+    "lng": -103.116667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105262"
+  },
+  "msha": [
+    {
+      "mine_id": "4105262",
+      "name": "Atlas 874/115 Mine",
+      "operator": "Atlas Energy Solutions",
+      "status": "Active",
+      "status_since": "2018-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 50
+    }
+  ]
+}

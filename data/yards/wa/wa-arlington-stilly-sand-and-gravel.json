@@ -1,0 +1,36 @@
+{
+  "id": "wa-arlington-stilly-sand-and-gravel",
+  "slug": "stilly-sand-and-gravel",
+  "name": "Stilly Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "24913 State Route 9 NE",
+    "city": "Arlington",
+    "state": "WA",
+    "zip": "98223"
+  },
+  "location": {
+    "lat": 48.221046,
+    "lng": -122.137817
+  },
+  "contact": {
+    "phone": "(360) 474-1999",
+    "website": "http://www.stillysandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dcc670b9-6069-401b-9f56-59122d972bc4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

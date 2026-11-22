@@ -1,0 +1,36 @@
+{
+  "id": "tx-hallettsville-jansky-s-sand-and-gravel",
+  "slug": "jansky-s-sand-and-gravel",
+  "name": "Jansky's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "101 N Front St",
+    "city": "Hallettsville",
+    "state": "TX",
+    "zip": "77964"
+  },
+  "location": {
+    "lat": 29.444651,
+    "lng": -96.944221
+  },
+  "contact": {
+    "phone": "(361) 798-5892",
+    "website": "http://www.jansky-barmat.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "000c728a-2ac4-422d-ad94-45e74d1672b6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

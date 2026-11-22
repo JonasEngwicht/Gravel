@@ -1,0 +1,36 @@
+{
+  "id": "ny-ithaca-newfield-gravel-corporation",
+  "slug": "newfield-gravel-corporation",
+  "name": "Newfield Gravel Corporation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "226 Cecil Malone Dr  Ste 1",
+    "city": "Ithaca",
+    "state": "NY",
+    "zip": "14850"
+  },
+  "location": {
+    "lat": 42.436924,
+    "lng": -76.514839
+  },
+  "contact": {
+    "phone": "(607) 273-8139",
+    "website": "https://angelossandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9088c6ef-70b6-425c-a97c-90c54019273a",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

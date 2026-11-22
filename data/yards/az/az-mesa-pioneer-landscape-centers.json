@@ -1,0 +1,37 @@
+{
+  "id": "az-mesa-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "8336 E Main St",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85207"
+  },
+  "location": {
+    "lat": 33.415722,
+    "lng": -111.650742
+  },
+  "contact": {
+    "phone": "(480) 986-5800",
+    "website": "http://www.pioneerco.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "38027c77-66d3-45d7-b4b0-0e7f61f84ab6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ks-hutchinson-apac-kansas-hutchinson-sand-plant",
+  "slug": "apac-kansas-hutchinson-sand-plant",
+  "name": "Apac-Kansas – Hutchinson Sand Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hutchinson",
+    "state": "KS",
+    "zip": "67505"
+  },
+  "location": {
+    "lat": 38.043056,
+    "lng": -97.868889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1400501"
+  },
+  "msha": [
+    {
+      "mine_id": "1400501",
+      "name": "Hutchinson Sand Plant",
+      "operator": "Apac-Kansas Inc",
+      "status": "Active",
+      "status_since": "1974-02-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

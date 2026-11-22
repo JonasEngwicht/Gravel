@@ -1,0 +1,41 @@
+{
+  "id": "ks-ottawa-martin-marietta-materials-ottawa-quarry",
+  "slug": "martin-marietta-materials-ottawa-quarry",
+  "name": "Martin Marietta Materials – Ottawa Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ottawa",
+    "state": "KS",
+    "zip": "66067"
+  },
+  "location": {
+    "lat": 38.652222,
+    "lng": -95.256389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401590"
+  },
+  "msha": [
+    {
+      "mine_id": "1401590",
+      "name": "Ottawa Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2023-04-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

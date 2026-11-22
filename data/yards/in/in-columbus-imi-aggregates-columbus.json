@@ -1,0 +1,48 @@
+{
+  "id": "in-columbus-imi-aggregates-columbus",
+  "slug": "imi-aggregates-columbus",
+  "name": "imi Aggregates - Columbus",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1760 Blessing Rd.",
+    "city": "Columbus",
+    "state": "IN",
+    "zip": "47201"
+  },
+  "location": {
+    "lat": 39.157375,
+    "lng": -85.912277
+  },
+  "contact": {
+    "phone": "(812) 372-1800",
+    "website": "https://locations.irvmat.com/in/273?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d9d5f04b-b1bd-40ce-abe3-a980b2566e02",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202185",
+      "name": "imi Columbus Sand & Gravel",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2026-10-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

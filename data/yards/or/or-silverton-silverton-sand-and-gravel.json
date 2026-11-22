@@ -1,0 +1,35 @@
+{
+  "id": "or-silverton-silverton-sand-and-gravel",
+  "slug": "silverton-sand-and-gravel",
+  "name": "Silverton Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6968 Quarry Rd NE",
+    "city": "Silverton",
+    "state": "OR",
+    "zip": "97381"
+  },
+  "location": {
+    "lat": 45.026867,
+    "lng": -122.775261
+  },
+  "contact": {
+    "phone": "(503) 873-5706"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b28663a6-7fba-4b7f-8474-28f8d3e9dfd0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ms-crystal-springs-krystal-gravel-1002-coor-springs-rd",
+  "slug": "krystal-gravel-1002-coor-springs-rd",
+  "name": "Krystal Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1002 Coor Springs Rd",
+    "city": "Crystal Springs",
+    "state": "MS",
+    "zip": "39059"
+  },
+  "location": {
+    "lat": 31.973581,
+    "lng": -90.335602
+  },
+  "contact": {
+    "phone": "(601) 892-2243",
+    "website": "https://www.krystalgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af01b4d0-5450-43e2-a152-b3c85ec603b9",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

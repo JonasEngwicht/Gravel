@@ -1,0 +1,36 @@
+{
+  "id": "ct-manchester-manchester-aggregate-supply",
+  "slug": "manchester-aggregate-supply",
+  "name": "Manchester Aggregate Supply",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "60 Adams St",
+    "city": "Manchester",
+    "state": "CT",
+    "zip": "06042"
+  },
+  "location": {
+    "lat": 41.793804,
+    "lng": -72.552971
+  },
+  "contact": {
+    "phone": "(860) 643-7777",
+    "website": "http://bceast.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b7b663bb-8bb4-4e48-9e7d-10b0c1ed620a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

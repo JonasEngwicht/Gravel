@@ -1,0 +1,41 @@
+{
+  "id": "il-casey-mid-illinois-quarry",
+  "slug": "mid-illinois-quarry",
+  "name": "Mid-Illinois Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Casey",
+    "state": "IL",
+    "zip": "62420"
+  },
+  "location": {
+    "lat": 39.278611,
+    "lng": -87.968333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100098"
+  },
+  "msha": [
+    {
+      "mine_id": "1100098",
+      "name": "Mid-Illinois Quarry",
+      "operator": "Mid-Illinois Quarry L.L.C.",
+      "status": "Active",
+      "status_since": "2011-12-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

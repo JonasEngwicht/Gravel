@@ -1,0 +1,41 @@
+{
+  "id": "tx-gainsville-north-texas-crushed-stone",
+  "slug": "north-texas-crushed-stone",
+  "name": "North Texas Crushed Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gainsville",
+    "state": "TX",
+    "zip": "76252"
+  },
+  "location": {
+    "lat": 33.756944,
+    "lng": -97.288056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104339"
+  },
+  "msha": [
+    {
+      "mine_id": "4104339",
+      "name": "North Texas Crushed Stone Inc",
+      "operator": "North Texas Crushed Stone Inc",
+      "status": "Active",
+      "status_since": "2002-01-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

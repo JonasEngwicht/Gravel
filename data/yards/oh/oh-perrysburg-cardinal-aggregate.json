@@ -1,0 +1,48 @@
+{
+  "id": "oh-perrysburg-cardinal-aggregate",
+  "slug": "cardinal-aggregate",
+  "name": "Cardinal Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8026 Fremont Pike",
+    "city": "Perrysburg",
+    "state": "OH",
+    "zip": "43551"
+  },
+  "location": {
+    "lat": 41.527874,
+    "lng": -83.548477
+  },
+  "contact": {
+    "phone": "(419) 872-4380",
+    "website": "https://www.cardinalaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0a8b6523-9d51-46ed-82c8-1a50cd5137ce",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304553",
+      "name": "Cardinal Aggregate",
+      "operator": "Cardinal Aggregate, Inc.",
+      "status": "Active",
+      "status_since": "2005-10-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

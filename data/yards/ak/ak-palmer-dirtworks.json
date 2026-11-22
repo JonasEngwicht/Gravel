@@ -1,0 +1,41 @@
+{
+  "id": "ak-palmer-dirtworks",
+  "slug": "dirtworks",
+  "name": "Dirtworks",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Palmer",
+    "state": "AK",
+    "zip": "99645"
+  },
+  "location": {
+    "lat": 61.529167,
+    "lng": -149.053333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5002028"
+  },
+  "msha": [
+    {
+      "mine_id": "5002028",
+      "name": "Dirtworks, Inc.",
+      "operator": "Dirtworks, Inc.",
+      "status": "Intermittent",
+      "status_since": "2021-05-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

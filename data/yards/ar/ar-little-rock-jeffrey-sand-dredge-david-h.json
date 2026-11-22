@@ -1,0 +1,41 @@
+{
+  "id": "ar-little-rock-jeffrey-sand-dredge-david-h",
+  "slug": "jeffrey-sand-dredge-david-h",
+  "name": "Jeffrey Sand – Dredge David H",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Little rock",
+    "state": "AR",
+    "zip": "72107"
+  },
+  "location": {
+    "lat": 35.106389,
+    "lng": -92.541389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0300400"
+  },
+  "msha": [
+    {
+      "mine_id": "0300400",
+      "name": "Dredge David H",
+      "operator": "Jeffrey Sand Company",
+      "status": "Active",
+      "status_since": "2017-12-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-orlando-sunrise-landscape-supply",
+  "slug": "sunrise-landscape-supply",
+  "name": "Sunrise Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6670 E Colonial Dr",
+    "city": "Orlando",
+    "state": "FL",
+    "zip": "32807"
+  },
+  "location": {
+    "lat": 28.565588,
+    "lng": -81.297676
+  },
+  "contact": {
+    "phone": "(407) 299-3366",
+    "website": "https://www.sunriselandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2c4828b-30ba-4420-8bea-6a26990caaec",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

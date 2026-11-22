@@ -1,0 +1,41 @@
+{
+  "id": "ak-soldotna-steam-on-wheels",
+  "slug": "steam-on-wheels",
+  "name": "Steam on Wheels",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Soldotna",
+    "state": "AK",
+    "zip": "99672"
+  },
+  "location": {
+    "lat": 60.511206,
+    "lng": -150.980443
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5002103"
+  },
+  "msha": [
+    {
+      "mine_id": "5002103",
+      "name": "Steam on Wheels Pit",
+      "operator": "Steam on Wheels, LLC",
+      "status": "Intermittent",
+      "status_since": "2023-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

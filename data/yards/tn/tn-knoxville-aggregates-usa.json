@@ -1,0 +1,36 @@
+{
+  "id": "tn-knoxville-aggregates-usa",
+  "slug": "aggregates-usa",
+  "name": "Aggregates USA",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2302 E Governor John Sevier Hwy",
+    "city": "Knoxville",
+    "state": "TN",
+    "zip": "37914"
+  },
+  "location": {
+    "lat": 35.955196,
+    "lng": -83.809067
+  },
+  "contact": {
+    "phone": "(865) 573-4501",
+    "website": "http://www.aggregatesusa.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f251024c-ac25-4939-b420-e72dd6ce32e4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

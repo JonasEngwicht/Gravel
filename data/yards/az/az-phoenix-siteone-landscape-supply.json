@@ -1,0 +1,37 @@
+{
+  "id": "az-phoenix-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "22010 N 21st Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85027"
+  },
+  "location": {
+    "lat": 33.685909,
+    "lng": -112.104446
+  },
+  "contact": {
+    "phone": "(623) 587-5636",
+    "website": "https://www.siteone.com/store/332"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2a2eec2e-3798-40b7-8e09-7814acb2b98e",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "de-harrington-porter-sand-and-gravel",
+  "slug": "porter-sand-and-gravel",
+  "name": "Porter Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "640 Sandbox Rd",
+    "city": "Harrington",
+    "state": "DE",
+    "zip": "19952"
+  },
+  "location": {
+    "lat": 38.959167,
+    "lng": -75.513184
+  },
+  "contact": {
+    "phone": "(302) 335-5132"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34c9585a-bfdf-4a3b-a9e8-283c5073496e",
+    "confidence": 0.883,
+    "merged_records": 1
+  }
+}

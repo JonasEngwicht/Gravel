@@ -1,0 +1,41 @@
+{
+  "id": "mo-lee-s-summit-martin-marietta-materials-lotawana-quarry",
+  "slug": "martin-marietta-materials-lotawana-quarry",
+  "name": "Martin Marietta Materials – Lotawana Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lee's Summit",
+    "state": "MO",
+    "zip": "64081"
+  },
+  "location": {
+    "lat": 38.913611,
+    "lng": -94.4025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301889"
+  },
+  "msha": [
+    {
+      "mine_id": "2301889",
+      "name": "Lotawana Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2019-09-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

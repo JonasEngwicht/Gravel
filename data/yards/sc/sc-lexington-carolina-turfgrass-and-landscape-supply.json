@@ -1,0 +1,36 @@
+{
+  "id": "sc-lexington-carolina-turfgrass-and-landscape-supply",
+  "slug": "carolina-turfgrass-and-landscape-supply",
+  "name": "Carolina Turfgrass & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5400 Augusta Rd",
+    "city": "Lexington",
+    "state": "SC",
+    "zip": "29072"
+  },
+  "location": {
+    "lat": 33.974762,
+    "lng": -81.217873
+  },
+  "contact": {
+    "phone": "(803) 446-6525",
+    "website": "http://carolinasodding.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff58b674-5e12-4755-b2b0-8068a36d9ef7",
+    "confidence": 0.988,
+    "merged_records": 1
+  }
+}

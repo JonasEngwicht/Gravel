@@ -1,0 +1,41 @@
+{
+  "id": "mo-chamois-stieferman-construction-services-chamois-quarry",
+  "slug": "stieferman-construction-services-chamois-quarry",
+  "name": "Stieferman Construction Services – Chamois Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Chamois",
+    "state": "MO",
+    "zip": "65024"
+  },
+  "location": {
+    "lat": 38.675,
+    "lng": -91.758056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302585"
+  },
+  "msha": [
+    {
+      "mine_id": "2302585",
+      "name": "Chamois Quarry",
+      "operator": "Stieferman Construction Services LLC",
+      "status": "Intermittent",
+      "status_since": "2023-12-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

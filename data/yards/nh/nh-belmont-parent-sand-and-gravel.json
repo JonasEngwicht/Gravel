@@ -1,0 +1,36 @@
+{
+  "id": "nh-belmont-parent-sand-and-gravel",
+  "slug": "parent-sand-and-gravel",
+  "name": "Parent Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "98 Wareing Rd",
+    "city": "Belmont",
+    "state": "NH",
+    "zip": "03220"
+  },
+  "location": {
+    "lat": 43.429073,
+    "lng": -71.480713
+  },
+  "contact": {
+    "phone": "(603) 267-5010",
+    "website": "https://parent-sand-gravel.hub.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d016cfea-5c77-4af4-b1ff-62127ff7a5a9",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

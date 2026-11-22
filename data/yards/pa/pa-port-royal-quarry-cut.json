@@ -1,0 +1,41 @@
+{
+  "id": "pa-port-royal-quarry-cut",
+  "slug": "quarry-cut",
+  "name": "Quarry Cut",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Port Royal",
+    "state": "PA",
+    "zip": "17082"
+  },
+  "location": {
+    "lat": 40.473056,
+    "lng": -77.404444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609154"
+  },
+  "msha": [
+    {
+      "mine_id": "3609154",
+      "name": "Quarry Cut, Inc.",
+      "operator": "Quarry Cut, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-05-27",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

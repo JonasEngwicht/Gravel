@@ -1,0 +1,36 @@
+{
+  "id": "ma-natick-d-and-d-mulch-and-landscape",
+  "slug": "d-and-d-mulch-and-landscape",
+  "name": "D&D Mulch and Landscape",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "50 Worcester St",
+    "city": "Natick",
+    "state": "MA",
+    "zip": "01760"
+  },
+  "location": {
+    "lat": 42.30397,
+    "lng": -71.327553
+  },
+  "contact": {
+    "phone": "(781) 237-2275",
+    "website": "https://www.ddmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "803bf0f2-59c6-4f6e-a5c6-f8869b100b88",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

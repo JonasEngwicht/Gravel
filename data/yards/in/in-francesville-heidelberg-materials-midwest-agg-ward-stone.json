@@ -1,0 +1,41 @@
+{
+  "id": "in-francesville-heidelberg-materials-midwest-agg-ward-stone",
+  "slug": "heidelberg-materials-midwest-agg-ward-stone",
+  "name": "Heidelberg Materials Midwest Agg – Ward Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Francesville",
+    "state": "IN",
+    "zip": "47946"
+  },
+  "location": {
+    "lat": 40.955833,
+    "lng": -86.877778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1201718"
+  },
+  "msha": [
+    {
+      "mine_id": "1201718",
+      "name": "Ward Stone",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2011-12-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-woodstock-extreme-mulch",
+  "slug": "extreme-mulch",
+  "name": "Extreme Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "103 Dixie Dr",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30189"
+  },
+  "location": {
+    "lat": 34.084915,
+    "lng": -84.564461
+  },
+  "contact": {
+    "phone": "(770) 362-2504",
+    "website": "https://extrememulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fd459758-9080-4e4c-8595-5539dfd79332",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-choctaw-rogers-group-choctaw-quarry",
+  "slug": "rogers-group-choctaw-quarry",
+  "name": "Rogers Group – Choctaw Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Choctaw",
+    "state": "AR",
+    "zip": "72629"
+  },
+  "location": {
+    "lat": 35.681111,
+    "lng": -92.499444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301894"
+  },
+  "msha": [
+    {
+      "mine_id": "0301894",
+      "name": "Choctaw Quarry",
+      "operator": "Rogers Group Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-02-03",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "oh-columbus-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "4120 Roberts Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43228"
+  },
+  "location": {
+    "lat": 40.007267,
+    "lng": -83.107834
+  },
+  "contact": {
+    "phone": "(614) 921-9330",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b0c8367-ad67-4827-9c58-be7d31d27c3c",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

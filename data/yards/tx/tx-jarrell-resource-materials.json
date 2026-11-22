@@ -1,0 +1,41 @@
+{
+  "id": "tx-jarrell-resource-materials",
+  "slug": "resource-materials",
+  "name": "Resource Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jarrell",
+    "state": "TX",
+    "zip": "76537"
+  },
+  "location": {
+    "lat": 30.802778,
+    "lng": -97.673056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105480"
+  },
+  "msha": [
+    {
+      "mine_id": "4105480",
+      "name": "Resource Materials",
+      "operator": "Resource Materials LLC",
+      "status": "Active",
+      "status_since": "2021-04-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

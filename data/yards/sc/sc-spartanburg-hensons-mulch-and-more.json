@@ -1,0 +1,36 @@
+{
+  "id": "sc-spartanburg-hensons-mulch-and-more",
+  "slug": "hensons-mulch-and-more",
+  "name": "Hensons Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4010 N Blackstock Rd",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29301"
+  },
+  "location": {
+    "lat": 34.957272,
+    "lng": -82.010162
+  },
+  "contact": {
+    "phone": "(864) 595-0255",
+    "website": "http://hensonsinc.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "39521ee3-05ea-4b6c-8b8a-bea08b85cc10",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

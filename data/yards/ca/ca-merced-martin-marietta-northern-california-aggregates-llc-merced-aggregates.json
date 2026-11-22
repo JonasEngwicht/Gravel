@@ -1,0 +1,41 @@
+{
+  "id": "ca-merced-martin-marietta-northern-california-aggregates-llc-merced-aggregates",
+  "slug": "martin-marietta-northern-california-aggregates-llc-merced-aggregates",
+  "name": "Martin Marietta Northern California Aggregates,LLC – Merced Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Merced",
+    "state": "CA",
+    "zip": "95348"
+  },
+  "location": {
+    "lat": 37.347222,
+    "lng": -120.507778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0402841"
+  },
+  "msha": [
+    {
+      "mine_id": "0402841",
+      "name": "Merced Aggregates",
+      "operator": "Martin Marietta Northern California Aggregates,LLC",
+      "status": "Active",
+      "status_since": "1978-05-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

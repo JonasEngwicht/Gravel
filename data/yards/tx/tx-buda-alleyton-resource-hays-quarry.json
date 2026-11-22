@@ -1,0 +1,41 @@
+{
+  "id": "tx-buda-alleyton-resource-hays-quarry",
+  "slug": "alleyton-resource-hays-quarry",
+  "name": "Alleyton Resource – Hays Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Buda",
+    "state": "TX",
+    "zip": "78837"
+  },
+  "location": {
+    "lat": 30.101944,
+    "lng": -101.005556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104514"
+  },
+  "msha": [
+    {
+      "mine_id": "4104514",
+      "name": "Hays Quarry",
+      "operator": "Alleyton Resource",
+      "status": "Active",
+      "status_since": "2005-01-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

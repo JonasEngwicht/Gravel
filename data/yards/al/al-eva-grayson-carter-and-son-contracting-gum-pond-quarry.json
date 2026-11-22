@@ -1,0 +1,41 @@
+{
+  "id": "al-eva-grayson-carter-and-son-contracting-gum-pond-quarry",
+  "slug": "grayson-carter-and-son-contracting-gum-pond-quarry",
+  "name": "Grayson Carter And Son Contracting – Gum Pond Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Eva",
+    "state": "AL",
+    "zip": "35019"
+  },
+  "location": {
+    "lat": 34.367222,
+    "lng": -86.648611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103591"
+  },
+  "msha": [
+    {
+      "mine_id": "0103591",
+      "name": "Gum Pond Quarry",
+      "operator": "Grayson Carter And Son Contracting, Inc.",
+      "status": "Active",
+      "status_since": "2024-09-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

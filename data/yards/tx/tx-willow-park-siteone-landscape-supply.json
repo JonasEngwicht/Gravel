@@ -1,0 +1,37 @@
+{
+  "id": "tx-willow-park-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4801 E Interstate 20 Service Rd N",
+    "city": "Willow Park",
+    "state": "TX",
+    "zip": "76087"
+  },
+  "location": {
+    "lat": 32.740578,
+    "lng": -97.650581
+  },
+  "contact": {
+    "phone": "(817) 441-9590",
+    "website": "http://www.bellstone.rocks/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "468a4a68-48b9-4530-a422-e3481529fd22",
+    "confidence": 0.991,
+    "merged_records": 2
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-aubrey-b-and-b-sand-and-gravel",
+  "slug": "b-and-b-sand-and-gravel",
+  "name": "B & B Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Aubrey",
+    "state": "TX",
+    "zip": "76227"
+  },
+  "location": {
+    "lat": 33.295,
+    "lng": -96.984167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103955"
+  },
+  "msha": [
+    {
+      "mine_id": "4103955",
+      "name": "B & B Sand & Gravel",
+      "operator": "B & B Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2018-01-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

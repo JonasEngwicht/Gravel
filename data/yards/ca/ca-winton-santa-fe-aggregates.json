@@ -1,0 +1,48 @@
+{
+  "id": "ca-winton-santa-fe-aggregates",
+  "slug": "santa-fe-aggregates",
+  "name": "Santa Fe Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11650 Shaffer Rd",
+    "city": "Winton",
+    "state": "CA",
+    "zip": "95388"
+  },
+  "location": {
+    "lat": 37.459793,
+    "lng": -120.596687
+  },
+  "contact": {
+    "phone": "(209) 358-3303",
+    "website": "http://www.teichert.com/materials/santa-fe-aggregates"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d91d771f-01ee-4739-a18f-a0fe24e0e8f2",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405127",
+      "name": "Winton Pit & Mill",
+      "operator": "Santa Fe Aggregates Inc",
+      "status": "Active",
+      "status_since": "2011-04-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

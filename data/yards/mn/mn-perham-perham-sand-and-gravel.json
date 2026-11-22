@@ -1,0 +1,35 @@
+{
+  "id": "mn-perham-perham-sand-and-gravel",
+  "slug": "perham-sand-and-gravel",
+  "name": "Perham Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "46194 Minnesota St",
+    "city": "Perham",
+    "state": "MN",
+    "zip": "56573"
+  },
+  "location": {
+    "lat": 46.570805,
+    "lng": -95.528046
+  },
+  "contact": {
+    "phone": "(218) 346-5800"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81ab912c-b15b-43f8-9625-f9082d9309e8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

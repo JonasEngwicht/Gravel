@@ -1,0 +1,41 @@
+{
+  "id": "ky-carter-city-mountain-materials-brushy-creek-stone",
+  "slug": "mountain-materials-brushy-creek-stone",
+  "name": "Mountain Materials – Brushy Creek Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Carter City",
+    "state": "KY",
+    "zip": "41135"
+  },
+  "location": {
+    "lat": 38.420278,
+    "lng": -83.143889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1519543"
+  },
+  "msha": [
+    {
+      "mine_id": "1519543",
+      "name": "Brushy Creek Stone",
+      "operator": "Mountain Materials Inc.",
+      "status": "Active",
+      "status_since": "2013-05-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

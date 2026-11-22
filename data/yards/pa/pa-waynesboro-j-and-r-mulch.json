@@ -1,0 +1,36 @@
+{
+  "id": "pa-waynesboro-j-and-r-mulch",
+  "slug": "j-and-r-mulch",
+  "name": "J&R Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14287 Anthony Hwy",
+    "city": "Waynesboro",
+    "state": "PA",
+    "zip": "17268"
+  },
+  "location": {
+    "lat": 39.731216,
+    "lng": -77.571358
+  },
+  "contact": {
+    "phone": "(717) 749-7795",
+    "website": "https://www.jandrmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8df88241-2388-4679-bacc-de9270b13a4b",
+    "confidence": 0.978,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "az-el-mirage-calmat-sun-city-plant",
+  "slug": "calmat-sun-city-plant",
+  "name": "CalMat – Sun City Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "El Mirage",
+    "state": "AZ",
+    "zip": "85351"
+  },
+  "location": {
+    "lat": 33.614722,
+    "lng": -112.307222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0200632"
+  },
+  "msha": [
+    {
+      "mine_id": "0200632",
+      "name": "Sun City Plant",
+      "operator": "CalMat Co",
+      "status": "Active",
+      "status_since": "2010-11-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 22
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ga-carlton-briar-patch-quarries",
+  "slug": "briar-patch-quarries",
+  "name": "Briar Patch Quarries",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Carlton",
+    "state": "GA",
+    "zip": "30627"
+  },
+  "location": {
+    "lat": 33.950278,
+    "lng": -82.997222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901253"
+  },
+  "msha": [
+    {
+      "mine_id": "0901253",
+      "name": "Briar Patch Quarries, LLC",
+      "operator": "Briar Patch Quarries, LLC",
+      "status": "Active",
+      "status_since": "2020-03-10",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

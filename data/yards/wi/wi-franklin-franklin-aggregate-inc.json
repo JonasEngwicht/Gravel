@@ -1,0 +1,48 @@
+{
+  "id": "wi-franklin-franklin-aggregate-inc",
+  "slug": "franklin-aggregate-inc",
+  "name": "Franklin Aggregate Inc",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "6211 W Rawson Ave",
+    "city": "Franklin",
+    "state": "WI",
+    "zip": "53132"
+  },
+  "location": {
+    "lat": 42.914028,
+    "lng": -87.992897
+  },
+  "contact": {
+    "phone": "(414) 423-2550",
+    "website": "https://www.payneanddolan.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "582642cd-b055-48d7-80df-527f3ec1a2e0",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4700216",
+      "name": "Franklin Aggregates",
+      "operator": "Payne & Dolan, Inc.",
+      "status": "Abandoned",
+      "status_since": "2014-01-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

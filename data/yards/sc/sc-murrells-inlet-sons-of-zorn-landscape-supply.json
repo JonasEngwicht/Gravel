@@ -1,0 +1,35 @@
+{
+  "id": "sc-murrells-inlet-sons-of-zorn-landscape-supply",
+  "slug": "sons-of-zorn-landscape-supply",
+  "name": "Sons of Zorn Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4765-B US Highway 17 Bypass South",
+    "city": "Murrells Inlet",
+    "state": "SC",
+    "zip": "29576"
+  },
+  "location": {
+    "lat": 33.54554,
+    "lng": -79.050819
+  },
+  "contact": {
+    "phone": "(843) 299-1139"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a8e241b3-aa24-445b-8bb2-63eb1daa4333",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

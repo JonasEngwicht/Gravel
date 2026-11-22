@@ -1,0 +1,41 @@
+{
+  "id": "ny-jamesville-t-h-kinsella-incorporated-kinsella-jamesville-barrett-plant",
+  "slug": "t-h-kinsella-incorporated-kinsella-jamesville-barrett-plant",
+  "name": "T H Kinsella Incorporated – Kinsella Jamesville Barrett Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jamesville",
+    "state": "NY",
+    "zip": "13214"
+  },
+  "location": {
+    "lat": 43.000278,
+    "lng": -76.065833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003391"
+  },
+  "msha": [
+    {
+      "mine_id": "3003391",
+      "name": "Kinsella Jamesville Barrett Plant",
+      "operator": "T H Kinsella Incorporated",
+      "status": "Active",
+      "status_since": "2004-02-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

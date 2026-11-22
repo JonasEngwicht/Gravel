@@ -1,0 +1,41 @@
+{
+  "id": "oh-williamsport-melvin-stone-company-williamsport-plant",
+  "slug": "melvin-stone-company-williamsport-plant",
+  "name": "Melvin Stone Company – Williamsport Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Williamsport",
+    "state": "OH",
+    "zip": "43164"
+  },
+  "location": {
+    "lat": 39.610833,
+    "lng": -83.198333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304392"
+  },
+  "msha": [
+    {
+      "mine_id": "3304392",
+      "name": "Williamsport Plant",
+      "operator": "Melvin Stone Company LLC",
+      "status": "Active",
+      "status_since": "2025-02-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ny-east-hampton-bistrian-gravel-corporation",
+  "slug": "bistrian-gravel-corporation",
+  "name": "Bistrian Gravel Corporation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "225 Springs Fireplace Rd",
+    "city": "East Hampton",
+    "state": "NY",
+    "zip": "11937"
+  },
+  "location": {
+    "lat": 40.986652,
+    "lng": -72.177071
+  },
+  "contact": {
+    "phone": "(631) 324-1123",
+    "website": "http://bistrian.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8769725-bd83-4bc4-8176-d8d3aee012e9",
+    "confidence": 0.958,
+    "merged_records": 1
+  }
+}

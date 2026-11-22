@@ -1,0 +1,36 @@
+{
+  "id": "pa-donegal-graystone-landscape-supply-company",
+  "slug": "graystone-landscape-supply-company",
+  "name": "Graystone Landscape Supply Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3378 PA-31",
+    "city": "Donegal",
+    "state": "PA",
+    "zip": "15628"
+  },
+  "location": {
+    "lat": 40.114517,
+    "lng": -79.394524
+  },
+  "contact": {
+    "phone": "(412) 737-2824",
+    "website": "http://www.graystonelandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "213b0660-961d-4551-b1e5-5fc931fafc1a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

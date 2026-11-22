@@ -1,0 +1,41 @@
+{
+  "id": "fl-vero-beach-wild-turkey-estates-of-vero",
+  "slug": "wild-turkey-estates-of-vero",
+  "name": "Wild Turkey Estates of Vero",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip": "32967"
+  },
+  "location": {
+    "lat": 27.714167,
+    "lng": -80.495278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801391"
+  },
+  "msha": [
+    {
+      "mine_id": "0801391",
+      "name": "Vero Rock and Sand",
+      "operator": "Wild Turkey Estates of Vero, LLC",
+      "status": "Active",
+      "status_since": "2012-06-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

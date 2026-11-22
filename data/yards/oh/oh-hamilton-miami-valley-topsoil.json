@@ -1,0 +1,47 @@
+{
+  "id": "oh-hamilton-miami-valley-topsoil",
+  "slug": "miami-valley-topsoil",
+  "name": "Miami Valley Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2234 Hamilton Cleves Rd",
+    "city": "Hamilton",
+    "state": "OH",
+    "zip": "45013"
+  },
+  "location": {
+    "lat": 39.360981,
+    "lng": -84.582695
+  },
+  "contact": {
+    "phone": "(513) 868-3478"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06670906-f12f-411f-a92b-905430b1164d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304726",
+      "name": "Miami Valley Topsoil",
+      "operator": "Miami Valley Topsoil",
+      "status": "Active",
+      "status_since": "2017-06-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

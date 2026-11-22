@@ -1,0 +1,36 @@
+{
+  "id": "nc-greensboro-express-mulch",
+  "slug": "express-mulch",
+  "name": "Express Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2821 Assembly Rd",
+    "city": "Greensboro",
+    "state": "NC",
+    "zip": "27405"
+  },
+  "location": {
+    "lat": 36.142365,
+    "lng": -79.738426
+  },
+  "contact": {
+    "phone": "(800) 220-0987",
+    "website": "https://www.expressmulchgreensboronc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97329768-1491-4b1c-822a-f7f9156ee6ba",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "co-aurora-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "463 Airport Blvd",
+    "city": "Aurora",
+    "state": "CO",
+    "zip": "80011"
+  },
+  "location": {
+    "lat": 39.72385,
+    "lng": -104.79184
+  },
+  "contact": {
+    "phone": "(303) 340-1440",
+    "website": "http://www.pioneersand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0d6cefb8-85c9-43e9-9e2c-b8cd2708b87e",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

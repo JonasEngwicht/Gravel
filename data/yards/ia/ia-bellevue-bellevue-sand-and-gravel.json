@@ -1,0 +1,36 @@
+{
+  "id": "ia-bellevue-bellevue-sand-and-gravel",
+  "slug": "bellevue-sand-and-gravel",
+  "name": "Bellevue Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "29427 US-52",
+    "city": "Bellevue",
+    "state": "IA",
+    "zip": "52031"
+  },
+  "location": {
+    "lat": 42.28828,
+    "lng": -90.436996
+  },
+  "contact": {
+    "phone": "(563) 872-3886",
+    "website": "https://g.co/kgs/wMQkgb"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f6a53371-2edf-4ffc-8ee0-b72de866b8f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

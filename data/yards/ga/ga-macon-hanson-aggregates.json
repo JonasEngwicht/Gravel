@@ -1,0 +1,37 @@
+{
+  "id": "ga-macon-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "4957 US Highway 41 S",
+    "city": "Macon",
+    "state": "GA",
+    "zip": "31220"
+  },
+  "location": {
+    "lat": 32.950947,
+    "lng": -83.833725
+  },
+  "contact": {
+    "phone": "(478) 994-1094",
+    "website": "http://lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ddb4536a-4b44-4da0-9c5f-1e52cad3c0f8",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

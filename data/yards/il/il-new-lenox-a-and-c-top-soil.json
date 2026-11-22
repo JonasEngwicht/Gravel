@@ -1,0 +1,36 @@
+{
+  "id": "il-new-lenox-a-and-c-top-soil",
+  "slug": "a-and-c-top-soil",
+  "name": "A & C Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12820 W Clyde Ct",
+    "city": "New Lenox",
+    "state": "IL",
+    "zip": "60451"
+  },
+  "location": {
+    "lat": 41.497417,
+    "lng": -87.927223
+  },
+  "contact": {
+    "phone": "(815) 463-0019",
+    "website": "http://chicago.citysearch.com/profile/605668910/new_lenox_il"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4359d4d0-4090-4d93-9c8a-e07112b9456a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

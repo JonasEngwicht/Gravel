@@ -1,0 +1,36 @@
+{
+  "id": "il-goodfield-trinity-stone-and-landscape-supply",
+  "slug": "trinity-stone-and-landscape-supply",
+  "name": "Trinity Stone & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "227 Eureka St",
+    "city": "Goodfield",
+    "state": "IL",
+    "zip": "61742"
+  },
+  "location": {
+    "lat": 40.633797,
+    "lng": -89.274788
+  },
+  "contact": {
+    "phone": "(309) 965-2688",
+    "website": "http://www.TrinityStone.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a98f7f8-5b20-4f53-a25e-655452fee46f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

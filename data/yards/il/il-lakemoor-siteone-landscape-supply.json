@@ -1,0 +1,37 @@
+{
+  "id": "il-lakemoor-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "303 Herbert Rd",
+    "city": "Lakemoor",
+    "state": "IL",
+    "zip": "60051"
+  },
+  "location": {
+    "lat": 42.325951,
+    "lng": -88.206566
+  },
+  "contact": {
+    "phone": "(815) 578-1533",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "509da2b9-f496-42bd-9519-400666de115d",
+    "confidence": 0.994,
+    "merged_records": 2
+  }
+}

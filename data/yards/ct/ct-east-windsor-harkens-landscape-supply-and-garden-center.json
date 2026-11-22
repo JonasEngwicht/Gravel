@@ -1,0 +1,36 @@
+{
+  "id": "ct-east-windsor-harkens-landscape-supply-and-garden-center",
+  "slug": "harkens-landscape-supply-and-garden-center",
+  "name": "Harkens Landscape Supply and Garden Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "287 S Main St",
+    "city": "East Windsor",
+    "state": "CT",
+    "zip": "06088"
+  },
+  "location": {
+    "lat": 41.869854,
+    "lng": -72.60556
+  },
+  "contact": {
+    "phone": "(860) 528-6806",
+    "website": "http://www.harkenslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d768be3-834b-413b-8427-232f4dc64b80",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ak-glenallen-john-r-hoffman-millers-mine",
+  "slug": "john-r-hoffman-millers-mine",
+  "name": "John R Hoffman – Millers Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Glenallen",
+    "state": "AK",
+    "zip": "99586"
+  },
+  "location": {
+    "lat": 62.587778,
+    "lng": -144.593611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001657"
+  },
+  "msha": [
+    {
+      "mine_id": "5001657",
+      "name": "Millers Mine",
+      "operator": "John R Hoffman",
+      "status": "Intermittent",
+      "status_since": "2018-07-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

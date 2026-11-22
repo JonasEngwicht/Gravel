@@ -1,0 +1,36 @@
+{
+  "id": "tx-dallas-meridian-aggregates",
+  "slug": "meridian-aggregates",
+  "name": "Meridian Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1760 Z St",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75229"
+  },
+  "location": {
+    "lat": 32.887012,
+    "lng": -96.916046
+  },
+  "contact": {
+    "phone": "(972) 556-1999",
+    "website": "http://martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c3169bb-f518-47f8-888f-d6c87f77cf41",
+    "confidence": 0.588,
+    "merged_records": 1
+  }
+}

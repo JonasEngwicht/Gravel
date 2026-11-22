@@ -1,0 +1,48 @@
+{
+  "id": "ne-kearney-ed-broadfoot-and-sons-sand-and-gravel",
+  "slug": "ed-broadfoot-and-sons-sand-and-gravel",
+  "name": "Ed Broadfoot & Sons Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "290 Yanney Ave S",
+    "city": "Kearney",
+    "state": "NE",
+    "zip": "68845"
+  },
+  "location": {
+    "lat": 40.666477,
+    "lng": -99.109604
+  },
+  "contact": {
+    "phone": "(308) 237-0466",
+    "website": "https://www.sandandgravelkearney.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a207946-bc03-4fd3-b387-a6d3c78d67b0",
+    "confidence": 0.966,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2501234",
+      "name": "Turkey Creek Pit",
+      "operator": "Broadfoot Sand & Gravel Corp Inc",
+      "status": "Active",
+      "status_since": "2021-12-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

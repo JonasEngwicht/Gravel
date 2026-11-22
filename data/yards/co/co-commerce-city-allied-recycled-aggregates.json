@@ -1,0 +1,36 @@
+{
+  "id": "co-commerce-city-allied-recycled-aggregates",
+  "slug": "allied-recycled-aggregates",
+  "name": "Allied Recycled Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7901 U S 85",
+    "city": "Commerce City",
+    "state": "CO",
+    "zip": "80022"
+  },
+  "location": {
+    "lat": 39.840599,
+    "lng": -104.925308
+  },
+  "contact": {
+    "phone": "(303) 289-3366",
+    "website": "http://www.alliedrecycle.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e20624fe-4720-4c44-b4ba-beb8c9e69029",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

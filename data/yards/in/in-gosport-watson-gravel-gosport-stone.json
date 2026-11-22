@@ -1,0 +1,41 @@
+{
+  "id": "in-gosport-watson-gravel-gosport-stone",
+  "slug": "watson-gravel-gosport-stone",
+  "name": "Watson Gravel – Gosport Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gosport",
+    "state": "IN",
+    "zip": "46143"
+  },
+  "location": {
+    "lat": 39.585,
+    "lng": -86.099444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202490"
+  },
+  "msha": [
+    {
+      "mine_id": "1202490",
+      "name": "Gosport Stone",
+      "operator": "Watson Gravel, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-10-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

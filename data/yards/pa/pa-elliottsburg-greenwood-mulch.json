@@ -1,0 +1,36 @@
+{
+  "id": "pa-elliottsburg-greenwood-mulch",
+  "slug": "greenwood-mulch",
+  "name": "Greenwood Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5367 Veterans Way",
+    "city": "Elliottsburg",
+    "state": "PA",
+    "zip": "17024"
+  },
+  "location": {
+    "lat": 40.438938,
+    "lng": -77.333511
+  },
+  "contact": {
+    "phone": "(717) 438-3943",
+    "website": "http://www.greenwoodmulchllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eda02094-32a0-4637-b0a9-8a6a9c23e098",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

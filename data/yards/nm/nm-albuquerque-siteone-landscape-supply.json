@@ -1,0 +1,37 @@
+{
+  "id": "nm-albuquerque-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4110 Paseo Del Norte NE",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87113"
+  },
+  "location": {
+    "lat": 35.17289,
+    "lng": -106.604485
+  },
+  "contact": {
+    "phone": "(505) 828-4437",
+    "website": "https://www.siteone.com/en/store/334"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dbe79d4d-9580-4f47-8310-5db7ec6cb92f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

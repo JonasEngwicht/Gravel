@@ -1,0 +1,41 @@
+{
+  "id": "nv-carson-city-al-s-excavating-and-grading-carson-quarry-prod",
+  "slug": "al-s-excavating-and-grading-carson-quarry-prod",
+  "name": "Al's Excavating & Grading – Carson Quarry Prod",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Carson City",
+    "state": "NV",
+    "zip": "89704"
+  },
+  "location": {
+    "lat": 39.211389,
+    "lng": -119.786111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602467"
+  },
+  "msha": [
+    {
+      "mine_id": "2602467",
+      "name": "Carson Quarry Prod",
+      "operator": "Al's Excavating & Grading Inc",
+      "status": "Active",
+      "status_since": "2019-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nc-charlotte-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "6829 Statesville Rd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28269"
+  },
+  "location": {
+    "lat": 35.314804,
+    "lng": -80.840042
+  },
+  "contact": {
+    "phone": "(704) 597-8955",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ce4378b-bea4-4c80-9e9a-cd08f9655704",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

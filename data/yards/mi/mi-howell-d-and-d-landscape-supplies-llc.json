@@ -1,0 +1,35 @@
+{
+  "id": "mi-howell-d-and-d-landscape-supplies-llc",
+  "slug": "d-and-d-landscape-supplies-llc",
+  "name": "D & D Landscape Supplies Llc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3575 W Grand River Ave",
+    "city": "Howell",
+    "state": "MI",
+    "zip": "48855"
+  },
+  "location": {
+    "lat": 42.626068,
+    "lng": -83.984276
+  },
+  "contact": {
+    "phone": "(517) 540-0015"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "483d3526-b159-438b-a8c2-7b9043d7e8d7",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

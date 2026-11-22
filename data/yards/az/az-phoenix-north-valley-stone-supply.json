@@ -1,0 +1,36 @@
+{
+  "id": "az-phoenix-north-valley-stone-supply",
+  "slug": "north-valley-stone-supply",
+  "name": "North Valley Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "21257 N Black Canyon Hwy",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85027"
+  },
+  "location": {
+    "lat": 33.678978,
+    "lng": -112.111893
+  },
+  "contact": {
+    "phone": "(623) 244-8657",
+    "website": "https://www.northvalleystonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "277b71ff-4179-4599-af70-5c041961ce63",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

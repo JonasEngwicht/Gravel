@@ -1,0 +1,36 @@
+{
+  "id": "id-caldwell-western-fence-and-landscape-supply",
+  "slug": "western-fence-and-landscape-supply",
+  "name": "Western Fence & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11220 Bass Ln",
+    "city": "Caldwell",
+    "state": "ID",
+    "zip": "83605"
+  },
+  "location": {
+    "lat": 43.691765,
+    "lng": -116.617577
+  },
+  "contact": {
+    "phone": "(208) 995-6468",
+    "website": "http://westernfencelandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75f786d1-e563-4d34-bedc-c75388fd6344",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

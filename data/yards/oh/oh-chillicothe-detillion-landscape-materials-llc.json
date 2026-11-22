@@ -1,0 +1,35 @@
+{
+  "id": "oh-chillicothe-detillion-landscape-materials-llc",
+  "slug": "detillion-landscape-materials-llc",
+  "name": "Detillion Landscape Materials LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "535 Infirmary Ln",
+    "city": "Chillicothe",
+    "state": "OH",
+    "zip": "45601"
+  },
+  "location": {
+    "lat": 39.407478,
+    "lng": -83.013718
+  },
+  "contact": {
+    "phone": "(740) 940-9040"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41602247-e436-493b-9ada-381f5841b7a6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

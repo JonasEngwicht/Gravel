@@ -1,0 +1,41 @@
+{
+  "id": "pa-stillwater-sokol-quarries",
+  "slug": "sokol-quarries",
+  "name": "Sokol Quarries",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Stillwater",
+    "state": "PA",
+    "zip": "17878"
+  },
+  "location": {
+    "lat": 41.166389,
+    "lng": -76.380556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608988"
+  },
+  "msha": [
+    {
+      "mine_id": "3608988",
+      "name": "Sokol Quarries Inc",
+      "operator": "Sokol Quarries Inc",
+      "status": "Active",
+      "status_since": "2011-10-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

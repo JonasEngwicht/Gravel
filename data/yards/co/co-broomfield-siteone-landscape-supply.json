@@ -1,0 +1,37 @@
+{
+  "id": "co-broomfield-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2240 Industrial Ln",
+    "city": "Broomfield",
+    "state": "CO",
+    "zip": "80020"
+  },
+  "location": {
+    "lat": 39.919868,
+    "lng": -105.094887
+  },
+  "contact": {
+    "phone": "(303) 404-3927",
+    "website": "https://www.siteone.com/store/335"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "60168244-0ade-4e27-a070-85d4f4a56786",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

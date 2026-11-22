@@ -1,0 +1,36 @@
+{
+  "id": "nc-union-grove-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1932 W Memorial Hwy",
+    "city": "Union Grove",
+    "state": "NC",
+    "zip": "28689"
+  },
+  "location": {
+    "lat": 36.024593,
+    "lng": -80.866043
+  },
+  "contact": {
+    "phone": "(704) 539-4643",
+    "website": "http://www.themulchnmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3bbff94d-5f1c-4025-b715-1d076d34860c",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

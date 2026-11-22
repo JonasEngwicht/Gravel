@@ -1,0 +1,41 @@
+{
+  "id": "ia-fertile-bmc-aggregates-lc-fertile-sand-shop-and-wash-plant",
+  "slug": "bmc-aggregates-lc-fertile-sand-shop-and-wash-plant",
+  "name": "BMC Aggregates LC – Fertile Sand, Shop & Wash Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Fertile",
+    "state": "IA",
+    "zip": "50444"
+  },
+  "location": {
+    "lat": 43.263889,
+    "lng": -93.388611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1301701"
+  },
+  "msha": [
+    {
+      "mine_id": "1301701",
+      "name": "Fertile Sand, Shop & Wash Plant",
+      "operator": "BMC Aggregates LC",
+      "status": "Active",
+      "status_since": "2013-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

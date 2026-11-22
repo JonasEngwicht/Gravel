@@ -1,0 +1,41 @@
+{
+  "id": "ak-kodiak-brice-incorporated-kodiak-granite-quarry",
+  "slug": "brice-incorporated-kodiak-granite-quarry",
+  "name": "Brice Incorporated – Kodiak Granite Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Kodiak",
+    "state": "AK",
+    "zip": "99615"
+  },
+  "location": {
+    "lat": 57.6475,
+    "lng": -153.322222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001999"
+  },
+  "msha": [
+    {
+      "mine_id": "5001999",
+      "name": "Kodiak Granite Quarry",
+      "operator": "Brice Incorporated",
+      "status": "Intermittent",
+      "status_since": "2024-10-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

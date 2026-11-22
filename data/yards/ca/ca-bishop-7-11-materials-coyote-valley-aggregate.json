@@ -1,0 +1,41 @@
+{
+  "id": "ca-bishop-7-11-materials-coyote-valley-aggregate",
+  "slug": "7-11-materials-coyote-valley-aggregate",
+  "name": "7/11 Materials - Coyote Valley Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bishop",
+    "state": "CA",
+    "zip": "93514"
+  },
+  "location": {
+    "lat": 37.346389,
+    "lng": -118.455556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405570"
+  },
+  "msha": [
+    {
+      "mine_id": "0405570",
+      "name": "7/11 Materials - Coyote Valley Aggregate",
+      "operator": "7/11 Materials Inc",
+      "status": "Active",
+      "status_since": "2016-10-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

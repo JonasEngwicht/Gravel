@@ -1,0 +1,41 @@
+{
+  "id": "ri-coventry-j-r-vinagro",
+  "slug": "j-r-vinagro",
+  "name": "J R Vinagro",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Coventry",
+    "state": "RI",
+    "zip": "02831"
+  },
+  "location": {
+    "lat": 41.723056,
+    "lng": -71.574722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3700209"
+  },
+  "msha": [
+    {
+      "mine_id": "3700209",
+      "name": "J R Vinagro Pit",
+      "operator": "J R Vinagro Corporation",
+      "status": "Active",
+      "status_since": "2024-12-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-el-campo-big-red-sand-and-gravel",
+  "slug": "big-red-sand-and-gravel",
+  "name": "Big Red Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "East Jackson Street",
+    "city": "El Campo",
+    "state": "TX",
+    "zip": "77488"
+  },
+  "location": {
+    "lat": 29.196835,
+    "lng": -96.269707
+  },
+  "contact": {
+    "phone": "(979) 332-2704",
+    "website": "http://bigredsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81877423-160c-4a81-9c76-648a3e6d06ee",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

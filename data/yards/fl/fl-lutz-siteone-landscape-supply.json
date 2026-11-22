@@ -1,0 +1,37 @@
+{
+  "id": "fl-lutz-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "26611 Wesley Chapel Blvd",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33559"
+  },
+  "location": {
+    "lat": 28.228687,
+    "lng": -82.375778
+  },
+  "contact": {
+    "phone": "(813) 907-5606",
+    "website": "https://www.siteone.com/store/769"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff4f414e-f513-4ec7-a3b6-5ed61d3ed49b",
+    "confidence": 0.978,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "al-homewood-vulcan-construction-materials-lakeshore-quarry",
+  "slug": "vulcan-construction-materials-lakeshore-quarry",
+  "name": "Vulcan Construction Materials – Lakeshore Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Homewood",
+    "state": "AL",
+    "zip": "35211"
+  },
+  "location": {
+    "lat": 33.449444,
+    "lng": -86.874444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103270"
+  },
+  "msha": [
+    {
+      "mine_id": "0103270",
+      "name": "Lakeshore Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2005-08-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

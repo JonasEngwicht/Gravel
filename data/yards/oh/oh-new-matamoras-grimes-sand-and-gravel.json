@@ -1,0 +1,35 @@
+{
+  "id": "oh-new-matamoras-grimes-sand-and-gravel",
+  "slug": "grimes-sand-and-gravel",
+  "name": "Grimes Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "165 Holdren Ln",
+    "city": "New Matamoras",
+    "state": "OH",
+    "zip": "45767"
+  },
+  "location": {
+    "lat": 39.506252,
+    "lng": -81.084747
+  },
+  "contact": {
+    "phone": "(740) 865-3990"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59524cff-2c49-45b3-9d32-4927409dc09e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

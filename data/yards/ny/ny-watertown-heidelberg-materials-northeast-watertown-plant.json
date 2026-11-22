@@ -1,0 +1,41 @@
+{
+  "id": "ny-watertown-heidelberg-materials-northeast-watertown-plant",
+  "slug": "heidelberg-materials-northeast-watertown-plant",
+  "name": "Heidelberg Materials Northeast – Watertown Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Watertown",
+    "state": "NY",
+    "zip": "13601"
+  },
+  "location": {
+    "lat": 43.985278,
+    "lng": -75.868611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000049"
+  },
+  "msha": [
+    {
+      "mine_id": "3000049",
+      "name": "Watertown Plant",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Active",
+      "status_since": "2023-12-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

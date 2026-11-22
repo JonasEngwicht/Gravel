@@ -1,0 +1,36 @@
+{
+  "id": "wi-genoa-city-high-prairie-landscape-supply",
+  "slug": "high-prairie-landscape-supply",
+  "name": "High Prairie Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "W363 Walworth St",
+    "city": "Genoa City",
+    "state": "WI",
+    "zip": "53128"
+  },
+  "location": {
+    "lat": 42.497559,
+    "lng": -88.318977
+  },
+  "contact": {
+    "phone": "(262) 279-6500",
+    "website": "http://www.high-prairie.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0377430-9b22-42a9-af73-27fa59890b9c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

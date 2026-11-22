@@ -1,0 +1,37 @@
+{
+  "id": "ky-grayson-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "14011 State Highway 9",
+    "city": "Grayson",
+    "state": "KY",
+    "zip": "41143"
+  },
+  "location": {
+    "lat": 38.465229,
+    "lng": -83.124512
+  },
+  "contact": {
+    "phone": "(606) 474-5836",
+    "website": "http://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "88a33028-c428-4a83-89eb-077df0899686",
+    "confidence": 0.785,
+    "merged_records": 2
+  }
+}

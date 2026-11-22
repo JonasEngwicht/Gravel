@@ -1,0 +1,48 @@
+{
+  "id": "ri-richmond-rhode-island-aggregates",
+  "slug": "rhode-island-aggregates",
+  "name": "Rhode Island Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "60 Kingstown Rd",
+    "city": "Richmond",
+    "state": "RI",
+    "zip": "02898"
+  },
+  "location": {
+    "lat": 41.508114,
+    "lng": -71.680855
+  },
+  "contact": {
+    "phone": "(401) 447-2777",
+    "website": "https://www.facebook.com/Rhode-Island-Aggregates-107700814111612/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71fc49e3-04da-4333-bc69-9104d0206029",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3700238",
+      "name": "Richmond",
+      "operator": "Cfgs Llc",
+      "status": "Active",
+      "status_since": "2020-03-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

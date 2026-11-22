@@ -1,0 +1,35 @@
+{
+  "id": "al-deatsville-alabama-gravel-scalehouse",
+  "slug": "alabama-gravel-scalehouse",
+  "name": "Alabama Gravel Scalehouse",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "283 Cypress Rd",
+    "city": "Deatsville",
+    "state": "AL",
+    "zip": "36022"
+  },
+  "location": {
+    "lat": 32.605316,
+    "lng": -86.393036
+  },
+  "contact": {
+    "phone": "(334) 290-0798"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14f5f766-4ebe-4e08-b15e-d25a034b0dc1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

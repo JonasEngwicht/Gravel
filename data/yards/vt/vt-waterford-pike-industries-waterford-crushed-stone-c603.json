@@ -1,0 +1,41 @@
+{
+  "id": "vt-waterford-pike-industries-waterford-crushed-stone-c603",
+  "slug": "pike-industries-waterford-crushed-stone-c603",
+  "name": "Pike Industries – Waterford Crushed Stone C603",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Waterford",
+    "state": "VT",
+    "zip": "05819"
+  },
+  "location": {
+    "lat": 44.374722,
+    "lng": -71.951389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300105"
+  },
+  "msha": [
+    {
+      "mine_id": "4300105",
+      "name": "Waterford Crushed Stone C603",
+      "operator": "Pike Industries Inc",
+      "status": "Intermittent",
+      "status_since": "2025-05-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

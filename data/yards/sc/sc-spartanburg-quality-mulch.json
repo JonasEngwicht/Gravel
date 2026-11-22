@@ -1,0 +1,35 @@
+{
+  "id": "sc-spartanburg-quality-mulch",
+  "slug": "quality-mulch",
+  "name": "Quality Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3411 Reidville Rd",
+    "city": "Spartanburg",
+    "state": "SC",
+    "zip": "29301"
+  },
+  "location": {
+    "lat": 34.905838,
+    "lng": -82.026588
+  },
+  "contact": {
+    "phone": "(864) 574-6801"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c8a443e2-7e8f-458b-b68e-fea1980931df",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

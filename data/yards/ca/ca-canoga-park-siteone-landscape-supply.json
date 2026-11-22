@@ -1,0 +1,37 @@
+{
+  "id": "ca-canoga-park-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7647 Canoga Ave",
+    "city": "Canoga Park",
+    "state": "CA",
+    "zip": "91304"
+  },
+  "location": {
+    "lat": 34.209743,
+    "lng": -118.597511
+  },
+  "contact": {
+    "phone": "(818) 884-1795",
+    "website": "https://www.siteone.com/en/store/432"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fabe0bb0-6bc5-4557-9003-2eebb68f4796",
+    "confidence": 0.964,
+    "merged_records": 1
+  }
+}

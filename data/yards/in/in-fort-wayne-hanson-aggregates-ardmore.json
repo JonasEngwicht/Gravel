@@ -1,0 +1,49 @@
+{
+  "id": "in-fort-wayne-hanson-aggregates-ardmore",
+  "slug": "hanson-aggregates-ardmore",
+  "name": "Hanson Aggregates Ardmore",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "6100 Ardmore Ave",
+    "city": "Fort Wayne",
+    "state": "IN",
+    "zip": "46809"
+  },
+  "location": {
+    "lat": 41.027843,
+    "lng": -85.189415
+  },
+  "contact": {
+    "phone": "(260) 747-3105",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "501ae03d-ebe3-4e87-8af8-77eb0d208916",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200068",
+      "name": "Ardmore Stone Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2011-04-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 40
+    }
+  ]
+}

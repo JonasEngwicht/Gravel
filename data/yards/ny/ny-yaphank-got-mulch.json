@@ -1,0 +1,36 @@
+{
+  "id": "ny-yaphank-got-mulch",
+  "slug": "got-mulch",
+  "name": "Got Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "81 Old Dock Rd",
+    "city": "Yaphank",
+    "state": "NY",
+    "zip": "11980"
+  },
+  "location": {
+    "lat": 40.808346,
+    "lng": -72.943901
+  },
+  "contact": {
+    "phone": "(631) 289-5258",
+    "website": "http://Www.gotmulchli.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5cfc5d7a-7625-4018-a97f-b9863036523d",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "pa-levittown-outdoor-landscape-supply",
+  "slug": "outdoor-landscape-supply",
+  "name": "Outdoor Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "149 Fallsington Tullytown Rd",
+    "city": "Levittown",
+    "state": "PA",
+    "zip": "19054"
+  },
+  "location": {
+    "lat": 40.172489,
+    "lng": -74.813271
+  },
+  "contact": {
+    "phone": "(267) 585-3716"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62ac4383-ddd8-405d-a831-234d3f3325cb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

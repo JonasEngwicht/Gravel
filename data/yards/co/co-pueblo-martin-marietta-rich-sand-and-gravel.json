@@ -1,0 +1,37 @@
+{
+  "id": "co-pueblo-martin-marietta-rich-sand-and-gravel",
+  "slug": "martin-marietta-rich-sand-and-gravel",
+  "name": "Martin Marietta - Rich Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "37400 Highway 96 E",
+    "city": "Pueblo",
+    "state": "CO",
+    "zip": "81006"
+  },
+  "location": {
+    "lat": 38.272499,
+    "lng": -104.446121
+  },
+  "contact": {
+    "phone": "(720) 378-5515",
+    "website": "https://www.martinmarietta.com/locations/west/rocky-mountain-aggregates-district/rich-sand-and-gravel"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4a0c2411-d1a5-46ef-b700-e33ad5b91fa3",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

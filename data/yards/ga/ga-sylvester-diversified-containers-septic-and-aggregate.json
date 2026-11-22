@@ -1,0 +1,36 @@
+{
+  "id": "ga-sylvester-diversified-containers-septic-and-aggregate",
+  "slug": "diversified-containers-septic-and-aggregate",
+  "name": "Diversified Containers Septic & Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1099 E Franklin St",
+    "city": "Sylvester",
+    "state": "GA",
+    "zip": "31791"
+  },
+  "location": {
+    "lat": 31.527353,
+    "lng": -83.811966
+  },
+  "contact": {
+    "phone": "(229) 206-5606",
+    "website": "https://www.diversifiedcsa.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "49cec202-634f-4e03-81e6-ea49c7f6ad8a",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

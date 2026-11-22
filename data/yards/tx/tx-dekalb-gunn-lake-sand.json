@@ -1,0 +1,41 @@
+{
+  "id": "tx-dekalb-gunn-lake-sand",
+  "slug": "gunn-lake-sand",
+  "name": "Gunn Lake Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "DeKalb",
+    "state": "TX",
+    "zip": "75559"
+  },
+  "location": {
+    "lat": 33.603056,
+    "lng": -94.533056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105520"
+  },
+  "msha": [
+    {
+      "mine_id": "4105520",
+      "name": "Gunn Lake Sand",
+      "operator": "Gunn Lake Sand",
+      "status": "Active",
+      "status_since": "2020-10-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

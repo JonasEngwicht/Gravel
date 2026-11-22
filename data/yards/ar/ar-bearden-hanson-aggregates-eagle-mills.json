@@ -1,0 +1,37 @@
+{
+  "id": "ar-bearden-hanson-aggregates-eagle-mills",
+  "slug": "hanson-aggregates-eagle-mills",
+  "name": "Hanson Aggregates Eagle Mills",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "377 Ouachita Rd 233",
+    "city": "Bearden",
+    "state": "AR",
+    "zip": "71720"
+  },
+  "location": {
+    "lat": 33.678516,
+    "lng": -92.693161
+  },
+  "contact": {
+    "phone": "(870) 574-2200",
+    "website": "http://www.hanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b9ca7016-9ec4-4c44-98a1-1299acdfd89f",
+    "confidence": 0.882,
+    "merged_records": 1
+  }
+}

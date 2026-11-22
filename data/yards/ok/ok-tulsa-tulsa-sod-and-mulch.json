@@ -1,0 +1,36 @@
+{
+  "id": "ok-tulsa-tulsa-sod-and-mulch",
+  "slug": "tulsa-sod-and-mulch",
+  "name": "Tulsa Sod and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5630 S 107th E Ave",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74146"
+  },
+  "location": {
+    "lat": 36.08144,
+    "lng": -95.858192
+  },
+  "contact": {
+    "phone": "(918) 252-7631",
+    "website": "http://tulsasod.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f505adea-8d27-4e7e-afd3-a18f8afa90ec",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

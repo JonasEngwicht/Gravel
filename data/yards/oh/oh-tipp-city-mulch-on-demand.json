@@ -1,0 +1,36 @@
+{
+  "id": "oh-tipp-city-mulch-on-demand",
+  "slug": "mulch-on-demand",
+  "name": "Mulch On Demand",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "304 E Kessler Cowlesville Rd",
+    "city": "Tipp City",
+    "state": "OH",
+    "zip": "45371"
+  },
+  "location": {
+    "lat": 39.981125,
+    "lng": -84.198868
+  },
+  "contact": {
+    "phone": "(937) 669-9273",
+    "website": "http://mulchondemand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0d231790-ed4b-4f77-8937-9daf4ee86e53",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

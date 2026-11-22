@@ -1,0 +1,35 @@
+{
+  "id": "pa-uniontown-coolspring-stone-supply-inc",
+  "slug": "coolspring-stone-supply-inc",
+  "name": "Coolspring Stone Supply Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "850 N Gallatin Avenue Ext",
+    "city": "Uniontown",
+    "state": "PA",
+    "zip": "15401"
+  },
+  "location": {
+    "lat": 39.927353,
+    "lng": -79.693443
+  },
+  "contact": {
+    "phone": "(724) 437-8663"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "85ff4280-7714-410f-aff9-4a5573a9cddb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

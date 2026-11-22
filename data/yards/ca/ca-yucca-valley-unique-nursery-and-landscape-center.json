@@ -1,0 +1,36 @@
+{
+  "id": "ca-yucca-valley-unique-nursery-and-landscape-center",
+  "slug": "unique-nursery-and-landscape-center",
+  "name": "Unique Nursery & Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "56637 29 Palms Hwy",
+    "city": "Yucca Valley",
+    "state": "CA",
+    "zip": "92284"
+  },
+  "location": {
+    "lat": 34.119995,
+    "lng": -116.428383
+  },
+  "contact": {
+    "phone": "(760) 365-1511",
+    "website": "https://www.unique-landscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "baf700db-6cab-4aec-9ac9-9b54cc706638",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

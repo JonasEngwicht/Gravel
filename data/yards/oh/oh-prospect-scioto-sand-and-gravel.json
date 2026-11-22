@@ -1,0 +1,47 @@
+{
+  "id": "oh-prospect-scioto-sand-and-gravel",
+  "slug": "scioto-sand-and-gravel",
+  "name": "Scioto Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5298 Marion-Marysville Rd",
+    "city": "Prospect",
+    "state": "OH",
+    "zip": "43342"
+  },
+  "location": {
+    "lat": 40.483097,
+    "lng": -83.192268
+  },
+  "contact": {
+    "phone": "(740) 494-2177"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27251625-a0d9-4c20-b3b7-99501ba8a10d",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3303320",
+      "name": "Scioto Sand & Gravel",
+      "operator": "Fleming Construction Company",
+      "status": "Active",
+      "status_since": "2023-11-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ky-danville-rogers-group-caldwell-stone",
+  "slug": "rogers-group-caldwell-stone",
+  "name": "Rogers Group – Caldwell Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Danville",
+    "state": "KY",
+    "zip": "40422"
+  },
+  "location": {
+    "lat": 37.623889,
+    "lng": -84.738333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500009"
+  },
+  "msha": [
+    {
+      "mine_id": "1500009",
+      "name": "Caldwell Stone",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "1971-09-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-hollidaysburg-tussey-mtn-mulch-landscape-center",
+  "slug": "tussey-mtn-mulch-landscape-center",
+  "name": "Tussey Mtn Mulch Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8599 Woodbury Pike",
+    "city": "Hollidaysburg",
+    "state": "PA",
+    "zip": "16648"
+  },
+  "location": {
+    "lat": 40.358997,
+    "lng": -78.417046
+  },
+  "contact": {
+    "phone": "(814) 696-1920",
+    "website": "http://www.tusseymountainmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d1d28ec2-d394-445c-a894-5a3021b76ce4",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

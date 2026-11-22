@@ -1,0 +1,48 @@
+{
+  "id": "mi-west-branch-bunting-sand-and-gravel-products",
+  "slug": "bunting-sand-and-gravel-products",
+  "name": "Bunting Sand & Gravel Products",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3247 Cook Rd",
+    "city": "West Branch",
+    "state": "MI",
+    "zip": "48661"
+  },
+  "location": {
+    "lat": 44.240681,
+    "lng": -84.226151
+  },
+  "contact": {
+    "phone": "(989) 345-2373",
+    "website": "https://bunting-sand-gravel-products.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e478361e-1a54-43d3-9fc5-679be1142e68",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2001435",
+      "name": "Ewing Pit",
+      "operator": "Bunting Sand & Gravel Products Inc",
+      "status": "Intermittent",
+      "status_since": "2020-09-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

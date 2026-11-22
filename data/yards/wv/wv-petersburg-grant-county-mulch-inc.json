@@ -1,0 +1,36 @@
+{
+  "id": "wv-petersburg-grant-county-mulch-inc",
+  "slug": "grant-county-mulch-inc",
+  "name": "Grant County Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "181 Mulch Dr",
+    "city": "Petersburg",
+    "state": "WV",
+    "zip": "26847"
+  },
+  "location": {
+    "lat": 39.073654,
+    "lng": -79.126869
+  },
+  "contact": {
+    "phone": "(800) 749-7451",
+    "website": "http://www.GrantCountyMulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fcdc806f-340f-40b4-bea3-acb0d3efac14",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wi-tunnel-city-iron-oak-sand-tunnel-city",
+  "slug": "iron-oak-sand-tunnel-city",
+  "name": "Iron Oak Sand – Tunnel City",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Tunnel City",
+    "state": "WI",
+    "zip": "54660"
+  },
+  "location": {
+    "lat": 44.008333,
+    "lng": -90.566944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703699"
+  },
+  "msha": [
+    {
+      "mine_id": "4703699",
+      "name": "Tunnel City",
+      "operator": "Iron Oak Sand LLC",
+      "status": "Active",
+      "status_since": "2014-02-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

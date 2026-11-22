@@ -1,0 +1,37 @@
+{
+  "id": "mi-wixom-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "30023 S Wixom Rd",
+    "city": "Wixom",
+    "state": "MI",
+    "zip": "48393"
+  },
+  "location": {
+    "lat": 42.512978,
+    "lng": -83.538544
+  },
+  "contact": {
+    "phone": "(248) 669-3787",
+    "website": "https://www.siteone.com/en/store/123"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd42e6c7-258b-42e9-b6ed-bd9a84a4d367",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

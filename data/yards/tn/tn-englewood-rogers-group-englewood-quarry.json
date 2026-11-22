@@ -1,0 +1,41 @@
+{
+  "id": "tn-englewood-rogers-group-englewood-quarry",
+  "slug": "rogers-group-englewood-quarry",
+  "name": "Rogers Group – Englewood Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Englewood",
+    "state": "TN",
+    "zip": "37329"
+  },
+  "location": {
+    "lat": 35.356389,
+    "lng": -84.413333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003416"
+  },
+  "msha": [
+    {
+      "mine_id": "4003416",
+      "name": "Englewood Quarry",
+      "operator": "Rogers Group Inc",
+      "status": "Active",
+      "status_since": "2018-04-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

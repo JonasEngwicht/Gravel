@@ -1,0 +1,35 @@
+{
+  "id": "tn-burlison-ruleman-sand-and-gravel-plant",
+  "slug": "ruleman-sand-and-gravel-plant",
+  "name": "Ruleman Sand and Gravel Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1442 Baskins Rd",
+    "city": "Burlison",
+    "state": "TN",
+    "zip": "38015"
+  },
+  "location": {
+    "lat": 35.543465,
+    "lng": -89.753075
+  },
+  "contact": {
+    "phone": "(901) 475-4835"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "42ee3a86-31f8-4819-990b-d6cc7a7e4a0b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

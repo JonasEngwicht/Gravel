@@ -1,0 +1,41 @@
+{
+  "id": "sc-columbia-vulcan-construction-materials-columbia-quarry",
+  "slug": "vulcan-construction-materials-columbia-quarry",
+  "name": "Vulcan Construction Materials – Columbia Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29201"
+  },
+  "location": {
+    "lat": 33.978611,
+    "lng": -81.033056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800013"
+  },
+  "msha": [
+    {
+      "mine_id": "3800013",
+      "name": "Columbia Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1978-12-18",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 34
+    }
+  ]
+}

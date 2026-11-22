@@ -1,0 +1,41 @@
+{
+  "id": "ga-gainesville-heidelberg-materials-southeast-agg-gainesville-quarry",
+  "slug": "heidelberg-materials-southeast-agg-gainesville-quarry",
+  "name": "Heidelberg Materials Southeast Agg – Gainesville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gainesville",
+    "state": "GA",
+    "zip": "30507"
+  },
+  "location": {
+    "lat": 34.240278,
+    "lng": -83.798056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900034"
+  },
+  "msha": [
+    {
+      "mine_id": "0900034",
+      "name": "Gainesville Quarry",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "1976-04-23",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 23
+    }
+  ]
+}

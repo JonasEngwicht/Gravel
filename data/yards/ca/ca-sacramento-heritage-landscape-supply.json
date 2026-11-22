@@ -1,0 +1,37 @@
+{
+  "id": "ca-sacramento-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "3449 Longview Dr",
+    "city": "Sacramento",
+    "state": "CA",
+    "zip": "95821"
+  },
+  "location": {
+    "lat": 38.643116,
+    "lng": -121.384361
+  },
+  "contact": {
+    "phone": "(916) 482-2924",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e735b82-bef6-4a64-8542-21177e84127c",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

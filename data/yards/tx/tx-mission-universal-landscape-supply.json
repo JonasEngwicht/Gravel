@@ -1,0 +1,35 @@
+{
+  "id": "tx-mission-universal-landscape-supply",
+  "slug": "universal-landscape-supply",
+  "name": "Universal Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1609 E Expressway 83",
+    "city": "Mission",
+    "state": "TX",
+    "zip": "78572"
+  },
+  "location": {
+    "lat": 26.19866,
+    "lng": -98.302063
+  },
+  "contact": {
+    "phone": "(956) 888-9209"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4e566d17-1ea4-4173-8638-5745bfcd95bf",
+    "confidence": 0.531,
+    "merged_records": 1
+  }
+}

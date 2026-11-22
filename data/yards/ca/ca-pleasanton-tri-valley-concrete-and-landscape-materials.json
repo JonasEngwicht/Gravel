@@ -1,0 +1,36 @@
+{
+  "id": "ca-pleasanton-tri-valley-concrete-and-landscape-materials",
+  "slug": "tri-valley-concrete-and-landscape-materials",
+  "name": "Tri-Valley Concrete & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2700 Vineyard Ave",
+    "city": "Pleasanton",
+    "state": "CA",
+    "zip": "94566"
+  },
+  "location": {
+    "lat": 37.663696,
+    "lng": -121.84388
+  },
+  "contact": {
+    "phone": "(925) 462-4202",
+    "website": "http://www.trivalleylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e254f60-9190-4936-8a28-76b6d980c61e",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

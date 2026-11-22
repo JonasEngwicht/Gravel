@@ -1,0 +1,46 @@
+{
+  "id": "co-granby-united-granby-sand-and-gravel",
+  "slug": "united-granby-sand-and-gravel",
+  "name": "United-Granby Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1830 County Road 60",
+    "city": "Granby",
+    "state": "CO",
+    "zip": "80446"
+  },
+  "location": {
+    "lat": 40.086979,
+    "lng": -105.901917
+  },
+  "contact": {
+    "phone": "(970) 531-2926"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7537bb9b-e674-45d9-914a-2943bdee8bfd",
+    "confidence": 0.807,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0505092",
+      "name": "Kattenberg",
+      "operator": "Granby Sand and Gravel",
+      "status": "Abandoned",
+      "status_since": "2020-01-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

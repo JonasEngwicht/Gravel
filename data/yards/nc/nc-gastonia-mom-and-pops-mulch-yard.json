@@ -1,0 +1,36 @@
+{
+  "id": "nc-gastonia-mom-and-pops-mulch-yard",
+  "slug": "mom-and-pops-mulch-yard",
+  "name": "Mom and Pops Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5312 Union Rd",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28056"
+  },
+  "location": {
+    "lat": 35.185238,
+    "lng": -81.145004
+  },
+  "contact": {
+    "phone": "(704) 671-2005",
+    "website": "https://raniolo3.wixsite.com/mysite"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b10b1288-b425-4bb6-80fb-beed0bb63ef0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

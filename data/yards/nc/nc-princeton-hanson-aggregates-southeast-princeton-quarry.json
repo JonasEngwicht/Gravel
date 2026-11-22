@@ -1,0 +1,41 @@
+{
+  "id": "nc-princeton-hanson-aggregates-southeast-princeton-quarry",
+  "slug": "hanson-aggregates-southeast-princeton-quarry",
+  "name": "Hanson Aggregates Southeast – Princeton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Princeton",
+    "state": "NC",
+    "zip": "27569"
+  },
+  "location": {
+    "lat": 35.466111,
+    "lng": -78.160556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3100077"
+  },
+  "msha": [
+    {
+      "mine_id": "3100077",
+      "name": "Princeton Quarry",
+      "operator": "Hanson Aggregates Southeast, LLC",
+      "status": "Active",
+      "status_since": "1977-09-14",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

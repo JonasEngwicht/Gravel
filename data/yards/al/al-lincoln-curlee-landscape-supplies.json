@@ -1,0 +1,35 @@
+{
+  "id": "al-lincoln-curlee-landscape-supplies",
+  "slug": "curlee-landscape-supplies",
+  "name": "Curlee Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "45920 US-78",
+    "city": "Lincoln",
+    "state": "AL",
+    "zip": "35096"
+  },
+  "location": {
+    "lat": 33.604309,
+    "lng": -86.150131
+  },
+  "contact": {
+    "phone": "(205) 753-9499"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7580fb0f-783a-4487-a17c-fca6c1a9c22a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

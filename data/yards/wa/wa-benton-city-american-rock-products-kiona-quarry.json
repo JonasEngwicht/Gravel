@@ -1,0 +1,41 @@
+{
+  "id": "wa-benton-city-american-rock-products-kiona-quarry",
+  "slug": "american-rock-products-kiona-quarry",
+  "name": "American Rock Products – Kiona Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Benton City",
+    "state": "WA",
+    "zip": "99354"
+  },
+  "location": {
+    "lat": 46.340556,
+    "lng": -119.348889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503538"
+  },
+  "msha": [
+    {
+      "mine_id": "4503538",
+      "name": "Kiona Quarry",
+      "operator": "American Rock Products Inc",
+      "status": "Intermittent",
+      "status_since": "2024-03-08",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

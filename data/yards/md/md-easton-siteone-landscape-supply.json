@@ -1,0 +1,37 @@
+{
+  "id": "md-easton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "8648 Commerce Dr Ste 700",
+    "city": "Easton",
+    "state": "MD",
+    "zip": "21601"
+  },
+  "location": {
+    "lat": 38.786804,
+    "lng": -76.081589
+  },
+  "contact": {
+    "phone": "(410) 820-0592",
+    "website": "https://www.siteone.com/store/774"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d6077c79-7618-4ea1-b2dd-4114323bc9bc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

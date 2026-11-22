@@ -1,0 +1,36 @@
+{
+  "id": "ga-eatonton-hickory-hill-nursery-and-landscape-supply",
+  "slug": "hickory-hill-nursery-and-landscape-supply",
+  "name": "Hickory Hill Nursery and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "609 Old Phoenix Rd NE",
+    "city": "Eatonton",
+    "state": "GA",
+    "zip": "31024"
+  },
+  "location": {
+    "lat": 33.411049,
+    "lng": -83.269363
+  },
+  "contact": {
+    "phone": "(706) 484-0444",
+    "website": "http://siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02fd24a4-47de-455e-bb44-2fccc37da044",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nm-farmington-c-and-e-concrete",
+  "slug": "c-and-e-concrete",
+  "name": "C & E Concrete",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Farmington",
+    "state": "NM",
+    "zip": "87401"
+  },
+  "location": {
+    "lat": 36.733056,
+    "lng": -108.213056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902488"
+  },
+  "msha": [
+    {
+      "mine_id": "2902488",
+      "name": "Cr #2",
+      "operator": "C & E Concrete, Inc.",
+      "status": "Active",
+      "status_since": "2018-04-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

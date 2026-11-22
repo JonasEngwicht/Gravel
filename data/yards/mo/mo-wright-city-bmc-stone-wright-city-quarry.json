@@ -1,0 +1,41 @@
+{
+  "id": "mo-wright-city-bmc-stone-wright-city-quarry",
+  "slug": "bmc-stone-wright-city-quarry",
+  "name": "BMC Stone – Wright City Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wright City",
+    "state": "MO",
+    "zip": "63390"
+  },
+  "location": {
+    "lat": 38.868611,
+    "lng": -91.007222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302286"
+  },
+  "msha": [
+    {
+      "mine_id": "2302286",
+      "name": "Wright City Quarry",
+      "operator": "BMC Stone, LLC",
+      "status": "Active",
+      "status_since": "2011-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

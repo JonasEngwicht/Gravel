@@ -1,0 +1,41 @@
+{
+  "id": "wa-redmond-lakeside-industries-palmer-junction-gravel-pit-kanaskat-pit",
+  "slug": "lakeside-industries-palmer-junction-gravel-pit-kanaskat-pit",
+  "name": "Lakeside Industries – Palmer Junction Gravel Pit-Kanaskat Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Redmond",
+    "state": "WA",
+    "zip": "98051"
+  },
+  "location": {
+    "lat": 47.317778,
+    "lng": -121.879722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4502825"
+  },
+  "msha": [
+    {
+      "mine_id": "4502825",
+      "name": "Palmer Junction Gravel Pit-Kanaskat Pit",
+      "operator": "Lakeside Industries, Inc.",
+      "status": "Active",
+      "status_since": "1993-10-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

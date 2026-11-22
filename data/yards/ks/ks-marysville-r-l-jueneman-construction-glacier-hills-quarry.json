@@ -1,0 +1,41 @@
+{
+  "id": "ks-marysville-r-l-jueneman-construction-glacier-hills-quarry",
+  "slug": "r-l-jueneman-construction-glacier-hills-quarry",
+  "name": "R.L. Jueneman Construction – Glacier Hills Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Marysville",
+    "state": "KS",
+    "zip": "66508"
+  },
+  "location": {
+    "lat": 39.829444,
+    "lng": -96.644722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401699"
+  },
+  "msha": [
+    {
+      "mine_id": "1401699",
+      "name": "Glacier Hills Quarry",
+      "operator": "R.L. Jueneman Construction, Inc.",
+      "status": "Intermittent",
+      "status_since": "2014-08-13",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

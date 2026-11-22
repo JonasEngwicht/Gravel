@@ -1,0 +1,41 @@
+{
+  "id": "al-huntsville-martin-marietta-southeast-agg-operations-north-huntsville-quarry-and-mill",
+  "slug": "martin-marietta-southeast-agg-operations-north-huntsville-quarry-and-mill",
+  "name": "Martin Marietta Southeast Agg Operations – North Huntsville Quarry & Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35896"
+  },
+  "location": {
+    "lat": 34.778611,
+    "lng": -86.643333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0102660"
+  },
+  "msha": [
+    {
+      "mine_id": "0102660",
+      "name": "North Huntsville Quarry & Mill",
+      "operator": "Martin Marietta Southeast Agg Operations, LLC",
+      "status": "Active",
+      "status_since": "1986-05-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

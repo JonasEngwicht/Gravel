@@ -1,0 +1,41 @@
+{
+  "id": "az-chandler-gila-river-sand-and-gravel-maricopa-pit",
+  "slug": "gila-river-sand-and-gravel-maricopa-pit",
+  "name": "Gila River Sand & Gravel – Maricopa Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85121"
+  },
+  "location": {
+    "lat": 33.172222,
+    "lng": -111.991667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203075"
+  },
+  "msha": [
+    {
+      "mine_id": "0203075",
+      "name": "Maricopa Pit",
+      "operator": "Gila River Sand & Gravel",
+      "status": "Active",
+      "status_since": "2005-01-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 60
+    }
+  ]
+}

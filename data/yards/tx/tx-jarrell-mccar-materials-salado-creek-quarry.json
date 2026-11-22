@@ -1,0 +1,41 @@
+{
+  "id": "tx-jarrell-mccar-materials-salado-creek-quarry",
+  "slug": "mccar-materials-salado-creek-quarry",
+  "name": "McCar Materials – Salado Creek Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jarrell",
+    "state": "TX",
+    "zip": "76537"
+  },
+  "location": {
+    "lat": 30.806111,
+    "lng": -97.674722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105858"
+  },
+  "msha": [
+    {
+      "mine_id": "4105858",
+      "name": "Salado Creek Quarry",
+      "operator": "McCar Materials",
+      "status": "Intermittent",
+      "status_since": "2026-04-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

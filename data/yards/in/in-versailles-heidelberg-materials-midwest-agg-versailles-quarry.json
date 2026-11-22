@@ -1,0 +1,41 @@
+{
+  "id": "in-versailles-heidelberg-materials-midwest-agg-versailles-quarry",
+  "slug": "heidelberg-materials-midwest-agg-versailles-quarry",
+  "name": "Heidelberg Materials Midwest Agg – Versailles Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Versailles",
+    "state": "IN",
+    "zip": "47042"
+  },
+  "location": {
+    "lat": 39.03,
+    "lng": -85.271667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200008"
+  },
+  "msha": [
+    {
+      "mine_id": "1200008",
+      "name": "Versailles Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2020-01-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

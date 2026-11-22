@@ -1,0 +1,36 @@
+{
+  "id": "ca-auburn-apple-creek-landscaping-materials",
+  "slug": "apple-creek-landscaping-materials",
+  "name": "Apple Creek Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "162 Team Track Rd",
+    "city": "Auburn",
+    "state": "CA",
+    "zip": "95603"
+  },
+  "location": {
+    "lat": 38.908081,
+    "lng": -121.067856
+  },
+  "contact": {
+    "phone": "(530) 537-2266",
+    "website": "https://www.applecreeklandscapingmaterial.com/services"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e411f5a8-2a89-4498-98ee-6328aae1d48f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

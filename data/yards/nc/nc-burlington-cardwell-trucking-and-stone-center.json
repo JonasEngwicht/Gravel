@@ -1,0 +1,35 @@
+{
+  "id": "nc-burlington-cardwell-trucking-and-stone-center",
+  "slug": "cardwell-trucking-and-stone-center",
+  "name": "Cardwell Trucking & Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "5408 S NC Highway 62",
+    "city": "Burlington",
+    "state": "NC",
+    "zip": "27215"
+  },
+  "location": {
+    "lat": 36.013245,
+    "lng": -79.510635
+  },
+  "contact": {
+    "phone": "(336) 227-4774"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "948cbe90-55dc-4947-8931-7ad7a10512c6",
+    "confidence": 0.601,
+    "merged_records": 1
+  }
+}

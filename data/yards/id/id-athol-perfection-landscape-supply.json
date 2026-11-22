@@ -1,0 +1,35 @@
+{
+  "id": "id-athol-perfection-landscape-supply",
+  "slug": "perfection-landscape-supply",
+  "name": "Perfection landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "30420 N Meadow St",
+    "city": "Athol",
+    "state": "ID",
+    "zip": "83801"
+  },
+  "location": {
+    "lat": 47.948132,
+    "lng": -116.71386
+  },
+  "contact": {
+    "phone": "(208) 216-9063"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f97ab6c0-6f77-49e1-94e2-01057b758b52",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

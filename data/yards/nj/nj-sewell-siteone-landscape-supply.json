@@ -1,0 +1,37 @@
+{
+  "id": "nj-sewell-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "17 Hilltop Ave",
+    "city": "Sewell",
+    "state": "NJ",
+    "zip": "08080"
+  },
+  "location": {
+    "lat": 39.762333,
+    "lng": -75.110611
+  },
+  "contact": {
+    "phone": "(856) 881-0318",
+    "website": "https://www.siteone.com/store/68"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "498d7fc2-457c-43ff-b79b-4d1722beba55",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

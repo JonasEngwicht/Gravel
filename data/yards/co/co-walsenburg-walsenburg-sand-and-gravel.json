@@ -1,0 +1,35 @@
+{
+  "id": "co-walsenburg-walsenburg-sand-and-gravel",
+  "slug": "walsenburg-sand-and-gravel",
+  "name": "Walsenburg Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "314 CO-10",
+    "city": "Walsenburg",
+    "state": "CO",
+    "zip": "81089"
+  },
+  "location": {
+    "lat": 37.630138,
+    "lng": -104.764862
+  },
+  "contact": {
+    "phone": "(719) 738-1883"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "389b1555-2208-42a7-a0c2-963a1e514505",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

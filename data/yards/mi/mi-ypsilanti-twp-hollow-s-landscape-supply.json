@@ -1,0 +1,36 @@
+{
+  "id": "mi-ypsilanti-twp-hollow-s-landscape-supply",
+  "slug": "hollow-s-landscape-supply",
+  "name": "Hollow's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6280 Rawsonville Rd",
+    "city": "Ypsilanti Twp",
+    "state": "MI",
+    "zip": "48111"
+  },
+  "location": {
+    "lat": 42.199558,
+    "lng": -83.543365
+  },
+  "contact": {
+    "phone": "(800) 698-7625",
+    "website": "http://www.HollowsLandscapeSupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c435aa80-4520-4ec1-9c04-4c043803d549",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

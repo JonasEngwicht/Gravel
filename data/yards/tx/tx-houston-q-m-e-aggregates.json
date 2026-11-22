@@ -1,0 +1,35 @@
+{
+  "id": "tx-houston-q-m-e-aggregates",
+  "slug": "q-m-e-aggregates",
+  "name": "Q.M.E Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "651 Fennell St",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77012"
+  },
+  "location": {
+    "lat": 29.721237,
+    "lng": -95.281044
+  },
+  "contact": {
+    "phone": "(713) 319-7301"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e2f1b87c-6130-417a-bf16-f70dc40e86dd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

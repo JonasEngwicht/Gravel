@@ -1,0 +1,35 @@
+{
+  "id": "pa-houtzdale-kitko-stone-and-mulch",
+  "slug": "kitko-stone-and-mulch",
+  "name": "Kitko Stone & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "113 Ocean Ave",
+    "city": "Houtzdale",
+    "state": "PA",
+    "zip": "16651"
+  },
+  "location": {
+    "lat": 40.849525,
+    "lng": -78.363007
+  },
+  "contact": {
+    "phone": "(814) 590-7576"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0116725-e781-4700-acd6-f964e841e40d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

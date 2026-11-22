@@ -1,0 +1,36 @@
+{
+  "id": "oh-moraine-champion-mulch-and-landscape-supply",
+  "slug": "champion-mulch-and-landscape-supply",
+  "name": "Champion Mulch & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3400 Dryden Rd",
+    "city": "Moraine",
+    "state": "OH",
+    "zip": "45439"
+  },
+  "location": {
+    "lat": 39.699093,
+    "lng": -84.225128
+  },
+  "contact": {
+    "phone": "(937) 203-0000",
+    "website": "https://gotochampion.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "01bfe586-9ce4-45c1-b563-dc44243ac936",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

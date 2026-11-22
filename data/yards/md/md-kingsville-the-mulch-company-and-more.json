@@ -1,0 +1,35 @@
+{
+  "id": "md-kingsville-the-mulch-company-and-more",
+  "slug": "the-mulch-company-and-more",
+  "name": "The Mulch Company & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "city": "Kingsville",
+    "state": "MD",
+    "zip": "21087"
+  },
+  "location": {
+    "lat": 39.447803,
+    "lng": -76.412659
+  },
+  "contact": {
+    "phone": "(410) 592-8005",
+    "website": "http://themulchcompanyandmore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cfbe0b7a-ee95-40b5-b7a2-9b48ea247b76",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

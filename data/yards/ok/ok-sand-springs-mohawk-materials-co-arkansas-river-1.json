@@ -1,0 +1,41 @@
+{
+  "id": "ok-sand-springs-mohawk-materials-co-arkansas-river-1",
+  "slug": "mohawk-materials-co-arkansas-river-1",
+  "name": "Mohawk Materials Co – Arkansas River - 1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sand Springs",
+    "state": "OK",
+    "zip": "74127"
+  },
+  "location": {
+    "lat": 36.139722,
+    "lng": -96.108889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400375"
+  },
+  "msha": [
+    {
+      "mine_id": "3400375",
+      "name": "Arkansas River - 1",
+      "operator": "Mohawk Materials Co Inc",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

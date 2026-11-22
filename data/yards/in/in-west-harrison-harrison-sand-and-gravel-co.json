@@ -1,0 +1,47 @@
+{
+  "id": "in-west-harrison-harrison-sand-and-gravel-co",
+  "slug": "harrison-sand-and-gravel-co",
+  "name": "Harrison Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4215 Harrison Brookville Rd",
+    "city": "West Harrison",
+    "state": "IN",
+    "zip": "47060"
+  },
+  "location": {
+    "lat": 39.305099,
+    "lng": -84.896439
+  },
+  "contact": {
+    "phone": "(812) 656-8149"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26b8f5ea-c848-4e54-a4f1-fc01c9bdc523",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1201151",
+      "name": "New Trenton Pit",
+      "operator": "Harrison Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2011-12-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

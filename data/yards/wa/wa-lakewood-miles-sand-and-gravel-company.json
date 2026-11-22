@@ -1,0 +1,36 @@
+{
+  "id": "wa-lakewood-miles-sand-and-gravel-company",
+  "slug": "miles-sand-and-gravel-company",
+  "name": "Miles Sand & Gravel Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10701 34th Ave Ct S",
+    "city": "Lakewood",
+    "state": "WA",
+    "zip": "98499"
+  },
+  "location": {
+    "lat": 47.159763,
+    "lng": -122.482422
+  },
+  "contact": {
+    "phone": "(253) 922-9116",
+    "website": "http://www.milessandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3906e849-8c76-497b-9724-2c5ad92272a2",
+    "confidence": 0.558,
+    "merged_records": 1
+  }
+}

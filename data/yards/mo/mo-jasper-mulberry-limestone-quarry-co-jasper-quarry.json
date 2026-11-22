@@ -1,0 +1,41 @@
+{
+  "id": "mo-jasper-mulberry-limestone-quarry-co-jasper-quarry",
+  "slug": "mulberry-limestone-quarry-co-jasper-quarry",
+  "name": "Mulberry Limestone Quarry Co – Jasper Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jasper",
+    "state": "MO",
+    "zip": "65409"
+  },
+  "location": {
+    "lat": 37.964167,
+    "lng": -91.831944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302207"
+  },
+  "msha": [
+    {
+      "mine_id": "2302207",
+      "name": "Jasper Quarry",
+      "operator": "Mulberry Limestone Quarry Co. Inc.",
+      "status": "Active",
+      "status_since": "2019-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

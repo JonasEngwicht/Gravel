@@ -1,0 +1,37 @@
+{
+  "id": "ma-waltham-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "101 Clematis Ave Ste 3",
+    "city": "Waltham",
+    "state": "MA",
+    "zip": "02453"
+  },
+  "location": {
+    "lat": 42.384186,
+    "lng": -71.200493
+  },
+  "contact": {
+    "phone": "(781) 893-6660",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5cfc69e4-541c-4116-a63d-695703cf41c5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

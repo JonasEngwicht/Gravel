@@ -1,0 +1,35 @@
+{
+  "id": "tx-caldwell-h-and-h-top-soil-and-select-fill",
+  "slug": "h-and-h-top-soil-and-select-fill",
+  "name": "H&H Top Soil & Select Fill",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5678 Texas 21",
+    "city": "Caldwell",
+    "state": "TX",
+    "zip": "77836"
+  },
+  "location": {
+    "lat": 30.58588,
+    "lng": -96.627769
+  },
+  "contact": {
+    "phone": "(979) 412-3463"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "69f6252e-d216-47f2-b897-c865e46775d4",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

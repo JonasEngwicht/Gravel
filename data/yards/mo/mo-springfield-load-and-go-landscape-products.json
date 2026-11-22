@@ -1,0 +1,36 @@
+{
+  "id": "mo-springfield-load-and-go-landscape-products",
+  "slug": "load-and-go-landscape-products",
+  "name": "Load and Go Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2135 E Division St",
+    "city": "Springfield",
+    "state": "MO",
+    "zip": "65803"
+  },
+  "location": {
+    "lat": 37.225414,
+    "lng": -93.25338
+  },
+  "contact": {
+    "phone": "(417) 864-4474",
+    "website": "http://www.loadandgolandscapeproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fce342ba-33a6-40c3-8552-812d0b4242c7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nj-mahwah-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "100 Weyerhauser Rd",
+    "city": "Mahwah",
+    "state": "NJ",
+    "zip": "07430"
+  },
+  "location": {
+    "lat": 41.083042,
+    "lng": -74.14386
+  },
+  "contact": {
+    "phone": "(201) 529-0099",
+    "website": "https://www.siteone.com/store/638"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb371cde-02d7-43b2-966f-2311d3313ebf",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wi-hayward-thompson-s-sand-and-gravel",
+  "slug": "thompson-s-sand-and-gravel",
+  "name": "Thompson's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16684 W US Highway 63",
+    "city": "Hayward",
+    "state": "WI",
+    "zip": "54843"
+  },
+  "location": {
+    "lat": 45.98658,
+    "lng": -91.528755
+  },
+  "contact": {
+    "website": "https://dighayward.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e091ed63-7fdd-4beb-9968-f9dd1456d5d3",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

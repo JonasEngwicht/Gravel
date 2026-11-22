@@ -1,0 +1,41 @@
+{
+  "id": "ut-garland-j6-ranch",
+  "slug": "j6-ranch",
+  "name": "J6 Ranch",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Garland",
+    "state": "UT",
+    "zip": "84311"
+  },
+  "location": {
+    "lat": 41.828333,
+    "lng": -112.155556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4202805"
+  },
+  "msha": [
+    {
+      "mine_id": "4202805",
+      "name": "J6 Ranch",
+      "operator": "SJ Rock & Gravel, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-11-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

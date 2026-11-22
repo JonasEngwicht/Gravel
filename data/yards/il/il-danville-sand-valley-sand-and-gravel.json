@@ -1,0 +1,47 @@
+{
+  "id": "il-danville-sand-valley-sand-and-gravel",
+  "slug": "sand-valley-sand-and-gravel",
+  "name": "Sand Valley Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16395 Lewis Rd",
+    "city": "Danville",
+    "state": "IL",
+    "zip": "61834"
+  },
+  "location": {
+    "lat": 40.106724,
+    "lng": -87.591988
+  },
+  "contact": {
+    "phone": "(217) 446-4210"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de966744-a84a-4f1f-aac4-fc28d3e7f7c1",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1101150",
+      "name": "Sand Valley Sand & Gravel Inc",
+      "operator": "Sand Valley Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2024-10-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

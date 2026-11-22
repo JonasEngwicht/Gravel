@@ -1,0 +1,48 @@
+{
+  "id": "oh-woodville-area-aggregates-woodville-plant",
+  "slug": "area-aggregates-woodville-plant",
+  "name": "Area Aggregates Woodville Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "659 Anderson Rd",
+    "city": "Woodville",
+    "state": "OH",
+    "zip": "43469"
+  },
+  "location": {
+    "lat": 41.440151,
+    "lng": -83.356812
+  },
+  "contact": {
+    "phone": "(419) 849-3218",
+    "website": "https://www.kokosing.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dca3a608-7d4f-4f16-8a82-c7aa0bb34a0b",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3300134",
+      "name": "Woodville Plant",
+      "operator": "Area Aggregates LLC",
+      "status": "Active",
+      "status_since": "2007-03-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

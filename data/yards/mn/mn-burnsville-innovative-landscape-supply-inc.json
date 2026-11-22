@@ -1,0 +1,36 @@
+{
+  "id": "mn-burnsville-innovative-landscape-supply-inc",
+  "slug": "innovative-landscape-supply-inc",
+  "name": "Innovative Landscape Supply Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "721 Ladybird Ln",
+    "city": "Burnsville",
+    "state": "MN",
+    "zip": "55337"
+  },
+  "location": {
+    "lat": 44.777287,
+    "lng": -93.290123
+  },
+  "contact": {
+    "phone": "(952) 894-6550",
+    "website": "http://www.ulandscapeit.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "10733fc5-e45c-4887-ba56-e388ea0fdcb3",
+    "confidence": 0.671,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-dallas-custom-stone-supply",
+  "slug": "custom-stone-supply",
+  "name": "Custom Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2627 Joe Field Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75229"
+  },
+  "location": {
+    "lat": 32.892941,
+    "lng": -96.888512
+  },
+  "contact": {
+    "phone": "(972) 243-1144",
+    "website": "http://www.customstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c52a4ad7-ec7d-41f1-9d0c-07144b37e499",
+    "confidence": 0.938,
+    "merged_records": 1
+  }
+}

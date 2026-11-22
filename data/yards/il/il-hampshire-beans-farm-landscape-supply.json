@@ -1,0 +1,36 @@
+{
+  "id": "il-hampshire-beans-farm-landscape-supply",
+  "slug": "beans-farm-landscape-supply",
+  "name": "Beans Farm Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "46w640 Big Timber Rd",
+    "city": "Hampshire",
+    "state": "IL",
+    "zip": "60140"
+  },
+  "location": {
+    "lat": 42.12962,
+    "lng": -88.522903
+  },
+  "contact": {
+    "phone": "(847) 683-1013",
+    "website": "http://www.BeansFarm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c009b7d1-43ab-4715-87c5-cf3706faf2f1",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

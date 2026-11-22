@@ -1,0 +1,37 @@
+{
+  "id": "ca-ontario-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "315 N Sacramento Ave",
+    "city": "Ontario",
+    "state": "CA",
+    "zip": "91764"
+  },
+  "location": {
+    "lat": 34.066437,
+    "lng": -117.612396
+  },
+  "contact": {
+    "phone": "(909) 937-6868",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "201be812-3690-47b3-a562-7086f6c2d267",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

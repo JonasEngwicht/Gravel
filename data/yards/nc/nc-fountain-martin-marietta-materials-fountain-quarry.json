@@ -1,0 +1,41 @@
+{
+  "id": "nc-fountain-martin-marietta-materials-fountain-quarry",
+  "slug": "martin-marietta-materials-fountain-quarry",
+  "name": "Martin Marietta Materials – Fountain Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Fountain",
+    "state": "NC",
+    "zip": "27829"
+  },
+  "location": {
+    "lat": 35.651111,
+    "lng": -77.651944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3100065"
+  },
+  "msha": [
+    {
+      "mine_id": "3100065",
+      "name": "Fountain Quarry",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

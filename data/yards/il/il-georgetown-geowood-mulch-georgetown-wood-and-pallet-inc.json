@@ -1,0 +1,35 @@
+{
+  "id": "il-georgetown-geowood-mulch-georgetown-wood-and-pallet-inc",
+  "slug": "geowood-mulch-georgetown-wood-and-pallet-inc",
+  "name": "GeoWood Mulch/ Georgetown Wood and Pallet, INC.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5781 State Route 1",
+    "city": "Georgetown",
+    "state": "IL",
+    "zip": "61846"
+  },
+  "location": {
+    "lat": 39.94096,
+    "lng": -87.523865
+  },
+  "contact": {
+    "phone": "(217) 662-2563"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27bbf5e2-5be9-47f8-80ef-079f4270d361",
+    "confidence": 0.775,
+    "merged_records": 1
+  }
+}

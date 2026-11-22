@@ -1,0 +1,47 @@
+{
+  "id": "ms-amory-mississippi-gravel-sales-inc",
+  "slug": "mississippi-gravel-sales-inc",
+  "name": "Mississippi Gravel Sales Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "30344 Bigbee Rd",
+    "city": "Amory",
+    "state": "MS",
+    "zip": "38821"
+  },
+  "location": {
+    "lat": 34.001831,
+    "lng": -88.533882
+  },
+  "contact": {
+    "phone": "(662) 256-5252"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "127db322-9426-4cae-aa2d-dc9514dc2a54",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2200114",
+      "name": "North Mississippi Gravel Co., LLC",
+      "operator": "North Mississippi Gravel Co., LLC",
+      "status": "Abandoned",
+      "status_since": "2019-04-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

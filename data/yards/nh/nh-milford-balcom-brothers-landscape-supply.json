@@ -1,0 +1,36 @@
+{
+  "id": "nh-milford-balcom-brothers-landscape-supply",
+  "slug": "balcom-brothers-landscape-supply",
+  "name": "Balcom Brothers Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "94 Armory Rd",
+    "city": "Milford",
+    "state": "NH",
+    "zip": "03055"
+  },
+  "location": {
+    "lat": 42.816093,
+    "lng": -71.656013
+  },
+  "contact": {
+    "phone": "(603) 673-6287",
+    "website": "http://www.balcombros.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b4c7740-624a-429c-888e-6f81a99a89ee",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

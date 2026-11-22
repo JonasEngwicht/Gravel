@@ -1,0 +1,36 @@
+{
+  "id": "nc-vilas-all-seasons-landscape-supply-and-garden-center",
+  "slug": "all-seasons-landscape-supply-and-garden-center",
+  "name": "All Seasons Landscape Supply and Garden Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "118 Lonnie Henson Rd",
+    "city": "Vilas",
+    "state": "NC",
+    "zip": "28692"
+  },
+  "location": {
+    "lat": 36.240849,
+    "lng": -81.757721
+  },
+  "contact": {
+    "phone": "(828) 416-0134",
+    "website": "http://www.allseasonssupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14a3fb08-1618-4bb4-a5ca-0cd58a4a3628",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

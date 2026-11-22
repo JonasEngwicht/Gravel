@@ -1,0 +1,41 @@
+{
+  "id": "nc-jefferson-cardinal-quarries-smethport-quarry",
+  "slug": "cardinal-quarries-smethport-quarry",
+  "name": "Cardinal Quarries – Smethport Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jefferson",
+    "state": "NC",
+    "zip": "28693"
+  },
+  "location": {
+    "lat": 36.438333,
+    "lng": -81.491111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101356"
+  },
+  "msha": [
+    {
+      "mine_id": "3101356",
+      "name": "Smethport Quarry",
+      "operator": "Cardinal Quarries LLC",
+      "status": "Active",
+      "status_since": "1985-02-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

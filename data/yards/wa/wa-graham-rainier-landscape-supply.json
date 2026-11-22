@@ -1,0 +1,36 @@
+{
+  "id": "wa-graham-rainier-landscape-supply",
+  "slug": "rainier-landscape-supply",
+  "name": "Rainier Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "23211 Meridian E",
+    "city": "Graham",
+    "state": "WA",
+    "zip": "98338"
+  },
+  "location": {
+    "lat": 47.045639,
+    "lng": -122.294914
+  },
+  "contact": {
+    "phone": "(253) 271-0626",
+    "website": "http://www.rainierlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf7ec9b3-a2ed-43ee-8b6a-d4010562d75a",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

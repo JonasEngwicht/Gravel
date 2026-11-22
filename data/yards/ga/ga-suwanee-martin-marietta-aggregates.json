@@ -1,0 +1,49 @@
+{
+  "id": "ga-suwanee-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3561 Peachtree Pkwy",
+    "city": "Suwanee",
+    "state": "GA",
+    "zip": "30024"
+  },
+  "location": {
+    "lat": 34.075218,
+    "lng": -84.164284
+  },
+  "contact": {
+    "phone": "(770) 887-6711",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a740e89c-965f-4351-910c-b8cf4fa253d5",
+    "confidence": 0.558,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "0901035",
+      "name": "Forsyth Quarry",
+      "operator": "Midsouth Aggregates",
+      "status": "Active",
+      "status_since": "1991-03-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 19
+    }
+  ]
+}

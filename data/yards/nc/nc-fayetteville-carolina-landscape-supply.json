@@ -1,0 +1,36 @@
+{
+  "id": "nc-fayetteville-carolina-landscape-supply",
+  "slug": "carolina-landscape-supply",
+  "name": "Carolina landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "454 Whitehead Rd",
+    "city": "Fayetteville",
+    "state": "NC",
+    "zip": "28312"
+  },
+  "location": {
+    "lat": 35.049255,
+    "lng": -78.832237
+  },
+  "contact": {
+    "phone": "(910) 753-5250",
+    "website": "https://clsuppliesnc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "465ca7fc-dde7-4414-9770-ad822f26dff0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

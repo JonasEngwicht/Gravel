@@ -1,0 +1,41 @@
+{
+  "id": "mn-ortonville-l-g-everist-ortonville-quarry",
+  "slug": "l-g-everist-ortonville-quarry",
+  "name": "L G Everist – Ortonville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ortonville",
+    "state": "MN",
+    "zip": "57216"
+  },
+  "location": {
+    "lat": 45.304722,
+    "lng": -96.444722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2101448"
+  },
+  "msha": [
+    {
+      "mine_id": "2101448",
+      "name": "Ortonville Quarry",
+      "operator": "L G Everist Inc",
+      "status": "Intermittent",
+      "status_since": "2018-07-26",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

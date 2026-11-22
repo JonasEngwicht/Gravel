@@ -1,0 +1,36 @@
+{
+  "id": "va-chesapeake-hampton-roads-mowers-and-mulch",
+  "slug": "hampton-roads-mowers-and-mulch",
+  "name": "Hampton Roads Mowers & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4541 Bainbridge Blvd",
+    "city": "Chesapeake",
+    "state": "VA",
+    "zip": "23320"
+  },
+  "location": {
+    "lat": 36.768051,
+    "lng": -76.288628
+  },
+  "contact": {
+    "phone": "(757) 522-7290",
+    "website": "Https://www.hamptonroadsmm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "33e2a3fd-8806-4c71-9527-11d20dcf5a40",
+    "confidence": 0.869,
+    "merged_records": 1
+  }
+}

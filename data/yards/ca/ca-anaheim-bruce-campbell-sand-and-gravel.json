@@ -1,0 +1,36 @@
+{
+  "id": "ca-anaheim-bruce-campbell-sand-and-gravel",
+  "slug": "bruce-campbell-sand-and-gravel",
+  "name": "Bruce Campbell Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2980 E Coronado St",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806"
+  },
+  "location": {
+    "lat": 33.85318,
+    "lng": -117.863091
+  },
+  "contact": {
+    "phone": "(714) 578-8230",
+    "website": "https://campbellsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6dca475d-0d1d-4af9-bb30-8d5af56a642a",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

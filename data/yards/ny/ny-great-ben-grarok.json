@@ -1,0 +1,41 @@
+{
+  "id": "ny-great-ben-grarok",
+  "slug": "grarok",
+  "name": "GraRok",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Great Ben",
+    "state": "NY",
+    "zip": "13643"
+  },
+  "location": {
+    "lat": 44.018333,
+    "lng": -75.712778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003574"
+  },
+  "msha": [
+    {
+      "mine_id": "3003574",
+      "name": "GraRok, LLC",
+      "operator": "GraRok, LLC",
+      "status": "Intermittent",
+      "status_since": "2025-03-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

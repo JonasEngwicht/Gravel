@@ -1,0 +1,37 @@
+{
+  "id": "ok-tulsa-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4902 E 121st St S",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74008"
+  },
+  "location": {
+    "lat": 35.988033,
+    "lng": -95.92186
+  },
+  "contact": {
+    "phone": "(918) 369-2091",
+    "website": "https://www.siteone.com/en/store/189"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e5fa9e8d-0322-42dc-b7bd-7dc58e33552b",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

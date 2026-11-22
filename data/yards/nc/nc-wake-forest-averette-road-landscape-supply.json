@@ -1,0 +1,36 @@
+{
+  "id": "nc-wake-forest-averette-road-landscape-supply",
+  "slug": "averette-road-landscape-supply",
+  "name": "Averette Road Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1613 Averette Rd",
+    "city": "Wake Forest",
+    "state": "NC",
+    "zip": "27587"
+  },
+  "location": {
+    "lat": 35.966888,
+    "lng": -78.453682
+  },
+  "contact": {
+    "phone": "(919) 669-0485",
+    "website": "http://www.averetteroadlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a509d67-8e54-43b9-8d42-e244055d4144",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

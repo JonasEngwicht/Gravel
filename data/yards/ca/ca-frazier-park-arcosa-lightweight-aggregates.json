@@ -1,0 +1,36 @@
+{
+  "id": "ca-frazier-park-arcosa-lightweight-aggregates",
+  "slug": "arcosa-lightweight-aggregates",
+  "name": "Arcosa Lightweight Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "17410 Lockwood Valley Rd",
+    "city": "Frazier Park",
+    "state": "CA",
+    "zip": "93225"
+  },
+  "location": {
+    "lat": 34.766808,
+    "lng": -119.044113
+  },
+  "contact": {
+    "phone": "(661) 245-3736",
+    "website": "https://arcosalightweight.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "170eb458-2815-4d6f-9b06-dd61486c6d59",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

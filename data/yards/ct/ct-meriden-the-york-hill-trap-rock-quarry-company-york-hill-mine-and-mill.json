@@ -1,0 +1,41 @@
+{
+  "id": "ct-meriden-the-york-hill-trap-rock-quarry-company-york-hill-mine-and-mill",
+  "slug": "the-york-hill-trap-rock-quarry-company-york-hill-mine-and-mill",
+  "name": "The York Hill Trap Rock Quarry Company – York Hill Mine & Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Meriden",
+    "state": "CT",
+    "zip": "06450"
+  },
+  "location": {
+    "lat": 41.557222,
+    "lng": -72.752778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0600026"
+  },
+  "msha": [
+    {
+      "mine_id": "0600026",
+      "name": "York Hill Mine & Mill",
+      "operator": "The York Hill Trap Rock Quarry Company, Inc.",
+      "status": "Active",
+      "status_since": "1994-10-05",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pa-brockport-north-star-aggregates-oyster-run-job",
+  "slug": "north-star-aggregates-oyster-run-job",
+  "name": "North Star Aggregates – Oyster Run Job",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Brockport",
+    "state": "PA",
+    "zip": "15823"
+  },
+  "location": {
+    "lat": 41.291111,
+    "lng": -78.689722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609357"
+  },
+  "msha": [
+    {
+      "mine_id": "3609357",
+      "name": "Oyster Run Job",
+      "operator": "North Star Aggregates Inc.",
+      "status": "Active",
+      "status_since": "2008-01-23",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

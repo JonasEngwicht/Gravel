@@ -1,0 +1,48 @@
+{
+  "id": "nh-henniker-henniker-sand-and-gravel-co-inc",
+  "slug": "henniker-sand-and-gravel-co-inc",
+  "name": "Henniker Sand & Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "44 Bradford Rd",
+    "city": "Henniker",
+    "state": "NH",
+    "zip": "03242"
+  },
+  "location": {
+    "lat": 43.189041,
+    "lng": -71.827827
+  },
+  "contact": {
+    "phone": "(844) 695-6463",
+    "website": "http://www.hennikercrushedstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "36460b35-acbb-4021-b685-3b08641dd22b",
+    "confidence": 0.944,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2700190",
+      "name": "Henniker Pit And Mill",
+      "operator": "Henniker Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2011-12-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

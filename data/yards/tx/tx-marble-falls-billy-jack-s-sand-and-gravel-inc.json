@@ -1,0 +1,32 @@
+{
+  "id": "tx-marble-falls-billy-jack-s-sand-and-gravel-inc",
+  "slug": "billy-jack-s-sand-and-gravel-inc",
+  "name": "Billy Jack's Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2301 County Road 120",
+    "city": "Marble Falls",
+    "state": "TX",
+    "zip": "78654"
+  },
+  "location": {
+    "lat": 30.629379,
+    "lng": -98.355797
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0a83be31-8483-45eb-b41f-71bdba25c6fc",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

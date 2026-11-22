@@ -1,0 +1,36 @@
+{
+  "id": "pa-shippensburg-bauserman-s-premium-mulch",
+  "slug": "bauserman-s-premium-mulch",
+  "name": "Bauserman's Premium Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "388 Peiper Rd",
+    "city": "Shippensburg",
+    "state": "PA",
+    "zip": "17257"
+  },
+  "location": {
+    "lat": 40.031307,
+    "lng": -77.500031
+  },
+  "contact": {
+    "phone": "(717) 658-6905",
+    "website": "http://www.myspace.com/bausermanspremiummulch"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db5c66de-794d-4078-b9e1-14d4889ea619",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

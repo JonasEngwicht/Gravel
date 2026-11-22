@@ -1,0 +1,36 @@
+{
+  "id": "nm-albuquerque-neumark-landscape-supply",
+  "slug": "neumark-landscape-supply",
+  "name": "Neumark Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6811 Huseman Pl SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87121"
+  },
+  "location": {
+    "lat": 35.046288,
+    "lng": -106.710625
+  },
+  "contact": {
+    "phone": "(505) 452-1005",
+    "website": "http://www.neumarklandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "28b9a359-8d20-4439-b1a6-72d4df1c2945",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

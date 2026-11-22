@@ -1,0 +1,37 @@
+{
+  "id": "ga-pooler-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "62 Columbia Drive",
+    "city": "Pooler",
+    "state": "GA",
+    "zip": "31322"
+  },
+  "location": {
+    "lat": 32.105808,
+    "lng": -81.223122
+  },
+  "contact": {
+    "phone": "(912) 964-2363",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/FISPOOL/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "34e66610-6dde-442f-97fd-b2d52d692676",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

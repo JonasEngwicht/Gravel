@@ -1,0 +1,36 @@
+{
+  "id": "nm-rio-rancho-l-and-m-trucking-sand-and-gravel",
+  "slug": "l-and-m-trucking-sand-and-gravel",
+  "name": "L & M Trucking Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1464 32nd Cir SE",
+    "city": "Rio-Rancho",
+    "state": "NM",
+    "zip": "87124"
+  },
+  "location": {
+    "lat": 35.233635,
+    "lng": -106.671066
+  },
+  "contact": {
+    "phone": "(505) 585-2840",
+    "website": "http://farmers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "700baa19-a534-4be2-8421-94de67ce47f5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

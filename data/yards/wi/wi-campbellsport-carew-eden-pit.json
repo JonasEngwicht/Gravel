@@ -1,0 +1,41 @@
+{
+  "id": "wi-campbellsport-carew-eden-pit",
+  "slug": "carew-eden-pit",
+  "name": "Carew-Eden Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Campbellsport",
+    "state": "WI",
+    "zip": "53010"
+  },
+  "location": {
+    "lat": 43.598133,
+    "lng": -88.285192
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703475"
+  },
+  "msha": [
+    {
+      "mine_id": "4703475",
+      "name": "Carew-Eden Pit",
+      "operator": "Carew Concrete & Supply Co Inc",
+      "status": "Intermittent",
+      "status_since": "2006-07-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "il-plainfield-boughton-materials-of-illinois",
+  "slug": "boughton-materials-of-illinois",
+  "name": "Boughton Materials of Illinois",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Plainfield",
+    "state": "IL",
+    "zip": "60490"
+  },
+  "location": {
+    "lat": 41.666655,
+    "lng": -88.175953
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102033"
+  },
+  "msha": [
+    {
+      "mine_id": "1102033",
+      "name": "Pit #1",
+      "operator": "Boughton Materials of Illinois, LLC",
+      "status": "Active",
+      "status_since": "1981-06-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

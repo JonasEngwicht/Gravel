@@ -1,0 +1,37 @@
+{
+  "id": "fl-sarasota-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6055 Clark Center Ave",
+    "city": "Sarasota",
+    "state": "FL",
+    "zip": "34238"
+  },
+  "location": {
+    "lat": 27.26631,
+    "lng": -82.475487
+  },
+  "contact": {
+    "phone": "(941) 923-2517",
+    "website": "https://www.siteone.com/store/9"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "27dbdfc4-7a73-4963-9a51-979e19e68731",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

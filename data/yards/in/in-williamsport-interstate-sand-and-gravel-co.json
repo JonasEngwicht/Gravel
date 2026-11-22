@@ -1,0 +1,48 @@
+{
+  "id": "in-williamsport-interstate-sand-and-gravel-co",
+  "slug": "interstate-sand-and-gravel-co",
+  "name": "Interstate Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3255 W County Road 650 S",
+    "city": "Williamsport",
+    "state": "IN",
+    "zip": "47993"
+  },
+  "location": {
+    "lat": 40.219551,
+    "lng": -87.381721
+  },
+  "contact": {
+    "phone": "(765) 893-4463",
+    "website": "http://rogersgroupinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7d8e6d48-9a94-47b2-ab6c-31d9cfa8d244",
+    "confidence": 0.711,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1201523",
+      "name": "Interstate Sand & Gravel Plant",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "2016-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

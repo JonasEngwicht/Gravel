@@ -1,0 +1,36 @@
+{
+  "id": "ct-south-windsor-east-hartford-sand-and-gravel",
+  "slug": "east-hartford-sand-and-gravel",
+  "name": "East Hartford Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "287 Strong Rd",
+    "city": "South Windsor",
+    "state": "CT",
+    "zip": "06074"
+  },
+  "location": {
+    "lat": 41.841244,
+    "lng": -72.59967
+  },
+  "contact": {
+    "phone": "(860) 289-4347",
+    "website": "http://ehsandct.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd9fcc41-15cd-4ada-ae37-9e8583e9d9a8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ga-dearing-holliman-s-sand-and-gravel",
+  "slug": "holliman-s-sand-and-gravel",
+  "name": "Holliman's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4865 Neals Mill Rd",
+    "city": "Dearing",
+    "state": "GA",
+    "zip": "30808"
+  },
+  "location": {
+    "lat": 33.376003,
+    "lng": -82.37339
+  },
+  "contact": {
+    "phone": "(706) 556-6054"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5fe740aa-4b45-45a1-b6fe-d66b1dd2939f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

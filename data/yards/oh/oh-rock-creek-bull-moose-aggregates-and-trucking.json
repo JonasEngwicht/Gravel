@@ -1,0 +1,36 @@
+{
+  "id": "oh-rock-creek-bull-moose-aggregates-and-trucking",
+  "slug": "bull-moose-aggregates-and-trucking",
+  "name": "Bull Moose Aggregates And Trucking",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1394 State Route 45 N",
+    "city": "Rock Creek",
+    "state": "OH",
+    "zip": "44084"
+  },
+  "location": {
+    "lat": 41.712467,
+    "lng": -80.851402
+  },
+  "contact": {
+    "phone": "(440) 417-5599",
+    "website": "https://bullmooseagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06055fac-2394-473f-934e-952145dc0d1d",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

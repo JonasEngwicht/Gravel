@@ -1,0 +1,36 @@
+{
+  "id": "nj-berlin-affordable-mulch-and-landscape-prd",
+  "slug": "affordable-mulch-and-landscape-prd",
+  "name": "Affordable Mulch & Landscape Prd",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "403 RT-73",
+    "city": "Berlin",
+    "state": "NJ",
+    "zip": "08009"
+  },
+  "location": {
+    "lat": 39.760853,
+    "lng": -74.914146
+  },
+  "contact": {
+    "phone": "(856) 767-1152",
+    "website": "http://affordablepavingllc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "38fdd0c8-9f33-4ea6-a39a-1e59fdb11ee0",
+    "confidence": 0.507,
+    "merged_records": 1
+  }
+}

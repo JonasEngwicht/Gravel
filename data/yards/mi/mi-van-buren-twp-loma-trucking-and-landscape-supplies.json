@@ -1,0 +1,36 @@
+{
+  "id": "mi-van-buren-twp-loma-trucking-and-landscape-supplies",
+  "slug": "loma-trucking-and-landscape-supplies",
+  "name": "Loma Trucking & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7301 Rawsonville Rd",
+    "city": "Van Buren Twp",
+    "state": "MI",
+    "zip": "48111"
+  },
+  "location": {
+    "lat": 42.184082,
+    "lng": -83.541618
+  },
+  "contact": {
+    "phone": "(734) 482-6400",
+    "website": "https://loma-trucking-landscape-supplies-inc.hub.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6771f067-879b-4b37-98ae-87bc9424cc3e",
+    "confidence": 0.979,
+    "merged_records": 1
+  }
+}

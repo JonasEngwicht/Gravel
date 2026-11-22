@@ -1,0 +1,36 @@
+{
+  "id": "ca-reedley-reedley-landscape-center",
+  "slug": "reedley-landscape-center",
+  "name": "Reedley Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "392 N Reed Ave",
+    "city": "Reedley",
+    "state": "CA",
+    "zip": "93654"
+  },
+  "location": {
+    "lat": 36.599602,
+    "lng": -119.45739
+  },
+  "contact": {
+    "phone": "(559) 638-7233",
+    "website": "https://www.reedleywindowcenter.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5526e092-0dec-489c-a22d-8cadd20ea0e4",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

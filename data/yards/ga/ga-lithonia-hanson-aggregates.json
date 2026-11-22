@@ -1,0 +1,37 @@
+{
+  "id": "ga-lithonia-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "2375 Turner Hill Rd",
+    "city": "Lithonia",
+    "state": "GA",
+    "zip": "30058"
+  },
+  "location": {
+    "lat": 33.720688,
+    "lng": -84.093773
+  },
+  "contact": {
+    "phone": "(770) 484-8857",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "410b82e7-613a-4167-ac77-e63cb4af89c6",
+    "confidence": 0.714,
+    "merged_records": 2
+  }
+}

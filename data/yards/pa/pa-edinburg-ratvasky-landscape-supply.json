@@ -1,0 +1,36 @@
+{
+  "id": "pa-edinburg-ratvasky-landscape-supply",
+  "slug": "ratvasky-landscape-supply",
+  "name": "Ratvasky Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1067 Garner Rd",
+    "city": "Edinburg",
+    "state": "PA",
+    "zip": "16116"
+  },
+  "location": {
+    "lat": 41.059448,
+    "lng": -80.411903
+  },
+  "contact": {
+    "phone": "(724) 652-2691",
+    "website": "http://www.ratvaskylandscapesupplyinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "015780ce-18dc-4037-8df2-82ee6258ba6e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

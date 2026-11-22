@@ -1,0 +1,41 @@
+{
+  "id": "nj-sparta-braen-royalties-braen-stone-of-sparta",
+  "slug": "braen-royalties-braen-stone-of-sparta",
+  "name": "Braen Royalties – Braen Stone of Sparta",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sparta",
+    "state": "NJ",
+    "zip": "07848"
+  },
+  "location": {
+    "lat": 41.055833,
+    "lng": -74.689167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800019"
+  },
+  "msha": [
+    {
+      "mine_id": "2800019",
+      "name": "Braen Stone of Sparta",
+      "operator": "Braen Royalties, LLC",
+      "status": "Active",
+      "status_since": "2012-07-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 31
+    }
+  ]
+}

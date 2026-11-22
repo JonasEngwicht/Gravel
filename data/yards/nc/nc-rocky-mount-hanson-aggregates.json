@@ -1,0 +1,49 @@
+{
+  "id": "nc-rocky-mount-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "10471 NC Highway 97 W",
+    "city": "Rocky Mount",
+    "state": "NC",
+    "zip": "27801"
+  },
+  "location": {
+    "lat": 35.97316,
+    "lng": -77.743744
+  },
+  "contact": {
+    "phone": "(252) 977-1611",
+    "website": "http://www.lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "33e51550-5834-46d4-bdbe-c29643fb5af1",
+    "confidence": 0.9,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3101504",
+      "name": "Rocky Mount Quarry",
+      "operator": "Heidelberg Materials Southeast Agg, LLC",
+      "status": "Active",
+      "status_since": "1979-05-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

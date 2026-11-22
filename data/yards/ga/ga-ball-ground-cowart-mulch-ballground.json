@@ -1,0 +1,32 @@
+{
+  "id": "ga-ball-ground-cowart-mulch-ballground",
+  "slug": "cowart-mulch-ballground",
+  "name": "Cowart Mulch Ballground",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1090 Woodtech Pkwy",
+    "city": "Ball Ground",
+    "state": "GA",
+    "zip": "30107"
+  },
+  "location": {
+    "lat": 34.304333,
+    "lng": -84.413315
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6407eba1-c2ac-4cd7-83ef-c66a78e67c30",
+    "confidence": 0.929,
+    "merged_records": 1
+  }
+}

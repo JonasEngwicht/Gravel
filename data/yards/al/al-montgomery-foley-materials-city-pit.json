@@ -1,0 +1,41 @@
+{
+  "id": "al-montgomery-foley-materials-city-pit",
+  "slug": "foley-materials-city-pit",
+  "name": "Foley Materials – City Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36117"
+  },
+  "location": {
+    "lat": 32.4125,
+    "lng": -86.155278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103084"
+  },
+  "msha": [
+    {
+      "mine_id": "0103084",
+      "name": "City Pit",
+      "operator": "Foley Materials Company",
+      "status": "Active",
+      "status_since": "2024-07-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pa-snydersville-eureka-stone-quarry-pocono-sand-plant",
+  "slug": "eureka-stone-quarry-pocono-sand-plant",
+  "name": "Eureka Stone Quarry – Pocono Sand Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Snydersville",
+    "state": "PA",
+    "zip": "18360"
+  },
+  "location": {
+    "lat": 40.943611,
+    "lng": -75.301667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3605378"
+  },
+  "msha": [
+    {
+      "mine_id": "3605378",
+      "name": "Pocono Sand Plant",
+      "operator": "Eureka Stone Quarry Inc",
+      "status": "Active",
+      "status_since": "2022-06-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

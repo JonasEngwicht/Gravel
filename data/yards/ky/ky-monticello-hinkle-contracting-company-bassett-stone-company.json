@@ -1,0 +1,41 @@
+{
+  "id": "ky-monticello-hinkle-contracting-company-bassett-stone-company",
+  "slug": "hinkle-contracting-company-bassett-stone-company",
+  "name": "Hinkle Contracting Company – Bassett Stone Company",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Monticello",
+    "state": "KY",
+    "zip": "42633"
+  },
+  "location": {
+    "lat": 36.825556,
+    "lng": -84.838611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500004"
+  },
+  "msha": [
+    {
+      "mine_id": "1500004",
+      "name": "Bassett Stone Company",
+      "operator": "Hinkle Contracting Company LLC",
+      "status": "Active",
+      "status_since": "2018-04-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

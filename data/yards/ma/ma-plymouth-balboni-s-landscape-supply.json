@@ -1,0 +1,36 @@
+{
+  "id": "ma-plymouth-balboni-s-landscape-supply",
+  "slug": "balboni-s-landscape-supply",
+  "name": "balboni's landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "135 Camelot Dr",
+    "city": "Plymouth",
+    "state": "MA",
+    "zip": "02360"
+  },
+  "location": {
+    "lat": 41.928776,
+    "lng": -70.644371
+  },
+  "contact": {
+    "phone": "(508) 746-6111",
+    "website": "http://www.balbonilandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af6f62cc-8eba-4a16-a011-0b8d3adb2441",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

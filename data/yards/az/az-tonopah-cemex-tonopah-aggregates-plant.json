@@ -1,0 +1,36 @@
+{
+  "id": "az-tonopah-cemex-tonopah-aggregates-plant",
+  "slug": "cemex-tonopah-aggregates-plant",
+  "name": "Cemex Tonopah Aggregates Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "3405 N 327th Dr",
+    "city": "Tonopah",
+    "state": "AZ",
+    "zip": "85354"
+  },
+  "location": {
+    "lat": 33.487526,
+    "lng": -112.757225
+  },
+  "contact": {
+    "phone": "(623) 327-1641",
+    "website": "http://www.cemexusa.com/ProductsServices/Aggregates.aspx"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1badbb11-f3fd-4649-acca-a48a1bb8909d",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

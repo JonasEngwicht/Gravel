@@ -1,0 +1,35 @@
+{
+  "id": "mn-forest-lake-applewood-nursery-and-landscape-supply",
+  "slug": "applewood-nursery-and-landscape-supply",
+  "name": "Applewood Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8785 Green Lake Trl",
+    "city": "Forest Lake",
+    "state": "MN",
+    "zip": "55025"
+  },
+  "location": {
+    "lat": 45.31842,
+    "lng": -92.927277
+  },
+  "contact": {
+    "phone": "(651) 462-5554"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ff2b288-f172-4261-90f6-cef94ebcfa23",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

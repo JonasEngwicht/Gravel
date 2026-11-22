@@ -1,0 +1,48 @@
+{
+  "id": "in-waterloo-country-stone-and-gravel",
+  "slug": "country-stone-and-gravel",
+  "name": "Country Stone And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2280 County Road 27",
+    "city": "Waterloo",
+    "state": "IN",
+    "zip": "46793"
+  },
+  "location": {
+    "lat": 41.443226,
+    "lng": -85.060616
+  },
+  "contact": {
+    "phone": "(260) 837-7134",
+    "website": "http://www.countrystone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fbaeaa90-aa49-4928-90a7-4639ab4c04e3",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200632",
+      "name": "Brand Pit",
+      "operator": "Country Stone Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2015-07-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

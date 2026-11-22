@@ -1,0 +1,37 @@
+{
+  "id": "nc-raleigh-siteone-landscape-supply-151-s-new-hope-rd",
+  "slug": "siteone-landscape-supply-151-s-new-hope-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "151 S New Hope Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27610"
+  },
+  "location": {
+    "lat": 35.780975,
+    "lng": -78.561737
+  },
+  "contact": {
+    "phone": "(919) 250-3338",
+    "website": "https://www.siteone.com/en/store/187"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "212fbe6a-306a-4a1a-b53c-36105b583402",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

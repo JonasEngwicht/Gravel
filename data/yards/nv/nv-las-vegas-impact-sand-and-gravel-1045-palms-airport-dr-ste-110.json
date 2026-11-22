@@ -1,0 +1,36 @@
+{
+  "id": "nv-las-vegas-impact-sand-and-gravel-1045-palms-airport-dr-ste-110",
+  "slug": "impact-sand-and-gravel-1045-palms-airport-dr-ste-110",
+  "name": "Impact Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1045 Palms Airport Dr  Ste 110",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89119"
+  },
+  "location": {
+    "lat": 36.064964,
+    "lng": -115.139725
+  },
+  "contact": {
+    "phone": "(702) 597-1010",
+    "website": "https://www.impactsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "53bad740-f197-49db-bc0a-5e62a27996ae",
+    "confidence": 0.992,
+    "merged_records": 2
+  }
+}

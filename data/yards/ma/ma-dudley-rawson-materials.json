@@ -1,0 +1,41 @@
+{
+  "id": "ma-dudley-rawson-materials",
+  "slug": "rawson-materials",
+  "name": "Rawson Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dudley",
+    "state": "MA",
+    "zip": "01570"
+  },
+  "location": {
+    "lat": 42.066944,
+    "lng": -71.881389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901167"
+  },
+  "msha": [
+    {
+      "mine_id": "1901167",
+      "name": "Rawson Materials - PLANT 9",
+      "operator": "Rawson Materials",
+      "status": "Active",
+      "status_since": "2024-12-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

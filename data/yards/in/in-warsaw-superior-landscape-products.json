@@ -1,0 +1,36 @@
+{
+  "id": "in-warsaw-superior-landscape-products",
+  "slug": "superior-landscape-products",
+  "name": "Superior Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3114 E US-30",
+    "city": "Warsaw",
+    "state": "IN",
+    "zip": "46580"
+  },
+  "location": {
+    "lat": 41.222157,
+    "lng": -85.782318
+  },
+  "contact": {
+    "phone": "(574) 372-3478",
+    "website": "http://www.372dirt.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97949011-f56b-4bed-a114-bf4914e510f2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

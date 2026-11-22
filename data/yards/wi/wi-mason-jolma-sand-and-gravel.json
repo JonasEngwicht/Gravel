@@ -1,0 +1,36 @@
+{
+  "id": "wi-mason-jolma-sand-and-gravel",
+  "slug": "jolma-sand-and-gravel",
+  "name": "Jolma Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "29935 Kelly Rd",
+    "city": "Mason",
+    "state": "WI",
+    "zip": "54856"
+  },
+  "location": {
+    "lat": 46.464413,
+    "lng": -90.946487
+  },
+  "contact": {
+    "phone": "(715) 765-4188",
+    "website": "http://jsandgravelwi.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "86f0aa3c-e735-4d1d-bef7-308c1ce43ece",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

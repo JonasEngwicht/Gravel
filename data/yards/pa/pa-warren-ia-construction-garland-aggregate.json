@@ -1,0 +1,41 @@
+{
+  "id": "pa-warren-ia-construction-garland-aggregate",
+  "slug": "ia-construction-garland-aggregate",
+  "name": "IA Construction – Garland Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Warren",
+    "state": "PA",
+    "zip": "16323"
+  },
+  "location": {
+    "lat": 41.406389,
+    "lng": -79.796111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609350"
+  },
+  "msha": [
+    {
+      "mine_id": "3609350",
+      "name": "Garland Aggregate",
+      "operator": "IA Construction Corp",
+      "status": "Intermittent",
+      "status_since": "2026-04-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

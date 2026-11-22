@@ -1,0 +1,41 @@
+{
+  "id": "ia-lake-city-mohr-sand-gravel-and-construction-mohr-sand-and-gravel-pwp-1",
+  "slug": "mohr-sand-gravel-and-construction-mohr-sand-and-gravel-pwp-1",
+  "name": "Mohr Sand, Gravel & Construction – Mohr Sand & Gravel PWP #1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lake City",
+    "state": "IA",
+    "zip": "51449"
+  },
+  "location": {
+    "lat": 42.2525,
+    "lng": -94.658611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302408"
+  },
+  "msha": [
+    {
+      "mine_id": "1302408",
+      "name": "Mohr Sand & Gravel PWP #1",
+      "operator": "Mohr Sand, Gravel & Construction L.L.C.",
+      "status": "Active",
+      "status_since": "2026-10-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

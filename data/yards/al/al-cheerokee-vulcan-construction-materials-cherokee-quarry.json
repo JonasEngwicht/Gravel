@@ -1,0 +1,41 @@
+{
+  "id": "al-cheerokee-vulcan-construction-materials-cherokee-quarry",
+  "slug": "vulcan-construction-materials-cherokee-quarry",
+  "name": "Vulcan Construction Materials – Cherokee Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cheerokee",
+    "state": "AL",
+    "zip": "35616"
+  },
+  "location": {
+    "lat": 34.755556,
+    "lng": -87.971389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0100036"
+  },
+  "msha": [
+    {
+      "mine_id": "0100036",
+      "name": "Cherokee Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1984-12-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

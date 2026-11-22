@@ -1,0 +1,36 @@
+{
+  "id": "vt-newport-center-couture-sand-and-gravel",
+  "slug": "couture-sand-and-gravel",
+  "name": "Couture Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "50 Buck Rd",
+    "city": "Newport Center",
+    "state": "VT",
+    "zip": "05857"
+  },
+  "location": {
+    "lat": 44.91943,
+    "lng": -72.286804
+  },
+  "contact": {
+    "phone": "(802) 334-6078",
+    "website": "https://www.couturesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d3167b70-5a1d-47dd-81ea-6b308b9669da",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

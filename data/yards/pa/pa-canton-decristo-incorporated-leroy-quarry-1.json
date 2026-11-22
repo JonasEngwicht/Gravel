@@ -1,0 +1,41 @@
+{
+  "id": "pa-canton-decristo-incorporated-leroy-quarry-1",
+  "slug": "decristo-incorporated-leroy-quarry-1",
+  "name": "DeCristo Incorporated – LeRoy Quarry #1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Canton",
+    "state": "PA",
+    "zip": "17724"
+  },
+  "location": {
+    "lat": 41.656389,
+    "lng": -76.853333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609852"
+  },
+  "msha": [
+    {
+      "mine_id": "3609852",
+      "name": "LeRoy Quarry #1",
+      "operator": "DeCristo Incorporated",
+      "status": "Active",
+      "status_since": "2012-01-24",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

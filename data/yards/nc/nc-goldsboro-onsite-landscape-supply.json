@@ -1,0 +1,36 @@
+{
+  "id": "nc-goldsboro-onsite-landscape-supply",
+  "slug": "onsite-landscape-supply",
+  "name": "Onsite Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1920 US Hwy 70 W",
+    "city": "Goldsboro",
+    "state": "NC",
+    "zip": "27530"
+  },
+  "location": {
+    "lat": 35.409027,
+    "lng": -78.030586
+  },
+  "contact": {
+    "phone": "(919) 584-3478",
+    "website": "http://www.onsitesupplync.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9338d7a6-c1d5-4790-aec6-b8dbcaabdcbb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

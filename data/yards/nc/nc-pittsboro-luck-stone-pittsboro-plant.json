@@ -1,0 +1,41 @@
+{
+  "id": "nc-pittsboro-luck-stone-pittsboro-plant",
+  "slug": "luck-stone-pittsboro-plant",
+  "name": "Luck Stone – Pittsboro Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pittsboro",
+    "state": "NC",
+    "zip": "27559"
+  },
+  "location": {
+    "lat": 35.666075,
+    "lng": -79.177427
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102167"
+  },
+  "msha": [
+    {
+      "mine_id": "3102167",
+      "name": "Pittsboro Plant",
+      "operator": "Luck Stone Corporation",
+      "status": "Active",
+      "status_since": "2001-02-07",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

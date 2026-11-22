@@ -1,0 +1,41 @@
+{
+  "id": "ok-vinita-apac-central-vinita-quarry",
+  "slug": "apac-central-vinita-quarry",
+  "name": "APAC-Central – Vinita Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Vinita",
+    "state": "OK",
+    "zip": "74331"
+  },
+  "location": {
+    "lat": 36.626944,
+    "lng": -95.053333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400893"
+  },
+  "msha": [
+    {
+      "mine_id": "3400893",
+      "name": "Vinita Quarry",
+      "operator": "APAC-Central, Inc",
+      "status": "Active",
+      "status_since": "2021-11-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

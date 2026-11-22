@@ -1,0 +1,41 @@
+{
+  "id": "wa-issaquah-lakeside-industries-issaquah-pit-and-plant",
+  "slug": "lakeside-industries-issaquah-pit-and-plant",
+  "name": "Lakeside Industries – Issaquah Pit & Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Issaquah",
+    "state": "WA",
+    "zip": "98029"
+  },
+  "location": {
+    "lat": 47.544444,
+    "lng": -122.030556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4500652"
+  },
+  "msha": [
+    {
+      "mine_id": "4500652",
+      "name": "Issaquah Pit & Plant",
+      "operator": "Lakeside Industries, Inc",
+      "status": "Active",
+      "status_since": "2020-06-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

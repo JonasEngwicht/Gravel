@@ -1,0 +1,36 @@
+{
+  "id": "il-lake-zurich-fiore-nursery-and-landscape-supply",
+  "slug": "fiore-nursery-and-landscape-supply",
+  "name": "Fiore Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "20433 W Highway Route 22 Ste 22",
+    "city": "Lake Zurich",
+    "state": "IL",
+    "zip": "60047"
+  },
+  "location": {
+    "lat": 42.196705,
+    "lng": -87.957191
+  },
+  "contact": {
+    "phone": "(847) 913-1414",
+    "website": "https://cjfiore.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9c5e106-82f2-40d8-9fa2-d7926ede07a0",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

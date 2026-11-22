@@ -1,0 +1,35 @@
+{
+  "id": "ma-georgetown-georgetown-building-supply-and-stone-yard",
+  "slug": "georgetown-building-supply-and-stone-yard",
+  "name": "Georgetown Building Supply and Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "103 E Main St",
+    "city": "Georgetown",
+    "state": "MA",
+    "zip": "01833"
+  },
+  "location": {
+    "lat": 42.720249,
+    "lng": -70.986694
+  },
+  "contact": {
+    "phone": "(978) 352-2091"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa44e873-35b5-49a9-8f12-cd86b792cb44",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

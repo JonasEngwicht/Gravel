@@ -1,0 +1,36 @@
+{
+  "id": "ny-kirkville-gerber-topsoil-llc",
+  "slug": "gerber-topsoil-llc",
+  "name": "Gerber Topsoil LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7250 Oxbow Rd",
+    "city": "Kirkville",
+    "state": "NY",
+    "zip": "13082"
+  },
+  "location": {
+    "lat": 43.124256,
+    "lng": -75.960312
+  },
+  "contact": {
+    "phone": "(315) 656-3478",
+    "website": "http://gerbertopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02a72183-098f-4107-8d47-82df526217ad",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

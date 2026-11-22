@@ -1,0 +1,41 @@
+{
+  "id": "tx-justin-ddm-justin",
+  "slug": "ddm-justin",
+  "name": "DDM - Justin",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Justin",
+    "state": "TX",
+    "zip": "76247"
+  },
+  "location": {
+    "lat": 33.09,
+    "lng": -97.313056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105809"
+  },
+  "msha": [
+    {
+      "mine_id": "4105809",
+      "name": "DDM - Justin",
+      "operator": "DDM Materials, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-07-10",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

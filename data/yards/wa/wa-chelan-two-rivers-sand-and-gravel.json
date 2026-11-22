@@ -1,0 +1,41 @@
+{
+  "id": "wa-chelan-two-rivers-sand-and-gravel",
+  "slug": "two-rivers-sand-and-gravel",
+  "name": "Two Rivers Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Chelan",
+    "state": "WA",
+    "zip": "98826"
+  },
+  "location": {
+    "lat": 47.838333,
+    "lng": -120.843611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503007"
+  },
+  "msha": [
+    {
+      "mine_id": "4503007",
+      "name": "Two Rivers Sand & Gravel Pit",
+      "operator": "Two Rivers Sand & Gravel, Inc.",
+      "status": "Intermittent",
+      "status_since": "2021-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

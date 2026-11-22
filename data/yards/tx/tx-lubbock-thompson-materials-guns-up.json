@@ -1,0 +1,41 @@
+{
+  "id": "tx-lubbock-thompson-materials-guns-up",
+  "slug": "thompson-materials-guns-up",
+  "name": "Thompson Materials – Guns Up",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Lubbock",
+    "state": "TX",
+    "zip": "79423"
+  },
+  "location": {
+    "lat": 33.492778,
+    "lng": -101.871667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105689"
+  },
+  "msha": [
+    {
+      "mine_id": "4105689",
+      "name": "Guns Up",
+      "operator": "Thompson Materials",
+      "status": "Active",
+      "status_since": "2024-11-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

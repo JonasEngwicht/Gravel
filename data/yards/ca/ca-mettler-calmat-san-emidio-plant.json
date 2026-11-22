@@ -1,0 +1,41 @@
+{
+  "id": "ca-mettler-calmat-san-emidio-plant",
+  "slug": "calmat-san-emidio-plant",
+  "name": "CalMat – San Emidio Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mettler",
+    "state": "CA",
+    "zip": "93311"
+  },
+  "location": {
+    "lat": 35.044722,
+    "lng": -119.177778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401800"
+  },
+  "msha": [
+    {
+      "mine_id": "0401800",
+      "name": "San Emidio Plant",
+      "operator": "CalMat Co",
+      "status": "Active",
+      "status_since": "1974-09-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

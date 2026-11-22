@@ -1,0 +1,41 @@
+{
+  "id": "tx-pecos-superior-weighting-products-pecos-processing-facility",
+  "slug": "superior-weighting-products-pecos-processing-facility",
+  "name": "Superior Weighting Products – Pecos Processing Facility",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Pecos",
+    "state": "TX",
+    "zip": "79772"
+  },
+  "location": {
+    "lat": 31.414167,
+    "lng": -103.500556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105708"
+  },
+  "msha": [
+    {
+      "mine_id": "4105708",
+      "name": "Pecos Processing Facility",
+      "operator": "Superior Weighting Products, LLC",
+      "status": "Active",
+      "status_since": "2024-10-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

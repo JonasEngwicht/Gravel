@@ -1,0 +1,36 @@
+{
+  "id": "tx-tyler-j-and-s-sand-and-gravel",
+  "slug": "j-and-s-sand-and-gravel",
+  "name": "J & S Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12741 State Highway 155 S",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75703"
+  },
+  "location": {
+    "lat": 32.295704,
+    "lng": -95.345612
+  },
+  "contact": {
+    "phone": "(903) 561-4351",
+    "website": "http://jandssand.business.site"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e68ee194-6513-4c55-9f94-ffdd93498510",
+    "confidence": 0.988,
+    "merged_records": 1
+  }
+}

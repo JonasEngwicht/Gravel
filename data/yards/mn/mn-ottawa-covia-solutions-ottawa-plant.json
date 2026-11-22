@@ -1,0 +1,41 @@
+{
+  "id": "mn-ottawa-covia-solutions-ottawa-plant",
+  "slug": "covia-solutions-ottawa-plant",
+  "name": "Covia Solutions – Ottawa Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ottawa",
+    "state": "MN",
+    "zip": "55924"
+  },
+  "location": {
+    "lat": 44.0,
+    "lng": -93.0
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2100790"
+  },
+  "msha": [
+    {
+      "mine_id": "2100790",
+      "name": "Ottawa Plant",
+      "operator": "Covia Solutions LLC",
+      "status": "Active",
+      "status_since": "1978-12-11",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 33
+    }
+  ]
+}

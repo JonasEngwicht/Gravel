@@ -1,0 +1,41 @@
+{
+  "id": "ny-st-johnsville-heidelberg-materials-northeast-st-johnsville-plant",
+  "slug": "heidelberg-materials-northeast-st-johnsville-plant",
+  "name": "Heidelberg Materials Northeast – St Johnsville Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "St. Johnsville",
+    "state": "NY",
+    "zip": "13452"
+  },
+  "location": {
+    "lat": 43.003333,
+    "lng": -74.707222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001283"
+  },
+  "msha": [
+    {
+      "mine_id": "3001283",
+      "name": "St Johnsville Plant",
+      "operator": "Heidelberg Materials Northeast Llc",
+      "status": "Active",
+      "status_since": "2022-05-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

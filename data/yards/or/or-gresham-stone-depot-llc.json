@@ -1,0 +1,36 @@
+{
+  "id": "or-gresham-stone-depot-llc",
+  "slug": "stone-depot-llc",
+  "name": "Stone Depot LLC",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "19333 SE Division St",
+    "city": "Gresham",
+    "state": "OR",
+    "zip": "97030"
+  },
+  "location": {
+    "lat": 45.505016,
+    "lng": -122.463638
+  },
+  "contact": {
+    "phone": "(503) 465-1502",
+    "website": "http://greshamrock.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "836ffd32-7a20-4317-b0de-75f90b283256",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

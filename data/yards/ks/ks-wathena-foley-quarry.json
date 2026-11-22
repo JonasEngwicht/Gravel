@@ -1,0 +1,41 @@
+{
+  "id": "ks-wathena-foley-quarry",
+  "slug": "foley-quarry",
+  "name": "Foley Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wathena",
+    "state": "KS",
+    "zip": "66090"
+  },
+  "location": {
+    "lat": 39.722778,
+    "lng": -95.003333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401803"
+  },
+  "msha": [
+    {
+      "mine_id": "1401803",
+      "name": "Foley Quarry",
+      "operator": "Foley Quarry",
+      "status": "Intermittent",
+      "status_since": "2023-09-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

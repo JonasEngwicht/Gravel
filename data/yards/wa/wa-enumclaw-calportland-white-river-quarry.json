@@ -1,0 +1,41 @@
+{
+  "id": "wa-enumclaw-calportland-white-river-quarry",
+  "slug": "calportland-white-river-quarry",
+  "name": "CalPortland – White River Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Enumclaw",
+    "state": "WA",
+    "zip": "98396"
+  },
+  "location": {
+    "lat": 47.182222,
+    "lng": -121.923611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503374"
+  },
+  "msha": [
+    {
+      "mine_id": "4503374",
+      "name": "White River Quarry",
+      "operator": "CalPortland Company",
+      "status": "Active",
+      "status_since": "2020-04-26",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

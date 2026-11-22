@@ -1,0 +1,36 @@
+{
+  "id": "tx-granbury-texas-stone-supply-llc",
+  "slug": "texas-stone-supply-llc",
+  "name": "Texas Stone Supply, Llc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2600 E US Highway 377",
+    "city": "Granbury",
+    "state": "TX",
+    "zip": "76049"
+  },
+  "location": {
+    "lat": 32.450565,
+    "lng": -97.741844
+  },
+  "contact": {
+    "phone": "(817) 579-0900",
+    "website": "https://www.txstonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1fbcb850-0126-499b-af3b-4587816f62a8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

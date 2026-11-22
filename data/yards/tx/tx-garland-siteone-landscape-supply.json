@@ -1,0 +1,37 @@
+{
+  "id": "tx-garland-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1901 Holford Rd",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75044"
+  },
+  "location": {
+    "lat": 32.9622,
+    "lng": -96.660515
+  },
+  "contact": {
+    "phone": "(972) 530-0500",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8aa6708e-685f-4d47-ae1a-c03a5c5e1edd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

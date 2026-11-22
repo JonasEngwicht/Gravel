@@ -1,0 +1,41 @@
+{
+  "id": "in-middleboro-barrett-paving-materials-richmond-quarry",
+  "slug": "barrett-paving-materials-richmond-quarry",
+  "name": "Barrett Paving Materials – Richmond Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Middleboro",
+    "state": "IN",
+    "zip": "45347"
+  },
+  "location": {
+    "lat": 39.91,
+    "lng": -84.821389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200022"
+  },
+  "msha": [
+    {
+      "mine_id": "1200022",
+      "name": "Richmond Quarry",
+      "operator": "Barrett Paving Materials Inc",
+      "status": "Active",
+      "status_since": "2018-03-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

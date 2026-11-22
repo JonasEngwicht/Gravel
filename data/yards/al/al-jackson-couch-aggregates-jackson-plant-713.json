@@ -1,0 +1,41 @@
+{
+  "id": "al-jackson-couch-aggregates-jackson-plant-713",
+  "slug": "couch-aggregates-jackson-plant-713",
+  "name": "Couch Aggregates – Jackson Plant 713",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Jackson",
+    "state": "AL",
+    "zip": "35613"
+  },
+  "location": {
+    "lat": 34.78,
+    "lng": -86.923611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103248"
+  },
+  "msha": [
+    {
+      "mine_id": "0103248",
+      "name": "Jackson Plant 713",
+      "operator": "Couch Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2007-02-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 27
+    }
+  ]
+}

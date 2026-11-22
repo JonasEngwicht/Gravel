@@ -1,0 +1,36 @@
+{
+  "id": "az-peoria-arrowhead-landscape-materials",
+  "slug": "arrowhead-landscape-materials",
+  "name": "Arrowhead Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21940 N 75th Ave",
+    "city": "Peoria",
+    "state": "AZ",
+    "zip": "85310"
+  },
+  "location": {
+    "lat": 33.682755,
+    "lng": -112.220543
+  },
+  "contact": {
+    "phone": "(623) 561-1962",
+    "website": "http://www.arrowheadlandscapematerials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bcc08361-747f-40e4-bbe2-2286e5ce3a77",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

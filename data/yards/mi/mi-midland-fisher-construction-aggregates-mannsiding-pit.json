@@ -1,0 +1,41 @@
+{
+  "id": "mi-midland-fisher-construction-aggregates-mannsiding-pit",
+  "slug": "fisher-construction-aggregates-mannsiding-pit",
+  "name": "Fisher Construction Aggregates – Mannsiding Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Midland",
+    "state": "MI",
+    "zip": "48625"
+  },
+  "location": {
+    "lat": 43.966111,
+    "lng": -84.767778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2001174"
+  },
+  "msha": [
+    {
+      "mine_id": "2001174",
+      "name": "Mannsiding Pit",
+      "operator": "Fisher Construction Aggregates",
+      "status": "Active",
+      "status_since": "2018-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

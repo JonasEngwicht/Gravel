@@ -1,0 +1,36 @@
+{
+  "id": "nc-raleigh-southern-stone-supply",
+  "slug": "southern-stone-supply",
+  "name": "Southern Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "6909 Capital Blvd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27616"
+  },
+  "location": {
+    "lat": 35.879002,
+    "lng": -78.575005
+  },
+  "contact": {
+    "phone": "(919) 570-1555",
+    "website": "https://www.southernstonesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d61fe917-81ef-4fd9-8173-71553d72e011",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

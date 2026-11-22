@@ -1,0 +1,36 @@
+{
+  "id": "nc-wilmington-mulch-monster-plant-sales",
+  "slug": "mulch-monster-plant-sales",
+  "name": "Mulch Monster Plant Sales",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7799 Alexander Rd",
+    "city": "Wilmington",
+    "state": "NC",
+    "zip": "28411"
+  },
+  "location": {
+    "lat": 34.287426,
+    "lng": -77.80455
+  },
+  "contact": {
+    "phone": "(910) 686-2131",
+    "website": "http://mulchmonsterplantsales.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b847ff3-06a4-4589-a85e-1512bfc700c6",
+    "confidence": 0.834,
+    "merged_records": 2
+  }
+}

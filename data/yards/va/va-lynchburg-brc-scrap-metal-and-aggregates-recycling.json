@@ -1,0 +1,36 @@
+{
+  "id": "va-lynchburg-brc-scrap-metal-and-aggregates-recycling",
+  "slug": "brc-scrap-metal-and-aggregates-recycling",
+  "name": "BRC Scrap Metal and Aggregates Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2301 Mayflower Dr",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24501"
+  },
+  "location": {
+    "lat": 37.381542,
+    "lng": -79.145752
+  },
+  "contact": {
+    "phone": "(434) 385-6050",
+    "website": "https://brcscrap.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "45eb61ab-352a-4782-ac09-b718f66caafb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

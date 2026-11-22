@@ -1,0 +1,41 @@
+{
+  "id": "ia-decorah-bruening-rock-products-wash-plant-no-4",
+  "slug": "bruening-rock-products-wash-plant-no-4",
+  "name": "Bruening Rock Products – Wash Plant No 4",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Decorah",
+    "state": "IA",
+    "zip": "52101"
+  },
+  "location": {
+    "lat": 43.297778,
+    "lng": -91.768611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300657"
+  },
+  "msha": [
+    {
+      "mine_id": "1300657",
+      "name": "Wash Plant No 4",
+      "operator": "Bruening Rock Products Inc",
+      "status": "Active",
+      "status_since": "2016-02-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

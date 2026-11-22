@@ -1,0 +1,35 @@
+{
+  "id": "nj-moorestown-m-and-m-mulch",
+  "slug": "m-and-m-mulch",
+  "name": "M & M Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "400 Hartford Rd",
+    "city": "Moorestown",
+    "state": "NJ",
+    "zip": "08057"
+  },
+  "location": {
+    "lat": 39.988781,
+    "lng": -74.908508
+  },
+  "contact": {
+    "phone": "(856) 234-2394"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a68bac7-01ba-4cbf-8e52-5707cc213b33",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

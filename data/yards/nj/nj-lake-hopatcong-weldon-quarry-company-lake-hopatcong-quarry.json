@@ -1,0 +1,41 @@
+{
+  "id": "nj-lake-hopatcong-weldon-quarry-company-lake-hopatcong-quarry",
+  "slug": "weldon-quarry-company-lake-hopatcong-quarry",
+  "name": "Weldon Quarry Company – Lake Hopatcong Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lake Hopatcong",
+    "state": "NJ",
+    "zip": "07849"
+  },
+  "location": {
+    "lat": 40.995556,
+    "lng": -74.616389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800034"
+  },
+  "msha": [
+    {
+      "mine_id": "2800034",
+      "name": "Lake Hopatcong Quarry",
+      "operator": "Weldon Quarry Company LLC",
+      "status": "Active",
+      "status_since": "1982-12-27",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 23
+    }
+  ]
+}

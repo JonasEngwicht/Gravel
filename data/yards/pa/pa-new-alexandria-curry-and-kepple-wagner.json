@@ -1,0 +1,41 @@
+{
+  "id": "pa-new-alexandria-curry-and-kepple-wagner",
+  "slug": "curry-and-kepple-wagner",
+  "name": "Curry & Kepple – Wagner",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "New Alexandria",
+    "state": "PA",
+    "zip": "15671"
+  },
+  "location": {
+    "lat": 40.364167,
+    "lng": -79.368611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3610332"
+  },
+  "msha": [
+    {
+      "mine_id": "3610332",
+      "name": "Wagner",
+      "operator": "Curry & Kepple, Inc.",
+      "status": "Active",
+      "status_since": "2022-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nc-new-bern-martin-marietta-materials-clarks-quarry",
+  "slug": "martin-marietta-materials-clarks-quarry",
+  "name": "Martin Marietta Materials – Clarks Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "New Bern",
+    "state": "NC",
+    "zip": "28562"
+  },
+  "location": {
+    "lat": 35.150556,
+    "lng": -77.151667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102009"
+  },
+  "msha": [
+    {
+      "mine_id": "3102009",
+      "name": "Clarks Quarry",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Active",
+      "status_since": "1987-08-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 24
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pa-annville-pennsy-supply-millard-quarry",
+  "slug": "pennsy-supply-millard-quarry",
+  "name": "Pennsy Supply – Millard Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Annville",
+    "state": "PA",
+    "zip": "17003"
+  },
+  "location": {
+    "lat": 40.338611,
+    "lng": -76.556944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609058"
+  },
+  "msha": [
+    {
+      "mine_id": "3609058",
+      "name": "Millard Quarry",
+      "operator": "Pennsy Supply Inc",
+      "status": "Active",
+      "status_since": "2002-01-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 22
+    }
+  ]
+}

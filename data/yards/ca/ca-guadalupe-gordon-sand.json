@@ -1,0 +1,41 @@
+{
+  "id": "ca-guadalupe-gordon-sand",
+  "slug": "gordon-sand",
+  "name": "Gordon Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Guadalupe",
+    "state": "CA",
+    "zip": "93434"
+  },
+  "location": {
+    "lat": 34.9575,
+    "lng": -120.633056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401787"
+  },
+  "msha": [
+    {
+      "mine_id": "0401787",
+      "name": "Gordon Sand Co",
+      "operator": "Gordon Sand Co",
+      "status": "Active",
+      "status_since": "2025-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nd-new-town-lakeview-aggregates",
+  "slug": "lakeview-aggregates",
+  "name": "LakeView Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "207 ND-23",
+    "city": "New Town",
+    "state": "ND",
+    "zip": "58763"
+  },
+  "location": {
+    "lat": 47.981236,
+    "lng": -102.573563
+  },
+  "contact": {
+    "phone": "(701) 425-9335"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ffdd21f-25df-4b9e-bb24-2ae7e8878825",
+    "confidence": 0.594,
+    "merged_records": 1
+  }
+}

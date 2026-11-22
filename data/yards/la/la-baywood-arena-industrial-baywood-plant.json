@@ -1,0 +1,41 @@
+{
+  "id": "la-baywood-arena-industrial-baywood-plant",
+  "slug": "arena-industrial-baywood-plant",
+  "name": "Arena Industrial – Baywood Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Baywood",
+    "state": "LA",
+    "zip": "70739"
+  },
+  "location": {
+    "lat": 30.597778,
+    "lng": -90.995
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1600802"
+  },
+  "msha": [
+    {
+      "mine_id": "1600802",
+      "name": "Baywood Plant",
+      "operator": "Arena Industrial, Inc.",
+      "status": "Active",
+      "status_since": "1983-06-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 23
+    }
+  ]
+}

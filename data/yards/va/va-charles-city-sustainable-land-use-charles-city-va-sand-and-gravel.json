@@ -1,0 +1,41 @@
+{
+  "id": "va-charles-city-sustainable-land-use-charles-city-va-sand-and-gravel",
+  "slug": "sustainable-land-use-charles-city-va-sand-and-gravel",
+  "name": "Sustainable Land Use – Charles City-VA Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Charles City",
+    "state": "VA",
+    "zip": "23860"
+  },
+  "location": {
+    "lat": 37.341111,
+    "lng": -77.203611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406911"
+  },
+  "msha": [
+    {
+      "mine_id": "4406911",
+      "name": "Charles City-VA Sand & Gravel",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Active",
+      "status_since": "2022-08-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

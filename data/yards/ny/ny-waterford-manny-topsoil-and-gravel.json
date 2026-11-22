@@ -1,0 +1,36 @@
+{
+  "id": "ny-waterford-manny-topsoil-and-gravel",
+  "slug": "manny-topsoil-and-gravel",
+  "name": "Manny Topsoil and Gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11 Pineview Ct",
+    "city": "Waterford",
+    "state": "NY",
+    "zip": "12188"
+  },
+  "location": {
+    "lat": 42.823528,
+    "lng": -73.695122
+  },
+  "contact": {
+    "phone": "(518) 928-1478",
+    "website": "https://mannytopsoilandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ece938f6-0d15-486f-b488-1248506c5297",
+    "confidence": 0.951,
+    "merged_records": 1
+  }
+}

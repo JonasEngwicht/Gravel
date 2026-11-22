@@ -1,0 +1,36 @@
+{
+  "id": "ma-southwick-t-j-bark-mulch-inc",
+  "slug": "t-j-bark-mulch-inc",
+  "name": "T.J. Bark Mulch, Inc.",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "25 Sam West Rd",
+    "city": "Southwick",
+    "state": "MA",
+    "zip": "01077"
+  },
+  "location": {
+    "lat": 42.075924,
+    "lng": -72.754791
+  },
+  "contact": {
+    "phone": "(413) 569-2400",
+    "website": "http://www.tjbarkmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d4360c9-8cbf-4a41-be17-dda3157ea206",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

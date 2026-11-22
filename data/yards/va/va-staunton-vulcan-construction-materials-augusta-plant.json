@@ -1,0 +1,41 @@
+{
+  "id": "va-staunton-vulcan-construction-materials-augusta-plant",
+  "slug": "vulcan-construction-materials-augusta-plant",
+  "name": "Vulcan Construction Materials – Augusta Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Staunton",
+    "state": "VA",
+    "zip": "24482"
+  },
+  "location": {
+    "lat": 38.215278,
+    "lng": -79.085833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4402337"
+  },
+  "msha": [
+    {
+      "mine_id": "4402337",
+      "name": "Augusta Plant",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1978-08-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

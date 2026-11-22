@@ -1,0 +1,41 @@
+{
+  "id": "pa-andreas-lehigh-asphalt-paving-and-construction",
+  "slug": "lehigh-asphalt-paving-and-construction",
+  "name": "Lehigh Asphalt Paving & Construction",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Andreas",
+    "state": "PA",
+    "zip": "18211"
+  },
+  "location": {
+    "lat": 40.734167,
+    "lng": -75.801389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600117"
+  },
+  "msha": [
+    {
+      "mine_id": "3600117",
+      "name": "Lehigh Asphalt Paving & Construction Co",
+      "operator": "Lehigh Asphalt Paving & Construction Co",
+      "status": "Active",
+      "status_since": "2000-03-21",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

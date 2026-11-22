@@ -1,0 +1,41 @@
+{
+  "id": "nv-las-vegas-wells-cargo-wci-lone-mountain-pit",
+  "slug": "wells-cargo-wci-lone-mountain-pit",
+  "name": "Wells Cargo – WCI Lone Mountain Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89148"
+  },
+  "location": {
+    "lat": 36.081667,
+    "lng": -115.291111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2602787"
+  },
+  "msha": [
+    {
+      "mine_id": "2602787",
+      "name": "WCI Lone Mountain Pit",
+      "operator": "Wells Cargo Inc",
+      "status": "Active",
+      "status_since": "2019-09-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ks-nearman-holliday-sand-and-gravel-nearman-sand-plant",
+  "slug": "holliday-sand-and-gravel-nearman-sand-plant",
+  "name": "Holliday Sand & Gravel – Nearman Sand Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Nearman",
+    "state": "KS",
+    "zip": "66104"
+  },
+  "location": {
+    "lat": 39.165,
+    "lng": -94.665
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401854"
+  },
+  "msha": [
+    {
+      "mine_id": "1401854",
+      "name": "Nearman Sand Plant",
+      "operator": "Holliday Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2025-09-19",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

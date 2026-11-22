@@ -1,0 +1,48 @@
+{
+  "id": "al-prattville-alabama-sand-and-gravel",
+  "slug": "alabama-sand-and-gravel",
+  "name": "Alabama Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2125 County Road 19 N",
+    "city": "Prattville",
+    "state": "AL",
+    "zip": "36067"
+  },
+  "location": {
+    "lat": 32.640289,
+    "lng": -86.665604
+  },
+  "contact": {
+    "phone": "(205) 755-9995",
+    "website": "http://www.globemetallurgical.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f81cd317-e8a0-4c8c-a065-1673655cde9c",
+    "confidence": 0.632,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0103316",
+      "name": "Mims Pit",
+      "operator": "Alabama Aggregate, Inc",
+      "status": "Abandoned",
+      "status_since": "2023-01-31",
+      "commodity": "Sand, Common",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

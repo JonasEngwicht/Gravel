@@ -1,0 +1,36 @@
+{
+  "id": "tx-elgin-david-fenske-sand-and-gravel-llc",
+  "slug": "david-fenske-sand-and-gravel-llc",
+  "name": "David Fenske Sand & Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1409 Old McDade Rd",
+    "city": "Elgin",
+    "state": "TX",
+    "zip": "78621"
+  },
+  "location": {
+    "lat": 30.3276,
+    "lng": -97.323647
+  },
+  "contact": {
+    "phone": "(512) 285-2561",
+    "website": "https://www.davidfenskesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ec61b15-319c-48c0-921f-f34c00e43d8b",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

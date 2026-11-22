@@ -1,0 +1,36 @@
+{
+  "id": "oh-morrow-riverside-stockfarm-topsoil",
+  "slug": "riverside-stockfarm-topsoil",
+  "name": "Riverside Stockfarm Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4123 Riverside Ln",
+    "city": "Morrow",
+    "state": "OH",
+    "zip": "45152"
+  },
+  "location": {
+    "lat": 39.366943,
+    "lng": -84.106216
+  },
+  "contact": {
+    "phone": "(513) 899-3751",
+    "website": "https://riversidestockfarmtopsoil.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f432da15-642c-444e-9463-dbbc3587dce7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

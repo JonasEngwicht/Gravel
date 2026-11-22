@@ -1,0 +1,36 @@
+{
+  "id": "ga-conley-usc-landscape-supply",
+  "slug": "usc-landscape-supply",
+  "name": "USC Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1554 Cedar Grove Rd",
+    "city": "Conley",
+    "state": "GA",
+    "zip": "30288"
+  },
+  "location": {
+    "lat": 33.658043,
+    "lng": -84.326431
+  },
+  "contact": {
+    "phone": "(404) 964-0933",
+    "website": "http://www.usclandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "795cea91-3d66-43ea-825e-c001b2853606",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

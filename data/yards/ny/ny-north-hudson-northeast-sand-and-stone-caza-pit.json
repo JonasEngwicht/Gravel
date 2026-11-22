@@ -1,0 +1,41 @@
+{
+  "id": "ny-north-hudson-northeast-sand-and-stone-caza-pit",
+  "slug": "northeast-sand-and-stone-caza-pit",
+  "name": "Northeast Sand & Stone – Caza Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "North Hudson",
+    "state": "NY",
+    "zip": "12855"
+  },
+  "location": {
+    "lat": 43.979167,
+    "lng": -73.718333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003272"
+  },
+  "msha": [
+    {
+      "mine_id": "3003272",
+      "name": "Caza Pit",
+      "operator": "Northeast Sand & Stone, Llc",
+      "status": "Intermittent",
+      "status_since": "2026-06-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

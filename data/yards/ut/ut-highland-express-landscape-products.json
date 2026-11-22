@@ -1,0 +1,36 @@
+{
+  "id": "ut-highland-express-landscape-products",
+  "slug": "express-landscape-products",
+  "name": "Express Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6588 W 10900 N",
+    "city": "Highland",
+    "state": "UT",
+    "zip": "84003"
+  },
+  "location": {
+    "lat": 40.429375,
+    "lng": -111.816422
+  },
+  "contact": {
+    "phone": "(801) 818-2275",
+    "website": "https://www.expresslandscapeproducts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19dd1027-d801-4006-9dbc-a705fdd8fb68",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nm-belen-castillo-aggregates",
+  "slug": "castillo-aggregates",
+  "name": "Castillo Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6 Lopez Loop",
+    "city": "Belen",
+    "state": "NM",
+    "zip": "87002"
+  },
+  "location": {
+    "lat": 34.680897,
+    "lng": -106.771812
+  },
+  "contact": {
+    "phone": "(505) 864-4215",
+    "website": "https://www.castilloprestress.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8c704c6-93fe-4f4f-aa1a-7542f5c2f37c",
+    "confidence": 0.564,
+    "merged_records": 1
+  }
+}

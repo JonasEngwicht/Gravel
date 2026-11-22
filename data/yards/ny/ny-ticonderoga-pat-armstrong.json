@@ -1,0 +1,41 @@
+{
+  "id": "ny-ticonderoga-pat-armstrong",
+  "slug": "pat-armstrong",
+  "name": "Pat Armstrong",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Ticonderoga",
+    "state": "NY",
+    "zip": "05770"
+  },
+  "location": {
+    "lat": 43.898333,
+    "lng": -73.448889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003694"
+  },
+  "msha": [
+    {
+      "mine_id": "3003694",
+      "name": "North Ti Sand & Gravel",
+      "operator": "Pat Armstrong Inc",
+      "status": "Intermittent",
+      "status_since": "2009-06-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "or-alsea-alsea-quarries-1",
+  "slug": "alsea-quarries-1",
+  "name": "Alsea Quarries 1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Alsea",
+    "state": "OR",
+    "zip": "97324"
+  },
+  "location": {
+    "lat": 44.354167,
+    "lng": -123.577222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3500454"
+  },
+  "msha": [
+    {
+      "mine_id": "3500454",
+      "name": "Alsea Quarries",
+      "operator": "Alsea Quarries 1 LLC",
+      "status": "Intermittent",
+      "status_since": "2021-09-08",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

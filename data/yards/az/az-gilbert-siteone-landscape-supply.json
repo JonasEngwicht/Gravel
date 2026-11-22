@@ -1,0 +1,37 @@
+{
+  "id": "az-gilbert-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4729 E Warner Rd",
+    "city": "Gilbert",
+    "state": "AZ",
+    "zip": "85296"
+  },
+  "location": {
+    "lat": 33.335747,
+    "lng": -111.68869
+  },
+  "contact": {
+    "phone": "(480) 840-6999",
+    "website": "https://www.siteone.com/store/161"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b753058e-ffd4-4b1f-a8d3-c5858caa2276",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

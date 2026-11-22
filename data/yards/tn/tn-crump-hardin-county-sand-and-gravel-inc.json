@@ -1,0 +1,48 @@
+{
+  "id": "tn-crump-hardin-county-sand-and-gravel-inc",
+  "slug": "hardin-county-sand-and-gravel-inc",
+  "name": "Hardin County Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "151 Turnbow Ln",
+    "city": "Crump",
+    "state": "TN",
+    "zip": "38327"
+  },
+  "location": {
+    "lat": 35.225407,
+    "lng": -88.319901
+  },
+  "contact": {
+    "phone": "(731) 315-1200",
+    "website": "http://hardincountyrock.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "adc28239-856f-4bde-90f2-4060749c9e75",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4003013",
+      "name": "Hardin County Sand & Gravel Inc.",
+      "operator": "Hardin County Sand & Gravel Inc",
+      "status": "Abandoned",
+      "status_since": "2020-05-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "me-buxton-emery-aggregates-and-excavation-inc",
+  "slug": "emery-aggregates-and-excavation-inc",
+  "name": "Emery Aggregates And Excavation, Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "28 Blueberry Ln",
+    "city": "Buxton",
+    "state": "ME",
+    "zip": "04093"
+  },
+  "location": {
+    "lat": 43.663712,
+    "lng": -70.562378
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0abb227c-2f66-4fac-b371-25532d38f5d5",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

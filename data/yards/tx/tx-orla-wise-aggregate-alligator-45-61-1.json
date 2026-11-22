@@ -1,0 +1,41 @@
+{
+  "id": "tx-orla-wise-aggregate-alligator-45-61-1",
+  "slug": "wise-aggregate-alligator-45-61-1",
+  "name": "Wise Aggregate – Alligator 45-61-1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Orla",
+    "state": "TX",
+    "zip": "88268"
+  },
+  "location": {
+    "lat": 31.902222,
+    "lng": -104.3625
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105473"
+  },
+  "msha": [
+    {
+      "mine_id": "4105473",
+      "name": "Alligator 45-61-1",
+      "operator": "Wise Aggregate, LLC",
+      "status": "Active",
+      "status_since": "2023-10-02",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

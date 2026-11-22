@@ -1,0 +1,36 @@
+{
+  "id": "ks-wichita-k-and-t-topsoil",
+  "slug": "k-and-t-topsoil",
+  "name": "K & T Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3201 N Hoover Rd",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67205"
+  },
+  "location": {
+    "lat": 37.741665,
+    "lng": -97.40947
+  },
+  "contact": {
+    "phone": "(316) 393-9506",
+    "website": "http://kandttopsoil.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f143012f-e139-4a85-a784-56215e13137f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

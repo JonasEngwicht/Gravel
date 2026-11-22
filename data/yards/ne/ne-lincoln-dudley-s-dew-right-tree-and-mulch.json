@@ -1,0 +1,36 @@
+{
+  "id": "ne-lincoln-dudley-s-dew-right-tree-and-mulch",
+  "slug": "dudley-s-dew-right-tree-and-mulch",
+  "name": "Dudley's Dew-Right Tree & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4100 N 48th St",
+    "city": "Lincoln",
+    "state": "NE",
+    "zip": "68504"
+  },
+  "location": {
+    "lat": 40.855103,
+    "lng": -96.65361
+  },
+  "contact": {
+    "phone": "(402) 421-0870",
+    "website": "http://www.dewrightservices.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb9b51f4-a3e4-46ba-8bc6-7a6099cf6290",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

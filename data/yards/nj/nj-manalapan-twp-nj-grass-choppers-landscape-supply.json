@@ -1,0 +1,36 @@
+{
+  "id": "nj-manalapan-twp-nj-grass-choppers-landscape-supply",
+  "slug": "nj-grass-choppers-landscape-supply",
+  "name": "NJ Grass Choppers Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "254 Monmouth Rd",
+    "city": "Manalapan Twp",
+    "state": "NJ",
+    "zip": "07726"
+  },
+  "location": {
+    "lat": 40.211193,
+    "lng": -74.35038
+  },
+  "contact": {
+    "phone": "(732) 915-5296",
+    "website": "http://www.njgrasschoppers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ff87a10-9f8d-49c7-a765-d4fefeefc205",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

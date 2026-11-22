@@ -1,0 +1,41 @@
+{
+  "id": "mo-eureka-central-stone-antire-quarry-cs-72",
+  "slug": "central-stone-antire-quarry-cs-72",
+  "name": "Central Stone – Antire Quarry (CS-72)",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Eureka",
+    "state": "MO",
+    "zip": "63049"
+  },
+  "location": {
+    "lat": 38.506667,
+    "lng": -90.559722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300026"
+  },
+  "msha": [
+    {
+      "mine_id": "2300026",
+      "name": "Antire Quarry (CS-72)",
+      "operator": "Central Stone Company",
+      "status": "Active",
+      "status_since": "1973-02-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

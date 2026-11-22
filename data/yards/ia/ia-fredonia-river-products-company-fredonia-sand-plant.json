@@ -1,0 +1,41 @@
+{
+  "id": "ia-fredonia-river-products-company-fredonia-sand-plant",
+  "slug": "river-products-company-fredonia-sand-plant",
+  "name": "River Products Company – Fredonia Sand Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Fredonia",
+    "state": "IA",
+    "zip": "52738"
+  },
+  "location": {
+    "lat": 41.283611,
+    "lng": -91.338611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302453"
+  },
+  "msha": [
+    {
+      "mine_id": "1302453",
+      "name": "Fredonia Sand Plant",
+      "operator": "River Products Company Inc",
+      "status": "Intermittent",
+      "status_since": "2025-11-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

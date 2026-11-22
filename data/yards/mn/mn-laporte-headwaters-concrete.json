@@ -1,0 +1,41 @@
+{
+  "id": "mn-laporte-headwaters-concrete",
+  "slug": "headwaters-concrete",
+  "name": "Headwaters Concrete",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Laporte",
+    "state": "MN",
+    "zip": "56461"
+  },
+  "location": {
+    "lat": 47.216389,
+    "lng": -94.842222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2104006"
+  },
+  "msha": [
+    {
+      "mine_id": "2104006",
+      "name": "Headwaters Concrete LLC",
+      "operator": "Headwaters Concrete LLC",
+      "status": "Intermittent",
+      "status_since": "2021-11-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

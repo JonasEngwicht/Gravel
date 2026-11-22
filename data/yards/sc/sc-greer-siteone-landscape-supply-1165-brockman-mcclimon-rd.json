@@ -1,0 +1,37 @@
+{
+  "id": "sc-greer-siteone-landscape-supply-1165-brockman-mcclimon-rd",
+  "slug": "siteone-landscape-supply-1165-brockman-mcclimon-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1165 Brockman McClimon Rd",
+    "city": "Greer",
+    "state": "SC",
+    "zip": "29651"
+  },
+  "location": {
+    "lat": 34.859024,
+    "lng": -82.197891
+  },
+  "contact": {
+    "phone": "(864) 879-4914",
+    "website": "https://www.siteone.com/en/store/191"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c0c5f95-90ca-4bc4-86b9-153e07598532",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

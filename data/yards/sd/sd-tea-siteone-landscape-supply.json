@@ -1,0 +1,37 @@
+{
+  "id": "sd-tea-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "201 E Highpointe St",
+    "city": "Tea",
+    "state": "SD",
+    "zip": "57064"
+  },
+  "location": {
+    "lat": 43.458038,
+    "lng": -96.83474
+  },
+  "contact": {
+    "phone": "(605) 368-9057",
+    "website": "https://www.siteone.com/store/371"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ae2dad7-2998-4d54-b570-cf6b25541f6d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

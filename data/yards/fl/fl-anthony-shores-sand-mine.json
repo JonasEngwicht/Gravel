@@ -1,0 +1,41 @@
+{
+  "id": "fl-anthony-shores-sand-mine",
+  "slug": "shores-sand-mine",
+  "name": "Shores Sand Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Anthony",
+    "state": "FL",
+    "zip": "34480"
+  },
+  "location": {
+    "lat": 29.129722,
+    "lng": -82.094722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801296"
+  },
+  "msha": [
+    {
+      "mine_id": "0801296",
+      "name": "North Mine",
+      "operator": "Shores Sand Mine, LLC",
+      "status": "Active",
+      "status_since": "2020-06-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

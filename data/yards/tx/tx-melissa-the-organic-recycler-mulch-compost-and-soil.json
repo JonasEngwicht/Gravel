@@ -1,0 +1,36 @@
+{
+  "id": "tx-melissa-the-organic-recycler-mulch-compost-and-soil",
+  "slug": "the-organic-recycler-mulch-compost-and-soil",
+  "name": "The Organic Recycler - Mulch, Compost & Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4991 County Road 277",
+    "city": "Melissa",
+    "state": "TX",
+    "zip": "75454"
+  },
+  "location": {
+    "lat": 33.278275,
+    "lng": -96.601845
+  },
+  "contact": {
+    "phone": "(817) 437-2277",
+    "website": "https://theorganicrecycler.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "24e2c7ca-8d9e-4f5d-a174-8ac227ec5c86",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

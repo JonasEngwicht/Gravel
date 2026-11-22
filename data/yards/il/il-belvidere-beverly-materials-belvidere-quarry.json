@@ -1,0 +1,41 @@
+{
+  "id": "il-belvidere-beverly-materials-belvidere-quarry",
+  "slug": "beverly-materials-belvidere-quarry",
+  "name": "Beverly Materials – Belvidere Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Belvidere",
+    "state": "IL",
+    "zip": "61016"
+  },
+  "location": {
+    "lat": 42.209444,
+    "lng": -88.900556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103186"
+  },
+  "msha": [
+    {
+      "mine_id": "1103186",
+      "name": "Belvidere Quarry",
+      "operator": "Beverly Materials LLC",
+      "status": "Active",
+      "status_since": "2020-05-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

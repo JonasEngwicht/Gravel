@@ -1,0 +1,36 @@
+{
+  "id": "mo-buffalo-ash-grove-aggregates",
+  "slug": "ash-grove-aggregates",
+  "name": "Ash Grove Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "22 Engle Rd",
+    "city": "Buffalo",
+    "state": "MO",
+    "zip": "65622"
+  },
+  "location": {
+    "lat": 37.638538,
+    "lng": -93.047882
+  },
+  "contact": {
+    "phone": "(417) 345-8216",
+    "website": "http://www.aga.com/international/web/lg/aga/like35agacom.nsf"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f46fd248-afcb-4a51-bc4f-8dc053fecd55",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

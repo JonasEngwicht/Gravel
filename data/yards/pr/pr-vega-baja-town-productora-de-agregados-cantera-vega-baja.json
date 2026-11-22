@@ -1,0 +1,41 @@
+{
+  "id": "pr-vega-baja-town-productora-de-agregados-cantera-vega-baja",
+  "slug": "productora-de-agregados-cantera-vega-baja",
+  "name": "Productora De Agregados – Cantera Vega Baja",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Vega Baja Town",
+    "state": "PR",
+    "zip": "00693"
+  },
+  "location": {
+    "lat": 18.420833,
+    "lng": -66.403333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400137"
+  },
+  "msha": [
+    {
+      "mine_id": "5400137",
+      "name": "Cantera Vega Baja",
+      "operator": "Productora De Agregados Inc",
+      "status": "Active",
+      "status_since": "1975-05-14",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 31
+    }
+  ]
+}

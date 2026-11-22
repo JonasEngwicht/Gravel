@@ -1,0 +1,41 @@
+{
+  "id": "me-presque-isle-mcgillan-incorporated",
+  "slug": "mcgillan-incorporated",
+  "name": "McGillan Incorporated",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Presque Isle",
+    "state": "ME",
+    "zip": "04769"
+  },
+  "location": {
+    "lat": 46.680556,
+    "lng": -67.927778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700823"
+  },
+  "msha": [
+    {
+      "mine_id": "1700823",
+      "name": "McGillan Quarry",
+      "operator": "McGillan Incorporated",
+      "status": "Intermittent",
+      "status_since": "2007-08-23",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

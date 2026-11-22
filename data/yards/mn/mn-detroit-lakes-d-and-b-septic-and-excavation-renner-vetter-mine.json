@@ -1,0 +1,41 @@
+{
+  "id": "mn-detroit-lakes-d-and-b-septic-and-excavation-renner-vetter-mine",
+  "slug": "d-and-b-septic-and-excavation-renner-vetter-mine",
+  "name": "D & B Septic and Excavation – Renner-Vetter Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Detroit Lakes",
+    "state": "MN",
+    "zip": "56501"
+  },
+  "location": {
+    "lat": 46.860278,
+    "lng": -95.701389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2104034"
+  },
+  "msha": [
+    {
+      "mine_id": "2104034",
+      "name": "Renner-Vetter Mine",
+      "operator": "D & B Septic and Excavation, LLC",
+      "status": "Intermittent",
+      "status_since": "2022-06-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

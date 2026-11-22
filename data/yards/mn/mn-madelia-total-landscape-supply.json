@@ -1,0 +1,35 @@
+{
+  "id": "mn-madelia-total-landscape-supply",
+  "slug": "total-landscape-supply",
+  "name": "Total Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "660 Haynes Ave NE Ste 1",
+    "city": "Madelia",
+    "state": "MN",
+    "zip": "56062"
+  },
+  "location": {
+    "lat": 44.052689,
+    "lng": -94.402046
+  },
+  "contact": {
+    "phone": "(507) 642-7625"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6feb0dbb-3cb7-4e55-8693-4ff5df997dd9",
+    "confidence": 0.887,
+    "merged_records": 1
+  }
+}

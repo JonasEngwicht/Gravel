@@ -1,0 +1,36 @@
+{
+  "id": "nc-blowing-rock-highland-landscape-supplies",
+  "slug": "highland-landscape-supplies",
+  "name": "Highland Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3551 US Highway 321",
+    "city": "Blowing Rock",
+    "state": "NC",
+    "zip": "28605"
+  },
+  "location": {
+    "lat": 36.179276,
+    "lng": -81.647179
+  },
+  "contact": {
+    "phone": "(828) 264-4210",
+    "website": "http://www.highlandlandscapesupplies.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f6076dd-a5ec-4639-8b6b-9e9cad96936b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

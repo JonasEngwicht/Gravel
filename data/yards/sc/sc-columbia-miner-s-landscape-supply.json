@@ -1,0 +1,36 @@
+{
+  "id": "sc-columbia-miner-s-landscape-supply",
+  "slug": "miner-s-landscape-supply",
+  "name": "Miner's Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "440 Jamil Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29210"
+  },
+  "location": {
+    "lat": 34.060425,
+    "lng": -81.136337
+  },
+  "contact": {
+    "phone": "(803) 361-3769",
+    "website": "http://minerslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a6a3be8-e2c8-4279-8146-45727605ca85",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

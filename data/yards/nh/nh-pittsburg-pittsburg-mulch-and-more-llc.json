@@ -1,0 +1,36 @@
+{
+  "id": "nh-pittsburg-pittsburg-mulch-and-more-llc",
+  "slug": "pittsburg-mulch-and-more-llc",
+  "name": "Pittsburg Mulch and More LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "10 Amey Dr",
+    "city": "Pittsburg",
+    "state": "NH",
+    "zip": "03592"
+  },
+  "location": {
+    "lat": 45.04686,
+    "lng": -71.441269
+  },
+  "contact": {
+    "phone": "(603) 538-6913",
+    "website": "http://pittsburgmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c40ecd4-2b0f-48e2-a0cb-6332bbc2069f",
+    "confidence": 0.958,
+    "merged_records": 1
+  }
+}

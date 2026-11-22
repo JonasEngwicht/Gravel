@@ -1,0 +1,36 @@
+{
+  "id": "ga-covington-master-landscape-supply",
+  "slug": "master-landscape-supply",
+  "name": "Master Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12592 Highway 278",
+    "city": "Covington",
+    "state": "GA",
+    "zip": "30014"
+  },
+  "location": {
+    "lat": 33.598362,
+    "lng": -83.754921
+  },
+  "contact": {
+    "phone": "(770) 787-0993",
+    "website": "http://www.masterlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "49caebb5-c6a5-4041-9314-243b985163b6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ms-amory-rebel-rock",
+  "slug": "rebel-rock",
+  "name": "Rebel Rock",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Amory",
+    "state": "MS",
+    "zip": "38821"
+  },
+  "location": {
+    "lat": 34.010556,
+    "lng": -88.525
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200821"
+  },
+  "msha": [
+    {
+      "mine_id": "2200821",
+      "name": "Rebel Rock",
+      "operator": "Rebel Rock, LLC",
+      "status": "Active",
+      "status_since": "2022-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

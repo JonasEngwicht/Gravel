@@ -1,0 +1,37 @@
+{
+  "id": "pa-lake-ariel-hanson-aggregates-inc",
+  "slug": "hanson-aggregates-inc",
+  "name": "Hanson Aggregates Inc.",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "621 Keystone Rd",
+    "city": "Lake Ariel",
+    "state": "PA",
+    "zip": "18436"
+  },
+  "location": {
+    "lat": 41.463615,
+    "lng": -75.411034
+  },
+  "contact": {
+    "phone": "(570) 698-5631",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52a7b55e-11b8-403f-941f-ed7f4fe16074",
+    "confidence": 0.891,
+    "merged_records": 2
+  }
+}

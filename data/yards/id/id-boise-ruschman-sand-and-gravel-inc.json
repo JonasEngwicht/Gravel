@@ -1,0 +1,48 @@
+{
+  "id": "id-boise-ruschman-sand-and-gravel-inc",
+  "slug": "ruschman-sand-and-gravel-inc",
+  "name": "Ruschman Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9400 S Pleasant Valley Rd",
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83705"
+  },
+  "location": {
+    "lat": 43.516598,
+    "lng": -116.230576
+  },
+  "contact": {
+    "phone": "(208) 331-9222",
+    "website": "https://www.ruschmansandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e1c8b0b2-60e5-4c60-8d5a-f88c8823022f",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1001950",
+      "name": "Pleasant Valley Pit",
+      "operator": "Ruschman Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2016-10-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ia-peterson-wetherell-sand-and-gravel",
+  "slug": "wetherell-sand-and-gravel",
+  "name": "Wetherell Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "400 E 2nd St",
+    "city": "Peterson",
+    "state": "IA",
+    "zip": "51047"
+  },
+  "location": {
+    "lat": 42.917404,
+    "lng": -95.336868
+  },
+  "contact": {
+    "phone": "(712) 295-7661"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fff08921-6fd5-4354-bd6b-b30d33b8f936",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

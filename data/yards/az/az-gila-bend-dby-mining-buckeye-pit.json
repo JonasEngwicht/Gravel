@@ -1,0 +1,41 @@
+{
+  "id": "az-gila-bend-dby-mining-buckeye-pit",
+  "slug": "dby-mining-buckeye-pit",
+  "name": "Dby Mining Buckeye Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Gila Bend",
+    "state": "AZ",
+    "zip": "85205"
+  },
+  "location": {
+    "lat": 33.445278,
+    "lng": -111.736111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203463"
+  },
+  "msha": [
+    {
+      "mine_id": "0203463",
+      "name": "Dby Mining Buckeye Pit",
+      "operator": "DBY Mining, LLC",
+      "status": "Active",
+      "status_since": "2023-11-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

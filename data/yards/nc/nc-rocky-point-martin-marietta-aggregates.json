@@ -1,0 +1,49 @@
+{
+  "id": "nc-rocky-point-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "1635 Martin Marietta Access Rd",
+    "city": "Rocky Point",
+    "state": "NC",
+    "zip": "28457"
+  },
+  "location": {
+    "lat": 34.414848,
+    "lng": -77.865784
+  },
+  "contact": {
+    "phone": "(910) 675-0011",
+    "website": "https://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0ef9a8d-e48b-48d3-b301-6bab1dabdc0d",
+    "confidence": 0.655,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3101956",
+      "name": "Rocky Point Quarry",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Abandoned",
+      "status_since": "2026-02-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

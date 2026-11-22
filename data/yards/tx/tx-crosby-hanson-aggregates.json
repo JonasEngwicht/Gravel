@@ -1,0 +1,37 @@
+{
+  "id": "tx-crosby-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "17777 Adlong Johnson Rd, Crosby Terminal",
+    "city": "Crosby",
+    "state": "TX",
+    "zip": "77532"
+  },
+  "location": {
+    "lat": 29.939039,
+    "lng": -95.033409
+  },
+  "contact": {
+    "phone": "(281) 328-0384",
+    "website": "https://www.lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ce46d54c-0171-4de6-9dc5-6ad30e2f2228",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

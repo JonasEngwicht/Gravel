@@ -1,0 +1,36 @@
+{
+  "id": "pa-washington-boro-kreider-mulch",
+  "slug": "kreider-mulch",
+  "name": "Kreider Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "356 Penn St",
+    "city": "Washington Boro",
+    "state": "PA",
+    "zip": "17582"
+  },
+  "location": {
+    "lat": 40.002342,
+    "lng": -76.434731
+  },
+  "contact": {
+    "phone": "(717) 871-9177",
+    "website": "http://www.kreidermulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0248d34e-cc9b-4849-9e88-77350f924759",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

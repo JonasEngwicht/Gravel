@@ -1,0 +1,48 @@
+{
+  "id": "mo-dexter-dexter-sand-and-gravel",
+  "slug": "dexter-sand-and-gravel",
+  "name": "Dexter Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "19702 Co Rd 702",
+    "city": "Dexter",
+    "state": "MO",
+    "zip": "63841"
+  },
+  "location": {
+    "lat": 36.816334,
+    "lng": -89.919365
+  },
+  "contact": {
+    "phone": "(573) 614-4051",
+    "website": "http://www.deltacos.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7733954a-1e0c-4d44-9515-3f04b7de2b3c",
+    "confidence": 0.869,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2302430",
+      "name": "Dexter Sand & Gravel",
+      "operator": "Southeast Missouri Stone",
+      "status": "Active",
+      "status_since": "2020-10-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

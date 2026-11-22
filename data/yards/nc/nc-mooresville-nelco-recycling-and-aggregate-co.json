@@ -1,0 +1,35 @@
+{
+  "id": "nc-mooresville-nelco-recycling-and-aggregate-co",
+  "slug": "nelco-recycling-and-aggregate-co",
+  "name": "Nelco Recycling & Aggregate Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "165 Macleod Dr",
+    "city": "Mooresville",
+    "state": "NC",
+    "zip": "28117"
+  },
+  "location": {
+    "lat": 35.586029,
+    "lng": -80.841217
+  },
+  "contact": {
+    "phone": "(704) 664-0201"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3eece37-bc70-4ddd-9ccb-96cc0163bdfc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ar-little-rock-everlast-rubber-mulch-inc",
+  "slug": "everlast-rubber-mulch-inc",
+  "name": "Everlast Rubber Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12900 I-30",
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72210"
+  },
+  "location": {
+    "lat": 34.645893,
+    "lng": -92.433044
+  },
+  "contact": {
+    "phone": "(501) 407-9595"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e5c96a3-90e1-4240-b30f-81aa8829e904",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

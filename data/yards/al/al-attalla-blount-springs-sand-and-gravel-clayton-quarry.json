@@ -1,0 +1,47 @@
+{
+  "id": "al-attalla-blount-springs-sand-and-gravel-clayton-quarry",
+  "slug": "blount-springs-sand-and-gravel-clayton-quarry",
+  "name": "Blount Springs Sand & Gravel Clayton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "9091 US Highway 11 N",
+    "city": "Attalla",
+    "state": "AL",
+    "zip": "35954"
+  },
+  "location": {
+    "lat": 34.192989,
+    "lng": -85.921371
+  },
+  "contact": {
+    "phone": "(256) 538-0992"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7c0f830-8608-4b98-81de-894eb3fe8c6f",
+    "confidence": 0.532,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0103199",
+      "name": "Collinsville Rock Quarry",
+      "operator": "Blount Springs Materials Co Inc",
+      "status": "Abandoned",
+      "status_since": "2019-12-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ok-stillwater-green-acre-sod-and-landscape-center-stillwater-ok",
+  "slug": "green-acre-sod-and-landscape-center-stillwater-ok",
+  "name": "Green Acre Sod and Landscape Center Stillwater, OK",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2719 E 6th Ave",
+    "city": "Stillwater",
+    "state": "OK",
+    "zip": "74074"
+  },
+  "location": {
+    "lat": 36.115379,
+    "lng": -97.024872
+  },
+  "contact": {
+    "phone": "(405) 533-3774",
+    "website": "http://greenacresodfarm.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb0df617-87a7-4075-bfd1-cb4eb51db298",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

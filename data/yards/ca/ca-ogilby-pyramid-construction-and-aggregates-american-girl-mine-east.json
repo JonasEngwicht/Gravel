@@ -1,0 +1,41 @@
+{
+  "id": "ca-ogilby-pyramid-construction-and-aggregates-american-girl-mine-east",
+  "slug": "pyramid-construction-and-aggregates-american-girl-mine-east",
+  "name": "Pyramid Construction and Aggregates – American Girl Mine East",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ogilby",
+    "state": "CA",
+    "zip": "92283"
+  },
+  "location": {
+    "lat": 32.836944,
+    "lng": -114.811667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405761"
+  },
+  "msha": [
+    {
+      "mine_id": "0405761",
+      "name": "American Girl Mine East",
+      "operator": "Pyramid Construction and Aggregates Inc",
+      "status": "Intermittent",
+      "status_since": "2022-03-09",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

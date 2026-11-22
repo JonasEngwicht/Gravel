@@ -1,0 +1,35 @@
+{
+  "id": "ga-jasper-double-a-landscape-supply",
+  "slug": "double-a-landscape-supply",
+  "name": "Double A Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7752 Cove Rd",
+    "city": "Jasper",
+    "state": "GA",
+    "zip": "30143"
+  },
+  "location": {
+    "lat": 34.441444,
+    "lng": -84.309357
+  },
+  "contact": {
+    "phone": "(706) 669-9395"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed063c16-df8c-45c0-b3ba-cef0e116ae42",
+    "confidence": 0.856,
+    "merged_records": 1
+  }
+}

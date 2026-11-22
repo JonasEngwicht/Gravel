@@ -1,0 +1,37 @@
+{
+  "id": "mi-farmington-hills-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "29820 W 8 Mile Rd",
+    "city": "Farmington Hills",
+    "state": "MI",
+    "zip": "48336"
+  },
+  "location": {
+    "lat": 42.442234,
+    "lng": -83.340218
+  },
+  "contact": {
+    "phone": "(248) 478-1729",
+    "website": "https://www.siteone.com/en/store/124"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64c9f163-80dc-49f9-822e-0200fe07629d",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

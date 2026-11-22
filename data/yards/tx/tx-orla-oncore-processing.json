@@ -1,0 +1,41 @@
+{
+  "id": "tx-orla-oncore-processing",
+  "slug": "oncore-processing",
+  "name": "OnCore Processing",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Orla",
+    "state": "TX",
+    "zip": "79770"
+  },
+  "location": {
+    "lat": 31.828889,
+    "lng": -103.902222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105766"
+  },
+  "msha": [
+    {
+      "mine_id": "4105766",
+      "name": "OnCore 9",
+      "operator": "OnCore Processing LLC",
+      "status": "Active",
+      "status_since": "2025-10-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

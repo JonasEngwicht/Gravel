@@ -1,0 +1,37 @@
+{
+  "id": "fl-vero-beach-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "180 Old Dixie Hwy",
+    "city": "Vero Beach",
+    "state": "FL",
+    "zip": "32962"
+  },
+  "location": {
+    "lat": 27.604767,
+    "lng": -80.386826
+  },
+  "contact": {
+    "phone": "(772) 569-9098",
+    "website": "https://www.siteone.com/en/store/549"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "273e534f-a273-49ec-af19-0e412a94ffc9",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

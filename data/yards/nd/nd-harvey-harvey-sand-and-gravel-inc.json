@@ -1,0 +1,35 @@
+{
+  "id": "nd-harvey-harvey-sand-and-gravel-inc",
+  "slug": "harvey-sand-and-gravel-inc",
+  "name": "Harvey Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2972 25th St NE",
+    "city": "Harvey",
+    "state": "ND",
+    "zip": "58341"
+  },
+  "location": {
+    "lat": 47.774574,
+    "lng": -99.947571
+  },
+  "contact": {
+    "phone": "(701) 324-4671"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6889a5e6-12b3-4e99-bc8d-be85970ce2b3",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

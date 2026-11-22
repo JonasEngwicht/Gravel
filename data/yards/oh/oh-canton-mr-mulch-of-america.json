@@ -1,0 +1,36 @@
+{
+  "id": "oh-canton-mr-mulch-of-america",
+  "slug": "mr-mulch-of-america",
+  "name": "Mr. Mulch of America",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3704 12th St NW",
+    "city": "Canton",
+    "state": "OH",
+    "zip": "44708"
+  },
+  "location": {
+    "lat": 40.810398,
+    "lng": -81.41629
+  },
+  "contact": {
+    "phone": "(330) 452-1080",
+    "website": "https://mrmulchofamerica.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "14e02175-6696-411c-9185-afcfac37c0a7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

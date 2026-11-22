@@ -1,0 +1,36 @@
+{
+  "id": "mn-emily-emily-sand-and-gravel",
+  "slug": "emily-sand-and-gravel",
+  "name": "Emily Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "40796 Yost Rd",
+    "city": "Emily",
+    "state": "MN",
+    "zip": "56447"
+  },
+  "location": {
+    "lat": 46.743652,
+    "lng": -94.000946
+  },
+  "contact": {
+    "phone": "(218) 763-3048",
+    "website": "http://emilysandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0acd11eb-f2cf-4e9c-a8e2-941500bf6846",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

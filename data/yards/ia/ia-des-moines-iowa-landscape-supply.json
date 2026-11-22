@@ -1,0 +1,36 @@
+{
+  "id": "ia-des-moines-iowa-landscape-supply",
+  "slug": "iowa-landscape-supply",
+  "name": "Iowa Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4041 E 16th St",
+    "city": "Des Moines",
+    "state": "IA",
+    "zip": "50313"
+  },
+  "location": {
+    "lat": 41.634552,
+    "lng": -93.595444
+  },
+  "contact": {
+    "phone": "(515) 262-2367",
+    "website": "http://www.iowalandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "144fae19-5985-4a63-a2e4-5032b825f9b6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

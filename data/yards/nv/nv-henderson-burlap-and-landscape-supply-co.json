@@ -1,0 +1,36 @@
+{
+  "id": "nv-henderson-burlap-and-landscape-supply-co",
+  "slug": "burlap-and-landscape-supply-co",
+  "name": "Burlap & Landscape Supply Co.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5340 CAMERON ST 19",
+    "city": "Henderson",
+    "state": "NV",
+    "zip": "89118"
+  },
+  "location": {
+    "lat": 36.066856,
+    "lng": -114.960938
+  },
+  "contact": {
+    "phone": "(702) 253-9721",
+    "website": "http://burlaplandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2994e7cd-94ad-40d2-9059-4ef9229d2c1a",
+    "confidence": 0.82,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-trexlertown-landscape-products-co-inc",
+  "slug": "landscape-products-co-inc",
+  "name": "Landscape Products Co., Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1039 Trexlertown Rd",
+    "city": "Trexlertown",
+    "state": "PA",
+    "zip": "18087"
+  },
+  "location": {
+    "lat": 40.552605,
+    "lng": -75.607407
+  },
+  "contact": {
+    "phone": "(610) 530-7100",
+    "website": "http://www.landscapeproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e00d50e-b8a9-429f-8f4a-294cbb579c37",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

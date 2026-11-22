@@ -1,0 +1,47 @@
+{
+  "id": "ca-salton-sea-beach-aggregate-products-inc-api-salton-sea-beach",
+  "slug": "aggregate-products-inc-api-salton-sea-beach",
+  "name": "Aggregate Products Inc. (API Salton Sea Beach)",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "100 W Brawley Ave",
+    "city": "Salton Sea Beach",
+    "state": "CA",
+    "zip": "92274"
+  },
+  "location": {
+    "lat": 33.374527,
+    "lng": -116.041931
+  },
+  "contact": {
+    "phone": "(760) 395-5000"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f8cdef3-427a-47f6-aee5-55c0981b6600",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0404678",
+      "name": "API Pit",
+      "operator": "Aggregate Products Inc",
+      "status": "Active",
+      "status_since": "1993-02-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

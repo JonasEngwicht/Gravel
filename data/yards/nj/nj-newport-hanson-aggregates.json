@@ -1,0 +1,37 @@
+{
+  "id": "nj-newport-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "1191 Railroad Ave",
+    "city": "Newport",
+    "state": "NJ",
+    "zip": "08345"
+  },
+  "location": {
+    "lat": 39.307259,
+    "lng": -75.115074
+  },
+  "contact": {
+    "phone": "(856) 447-0300",
+    "website": "http://www.lehighhanson.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b7b71d8d-99d5-4ea5-b33c-544730a8da60",
+    "confidence": 0.942,
+    "merged_records": 3
+  }
+}

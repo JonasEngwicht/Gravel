@@ -1,0 +1,37 @@
+{
+  "id": "pa-pittsburgh-siteone-landscape-supply-1025-mount-nebo-rd",
+  "slug": "siteone-landscape-supply-1025-mount-nebo-rd",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1025 Mount Nebo Rd",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15237"
+  },
+  "location": {
+    "lat": 40.550816,
+    "lng": -80.087898
+  },
+  "contact": {
+    "phone": "(412) 364-2195",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ded4976-86fa-43c8-8e4c-92880ea93b91",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

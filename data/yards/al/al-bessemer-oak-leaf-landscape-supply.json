@@ -1,0 +1,36 @@
+{
+  "id": "al-bessemer-oak-leaf-landscape-supply",
+  "slug": "oak-leaf-landscape-supply",
+  "name": "Oak Leaf Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2006 AL-150",
+    "city": "Bessemer",
+    "state": "AL",
+    "zip": "35022"
+  },
+  "location": {
+    "lat": 33.363777,
+    "lng": -86.881226
+  },
+  "contact": {
+    "phone": "(205) 425-2525",
+    "website": "http://www.oakleafsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "02deef9c-0e33-4941-b280-8ad2e8475852",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

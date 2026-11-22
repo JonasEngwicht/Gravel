@@ -1,0 +1,36 @@
+{
+  "id": "va-waynesboro-mulch-and-more-landscape-supply",
+  "slug": "mulch-and-more-landscape-supply",
+  "name": "Mulch and More Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "56 Benz Rd",
+    "city": "Waynesboro",
+    "state": "VA",
+    "zip": "22980"
+  },
+  "location": {
+    "lat": 38.03249,
+    "lng": -78.946068
+  },
+  "contact": {
+    "phone": "(540) 932-7675",
+    "website": "https://www.mulchandmoresupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0cd7ac87-6b99-4681-b455-7e6903ee92d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ia-butler-county-c-j-moyna-and-sons-stripping-operation",
+  "slug": "c-j-moyna-and-sons-stripping-operation",
+  "name": "C.J. Moyna & Sons – Stripping Operation",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Butler County",
+    "state": "IA",
+    "zip": "52049"
+  },
+  "location": {
+    "lat": 42.8675,
+    "lng": -91.128889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302432"
+  },
+  "msha": [
+    {
+      "mine_id": "1302432",
+      "name": "Stripping Operation",
+      "operator": "C.J. Moyna & Sons, Llc.",
+      "status": "Intermittent",
+      "status_since": "2026-10-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

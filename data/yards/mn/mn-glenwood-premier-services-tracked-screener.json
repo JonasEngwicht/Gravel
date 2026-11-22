@@ -1,0 +1,41 @@
+{
+  "id": "mn-glenwood-premier-services-tracked-screener",
+  "slug": "premier-services-tracked-screener",
+  "name": "Premier Services – Tracked Screener",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Glenwood",
+    "state": "MN",
+    "zip": "56668"
+  },
+  "location": {
+    "lat": 48.5825,
+    "lng": -93.413056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2103765"
+  },
+  "msha": [
+    {
+      "mine_id": "2103765",
+      "name": "Tracked Screener",
+      "operator": "Premier Services Corporation",
+      "status": "Intermittent",
+      "status_since": "2014-07-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

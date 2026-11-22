@@ -1,0 +1,36 @@
+{
+  "id": "wa-spokane-valley-basin-sod-and-gravel",
+  "slug": "basin-sod-and-gravel",
+  "name": "Basin Sod & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "812 S Dishman Mica Rd",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99206"
+  },
+  "location": {
+    "lat": 47.6493,
+    "lng": -117.27887
+  },
+  "contact": {
+    "phone": "(509) 315-9426",
+    "website": "http://www.basinsod.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64fda8f7-f684-4257-9923-63677e7c46ec",
+    "confidence": 0.918,
+    "merged_records": 1
+  }
+}

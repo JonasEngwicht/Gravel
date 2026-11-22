@@ -1,0 +1,48 @@
+{
+  "id": "md-henderson-york-building-products-eastern-shore-sand-and-gravel",
+  "slug": "york-building-products-eastern-shore-sand-and-gravel",
+  "name": "York Building Products-eastern Shore Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1720 Bridgetown Rd",
+    "city": "Henderson",
+    "state": "MD",
+    "zip": "21640"
+  },
+  "location": {
+    "lat": 39.082352,
+    "lng": -75.881752
+  },
+  "contact": {
+    "phone": "(443) 312-2161",
+    "website": "https://www.yorkbuilding.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "65c0c2a2-881f-4fe3-aa51-f93fbcbc5f31",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1800803",
+      "name": "Ingleside Pit",
+      "operator": "York Building Products Co Inc",
+      "status": "Active",
+      "status_since": "2018-01-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

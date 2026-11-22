@@ -1,0 +1,35 @@
+{
+  "id": "tn-la-vergne-pope-s-mulch",
+  "slug": "pope-s-mulch",
+  "name": "Pope's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "116 Waldron Cir",
+    "city": "La Vergne",
+    "state": "TN",
+    "zip": "37086"
+  },
+  "location": {
+    "lat": 36.016514,
+    "lng": -86.566933
+  },
+  "contact": {
+    "phone": "(615) 793-9072"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0befdc47-5bee-46cb-b270-3409ca466c8a",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ky-tompkinsville-scotty-s-contracting-and-stone-monroe-county-stone",
+  "slug": "scotty-s-contracting-and-stone-monroe-county-stone",
+  "name": "Scotty's Contracting & Stone – Monroe County Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Tompkinsville",
+    "state": "KY",
+    "zip": "42167"
+  },
+  "location": {
+    "lat": 36.702222,
+    "lng": -85.691667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500101"
+  },
+  "msha": [
+    {
+      "mine_id": "1500101",
+      "name": "Monroe County Stone",
+      "operator": "Scotty's Contracting & Stone, LLC",
+      "status": "Active",
+      "status_since": "2014-02-13",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

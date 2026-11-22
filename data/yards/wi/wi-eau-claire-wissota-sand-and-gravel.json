@@ -1,0 +1,36 @@
+{
+  "id": "wi-eau-claire-wissota-sand-and-gravel",
+  "slug": "wissota-sand-and-gravel",
+  "name": "Wissota Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5828 Arndt Rd  # 2",
+    "city": "Eau Claire",
+    "state": "WI",
+    "zip": "54701"
+  },
+  "location": {
+    "lat": 44.748966,
+    "lng": -91.453964
+  },
+  "contact": {
+    "phone": "(715) 835-5014",
+    "website": "https://wissotasandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "35928ac0-5b9b-4156-89a9-9339d3d3ee1a",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

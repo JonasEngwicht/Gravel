@@ -1,0 +1,41 @@
+{
+  "id": "vt-pownal-m-j-lewis-construction",
+  "slug": "m-j-lewis-construction",
+  "name": "M. J. Lewis Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Pownal",
+    "state": "VT",
+    "zip": "05261"
+  },
+  "location": {
+    "lat": 42.790833,
+    "lng": -73.204722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300780"
+  },
+  "msha": [
+    {
+      "mine_id": "4300780",
+      "name": "Lewis Pit",
+      "operator": "M. J. Lewis Construction",
+      "status": "Intermittent",
+      "status_since": "2021-08-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

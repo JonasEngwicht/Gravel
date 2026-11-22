@@ -1,0 +1,36 @@
+{
+  "id": "mi-west-bloomfield-crown-sand-and-gravel",
+  "slug": "crown-sand-and-gravel",
+  "name": "Crown Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6991 Cooley Lake Rd",
+    "city": "West Bloomfield",
+    "state": "MI",
+    "zip": "48324"
+  },
+  "location": {
+    "lat": 42.615189,
+    "lng": -83.423378
+  },
+  "contact": {
+    "phone": "(248) 931-7455",
+    "website": "https://mulchdeliverywestbloomfieldmi.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3dc3b0a4-75ef-4f4f-b62c-ef3b2b0bd570",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

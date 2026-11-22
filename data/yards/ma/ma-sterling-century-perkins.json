@@ -1,0 +1,41 @@
+{
+  "id": "ma-sterling-century-perkins",
+  "slug": "century-perkins",
+  "name": "Century Perkins",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sterling",
+    "state": "MA",
+    "zip": "01564"
+  },
+  "location": {
+    "lat": 42.425556,
+    "lng": -71.7725
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900033"
+  },
+  "msha": [
+    {
+      "mine_id": "1900033",
+      "name": "Century Perkins",
+      "operator": "Century Aggregates Inc",
+      "status": "Active",
+      "status_since": "2004-11-02",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

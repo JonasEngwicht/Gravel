@@ -1,0 +1,41 @@
+{
+  "id": "mo-auxvasse-martin-marietta-materials-auxvasse-south-quarry",
+  "slug": "martin-marietta-materials-auxvasse-south-quarry",
+  "name": "Martin Marietta Materials – Auxvasse South Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Auxvasse",
+    "state": "MO",
+    "zip": "65231"
+  },
+  "location": {
+    "lat": 38.995556,
+    "lng": -91.898333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302009"
+  },
+  "msha": [
+    {
+      "mine_id": "2302009",
+      "name": "Auxvasse South Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2013-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

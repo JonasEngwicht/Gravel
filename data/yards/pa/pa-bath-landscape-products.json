@@ -1,0 +1,36 @@
+{
+  "id": "pa-bath-landscape-products",
+  "slug": "landscape-products",
+  "name": "Landscape Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7916 Beth-Bath Pike",
+    "city": "Bath",
+    "state": "PA",
+    "zip": "18014"
+  },
+  "location": {
+    "lat": 40.716446,
+    "lng": -75.39399
+  },
+  "contact": {
+    "phone": "(610) 837-8888",
+    "website": "http://www.landscapeproducts.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a0507622-7b72-4856-8b79-2ff4cc2415f8",
+    "confidence": 0.971,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "al-huntsville-siteone-landscape-supply-3090-leeman-ferry-rd-sw",
+  "slug": "siteone-landscape-supply-3090-leeman-ferry-rd-sw",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3090 Leeman Ferry Rd SW",
+    "city": "Huntsville",
+    "state": "AL",
+    "zip": "35801"
+  },
+  "location": {
+    "lat": 34.698891,
+    "lng": -86.591858
+  },
+  "contact": {
+    "phone": "(256) 881-0084",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "084ac8fd-5906-481c-9c4b-0c56b63701ec",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

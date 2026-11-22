@@ -1,0 +1,41 @@
+{
+  "id": "mi-st-johns-carl-schlegel-inc-martin-pit",
+  "slug": "carl-schlegel-inc-martin-pit",
+  "name": "Carl Schlegel Inc Martin Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "St. Johns",
+    "state": "MI",
+    "zip": "48879"
+  },
+  "location": {
+    "lat": 43.041111,
+    "lng": -84.484167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2001763"
+  },
+  "msha": [
+    {
+      "mine_id": "2001763",
+      "name": "Carl Schlegel Inc Martin Pit",
+      "operator": "Carl Schlegel Inc",
+      "status": "Active",
+      "status_since": "2022-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

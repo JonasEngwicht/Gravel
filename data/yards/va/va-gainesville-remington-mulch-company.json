@@ -1,0 +1,36 @@
+{
+  "id": "va-gainesville-remington-mulch-company",
+  "slug": "remington-mulch-company",
+  "name": "Remington Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14601 Lee Hwy",
+    "city": "Gainesville",
+    "state": "VA",
+    "zip": "20155"
+  },
+  "location": {
+    "lat": 38.790394,
+    "lng": -77.627663
+  },
+  "contact": {
+    "phone": "(703) 753-3838",
+    "website": "http://www.remingtonmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a281e43c-4c99-44d8-9c28-571708de2347",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

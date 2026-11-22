@@ -1,0 +1,41 @@
+{
+  "id": "wa-snoqualmie-snoqualmie-s-and-g-dba-calportland-company",
+  "slug": "snoqualmie-s-and-g-dba-calportland-company",
+  "name": "Snoqualmie S&G dba CalPortland Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Snoqualmie",
+    "state": "WA",
+    "zip": "98065"
+  },
+  "location": {
+    "lat": 47.551389,
+    "lng": -121.8125
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503136"
+  },
+  "msha": [
+    {
+      "mine_id": "4503136",
+      "name": "Snoqualmie S&G dba CalPortland Company",
+      "operator": "CalPortland Company",
+      "status": "Active",
+      "status_since": "2020-03-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 29
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-mason-county-line-mulch-inc",
+  "slug": "county-line-mulch-inc",
+  "name": "County Line Mulch Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7464 Butler Warren Rd",
+    "city": "Mason",
+    "state": "OH",
+    "zip": "45040"
+  },
+  "location": {
+    "lat": 39.329582,
+    "lng": -84.348671
+  },
+  "contact": {
+    "phone": "(513) 398-1532",
+    "website": "https://www.countylinemulchmason.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ee410587-a766-4f1c-a2dc-4dfdd4e023b9",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

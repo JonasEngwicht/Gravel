@@ -1,0 +1,35 @@
+{
+  "id": "fl-west-palm-beach-florida-aggregate-transport-corp",
+  "slug": "florida-aggregate-transport-corp",
+  "name": "Florida Aggregate Transport Corp",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1822 Okeechobee Rd",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "zip": "33409"
+  },
+  "location": {
+    "lat": 26.702066,
+    "lng": -80.075035
+  },
+  "contact": {
+    "phone": "(561) 649-1655"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5c1ac760-3546-4e7f-8f1b-9eb68ae12af7",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

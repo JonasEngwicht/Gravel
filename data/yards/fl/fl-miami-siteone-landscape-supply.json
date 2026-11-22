@@ -1,0 +1,37 @@
+{
+  "id": "fl-miami-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "12951 SW 89th Ct",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33176"
+  },
+  "location": {
+    "lat": 25.649773,
+    "lng": -80.339165
+  },
+  "contact": {
+    "phone": "(305) 406-2533",
+    "website": "https://www.siteone.com/store/221"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "691810b6-cb43-4713-8a64-38925e8a18ec",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

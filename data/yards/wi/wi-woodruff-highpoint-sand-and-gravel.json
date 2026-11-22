@@ -1,0 +1,36 @@
+{
+  "id": "wi-woodruff-highpoint-sand-and-gravel",
+  "slug": "highpoint-sand-and-gravel",
+  "name": "Highpoint Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7518 CR-D",
+    "city": "Woodruff",
+    "state": "WI",
+    "zip": "54539"
+  },
+  "location": {
+    "lat": 45.832344,
+    "lng": -89.551147
+  },
+  "contact": {
+    "phone": "(715) 356-7263",
+    "website": "http://highpointsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "08460692-3429-4016-a920-fff59a0cb7fc",
+    "confidence": 0.718,
+    "merged_records": 2
+  }
+}

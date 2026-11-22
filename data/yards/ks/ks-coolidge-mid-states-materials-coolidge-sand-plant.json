@@ -1,0 +1,41 @@
+{
+  "id": "ks-coolidge-mid-states-materials-coolidge-sand-plant",
+  "slug": "mid-states-materials-coolidge-sand-plant",
+  "name": "Mid-States Materials – Coolidge Sand Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Coolidge",
+    "state": "KS",
+    "zip": "67836"
+  },
+  "location": {
+    "lat": 38.029167,
+    "lng": -102.029444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401647"
+  },
+  "msha": [
+    {
+      "mine_id": "1401647",
+      "name": "Coolidge Sand Plant",
+      "operator": "Mid-States Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2026-04-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

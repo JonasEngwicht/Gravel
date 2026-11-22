@@ -1,0 +1,37 @@
+{
+  "id": "mi-muskegon-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2151 Harvey St",
+    "city": "Muskegon",
+    "state": "MI",
+    "zip": "49442"
+  },
+  "location": {
+    "lat": 43.213371,
+    "lng": -86.205849
+  },
+  "contact": {
+    "phone": "(616) 844-0445",
+    "website": "https://www.siteone.com/store/757"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41a44e78-0197-41ae-9ffb-2730176c6e61",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

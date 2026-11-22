@@ -1,0 +1,46 @@
+{
+  "id": "ar-jonesboro-hedger-aggregate",
+  "slug": "hedger-aggregate",
+  "name": "Hedger Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4928 AR-141",
+    "city": "Jonesboro",
+    "state": "AR",
+    "zip": "72401"
+  },
+  "location": {
+    "lat": 35.9184,
+    "lng": -90.697929
+  },
+  "contact": {
+    "phone": "(870) 933-9050"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2810e62b-f6bc-424c-af91-9475830b57af",
+    "confidence": 0.508,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0301722",
+      "name": "Hedger Aggregates Incorporated",
+      "operator": "Hedger Aggregate Inc",
+      "status": "Abandoned",
+      "status_since": "2025-11-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

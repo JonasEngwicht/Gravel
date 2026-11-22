@@ -1,0 +1,48 @@
+{
+  "id": "ny-portville-portville-sand-and-gravel",
+  "slug": "portville-sand-and-gravel",
+  "name": "Portville Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "329 Barbertown Rd",
+    "city": "Portville",
+    "state": "NY",
+    "zip": "14770"
+  },
+  "location": {
+    "lat": 42.016472,
+    "lng": -78.338478
+  },
+  "contact": {
+    "phone": "(716) 933-8787",
+    "website": "http://www.iaconstruction.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1dafaec1-1b00-4c0c-93db-b6c9d3ba8987",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3000949",
+      "name": "Portville Sand & Gravel",
+      "operator": "I A Construction Corp",
+      "status": "Active",
+      "status_since": "2026-04-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

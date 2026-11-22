@@ -1,0 +1,41 @@
+{
+  "id": "il-marshall-quality-lime",
+  "slug": "quality-lime",
+  "name": "Quality Lime",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Marshall",
+    "state": "IL",
+    "zip": "62441"
+  },
+  "location": {
+    "lat": 39.374722,
+    "lng": -87.666111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100173"
+  },
+  "msha": [
+    {
+      "mine_id": "1100173",
+      "name": "Quality Lime Company",
+      "operator": "Quality Lime Company",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "me-manchester-castonguay-sand-and-gravel-chesterville-pit",
+  "slug": "castonguay-sand-and-gravel-chesterville-pit",
+  "name": "Castonguay Sand and Gravel – Chesterville Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Manchester",
+    "state": "ME",
+    "zip": "04940"
+  },
+  "location": {
+    "lat": 44.567222,
+    "lng": -70.076667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700977"
+  },
+  "msha": [
+    {
+      "mine_id": "1700977",
+      "name": "Chesterville Pit",
+      "operator": "Castonguay Sand and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2015-11-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

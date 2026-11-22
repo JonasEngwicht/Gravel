@@ -1,0 +1,35 @@
+{
+  "id": "ok-norman-barrett-s-trucking-sand-and-gravel",
+  "slug": "barrett-s-trucking-sand-and-gravel",
+  "name": "Barrett's Trucking Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6100 Wooster St",
+    "city": "Norman",
+    "state": "OK",
+    "zip": "73071"
+  },
+  "location": {
+    "lat": 35.291634,
+    "lng": -97.418449
+  },
+  "contact": {
+    "phone": "(405) 321-2945"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "81bc2435-7e26-4db4-9dc7-233c0c097dfe",
+    "confidence": 0.599,
+    "merged_records": 1
+  }
+}

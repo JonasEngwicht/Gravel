@@ -1,0 +1,41 @@
+{
+  "id": "la-angie-slats-lucas-sand-and-gravel-angie-louisiana-plant",
+  "slug": "slats-lucas-sand-and-gravel-angie-louisiana-plant",
+  "name": "Slats Lucas Sand and Gravel – Angie Louisiana Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Angie",
+    "state": "LA",
+    "zip": "70426"
+  },
+  "location": {
+    "lat": 30.951111,
+    "lng": -89.776111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601611"
+  },
+  "msha": [
+    {
+      "mine_id": "1601611",
+      "name": "Angie Louisiana Plant",
+      "operator": "Slats Lucas Sand and Gravel LLC",
+      "status": "Active",
+      "status_since": "2022-06-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

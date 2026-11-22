@@ -1,0 +1,41 @@
+{
+  "id": "ca-redding-stimpel-wiebelhaus-associates-swa-mountain-gate-quarry",
+  "slug": "stimpel-wiebelhaus-associates-swa-mountain-gate-quarry",
+  "name": "Stimpel Wiebelhaus Associates – SWA @ Mountain Gate Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Redding",
+    "state": "CA",
+    "zip": "96003"
+  },
+  "location": {
+    "lat": 40.726389,
+    "lng": -122.302778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405504"
+  },
+  "msha": [
+    {
+      "mine_id": "0405504",
+      "name": "SWA @ Mountain Gate Quarry",
+      "operator": "Stimpel Wiebelhaus Associates, Inc.",
+      "status": "Active",
+      "status_since": "2001-10-21",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

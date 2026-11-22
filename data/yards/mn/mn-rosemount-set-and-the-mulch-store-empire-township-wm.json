@@ -1,0 +1,36 @@
+{
+  "id": "mn-rosemount-set-and-the-mulch-store-empire-township-wm",
+  "slug": "set-and-the-mulch-store-empire-township-wm",
+  "name": "SET & The Mulch Store - Empire Township | WM",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "16454 Blaine Ave",
+    "city": "Rosemount",
+    "state": "MN",
+    "zip": "55068"
+  },
+  "location": {
+    "lat": 44.71043,
+    "lng": -93.055153
+  },
+  "contact": {
+    "phone": "(651) 423-4401",
+    "website": "https://setmn.com/locations/empire/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8577d157-9d89-4e30-9f37-83c7ee14bcf6",
+    "confidence": 0.993,
+    "merged_records": 1
+  }
+}

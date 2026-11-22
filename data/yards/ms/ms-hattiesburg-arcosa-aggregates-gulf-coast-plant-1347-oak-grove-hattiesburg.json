@@ -1,0 +1,41 @@
+{
+  "id": "ms-hattiesburg-arcosa-aggregates-gulf-coast-plant-1347-oak-grove-hattiesburg",
+  "slug": "arcosa-aggregates-gulf-coast-plant-1347-oak-grove-hattiesburg",
+  "name": "Arcosa Aggregates Gulf Coast – Plant 1347-Oak Grove/Hattiesburg",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hattiesburg",
+    "state": "MS",
+    "zip": "39406"
+  },
+  "location": {
+    "lat": 31.359444,
+    "lng": -89.286111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200823"
+  },
+  "msha": [
+    {
+      "mine_id": "2200823",
+      "name": "Plant 1347-Oak Grove/Hattiesburg",
+      "operator": "Arcosa Aggregates Gulf Coast, LLC",
+      "status": "Active",
+      "status_since": "2016-02-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

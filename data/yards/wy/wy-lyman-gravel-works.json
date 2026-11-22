@@ -1,0 +1,36 @@
+{
+  "id": "wy-lyman-gravel-works",
+  "slug": "gravel-works",
+  "name": "Gravel Works",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1711 Steeple Ave",
+    "city": "Lyman",
+    "state": "WY",
+    "zip": "82937"
+  },
+  "location": {
+    "lat": 41.321144,
+    "lng": -110.334358
+  },
+  "contact": {
+    "phone": "(307) 786-2373",
+    "website": "http://www.gravelworks.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ae803960-3b97-401f-8549-5f012e2091c2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

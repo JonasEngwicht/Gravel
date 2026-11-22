@@ -1,0 +1,36 @@
+{
+  "id": "il-moline-qc-mulch-depot",
+  "slug": "qc-mulch-depot",
+  "name": "QC Mulch Depot",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4860 31st St",
+    "city": "Moline",
+    "state": "IL",
+    "zip": "61265"
+  },
+  "location": {
+    "lat": 41.463505,
+    "lng": -90.494156
+  },
+  "contact": {
+    "phone": "(309) 654-2261",
+    "website": "https://www.xylemltd.com/qc-mulch"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "95024202-dc42-487b-9281-a1f49afc68cc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

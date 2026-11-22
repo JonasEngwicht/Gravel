@@ -1,0 +1,37 @@
+{
+  "id": "id-idaho-falls-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4030 N Haroldsen Dr",
+    "city": "Idaho Falls",
+    "state": "ID",
+    "zip": "83401"
+  },
+  "location": {
+    "lat": 43.532452,
+    "lng": -112.01207
+  },
+  "contact": {
+    "phone": "(208) 227-0695",
+    "website": "https://www.siteone.com/store/290"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c9486f5b-b901-4957-b461-082f597116ca",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

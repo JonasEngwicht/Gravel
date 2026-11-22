@@ -1,0 +1,36 @@
+{
+  "id": "tx-corsicana-cortez-gravel-and-lawn-service",
+  "slug": "cortez-gravel-and-lawn-service",
+  "name": "Cortez Gravel and Lawn Service",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3021 N Business 45",
+    "city": "Corsicana",
+    "state": "TX",
+    "zip": "75110"
+  },
+  "location": {
+    "lat": 32.125401,
+    "lng": -96.465782
+  },
+  "contact": {
+    "phone": "(214) 949-3106",
+    "website": "https://sites.google.com/view/cortezgravelandlawnservice/home"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "92fbe62b-77a6-49a1-8b1a-a2fefea2b9ea",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

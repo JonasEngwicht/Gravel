@@ -1,0 +1,41 @@
+{
+  "id": "ma-wilmington-benevento-sand-and-stone-north-wilmington-quarry",
+  "slug": "benevento-sand-and-stone-north-wilmington-quarry",
+  "name": "Benevento Sand & Stone – North Wilmington Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wilmington",
+    "state": "MA",
+    "zip": "01887"
+  },
+  "location": {
+    "lat": 42.583056,
+    "lng": -71.130833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900288"
+  },
+  "msha": [
+    {
+      "mine_id": "1900288",
+      "name": "North Wilmington Quarry",
+      "operator": "Benevento Sand & Stone Corp",
+      "status": "Active",
+      "status_since": "2009-01-07",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 32
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-indio-hi-grade-materials-hj-hove",
+  "slug": "hi-grade-materials-hj-hove",
+  "name": "Hi-Grade Materials – Hj Hove",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Indio",
+    "state": "CA",
+    "zip": "92203"
+  },
+  "location": {
+    "lat": 33.768889,
+    "lng": -116.237222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401854"
+  },
+  "msha": [
+    {
+      "mine_id": "0401854",
+      "name": "Hj Hove",
+      "operator": "Hi-Grade Materials Co.",
+      "status": "Active",
+      "status_since": "2017-06-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

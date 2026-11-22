@@ -1,0 +1,41 @@
+{
+  "id": "in-metamora-harrison-sand-and-gravel-company-metamora-pit",
+  "slug": "harrison-sand-and-gravel-company-metamora-pit",
+  "name": "Harrison Sand & Gravel Company – Metamora Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Metamora",
+    "state": "IN",
+    "zip": "47024"
+  },
+  "location": {
+    "lat": 39.457222,
+    "lng": -85.158889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202049"
+  },
+  "msha": [
+    {
+      "mine_id": "1202049",
+      "name": "Metamora Pit",
+      "operator": "Harrison Sand & Gravel Company Inc",
+      "status": "Active",
+      "status_since": "2026-10-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

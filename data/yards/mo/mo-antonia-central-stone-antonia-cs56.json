@@ -1,0 +1,41 @@
+{
+  "id": "mo-antonia-central-stone-antonia-cs56",
+  "slug": "central-stone-antonia-cs56",
+  "name": "Central Stone – Antonia (Cs56)",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Antonia",
+    "state": "MO",
+    "zip": "63012"
+  },
+  "location": {
+    "lat": 38.368056,
+    "lng": -90.480278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301957"
+  },
+  "msha": [
+    {
+      "mine_id": "2301957",
+      "name": "Antonia (Cs56)",
+      "operator": "Central Stone Company",
+      "status": "Active",
+      "status_since": "2013-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

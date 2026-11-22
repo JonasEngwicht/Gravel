@@ -1,0 +1,36 @@
+{
+  "id": "fl-oakland-park-melrose-irrigation-siteone-landscape-supply",
+  "slug": "melrose-irrigation-siteone-landscape-supply",
+  "name": "Melrose Irrigation / SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "271 E Oakland Park Blvd",
+    "city": "Oakland Park",
+    "state": "FL",
+    "zip": "33334"
+  },
+  "location": {
+    "lat": 26.166649,
+    "lng": -80.143211
+  },
+  "contact": {
+    "phone": "(954) 563-1303",
+    "website": "https://www.melrosesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ded8aa9a-6a9a-4f67-b0bd-e14797d19772",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

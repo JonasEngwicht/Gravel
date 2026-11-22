@@ -1,0 +1,41 @@
+{
+  "id": "oh-franklin-lockbourne-materials",
+  "slug": "lockbourne-materials",
+  "name": "Lockbourne Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Franklin",
+    "state": "OH",
+    "zip": "43137"
+  },
+  "location": {
+    "lat": 39.813611,
+    "lng": -82.988611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304807"
+  },
+  "msha": [
+    {
+      "mine_id": "3304807",
+      "name": "Lockbourne",
+      "operator": "Lockbourne Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2025-05-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

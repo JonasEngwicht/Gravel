@@ -1,0 +1,36 @@
+{
+  "id": "oh-wintersville-rawson-mulch-and-more",
+  "slug": "rawson-mulch-and-more",
+  "name": "Rawson Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "14700 Ohio 152, 133 Canton Road",
+    "city": "Wintersville",
+    "state": "OH",
+    "zip": "43964"
+  },
+  "location": {
+    "lat": 40.49588,
+    "lng": -80.695396
+  },
+  "contact": {
+    "phone": "(740) 544-5767",
+    "website": "https://www.rawsonsmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68b2aa81-df1f-4924-a5e7-9e4ec5323330",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

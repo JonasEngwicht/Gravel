@@ -1,0 +1,41 @@
+{
+  "id": "ca-alturas-larranaga-trucking-and-construction",
+  "slug": "larranaga-trucking-and-construction",
+  "name": "Larranaga Trucking & Construction",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Alturas",
+    "state": "CA",
+    "zip": "96101"
+  },
+  "location": {
+    "lat": 41.348611,
+    "lng": -120.563889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405523"
+  },
+  "msha": [
+    {
+      "mine_id": "0405523",
+      "name": "Larranaga Pit",
+      "operator": "Larranaga Trucking & Construction",
+      "status": "Intermittent",
+      "status_since": "2014-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ms-petal-morning-glory-mulch",
+  "slug": "morning-glory-mulch",
+  "name": "Morning Glory Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "724 Morriston Rd",
+    "city": "Petal",
+    "state": "MS",
+    "zip": "39465"
+  },
+  "location": {
+    "lat": 31.418221,
+    "lng": -89.189857
+  },
+  "contact": {
+    "phone": "(601) 544-1955",
+    "website": "http://www.morningglorymulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf7748bc-36be-4676-9ff0-cebec7691b63",
+    "confidence": 0.543,
+    "merged_records": 1
+  }
+}

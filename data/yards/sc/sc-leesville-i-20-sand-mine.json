@@ -1,0 +1,41 @@
+{
+  "id": "sc-leesville-i-20-sand-mine",
+  "slug": "i-20-sand-mine",
+  "name": "I-20 Sand Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Leesville",
+    "state": "SC",
+    "zip": "29123"
+  },
+  "location": {
+    "lat": 33.8175,
+    "lng": -81.345556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800763"
+  },
+  "msha": [
+    {
+      "mine_id": "3800763",
+      "name": "I-20 Sand Mine LLC",
+      "operator": "I-20 Sand Mine LLC",
+      "status": "Active",
+      "status_since": "2025-09-04",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

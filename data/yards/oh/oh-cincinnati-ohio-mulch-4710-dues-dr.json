@@ -1,0 +1,37 @@
+{
+  "id": "oh-cincinnati-ohio-mulch-4710-dues-dr",
+  "slug": "ohio-mulch-4710-dues-dr",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "4710 Dues Dr",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45246"
+  },
+  "location": {
+    "lat": 39.313095,
+    "lng": -84.46682
+  },
+  "contact": {
+    "phone": "(513) 671-8770",
+    "website": "http://www.ohiomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "416efc64-69af-4b76-86c0-112d33dc4c5b",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "co-denver-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "6041 Huron St",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80221"
+  },
+  "location": {
+    "lat": 39.806194,
+    "lng": -104.997513
+  },
+  "contact": {
+    "phone": "(303) 428-0594",
+    "website": "http://www.mcshardscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "64044fa6-65f2-463f-a5a4-ffd01df61293",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

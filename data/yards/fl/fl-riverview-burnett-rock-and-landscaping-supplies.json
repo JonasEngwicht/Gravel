@@ -1,0 +1,35 @@
+{
+  "id": "fl-riverview-burnett-rock-and-landscaping-supplies",
+  "slug": "burnett-rock-and-landscaping-supplies",
+  "name": "Burnett Rock & Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6348 US Highway 301 S",
+    "city": "Riverview",
+    "state": "FL",
+    "zip": "33578"
+  },
+  "location": {
+    "lat": 27.889137,
+    "lng": -82.331757
+  },
+  "contact": {
+    "phone": "(813) 677-0882"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b90eeed-c838-4e14-b546-9b7f5777fdbd",
+    "confidence": 0.534,
+    "merged_records": 1
+  }
+}

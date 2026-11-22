@@ -1,0 +1,35 @@
+{
+  "id": "pa-erie-mclallen-construction-and-landscape-supply",
+  "slug": "mclallen-construction-and-landscape-supply",
+  "name": "McLallen Construction & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8349 Edinboro Rd",
+    "city": "Erie",
+    "state": "PA",
+    "zip": "16509"
+  },
+  "location": {
+    "lat": 42.022179,
+    "lng": -80.122826
+  },
+  "contact": {
+    "phone": "(814) 476-0309"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "60156860-c29f-44c1-97ef-eb36c056558d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

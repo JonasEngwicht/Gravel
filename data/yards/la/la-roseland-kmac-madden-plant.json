@@ -1,0 +1,41 @@
+{
+  "id": "la-roseland-kmac-madden-plant",
+  "slug": "kmac-madden-plant",
+  "name": "KMAC/Madden Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Roseland",
+    "state": "LA",
+    "zip": "70456"
+  },
+  "location": {
+    "lat": 30.776111,
+    "lng": -90.483889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601604"
+  },
+  "msha": [
+    {
+      "mine_id": "1601604",
+      "name": "KMAC/Madden Plant",
+      "operator": "KMAC Aggregates LLC",
+      "status": "Active",
+      "status_since": "2021-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

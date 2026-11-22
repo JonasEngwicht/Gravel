@@ -1,0 +1,36 @@
+{
+  "id": "nc-denver-lake-norman-sand-and-gravel-inc",
+  "slug": "lake-norman-sand-and-gravel-inc",
+  "name": "Lake Norman Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7512 Optimist Club Rd",
+    "city": "Denver",
+    "state": "NC",
+    "zip": "28037"
+  },
+  "location": {
+    "lat": 35.47641,
+    "lng": -81.020226
+  },
+  "contact": {
+    "phone": "(704) 483-6200",
+    "website": "http://lake-norman-sand-gravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d9d6a0e-f41f-4843-97d3-5554a5a5959c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

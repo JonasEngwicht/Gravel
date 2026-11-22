@@ -1,0 +1,37 @@
+{
+  "id": "ia-johnston-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "6060 NW Beaver Dr",
+    "city": "Johnston",
+    "state": "IA",
+    "zip": "50131"
+  },
+  "location": {
+    "lat": 41.670929,
+    "lng": -93.682373
+  },
+  "contact": {
+    "phone": "(515) 270-8844",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b1ed86c-971e-412e-9019-091c90247fe7",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

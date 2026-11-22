@@ -1,0 +1,36 @@
+{
+  "id": "mo-independence-empire-landscape-materials",
+  "slug": "empire-landscape-materials",
+  "name": "Empire Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2001 S MO-291",
+    "city": "Independence",
+    "state": "MO",
+    "zip": "64057"
+  },
+  "location": {
+    "lat": 39.083263,
+    "lng": -94.378304
+  },
+  "contact": {
+    "phone": "(816) 257-5272",
+    "website": "http://empirelandscapematerials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb40473f-eccf-4dc8-acba-4d618128db3b",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

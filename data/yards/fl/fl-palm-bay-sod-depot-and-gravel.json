@@ -1,0 +1,36 @@
+{
+  "id": "fl-palm-bay-sod-depot-and-gravel",
+  "slug": "sod-depot-and-gravel",
+  "name": "Sod Depot & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1378 Malabar Rd",
+    "city": "Palm Bay",
+    "state": "FL",
+    "zip": "32907"
+  },
+  "location": {
+    "lat": 27.997854,
+    "lng": -80.615547
+  },
+  "contact": {
+    "phone": "(321) 728-2766",
+    "website": "http://www.soddepotgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1eefb4c6-6154-49af-9962-def7147176a0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

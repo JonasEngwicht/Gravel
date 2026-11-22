@@ -1,0 +1,37 @@
+{
+  "id": "sc-columbia-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "6320 Fairfield Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203"
+  },
+  "location": {
+    "lat": 34.071251,
+    "lng": -81.023766
+  },
+  "contact": {
+    "phone": "(803) 851-6513",
+    "website": "https://www.siteone.com/store/804"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3f24a52-2b9e-49c2-b1d0-8692682499a7",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

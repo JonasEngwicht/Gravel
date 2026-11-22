@@ -1,0 +1,49 @@
+{
+  "id": "oh-north-bend-martin-marietta-elizabethtown-sand-and-gravel",
+  "slug": "martin-marietta-elizabethtown-sand-and-gravel",
+  "name": "Martin Marietta - Elizabethtown Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "10905 US Highway 50",
+    "city": "North Bend",
+    "state": "OH",
+    "zip": "45052"
+  },
+  "location": {
+    "lat": 39.161335,
+    "lng": -84.796013
+  },
+  "contact": {
+    "phone": "(800) 331-4242",
+    "website": "https://www.martinmarietta.com/locations/central/ohio-district/elizabethtown-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7dcb389b-5c0b-4ed6-ba1a-5e8621ffbf9c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304279",
+      "name": "E-Town S&G - 460",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2012-06-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

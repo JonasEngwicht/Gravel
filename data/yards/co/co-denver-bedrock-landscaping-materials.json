@@ -1,0 +1,35 @@
+{
+  "id": "co-denver-bedrock-landscaping-materials",
+  "slug": "bedrock-landscaping-materials",
+  "name": "Bedrock Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4704 Harlan St, suite 675",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80212"
+  },
+  "location": {
+    "lat": 39.782612,
+    "lng": -105.0616
+  },
+  "contact": {
+    "website": "http://bedrocklandscapingmaterial.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b373385c-5a5e-4756-8925-60378b4255d9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

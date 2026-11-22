@@ -1,0 +1,41 @@
+{
+  "id": "ok-bixby-watkins-sand-co-129th-east-ave-pit",
+  "slug": "watkins-sand-co-129th-east-ave-pit",
+  "name": "Watkins Sand Co – 129th East Ave Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bixby",
+    "state": "OK",
+    "zip": "74008"
+  },
+  "location": {
+    "lat": 35.929722,
+    "lng": -95.8325
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401916"
+  },
+  "msha": [
+    {
+      "mine_id": "3401916",
+      "name": "129th East Ave Pit",
+      "operator": "Watkins Sand Co Inc",
+      "status": "Active",
+      "status_since": "2005-10-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

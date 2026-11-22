@@ -1,0 +1,35 @@
+{
+  "id": "va-stafford-island-landscape-supply",
+  "slug": "island-landscape-supply",
+  "name": "Island Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1546 Richmond Hwy",
+    "city": "Stafford",
+    "state": "VA",
+    "zip": "22554"
+  },
+  "location": {
+    "lat": 38.395828,
+    "lng": -77.428482
+  },
+  "contact": {
+    "phone": "(571) 233-5554"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9ef788c1-4130-42d0-ba3e-9efd4d687a27",
+    "confidence": 0.569,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ky-erlanger-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3635 Ohara Rd",
+    "city": "Erlanger",
+    "state": "KY",
+    "zip": "41018"
+  },
+  "location": {
+    "lat": 39.036858,
+    "lng": -84.63871
+  },
+  "contact": {
+    "phone": "(859) 282-9731",
+    "website": "https://www.siteone.com/store/523"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc708902-a240-4809-8610-8b1a1bf302b0",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

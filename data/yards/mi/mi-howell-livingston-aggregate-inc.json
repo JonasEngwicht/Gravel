@@ -1,0 +1,35 @@
+{
+  "id": "mi-howell-livingston-aggregate-inc",
+  "slug": "livingston-aggregate-inc",
+  "name": "Livingston Aggregate, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1335 E Barron Rd",
+    "city": "Howell",
+    "state": "MI",
+    "zip": "48855"
+  },
+  "location": {
+    "lat": 42.650284,
+    "lng": -83.922852
+  },
+  "contact": {
+    "phone": "(517) 546-6825"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "82f70aa5-7f5b-4b5d-89fb-9af51130bab4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "fl-pensacola-siteone-landscape-supply-540-w-michigan-ave",
+  "slug": "siteone-landscape-supply-540-w-michigan-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "540 W Michigan Ave",
+    "city": "Pensacola",
+    "state": "FL",
+    "zip": "32505"
+  },
+  "location": {
+    "lat": 30.46596,
+    "lng": -87.256317
+  },
+  "contact": {
+    "phone": "(850) 434-5475",
+    "website": "https://www.siteone.com/store/424"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e16a05d9-f03f-4526-b9ca-1f1fa7e9968d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

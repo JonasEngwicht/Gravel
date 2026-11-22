@@ -1,0 +1,36 @@
+{
+  "id": "il-allendale-allendale-gravel-co",
+  "slug": "allendale-gravel-co",
+  "name": "Allendale Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18306 Wabash 18 Ave",
+    "city": "Allendale",
+    "state": "IL",
+    "zip": "62410"
+  },
+  "location": {
+    "lat": 38.485813,
+    "lng": -87.737785
+  },
+  "contact": {
+    "phone": "(618) 263-3521",
+    "website": "http://www.contractors.com/h/contractorinfo/details.html?contractor_id=4572826&affid=101"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5172e0d2-ca18-4236-8d98-01d95cdc934c",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

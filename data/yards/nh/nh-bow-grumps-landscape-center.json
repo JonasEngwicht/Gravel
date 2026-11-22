@@ -1,0 +1,36 @@
+{
+  "id": "nh-bow-grumps-landscape-center",
+  "slug": "grumps-landscape-center",
+  "name": "Grumps Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "98 Dow Rd",
+    "city": "Bow",
+    "state": "NH",
+    "zip": "03304"
+  },
+  "location": {
+    "lat": 43.155014,
+    "lng": -71.511414
+  },
+  "contact": {
+    "phone": "(603) 290-1463",
+    "website": "http://www.grumpsnh.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa4799e6-9560-4486-b76c-52a58c0352a5",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "mo-wayland-douds-stone-wayland-stone",
+  "slug": "douds-stone-wayland-stone",
+  "name": "Douds Stone – Wayland Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wayland",
+    "state": "MO",
+    "zip": "63472"
+  },
+  "location": {
+    "lat": 40.415,
+    "lng": -91.572778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302462"
+  },
+  "msha": [
+    {
+      "mine_id": "2302462",
+      "name": "Wayland Stone",
+      "operator": "Douds Stone",
+      "status": "Intermittent",
+      "status_since": "2021-03-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

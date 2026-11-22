@@ -1,0 +1,41 @@
+{
+  "id": "tn-mooresburg-red-star-aggregates",
+  "slug": "red-star-aggregates",
+  "name": "Red Star Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mooresburg",
+    "state": "TN",
+    "zip": "37811"
+  },
+  "location": {
+    "lat": 36.361111,
+    "lng": -83.160278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003631"
+  },
+  "msha": [
+    {
+      "mine_id": "4003631",
+      "name": "Red Star Aggregates",
+      "operator": "Red Star Aggregates LLC",
+      "status": "Active",
+      "status_since": "2025-11-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

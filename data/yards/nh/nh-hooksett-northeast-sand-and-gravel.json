@@ -1,0 +1,36 @@
+{
+  "id": "nh-hooksett-northeast-sand-and-gravel",
+  "slug": "northeast-sand-and-gravel",
+  "name": "Northeast Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "209 West River Rd  Unit 4",
+    "city": "Hooksett",
+    "state": "NH",
+    "zip": "03106"
+  },
+  "location": {
+    "lat": 43.062534,
+    "lng": -71.465874
+  },
+  "contact": {
+    "phone": "(603) 878-0035",
+    "website": "https://nesand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e4e8fd24-4ca1-45e7-8d62-80cd0bd042b9",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

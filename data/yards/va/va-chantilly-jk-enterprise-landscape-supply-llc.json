@@ -1,0 +1,36 @@
+{
+  "id": "va-chantilly-jk-enterprise-landscape-supply-llc",
+  "slug": "jk-enterprise-landscape-supply-llc",
+  "name": "JK Enterprise Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "42531 John Mosby Hwy",
+    "city": "Chantilly",
+    "state": "VA",
+    "zip": "20152"
+  },
+  "location": {
+    "lat": 38.934231,
+    "lng": -77.531754
+  },
+  "contact": {
+    "phone": "(703) 327-0771",
+    "website": "http://lumberjake.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b828b956-50d9-4414-a4df-3bdb75f7b527",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

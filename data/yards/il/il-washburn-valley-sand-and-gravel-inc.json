@@ -1,0 +1,36 @@
+{
+  "id": "il-washburn-valley-sand-and-gravel-inc",
+  "slug": "valley-sand-and-gravel-inc",
+  "name": "Valley Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "212 Tax School Rd",
+    "city": "Washburn",
+    "state": "IL",
+    "zip": "61570"
+  },
+  "location": {
+    "lat": 40.954872,
+    "lng": -89.308044
+  },
+  "contact": {
+    "phone": "(309) 248-7566",
+    "website": "https://www.valleysandandgravel.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7a615ec-e35c-4dd6-b667-b0f2536808fe",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

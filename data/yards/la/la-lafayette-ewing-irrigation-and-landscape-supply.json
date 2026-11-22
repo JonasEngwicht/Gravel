@@ -1,0 +1,37 @@
+{
+  "id": "la-lafayette-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "2411 S College Rd",
+    "city": "Lafayette",
+    "state": "LA",
+    "zip": "70508"
+  },
+  "location": {
+    "lat": 30.184217,
+    "lng": -91.995834
+  },
+  "contact": {
+    "phone": "(337) 234-0037",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19ff221f-a1b8-4e41-945a-0260fcb86739",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-dallas-the-mountain-stone-supply",
+  "slug": "the-mountain-stone-supply",
+  "name": "The Mountain Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "10562 Luna Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75220"
+  },
+  "location": {
+    "lat": 32.868938,
+    "lng": -96.919434
+  },
+  "contact": {
+    "phone": "(469) 420-9538",
+    "website": "http://www.mountainstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7775c54a-e848-4e38-9888-58c5f5296dd8",
+    "confidence": 0.501,
+    "merged_records": 1
+  }
+}

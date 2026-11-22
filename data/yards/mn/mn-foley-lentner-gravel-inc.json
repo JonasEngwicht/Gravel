@@ -1,0 +1,36 @@
+{
+  "id": "mn-foley-lentner-gravel-inc",
+  "slug": "lentner-gravel-inc",
+  "name": "Lentner Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12934 175th St NE",
+    "city": "Foley",
+    "state": "MN",
+    "zip": "56329"
+  },
+  "location": {
+    "lat": 45.820168,
+    "lng": -93.901154
+  },
+  "contact": {
+    "phone": "(320) 355-2423",
+    "website": "https://www.lentner-gravel-inc.hub.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2c73396f-1ce1-4871-a497-0e57fdaa1e37",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "or-eugene-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1285 Wallis St",
+    "city": "Eugene",
+    "state": "OR",
+    "zip": "97402"
+  },
+  "location": {
+    "lat": 44.046978,
+    "lng": -123.155716
+  },
+  "contact": {
+    "phone": "(541) 342-1203",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "09cad34d-54d7-4373-8584-06285cb14709",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

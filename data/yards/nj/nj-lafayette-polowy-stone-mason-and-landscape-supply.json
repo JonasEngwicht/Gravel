@@ -1,0 +1,36 @@
+{
+  "id": "nj-lafayette-polowy-stone-mason-and-landscape-supply",
+  "slug": "polowy-stone-mason-and-landscape-supply",
+  "name": "Polowy Stone Mason & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "27 State Route 94",
+    "city": "Lafayette",
+    "state": "NJ",
+    "zip": "07848"
+  },
+  "location": {
+    "lat": 41.087784,
+    "lng": -74.728622
+  },
+  "contact": {
+    "phone": "(973) 579-2224",
+    "website": "http://Www.polowybrothers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "08643a13-f09e-4902-b8c1-c7b21f396753",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

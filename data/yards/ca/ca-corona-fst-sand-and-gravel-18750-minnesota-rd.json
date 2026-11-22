@@ -1,0 +1,58 @@
+{
+  "id": "ca-corona-fst-sand-and-gravel-18750-minnesota-rd",
+  "slug": "fst-sand-and-gravel-18750-minnesota-rd",
+  "name": "Fst Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "18750 Minnesota Rd",
+    "city": "Corona",
+    "state": "CA",
+    "zip": "92881"
+  },
+  "location": {
+    "lat": 33.846855,
+    "lng": -117.509483
+  },
+  "contact": {
+    "phone": "(951) 280-1351",
+    "website": "http://www.fstsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea96ba70-e850-437c-a799-b7f2f77d5ecb",
+    "confidence": 0.594,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0400191",
+      "name": "3M Corona Plant",
+      "operator": "3M Company",
+      "status": "Active",
+      "status_since": "1973-05-25",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 85
+    },
+    {
+      "mine_id": "0405075",
+      "name": "3M",
+      "operator": "FST Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "1994-11-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 93
+    }
+  ]
+}

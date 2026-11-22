@@ -1,0 +1,41 @@
+{
+  "id": "ga-hephzibah-southeast-sand-and-aggregates",
+  "slug": "southeast-sand-and-aggregates",
+  "name": "Southeast Sand and Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hephzibah",
+    "state": "GA",
+    "zip": "30815"
+  },
+  "location": {
+    "lat": 33.314167,
+    "lng": -82.096667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901234"
+  },
+  "msha": [
+    {
+      "mine_id": "0901234",
+      "name": "Southeast Sand and Aggregates LLC",
+      "operator": "Southeast Sand and Aggregates LLC",
+      "status": "Active",
+      "status_since": "2014-11-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

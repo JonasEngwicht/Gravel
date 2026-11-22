@@ -1,0 +1,36 @@
+{
+  "id": "sc-liberty-enviro-mulch-landscape-supply-ipema-certified",
+  "slug": "enviro-mulch-landscape-supply-ipema-certified",
+  "name": "Enviro Mulch Landscape Supply IPEMA certified",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1240 Chastain Rd",
+    "city": "Liberty",
+    "state": "SC",
+    "zip": "29657"
+  },
+  "location": {
+    "lat": 34.752975,
+    "lng": -82.705963
+  },
+  "contact": {
+    "phone": "(864) 843-2448",
+    "website": "http://www.enviromulchonline.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f607c4fe-1744-4212-8da7-acce09608065",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

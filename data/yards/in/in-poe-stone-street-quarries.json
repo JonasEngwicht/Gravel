@@ -1,0 +1,41 @@
+{
+  "id": "in-poe-stone-street-quarries",
+  "slug": "stone-street-quarries",
+  "name": "Stone-Street Quarries",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Poe",
+    "state": "IN",
+    "zip": "46745"
+  },
+  "location": {
+    "lat": 40.943333,
+    "lng": -85.064444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200123"
+  },
+  "msha": [
+    {
+      "mine_id": "1200123",
+      "name": "Stone-Street Quarries Inc",
+      "operator": "Stone-Street Quarries, Inc.",
+      "status": "Active",
+      "status_since": "1998-08-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 30
+    }
+  ]
+}

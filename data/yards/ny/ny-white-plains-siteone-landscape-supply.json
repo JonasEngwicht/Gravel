@@ -1,0 +1,37 @@
+{
+  "id": "ny-white-plains-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "75 Virginia Rd",
+    "city": "White Plains",
+    "state": "NY",
+    "zip": "10603"
+  },
+  "location": {
+    "lat": 41.06506,
+    "lng": -73.776482
+  },
+  "contact": {
+    "phone": "(914) 948-1619",
+    "website": "https://www.siteone.com/store/490"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a35d62b-8ad9-4a77-9db1-a40b2b5f2df9",
+    "confidence": 0.99,
+    "merged_records": 2
+  }
+}

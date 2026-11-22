@@ -1,0 +1,35 @@
+{
+  "id": "tx-houston-eds-landscape-supply-7010-fm-2234",
+  "slug": "eds-landscape-supply-7010-fm-2234",
+  "name": "EDS Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7010 FM-2234",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77053"
+  },
+  "location": {
+    "lat": 29.579596,
+    "lng": -95.46196
+  },
+  "contact": {
+    "phone": "(281) 968-0090"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b85f7a00-6be2-4bb2-8453-2b559a24ae9e",
+    "confidence": 0.889,
+    "merged_records": 1
+  }
+}

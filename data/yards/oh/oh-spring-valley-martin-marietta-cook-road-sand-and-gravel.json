@@ -1,0 +1,49 @@
+{
+  "id": "oh-spring-valley-martin-marietta-cook-road-sand-and-gravel",
+  "slug": "martin-marietta-cook-road-sand-and-gravel",
+  "name": "Martin Marietta - Cook Road Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "2935 Cook Rd",
+    "city": "Spring Valley",
+    "state": "OH",
+    "zip": "45370"
+  },
+  "location": {
+    "lat": 39.608166,
+    "lng": -84.019669
+  },
+  "contact": {
+    "phone": "(800) 331-4242",
+    "website": "https://www.martinmarietta.com/locations/central/ohio-district/cook-road-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b563d22-9e9f-43a8-9cfa-2b5afd8ced29",
+    "confidence": 0.85,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3304534",
+      "name": "Cook Road",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-02-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

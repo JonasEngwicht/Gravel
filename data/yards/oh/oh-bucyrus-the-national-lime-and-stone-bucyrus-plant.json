@@ -1,0 +1,41 @@
+{
+  "id": "oh-bucyrus-the-national-lime-and-stone-bucyrus-plant",
+  "slug": "the-national-lime-and-stone-bucyrus-plant",
+  "name": "The National Lime & Stone – Bucyrus Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bucyrus",
+    "state": "OH",
+    "zip": "44820"
+  },
+  "location": {
+    "lat": 40.869444,
+    "lng": -83.055
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300122"
+  },
+  "msha": [
+    {
+      "mine_id": "3300122",
+      "name": "Bucyrus Plant",
+      "operator": "The National Lime & Stone Company",
+      "status": "Intermittent",
+      "status_since": "2024-12-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 27
+    }
+  ]
+}

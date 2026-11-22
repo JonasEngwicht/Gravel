@@ -1,0 +1,35 @@
+{
+  "id": "az-tucson-sonoran-landscape-materials",
+  "slug": "sonoran-landscape-materials",
+  "name": "Sonoran Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3201 W Diamond St",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85743"
+  },
+  "location": {
+    "lat": 32.296818,
+    "lng": -111.034721
+  },
+  "contact": {
+    "phone": "(520) 293-0705"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "31c46a0f-04f9-4f6d-9526-c32fbec526c6",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

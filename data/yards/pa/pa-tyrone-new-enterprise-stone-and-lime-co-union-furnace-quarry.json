@@ -1,0 +1,41 @@
+{
+  "id": "pa-tyrone-new-enterprise-stone-and-lime-co-union-furnace-quarry",
+  "slug": "new-enterprise-stone-and-lime-co-union-furnace-quarry",
+  "name": "New Enterprise Stone & Lime Co – Union Furnace Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Tyrone",
+    "state": "PA",
+    "zip": "16686"
+  },
+  "location": {
+    "lat": 40.621389,
+    "lng": -78.167222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600266"
+  },
+  "msha": [
+    {
+      "mine_id": "3600266",
+      "name": "Union Furnace Quarry",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Active",
+      "status_since": "2023-11-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

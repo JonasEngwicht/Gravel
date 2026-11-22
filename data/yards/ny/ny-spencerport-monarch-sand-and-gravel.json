@@ -1,0 +1,47 @@
+{
+  "id": "ny-spencerport-monarch-sand-and-gravel",
+  "slug": "monarch-sand-and-gravel",
+  "name": "Monarch Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "68 Pine Hill Rd",
+    "city": "Spencerport",
+    "state": "NY",
+    "zip": "14559"
+  },
+  "location": {
+    "lat": 43.211765,
+    "lng": -77.830048
+  },
+  "contact": {
+    "phone": "(585) 352-4727"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "493e941e-ecdf-49c4-bc68-def6cc8d0897",
+    "confidence": 0.55,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3001585",
+      "name": "Monarch Sand & Gravel",
+      "operator": "L L Huff Co Inc",
+      "status": "Abandoned",
+      "status_since": "2009-09-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

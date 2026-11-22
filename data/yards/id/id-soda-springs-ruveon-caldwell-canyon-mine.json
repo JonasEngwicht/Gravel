@@ -1,0 +1,41 @@
+{
+  "id": "id-soda-springs-ruveon-caldwell-canyon-mine",
+  "slug": "ruveon-caldwell-canyon-mine",
+  "name": "Ruveon – Caldwell Canyon Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Soda Springs",
+    "state": "ID",
+    "zip": "83276"
+  },
+  "location": {
+    "lat": 42.724444,
+    "lng": -111.498056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1002337"
+  },
+  "msha": [
+    {
+      "mine_id": "1002337",
+      "name": "Caldwell Canyon Mine",
+      "operator": "Ruveon LLC",
+      "status": "Intermittent",
+      "status_since": "2026-05-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

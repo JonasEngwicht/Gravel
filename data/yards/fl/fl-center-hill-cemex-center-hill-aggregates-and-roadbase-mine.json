@@ -1,0 +1,36 @@
+{
+  "id": "fl-center-hill-cemex-center-hill-aggregates-and-roadbase-mine",
+  "slug": "cemex-center-hill-aggregates-and-roadbase-mine",
+  "name": "CEMEX Center Hill Aggregates and Roadbase Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "530 West Kings Highway",
+    "city": "Center Hill",
+    "state": "FL",
+    "zip": "33514"
+  },
+  "location": {
+    "lat": 28.65514,
+    "lng": -82.006302
+  },
+  "contact": {
+    "phone": "(800) 767-0608",
+    "website": "https://www.cemexusa.com/-/center-hill-aggregates-and-roadbase-mine"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "675c051a-e535-4b37-aa26-2ba6e74aa261",
+    "confidence": 0.992,
+    "merged_records": 1
+  }
+}

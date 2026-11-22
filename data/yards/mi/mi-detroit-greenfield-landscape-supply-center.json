@@ -1,0 +1,36 @@
+{
+  "id": "mi-detroit-greenfield-landscape-supply-center",
+  "slug": "greenfield-landscape-supply-center",
+  "name": "Greenfield Landscape Supply Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "12627 Greenfield Rd",
+    "city": "Detroit",
+    "state": "MI",
+    "zip": "48227"
+  },
+  "location": {
+    "lat": 42.381168,
+    "lng": -83.200081
+  },
+  "contact": {
+    "phone": "(313) 397-9659",
+    "website": "https://greenfieldsupplies.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4a8f8600-70de-407e-b6ba-016e893997c9",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

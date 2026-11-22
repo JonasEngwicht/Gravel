@@ -1,0 +1,41 @@
+{
+  "id": "va-elkton-frazier-quarry-elkton-quarry",
+  "slug": "frazier-quarry-elkton-quarry",
+  "name": "Frazier Quarry – Elkton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Elkton",
+    "state": "VA",
+    "zip": "22849"
+  },
+  "location": {
+    "lat": 38.463333,
+    "lng": -78.646389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400038"
+  },
+  "msha": [
+    {
+      "mine_id": "4400038",
+      "name": "Elkton Quarry",
+      "operator": "Frazier Quarry, Inc.",
+      "status": "Active",
+      "status_since": "1983-03-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

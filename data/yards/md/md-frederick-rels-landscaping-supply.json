@@ -1,0 +1,36 @@
+{
+  "id": "md-frederick-rels-landscaping-supply",
+  "slug": "rels-landscaping-supply",
+  "name": "RELS Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5398 Agro Dr",
+    "city": "Frederick",
+    "state": "MD",
+    "zip": "21703"
+  },
+  "location": {
+    "lat": 39.338974,
+    "lng": -77.481255
+  },
+  "contact": {
+    "phone": "(301) 698-9331",
+    "website": "https://www.relslandscaping.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0d4f039b-4581-4beb-9d3a-968990f7e32a",
+    "confidence": 0.92,
+    "merged_records": 3
+  }
+}

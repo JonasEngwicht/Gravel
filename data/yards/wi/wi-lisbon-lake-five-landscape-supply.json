@@ -1,0 +1,36 @@
+{
+  "id": "wi-lisbon-lake-five-landscape-supply",
+  "slug": "lake-five-landscape-supply",
+  "name": "Lake Five Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "W275 N7813, Lake Five Rd",
+    "city": "Lisbon",
+    "state": "WI",
+    "zip": "53029"
+  },
+  "location": {
+    "lat": 43.159439,
+    "lng": -88.293304
+  },
+  "contact": {
+    "phone": "(262) 777-1523",
+    "website": "http://www.lakefivesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3901f17e-7085-4224-8809-2c5f4e3e25f9",
+    "confidence": 0.654,
+    "merged_records": 1
+  }
+}

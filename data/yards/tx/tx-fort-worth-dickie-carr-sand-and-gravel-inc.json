@@ -1,0 +1,48 @@
+{
+  "id": "tx-fort-worth-dickie-carr-sand-and-gravel-inc",
+  "slug": "dickie-carr-sand-and-gravel-inc",
+  "name": "Dickie Carr Sand and Gravel Inc",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "7101 9 Mile Azle Rd",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76135"
+  },
+  "location": {
+    "lat": 32.850971,
+    "lng": -97.508263
+  },
+  "contact": {
+    "phone": "(817) 237-2844",
+    "website": "https://www.dandb.com/businessdirectory/dickiecarrsandgravelinc..."
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6babd74-6afd-4c90-b1ba-a65cefaa9290",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4103532",
+      "name": "Carr Sand Pit Properties LLC",
+      "operator": "Dickie Carr Sand & Gravel Inc.",
+      "status": "Active",
+      "status_since": "2016-04-29",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

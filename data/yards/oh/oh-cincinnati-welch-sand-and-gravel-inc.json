@@ -1,0 +1,48 @@
+{
+  "id": "oh-cincinnati-welch-sand-and-gravel-inc",
+  "slug": "welch-sand-and-gravel-inc",
+  "name": "Welch Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8953 E Miami River Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45247"
+  },
+  "location": {
+    "lat": 39.258598,
+    "lng": -84.692833
+  },
+  "contact": {
+    "phone": "(513) 353-3220",
+    "website": "http://www.welchsand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2039ea78-7fa7-4511-8b6b-1d8625c34339",
+    "confidence": 0.997,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301598",
+      "name": "East Miami Pit",
+      "operator": "Welch Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2025-02-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

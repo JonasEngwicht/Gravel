@@ -1,0 +1,36 @@
+{
+  "id": "wi-portage-i-and-s-landscape-supplies",
+  "slug": "i-and-s-landscape-supplies",
+  "name": "I & S Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "W10361 State Road 16",
+    "city": "Portage",
+    "state": "WI",
+    "zip": "53901"
+  },
+  "location": {
+    "lat": 43.561726,
+    "lng": -89.516487
+  },
+  "contact": {
+    "phone": "(608) 742-4472",
+    "website": "http://iandslandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cffb84b8-8af4-45f0-9064-de90bfcbfd1e",
+    "confidence": 0.965,
+    "merged_records": 1
+  }
+}

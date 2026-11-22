@@ -1,0 +1,41 @@
+{
+  "id": "ok-norman-talihina-stone",
+  "slug": "talihina-stone",
+  "name": "Talihina Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Norman",
+    "state": "OK",
+    "zip": "74571"
+  },
+  "location": {
+    "lat": 34.751389,
+    "lng": -95.048056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401236"
+  },
+  "msha": [
+    {
+      "mine_id": "3401236",
+      "name": "Talihina Stone Inc",
+      "operator": "Talihina Stone Inc",
+      "status": "Intermittent",
+      "status_since": "2025-10-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

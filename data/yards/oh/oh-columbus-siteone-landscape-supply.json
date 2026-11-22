@@ -1,0 +1,37 @@
+{
+  "id": "oh-columbus-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4877 Vulcan Ave",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43228"
+  },
+  "location": {
+    "lat": 39.988262,
+    "lng": -83.138412
+  },
+  "contact": {
+    "phone": "(614) 876-1193",
+    "website": "https://www.siteone.com/en/store/669"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c08b422e-59e0-4d4b-b0b7-4eb0296b888b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

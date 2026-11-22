@@ -1,0 +1,41 @@
+{
+  "id": "nc-burnsville-river-mine-2",
+  "slug": "river-mine-2",
+  "name": "River Mine 2",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Burnsville",
+    "state": "NC",
+    "zip": "28714"
+  },
+  "location": {
+    "lat": 35.845556,
+    "lng": -82.309722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102345"
+  },
+  "msha": [
+    {
+      "mine_id": "3102345",
+      "name": "River Mine 2",
+      "operator": "B&W Stone Co",
+      "status": "Active",
+      "status_since": "2021-05-17",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

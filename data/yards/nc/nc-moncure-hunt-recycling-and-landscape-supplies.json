@@ -1,0 +1,36 @@
+{
+  "id": "nc-moncure-hunt-recycling-and-landscape-supplies",
+  "slug": "hunt-recycling-and-landscape-supplies",
+  "name": "Hunt Recycling & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "840 Moncure Pittsboro Rd",
+    "city": "Moncure",
+    "state": "NC",
+    "zip": "27559"
+  },
+  "location": {
+    "lat": 35.698174,
+    "lng": -79.167862
+  },
+  "contact": {
+    "phone": "(919) 542-0792",
+    "website": "http://www.huntrecycling.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5cc6d77-9614-4954-8db1-3be7216ed577",
+    "confidence": 0.844,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "nv-sparks-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "11059 Pyramid Way",
+    "city": "Sparks",
+    "state": "NV",
+    "zip": "89441"
+  },
+  "location": {
+    "lat": 39.676071,
+    "lng": -119.701759
+  },
+  "contact": {
+    "phone": "(775) 636-9532",
+    "website": "http://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd33716c-9b7e-4340-97cc-85e69b07596d",
+    "confidence": 0.601,
+    "merged_records": 2
+  }
+}

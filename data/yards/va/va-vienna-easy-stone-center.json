@@ -1,0 +1,36 @@
+{
+  "id": "va-vienna-easy-stone-center",
+  "slug": "easy-stone-center",
+  "name": "Easy Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "420 Mill St NE",
+    "city": "Vienna",
+    "state": "VA",
+    "zip": "22180"
+  },
+  "location": {
+    "lat": 38.906315,
+    "lng": -77.268692
+  },
+  "contact": {
+    "phone": "(703) 281-1880",
+    "website": "http://www.easystonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3db178a-9a60-4482-ae8a-0fbcf5ea477b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

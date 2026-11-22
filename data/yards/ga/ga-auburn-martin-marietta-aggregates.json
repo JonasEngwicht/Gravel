@@ -1,0 +1,49 @@
+{
+  "id": "ga-auburn-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "301 Parks Mill Rd",
+    "city": "Auburn",
+    "state": "GA",
+    "zip": "30011"
+  },
+  "location": {
+    "lat": 34.028477,
+    "lng": -83.825821
+  },
+  "contact": {
+    "phone": "(770) 963-6123",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "996720f7-96fc-4d14-99ca-6064631e07d5",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0900436",
+      "name": "Auburn Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2008-12-08",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

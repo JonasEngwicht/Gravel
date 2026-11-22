@@ -1,0 +1,37 @@
+{
+  "id": "tx-tyler-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1913 Deerbrook Dr",
+    "city": "Tyler",
+    "state": "TX",
+    "zip": "75703"
+  },
+  "location": {
+    "lat": 32.277237,
+    "lng": -95.277832
+  },
+  "contact": {
+    "phone": "(903) 581-8877",
+    "website": "https://www.siteone.com/store/217"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "462d3760-fd3d-4771-854f-4406301b8e83",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

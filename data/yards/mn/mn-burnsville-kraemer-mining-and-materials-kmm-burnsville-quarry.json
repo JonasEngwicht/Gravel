@@ -1,0 +1,41 @@
+{
+  "id": "mn-burnsville-kraemer-mining-and-materials-kmm-burnsville-quarry",
+  "slug": "kraemer-mining-and-materials-kmm-burnsville-quarry",
+  "name": "Kraemer Mining & Materials – KMM Burnsville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Burnsville",
+    "state": "MN",
+    "zip": "55337"
+  },
+  "location": {
+    "lat": 44.783056,
+    "lng": -93.294167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2100054"
+  },
+  "msha": [
+    {
+      "mine_id": "2100054",
+      "name": "KMM Burnsville Quarry",
+      "operator": "Kraemer Mining & Materials, Inc.",
+      "status": "Active",
+      "status_since": "2000-03-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 34
+    }
+  ]
+}

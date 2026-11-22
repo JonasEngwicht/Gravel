@@ -1,0 +1,41 @@
+{
+  "id": "il-quincy-huber-carbonates-quincy-mine",
+  "slug": "huber-carbonates-quincy-mine",
+  "name": "Huber Carbonates – Quincy Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Quincy",
+    "state": "IL",
+    "zip": "62301"
+  },
+  "location": {
+    "lat": 39.893889,
+    "lng": -91.405556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100019"
+  },
+  "msha": [
+    {
+      "mine_id": "1100019",
+      "name": "Quincy Mine",
+      "operator": "Huber Carbonates, LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 29
+    }
+  ]
+}

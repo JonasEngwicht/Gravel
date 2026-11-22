@@ -1,0 +1,36 @@
+{
+  "id": "fl-lutz-rock-solid-stone-center",
+  "slug": "rock-solid-stone-center",
+  "name": "Rock Solid Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1618 Land O Lakes Blvd",
+    "city": "Lutz",
+    "state": "FL",
+    "zip": "33549"
+  },
+  "location": {
+    "lat": 28.18121,
+    "lng": -82.46521
+  },
+  "contact": {
+    "phone": "(813) 948-7921",
+    "website": "http://www.stonecenterplus.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d4b1009a-9dc2-462e-9db6-96490c190c9e",
+    "confidence": 0.701,
+    "merged_records": 1
+  }
+}

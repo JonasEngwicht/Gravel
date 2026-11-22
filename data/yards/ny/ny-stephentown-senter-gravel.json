@@ -1,0 +1,48 @@
+{
+  "id": "ny-stephentown-senter-gravel",
+  "slug": "senter-gravel",
+  "name": "Senter Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "160 Staples Rd",
+    "city": "Stephentown",
+    "state": "NY",
+    "zip": "12168"
+  },
+  "location": {
+    "lat": 42.552948,
+    "lng": -73.404182
+  },
+  "contact": {
+    "phone": "(518) 733-5046",
+    "website": "http://www.sentergravel.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "afcc6f31-3f5f-43d6-b5bc-a3a0b7e70d56",
+    "confidence": 0.966,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3003651",
+      "name": "Senters Pit",
+      "operator": "D. Condron Construction, Inc.",
+      "status": "Intermittent",
+      "status_since": "2024-06-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 1
+    }
+  ]
+}

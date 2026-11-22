@@ -1,0 +1,35 @@
+{
+  "id": "ca-fresno-rock-yard",
+  "slug": "rock-yard",
+  "name": "Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7543 W Herndon Ave",
+    "city": "Fresno",
+    "state": "CA",
+    "zip": "93723"
+  },
+  "location": {
+    "lat": 36.83646,
+    "lng": -119.926872
+  },
+  "contact": {
+    "phone": "(559) 276-1555"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d6b7d74-5ce1-4b78-8484-6120cca135bb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

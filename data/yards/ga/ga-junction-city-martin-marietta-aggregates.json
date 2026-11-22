@@ -1,0 +1,49 @@
+{
+  "id": "ga-junction-city-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "5291 Junction City Hwy",
+    "city": "Junction City",
+    "state": "GA",
+    "zip": "31812"
+  },
+  "location": {
+    "lat": 32.618866,
+    "lng": -84.487022
+  },
+  "contact": {
+    "phone": "(706) 269-3849",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e17014af-68bd-428c-8516-4e95823343df",
+    "confidence": 0.999,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0901029",
+      "name": "Junction City Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1988-07-25",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 27
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-quihi-vulcan-construction-materials-medina-quarry",
+  "slug": "vulcan-construction-materials-medina-quarry",
+  "name": "Vulcan Construction Materials – Medina Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Quihi",
+    "state": "TX",
+    "zip": "78056"
+  },
+  "location": {
+    "lat": 29.455278,
+    "lng": -99.010556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105417"
+  },
+  "msha": [
+    {
+      "mine_id": "4105417",
+      "name": "Medina Quarry",
+      "operator": "Vulcan Construction Materials, LLC.",
+      "status": "Active",
+      "status_since": "2019-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

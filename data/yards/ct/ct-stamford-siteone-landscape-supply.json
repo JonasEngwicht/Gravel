@@ -1,0 +1,37 @@
+{
+  "id": "ct-stamford-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "66 Viaduct Rd",
+    "city": "Stamford",
+    "state": "CT",
+    "zip": "06907"
+  },
+  "location": {
+    "lat": 41.080997,
+    "lng": -73.5196
+  },
+  "contact": {
+    "phone": "(203) 353-0061",
+    "website": "https://www.siteone.com/store/440"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6591f84a-944b-4544-b35c-3edf113723f3",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

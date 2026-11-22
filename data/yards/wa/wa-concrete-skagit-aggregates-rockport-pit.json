@@ -1,0 +1,41 @@
+{
+  "id": "wa-concrete-skagit-aggregates-rockport-pit",
+  "slug": "skagit-aggregates-rockport-pit",
+  "name": "Skagit Aggregates – Rockport Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Concrete",
+    "state": "WA",
+    "zip": "98237"
+  },
+  "location": {
+    "lat": 48.495556,
+    "lng": -121.646389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503540"
+  },
+  "msha": [
+    {
+      "mine_id": "4503540",
+      "name": "Rockport Pit",
+      "operator": "Skagit Aggregates, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-01-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

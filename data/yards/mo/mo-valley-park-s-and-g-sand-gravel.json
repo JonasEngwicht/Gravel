@@ -1,0 +1,35 @@
+{
+  "id": "mo-valley-park-s-and-g-sand-gravel",
+  "slug": "s-and-g-sand-gravel",
+  "name": "S & G Sand Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1000 S Elam Ave",
+    "city": "Valley Park",
+    "state": "MO",
+    "zip": "63088"
+  },
+  "location": {
+    "lat": 38.542297,
+    "lng": -90.509834
+  },
+  "contact": {
+    "phone": "(636) 225-4000"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2ed5730-7336-4c2a-add0-13f1554a1ad5",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

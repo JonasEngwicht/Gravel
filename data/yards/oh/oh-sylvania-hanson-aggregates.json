@@ -1,0 +1,49 @@
+{
+  "id": "oh-sylvania-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "4100 Centennial Rd",
+    "city": "Sylvania",
+    "state": "OH",
+    "zip": "43560"
+  },
+  "location": {
+    "lat": 41.692696,
+    "lng": -83.740318
+  },
+  "contact": {
+    "phone": "(419) 841-3413",
+    "website": "https://www.lehighhanson.com/home/advanced?s=quote&fid=nusohf5038-sylvania-quarry-OH-Limestone&isAdvancedPage=true"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cedcb217-e888-42fd-b63e-4a82234a4948",
+    "confidence": 0.99,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304139",
+      "name": "Sylvania Quarry II",
+      "operator": "Hanson Aggregates Midwest, LLC",
+      "status": "Abandoned",
+      "status_since": "2004-11-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

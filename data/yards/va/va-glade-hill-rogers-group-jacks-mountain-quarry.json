@@ -1,0 +1,41 @@
+{
+  "id": "va-glade-hill-rogers-group-jacks-mountain-quarry",
+  "slug": "rogers-group-jacks-mountain-quarry",
+  "name": "Rogers Group – Jacks Mountain Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Glade Hill",
+    "state": "VA",
+    "zip": "24092"
+  },
+  "location": {
+    "lat": 36.994167,
+    "lng": -79.773611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406847"
+  },
+  "msha": [
+    {
+      "mine_id": "4406847",
+      "name": "Jacks Mountain Quarry",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "1996-08-21",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nm-angel-fire-kite-construction-jackson-hill-quarry",
+  "slug": "kite-construction-jackson-hill-quarry",
+  "name": "Kite Construction – Jackson Hill Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Angel Fire",
+    "state": "NM",
+    "zip": "87710"
+  },
+  "location": {
+    "lat": 36.458056,
+    "lng": -105.268056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902536"
+  },
+  "msha": [
+    {
+      "mine_id": "2902536",
+      "name": "Jackson Hill Quarry",
+      "operator": "Kite Construction, Inc.",
+      "status": "Intermittent",
+      "status_since": "2021-07-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

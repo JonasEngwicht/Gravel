@@ -1,0 +1,41 @@
+{
+  "id": "la-watson-community-aggregates-henderson-lease",
+  "slug": "community-aggregates-henderson-lease",
+  "name": "Community Aggregates – Henderson Lease",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Watson",
+    "state": "LA",
+    "zip": "70706"
+  },
+  "location": {
+    "lat": 30.594167,
+    "lng": -90.921944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601596"
+  },
+  "msha": [
+    {
+      "mine_id": "1601596",
+      "name": "Henderson Lease",
+      "operator": "Community Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2020-11-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ks-olathe-martin-marietta-materials-olathe-quarry",
+  "slug": "martin-marietta-materials-olathe-quarry",
+  "name": "Martin Marietta Materials – Olathe Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Olathe",
+    "state": "KS",
+    "zip": "66031"
+  },
+  "location": {
+    "lat": 38.84,
+    "lng": -94.861111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401704"
+  },
+  "msha": [
+    {
+      "mine_id": "1401704",
+      "name": "Olathe Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2019-10-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

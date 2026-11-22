@@ -1,0 +1,41 @@
+{
+  "id": "nc-murphy-harrison-aggregates-cherokee-co-quarry",
+  "slug": "harrison-aggregates-cherokee-co-quarry",
+  "name": "Harrison Aggregates – Cherokee Co Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Murphy",
+    "state": "NC",
+    "zip": "30559"
+  },
+  "location": {
+    "lat": 35.013333,
+    "lng": -84.230556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102138"
+  },
+  "msha": [
+    {
+      "mine_id": "3102138",
+      "name": "Cherokee Co Quarry",
+      "operator": "Harrison Aggregates",
+      "status": "Active",
+      "status_since": "2018-04-03",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

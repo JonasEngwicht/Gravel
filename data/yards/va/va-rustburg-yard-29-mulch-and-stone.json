@@ -1,0 +1,36 @@
+{
+  "id": "va-rustburg-yard-29-mulch-and-stone",
+  "slug": "yard-29-mulch-and-stone",
+  "name": "YARD 29 MULCH & STONE",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "12006 Wards Rd",
+    "city": "Rustburg",
+    "state": "VA",
+    "zip": "24588"
+  },
+  "location": {
+    "lat": 37.294029,
+    "lng": -79.171318
+  },
+  "contact": {
+    "phone": "(434) 616-2089",
+    "website": "http://www.yard29.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fab4177e-b4bd-47b1-8f3c-5c5ee34e9c88",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

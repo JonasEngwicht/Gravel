@@ -1,0 +1,36 @@
+{
+  "id": "ny-dover-plains-palumbo-sand-and-gravel-co",
+  "slug": "palumbo-sand-and-gravel-co",
+  "name": "Palumbo Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "155 Sherman Hill Rd",
+    "city": "Dover Plains",
+    "state": "NY",
+    "zip": "12522"
+  },
+  "location": {
+    "lat": 41.707191,
+    "lng": -73.577591
+  },
+  "contact": {
+    "phone": "(845) 832-3356",
+    "website": "http://palumboblock.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f0c5f05-416d-4400-9cf2-6f2152681ca4",
+    "confidence": 0.879,
+    "merged_records": 1
+  }
+}

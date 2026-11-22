@@ -1,0 +1,37 @@
+{
+  "id": "az-tucson-pioneer-landscape-centers-6101-s-mann-ave",
+  "slug": "pioneer-landscape-centers-6101-s-mann-ave",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "6101 S Mann Ave",
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85756"
+  },
+  "location": {
+    "lat": 32.141129,
+    "lng": -110.849548
+  },
+  "contact": {
+    "phone": "(520) 664-0200",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "07810e7b-eba0-4909-8d70-fdc3a7281f0d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

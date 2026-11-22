@@ -1,0 +1,41 @@
+{
+  "id": "ny-avon-valley-sand-and-gravel-avon-site",
+  "slug": "valley-sand-and-gravel-avon-site",
+  "name": "Valley Sand & Gravel – Avon Site",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Avon",
+    "state": "NY",
+    "zip": "14414"
+  },
+  "location": {
+    "lat": 42.926111,
+    "lng": -77.7775
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000880"
+  },
+  "msha": [
+    {
+      "mine_id": "3000880",
+      "name": "Avon Site",
+      "operator": "Valley Sand & Gravel Inc",
+      "status": "Active",
+      "status_since": "2023-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pa-elk-lake-meshoppen-stone-auburn-quarry",
+  "slug": "meshoppen-stone-auburn-quarry",
+  "name": "Meshoppen Stone – Auburn Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Elk Lake",
+    "state": "PA",
+    "zip": "18630"
+  },
+  "location": {
+    "lat": 41.615,
+    "lng": -76.045833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609981"
+  },
+  "msha": [
+    {
+      "mine_id": "3609981",
+      "name": "Auburn Quarry",
+      "operator": "Meshoppen Stone, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-11-10",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

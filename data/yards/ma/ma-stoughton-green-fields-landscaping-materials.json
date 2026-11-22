@@ -1,0 +1,36 @@
+{
+  "id": "ma-stoughton-green-fields-landscaping-materials",
+  "slug": "green-fields-landscaping-materials",
+  "name": "Green Fields Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1857 Central St",
+    "city": "Stoughton",
+    "state": "MA",
+    "zip": "02072"
+  },
+  "location": {
+    "lat": 42.131893,
+    "lng": -71.132317
+  },
+  "contact": {
+    "phone": "(781) 344-2749",
+    "website": "https://www.greenfieldslandscapingmaterials.com/contact#!"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a245a792-02ab-4e94-93da-0da9cc837b76",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

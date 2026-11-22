@@ -1,0 +1,36 @@
+{
+  "id": "va-fredericksburg-newton-s-mulch",
+  "slug": "newton-s-mulch",
+  "name": "Newton's Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1390 Warrenton Rd",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "22406"
+  },
+  "location": {
+    "lat": 38.379848,
+    "lng": -77.537674
+  },
+  "contact": {
+    "phone": "(540) 752-7013",
+    "website": "https://www.newtongov.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d10a411b-19fd-480e-a158-88bf8edeec04",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

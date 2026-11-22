@@ -1,0 +1,35 @@
+{
+  "id": "ma-north-attleborough-soullier-sand-and-gravel",
+  "slug": "soullier-sand-and-gravel",
+  "name": "Soullier Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "100 Huntsbridge Rd",
+    "city": "North Attleborough",
+    "state": "MA",
+    "zip": "02760"
+  },
+  "location": {
+    "lat": 41.948498,
+    "lng": -71.375786
+  },
+  "contact": {
+    "phone": "(508) 699-2053"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8bb100ce-d060-459f-8af8-e938d6144513",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

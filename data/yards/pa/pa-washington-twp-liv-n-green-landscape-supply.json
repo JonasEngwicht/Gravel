@@ -1,0 +1,36 @@
+{
+  "id": "pa-washington-twp-liv-n-green-landscape-supply",
+  "slug": "liv-n-green-landscape-supply",
+  "name": "Liv'n Green Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1111 North PA-100",
+    "city": "Washington Twp",
+    "state": "PA",
+    "zip": "19505"
+  },
+  "location": {
+    "lat": 40.373631,
+    "lng": -75.61599
+  },
+  "contact": {
+    "phone": "(610) 369-0369",
+    "website": "http://livngreenstore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "efe61082-ed2e-4da0-8060-eb778ca15b24",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

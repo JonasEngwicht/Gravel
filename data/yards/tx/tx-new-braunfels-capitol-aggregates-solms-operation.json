@@ -1,0 +1,41 @@
+{
+  "id": "tx-new-braunfels-capitol-aggregates-solms-operation",
+  "slug": "capitol-aggregates-solms-operation",
+  "name": "Capitol Aggregates – Solms Operation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "New Braunfels",
+    "state": "TX",
+    "zip": "78132"
+  },
+  "location": {
+    "lat": 29.666667,
+    "lng": -98.207778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105126"
+  },
+  "msha": [
+    {
+      "mine_id": "4105126",
+      "name": "Solms Operation",
+      "operator": "Capitol Aggregates Inc.",
+      "status": "Active",
+      "status_since": "2015-05-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

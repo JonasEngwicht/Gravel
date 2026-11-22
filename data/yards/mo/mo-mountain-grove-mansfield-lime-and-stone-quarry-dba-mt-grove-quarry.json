@@ -1,0 +1,41 @@
+{
+  "id": "mo-mountain-grove-mansfield-lime-and-stone-quarry-dba-mt-grove-quarry",
+  "slug": "mansfield-lime-and-stone-quarry-dba-mt-grove-quarry",
+  "name": "Mansfield Lime & Stone Quarry – Dba Mt Grove Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mountain Grove",
+    "state": "MO",
+    "zip": "65711"
+  },
+  "location": {
+    "lat": 37.137778,
+    "lng": -92.224722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300916"
+  },
+  "msha": [
+    {
+      "mine_id": "2300916",
+      "name": "Dba Mt Grove Quarry",
+      "operator": "Mansfield Lime & Stone Quarry Inc",
+      "status": "Active",
+      "status_since": "2019-10-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

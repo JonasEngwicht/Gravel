@@ -1,0 +1,48 @@
+{
+  "id": "wv-elkins-appalachian-aggregates",
+  "slug": "appalachian-aggregates",
+  "name": "Appalachian Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "Route 33 Kelly Mtn Road",
+    "city": "Elkins",
+    "state": "WV",
+    "zip": "26241"
+  },
+  "location": {
+    "lat": 38.896294,
+    "lng": -79.771782
+  },
+  "contact": {
+    "phone": "(304) 636-7598",
+    "website": "http://www.appalachianaggregates.com/elkins--kelly-mountain.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9554cb9-9f40-46fb-b236-325ba19a30a3",
+    "confidence": 0.67,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4603727",
+      "name": "Kelly Mountain Quarry",
+      "operator": "Appalachian Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2025-04-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 13
+    }
+  ]
+}

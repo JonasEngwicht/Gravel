@@ -1,0 +1,41 @@
+{
+  "id": "mo-park-hills-lead-belt-materials-company-elvins-quarry-and-mill",
+  "slug": "lead-belt-materials-company-elvins-quarry-and-mill",
+  "name": "Lead Belt Materials Company – Elvins Quarry & Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Park Hills",
+    "state": "MO",
+    "zip": "63601"
+  },
+  "location": {
+    "lat": 37.839722,
+    "lng": -90.533056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300243"
+  },
+  "msha": [
+    {
+      "mine_id": "2300243",
+      "name": "Elvins Quarry & Mill",
+      "operator": "Lead Belt Materials Company Inc",
+      "status": "Active",
+      "status_since": "2024-10-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

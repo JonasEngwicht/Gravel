@@ -1,0 +1,41 @@
+{
+  "id": "sc-loris-wake-stone-north-myrtle-beach-quarry",
+  "slug": "wake-stone-north-myrtle-beach-quarry",
+  "name": "Wake Stone – North Myrtle Beach Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Loris",
+    "state": "SC",
+    "zip": "29569"
+  },
+  "location": {
+    "lat": 34.076667,
+    "lng": -78.928333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800704"
+  },
+  "msha": [
+    {
+      "mine_id": "3800704",
+      "name": "North Myrtle Beach Quarry",
+      "operator": "Wake Stone Corporation",
+      "status": "Active",
+      "status_since": "2002-03-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 29
+    }
+  ]
+}

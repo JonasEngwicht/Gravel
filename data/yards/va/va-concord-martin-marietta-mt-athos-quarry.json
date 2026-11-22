@@ -1,0 +1,41 @@
+{
+  "id": "va-concord-martin-marietta-mt-athos-quarry",
+  "slug": "martin-marietta-mt-athos-quarry",
+  "name": "Martin Marietta-Mt. Athos Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Concord",
+    "state": "VA",
+    "zip": "24504"
+  },
+  "location": {
+    "lat": 37.392778,
+    "lng": -79.040278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400106"
+  },
+  "msha": [
+    {
+      "mine_id": "4400106",
+      "name": "Martin Marietta-Mt. Athos Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2015-01-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

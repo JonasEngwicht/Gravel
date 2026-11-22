@@ -1,0 +1,36 @@
+{
+  "id": "ny-ferndale-djm-landscape-materials",
+  "slug": "djm-landscape-materials",
+  "name": "DJM Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "Twin Bridge Rd",
+    "city": "Ferndale",
+    "state": "NY",
+    "zip": "12734"
+  },
+  "location": {
+    "lat": 41.767097,
+    "lng": -74.73481
+  },
+  "contact": {
+    "phone": "(845) 295-6984",
+    "website": "http://www.djmdealers.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a605820-f165-4fdd-bb6f-1f2f313608a2",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

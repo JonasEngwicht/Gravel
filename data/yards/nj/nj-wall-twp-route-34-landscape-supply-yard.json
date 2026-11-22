@@ -1,0 +1,36 @@
+{
+  "id": "nj-wall-twp-route-34-landscape-supply-yard",
+  "slug": "route-34-landscape-supply-yard",
+  "name": "Route 34 Landscape Supply Yard",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2800 Ridgewood Rd",
+    "city": "Wall Twp",
+    "state": "NJ",
+    "zip": "07719"
+  },
+  "location": {
+    "lat": 40.145298,
+    "lng": -74.093216
+  },
+  "contact": {
+    "phone": "(732) 449-4818",
+    "website": "http://www.rt9hardscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b47bc7e-425d-4f68-bfc2-e17908f31ee1",
+    "confidence": 0.987,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wi-fort-atkinson-scott-construction-timberlane",
+  "slug": "scott-construction-timberlane",
+  "name": "Scott Construction – Timberlane",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Fort Atkinson",
+    "state": "WI",
+    "zip": "53538"
+  },
+  "location": {
+    "lat": 42.928889,
+    "lng": -88.836944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703496"
+  },
+  "msha": [
+    {
+      "mine_id": "4703496",
+      "name": "Timberlane",
+      "operator": "Scott Construction, Inc",
+      "status": "Intermittent",
+      "status_since": "2020-03-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

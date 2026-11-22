@@ -1,0 +1,36 @@
+{
+  "id": "co-boulder-western-aggregates",
+  "slug": "western-aggregates",
+  "name": "Western Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11728 Highway 93",
+    "city": "Boulder",
+    "state": "CO",
+    "zip": "80303"
+  },
+  "location": {
+    "lat": 39.908737,
+    "lng": -105.23951
+  },
+  "contact": {
+    "phone": "(303) 499-1010",
+    "website": "http://txi.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ec8bcfd-58fd-4717-b641-8fb799b2b5b1",
+    "confidence": 0.924,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-haverstraw-tilcon-new-york-haverstraw-quarry-and-mill",
+  "slug": "tilcon-new-york-haverstraw-quarry-and-mill",
+  "name": "Tilcon New York – Haverstraw Quarry & Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Haverstraw",
+    "state": "NY",
+    "zip": "10927"
+  },
+  "location": {
+    "lat": 41.174167,
+    "lng": -73.956667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000075"
+  },
+  "msha": [
+    {
+      "mine_id": "3000075",
+      "name": "Haverstraw Quarry & Mill",
+      "operator": "Tilcon New York Inc",
+      "status": "Active",
+      "status_since": "1982-12-27",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 35
+    }
+  ]
+}

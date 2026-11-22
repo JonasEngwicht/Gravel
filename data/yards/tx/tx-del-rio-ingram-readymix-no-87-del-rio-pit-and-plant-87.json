@@ -1,0 +1,41 @@
+{
+  "id": "tx-del-rio-ingram-readymix-no-87-del-rio-pit-and-plant-87",
+  "slug": "ingram-readymix-no-87-del-rio-pit-and-plant-87",
+  "name": "Ingram Readymix No. 87 – Del Rio Pit & Plant #87",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Del Rio",
+    "state": "TX",
+    "zip": "78843"
+  },
+  "location": {
+    "lat": 29.352222,
+    "lng": -100.964722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4101343"
+  },
+  "msha": [
+    {
+      "mine_id": "4101343",
+      "name": "Del Rio Pit & Plant #87",
+      "operator": "Ingram Readymix No. 87, L.L.C.",
+      "status": "Active",
+      "status_since": "2020-12-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

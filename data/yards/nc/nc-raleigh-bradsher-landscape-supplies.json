@@ -1,0 +1,36 @@
+{
+  "id": "nc-raleigh-bradsher-landscape-supplies",
+  "slug": "bradsher-landscape-supplies",
+  "name": "Bradsher Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3729 Overlook Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27616"
+  },
+  "location": {
+    "lat": 35.880714,
+    "lng": -78.577744
+  },
+  "contact": {
+    "phone": "(919) 872-3149",
+    "website": "http://bradsherfarms.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "87ee134e-63ae-4078-8c05-3ad1dae865fe",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

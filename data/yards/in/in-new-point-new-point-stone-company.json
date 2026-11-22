@@ -1,0 +1,41 @@
+{
+  "id": "in-new-point-new-point-stone-company",
+  "slug": "new-point-stone-company",
+  "name": "New Point Stone Company",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "New Point",
+    "state": "IN",
+    "zip": "47263"
+  },
+  "location": {
+    "lat": 39.320278,
+    "lng": -85.335278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200088"
+  },
+  "msha": [
+    {
+      "mine_id": "1200088",
+      "name": "New Point Quarry",
+      "operator": "New Point Stone Company Inc",
+      "status": "Active",
+      "status_since": "2013-07-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

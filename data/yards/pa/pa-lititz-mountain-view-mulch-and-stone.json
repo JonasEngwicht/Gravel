@@ -1,0 +1,36 @@
+{
+  "id": "pa-lititz-mountain-view-mulch-and-stone",
+  "slug": "mountain-view-mulch-and-stone",
+  "name": "Mountain View Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "23 E 28th Division Hwy",
+    "city": "Lititz",
+    "state": "PA",
+    "zip": "17543"
+  },
+  "location": {
+    "lat": 40.22551,
+    "lng": -76.300056
+  },
+  "contact": {
+    "phone": "(717) 627-2864",
+    "website": "http://www.mountainviewmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1080d6b2-f69e-4004-b79e-c531a7fdd240",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

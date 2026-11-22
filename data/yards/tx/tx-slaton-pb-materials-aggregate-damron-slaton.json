@@ -1,0 +1,48 @@
+{
+  "id": "tx-slaton-pb-materials-aggregate-damron-slaton",
+  "slug": "pb-materials-aggregate-damron-slaton",
+  "name": "PB Materials Aggregate - Damron Slaton",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8602 Farm to Market 400",
+    "city": "Slaton",
+    "state": "TX",
+    "zip": "79364"
+  },
+  "location": {
+    "lat": 33.521317,
+    "lng": -101.654221
+  },
+  "contact": {
+    "phone": "(806) 842-3519",
+    "website": "https://pb-materials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "46d118e2-fd8a-4913-ac26-ef711a84b99f",
+    "confidence": 0.85,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4101901",
+      "name": "Damron Sand",
+      "operator": "Permian Basin Materials Aggregate",
+      "status": "Active",
+      "status_since": "1977-12-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 14
+    }
+  ]
+}

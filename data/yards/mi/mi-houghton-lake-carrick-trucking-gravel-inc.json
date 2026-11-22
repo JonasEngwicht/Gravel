@@ -1,0 +1,47 @@
+{
+  "id": "mi-houghton-lake-carrick-trucking-gravel-inc",
+  "slug": "carrick-trucking-gravel-inc",
+  "name": "Carrick Trucking Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7535 W Emery Rd",
+    "city": "Houghton Lake",
+    "state": "MI",
+    "zip": "48629"
+  },
+  "location": {
+    "lat": 44.275841,
+    "lng": -84.763008
+  },
+  "contact": {
+    "phone": "(989) 422-4198"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d434f3f-a08c-464f-8072-ff19bcfe87f3",
+    "confidence": 0.95,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2002873",
+      "name": "Plant #1",
+      "operator": "Carrick Gravel & Crushing",
+      "status": "Abandoned",
+      "status_since": "2014-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

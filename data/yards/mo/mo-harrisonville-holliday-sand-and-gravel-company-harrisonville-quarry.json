@@ -1,0 +1,41 @@
+{
+  "id": "mo-harrisonville-holliday-sand-and-gravel-company-harrisonville-quarry",
+  "slug": "holliday-sand-and-gravel-company-harrisonville-quarry",
+  "name": "Holliday Sand & Gravel Company – Harrisonville Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Harrisonville",
+    "state": "MO",
+    "zip": "64078"
+  },
+  "location": {
+    "lat": 38.699722,
+    "lng": -94.371944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301148"
+  },
+  "msha": [
+    {
+      "mine_id": "2301148",
+      "name": "Harrisonville Quarry",
+      "operator": "Holliday Sand & Gravel Company, Inc.",
+      "status": "Active",
+      "status_since": "2018-04-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

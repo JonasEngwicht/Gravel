@@ -1,0 +1,41 @@
+{
+  "id": "ky-rockport-mulzer-crushed-stone-a-crh-don-c-rushing",
+  "slug": "mulzer-crushed-stone-a-crh-don-c-rushing",
+  "name": "Mulzer Crushed Stone, A CRH – Don C. Rushing",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Rockport",
+    "state": "KY",
+    "zip": "42303"
+  },
+  "location": {
+    "lat": 37.775833,
+    "lng": -87.136667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1504272"
+  },
+  "msha": [
+    {
+      "mine_id": "1504272",
+      "name": "Don C. Rushing",
+      "operator": "Mulzer Crushed Stone, A CRH Company",
+      "status": "Active",
+      "status_since": "1985-02-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

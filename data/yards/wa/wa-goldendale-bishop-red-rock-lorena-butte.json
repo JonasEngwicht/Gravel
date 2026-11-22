@@ -1,0 +1,41 @@
+{
+  "id": "wa-goldendale-bishop-red-rock-lorena-butte",
+  "slug": "bishop-red-rock-lorena-butte",
+  "name": "Bishop Red Rock – Lorena Butte",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Goldendale",
+    "state": "WA",
+    "zip": "98620"
+  },
+  "location": {
+    "lat": 45.790278,
+    "lng": -120.781667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503057"
+  },
+  "msha": [
+    {
+      "mine_id": "4503057",
+      "name": "Lorena Butte",
+      "operator": "Bishop Red Rock Inc",
+      "status": "Active",
+      "status_since": "2021-09-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-pineville-stone-center-landscape-and-masonry",
+  "slug": "stone-center-landscape-and-masonry",
+  "name": "Stone Center | Landscape & Masonry",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "605 Towne Centre Blvd",
+    "city": "Pineville",
+    "state": "NC",
+    "zip": "28134"
+  },
+  "location": {
+    "lat": 35.079971,
+    "lng": -80.883904
+  },
+  "contact": {
+    "phone": "(704) 936-0720",
+    "website": "https://thestonecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd111871-8614-4007-a3cb-6f5b044e6c38",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ny-southampton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "15 Mariner Dr",
+    "city": "Southampton",
+    "state": "NY",
+    "zip": "11968"
+  },
+  "location": {
+    "lat": 40.898815,
+    "lng": -72.384003
+  },
+  "contact": {
+    "phone": "(631) 287-1029",
+    "website": "https://www.siteone.com/store/752"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7410a4c3-0664-4e84-b714-c71dcef29b5d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

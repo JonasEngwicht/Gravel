@@ -1,0 +1,36 @@
+{
+  "id": "pa-throop-throop-landscape-supply",
+  "slug": "throop-landscape-supply",
+  "name": "Throop Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1102 Marshwood Rd",
+    "city": "Throop",
+    "state": "PA",
+    "zip": "18512"
+  },
+  "location": {
+    "lat": 41.43948,
+    "lng": -75.601982
+  },
+  "contact": {
+    "phone": "(570) 383-8800",
+    "website": "http://www.throoplandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e9041ef-ef55-4039-bc94-096336901969",
+    "confidence": 0.619,
+    "merged_records": 1
+  }
+}

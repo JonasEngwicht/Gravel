@@ -1,0 +1,36 @@
+{
+  "id": "pa-robinson-twp-rock-mulch-and-more",
+  "slug": "rock-mulch-and-more",
+  "name": "Rock Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "839 Robinson Hwy",
+    "city": "Robinson Twp",
+    "state": "PA",
+    "zip": "15057"
+  },
+  "location": {
+    "lat": 40.384121,
+    "lng": -80.264153
+  },
+  "contact": {
+    "phone": "(724) 796-1558",
+    "website": "http://www.rockmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a2ae4d0b-0971-4ad4-a45d-2fd882a098eb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

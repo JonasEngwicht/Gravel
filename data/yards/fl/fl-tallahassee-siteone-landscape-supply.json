@@ -1,0 +1,37 @@
+{
+  "id": "fl-tallahassee-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2840 Industrial Plaza Dr",
+    "city": "Tallahassee",
+    "state": "FL",
+    "zip": "32301"
+  },
+  "location": {
+    "lat": 30.451487,
+    "lng": -84.23082
+  },
+  "contact": {
+    "phone": "(850) 878-0103",
+    "website": "https://www.siteone.com/en/store/551"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d069cadc-abfe-46d0-8ca3-1681a28ade4f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

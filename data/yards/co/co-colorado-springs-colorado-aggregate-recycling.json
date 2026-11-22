@@ -1,0 +1,36 @@
+{
+  "id": "co-colorado-springs-colorado-aggregate-recycling",
+  "slug": "colorado-aggregate-recycling",
+  "name": "Colorado Aggregate Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2255 E Las Vegas St",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80906"
+  },
+  "location": {
+    "lat": 38.801876,
+    "lng": -104.789406
+  },
+  "contact": {
+    "phone": "(719) 458-5522",
+    "website": "http://www.coloradoaggregaterecycling.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3dde9f1e-c6c6-481f-adda-f0f41ff4bf9a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

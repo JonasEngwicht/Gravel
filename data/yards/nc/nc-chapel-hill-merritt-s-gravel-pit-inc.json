@@ -1,0 +1,36 @@
+{
+  "id": "nc-chapel-hill-merritt-s-gravel-pit-inc",
+  "slug": "merritt-s-gravel-pit-inc",
+  "name": "Merritt's Gravel Pit, Inc.",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "3200 Damascus Church Rd",
+    "city": "Chapel Hill",
+    "state": "NC",
+    "zip": "27516"
+  },
+  "location": {
+    "lat": 35.881618,
+    "lng": -79.086113
+  },
+  "contact": {
+    "phone": "(919) 932-5263",
+    "website": "https://www.merrittsgravelpit.com/blank-1"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf8cc5bd-8199-4a1f-abe0-634c98da0dc8",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

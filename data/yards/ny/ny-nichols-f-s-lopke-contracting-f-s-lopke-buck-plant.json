@@ -1,0 +1,41 @@
+{
+  "id": "ny-nichols-f-s-lopke-contracting-f-s-lopke-buck-plant",
+  "slug": "f-s-lopke-contracting-f-s-lopke-buck-plant",
+  "name": "F.S. Lopke Contracting – F.S. Lopke - Buck Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Nichols",
+    "state": "NY",
+    "zip": "13812"
+  },
+  "location": {
+    "lat": 42.068056,
+    "lng": -76.316111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003822"
+  },
+  "msha": [
+    {
+      "mine_id": "3003822",
+      "name": "F.S. Lopke - Buck Plant",
+      "operator": "F.S. Lopke Contracting, Inc.",
+      "status": "Intermittent",
+      "status_since": "2022-03-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

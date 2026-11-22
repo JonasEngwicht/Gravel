@@ -1,0 +1,41 @@
+{
+  "id": "ca-hollister-vineyard-rock-products",
+  "slug": "vineyard-rock-products",
+  "name": "Vineyard Rock Products",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hollister",
+    "state": "CA",
+    "zip": "93925"
+  },
+  "location": {
+    "lat": 36.685833,
+    "lng": -121.335
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405619"
+  },
+  "msha": [
+    {
+      "mine_id": "0405619",
+      "name": "Vineyard Rock",
+      "operator": "Vineyard Rock Products",
+      "status": "Active",
+      "status_since": "2026-07-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

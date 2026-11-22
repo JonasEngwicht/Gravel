@@ -1,0 +1,36 @@
+{
+  "id": "fl-boynton-beach-advanced-mulch-inc",
+  "slug": "advanced-mulch-inc",
+  "name": "Advanced Mulch, Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9621 US-441",
+    "city": "Boynton Beach",
+    "state": "FL",
+    "zip": "33472"
+  },
+  "location": {
+    "lat": 26.5327,
+    "lng": -80.208282
+  },
+  "contact": {
+    "phone": "(561) 691-4737",
+    "website": "http://www.advancedmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ad85c6bb-c295-4817-8c67-997f54e6bb0a",
+    "confidence": 0.927,
+    "merged_records": 1
+  }
+}

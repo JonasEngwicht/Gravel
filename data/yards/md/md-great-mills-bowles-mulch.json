@@ -1,0 +1,36 @@
+{
+  "id": "md-great-mills-bowles-mulch",
+  "slug": "bowles-mulch",
+  "name": "Bowles Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "20637 Flat Iron Rd",
+    "city": "Great Mills",
+    "state": "MD",
+    "zip": "20634"
+  },
+  "location": {
+    "lat": 38.233433,
+    "lng": -76.497055
+  },
+  "contact": {
+    "phone": "(301) 994-1602",
+    "website": "http://www.bowlesmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e209ce91-da1f-4982-81d6-adfc9a7612f0",
+    "confidence": 0.613,
+    "merged_records": 1
+  }
+}

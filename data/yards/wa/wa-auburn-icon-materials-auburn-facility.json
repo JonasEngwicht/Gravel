@@ -1,0 +1,41 @@
+{
+  "id": "wa-auburn-icon-materials-auburn-facility",
+  "slug": "icon-materials-auburn-facility",
+  "name": "ICON Materials – Auburn Facility",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Auburn",
+    "state": "WA",
+    "zip": "98506"
+  },
+  "location": {
+    "lat": 47.178611,
+    "lng": -122.923611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4501237"
+  },
+  "msha": [
+    {
+      "mine_id": "4501237",
+      "name": "Auburn Facility",
+      "operator": "ICON Materials",
+      "status": "Active",
+      "status_since": "1986-01-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

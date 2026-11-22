@@ -1,0 +1,36 @@
+{
+  "id": "md-laurel-laney-recycling-and-aggregates",
+  "slug": "laney-recycling-and-aggregates",
+  "name": "Laney Recycling and Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14852 Old Gunpowder Rd",
+    "city": "Laurel",
+    "state": "MD",
+    "zip": "20707"
+  },
+  "location": {
+    "lat": 39.093769,
+    "lng": -76.913345
+  },
+  "contact": {
+    "phone": "(301) 953-1424",
+    "website": "http://www.laneyrecycling.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8e919e09-ad3d-455f-8a3d-358f27428840",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

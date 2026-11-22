@@ -1,0 +1,41 @@
+{
+  "id": "sd-platte-standy-rock-and-gravel",
+  "slug": "standy-rock-and-gravel",
+  "name": "Standy Rock & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Platte",
+    "state": "SD",
+    "zip": "57369"
+  },
+  "location": {
+    "lat": 43.356389,
+    "lng": -98.963333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3901646"
+  },
+  "msha": [
+    {
+      "mine_id": "3901646",
+      "name": "Standy Pit",
+      "operator": "Standy Rock & Gravel",
+      "status": "Intermittent",
+      "status_since": "2020-11-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

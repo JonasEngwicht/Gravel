@@ -1,0 +1,41 @@
+{
+  "id": "nv-sparks-western-nevada-materials-spanish-springs-quarry",
+  "slug": "western-nevada-materials-spanish-springs-quarry",
+  "name": "Western Nevada Materials – Spanish Springs Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sparks",
+    "state": "NV",
+    "zip": "89441"
+  },
+  "location": {
+    "lat": 39.685556,
+    "lng": -119.718889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2600803"
+  },
+  "msha": [
+    {
+      "mine_id": "2600803",
+      "name": "Spanish Springs Quarry",
+      "operator": "Western Nevada Materials",
+      "status": "Active",
+      "status_since": "2013-11-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

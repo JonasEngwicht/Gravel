@@ -1,0 +1,36 @@
+{
+  "id": "tn-kodak-mulch-and-more",
+  "slug": "mulch-and-more",
+  "name": "Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "310 Douglas Dam Rd",
+    "city": "Kodak",
+    "state": "TN",
+    "zip": "37764"
+  },
+  "location": {
+    "lat": 35.959743,
+    "lng": -83.586006
+  },
+  "contact": {
+    "phone": "(865) 932-7550",
+    "website": "https://mulchandmorelc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aaac0ad8-f3e8-4c51-96c8-afcf3cceded4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

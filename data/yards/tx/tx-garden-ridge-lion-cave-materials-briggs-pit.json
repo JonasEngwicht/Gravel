@@ -1,0 +1,41 @@
+{
+  "id": "tx-garden-ridge-lion-cave-materials-briggs-pit",
+  "slug": "lion-cave-materials-briggs-pit",
+  "name": "Lion Cave Materials Briggs Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Garden Ridge",
+    "state": "TX",
+    "zip": "78266"
+  },
+  "location": {
+    "lat": 29.616944,
+    "lng": -98.327778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105243"
+  },
+  "msha": [
+    {
+      "mine_id": "4105243",
+      "name": "Lion Cave Materials Briggs Pit",
+      "operator": "Lion Cave Materials",
+      "status": "Active",
+      "status_since": "2025-05-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

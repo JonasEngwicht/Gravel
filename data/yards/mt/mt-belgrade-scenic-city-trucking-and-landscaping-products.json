@@ -1,0 +1,36 @@
+{
+  "id": "mt-belgrade-scenic-city-trucking-and-landscaping-products",
+  "slug": "scenic-city-trucking-and-landscaping-products",
+  "name": "Scenic City Trucking & Landscaping Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2239 Amsterdam Rd",
+    "city": "Belgrade",
+    "state": "MT",
+    "zip": "59714"
+  },
+  "location": {
+    "lat": 45.773556,
+    "lng": -111.228271
+  },
+  "contact": {
+    "phone": "(406) 388-7771",
+    "website": "https://www.sceniccitytruckandtrailers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "54e60ccf-191a-4db5-85ac-a27b767d3abf",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

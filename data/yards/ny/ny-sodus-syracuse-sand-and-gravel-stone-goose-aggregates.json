@@ -1,0 +1,41 @@
+{
+  "id": "ny-sodus-syracuse-sand-and-gravel-stone-goose-aggregates",
+  "slug": "syracuse-sand-and-gravel-stone-goose-aggregates",
+  "name": "Syracuse Sand & Gravel – Stone Goose Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sodus",
+    "state": "NY",
+    "zip": "14551"
+  },
+  "location": {
+    "lat": 43.18,
+    "lng": -77.016389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003943"
+  },
+  "msha": [
+    {
+      "mine_id": "3003943",
+      "name": "Stone Goose Aggregates",
+      "operator": "Syracuse Sand & Gravel",
+      "status": "Active",
+      "status_since": "2024-12-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

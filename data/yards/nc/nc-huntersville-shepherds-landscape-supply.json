@@ -1,0 +1,36 @@
+{
+  "id": "nc-huntersville-shepherds-landscape-supply",
+  "slug": "shepherds-landscape-supply",
+  "name": "Shepherds Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "9725 Mount Holly, Hntrsvlle Road",
+    "city": "Huntersville",
+    "state": "NC",
+    "zip": "28078"
+  },
+  "location": {
+    "lat": 35.359764,
+    "lng": -80.866684
+  },
+  "contact": {
+    "phone": "(704) 399-1226",
+    "website": "http://shepherdssupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5a7caba4-e2ef-49da-be53-df40a525799a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pa-kingston-brdaric-excavating-buck-mtn-quarry",
+  "slug": "brdaric-excavating-buck-mtn-quarry",
+  "name": "Brdaric Excavating – Buck Mtn Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Kingston",
+    "state": "PA",
+    "zip": "18709"
+  },
+  "location": {
+    "lat": 41.291944,
+    "lng": -75.897222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609216"
+  },
+  "msha": [
+    {
+      "mine_id": "3609216",
+      "name": "Buck Mtn Quarry",
+      "operator": "Brdaric Excavating, Inc.",
+      "status": "Active",
+      "status_since": "2013-04-02",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

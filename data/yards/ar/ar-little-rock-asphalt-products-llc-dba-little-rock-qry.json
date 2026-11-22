@@ -1,0 +1,41 @@
+{
+  "id": "ar-little-rock-asphalt-products-llc-dba-little-rock-qry",
+  "slug": "asphalt-products-llc-dba-little-rock-qry",
+  "name": "Asphalt Products LLC dba Little Rock Qry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Little Rock",
+    "state": "AR",
+    "zip": "72210"
+  },
+  "location": {
+    "lat": 34.704444,
+    "lng": -92.4575
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0302010"
+  },
+  "msha": [
+    {
+      "mine_id": "0302010",
+      "name": "Asphalt Products LLC dba Little Rock Qry",
+      "operator": "Little Rock Quarry",
+      "status": "Active",
+      "status_since": "2011-05-17",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

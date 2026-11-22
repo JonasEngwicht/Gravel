@@ -1,0 +1,36 @@
+{
+  "id": "pa-white-oak-lincoln-way-landscape-supply",
+  "slug": "lincoln-way-landscape-supply",
+  "name": "Lincoln Way Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2704 Lincoln Way",
+    "city": "White Oak",
+    "state": "PA",
+    "zip": "15131"
+  },
+  "location": {
+    "lat": 40.323414,
+    "lng": -79.786316
+  },
+  "contact": {
+    "phone": "(412) 751-1172",
+    "website": "http://www.lincolnwaylandscapesupply.com/index.php"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4fe78079-af62-45f8-96b8-a910d668b955",
+    "confidence": 0.959,
+    "merged_records": 1
+  }
+}

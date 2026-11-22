@@ -1,0 +1,41 @@
+{
+  "id": "mi-charlevoix-rieth-riley-construction-co-7918-afton-wash-plant",
+  "slug": "rieth-riley-construction-co-7918-afton-wash-plant",
+  "name": "Rieth-Riley Construction Co – 7918 Afton Wash Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Charlevoix",
+    "state": "MI",
+    "zip": "49705"
+  },
+  "location": {
+    "lat": 45.373889,
+    "lng": -84.480278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2001800"
+  },
+  "msha": [
+    {
+      "mine_id": "2001800",
+      "name": "7918 Afton Wash Plant",
+      "operator": "Rieth-Riley Construction Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "2010-10-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

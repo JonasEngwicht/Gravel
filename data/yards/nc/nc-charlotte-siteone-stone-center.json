@@ -1,0 +1,37 @@
+{
+  "id": "nc-charlotte-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "1625 E Westinghouse Blvd",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28273"
+  },
+  "location": {
+    "lat": 35.114567,
+    "lng": -80.891441
+  },
+  "contact": {
+    "phone": "(704) 821-2426",
+    "website": "https://www.siteone.com/en/store/802"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f36377b8-407c-4d26-859c-b7adcb858a1c",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

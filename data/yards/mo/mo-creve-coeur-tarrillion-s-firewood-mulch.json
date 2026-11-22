@@ -1,0 +1,36 @@
+{
+  "id": "mo-creve-coeur-tarrillion-s-firewood-mulch",
+  "slug": "tarrillion-s-firewood-mulch",
+  "name": "Tarrillion's Firewood Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2 Cityplace Dr #200C",
+    "city": "Creve Coeur",
+    "state": "MO",
+    "zip": "63141"
+  },
+  "location": {
+    "lat": 37.826904,
+    "lng": -89.840164
+  },
+  "contact": {
+    "phone": "(314) 550-4844",
+    "website": "https://best-firewood-mulch-delivery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19560fc1-1979-45d9-b1d6-9a3af84ae75f",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

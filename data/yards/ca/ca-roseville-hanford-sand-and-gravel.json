@@ -1,0 +1,36 @@
+{
+  "id": "ca-roseville-hanford-sand-and-gravel",
+  "slug": "hanford-sand-and-gravel",
+  "name": "Hanford Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "97 Berry St",
+    "city": "Roseville",
+    "state": "CA",
+    "zip": "95678"
+  },
+  "location": {
+    "lat": 38.756283,
+    "lng": -121.275085
+  },
+  "contact": {
+    "phone": "(916) 685-9774",
+    "website": "https://hanfordsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "455c5142-149a-404f-a0c3-19b6871af96a",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

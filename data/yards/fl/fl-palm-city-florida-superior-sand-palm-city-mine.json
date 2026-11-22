@@ -1,0 +1,41 @@
+{
+  "id": "fl-palm-city-florida-superior-sand-palm-city-mine",
+  "slug": "florida-superior-sand-palm-city-mine",
+  "name": "Florida Superior Sand – Palm City Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Palm City",
+    "state": "FL",
+    "zip": "34997"
+  },
+  "location": {
+    "lat": 27.073808,
+    "lng": -80.318241
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801418"
+  },
+  "msha": [
+    {
+      "mine_id": "0801418",
+      "name": "Palm City Mine",
+      "operator": "Florida Superior Sand, Inc.",
+      "status": "Active",
+      "status_since": "2018-07-09",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

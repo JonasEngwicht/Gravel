@@ -1,0 +1,41 @@
+{
+  "id": "fl-miami-cemex-construction-materials-florida-fec-quarry",
+  "slug": "cemex-construction-materials-florida-fec-quarry",
+  "name": "CEMEX Construction Materials Florida – Fec Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33016"
+  },
+  "location": {
+    "lat": 25.878056,
+    "lng": -80.361944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0800519"
+  },
+  "msha": [
+    {
+      "mine_id": "0800519",
+      "name": "Fec Quarry",
+      "operator": "CEMEX Construction Materials Florida, LLC",
+      "status": "Active",
+      "status_since": "2008-12-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 142
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-boonville-robert-pardini-logging-johnson-pit",
+  "slug": "robert-pardini-logging-johnson-pit",
+  "name": "Robert Pardini Logging – Johnson Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Boonville",
+    "state": "CA",
+    "zip": "95595"
+  },
+  "location": {
+    "lat": 39.992778,
+    "lng": -123.353889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405592"
+  },
+  "msha": [
+    {
+      "mine_id": "0405592",
+      "name": "Johnson Pit",
+      "operator": "Robert Pardini Logging",
+      "status": "Intermittent",
+      "status_since": "2015-04-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

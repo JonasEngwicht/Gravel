@@ -1,0 +1,47 @@
+{
+  "id": "mn-danvers-commerford-gravel-inc",
+  "slug": "commerford-gravel-inc",
+  "name": "Commerford Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "113 Liberty St",
+    "city": "Danvers",
+    "state": "MN",
+    "zip": "56231"
+  },
+  "location": {
+    "lat": 45.281708,
+    "lng": -95.751755
+  },
+  "contact": {
+    "phone": "(320) 567-2335"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f598ba82-a361-4c7a-93fe-850dbb9f72e8",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2103239",
+      "name": "Wash Plant",
+      "operator": "Commerford Gravel Inc",
+      "status": "Intermittent",
+      "status_since": "2012-05-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-dalton-hostetler-trucking-and-landscape-materials",
+  "slug": "hostetler-trucking-and-landscape-materials",
+  "name": "Hostetler Trucking and Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1400 N Mt Eaton Rd",
+    "city": "Dalton",
+    "state": "OH",
+    "zip": "44618"
+  },
+  "location": {
+    "lat": 40.816048,
+    "lng": -81.700211
+  },
+  "contact": {
+    "phone": "(330) 828-2373",
+    "website": "http://www.hostetlertrucking.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "be0f61c4-4e56-490c-b225-0b4712e20888",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

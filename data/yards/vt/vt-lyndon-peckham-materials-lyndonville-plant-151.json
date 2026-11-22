@@ -1,0 +1,41 @@
+{
+  "id": "vt-lyndon-peckham-materials-lyndonville-plant-151",
+  "slug": "peckham-materials-lyndonville-plant-151",
+  "name": "Peckham Materials – Lyndonville Plant 151",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lyndon",
+    "state": "VT",
+    "zip": "05851"
+  },
+  "location": {
+    "lat": 44.517222,
+    "lng": -72.004167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300304"
+  },
+  "msha": [
+    {
+      "mine_id": "4300304",
+      "name": "Lyndonville Plant 151",
+      "operator": "Peckham Materials Corp",
+      "status": "Intermittent",
+      "status_since": "1983-09-21",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

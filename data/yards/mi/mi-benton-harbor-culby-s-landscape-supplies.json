@@ -1,0 +1,36 @@
+{
+  "id": "mi-benton-harbor-culby-s-landscape-supplies",
+  "slug": "culby-s-landscape-supplies",
+  "name": "Culby's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1010 S Blue Creek Rd",
+    "city": "Benton Harbor",
+    "state": "MI",
+    "zip": "49022"
+  },
+  "location": {
+    "lat": 42.099258,
+    "lng": -86.368912
+  },
+  "contact": {
+    "phone": "(269) 944-1881",
+    "website": "http://www.culbys.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "36c69129-0a9b-4391-a2f2-94ee17b5cab8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

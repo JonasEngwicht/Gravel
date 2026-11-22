@@ -1,0 +1,41 @@
+{
+  "id": "mo-clever-clever-stone-co",
+  "slug": "clever-stone-co",
+  "name": "Clever Stone Co",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Clever",
+    "state": "MO",
+    "zip": "65610"
+  },
+  "location": {
+    "lat": 37.055,
+    "lng": -93.457222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300292"
+  },
+  "msha": [
+    {
+      "mine_id": "2300292",
+      "name": "Clever Stone Co Inc",
+      "operator": "Clever Stone Co Inc",
+      "status": "Active",
+      "status_since": "1973-02-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

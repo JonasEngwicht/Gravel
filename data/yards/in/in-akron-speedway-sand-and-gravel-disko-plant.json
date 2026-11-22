@@ -1,0 +1,41 @@
+{
+  "id": "in-akron-speedway-sand-and-gravel-disko-plant",
+  "slug": "speedway-sand-and-gravel-disko-plant",
+  "name": "Speedway Sand & Gravel – Disko Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Akron",
+    "state": "IN",
+    "zip": "46974"
+  },
+  "location": {
+    "lat": 41.009722,
+    "lng": -85.945556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1201700"
+  },
+  "msha": [
+    {
+      "mine_id": "1201700",
+      "name": "Disko Plant",
+      "operator": "Speedway Sand & Gravel",
+      "status": "Active",
+      "status_since": "2013-10-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

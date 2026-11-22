@@ -1,0 +1,36 @@
+{
+  "id": "tx-corpus-christi-the-rock-depot",
+  "slug": "the-rock-depot",
+  "name": "The Rock Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "15621 S Padre Island Dr",
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78418"
+  },
+  "location": {
+    "lat": 27.592499,
+    "lng": -97.222916
+  },
+  "contact": {
+    "phone": "(361) 949-8999",
+    "website": "http://rockdepottexas.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba20d846-f54a-435b-b21a-07b42029301f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

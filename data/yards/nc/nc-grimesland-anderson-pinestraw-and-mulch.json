@@ -1,0 +1,35 @@
+{
+  "id": "nc-grimesland-anderson-pinestraw-and-mulch",
+  "slug": "anderson-pinestraw-and-mulch",
+  "name": "Anderson Pinestraw & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4014 Avon Rd",
+    "city": "Grimesland",
+    "state": "NC",
+    "zip": "27837"
+  },
+  "location": {
+    "lat": 35.593063,
+    "lng": -77.234253
+  },
+  "contact": {
+    "phone": "(252) 758-0498"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9611cf1b-f9e3-4b73-805a-92aa1ccb2fc1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

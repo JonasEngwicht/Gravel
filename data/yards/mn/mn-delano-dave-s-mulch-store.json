@@ -1,0 +1,36 @@
+{
+  "id": "mn-delano-dave-s-mulch-store",
+  "slug": "dave-s-mulch-store",
+  "name": "Dave's Mulch Store",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4257 US-12",
+    "city": "Delano",
+    "state": "MN",
+    "zip": "55328"
+  },
+  "location": {
+    "lat": 45.053509,
+    "lng": -93.804703
+  },
+  "contact": {
+    "phone": "(763) 972-9191",
+    "website": "http://davesmulchstore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6b4f503d-8f40-4bc5-9f00-e307eec94225",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

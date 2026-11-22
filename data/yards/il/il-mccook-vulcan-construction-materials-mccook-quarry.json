@@ -1,0 +1,41 @@
+{
+  "id": "il-mccook-vulcan-construction-materials-mccook-quarry",
+  "slug": "vulcan-construction-materials-mccook-quarry",
+  "name": "Vulcan Construction Materials – McCook Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "McCook",
+    "state": "IL",
+    "zip": "60534"
+  },
+  "location": {
+    "lat": 41.803611,
+    "lng": -87.8225
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100225"
+  },
+  "msha": [
+    {
+      "mine_id": "1100225",
+      "name": "McCook Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 94
+    }
+  ]
+}

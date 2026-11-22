@@ -1,0 +1,41 @@
+{
+  "id": "mt-ryegate-barber-pit",
+  "slug": "barber-pit",
+  "name": "Barber Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Ryegate",
+    "state": "MT",
+    "zip": "59074"
+  },
+  "location": {
+    "lat": 46.219722,
+    "lng": -109.423889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402642"
+  },
+  "msha": [
+    {
+      "mine_id": "2402642",
+      "name": "Barber Pit",
+      "operator": "SB Stone",
+      "status": "Active",
+      "status_since": "2020-06-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "md-abingdon-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1304 Governors Ct",
+    "city": "Abingdon",
+    "state": "MD",
+    "zip": "21009"
+  },
+  "location": {
+    "lat": 39.448975,
+    "lng": -76.292587
+  },
+  "contact": {
+    "phone": "(410) 679-0701",
+    "website": "https://www.siteone.com/store/538"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e4cb7944-a4cd-4296-97bf-9684559f4f19",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

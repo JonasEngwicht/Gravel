@@ -1,0 +1,41 @@
+{
+  "id": "mi-st-johns-carl-schlegel-scott-road",
+  "slug": "carl-schlegel-scott-road",
+  "name": "Carl Schlegel – Scott Road",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "St. Johns",
+    "state": "MI",
+    "zip": "48879"
+  },
+  "location": {
+    "lat": 43.038611,
+    "lng": -84.543056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003089"
+  },
+  "msha": [
+    {
+      "mine_id": "2003089",
+      "name": "Scott Road",
+      "operator": "Carl Schlegel Inc",
+      "status": "Active",
+      "status_since": "2020-09-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

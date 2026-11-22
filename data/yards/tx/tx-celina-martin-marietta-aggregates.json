@@ -1,0 +1,37 @@
+{
+  "id": "tx-celina-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "11481 CR-53",
+    "city": "Celina",
+    "state": "TX",
+    "zip": "75009"
+  },
+  "location": {
+    "lat": 33.291996,
+    "lng": -96.791267
+  },
+  "contact": {
+    "phone": "(972) 382-8034",
+    "website": "https://www.martinmarietta.com/locations/southwest/north-texasoklahoma-district/celina-yard"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a155c3ab-7772-4d48-bba6-46a8c279ef4f",
+    "confidence": 0.932,
+    "merged_records": 1
+  }
+}

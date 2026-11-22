@@ -1,0 +1,41 @@
+{
+  "id": "mo-piedmont-rmc-leeper",
+  "slug": "rmc-leeper",
+  "name": "RMC Leeper",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Piedmont",
+    "state": "MO",
+    "zip": "63957"
+  },
+  "location": {
+    "lat": 37.151667,
+    "lng": -90.699167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302442"
+  },
+  "msha": [
+    {
+      "mine_id": "2302442",
+      "name": "RMC Leeper",
+      "operator": "Rmc, Llc",
+      "status": "Intermittent",
+      "status_since": "2013-08-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

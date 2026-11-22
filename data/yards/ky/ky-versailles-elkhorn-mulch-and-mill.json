@@ -1,0 +1,36 @@
+{
+  "id": "ky-versailles-elkhorn-mulch-and-mill",
+  "slug": "elkhorn-mulch-and-mill",
+  "name": "Elkhorn Mulch & Mill",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "584 Old Frankfort Pike",
+    "city": "Versailles",
+    "state": "KY",
+    "zip": "40383"
+  },
+  "location": {
+    "lat": 38.103989,
+    "lng": -84.63942
+  },
+  "contact": {
+    "phone": "(859) 879-0005",
+    "website": "https://www.kentuckymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c8975ac-d694-4ab2-a52c-e6155af0237c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

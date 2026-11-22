@@ -1,0 +1,37 @@
+{
+  "id": "fl-jacksonville-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "3200 Powers Ave",
+    "city": "Jacksonville",
+    "state": "FL",
+    "zip": "32207"
+  },
+  "location": {
+    "lat": 30.266605,
+    "lng": -81.62455
+  },
+  "contact": {
+    "phone": "(904) 733-8720",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e03a85b7-5a97-409c-9b97-e72f22bceb9c",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

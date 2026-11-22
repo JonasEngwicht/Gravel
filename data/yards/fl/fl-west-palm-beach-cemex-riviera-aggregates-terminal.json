@@ -1,0 +1,36 @@
+{
+  "id": "fl-west-palm-beach-cemex-riviera-aggregates-terminal",
+  "slug": "cemex-riviera-aggregates-terminal",
+  "name": "CEMEX Riviera Aggregates Terminal",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1490 Doctor Martin Luther King Junior Boulevard",
+    "city": "West Palm Beach",
+    "state": "FL",
+    "zip": "33404"
+  },
+  "location": {
+    "lat": 26.770407,
+    "lng": -80.078758
+  },
+  "contact": {
+    "phone": "(813) 269-1002",
+    "website": "https://www.cemexusa.com/-/riviera-aggregates-terminal"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "658bb4e2-98de-476d-a272-e227ce274d9a",
+    "confidence": 0.996,
+    "merged_records": 1
+  }
+}

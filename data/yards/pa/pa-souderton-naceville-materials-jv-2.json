@@ -1,0 +1,41 @@
+{
+  "id": "pa-souderton-naceville-materials-jv-2",
+  "slug": "naceville-materials-jv-2",
+  "name": "Naceville Materials JV",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Souderton",
+    "state": "PA",
+    "zip": "18969"
+  },
+  "location": {
+    "lat": 40.352222,
+    "lng": -75.371667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608347"
+  },
+  "msha": [
+    {
+      "mine_id": "3608347",
+      "name": "Naceville Materials",
+      "operator": "Naceville Materials JV",
+      "status": "Active",
+      "status_since": "1999-01-28",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

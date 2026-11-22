@@ -1,0 +1,49 @@
+{
+  "id": "ma-swampscott-aggregate-industries-lynn-sand-and-stone-div",
+  "slug": "aggregate-industries-lynn-sand-and-stone-div",
+  "name": "Aggregate Industries/Lynn Sand & Stone Div",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "30 Danvers Rd",
+    "city": "Swampscott",
+    "state": "MA",
+    "zip": "01907"
+  },
+  "location": {
+    "lat": 42.486908,
+    "lng": -70.914925
+  },
+  "contact": {
+    "phone": "(781) 596-4100",
+    "website": "http://www.aggregate-us.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dab76f1e-8214-4f0a-bacd-4524561f39ed",
+    "confidence": 0.543,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1900020",
+      "name": "Amrize Swampscott Quarry",
+      "operator": "Amrize Northeast Inc.",
+      "status": "Active",
+      "status_since": "2013-02-04",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "active-nearby",
+      "employees": 11
+    }
+  ]
+}

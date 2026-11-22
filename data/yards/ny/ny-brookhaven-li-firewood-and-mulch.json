@@ -1,0 +1,36 @@
+{
+  "id": "ny-brookhaven-li-firewood-and-mulch",
+  "slug": "li-firewood-and-mulch",
+  "name": "Li Firewood And Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "25 Grucci Ln",
+    "city": "Brookhaven",
+    "state": "NY",
+    "zip": "11719"
+  },
+  "location": {
+    "lat": 40.810032,
+    "lng": -72.932457
+  },
+  "contact": {
+    "phone": "(631) 803-2227",
+    "website": "https://lifirewoodandmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cfba8b73-73d5-45d6-98f4-9e3318e142e5",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

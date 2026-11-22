@@ -1,0 +1,41 @@
+{
+  "id": "nh-danbury-clarke-and-co-earthworks-contractors",
+  "slug": "clarke-and-co-earthworks-contractors",
+  "name": "Clarke & Co. Earthworks Contractors",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Danbury",
+    "state": "NH",
+    "zip": "03287"
+  },
+  "location": {
+    "lat": 43.466389,
+    "lng": -71.895
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700461"
+  },
+  "msha": [
+    {
+      "mine_id": "2700461",
+      "name": "Clarke & Co. Earthworks Contractors",
+      "operator": "Clarke & Co. Earthworks Contractors",
+      "status": "Active",
+      "status_since": "2022-05-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

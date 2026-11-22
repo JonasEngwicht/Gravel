@@ -1,0 +1,49 @@
+{
+  "id": "oh-sylvania-hanson-aggregates-midwest",
+  "slug": "hanson-aggregates-midwest",
+  "name": "Hanson Aggregates Midwest",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "8130 Brint Rd",
+    "city": "Sylvania",
+    "state": "OH",
+    "zip": "43560"
+  },
+  "location": {
+    "lat": 41.702629,
+    "lng": -83.740707
+  },
+  "contact": {
+    "phone": "(419) 882-0123",
+    "website": "https://www.lehighhanson.com/home/advanced?s=quote&fid=nusohf5038-sylvania-quarry-OH-Limestone&isAdvancedPage=true"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "642d32b5-4f06-4a59-8b40-546edc9f3e21",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3300166",
+      "name": "Sylvania Stone Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2016-10-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 17
+    }
+  ]
+}

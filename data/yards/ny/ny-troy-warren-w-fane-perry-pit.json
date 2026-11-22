@@ -1,0 +1,41 @@
+{
+  "id": "ny-troy-warren-w-fane-perry-pit",
+  "slug": "warren-w-fane-perry-pit",
+  "name": "Warren W Fane – Perry Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Troy",
+    "state": "NY",
+    "zip": "12182"
+  },
+  "location": {
+    "lat": 42.8125,
+    "lng": -73.634444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003592"
+  },
+  "msha": [
+    {
+      "mine_id": "3003592",
+      "name": "Perry Pit",
+      "operator": "Warren W Fane Inc",
+      "status": "Intermittent",
+      "status_since": "2022-09-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

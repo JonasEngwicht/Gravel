@@ -1,0 +1,41 @@
+{
+  "id": "ny-batavia-heidelberg-materials-northeast-ny-batavia",
+  "slug": "heidelberg-materials-northeast-ny-batavia",
+  "name": "Heidelberg Materials Northeast-NY – Batavia",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Batavia",
+    "state": "NY",
+    "zip": "14143"
+  },
+  "location": {
+    "lat": 42.961667,
+    "lng": -78.133889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000812"
+  },
+  "msha": [
+    {
+      "mine_id": "3000812",
+      "name": "Batavia",
+      "operator": "Heidelberg Materials Northeast-NY LLC",
+      "status": "Active",
+      "status_since": "2016-11-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

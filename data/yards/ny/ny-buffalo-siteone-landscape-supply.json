@@ -1,0 +1,37 @@
+{
+  "id": "ny-buffalo-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2775 Broadway St Ste 300 Ste 100",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14227"
+  },
+  "location": {
+    "lat": 42.900326,
+    "lng": -78.773445
+  },
+  "contact": {
+    "phone": "(716) 684-0151",
+    "website": "https://www.siteone.com/en/store/497"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "209906d8-876e-4c57-bb8b-d57fcbf774a2",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

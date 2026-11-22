@@ -1,0 +1,37 @@
+{
+  "id": "nc-gastonia-superior-irrigation-and-landscape-supply",
+  "slug": "superior-irrigation-and-landscape-supply",
+  "name": "Superior Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "superior irrigation",
+  "address": {
+    "street": "3001 NW Blvd",
+    "city": "Gastonia",
+    "state": "NC",
+    "zip": "28052"
+  },
+  "location": {
+    "lat": 35.274216,
+    "lng": -81.223427
+  },
+  "contact": {
+    "phone": "(980) 325-0022",
+    "website": "https://www.heritagelandscapesupplygroup.com/en/distributor-network/SILGAST/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a0adbef0-89f7-4c1f-82af-779555f8be10",
+    "confidence": 0.963,
+    "merged_records": 1
+  }
+}

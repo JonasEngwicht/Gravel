@@ -1,0 +1,47 @@
+{
+  "id": "oh-marietta-briggs-sand-and-gravel",
+  "slug": "briggs-sand-and-gravel",
+  "name": "Briggs Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1905 Blue Knob Rd",
+    "city": "Marietta",
+    "state": "OH",
+    "zip": "45750"
+  },
+  "location": {
+    "lat": 39.367641,
+    "lng": -81.535782
+  },
+  "contact": {
+    "phone": "(740) 373-3363"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "738c7fbd-99aa-4f89-b85b-642a3000a82c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301411",
+      "name": "Briggs Sand and Gravel Inc",
+      "operator": "Briggs Sand and Gravel Inc",
+      "status": "Active",
+      "status_since": "2024-12-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

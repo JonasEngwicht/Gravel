@@ -1,0 +1,36 @@
+{
+  "id": "nc-greenville-alex-pinestraw-and-mulch-llc",
+  "slug": "alex-pinestraw-and-mulch-llc",
+  "name": "Alex Pinestraw & Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1323 Ellison Ct",
+    "city": "Greenville",
+    "state": "NC",
+    "zip": "27858"
+  },
+  "location": {
+    "lat": 35.534969,
+    "lng": -77.348434
+  },
+  "contact": {
+    "phone": "(252) 714-7584",
+    "website": "https://www.alexpinestraw.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1fd41b4c-befa-43df-8703-751f85fddca3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

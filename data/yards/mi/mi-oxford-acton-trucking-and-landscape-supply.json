@@ -1,0 +1,35 @@
+{
+  "id": "mi-oxford-acton-trucking-and-landscape-supply",
+  "slug": "acton-trucking-and-landscape-supply",
+  "name": "Acton Trucking and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1955 E Lakeville Rd",
+    "city": "Oxford",
+    "state": "MI",
+    "zip": "48371"
+  },
+  "location": {
+    "lat": 42.826157,
+    "lng": -83.22438
+  },
+  "contact": {
+    "phone": "(248) 640-2140"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb39f8b1-e587-427d-acad-6c60c43e3010",
+    "confidence": 0.551,
+    "merged_records": 1
+  }
+}

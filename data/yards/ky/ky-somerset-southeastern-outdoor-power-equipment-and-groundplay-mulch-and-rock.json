@@ -1,0 +1,36 @@
+{
+  "id": "ky-somerset-southeastern-outdoor-power-equipment-and-groundplay-mulch-and-rock",
+  "slug": "southeastern-outdoor-power-equipment-and-groundplay-mulch-and-rock",
+  "name": "Southeastern Outdoor Power Equipment and Groundplay Mulch and Rock",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "430 S Richardson Dr",
+    "city": "Somerset",
+    "state": "KY",
+    "zip": "42501"
+  },
+  "location": {
+    "lat": 37.086983,
+    "lng": -84.607796
+  },
+  "contact": {
+    "phone": "(606) 872-9899",
+    "website": "http://www.groundplaymulchandrock.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd2ffa80-cd34-4205-aef0-e45dbb42879f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

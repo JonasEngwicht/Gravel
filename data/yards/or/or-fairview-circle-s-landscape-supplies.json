@@ -1,0 +1,35 @@
+{
+  "id": "or-fairview-circle-s-landscape-supplies",
+  "slug": "circle-s-landscape-supplies",
+  "name": "Circle S Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "22420 NE Halsey St",
+    "city": "Fairview",
+    "state": "OR",
+    "zip": "97024"
+  },
+  "location": {
+    "lat": 45.535,
+    "lng": -122.432182
+  },
+  "contact": {
+    "phone": "(503) 667-6820"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2811a54d-72a6-434e-b890-e42abdb068d9",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-carroll-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "3560 Dolson Ct",
+    "city": "Carroll",
+    "state": "OH",
+    "zip": "43112"
+  },
+  "location": {
+    "lat": 39.75993,
+    "lng": -82.667221
+  },
+  "contact": {
+    "phone": "(740) 756-7900"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "021fdf64-cda3-49b6-8a7d-c13a77345a76",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

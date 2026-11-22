@@ -1,0 +1,41 @@
+{
+  "id": "or-laurelwood-riverbend-materials-laurelwood-quarry",
+  "slug": "riverbend-materials-laurelwood-quarry",
+  "name": "RiverBend Materials – Laurelwood Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Laurelwood",
+    "state": "OR",
+    "zip": "97123"
+  },
+  "location": {
+    "lat": 45.403056,
+    "lng": -123.083611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503439"
+  },
+  "msha": [
+    {
+      "mine_id": "3503439",
+      "name": "Laurelwood Quarry",
+      "operator": "RiverBend Materials",
+      "status": "Active",
+      "status_since": "2020-04-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

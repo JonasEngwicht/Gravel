@@ -1,0 +1,36 @@
+{
+  "id": "md-rosedale-king-mulch",
+  "slug": "king-mulch",
+  "name": "King Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7941 Pulaski Hwy",
+    "city": "Rosedale",
+    "state": "MD",
+    "zip": "21237"
+  },
+  "location": {
+    "lat": 39.318325,
+    "lng": -76.512085
+  },
+  "contact": {
+    "phone": "(410) 682-2992",
+    "website": "http://www.KingMulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d09a3ca8-8abf-42fa-af61-13f453f84e5f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

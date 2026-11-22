@@ -1,0 +1,36 @@
+{
+  "id": "tx-san-antonio-go-aggregates",
+  "slug": "go-aggregates",
+  "name": "Go Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15303 Huebner Rd  Ste 8",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78248"
+  },
+  "location": {
+    "lat": 29.581097,
+    "lng": -98.540115
+  },
+  "contact": {
+    "phone": "(210) 263-9795",
+    "website": "http://goagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "54d80667-0a0d-42fb-9b5d-7316ccaf7826",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

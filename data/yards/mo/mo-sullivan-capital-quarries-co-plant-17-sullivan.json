@@ -1,0 +1,41 @@
+{
+  "id": "mo-sullivan-capital-quarries-co-plant-17-sullivan",
+  "slug": "capital-quarries-co-plant-17-sullivan",
+  "name": "Capital Quarries Co – Plant #17-Sullivan",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sullivan",
+    "state": "MO",
+    "zip": "65441"
+  },
+  "location": {
+    "lat": 38.151389,
+    "lng": -91.175833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2301863"
+  },
+  "msha": [
+    {
+      "mine_id": "2301863",
+      "name": "Plant #17-Sullivan",
+      "operator": "Capital Quarries Co Inc",
+      "status": "Active",
+      "status_since": "2010-04-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

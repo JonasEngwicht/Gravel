@@ -1,0 +1,41 @@
+{
+  "id": "wy-sheridan-mullinax-kennedy",
+  "slug": "mullinax-kennedy",
+  "name": "Mullinax – Kennedy",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Sheridan",
+    "state": "WY",
+    "zip": "82831"
+  },
+  "location": {
+    "lat": 44.661111,
+    "lng": -106.106667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4801872"
+  },
+  "msha": [
+    {
+      "mine_id": "4801872",
+      "name": "Kennedy",
+      "operator": "Mullinax Inc",
+      "status": "Intermittent",
+      "status_since": "2024-03-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

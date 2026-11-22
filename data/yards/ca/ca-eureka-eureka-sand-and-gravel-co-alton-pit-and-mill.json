@@ -1,0 +1,41 @@
+{
+  "id": "ca-eureka-eureka-sand-and-gravel-co-alton-pit-and-mill",
+  "slug": "eureka-sand-and-gravel-co-alton-pit-and-mill",
+  "name": "Eureka Sand & Gravel Co – Alton Pit & Mill",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Eureka",
+    "state": "CA",
+    "zip": "95540"
+  },
+  "location": {
+    "lat": 40.548333,
+    "lng": -124.149722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0402711"
+  },
+  "msha": [
+    {
+      "mine_id": "0402711",
+      "name": "Alton Pit & Mill",
+      "operator": "Eureka Sand & Gravel Co Inc",
+      "status": "Active",
+      "status_since": "1989-11-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

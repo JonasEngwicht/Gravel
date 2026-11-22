@@ -1,0 +1,36 @@
+{
+  "id": "or-portland-calportland-front-avenue-aggregate-yard",
+  "slug": "calportland-front-avenue-aggregate-yard",
+  "name": "CalPortland Front Avenue Aggregate Yard",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5034 NW Front Ave",
+    "city": "Portland",
+    "state": "OR",
+    "zip": "97210"
+  },
+  "location": {
+    "lat": 45.561863,
+    "lng": -122.732613
+  },
+  "contact": {
+    "phone": "(503) 243-5535",
+    "website": "https://www.calportland.com/locations/oregon/front-avenue-rm-plant/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e82a1e1-4ce1-4cd1-aa85-574efa8a8836",
+    "confidence": 0.986,
+    "merged_records": 1
+  }
+}

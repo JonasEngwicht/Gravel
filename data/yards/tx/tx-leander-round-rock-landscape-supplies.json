@@ -1,0 +1,36 @@
+{
+  "id": "tx-leander-round-rock-landscape-supplies",
+  "slug": "round-rock-landscape-supplies",
+  "name": "Round Rock Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "600 N Bagdad Rd",
+    "city": "Leander",
+    "state": "TX",
+    "zip": "78641"
+  },
+  "location": {
+    "lat": 30.5784,
+    "lng": -97.871376
+  },
+  "contact": {
+    "phone": "(512) 260-9273",
+    "website": "https://www.roundrocklandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "48092652-3790-4b79-9e25-13632b2f74c4",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

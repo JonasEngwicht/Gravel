@@ -1,0 +1,37 @@
+{
+  "id": "oh-columbus-ohio-mulch-826-e-dublin-granville-rd",
+  "slug": "ohio-mulch-826-e-dublin-granville-rd",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "826 E Dublin Granville Rd",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43229"
+  },
+  "location": {
+    "lat": 40.088776,
+    "lng": -82.996796
+  },
+  "contact": {
+    "phone": "(380) 390-2823",
+    "website": "https://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2878b215-ea9b-4d22-867c-c12aed8605eb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

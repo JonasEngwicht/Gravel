@@ -1,0 +1,41 @@
+{
+  "id": "ca-lodi-concrete-inc-dba-knife-river",
+  "slug": "concrete-inc-dba-knife-river",
+  "name": "Concrete, Inc DBA Knife River",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lodi",
+    "state": "CA",
+    "zip": "95227"
+  },
+  "location": {
+    "lat": 38.160556,
+    "lng": -121.021944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405140"
+  },
+  "msha": [
+    {
+      "mine_id": "0405140",
+      "name": "Concrete, Inc DBA Knife River",
+      "operator": "Knife River",
+      "status": "Active",
+      "status_since": "2017-10-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

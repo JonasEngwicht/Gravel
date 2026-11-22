@@ -1,0 +1,41 @@
+{
+  "id": "tn-unicoi-martin-marietta-southeast-agg-operations-unicoi-quarry",
+  "slug": "martin-marietta-southeast-agg-operations-unicoi-quarry",
+  "name": "Martin Marietta Southeast Agg Operations – Unicoi Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Unicoi",
+    "state": "TN",
+    "zip": "37692"
+  },
+  "location": {
+    "lat": 36.24,
+    "lng": -82.303611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4002075"
+  },
+  "msha": [
+    {
+      "mine_id": "4002075",
+      "name": "Unicoi Quarry",
+      "operator": "Martin Marietta Southeast Agg Operations, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-03-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

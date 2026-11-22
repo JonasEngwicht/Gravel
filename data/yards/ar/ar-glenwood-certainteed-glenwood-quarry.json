@@ -1,0 +1,41 @@
+{
+  "id": "ar-glenwood-certainteed-glenwood-quarry",
+  "slug": "certainteed-glenwood-quarry",
+  "name": "CertainTeed – Glenwood Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Glenwood",
+    "state": "AR",
+    "zip": "71943"
+  },
+  "location": {
+    "lat": 34.361389,
+    "lng": -93.5775
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0300466"
+  },
+  "msha": [
+    {
+      "mine_id": "0300466",
+      "name": "Glenwood Quarry",
+      "operator": "CertainTeed",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Slate",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

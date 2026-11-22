@@ -1,0 +1,41 @@
+{
+  "id": "oh-new-springfield-commercial-minerals-tiger-mine",
+  "slug": "commercial-minerals-tiger-mine",
+  "name": "Commercial Minerals – Tiger Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "New Springfield",
+    "state": "OH",
+    "zip": "44443"
+  },
+  "location": {
+    "lat": 40.905556,
+    "lng": -80.588611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304820"
+  },
+  "msha": [
+    {
+      "mine_id": "3304820",
+      "name": "Tiger Mine",
+      "operator": "Commercial Minerals, Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-01-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

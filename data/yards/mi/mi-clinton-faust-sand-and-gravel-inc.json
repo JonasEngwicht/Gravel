@@ -1,0 +1,36 @@
+{
+  "id": "mi-clinton-faust-sand-and-gravel-inc",
+  "slug": "faust-sand-and-gravel-inc",
+  "name": "Faust Sand & Gravel, Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2036 W US12",
+    "city": "Clinton",
+    "state": "MI",
+    "zip": "49236"
+  },
+  "location": {
+    "lat": 42.073334,
+    "lng": -84.024979
+  },
+  "contact": {
+    "phone": "(517) 456-4969",
+    "website": "https://www.faustsandgraveltopsoils.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3faf6da8-8e46-4256-a135-4c91d996e428",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

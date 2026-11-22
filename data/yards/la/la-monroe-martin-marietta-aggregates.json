@@ -1,0 +1,37 @@
+{
+  "id": "la-monroe-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "4919 Construction Ave",
+    "city": "Monroe",
+    "state": "LA",
+    "zip": "71203"
+  },
+  "location": {
+    "lat": 32.506207,
+    "lng": -92.051155
+  },
+  "contact": {
+    "phone": "(318) 387-5970",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2ab11175-ff62-4367-b5a3-21da941ca3c3",
+    "confidence": 0.664,
+    "merged_records": 1
+  }
+}

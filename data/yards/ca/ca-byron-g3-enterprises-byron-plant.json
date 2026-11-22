@@ -1,0 +1,41 @@
+{
+  "id": "ca-byron-g3-enterprises-byron-plant",
+  "slug": "g3-enterprises-byron-plant",
+  "name": "G3 Enterprises Byron Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Byron",
+    "state": "CA",
+    "zip": "94514"
+  },
+  "location": {
+    "lat": 37.8625,
+    "lng": -121.669167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0401949"
+  },
+  "msha": [
+    {
+      "mine_id": "0401949",
+      "name": "G3 Enterprises Byron Plant",
+      "operator": "G3 Enterprises, Inc.",
+      "status": "Active",
+      "status_since": "1974-09-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

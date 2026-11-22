@@ -1,0 +1,48 @@
+{
+  "id": "az-phoenix-martin-marietta-51st-avenue-aggregates",
+  "slug": "martin-marietta-51st-avenue-aggregates",
+  "name": "Martin Marietta - 51st Avenue Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "4002 S 51st Ave",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85043"
+  },
+  "location": {
+    "lat": 33.407799,
+    "lng": -112.176933
+  },
+  "contact": {
+    "phone": "(602) 685-4815",
+    "website": "https://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "343e00c2-fc40-4568-b867-1d3d0a6b611f",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0202611",
+      "name": "51st Ave. Plant 35",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Abandoned",
+      "status_since": "2012-02-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

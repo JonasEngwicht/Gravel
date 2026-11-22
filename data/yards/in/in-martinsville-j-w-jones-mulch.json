@@ -1,0 +1,36 @@
+{
+  "id": "in-martinsville-j-w-jones-mulch",
+  "slug": "j-w-jones-mulch",
+  "name": "J.W. Jones Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "900 State Road 39 Byp S",
+    "city": "Martinsville",
+    "state": "IN",
+    "zip": "46151"
+  },
+  "location": {
+    "lat": 39.418468,
+    "lng": -86.435097
+  },
+  "contact": {
+    "phone": "(812) 929-1976",
+    "website": "http://www.jwjonesmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0986a6c0-4462-400a-9fea-bbb4a6777b12",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

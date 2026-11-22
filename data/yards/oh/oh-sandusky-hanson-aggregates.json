@@ -1,0 +1,49 @@
+{
+  "id": "oh-sandusky-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "4203 Milan Rd",
+    "city": "Sandusky",
+    "state": "OH",
+    "zip": "44870"
+  },
+  "location": {
+    "lat": 41.417351,
+    "lng": -82.675034
+  },
+  "contact": {
+    "phone": "(419) 625-8141",
+    "website": "https://www.lehighhanson.com/home/advanced?s=quote&fid=nusohf5039-wagner-quarry-OH-Limestone&isAdvancedPage=true"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "17d11f8c-1667-45bc-b262-c7fa24d548b0",
+    "confidence": 0.901,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "3300175",
+      "name": "Wagner Quarries",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "1996-10-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 24
+    }
+  ]
+}

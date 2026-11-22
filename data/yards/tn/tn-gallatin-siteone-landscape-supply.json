@@ -1,0 +1,37 @@
+{
+  "id": "tn-gallatin-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1270 Long Hollow Pike",
+    "city": "Gallatin",
+    "state": "TN",
+    "zip": "37066"
+  },
+  "location": {
+    "lat": 36.387627,
+    "lng": -86.502754
+  },
+  "contact": {
+    "phone": "(615) 452-9411",
+    "website": "https://www.siteone.com/en/store/194"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "354aa001-f7df-4a46-9ba0-2ff99f4ea50d",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

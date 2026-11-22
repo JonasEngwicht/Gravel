@@ -1,0 +1,41 @@
+{
+  "id": "ok-coweta-holliday-sand-and-gravel-coweta-plant-10",
+  "slug": "holliday-sand-and-gravel-coweta-plant-10",
+  "name": "Holliday Sand & Gravel – Coweta Plant #10",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Coweta",
+    "state": "OK",
+    "zip": "74429"
+  },
+  "location": {
+    "lat": 35.959167,
+    "lng": -95.636667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400892"
+  },
+  "msha": [
+    {
+      "mine_id": "3400892",
+      "name": "Coweta Plant #10",
+      "operator": "Holliday Sand & Gravel",
+      "status": "Active",
+      "status_since": "2014-02-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

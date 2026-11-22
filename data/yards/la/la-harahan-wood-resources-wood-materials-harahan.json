@@ -1,0 +1,41 @@
+{
+  "id": "la-harahan-wood-resources-wood-materials-harahan",
+  "slug": "wood-resources-wood-materials-harahan",
+  "name": "Wood Resources – Wood Materials - Harahan",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Harahan",
+    "state": "LA",
+    "zip": "70123"
+  },
+  "location": {
+    "lat": 29.936944,
+    "lng": -90.188611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601343"
+  },
+  "msha": [
+    {
+      "mine_id": "1601343",
+      "name": "Wood Materials - Harahan",
+      "operator": "Wood Resources LLC",
+      "status": "Active",
+      "status_since": "1999-03-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

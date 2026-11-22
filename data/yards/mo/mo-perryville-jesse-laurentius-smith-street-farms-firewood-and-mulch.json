@@ -1,0 +1,36 @@
+{
+  "id": "mo-perryville-jesse-laurentius-smith-street-farms-firewood-and-mulch",
+  "slug": "jesse-laurentius-smith-street-farms-firewood-and-mulch",
+  "name": "Jesse Laurentius/ Smith Street Farms Firewood and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1012 Smith St",
+    "city": "Perryville",
+    "state": "MO",
+    "zip": "63775"
+  },
+  "location": {
+    "lat": 37.736187,
+    "lng": -89.853905
+  },
+  "contact": {
+    "phone": "(573) 517-1775",
+    "website": "http://www.deliveredfirewood.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3b7014fa-725c-40e4-a080-fb9dca4826d1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

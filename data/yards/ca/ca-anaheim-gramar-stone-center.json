@@ -1,0 +1,36 @@
+{
+  "id": "ca-anaheim-gramar-stone-center",
+  "slug": "gramar-stone-center",
+  "name": "Gramar Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1423 S State College Blvd",
+    "city": "Anaheim",
+    "state": "CA",
+    "zip": "92806"
+  },
+  "location": {
+    "lat": 33.812572,
+    "lng": -117.889862
+  },
+  "contact": {
+    "phone": "(714) 533-2244",
+    "website": "http://www.gramarstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb91c6ff-65aa-41de-8513-da2ea3d1a157",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

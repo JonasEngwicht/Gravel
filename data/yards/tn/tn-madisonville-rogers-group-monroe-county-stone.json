@@ -1,0 +1,41 @@
+{
+  "id": "tn-madisonville-rogers-group-monroe-county-stone",
+  "slug": "rogers-group-monroe-county-stone",
+  "name": "Rogers Group – Monroe County Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Madisonville",
+    "state": "TN",
+    "zip": "37329"
+  },
+  "location": {
+    "lat": 35.456944,
+    "lng": -84.42
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003144"
+  },
+  "msha": [
+    {
+      "mine_id": "4003144",
+      "name": "Monroe County Stone",
+      "operator": "Rogers Group Inc",
+      "status": "Active",
+      "status_since": "1999-08-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

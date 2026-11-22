@@ -1,0 +1,35 @@
+{
+  "id": "wa-snohomish-northwest-sand-and-gravel",
+  "slug": "northwest-sand-and-gravel",
+  "name": "Northwest Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3701 Bickford Ave",
+    "city": "Snohomish",
+    "state": "WA",
+    "zip": "98290"
+  },
+  "location": {
+    "lat": 47.951988,
+    "lng": -122.117134
+  },
+  "contact": {
+    "phone": "(360) 563-2408"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "67b6af4e-31ce-4041-9282-c5e715ed84d9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

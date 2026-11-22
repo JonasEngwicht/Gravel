@@ -1,0 +1,48 @@
+{
+  "id": "in-crawfordsville-us-aggregates",
+  "slug": "us-aggregates",
+  "name": "US Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3607 N US Highway 231",
+    "city": "Crawfordsville",
+    "state": "IN",
+    "zip": "47933"
+  },
+  "location": {
+    "lat": 40.092083,
+    "lng": -86.906525
+  },
+  "contact": {
+    "phone": "(765) 362-2500",
+    "website": "http://Usagg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4fc7d538-4e4b-41b4-8d2f-aec5ca1ebcc6",
+    "confidence": 0.997,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202141",
+      "name": "Crawfordsville Plant",
+      "operator": "US Aggregates LLC",
+      "status": "Active",
+      "status_since": "2011-04-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

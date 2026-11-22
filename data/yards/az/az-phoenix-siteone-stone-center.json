@@ -1,0 +1,37 @@
+{
+  "id": "az-phoenix-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "2514 E Indian School Rd",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85016"
+  },
+  "location": {
+    "lat": 33.495148,
+    "lng": -112.027435
+  },
+  "contact": {
+    "phone": "(480) 546-7944",
+    "website": "https://www.siteone.com/en/store/1027"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f1c5e99-a747-49a7-bd53-06cdf7903cba",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

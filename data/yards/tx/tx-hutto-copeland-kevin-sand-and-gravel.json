@@ -1,0 +1,35 @@
+{
+  "id": "tx-hutto-copeland-kevin-sand-and-gravel",
+  "slug": "copeland-kevin-sand-and-gravel",
+  "name": "Copeland Kevin Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "453 N FM-1660",
+    "city": "Hutto",
+    "state": "TX",
+    "zip": "78634"
+  },
+  "location": {
+    "lat": 30.546497,
+    "lng": -97.545952
+  },
+  "contact": {
+    "phone": "(512) 864-9121"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9c33d219-3b23-4949-b1df-a87bf9fdd03d",
+    "confidence": 0.567,
+    "merged_records": 1
+  }
+}

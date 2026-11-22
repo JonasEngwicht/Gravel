@@ -1,0 +1,36 @@
+{
+  "id": "mi-springfield-ahs-property-care-and-landscape-supply",
+  "slug": "ahs-property-care-and-landscape-supply",
+  "name": "AHS Property Care & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "696 N 20th St",
+    "city": "Springfield",
+    "state": "MI",
+    "zip": "49037"
+  },
+  "location": {
+    "lat": 42.330826,
+    "lng": -85.219063
+  },
+  "contact": {
+    "phone": "(269) 965-6748",
+    "website": "http://www.ahspropertycare.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "471a91e3-4062-4dd1-91f4-358a9f271a7b",
+    "confidence": 0.989,
+    "merged_records": 1
+  }
+}

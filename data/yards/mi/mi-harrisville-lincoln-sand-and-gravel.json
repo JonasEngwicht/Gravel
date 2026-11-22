@@ -1,0 +1,35 @@
+{
+  "id": "mi-harrisville-lincoln-sand-and-gravel",
+  "slug": "lincoln-sand-and-gravel",
+  "name": "Lincoln Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3103 Carbide Dr",
+    "city": "Harrisville",
+    "state": "MI",
+    "zip": "48740"
+  },
+  "location": {
+    "lat": 44.663383,
+    "lng": -83.399261
+  },
+  "contact": {
+    "phone": "(989) 736-9943"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e2883918-7fab-466b-ba4a-80ba893950bb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

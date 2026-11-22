@@ -1,0 +1,37 @@
+{
+  "id": "ga-roswell-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "300 Colonial Center Pkwy Ste 600",
+    "city": "Roswell",
+    "state": "GA",
+    "zip": "30076"
+  },
+  "location": {
+    "lat": 34.044655,
+    "lng": -84.325218
+  },
+  "contact": {
+    "phone": "(216) 706-9250",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "45972215-9412-480c-97e2-25369e96c4ba",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-corona-fst-sand-and-gravel",
+  "slug": "fst-sand-and-gravel",
+  "name": "Fst Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21780 Temescal Canyon Rd",
+    "city": "Corona",
+    "state": "CA",
+    "zip": "92883"
+  },
+  "location": {
+    "lat": 33.803619,
+    "lng": -117.503479
+  },
+  "contact": {
+    "phone": "(951) 277-8440",
+    "website": "https://www.fstsand.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "13b5db47-ccc0-4b31-98e2-a3c65c1d805c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

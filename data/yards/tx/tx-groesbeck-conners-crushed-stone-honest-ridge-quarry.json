@@ -1,0 +1,41 @@
+{
+  "id": "tx-groesbeck-conners-crushed-stone-honest-ridge-quarry",
+  "slug": "conners-crushed-stone-honest-ridge-quarry",
+  "name": "Conners Crushed Stone – Honest Ridge Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Groesbeck",
+    "state": "TX",
+    "zip": "76635"
+  },
+  "location": {
+    "lat": 31.618056,
+    "lng": -96.631389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105405"
+  },
+  "msha": [
+    {
+      "mine_id": "4105405",
+      "name": "Honest Ridge Quarry",
+      "operator": "Conners Crushed Stone",
+      "status": "Active",
+      "status_since": "2023-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

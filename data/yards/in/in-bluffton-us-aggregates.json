@@ -1,0 +1,48 @@
+{
+  "id": "in-bluffton-us-aggregates",
+  "slug": "us-aggregates",
+  "name": "US Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6311 W State Rd 218 #1",
+    "city": "Bluffton",
+    "state": "IN",
+    "zip": "46714"
+  },
+  "location": {
+    "lat": 40.655769,
+    "lng": -85.052513
+  },
+  "contact": {
+    "phone": "(260) 334-5311",
+    "website": "http://usagg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2505a75f-43a0-4312-906f-9bdb99097ade",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200071",
+      "name": "US Aggregates-Linn Grove Quarry",
+      "operator": "US Aggregates LLC",
+      "status": "Active",
+      "status_since": "2012-05-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "la-watson-arcosa-aggregates-gulf-coast-plant-1340-easterly",
+  "slug": "arcosa-aggregates-gulf-coast-plant-1340-easterly",
+  "name": "Arcosa Aggregates Gulf Coast – Plant 1340-Easterly",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Watson",
+    "state": "LA",
+    "zip": "70706"
+  },
+  "location": {
+    "lat": 30.614444,
+    "lng": -90.925833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601571"
+  },
+  "msha": [
+    {
+      "mine_id": "1601571",
+      "name": "Plant 1340-Easterly",
+      "operator": "Arcosa Aggregates Gulf Coast, LLC",
+      "status": "Active",
+      "status_since": "2017-07-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wi-aniwa-meverden-materials-damitz-pit",
+  "slug": "meverden-materials-damitz-pit",
+  "name": "Meverden Materials – Damitz Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Aniwa",
+    "state": "WI",
+    "zip": "54408"
+  },
+  "location": {
+    "lat": 45.044093,
+    "lng": -89.30051
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703013"
+  },
+  "msha": [
+    {
+      "mine_id": "4703013",
+      "name": "Damitz Pit",
+      "operator": "Meverden Materials Inc.",
+      "status": "Intermittent",
+      "status_since": "2022-01-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

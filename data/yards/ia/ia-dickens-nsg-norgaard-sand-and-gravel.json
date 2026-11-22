@@ -1,0 +1,41 @@
+{
+  "id": "ia-dickens-nsg-norgaard-sand-and-gravel",
+  "slug": "nsg-norgaard-sand-and-gravel",
+  "name": "Nsg – Norgaard Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Dickens",
+    "state": "IA",
+    "zip": "51333"
+  },
+  "location": {
+    "lat": 43.126667,
+    "lng": -95.005278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1301302"
+  },
+  "msha": [
+    {
+      "mine_id": "1301302",
+      "name": "Norgaard Sand & Gravel",
+      "operator": "Nsg, Llc",
+      "status": "Active",
+      "status_since": "2026-10-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

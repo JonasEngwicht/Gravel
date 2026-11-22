@@ -1,0 +1,41 @@
+{
+  "id": "sc-west-columbia-american-materials-company-dixiana-mine",
+  "slug": "american-materials-company-dixiana-mine",
+  "name": "American Materials Company – Dixiana Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29172"
+  },
+  "location": {
+    "lat": 33.907222,
+    "lng": -81.095556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800125"
+  },
+  "msha": [
+    {
+      "mine_id": "3800125",
+      "name": "Dixiana Mine",
+      "operator": "American Materials Company LLC",
+      "status": "Active",
+      "status_since": "1988-09-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ga-kennesaw-stone-center-landscape-and-masonry",
+  "slug": "stone-center-landscape-and-masonry",
+  "name": "Stone Center | Landscape & Masonry",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3220 Moon Station Rd NW",
+    "city": "Kennesaw",
+    "state": "GA",
+    "zip": "30144"
+  },
+  "location": {
+    "lat": 34.041267,
+    "lng": -84.61499
+  },
+  "contact": {
+    "phone": "(470) 744-0200",
+    "website": "https://thestonecenter.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26b0c78f-eb3a-46a5-a503-42b82260e4cf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

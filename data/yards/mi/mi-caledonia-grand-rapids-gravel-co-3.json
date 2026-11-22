@@ -1,0 +1,36 @@
+{
+  "id": "mi-caledonia-grand-rapids-gravel-co-3",
+  "slug": "grand-rapids-gravel-co-3",
+  "name": "Grand Rapids Gravel Co 3",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6633 Kon-Krete SE",
+    "city": "Caledonia",
+    "state": "MI",
+    "zip": "49316"
+  },
+  "location": {
+    "lat": 42.844067,
+    "lng": -85.540558
+  },
+  "contact": {
+    "phone": "(616) 538-9000",
+    "website": "http://www.grgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "98121078-3704-4f3d-8c39-54da6d62786d",
+    "confidence": 0.899,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-miami-miami-mulch",
+  "slug": "miami-mulch",
+  "name": "Miami Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "9651 NW 89th Ave",
+    "city": "Miami",
+    "state": "FL",
+    "zip": "33178"
+  },
+  "location": {
+    "lat": 25.861353,
+    "lng": -80.342598
+  },
+  "contact": {
+    "phone": "(786) 471-2432",
+    "website": "http://www.buymulchdirect.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "695e9754-dab6-43fa-9d62-cbd49e377217",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

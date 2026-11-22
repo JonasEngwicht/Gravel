@@ -1,0 +1,41 @@
+{
+  "id": "wa-winthrop-cascade-concrete-products-lloyd-logging-winthrop-pit",
+  "slug": "cascade-concrete-products-lloyd-logging-winthrop-pit",
+  "name": "Cascade Concrete Products – Lloyd Logging Winthrop Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Winthrop",
+    "state": "WA",
+    "zip": "98862"
+  },
+  "location": {
+    "lat": 48.4775,
+    "lng": -120.184444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503730"
+  },
+  "msha": [
+    {
+      "mine_id": "4503730",
+      "name": "Lloyd Logging Winthrop Pit",
+      "operator": "Cascade Concrete Products, Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-02-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

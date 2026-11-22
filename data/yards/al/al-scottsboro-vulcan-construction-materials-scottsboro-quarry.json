@@ -1,0 +1,41 @@
+{
+  "id": "al-scottsboro-vulcan-construction-materials-scottsboro-quarry",
+  "slug": "vulcan-construction-materials-scottsboro-quarry",
+  "name": "Vulcan Construction Materials – Scottsboro Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Scottsboro",
+    "state": "AL",
+    "zip": "35769"
+  },
+  "location": {
+    "lat": 34.623333,
+    "lng": -86.088611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0100130"
+  },
+  "msha": [
+    {
+      "mine_id": "0100130",
+      "name": "Scottsboro Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1984-12-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

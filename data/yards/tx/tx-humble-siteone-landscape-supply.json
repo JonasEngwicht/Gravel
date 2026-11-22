@@ -1,0 +1,37 @@
+{
+  "id": "tx-humble-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1734 E 1st St",
+    "city": "Humble",
+    "state": "TX",
+    "zip": "77338"
+  },
+  "location": {
+    "lat": 29.999037,
+    "lng": -95.247055
+  },
+  "contact": {
+    "phone": "(281) 713-9996",
+    "website": "https://www.siteone.com/store/267"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4ac4ae39-1412-4ff3-8157-8d91674ad754",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

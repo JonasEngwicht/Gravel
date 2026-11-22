@@ -1,0 +1,41 @@
+{
+  "id": "vt-claredon-casella-construction-clarendon-quarry",
+  "slug": "casella-construction-clarendon-quarry",
+  "name": "Casella Construction – Clarendon Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Claredon",
+    "state": "VT",
+    "zip": "05777"
+  },
+  "location": {
+    "lat": 43.565278,
+    "lng": -73.032222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300417"
+  },
+  "msha": [
+    {
+      "mine_id": "4300417",
+      "name": "Clarendon Quarry",
+      "operator": "Casella Construction Inc.",
+      "status": "Active",
+      "status_since": "2024-12-06",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

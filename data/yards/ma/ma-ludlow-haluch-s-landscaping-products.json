@@ -1,0 +1,36 @@
+{
+  "id": "ma-ludlow-haluch-s-landscaping-products",
+  "slug": "haluch-s-landscaping-products",
+  "name": "Haluch's Landscaping Products",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1014 Center St",
+    "city": "Ludlow",
+    "state": "MA",
+    "zip": "01056"
+  },
+  "location": {
+    "lat": 42.191654,
+    "lng": -72.442711
+  },
+  "contact": {
+    "phone": "(413) 583-6508",
+    "website": "http://rayhaluchinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f016d627-5d8d-41a8-bffa-e1769d35d7a7",
+    "confidence": 0.985,
+    "merged_records": 1
+  }
+}

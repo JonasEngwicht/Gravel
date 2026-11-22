@@ -1,0 +1,36 @@
+{
+  "id": "co-golden-foothills-stone-supply",
+  "slug": "foothills-stone-supply",
+  "name": "Foothills Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4415 Eldridge St",
+    "city": "Golden",
+    "state": "CO",
+    "zip": "80403"
+  },
+  "location": {
+    "lat": 39.776661,
+    "lng": -105.15757
+  },
+  "contact": {
+    "phone": "(303) 591-4822",
+    "website": "http://www.foothillsstone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ea40ccb-7c40-40d4-820d-f3725a60c4d7",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

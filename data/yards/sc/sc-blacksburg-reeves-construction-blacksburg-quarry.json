@@ -1,0 +1,41 @@
+{
+  "id": "sc-blacksburg-reeves-construction-blacksburg-quarry",
+  "slug": "reeves-construction-blacksburg-quarry",
+  "name": "Reeves Construction – Blacksburg Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Blacksburg",
+    "state": "SC",
+    "zip": "29702"
+  },
+  "location": {
+    "lat": 35.136667,
+    "lng": -81.521111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800729"
+  },
+  "msha": [
+    {
+      "mine_id": "3800729",
+      "name": "Blacksburg Quarry",
+      "operator": "Reeves Construction Company",
+      "status": "Active",
+      "status_since": "2012-01-24",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

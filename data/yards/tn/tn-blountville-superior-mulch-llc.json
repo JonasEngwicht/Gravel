@@ -1,0 +1,36 @@
+{
+  "id": "tn-blountville-superior-mulch-llc",
+  "slug": "superior-mulch-llc",
+  "name": "Superior Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "918 Buttermilk Rd",
+    "city": "Blountville",
+    "state": "TN",
+    "zip": "37617"
+  },
+  "location": {
+    "lat": 36.51067,
+    "lng": -82.453903
+  },
+  "contact": {
+    "phone": "(423) 323-4131",
+    "website": "http://www.superiormulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fbe4dc9f-e159-4cc1-982e-3a29c4cddce6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

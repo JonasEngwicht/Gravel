@@ -1,0 +1,41 @@
+{
+  "id": "pa-gettysburg-new-enterprise-stone-and-lime-co-gettysburg-quarry",
+  "slug": "new-enterprise-stone-and-lime-co-gettysburg-quarry",
+  "name": "New Enterprise Stone & Lime Co – Gettysburg Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325"
+  },
+  "location": {
+    "lat": 39.805833,
+    "lng": -77.213889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600249"
+  },
+  "msha": [
+    {
+      "mine_id": "3600249",
+      "name": "Gettysburg Quarry",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Active",
+      "status_since": "2022-10-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

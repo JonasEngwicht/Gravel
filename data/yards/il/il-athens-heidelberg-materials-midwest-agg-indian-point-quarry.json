@@ -1,0 +1,41 @@
+{
+  "id": "il-athens-heidelberg-materials-midwest-agg-indian-point-quarry",
+  "slug": "heidelberg-materials-midwest-agg-indian-point-quarry",
+  "name": "Heidelberg Materials Midwest Agg – Indian Point Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Athens",
+    "state": "IL",
+    "zip": "62613"
+  },
+  "location": {
+    "lat": 40.004722,
+    "lng": -89.710833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100052"
+  },
+  "msha": [
+    {
+      "mine_id": "1100052",
+      "name": "Indian Point Quarry",
+      "operator": "Heidelberg Materials Midwest Agg Inc.",
+      "status": "Active",
+      "status_since": "2011-05-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mo-jefferson-city-capital-aggregates",
+  "slug": "capital-aggregates",
+  "name": "Capital Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "130 Scott Station Rd",
+    "city": "Jefferson City",
+    "state": "MO",
+    "zip": "65109"
+  },
+  "location": {
+    "lat": 38.593109,
+    "lng": -92.252785
+  },
+  "contact": {
+    "phone": "(833) 633-3244",
+    "website": "https://capitalaggs.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "04f404c9-1924-42e3-b21b-64b9fe2c912e",
+    "confidence": 0.52,
+    "merged_records": 1
+  }
+}

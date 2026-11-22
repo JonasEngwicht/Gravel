@@ -1,0 +1,41 @@
+{
+  "id": "ny-ogdensburg-heidelberg-materials-northeast-ogdensburg-plant",
+  "slug": "heidelberg-materials-northeast-ogdensburg-plant",
+  "name": "Heidelberg Materials Northeast – Ogdensburg Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ogdensburg",
+    "state": "NY",
+    "zip": "13669"
+  },
+  "location": {
+    "lat": 44.679722,
+    "lng": -75.501111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000077"
+  },
+  "msha": [
+    {
+      "mine_id": "3000077",
+      "name": "Ogdensburg Plant",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Active",
+      "status_since": "2023-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

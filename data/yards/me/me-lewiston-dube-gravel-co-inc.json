@@ -1,0 +1,35 @@
+{
+  "id": "me-lewiston-dube-gravel-co-inc",
+  "slug": "dube-gravel-co-inc",
+  "name": "Dube Gravel Co Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "153 Goddard Rd",
+    "city": "Lewiston",
+    "state": "ME",
+    "zip": "04240"
+  },
+  "location": {
+    "lat": 44.06789,
+    "lng": -70.194496
+  },
+  "contact": {
+    "phone": "(207) 783-1567"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "43045f8c-b40c-4bff-85ac-e0a41db9eeba",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

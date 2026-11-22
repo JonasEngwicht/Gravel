@@ -1,0 +1,36 @@
+{
+  "id": "mt-kalispell-glacier-stone-supply",
+  "slug": "glacier-stone-supply",
+  "name": "Glacier Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "955 Whitefish Stage",
+    "city": "Kalispell",
+    "state": "MT",
+    "zip": "59901"
+  },
+  "location": {
+    "lat": 48.210464,
+    "lng": -114.304596
+  },
+  "contact": {
+    "phone": "(406) 755-5717",
+    "website": "http://www.glacierstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8875a6ee-bb01-4916-afa2-b3007c3b4c2b",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

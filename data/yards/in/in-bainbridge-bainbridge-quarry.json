@@ -1,0 +1,41 @@
+{
+  "id": "in-bainbridge-bainbridge-quarry",
+  "slug": "bainbridge-quarry",
+  "name": "Bainbridge Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bainbridge",
+    "state": "IN",
+    "zip": "46105"
+  },
+  "location": {
+    "lat": 39.741389,
+    "lng": -86.84
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1200039"
+  },
+  "msha": [
+    {
+      "mine_id": "1200039",
+      "name": "Bainbridge Quarry LLC",
+      "operator": "Bainbridge Quarry LLC",
+      "status": "Active",
+      "status_since": "2025-03-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

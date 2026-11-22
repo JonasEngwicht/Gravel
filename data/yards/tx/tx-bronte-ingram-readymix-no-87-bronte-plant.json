@@ -1,0 +1,41 @@
+{
+  "id": "tx-bronte-ingram-readymix-no-87-bronte-plant",
+  "slug": "ingram-readymix-no-87-bronte-plant",
+  "name": "Ingram Readymix No. 87 – Bronte Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bronte",
+    "state": "TX",
+    "zip": "76933"
+  },
+  "location": {
+    "lat": 31.876944,
+    "lng": -100.365278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104210"
+  },
+  "msha": [
+    {
+      "mine_id": "4104210",
+      "name": "Bronte Plant",
+      "operator": "Ingram Readymix No. 87, L.L.C.",
+      "status": "Active",
+      "status_since": "2000-09-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

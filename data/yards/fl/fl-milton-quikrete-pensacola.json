@@ -1,0 +1,41 @@
+{
+  "id": "fl-milton-quikrete-pensacola",
+  "slug": "quikrete-pensacola",
+  "name": "Quikrete-Pensacola",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Milton",
+    "state": "FL",
+    "zip": "32530"
+  },
+  "location": {
+    "lat": 30.579722,
+    "lng": -87.029167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801048"
+  },
+  "msha": [
+    {
+      "mine_id": "0801048",
+      "name": "Quikrete Mine",
+      "operator": "Quikrete-Pensacola",
+      "status": "Active",
+      "status_since": "1986-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

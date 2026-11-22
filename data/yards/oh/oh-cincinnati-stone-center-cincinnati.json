@@ -1,0 +1,36 @@
+{
+  "id": "oh-cincinnati-stone-center-cincinnati",
+  "slug": "stone-center-cincinnati",
+  "name": "Stone Center Cincinnati",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4820 Stafford St",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45227"
+  },
+  "location": {
+    "lat": 39.158115,
+    "lng": -84.385254
+  },
+  "contact": {
+    "phone": "(513) 993-4995",
+    "website": "https://www.stonecenters.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "457e2518-49cb-42cd-92ac-e5375b998128",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

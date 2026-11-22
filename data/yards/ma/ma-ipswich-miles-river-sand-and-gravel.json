@@ -1,0 +1,36 @@
+{
+  "id": "ma-ipswich-miles-river-sand-and-gravel",
+  "slug": "miles-river-sand-and-gravel",
+  "name": "Miles River Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "64 Paradise Rd",
+    "city": "Ipswich",
+    "state": "MA",
+    "zip": "01938"
+  },
+  "location": {
+    "lat": 42.702705,
+    "lng": -70.85939
+  },
+  "contact": {
+    "phone": "(978) 356-2290",
+    "website": "http://www.milesriversandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7017ffa9-db9b-4cb1-9786-9fedd47095cc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

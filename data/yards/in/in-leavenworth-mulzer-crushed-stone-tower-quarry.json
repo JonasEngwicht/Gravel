@@ -1,0 +1,41 @@
+{
+  "id": "in-leavenworth-mulzer-crushed-stone-tower-quarry",
+  "slug": "mulzer-crushed-stone-tower-quarry",
+  "name": "Mulzer Crushed Stone – Tower Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Leavenworth",
+    "state": "IN",
+    "zip": "47145"
+  },
+  "location": {
+    "lat": 38.232778,
+    "lng": -86.328056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1201438"
+  },
+  "msha": [
+    {
+      "mine_id": "1201438",
+      "name": "Tower Quarry",
+      "operator": "Mulzer Crushed Stone Inc",
+      "status": "Active",
+      "status_since": "2011-12-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

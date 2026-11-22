@@ -1,0 +1,41 @@
+{
+  "id": "nj-port-norris-sahara-sand-of-port-norris",
+  "slug": "sahara-sand-of-port-norris",
+  "name": "Sahara Sand of Port Norris",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Port Norris",
+    "state": "NJ",
+    "zip": "08349"
+  },
+  "location": {
+    "lat": 39.256111,
+    "lng": -75.065278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2800549"
+  },
+  "msha": [
+    {
+      "mine_id": "2800549",
+      "name": "Sahara Sand of Port Norris",
+      "operator": "Sahara Sand of Port Norris",
+      "status": "Active",
+      "status_since": "2023-03-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

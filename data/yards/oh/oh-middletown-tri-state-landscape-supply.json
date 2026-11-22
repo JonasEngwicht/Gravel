@@ -1,0 +1,36 @@
+{
+  "id": "oh-middletown-tri-state-landscape-supply",
+  "slug": "tri-state-landscape-supply",
+  "name": "Tri State Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2840 Cincinnati Dayton Rd",
+    "city": "Middletown",
+    "state": "OH",
+    "zip": "45044"
+  },
+  "location": {
+    "lat": 39.47747,
+    "lng": -84.34185
+  },
+  "contact": {
+    "phone": "(513) 423-8723",
+    "website": "http://www.tslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aaf304e2-d5aa-4a6b-8737-0189aff2c08a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-midland-moriah-tfs-operations-llc-dba-thompson-materials-proctor",
+  "slug": "moriah-tfs-operations-llc-dba-thompson-materials-proctor",
+  "name": "MORIAH TFS OPERATIONS LLC dba Thompson Materials – Proctor",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79739"
+  },
+  "location": {
+    "lat": 31.625278,
+    "lng": -101.733889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105679"
+  },
+  "msha": [
+    {
+      "mine_id": "4105679",
+      "name": "Proctor",
+      "operator": "MORIAH TFS OPERATIONS LLC dba Thompson Materials",
+      "status": "Intermittent",
+      "status_since": "2025-11-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

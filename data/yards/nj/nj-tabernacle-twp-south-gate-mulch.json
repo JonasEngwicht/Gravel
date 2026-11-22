@@ -1,0 +1,35 @@
+{
+  "id": "nj-tabernacle-twp-south-gate-mulch",
+  "slug": "south-gate-mulch",
+  "name": "South Gate Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1515 Route 206",
+    "city": "Tabernacle Twp",
+    "state": "NJ",
+    "zip": "08088"
+  },
+  "location": {
+    "lat": 39.851467,
+    "lng": -74.734604
+  },
+  "contact": {
+    "phone": "(609) 268-1224"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5ec7e927-5c38-4698-b4db-9ed4c6575a0c",
+    "confidence": 0.739,
+    "merged_records": 1
+  }
+}

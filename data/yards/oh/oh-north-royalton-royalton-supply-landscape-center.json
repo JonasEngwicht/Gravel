@@ -1,0 +1,36 @@
+{
+  "id": "oh-north-royalton-royalton-supply-landscape-center",
+  "slug": "royalton-supply-landscape-center",
+  "name": "Royalton Supply Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11528 Royalton Rd",
+    "city": "North Royalton",
+    "state": "OH",
+    "zip": "44133"
+  },
+  "location": {
+    "lat": 41.316498,
+    "lng": -81.773094
+  },
+  "contact": {
+    "phone": "(440) 582-5200",
+    "website": "http://royaltonsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f23e05e6-4567-466d-a309-68362cece6b8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

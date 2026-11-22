@@ -1,0 +1,48 @@
+{
+  "id": "mn-two-harbors-jbl-sand-and-gravel-llc",
+  "slug": "jbl-sand-and-gravel-llc",
+  "name": "JBL Sand & Gravel LLC",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1849 Fox Farm Rd",
+    "city": "Two Harbors",
+    "state": "MN",
+    "zip": "55616"
+  },
+  "location": {
+    "lat": 47.063259,
+    "lng": -91.865707
+  },
+  "contact": {
+    "phone": "(218) 730-6445",
+    "website": "http://www.jbltruckingandexcavating.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "76bd2ab9-a22a-4380-bcfb-00bbff64a14e",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2104019",
+      "name": "JBL Sand and Gravel LLC",
+      "operator": "JBL Sand and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2022-03-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "az-williams-l-p-s-cinder-pitt",
+  "slug": "l-p-s-cinder-pitt",
+  "name": "L.P.'s Cinder Pitt",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Williams",
+    "state": "AZ",
+    "zip": "86046"
+  },
+  "location": {
+    "lat": 35.245278,
+    "lng": -112.215556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202141"
+  },
+  "msha": [
+    {
+      "mine_id": "0202141",
+      "name": "L.P.'s Cinder Pitt, LLC",
+      "operator": "L.P.'s Cinder Pitt, LLC",
+      "status": "Active",
+      "status_since": "2023-11-08",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

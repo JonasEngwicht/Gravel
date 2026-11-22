@@ -1,0 +1,41 @@
+{
+  "id": "tx-richland-springs-texas-materials-group-texas-materials-san-saba-quarry",
+  "slug": "texas-materials-group-texas-materials-san-saba-quarry",
+  "name": "Texas Materials Group – Texas Materials San Saba Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Richland Springs",
+    "state": "TX",
+    "zip": "76871"
+  },
+  "location": {
+    "lat": 31.27,
+    "lng": -99.048889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105294"
+  },
+  "msha": [
+    {
+      "mine_id": "4105294",
+      "name": "Texas Materials San Saba Quarry",
+      "operator": "Texas Materials Group Inc",
+      "status": "Intermittent",
+      "status_since": "2026-05-27",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

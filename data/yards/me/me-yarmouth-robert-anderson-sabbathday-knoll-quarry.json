@@ -1,0 +1,41 @@
+{
+  "id": "me-yarmouth-robert-anderson-sabbathday-knoll-quarry",
+  "slug": "robert-anderson-sabbathday-knoll-quarry",
+  "name": "Robert Anderson – Sabbathday Knoll Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Yarmouth",
+    "state": "ME",
+    "zip": "04260"
+  },
+  "location": {
+    "lat": 43.9675,
+    "lng": -70.363611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1701148"
+  },
+  "msha": [
+    {
+      "mine_id": "1701148",
+      "name": "Sabbathday Knoll Quarry",
+      "operator": "Robert Anderson",
+      "status": "Intermittent",
+      "status_since": "2026-11-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

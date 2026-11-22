@@ -1,0 +1,36 @@
+{
+  "id": "az-mesa-gravel-shooters",
+  "slug": "gravel-shooters",
+  "name": "Gravel Shooters",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2921 N 34th Pl",
+    "city": "Mesa",
+    "state": "AZ",
+    "zip": "85213"
+  },
+  "location": {
+    "lat": 33.468861,
+    "lng": -111.755936
+  },
+  "contact": {
+    "phone": "(480) 807-0390",
+    "website": "http://www.gravelshooter.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ec369fa9-e134-4cb2-b07e-6d7196a99be7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

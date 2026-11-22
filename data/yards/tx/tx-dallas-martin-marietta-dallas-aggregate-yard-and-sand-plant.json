@@ -1,0 +1,37 @@
+{
+  "id": "tx-dallas-martin-marietta-dallas-aggregate-yard-and-sand-plant",
+  "slug": "martin-marietta-dallas-aggregate-yard-and-sand-plant",
+  "name": "Martin Marietta - Dallas Aggregate Yard and Sand Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "11139-A Goodnight Ln",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75229"
+  },
+  "location": {
+    "lat": 32.891155,
+    "lng": -96.910309
+  },
+  "contact": {
+    "phone": "(866) 894-6010",
+    "website": "https://www.martinmarietta.com/locations/southwest/north-texas-oklahoma-district/dallas-yard-and-sand-plant/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "12615e52-8f64-4ec0-b2f1-5b1a5146230f",
+    "confidence": 0.963,
+    "merged_records": 1
+  }
+}

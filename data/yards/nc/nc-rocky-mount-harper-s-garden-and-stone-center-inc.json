@@ -1,0 +1,36 @@
+{
+  "id": "nc-rocky-mount-harper-s-garden-and-stone-center-inc",
+  "slug": "harper-s-garden-and-stone-center-inc",
+  "name": "Harper's Garden & Stone Center Inc.",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2343 Oak Level Rd",
+    "city": "Rocky Mount",
+    "state": "NC",
+    "zip": "27804"
+  },
+  "location": {
+    "lat": 35.95858,
+    "lng": -77.929207
+  },
+  "contact": {
+    "phone": "(252) 459-2189",
+    "website": "http://www.harpersnursery.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "13877b99-7c26-4ba1-a672-ee356adbcd7e",
+    "confidence": 0.971,
+    "merged_records": 1
+  }
+}

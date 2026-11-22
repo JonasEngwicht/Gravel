@@ -1,0 +1,37 @@
+{
+  "id": "nc-morrisville-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "580 Church St",
+    "city": "Morrisville",
+    "state": "NC",
+    "zip": "27560"
+  },
+  "location": {
+    "lat": 35.830036,
+    "lng": -78.832611
+  },
+  "contact": {
+    "phone": "(919) 380-8555",
+    "website": "https://www.siteone.com/en/store/657"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ade4832-f247-4758-8f9d-43e1787c6320",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

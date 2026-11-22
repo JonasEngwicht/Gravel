@@ -1,0 +1,37 @@
+{
+  "id": "ut-saint-george-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "177 N 3050 E",
+    "city": "Saint George",
+    "state": "UT",
+    "zip": "84790"
+  },
+  "location": {
+    "lat": 37.111244,
+    "lng": -113.520966
+  },
+  "contact": {
+    "phone": "(435) 628-5318",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b602fb1-3d3b-42be-8ad5-fed94f0b5e76",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

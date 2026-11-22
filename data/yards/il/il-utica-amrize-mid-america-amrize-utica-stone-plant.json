@@ -1,0 +1,41 @@
+{
+  "id": "il-utica-amrize-mid-america-amrize-utica-stone-plant",
+  "slug": "amrize-mid-america-amrize-utica-stone-plant",
+  "name": "Amrize Mid-America – Amrize Utica Stone Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Utica",
+    "state": "IL",
+    "zip": "61348"
+  },
+  "location": {
+    "lat": 41.3275,
+    "lng": -89.019722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102725"
+  },
+  "msha": [
+    {
+      "mine_id": "1102725",
+      "name": "Amrize Utica Stone Plant",
+      "operator": "Amrize Mid-America Inc.",
+      "status": "Active",
+      "status_since": "2011-12-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

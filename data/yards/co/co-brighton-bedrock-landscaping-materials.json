@@ -1,0 +1,36 @@
+{
+  "id": "co-brighton-bedrock-landscaping-materials",
+  "slug": "bedrock-landscaping-materials",
+  "name": "Bedrock Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14880 Brighton Rd",
+    "city": "Brighton",
+    "state": "CO",
+    "zip": "80601"
+  },
+  "location": {
+    "lat": 39.967308,
+    "lng": -104.83007
+  },
+  "contact": {
+    "phone": "(303) 637-9743",
+    "website": "http://www.bedrocklandscapingmaterial.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e92501bb-b4d7-40f7-9fe8-25b292d59d67",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

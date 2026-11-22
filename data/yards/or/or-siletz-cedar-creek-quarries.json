@@ -1,0 +1,41 @@
+{
+  "id": "or-siletz-cedar-creek-quarries",
+  "slug": "cedar-creek-quarries",
+  "name": "Cedar Creek Quarries",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Siletz",
+    "state": "OR",
+    "zip": "97380"
+  },
+  "location": {
+    "lat": 44.82,
+    "lng": -123.925833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503123"
+  },
+  "msha": [
+    {
+      "mine_id": "3503123",
+      "name": "Cedar Creek Quarries Inc-Cedar Creek Pit",
+      "operator": "Cedar Creek Quarries, Inc",
+      "status": "Active",
+      "status_since": "2014-01-30",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

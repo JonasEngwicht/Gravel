@@ -1,0 +1,41 @@
+{
+  "id": "az-buckeye-premier-material-group-premier-materials-group-1350",
+  "slug": "premier-material-group-premier-materials-group-1350",
+  "name": "Premier Material Group – Premier Materials Group -1350",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Buckeye",
+    "state": "AZ",
+    "zip": "85338"
+  },
+  "location": {
+    "lat": 33.395278,
+    "lng": -112.55
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203518"
+  },
+  "msha": [
+    {
+      "mine_id": "0203518",
+      "name": "Premier Materials Group -1350",
+      "operator": "Premier Material Group LLC",
+      "status": "Intermittent",
+      "status_since": "2025-03-27",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

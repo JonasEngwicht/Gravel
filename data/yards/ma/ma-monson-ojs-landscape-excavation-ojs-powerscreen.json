@@ -1,0 +1,41 @@
+{
+  "id": "ma-monson-ojs-landscape-excavation-ojs-powerscreen",
+  "slug": "ojs-landscape-excavation-ojs-powerscreen",
+  "name": "Ojs Landscape Excavation – Ojs Powerscreen",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Monson",
+    "state": "MA",
+    "zip": "01057"
+  },
+  "location": {
+    "lat": 42.0625,
+    "lng": -72.32
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901322"
+  },
+  "msha": [
+    {
+      "mine_id": "1901322",
+      "name": "Ojs Powerscreen",
+      "operator": "Ojs Landscape Excavation, Inc.",
+      "status": "Intermittent",
+      "status_since": "2024-06-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

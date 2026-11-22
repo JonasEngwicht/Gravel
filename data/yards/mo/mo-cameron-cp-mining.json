@@ -1,0 +1,41 @@
+{
+  "id": "mo-cameron-cp-mining",
+  "slug": "cp-mining",
+  "name": "CP Mining",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cameron",
+    "state": "MO",
+    "zip": "66090"
+  },
+  "location": {
+    "lat": 39.764722,
+    "lng": -94.949722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302610"
+  },
+  "msha": [
+    {
+      "mine_id": "2302610",
+      "name": "Plant 01",
+      "operator": "CP Mining LLC",
+      "status": "Intermittent",
+      "status_since": "2026-09-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

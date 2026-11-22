@@ -1,0 +1,36 @@
+{
+  "id": "ga-marietta-georgia-landscape-supply",
+  "slug": "georgia-landscape-supply",
+  "name": "Georgia Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "928 S Marietta Pkwy SE",
+    "city": "Marietta",
+    "state": "GA",
+    "zip": "30060"
+  },
+  "location": {
+    "lat": 33.94035,
+    "lng": -84.52607
+  },
+  "contact": {
+    "phone": "(678) 766-0742",
+    "website": "http://www.georgialandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a58a482a-9134-43d1-a660-284378345b2b",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

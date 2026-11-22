@@ -1,0 +1,41 @@
+{
+  "id": "ny-genesee-dolomite-products-co-inc-dba-dolomite-group-leroy-plant",
+  "slug": "dolomite-products-co-inc-dba-dolomite-group-leroy-plant",
+  "name": "Dolomite Products Co Inc dba Dolomite Group – Leroy Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Genesee",
+    "state": "NY",
+    "zip": "14511"
+  },
+  "location": {
+    "lat": 42.993333,
+    "lng": -77.929722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000032"
+  },
+  "msha": [
+    {
+      "mine_id": "3000032",
+      "name": "Leroy Plant",
+      "operator": "Dolomite Products Co Inc dba Dolomite Group",
+      "status": "Active",
+      "status_since": "1999-12-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

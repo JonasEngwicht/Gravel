@@ -1,0 +1,36 @@
+{
+  "id": "mi-sparta-pride-landscape-supply",
+  "slug": "pride-landscape-supply",
+  "name": "Pride Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8503 Sparta Line Rd",
+    "city": "Sparta",
+    "state": "MI",
+    "zip": "49345"
+  },
+  "location": {
+    "lat": 43.119808,
+    "lng": -85.705276
+  },
+  "contact": {
+    "phone": "(616) 383-1041",
+    "website": "https://pridelandscapesupplyllc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ffd794ce-3a8c-4cb0-8579-d25aaec70412",
+    "confidence": 0.867,
+    "merged_records": 1
+  }
+}

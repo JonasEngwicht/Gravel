@@ -1,0 +1,37 @@
+{
+  "id": "nj-egg-harbor-twp-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2628 Fire Rd Ste 405",
+    "city": "Egg Harbor Twp",
+    "state": "NJ",
+    "zip": "08234"
+  },
+  "location": {
+    "lat": 39.408741,
+    "lng": -74.537086
+  },
+  "contact": {
+    "phone": "(609) 407-6593",
+    "website": "https://www.siteone.com/store/625"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b9e1e23b-1e68-41c6-9fe4-d3d94bed0e14",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-mariposa-mariposa-yosemite-slate-quarry",
+  "slug": "mariposa-yosemite-slate-quarry",
+  "name": "Mariposa Yosemite Slate Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mariposa",
+    "state": "CA",
+    "zip": "95338"
+  },
+  "location": {
+    "lat": 37.483611,
+    "lng": -120.020833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0400357"
+  },
+  "msha": [
+    {
+      "mine_id": "0400357",
+      "name": "Yosemite Slate Quarry",
+      "operator": "Mariposa Yosemite Slate Quarry",
+      "status": "Intermittent",
+      "status_since": "2019-09-30",
+      "commodity": "Crushed, Broken Slate",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "nm-albuquerque-coyote-gravel-products-inc",
+  "slug": "coyote-gravel-products-inc",
+  "name": "Coyote Gravel Products Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2124 Coors Blvd SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87121"
+  },
+  "location": {
+    "lat": 35.046249,
+    "lng": -106.708984
+  },
+  "contact": {
+    "phone": "(505) 877-3830",
+    "website": "http://www.coyotegravelproducts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e66be597-0b5d-43de-aa9d-62a888550388",
+    "confidence": 0.99,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2902547",
+      "name": "Wright Pit",
+      "operator": "Coyote Gravel Products Inc.",
+      "status": "Active",
+      "status_since": "2024-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "oh-toledo-dennis-topsoil-and-landscaping",
+  "slug": "dennis-topsoil-and-landscaping",
+  "name": "Dennis Topsoil And Landscaping",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6340 Dorr St",
+    "city": "Toledo",
+    "state": "OH",
+    "zip": "43615"
+  },
+  "location": {
+    "lat": 41.654816,
+    "lng": -83.693947
+  },
+  "contact": {
+    "phone": "(419) 865-5656",
+    "website": "http://www.gardenlandnursery.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a5de4cf-b7fb-4273-abe0-cdb41adade64",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

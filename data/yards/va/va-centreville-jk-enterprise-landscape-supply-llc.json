@@ -1,0 +1,35 @@
+{
+  "id": "va-centreville-jk-enterprise-landscape-supply-llc",
+  "slug": "jk-enterprise-landscape-supply-llc",
+  "name": "JK Enterprise Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15900 Lee Hwy",
+    "city": "Centreville",
+    "state": "VA",
+    "zip": "20121"
+  },
+  "location": {
+    "lat": 38.824337,
+    "lng": -77.500496
+  },
+  "contact": {
+    "phone": "(703) 830-8939"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a94bf3c1-ff9a-445c-a0e9-c8c16fbef027",
+    "confidence": 0.981,
+    "merged_records": 1
+  }
+}

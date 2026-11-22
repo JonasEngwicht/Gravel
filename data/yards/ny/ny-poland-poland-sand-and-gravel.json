@@ -1,0 +1,41 @@
+{
+  "id": "ny-poland-poland-sand-and-gravel",
+  "slug": "poland-sand-and-gravel",
+  "name": "Poland Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Poland",
+    "state": "NY",
+    "zip": "13431"
+  },
+  "location": {
+    "lat": 43.218889,
+    "lng": -75.056389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003460"
+  },
+  "msha": [
+    {
+      "mine_id": "3003460",
+      "name": "Poland Sand & Gravel",
+      "operator": "Poland Sand & Gravel Llc",
+      "status": "Active",
+      "status_since": "2012-06-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

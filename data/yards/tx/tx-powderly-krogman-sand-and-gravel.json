@@ -1,0 +1,36 @@
+{
+  "id": "tx-powderly-krogman-sand-and-gravel",
+  "slug": "krogman-sand-and-gravel",
+  "name": "Krogman Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3876 US-271",
+    "city": "Powderly",
+    "state": "TX",
+    "zip": "75473"
+  },
+  "location": {
+    "lat": 33.746593,
+    "lng": -95.543869
+  },
+  "contact": {
+    "phone": "(903) 784-8627",
+    "website": "http://ksgparis.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3786fefa-0dcc-462e-a120-d72f2f584847",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

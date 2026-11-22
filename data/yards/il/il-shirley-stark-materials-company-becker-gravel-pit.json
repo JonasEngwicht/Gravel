@@ -1,0 +1,41 @@
+{
+  "id": "il-shirley-stark-materials-company-becker-gravel-pit",
+  "slug": "stark-materials-company-becker-gravel-pit",
+  "name": "Stark Materials Company – Becker Gravel Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Shirley",
+    "state": "IL",
+    "zip": "61772"
+  },
+  "location": {
+    "lat": 40.396944,
+    "lng": -89.065833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102999"
+  },
+  "msha": [
+    {
+      "mine_id": "1102999",
+      "name": "Becker Gravel Pit",
+      "operator": "Stark Materials Company Inc",
+      "status": "Intermittent",
+      "status_since": "2013-03-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-hatton-martin-marietta-materials-hatton-quarry",
+  "slug": "martin-marietta-materials-hatton-quarry",
+  "name": "Martin Marietta Materials – Hatton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hatton",
+    "state": "AR",
+    "zip": "71937"
+  },
+  "location": {
+    "lat": 34.342222,
+    "lng": -94.350833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0301614"
+  },
+  "msha": [
+    {
+      "mine_id": "0301614",
+      "name": "Hatton Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1986-10-07",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 31
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "pa-west-chester-the-mulch-connection",
+  "slug": "the-mulch-connection",
+  "name": "The Mulch Connection",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "701 S Franklin St",
+    "city": "West Chester",
+    "state": "PA",
+    "zip": "19382"
+  },
+  "location": {
+    "lat": 39.954994,
+    "lng": -75.592659
+  },
+  "contact": {
+    "phone": "(484) 401-2277",
+    "website": "https://themulchconnection.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ebf92f07-889f-4bd1-89b7-def1e0caec95",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

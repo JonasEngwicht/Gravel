@@ -1,0 +1,49 @@
+{
+  "id": "tx-del-valle-martin-marietta-garfield-sand-and-gravel",
+  "slug": "martin-marietta-garfield-sand-and-gravel",
+  "name": "Martin Marietta - Garfield Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3901 Norwood Ln",
+    "city": "Del Valle",
+    "state": "TX",
+    "zip": "78617"
+  },
+  "location": {
+    "lat": 30.197851,
+    "lng": -97.579651
+  },
+  "contact": {
+    "phone": "(512) 247-3400",
+    "website": "https://www.martinmarietta.com/locations/southwest/central-texas-district/garfield-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3ed5b9fe-29be-4bf9-ba2b-81eef23ec739",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4103909",
+      "name": "Garfield Sand & Gravel",
+      "operator": "Martin Marietta Materials Southwest, LLC",
+      "status": "Active",
+      "status_since": "1996-10-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

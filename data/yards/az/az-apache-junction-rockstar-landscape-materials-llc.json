@@ -1,0 +1,36 @@
+{
+  "id": "az-apache-junction-rockstar-landscape-materials-llc",
+  "slug": "rockstar-landscape-materials-llc",
+  "name": "Rockstar Landscape Materials Llc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5076 S Warner Dr",
+    "city": "Apache Junction",
+    "state": "AZ",
+    "zip": "85120"
+  },
+  "location": {
+    "lat": 33.369244,
+    "lng": -111.57959
+  },
+  "contact": {
+    "phone": "(480) 489-8285",
+    "website": "http://www.rockstarlm.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4b732d16-ef8a-464b-b7b7-13cf29562e39",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

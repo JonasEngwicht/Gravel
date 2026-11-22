@@ -1,0 +1,41 @@
+{
+  "id": "ia-dewitt-wendling-quarries-stationary-crushing-dept-405",
+  "slug": "wendling-quarries-stationary-crushing-dept-405",
+  "name": "Wendling Quarries – Stationary Crushing Dept 405",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "DeWitt",
+    "state": "IA",
+    "zip": "52404"
+  },
+  "location": {
+    "lat": 41.93,
+    "lng": -91.715833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302063"
+  },
+  "msha": [
+    {
+      "mine_id": "1302063",
+      "name": "Stationary Crushing Dept 405",
+      "operator": "Wendling Quarries Inc",
+      "status": "Active",
+      "status_since": "2023-06-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

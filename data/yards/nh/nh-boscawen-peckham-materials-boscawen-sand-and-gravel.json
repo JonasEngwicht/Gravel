@@ -1,0 +1,41 @@
+{
+  "id": "nh-boscawen-peckham-materials-boscawen-sand-and-gravel",
+  "slug": "peckham-materials-boscawen-sand-and-gravel",
+  "name": "Peckham Materials – Boscawen Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Boscawen",
+    "state": "NH",
+    "zip": "03303"
+  },
+  "location": {
+    "lat": 43.3025,
+    "lng": -71.633889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700364"
+  },
+  "msha": [
+    {
+      "mine_id": "2700364",
+      "name": "Boscawen Sand & Gravel",
+      "operator": "Peckham Materials Corp",
+      "status": "Active",
+      "status_since": "2022-05-31",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

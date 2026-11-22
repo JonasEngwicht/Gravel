@@ -1,0 +1,41 @@
+{
+  "id": "ga-demorest-heidelberg-materials-southeast-agg-habersham-quarry",
+  "slug": "heidelberg-materials-southeast-agg-habersham-quarry",
+  "name": "Heidelberg Materials Southeast Agg – Habersham Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Demorest",
+    "state": "GA",
+    "zip": "30535"
+  },
+  "location": {
+    "lat": 34.578611,
+    "lng": -83.548889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900693"
+  },
+  "msha": [
+    {
+      "mine_id": "0900693",
+      "name": "Habersham Quarry",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "1976-04-23",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

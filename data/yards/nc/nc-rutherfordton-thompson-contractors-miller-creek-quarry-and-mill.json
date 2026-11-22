@@ -1,0 +1,41 @@
+{
+  "id": "nc-rutherfordton-thompson-contractors-miller-creek-quarry-and-mill",
+  "slug": "thompson-contractors-miller-creek-quarry-and-mill",
+  "name": "Thompson Contractors – Miller Creek Quarry And Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Rutherfordton",
+    "state": "NC",
+    "zip": "28139"
+  },
+  "location": {
+    "lat": 35.344444,
+    "lng": -81.997222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3100083"
+  },
+  "msha": [
+    {
+      "mine_id": "3100083",
+      "name": "Miller Creek Quarry And Mill",
+      "operator": "Thompson Contractors Inc",
+      "status": "Active",
+      "status_since": "1971-12-22",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nc-jacksonville-jacksonville-mulch-and-more",
+  "slug": "jacksonville-mulch-and-more",
+  "name": "Jacksonville Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "124 Bell Fork Rd",
+    "city": "Jacksonville",
+    "state": "NC",
+    "zip": "28540"
+  },
+  "location": {
+    "lat": 34.765945,
+    "lng": -77.404762
+  },
+  "contact": {
+    "phone": "(910) 455-3599",
+    "website": "http://Www.jacksonvillemulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d8ee2afb-55fa-4740-8662-1ecfed70f21f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

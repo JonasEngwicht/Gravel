@@ -1,0 +1,48 @@
+{
+  "id": "ca-hollister-graniterock-southside-sand-and-gravel",
+  "slug": "graniterock-southside-sand-and-gravel",
+  "name": "Graniterock: Southside Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5632 Airline Hwy",
+    "city": "Hollister",
+    "state": "CA",
+    "zip": "95023"
+  },
+  "location": {
+    "lat": 36.795635,
+    "lng": -121.34211
+  },
+  "contact": {
+    "phone": "(831) 630-3200",
+    "website": "https://www.graniterock.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aa6c3062-71ad-4fc2-8cb7-4cb5196d5c9b",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405164",
+      "name": "Southside Sand And Gravel",
+      "operator": "Granite Rock Company",
+      "status": "Active",
+      "status_since": "1991-12-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

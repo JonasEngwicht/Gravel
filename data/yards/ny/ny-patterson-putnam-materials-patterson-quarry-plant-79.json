@@ -1,0 +1,41 @@
+{
+  "id": "ny-patterson-putnam-materials-patterson-quarry-plant-79",
+  "slug": "putnam-materials-patterson-quarry-plant-79",
+  "name": "Putnam Materials – Patterson Quarry Plant #79",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Patterson",
+    "state": "NY",
+    "zip": "12563"
+  },
+  "location": {
+    "lat": 41.513611,
+    "lng": -73.603889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001298"
+  },
+  "msha": [
+    {
+      "mine_id": "3001298",
+      "name": "Patterson Quarry Plant #79",
+      "operator": "Putnam Materials Corp",
+      "status": "Active",
+      "status_since": "2024-12-05",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

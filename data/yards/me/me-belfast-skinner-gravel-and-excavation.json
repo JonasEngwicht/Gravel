@@ -1,0 +1,36 @@
+{
+  "id": "me-belfast-skinner-gravel-and-excavation",
+  "slug": "skinner-gravel-and-excavation",
+  "name": "Skinner Gravel & Excavation",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4 Skinners Pit Rd",
+    "city": "Belfast",
+    "state": "ME",
+    "zip": "04915"
+  },
+  "location": {
+    "lat": 44.45639,
+    "lng": -68.968697
+  },
+  "contact": {
+    "phone": "(207) 930-5580",
+    "website": "https://www.skinnergravel.com/contact-us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a417963e-5761-4c8c-bfc4-7d8406d3be9b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

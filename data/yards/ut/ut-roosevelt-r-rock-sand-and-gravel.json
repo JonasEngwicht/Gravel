@@ -1,0 +1,35 @@
+{
+  "id": "ut-roosevelt-r-rock-sand-and-gravel",
+  "slug": "r-rock-sand-and-gravel",
+  "name": "R Rock Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "510 W 200 N",
+    "city": "Roosevelt",
+    "state": "UT",
+    "zip": "84066"
+  },
+  "location": {
+    "lat": 40.302921,
+    "lng": -110.000969
+  },
+  "contact": {
+    "phone": "(435) 722-8908"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dee83f9f-f596-4f07-8647-f0ab00838c7d",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

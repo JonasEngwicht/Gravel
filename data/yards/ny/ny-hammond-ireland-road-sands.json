@@ -1,0 +1,41 @@
+{
+  "id": "ny-hammond-ireland-road-sands",
+  "slug": "ireland-road-sands",
+  "name": "Ireland Road Sands",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hammond",
+    "state": "NY",
+    "zip": "13614"
+  },
+  "location": {
+    "lat": 44.501944,
+    "lng": -75.685833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004198"
+  },
+  "msha": [
+    {
+      "mine_id": "3004198",
+      "name": "Ireland Road Sand",
+      "operator": "Ireland Road Sands LLC",
+      "status": "Intermittent",
+      "status_since": "2026-09-24",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

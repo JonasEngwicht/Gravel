@@ -1,0 +1,37 @@
+{
+  "id": "ca-santa-rosa-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "180 Sebastopol Rd",
+    "city": "Santa Rosa",
+    "state": "CA",
+    "zip": "95407"
+  },
+  "location": {
+    "lat": 38.430702,
+    "lng": -122.723267
+  },
+  "contact": {
+    "phone": "(707) 526-1171",
+    "website": "https://www.siteone.com/store/309"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7185615f-95bc-4423-a64b-0baee629048b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

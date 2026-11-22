@@ -1,0 +1,36 @@
+{
+  "id": "nd-williston-river-aggregates-ii-llc",
+  "slug": "river-aggregates-ii-llc",
+  "name": "River Aggregates Ii, Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4319 16th Ave W",
+    "city": "Williston",
+    "state": "ND",
+    "zip": "58801"
+  },
+  "location": {
+    "lat": 48.184753,
+    "lng": -103.648842
+  },
+  "contact": {
+    "phone": "(701) 577-9000",
+    "website": "https://riveraggregatesllc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6a3c8396-dec6-49be-971d-72095c662af5",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

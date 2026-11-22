@@ -1,0 +1,41 @@
+{
+  "id": "ny-poland-heidelberg-materials-northeast-poland-plant",
+  "slug": "heidelberg-materials-northeast-poland-plant",
+  "name": "Heidelberg Materials Northeast – Poland Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Poland",
+    "state": "NY",
+    "zip": "13431"
+  },
+  "location": {
+    "lat": 43.234167,
+    "lng": -75.0775
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001186"
+  },
+  "msha": [
+    {
+      "mine_id": "3001186",
+      "name": "Poland Plant",
+      "operator": "Heidelberg Materials Northeast Llc",
+      "status": "Active",
+      "status_since": "2023-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

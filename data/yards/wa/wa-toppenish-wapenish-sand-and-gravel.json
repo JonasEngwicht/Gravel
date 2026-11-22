@@ -1,0 +1,48 @@
+{
+  "id": "wa-toppenish-wapenish-sand-and-gravel",
+  "slug": "wapenish-sand-and-gravel",
+  "name": "Wapenish Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "680 Olden Way Rd",
+    "city": "Toppenish",
+    "state": "WA",
+    "zip": "98948"
+  },
+  "location": {
+    "lat": 46.410278,
+    "lng": -120.377861
+  },
+  "contact": {
+    "phone": "(509) 877-7400",
+    "website": "http://www.wapenish.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4e475a00-33fb-43ec-a3db-8f996d0392c7",
+    "confidence": 0.824,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4503654",
+      "name": "Pinkham Rock Pit",
+      "operator": "Wapenish Sand and Gravel",
+      "status": "Active",
+      "status_since": "2020-04-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nj-bridgewater-garden-state-mulch-supply",
+  "slug": "garden-state-mulch-supply",
+  "name": "Garden State Mulch Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "797 US Highway 202/206",
+    "city": "Bridgewater",
+    "state": "NJ",
+    "zip": "08807"
+  },
+  "location": {
+    "lat": 40.61068,
+    "lng": -74.626633
+  },
+  "contact": {
+    "phone": "(908) 500-7017",
+    "website": "http://www.gardenstatemulchsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9256cff-14a0-430c-8c21-7b9cd5ec6e27",
+    "confidence": 0.734,
+    "merged_records": 1
+  }
+}

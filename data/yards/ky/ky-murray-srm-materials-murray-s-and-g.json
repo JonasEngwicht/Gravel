@@ -1,0 +1,41 @@
+{
+  "id": "ky-murray-srm-materials-murray-s-and-g",
+  "slug": "srm-materials-murray-s-and-g",
+  "name": "SRM Materials – Murray S&G",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Murray",
+    "state": "KY",
+    "zip": "42076"
+  },
+  "location": {
+    "lat": 36.598333,
+    "lng": -88.191667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1519896"
+  },
+  "msha": [
+    {
+      "mine_id": "1519896",
+      "name": "Murray S&G",
+      "operator": "SRM Materials, LLC",
+      "status": "Active",
+      "status_since": "2021-03-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

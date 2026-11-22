@@ -1,0 +1,36 @@
+{
+  "id": "pa-lancaster-landyshade-mulch-llc",
+  "slug": "landyshade-mulch-llc",
+  "name": "Landyshade Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1801 Colebrook Rd",
+    "city": "Lancaster",
+    "state": "PA",
+    "zip": "17601"
+  },
+  "location": {
+    "lat": 40.091293,
+    "lng": -76.374321
+  },
+  "contact": {
+    "phone": "(717) 898-7689",
+    "website": "http://www.landyshade.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "39d3ee8d-f4bc-404d-a64d-d6c37d3b497f",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

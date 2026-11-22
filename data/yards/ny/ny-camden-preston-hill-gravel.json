@@ -1,0 +1,36 @@
+{
+  "id": "ny-camden-preston-hill-gravel",
+  "slug": "preston-hill-gravel",
+  "name": "Preston Hill Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8566 Preston Hill Rd",
+    "city": "Camden",
+    "state": "NY",
+    "zip": "13316"
+  },
+  "location": {
+    "lat": 43.274029,
+    "lng": -75.76358
+  },
+  "contact": {
+    "phone": "(315) 527-1839",
+    "website": "http://PrestonHillGravelMaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c8f73816-f304-4c4b-97d8-f3a99d7ece8b",
+    "confidence": 0.678,
+    "merged_records": 1
+  }
+}

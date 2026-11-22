@@ -1,0 +1,41 @@
+{
+  "id": "ny-nedrow-heidelberg-materials-northeast-south-onondaga-pit",
+  "slug": "heidelberg-materials-northeast-south-onondaga-pit",
+  "name": "Heidelberg Materials Northeast – South Onondaga Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Nedrow",
+    "state": "NY",
+    "zip": "13120"
+  },
+  "location": {
+    "lat": 42.930556,
+    "lng": -76.215278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000989"
+  },
+  "msha": [
+    {
+      "mine_id": "3000989",
+      "name": "South Onondaga Pit",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Intermittent",
+      "status_since": "2016-09-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

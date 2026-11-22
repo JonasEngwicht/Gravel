@@ -1,0 +1,41 @@
+{
+  "id": "tn-sherwood-martin-marietta-materials-anderson-mine-and-mill",
+  "slug": "martin-marietta-materials-anderson-mine-and-mill",
+  "name": "Martin Marietta Materials – Anderson Mine and Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sherwood",
+    "state": "TN",
+    "zip": "35772"
+  },
+  "location": {
+    "lat": 34.994444,
+    "lng": -85.903333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4000022"
+  },
+  "msha": [
+    {
+      "mine_id": "4000022",
+      "name": "Anderson Mine and Mill",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Active",
+      "status_since": "1978-08-16",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 34
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "sc-taylors-hanson-aggregates-southeast",
+  "slug": "hanson-aggregates-southeast",
+  "name": "Hanson Aggregates Southeast",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "5566 Mountain View Rd",
+    "city": "Taylors",
+    "state": "SC",
+    "zip": "29687"
+  },
+  "location": {
+    "lat": 35.000523,
+    "lng": -82.345192
+  },
+  "contact": {
+    "phone": "(864) 895-5050",
+    "website": "http://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e604f24-901a-426a-be9a-69d886ed305b",
+    "confidence": 0.835,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3800310",
+      "name": "Sandy Flat Quarry",
+      "operator": "Heidelberg Materials Southeast Agg., LLC",
+      "status": "Active",
+      "status_since": "2009-01-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "active-nearby",
+      "employees": 17
+    }
+  ]
+}

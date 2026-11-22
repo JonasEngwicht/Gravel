@@ -1,0 +1,36 @@
+{
+  "id": "ga-alpharetta-cumming-landscape-supply",
+  "slug": "cumming-landscape-supply",
+  "name": "Cumming Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4975 Atlanta Highway Ste 100",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004"
+  },
+  "location": {
+    "lat": 34.154896,
+    "lng": -84.240631
+  },
+  "contact": {
+    "phone": "(770) 821-6476",
+    "website": "https://cummingmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d1f3e2b-86f2-4521-a3a7-6eadcb6dea76",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

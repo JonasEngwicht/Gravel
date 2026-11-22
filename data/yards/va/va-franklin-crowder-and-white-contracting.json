@@ -1,0 +1,41 @@
+{
+  "id": "va-franklin-crowder-and-white-contracting",
+  "slug": "crowder-and-white-contracting",
+  "name": "Crowder & White Contracting",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Franklin",
+    "state": "VA",
+    "zip": "23851"
+  },
+  "location": {
+    "lat": 36.650556,
+    "lng": -77.000556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4407342"
+  },
+  "msha": [
+    {
+      "mine_id": "4407342",
+      "name": "Crowder & White Pit",
+      "operator": "Crowder & White Contracting, LLC",
+      "status": "Intermittent",
+      "status_since": "2015-03-20",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

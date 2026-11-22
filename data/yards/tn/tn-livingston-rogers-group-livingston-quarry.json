@@ -1,0 +1,41 @@
+{
+  "id": "tn-livingston-rogers-group-livingston-quarry",
+  "slug": "rogers-group-livingston-quarry",
+  "name": "Rogers Group – Livingston Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Livingston",
+    "state": "TN",
+    "zip": "37881"
+  },
+  "location": {
+    "lat": 36.398056,
+    "lng": -83.300833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4000065"
+  },
+  "msha": [
+    {
+      "mine_id": "4000065",
+      "name": "Livingston Quarry",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "1985-02-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

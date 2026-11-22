@@ -1,0 +1,35 @@
+{
+  "id": "ny-cortlandt-manor-earthcon-landscape-supply",
+  "slug": "earthcon-landscape-supply",
+  "name": "Earthcon Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2279 Crompond Rd",
+    "city": "Cortlandt Manor",
+    "state": "NY",
+    "zip": "10567"
+  },
+  "location": {
+    "lat": 41.292625,
+    "lng": -73.864296
+  },
+  "contact": {
+    "phone": "(914) 930-7675"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3911134e-e43d-45ae-bb4f-5784c97b7bb7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

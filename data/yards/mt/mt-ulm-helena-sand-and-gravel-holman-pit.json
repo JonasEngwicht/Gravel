@@ -1,0 +1,41 @@
+{
+  "id": "mt-ulm-helena-sand-and-gravel-holman-pit",
+  "slug": "helena-sand-and-gravel-holman-pit",
+  "name": "Helena Sand & Gravel – Holman Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ulm",
+    "state": "MT",
+    "zip": "59485"
+  },
+  "location": {
+    "lat": 47.395278,
+    "lng": -111.441667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402744"
+  },
+  "msha": [
+    {
+      "mine_id": "2402744",
+      "name": "Holman Pit",
+      "operator": "Helena Sand & Gravel, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-04-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

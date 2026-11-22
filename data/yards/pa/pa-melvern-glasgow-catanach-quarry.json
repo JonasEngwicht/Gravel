@@ -1,0 +1,41 @@
+{
+  "id": "pa-melvern-glasgow-catanach-quarry",
+  "slug": "glasgow-catanach-quarry",
+  "name": "Glasgow – Catanach Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Melvern",
+    "state": "PA",
+    "zip": "19355"
+  },
+  "location": {
+    "lat": 40.065,
+    "lng": -75.535556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600153"
+  },
+  "msha": [
+    {
+      "mine_id": "3600153",
+      "name": "Catanach Quarry",
+      "operator": "Glasgow Inc",
+      "status": "Active",
+      "status_since": "2013-01-07",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "wv-keyser-allegany-aggregates-short-gap-quarry",
+  "slug": "allegany-aggregates-short-gap-quarry",
+  "name": "Allegany Aggregates – Short Gap Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Keyser",
+    "state": "WV",
+    "zip": "21557"
+  },
+  "location": {
+    "lat": 39.535,
+    "lng": -78.848056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4603166"
+  },
+  "msha": [
+    {
+      "mine_id": "4603166",
+      "name": "Short Gap Quarry",
+      "operator": "Allegany Aggregates",
+      "status": "Active",
+      "status_since": "2022-02-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

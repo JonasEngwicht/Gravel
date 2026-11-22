@@ -1,0 +1,37 @@
+{
+  "id": "ma-everett-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "201 Rover St",
+    "city": "Everett",
+    "state": "MA",
+    "zip": "02149"
+  },
+  "location": {
+    "lat": 42.390736,
+    "lng": -71.056633
+  },
+  "contact": {
+    "phone": "(617) 381-7079",
+    "website": "http://www.aggregate-us.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b469fbfa-e6dd-4351-b011-b6ed6d8541c1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

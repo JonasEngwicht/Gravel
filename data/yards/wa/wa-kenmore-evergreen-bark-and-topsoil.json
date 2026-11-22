@@ -1,0 +1,35 @@
+{
+  "id": "wa-kenmore-evergreen-bark-and-topsoil",
+  "slug": "evergreen-bark-and-topsoil",
+  "name": "Evergreen Bark And Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6527 NE 175th St",
+    "city": "Kenmore",
+    "state": "WA",
+    "zip": "98028"
+  },
+  "location": {
+    "lat": 47.755611,
+    "lng": -122.253761
+  },
+  "contact": {
+    "website": "https://www.evergreentopsoil.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "770832c8-0ebe-4360-96e3-8246e442c48d",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

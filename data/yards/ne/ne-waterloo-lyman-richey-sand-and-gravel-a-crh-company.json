@@ -1,0 +1,48 @@
+{
+  "id": "ne-waterloo-lyman-richey-sand-and-gravel-a-crh-company",
+  "slug": "lyman-richey-sand-and-gravel-a-crh-company",
+  "name": "Lyman-Richey Sand & Gravel, a CRH Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "27404 Pacific St",
+    "city": "Waterloo",
+    "state": "NE",
+    "zip": "68069"
+  },
+  "location": {
+    "lat": 41.248581,
+    "lng": -96.346489
+  },
+  "contact": {
+    "phone": "(402) 359-2522",
+    "website": "http://www.lymanrichey.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a778e560-5fae-4ca6-a742-8a7388eef6d2",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2500245",
+      "name": "Pit #40 Waterloo",
+      "operator": "Lyman Richey Corp dba L-R S&G Co",
+      "status": "Active",
+      "status_since": "2023-11-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

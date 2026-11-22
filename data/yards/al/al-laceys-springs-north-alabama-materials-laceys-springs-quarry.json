@@ -1,0 +1,41 @@
+{
+  "id": "al-laceys-springs-north-alabama-materials-laceys-springs-quarry",
+  "slug": "north-alabama-materials-laceys-springs-quarry",
+  "name": "North Alabama Materials – Laceys Springs Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Laceys Springs",
+    "state": "AL",
+    "zip": "35754"
+  },
+  "location": {
+    "lat": 34.56,
+    "lng": -86.612222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103576"
+  },
+  "msha": [
+    {
+      "mine_id": "0103576",
+      "name": "Laceys Springs Quarry",
+      "operator": "North Alabama Materials, Inc",
+      "status": "Active",
+      "status_since": "2024-07-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nh-salem-the-stone-yard",
+  "slug": "the-stone-yard",
+  "name": "The Stone Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "37 Lowell Rd",
+    "city": "Salem",
+    "state": "NH",
+    "zip": "03079"
+  },
+  "location": {
+    "lat": 42.765129,
+    "lng": -71.240547
+  },
+  "contact": {
+    "phone": "(603) 898-5001",
+    "website": "https://stoneyard.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9caff64a-46e0-4872-8cdc-6e65025b7426",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

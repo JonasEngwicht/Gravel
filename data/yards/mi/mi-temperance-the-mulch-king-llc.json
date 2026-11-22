@@ -1,0 +1,36 @@
+{
+  "id": "mi-temperance-the-mulch-king-llc",
+  "slug": "the-mulch-king-llc",
+  "name": "The Mulch King LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "110 Smith Rd",
+    "city": "Temperance",
+    "state": "MI",
+    "zip": "48182"
+  },
+  "location": {
+    "lat": 41.736675,
+    "lng": -83.549774
+  },
+  "contact": {
+    "phone": "(734) 219-3452",
+    "website": "https://www.themulchking.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d4034f15-f30f-482a-9975-83d2ce492bb3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

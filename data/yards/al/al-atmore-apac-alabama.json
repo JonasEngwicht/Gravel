@@ -1,0 +1,41 @@
+{
+  "id": "al-atmore-apac-alabama",
+  "slug": "apac-alabama",
+  "name": "APAC-Alabama",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Atmore",
+    "state": "AL",
+    "zip": "36502"
+  },
+  "location": {
+    "lat": 31.110556,
+    "lng": -87.496389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0102822"
+  },
+  "msha": [
+    {
+      "mine_id": "0102822",
+      "name": "P & R Mining",
+      "operator": "APAC-Alabama, Inc.",
+      "status": "Active",
+      "status_since": "2006-08-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 24
+    }
+  ]
+}

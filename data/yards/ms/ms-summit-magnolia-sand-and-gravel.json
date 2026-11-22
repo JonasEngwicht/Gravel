@@ -1,0 +1,41 @@
+{
+  "id": "ms-summit-magnolia-sand-and-gravel",
+  "slug": "magnolia-sand-and-gravel",
+  "name": "Magnolia Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Summit",
+    "state": "MS",
+    "zip": "39648"
+  },
+  "location": {
+    "lat": 31.255,
+    "lng": -90.319167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2200804"
+  },
+  "msha": [
+    {
+      "mine_id": "2200804",
+      "name": "Magnolia Sand & Gravel, LLC",
+      "operator": "Magnolia Sand & Gravel, LLC",
+      "status": "Active",
+      "status_since": "2022-02-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

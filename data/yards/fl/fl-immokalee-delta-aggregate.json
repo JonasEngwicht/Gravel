@@ -1,0 +1,36 @@
+{
+  "id": "fl-immokalee-delta-aggregate",
+  "slug": "delta-aggregate",
+  "name": "Delta Aggregate",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "9025 Church Rd",
+    "city": "Immokalee",
+    "state": "FL",
+    "zip": "34142"
+  },
+  "location": {
+    "lat": 26.524616,
+    "lng": -81.522583
+  },
+  "contact": {
+    "phone": "(815) 791-8377",
+    "website": "http://www.deltaaggregate.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4a57f4e9-5ea3-4675-a904-d20b74dcc649",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

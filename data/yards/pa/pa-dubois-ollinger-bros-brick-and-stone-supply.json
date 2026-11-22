@@ -1,0 +1,36 @@
+{
+  "id": "pa-dubois-ollinger-bros-brick-and-stone-supply",
+  "slug": "ollinger-bros-brick-and-stone-supply",
+  "name": "Ollinger Bros. Brick & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3572 Watson Hwy",
+    "city": "Dubois",
+    "state": "PA",
+    "zip": "15801"
+  },
+  "location": {
+    "lat": 41.087471,
+    "lng": -78.766502
+  },
+  "contact": {
+    "phone": "(814) 371-7700",
+    "website": "http://www.ollingerbrick.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "636d9dde-4f36-4665-9c0d-3ca8c8d11a81",
+    "confidence": 0.98,
+    "merged_records": 1
+  }
+}

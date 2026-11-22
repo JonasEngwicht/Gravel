@@ -1,0 +1,41 @@
+{
+  "id": "ny-fayetteville-kinsella-quarry-and-mill",
+  "slug": "kinsella-quarry-and-mill",
+  "name": "Kinsella Quarry & Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Fayetteville",
+    "state": "NY",
+    "zip": "13066"
+  },
+  "location": {
+    "lat": 43.04,
+    "lng": -75.964444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001279"
+  },
+  "msha": [
+    {
+      "mine_id": "3001279",
+      "name": "Kinsella Quarry & Mill",
+      "operator": "T. H. Kinsella, Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-05-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

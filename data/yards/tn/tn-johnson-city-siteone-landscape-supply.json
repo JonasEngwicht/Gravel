@@ -1,0 +1,37 @@
+{
+  "id": "tn-johnson-city-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4318 N Roan St",
+    "city": "Johnson City",
+    "state": "TN",
+    "zip": "37615"
+  },
+  "location": {
+    "lat": 36.379555,
+    "lng": -82.40757
+  },
+  "contact": {
+    "phone": "(423) 282-8726",
+    "website": "https://www.siteone.com/store/195"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "be10f3e9-77fe-4f04-ac5f-eb6290f0754b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

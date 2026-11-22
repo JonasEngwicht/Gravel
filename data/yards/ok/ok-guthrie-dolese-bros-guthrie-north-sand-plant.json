@@ -1,0 +1,41 @@
+{
+  "id": "ok-guthrie-dolese-bros-guthrie-north-sand-plant",
+  "slug": "dolese-bros-guthrie-north-sand-plant",
+  "name": "Dolese Bros – Guthrie North Sand Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Guthrie",
+    "state": "OK",
+    "zip": "73044"
+  },
+  "location": {
+    "lat": 35.92,
+    "lng": -97.4075
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400360"
+  },
+  "msha": [
+    {
+      "mine_id": "3400360",
+      "name": "Guthrie North Sand Plant",
+      "operator": "Dolese Bros Co",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

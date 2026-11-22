@@ -1,0 +1,36 @@
+{
+  "id": "mi-marine-city-st-clair-aggregates",
+  "slug": "st-clair-aggregates",
+  "name": "St Clair Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1327 S Belle River Ave",
+    "city": "Marine City",
+    "state": "MI",
+    "zip": "48039"
+  },
+  "location": {
+    "lat": 42.706104,
+    "lng": -82.498428
+  },
+  "contact": {
+    "phone": "(810) 765-5161",
+    "website": "https://st-clair-aggregates.hub.biz"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "73884da7-c555-413b-975c-b11a60fcb82e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

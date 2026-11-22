@@ -1,0 +1,36 @@
+{
+  "id": "oh-massillon-oster-sand-and-gravel-inc",
+  "slug": "oster-sand-and-gravel-inc",
+  "name": "Oster Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1833 Riverside Dr NW",
+    "city": "Massillon",
+    "state": "OH",
+    "zip": "44647"
+  },
+  "location": {
+    "lat": 40.814236,
+    "lng": -81.531174
+  },
+  "contact": {
+    "phone": "(234) 599-2032",
+    "website": "https://www.ostersandandgravelnorthcantonoh.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "90216be1-6c6c-4bd5-9bac-1e60e3839cf6",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

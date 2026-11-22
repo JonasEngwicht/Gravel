@@ -1,0 +1,48 @@
+{
+  "id": "ny-clymer-grigs-sand-and-gravel",
+  "slug": "grigs-sand-and-gravel",
+  "name": "Grigs Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "765 Bakerink Rd",
+    "city": "Clymer",
+    "state": "NY",
+    "zip": "14724"
+  },
+  "location": {
+    "lat": 42.032757,
+    "lng": -79.645149
+  },
+  "contact": {
+    "phone": "(716) 355-2236",
+    "website": "http://www.temelectric.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6081c35f-e21b-4058-98a2-a762145d7209",
+    "confidence": 0.802,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3003496",
+      "name": "Randy Wassink Pit",
+      "operator": "Girts Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2016-04-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

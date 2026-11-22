@@ -1,0 +1,41 @@
+{
+  "id": "tx-garden-city-hoelscher-crushed-stone-fm-1357-schwartz-pit",
+  "slug": "hoelscher-crushed-stone-fm-1357-schwartz-pit",
+  "name": "Hoelscher Crushed Stone – FM 1357 Schwartz Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Garden City",
+    "state": "TX",
+    "zip": "79739"
+  },
+  "location": {
+    "lat": 31.7758,
+    "lng": -101.5677
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105910"
+  },
+  "msha": [
+    {
+      "mine_id": "4105910",
+      "name": "FM 1357 Schwartz Pit",
+      "operator": "Hoelscher Crushed Stone, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-08-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-laredo-laredo-ready-mix",
+  "slug": "laredo-ready-mix",
+  "name": "Laredo Ready Mix",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Laredo",
+    "state": "TX",
+    "zip": "78041"
+  },
+  "location": {
+    "lat": 27.644444,
+    "lng": -99.549444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103335"
+  },
+  "msha": [
+    {
+      "mine_id": "4103335",
+      "name": "Laredo Sand & Gravel Pit",
+      "operator": "Laredo Ready Mix Ltd.",
+      "status": "Active",
+      "status_since": "1985-09-05",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

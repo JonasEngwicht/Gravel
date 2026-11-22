@@ -1,0 +1,41 @@
+{
+  "id": "tx-florence-jgm-aggregates",
+  "slug": "jgm-aggregates",
+  "name": "JGM Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Florence",
+    "state": "TX",
+    "zip": "78633"
+  },
+  "location": {
+    "lat": 30.767222,
+    "lng": -97.710278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105184"
+  },
+  "msha": [
+    {
+      "mine_id": "4105184",
+      "name": "JGM Aggregates LLC",
+      "operator": "JGM Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2016-04-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

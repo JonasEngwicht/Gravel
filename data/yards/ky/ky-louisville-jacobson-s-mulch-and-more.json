@@ -1,0 +1,36 @@
+{
+  "id": "ky-louisville-jacobson-s-mulch-and-more",
+  "slug": "jacobson-s-mulch-and-more",
+  "name": "Jacobson's Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2901 River Rd",
+    "city": "Louisville",
+    "state": "KY",
+    "zip": "40206"
+  },
+  "location": {
+    "lat": 38.277599,
+    "lng": -85.70623
+  },
+  "contact": {
+    "phone": "(812) 725-5189",
+    "website": "http://www.jacobsonsmulchandmore.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6ddc856e-dcf1-4bb6-84e4-00f293916bcf",
+    "confidence": 0.647,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "fl-ormond-beach-choice-landscapes-inc-and-choice-landscape-supplies",
+  "slug": "choice-landscapes-inc-and-choice-landscape-supplies",
+  "name": "Choice Landscapes, Inc. & Choice Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "500 N Tymber Creek Rd",
+    "city": "Ormond Beach",
+    "state": "FL",
+    "zip": "32174"
+  },
+  "location": {
+    "lat": 29.287964,
+    "lng": -81.130508
+  },
+  "contact": {
+    "phone": "(386) 673-5050",
+    "website": "https://choice-landscapes.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c4b4208e-8055-467c-a674-14d60df91d4b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

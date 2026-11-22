@@ -1,0 +1,41 @@
+{
+  "id": "or-salem-river-bend-mtls-riverbend-materials-riverbend-west",
+  "slug": "river-bend-mtls-riverbend-materials-riverbend-west",
+  "name": "River Bend Mtls – RiverBend Materials RiverBend West",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97301"
+  },
+  "location": {
+    "lat": 44.967778,
+    "lng": -123.050556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503596"
+  },
+  "msha": [
+    {
+      "mine_id": "3503596",
+      "name": "RiverBend Materials RiverBend West",
+      "operator": "River Bend Mtls",
+      "status": "Active",
+      "status_since": "2017-09-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

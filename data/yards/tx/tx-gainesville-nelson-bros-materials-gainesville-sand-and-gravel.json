@@ -1,0 +1,41 @@
+{
+  "id": "tx-gainesville-nelson-bros-materials-gainesville-sand-and-gravel",
+  "slug": "nelson-bros-materials-gainesville-sand-and-gravel",
+  "name": "Nelson Bros. Materials – Gainesville Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Gainesville",
+    "state": "TX",
+    "zip": "76241"
+  },
+  "location": {
+    "lat": 33.6294,
+    "lng": -97.113
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105832"
+  },
+  "msha": [
+    {
+      "mine_id": "4105832",
+      "name": "Gainesville Sand & Gravel",
+      "operator": "Nelson Bros. Materials LLC.",
+      "status": "Intermittent",
+      "status_since": "2026-06-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

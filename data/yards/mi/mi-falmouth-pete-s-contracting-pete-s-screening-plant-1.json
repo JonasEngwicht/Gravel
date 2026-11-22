@@ -1,0 +1,41 @@
+{
+  "id": "mi-falmouth-pete-s-contracting-pete-s-screening-plant-1",
+  "slug": "pete-s-contracting-pete-s-screening-plant-1",
+  "name": "Pete's Contracting – Pete's Screening Plant #1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Falmouth",
+    "state": "MI",
+    "zip": "49632"
+  },
+  "location": {
+    "lat": 44.2452,
+    "lng": -85.01
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003650"
+  },
+  "msha": [
+    {
+      "mine_id": "2003650",
+      "name": "Pete's Screening Plant #1",
+      "operator": "Pete's Contracting, Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-06-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

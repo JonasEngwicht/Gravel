@@ -1,0 +1,35 @@
+{
+  "id": "va-appomattox-southern-touch-landscape-supply",
+  "slug": "southern-touch-landscape-supply",
+  "name": "Southern Touch Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "7446 Richmond Hwy",
+    "city": "Appomattox",
+    "state": "VA",
+    "zip": "24522"
+  },
+  "location": {
+    "lat": 37.362804,
+    "lng": -78.85038
+  },
+  "contact": {
+    "phone": "(434) 485-4449"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b726d0a7-7aa5-4ca6-a32d-784c0ef5a08c",
+    "confidence": 0.873,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ky-middletown-louisville-mulch-and-stone",
+  "slug": "louisville-mulch-and-stone",
+  "name": "Louisville Mulch and Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13312 Aiken Rd",
+    "city": "Middletown",
+    "state": "KY",
+    "zip": "40223"
+  },
+  "location": {
+    "lat": 38.255226,
+    "lng": -85.504684
+  },
+  "contact": {
+    "phone": "(502) 702-6399",
+    "website": "http://www.Louisvillemulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b894ec54-0ec5-4dcc-8efc-6c8221e9464b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

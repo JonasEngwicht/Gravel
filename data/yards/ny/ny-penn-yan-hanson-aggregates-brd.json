@@ -1,0 +1,37 @@
+{
+  "id": "ny-penn-yan-hanson-aggregates-brd",
+  "slug": "hanson-aggregates-brd",
+  "name": "Hanson Aggregates Brd",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "131 Garfield Ave",
+    "city": "Penn Yan",
+    "state": "NY",
+    "zip": "14527"
+  },
+  "location": {
+    "lat": 42.660194,
+    "lng": -77.045685
+  },
+  "contact": {
+    "phone": "(315) 536-9391",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a6b247e3-4584-4996-818c-2aa0e0a98642",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

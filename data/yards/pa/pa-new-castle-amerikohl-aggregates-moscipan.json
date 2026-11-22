@@ -1,0 +1,41 @@
+{
+  "id": "pa-new-castle-amerikohl-aggregates-moscipan",
+  "slug": "amerikohl-aggregates-moscipan",
+  "name": "Amerikohl Aggregates – Moscipan",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "New Castle",
+    "state": "PA",
+    "zip": "16160"
+  },
+  "location": {
+    "lat": 40.941389,
+    "lng": -80.340278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3610261"
+  },
+  "msha": [
+    {
+      "mine_id": "3610261",
+      "name": "Moscipan",
+      "operator": "Amerikohl Aggregates Inc",
+      "status": "Active",
+      "status_since": "2026-03-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

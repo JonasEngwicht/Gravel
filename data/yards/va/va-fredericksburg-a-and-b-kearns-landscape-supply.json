@@ -1,0 +1,36 @@
+{
+  "id": "va-fredericksburg-a-and-b-kearns-landscape-supply",
+  "slug": "a-and-b-kearns-landscape-supply",
+  "name": "A&B Kearns Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "400 Howison Ave",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "22401"
+  },
+  "location": {
+    "lat": 38.284191,
+    "lng": -77.459076
+  },
+  "contact": {
+    "phone": "(540) 373-3750",
+    "website": "http://www.KearnsTruckingAndStone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "176de1ee-3342-4c9e-bee3-2976edd24a39",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

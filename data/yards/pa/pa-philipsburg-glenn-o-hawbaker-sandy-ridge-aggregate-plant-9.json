@@ -1,0 +1,41 @@
+{
+  "id": "pa-philipsburg-glenn-o-hawbaker-sandy-ridge-aggregate-plant-9",
+  "slug": "glenn-o-hawbaker-sandy-ridge-aggregate-plant-9",
+  "name": "Glenn O Hawbaker – Sandy Ridge Aggregate Plant #9",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Philipsburg",
+    "state": "PA",
+    "zip": "16677"
+  },
+  "location": {
+    "lat": 40.857222,
+    "lng": -78.244444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608697"
+  },
+  "msha": [
+    {
+      "mine_id": "3608697",
+      "name": "Sandy Ridge Aggregate Plant #9",
+      "operator": "Glenn O Hawbaker Inc",
+      "status": "Active",
+      "status_since": "2012-03-08",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

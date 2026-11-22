@@ -1,0 +1,36 @@
+{
+  "id": "mi-albert-twp-lewiston-sand-and-gravel",
+  "slug": "lewiston-sand-and-gravel",
+  "name": "Lewiston Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5168 Co Rd 612",
+    "city": "Albert Twp",
+    "state": "MI",
+    "zip": "49756"
+  },
+  "location": {
+    "lat": 44.886101,
+    "lng": -84.28968
+  },
+  "contact": {
+    "phone": "(989) 786-2742",
+    "website": "https://www.lewistonsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a9806275-6b22-4cf3-b56a-f4b973f11e37",
+    "confidence": 0.754,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "il-villa-park-a-k-mulch-and-firewood",
+  "slug": "a-k-mulch-and-firewood",
+  "name": "A. K. Mulch & Firewood",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "631 E Wildwood Ave",
+    "city": "Villa Park",
+    "state": "IL",
+    "zip": "60181"
+  },
+  "location": {
+    "lat": 41.887779,
+    "lng": -87.962868
+  },
+  "contact": {
+    "phone": "(630) 530-6900",
+    "website": "https://www.akmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b18af6ca-6bf5-4bb6-8542-0c147bd95993",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

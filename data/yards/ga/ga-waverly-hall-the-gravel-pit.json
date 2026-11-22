@@ -1,0 +1,35 @@
+{
+  "id": "ga-waverly-hall-the-gravel-pit",
+  "slug": "the-gravel-pit",
+  "name": "The Gravel Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "20 Twin Lakes Rd",
+    "city": "Waverly Hall",
+    "state": "GA",
+    "zip": "31831"
+  },
+  "location": {
+    "lat": 32.67157,
+    "lng": -84.752083
+  },
+  "contact": {
+    "phone": "(706) 801-9711"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0eda702-9dc7-4637-a29c-41ac69bbc147",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

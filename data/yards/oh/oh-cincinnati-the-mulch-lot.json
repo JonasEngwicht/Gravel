@@ -1,0 +1,35 @@
+{
+  "id": "oh-cincinnati-the-mulch-lot",
+  "slug": "the-mulch-lot",
+  "name": "The Mulch Lot",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4200 N Bend Rd",
+    "city": "Cincinnati",
+    "state": "OH",
+    "zip": "45211"
+  },
+  "location": {
+    "lat": 39.165134,
+    "lng": -84.605415
+  },
+  "contact": {
+    "phone": "(513) 266-1165"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4a3a9861-1cfd-4e69-ad7d-259a0cd5c347",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

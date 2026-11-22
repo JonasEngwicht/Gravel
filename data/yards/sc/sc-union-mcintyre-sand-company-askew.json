@@ -1,0 +1,41 @@
+{
+  "id": "sc-union-mcintyre-sand-company-askew",
+  "slug": "mcintyre-sand-company-askew",
+  "name": "McIntyre Sand Company – Askew",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Union",
+    "state": "SC",
+    "zip": "29364"
+  },
+  "location": {
+    "lat": 34.799722,
+    "lng": -81.484167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800582"
+  },
+  "msha": [
+    {
+      "mine_id": "3800582",
+      "name": "Askew",
+      "operator": "McIntyre Sand Company Inc",
+      "status": "Active",
+      "status_since": "2024-06-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

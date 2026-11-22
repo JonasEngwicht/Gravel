@@ -1,0 +1,37 @@
+{
+  "id": "nc-newton-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2067 Fairgrove Church Rd",
+    "city": "Newton",
+    "state": "NC",
+    "zip": "28658"
+  },
+  "location": {
+    "lat": 35.691631,
+    "lng": -81.261208
+  },
+  "contact": {
+    "phone": "(828) 464-8101",
+    "website": "https://www.siteone.com/store/736"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "15e5ec98-1006-468b-9c5b-5d7aeb4d20fb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

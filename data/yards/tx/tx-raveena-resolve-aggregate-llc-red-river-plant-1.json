@@ -1,0 +1,41 @@
+{
+  "id": "tx-raveena-resolve-aggregate-llc-red-river-plant-1",
+  "slug": "resolve-aggregate-llc-red-river-plant-1",
+  "name": "Resolve Aggregate, Llc – RED RIVER Plant # 1",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Raveena",
+    "state": "TX",
+    "zip": "75476"
+  },
+  "location": {
+    "lat": 33.685556,
+    "lng": -96.304722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105254"
+  },
+  "msha": [
+    {
+      "mine_id": "4105254",
+      "name": "RED RIVER Plant # 1",
+      "operator": "Resolve Aggregate, Llc..",
+      "status": "Active",
+      "status_since": "2018-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 25
+    }
+  ]
+}

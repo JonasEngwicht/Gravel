@@ -1,0 +1,41 @@
+{
+  "id": "in-waverly-martin-marietta-materials-waverly-sand-and-gravel",
+  "slug": "martin-marietta-materials-waverly-sand-and-gravel",
+  "name": "Martin Marietta Materials – Waverly Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Waverly",
+    "state": "IN",
+    "zip": "46106"
+  },
+  "location": {
+    "lat": 39.555556,
+    "lng": -86.273056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202038"
+  },
+  "msha": [
+    {
+      "mine_id": "1202038",
+      "name": "Waverly Sand & Gravel",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Active",
+      "status_since": "2025-03-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

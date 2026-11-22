@@ -1,0 +1,36 @@
+{
+  "id": "la-saint-francisville-lambert-gravel-co",
+  "slug": "lambert-gravel-co",
+  "name": "Lambert Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8190 Tunica Trce",
+    "city": "Saint Francisville",
+    "state": "LA",
+    "zip": "70775"
+  },
+  "location": {
+    "lat": 30.854689,
+    "lng": -91.409424
+  },
+  "contact": {
+    "phone": "(225) 635-3368",
+    "website": "http://arrow.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6fcb68a1-0911-4e69-a0e3-e437e5ce21a6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

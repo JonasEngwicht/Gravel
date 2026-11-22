@@ -1,0 +1,41 @@
+{
+  "id": "ok-wister-rock-it-natural-stone-second-hill-1",
+  "slug": "rock-it-natural-stone-second-hill-1",
+  "name": "Rock-It Natural Stone – Second Hill #1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wister",
+    "state": "OK",
+    "zip": "74935"
+  },
+  "location": {
+    "lat": 34.9575,
+    "lng": -94.8575
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402213"
+  },
+  "msha": [
+    {
+      "mine_id": "3402213",
+      "name": "Second Hill #1",
+      "operator": "Rock-It Natural Stone",
+      "status": "Intermittent",
+      "status_since": "2022-01-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

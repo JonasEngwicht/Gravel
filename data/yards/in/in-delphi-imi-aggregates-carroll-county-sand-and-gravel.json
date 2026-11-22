@@ -1,0 +1,48 @@
+{
+  "id": "in-delphi-imi-aggregates-carroll-county-sand-and-gravel",
+  "slug": "imi-aggregates-carroll-county-sand-and-gravel",
+  "name": "imi Aggregates - Carroll County Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "10650 W 250 N",
+    "city": "Delphi",
+    "state": "IN",
+    "zip": "46923"
+  },
+  "location": {
+    "lat": 40.583546,
+    "lng": -86.7267
+  },
+  "contact": {
+    "phone": "(765) 564-3765",
+    "website": "https://locations.irvmat.com/in/283?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b9f4a945-4eae-49df-bb88-5a820304c741",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200994",
+      "name": "Carroll County Sand & Gravel",
+      "operator": "IMI Aggregates LLC.",
+      "status": "Active",
+      "status_since": "2008-09-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

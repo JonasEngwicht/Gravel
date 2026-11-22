@@ -1,0 +1,37 @@
+{
+  "id": "ks-wichita-ewing-irrigation-and-landscape-supply",
+  "slug": "ewing-irrigation-and-landscape-supply",
+  "name": "Ewing Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "ewing irrigation",
+  "address": {
+    "street": "3830 N Toben St",
+    "city": "Wichita",
+    "state": "KS",
+    "zip": "67226"
+  },
+  "location": {
+    "lat": 37.755619,
+    "lng": -97.231316
+  },
+  "contact": {
+    "phone": "(316) 630-9530",
+    "website": "https://www.ewingirrigation.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ae9b6d27-7776-4338-82ba-88167321a51f",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

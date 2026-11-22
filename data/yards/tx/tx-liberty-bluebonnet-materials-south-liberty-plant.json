@@ -1,0 +1,41 @@
+{
+  "id": "tx-liberty-bluebonnet-materials-south-liberty-plant",
+  "slug": "bluebonnet-materials-south-liberty-plant",
+  "name": "Bluebonnet Materials – South Liberty Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Liberty",
+    "state": "TX",
+    "zip": "77575"
+  },
+  "location": {
+    "lat": 30.001389,
+    "lng": -94.798333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105801"
+  },
+  "msha": [
+    {
+      "mine_id": "4105801",
+      "name": "South Liberty Plant",
+      "operator": "Bluebonnet Materials Llc",
+      "status": "Active",
+      "status_since": "2025-06-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

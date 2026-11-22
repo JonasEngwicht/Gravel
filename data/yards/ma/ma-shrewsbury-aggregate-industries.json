@@ -1,0 +1,37 @@
+{
+  "id": "ma-shrewsbury-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "651 Lake St",
+    "city": "Shrewsbury",
+    "state": "MA",
+    "zip": "01545"
+  },
+  "location": {
+    "lat": 42.248665,
+    "lng": -71.726952
+  },
+  "contact": {
+    "phone": "(508) 754-4709",
+    "website": "http://www.aggregate-us.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff296b8f-f825-416a-9613-fd273d843479",
+    "confidence": 0.888,
+    "merged_records": 1
+  }
+}

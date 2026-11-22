@@ -1,0 +1,41 @@
+{
+  "id": "vt-plymouth-markowski-excavating-plymouth-quarry",
+  "slug": "markowski-excavating-plymouth-quarry",
+  "name": "Markowski Excavating – Plymouth Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Plymouth",
+    "state": "VT",
+    "zip": "05035"
+  },
+  "location": {
+    "lat": 43.580556,
+    "lng": -72.756944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4300555"
+  },
+  "msha": [
+    {
+      "mine_id": "4300555",
+      "name": "Plymouth Quarry",
+      "operator": "Markowski Excavating Inc",
+      "status": "Intermittent",
+      "status_since": "2025-03-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

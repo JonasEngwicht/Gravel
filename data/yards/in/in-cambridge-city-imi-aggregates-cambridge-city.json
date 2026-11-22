@@ -1,0 +1,48 @@
+{
+  "id": "in-cambridge-city-imi-aggregates-cambridge-city",
+  "slug": "imi-aggregates-cambridge-city",
+  "name": "imi Aggregates - Cambridge City",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "14413 US 40",
+    "city": "Cambridge City",
+    "state": "IN",
+    "zip": "47327"
+  },
+  "location": {
+    "lat": 39.810913,
+    "lng": -85.145935
+  },
+  "contact": {
+    "phone": "(765) 478-4914",
+    "website": "https://locations.irvmat.com/in/253?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3357f01-2ad9-409e-917e-5cd73f5931d7",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1201034",
+      "name": "Cambridge City Pit",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

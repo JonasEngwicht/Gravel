@@ -1,0 +1,37 @@
+{
+  "id": "fl-ocala-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "4814 SW 60th Ave",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34474"
+  },
+  "location": {
+    "lat": 29.139719,
+    "lng": -82.221794
+  },
+  "contact": {
+    "phone": "(352) 351-3400",
+    "website": "https://www.siteone.com/store/73"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "952d2de4-25e6-47ab-8d61-3b73116b3169",
+    "confidence": 1.0,
+    "merged_records": 2
+  }
+}

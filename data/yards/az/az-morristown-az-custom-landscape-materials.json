@@ -1,0 +1,41 @@
+{
+  "id": "az-morristown-az-custom-landscape-materials",
+  "slug": "custom-landscape-materials",
+  "name": "Custom Landscape Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Morristown Az",
+    "state": "AZ",
+    "zip": "85361"
+  },
+  "location": {
+    "lat": 33.865,
+    "lng": -112.616389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203469"
+  },
+  "msha": [
+    {
+      "mine_id": "0203469",
+      "name": "Kb-1",
+      "operator": "Custom Landscape Materials Llc",
+      "status": "Active",
+      "status_since": "2025-10-23",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

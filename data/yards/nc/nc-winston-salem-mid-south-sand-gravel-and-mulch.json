@@ -1,0 +1,36 @@
+{
+  "id": "nc-winston-salem-mid-south-sand-gravel-and-mulch",
+  "slug": "mid-south-sand-gravel-and-mulch",
+  "name": "Mid-South Sand, Gravel & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2578 S Stratford Rd",
+    "city": "Winston-Salem",
+    "state": "NC",
+    "zip": "27103"
+  },
+  "location": {
+    "lat": 36.045258,
+    "lng": -80.329033
+  },
+  "contact": {
+    "phone": "(336) 765-3130",
+    "website": "https://midsouthsandgravelandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9695de9f-0990-4f7d-8f19-09bc7938ab17",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

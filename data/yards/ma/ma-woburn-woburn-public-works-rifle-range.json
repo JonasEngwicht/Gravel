@@ -1,0 +1,41 @@
+{
+  "id": "ma-woburn-woburn-public-works-rifle-range",
+  "slug": "woburn-public-works-rifle-range",
+  "name": "Woburn Public Works – Rifle Range",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Woburn",
+    "state": "MA",
+    "zip": "01801"
+  },
+  "location": {
+    "lat": 42.4875,
+    "lng": -71.151667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901326"
+  },
+  "msha": [
+    {
+      "mine_id": "1901326",
+      "name": "Rifle Range",
+      "operator": "Woburn Public Works",
+      "status": "Intermittent",
+      "status_since": "2025-07-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

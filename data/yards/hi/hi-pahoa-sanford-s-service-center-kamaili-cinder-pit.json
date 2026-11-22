@@ -1,0 +1,41 @@
+{
+  "id": "hi-pahoa-sanford-s-service-center-kamaili-cinder-pit",
+  "slug": "sanford-s-service-center-kamaili-cinder-pit",
+  "name": "Sanford's Service Center – Kamaili Cinder Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pahoa",
+    "state": "HI",
+    "zip": "96760"
+  },
+  "location": {
+    "lat": 19.506944,
+    "lng": -154.958889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5100223"
+  },
+  "msha": [
+    {
+      "mine_id": "5100223",
+      "name": "Kamaili Cinder Pit",
+      "operator": "Sanford's Service Center Inc",
+      "status": "Active",
+      "status_since": "2021-04-03",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

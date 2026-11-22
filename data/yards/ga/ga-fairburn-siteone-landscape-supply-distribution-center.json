@@ -1,0 +1,37 @@
+{
+  "id": "ga-fairburn-siteone-landscape-supply-distribution-center",
+  "slug": "siteone-landscape-supply-distribution-center",
+  "name": "SiteOne Landscape Supply Distribution Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "7980 Spence Rd",
+    "city": "Fairburn",
+    "state": "GA",
+    "zip": "30213"
+  },
+  "location": {
+    "lat": 33.536095,
+    "lng": -84.558487
+  },
+  "contact": {
+    "phone": "(770) 964-6166",
+    "website": "https://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c479e3c1-faec-4b60-9e8c-f59f31d202c4",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

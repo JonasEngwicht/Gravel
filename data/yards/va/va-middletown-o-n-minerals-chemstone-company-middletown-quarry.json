@@ -1,0 +1,41 @@
+{
+  "id": "va-middletown-o-n-minerals-chemstone-company-middletown-quarry",
+  "slug": "o-n-minerals-chemstone-company-middletown-quarry",
+  "name": "O-N Minerals (Chemstone Company) – Middletown Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Middletown",
+    "state": "VA",
+    "zip": "22645"
+  },
+  "location": {
+    "lat": 39.033611,
+    "lng": -78.304444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400049"
+  },
+  "msha": [
+    {
+      "mine_id": "4400049",
+      "name": "Middletown Quarry",
+      "operator": "O-N Minerals (Chemstone Company)",
+      "status": "Active",
+      "status_since": "1979-06-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 24
+    }
+  ]
+}

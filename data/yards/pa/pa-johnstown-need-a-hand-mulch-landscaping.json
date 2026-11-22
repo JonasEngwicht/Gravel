@@ -1,0 +1,35 @@
+{
+  "id": "pa-johnstown-need-a-hand-mulch-landscaping",
+  "slug": "need-a-hand-mulch-landscaping",
+  "name": "Need A Hand Mulch Landscaping",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1276 St Clair Rd",
+    "city": "Johnstown",
+    "state": "PA",
+    "zip": "15905"
+  },
+  "location": {
+    "lat": 40.335949,
+    "lng": -78.965332
+  },
+  "contact": {
+    "phone": "(814) 254-4593"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2b80011f-3aac-4c8d-8082-87e3f4aabca0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

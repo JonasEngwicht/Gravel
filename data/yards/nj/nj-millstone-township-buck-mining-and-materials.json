@@ -1,0 +1,41 @@
+{
+  "id": "nj-millstone-township-buck-mining-and-materials",
+  "slug": "buck-mining-and-materials",
+  "name": "Buck Mining & Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Millstone Township",
+    "state": "NJ",
+    "zip": "08535"
+  },
+  "location": {
+    "lat": 40.2325,
+    "lng": -74.414722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2801031"
+  },
+  "msha": [
+    {
+      "mine_id": "2801031",
+      "name": "Buck Pit",
+      "operator": "Buck Mining & Materials Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-05-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

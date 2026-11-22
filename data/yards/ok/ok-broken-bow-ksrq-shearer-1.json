@@ -1,0 +1,41 @@
+{
+  "id": "ok-broken-bow-ksrq-shearer-1",
+  "slug": "ksrq-shearer-1",
+  "name": "Ksrq – Shearer #1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Broken Bow",
+    "state": "OK",
+    "zip": "74724"
+  },
+  "location": {
+    "lat": 34.395278,
+    "lng": -94.732778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402222"
+  },
+  "msha": [
+    {
+      "mine_id": "3402222",
+      "name": "Shearer #1",
+      "operator": "Ksrq Llc",
+      "status": "Active",
+      "status_since": "2025-10-07",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

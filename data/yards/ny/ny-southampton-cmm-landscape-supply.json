@@ -1,0 +1,36 @@
+{
+  "id": "ny-southampton-cmm-landscape-supply",
+  "slug": "cmm-landscape-supply",
+  "name": "CMM Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1021 Flanders Rd Ste B",
+    "city": "Southampton",
+    "state": "NY",
+    "zip": "11901"
+  },
+  "location": {
+    "lat": 40.904835,
+    "lng": -72.624008
+  },
+  "contact": {
+    "phone": "(631) 488-1954",
+    "website": "http://www.cmmlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "06c650e8-154b-41e1-b8b0-2d24944d1631",
+    "confidence": 0.507,
+    "merged_records": 1
+  }
+}

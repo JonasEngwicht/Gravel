@@ -1,0 +1,36 @@
+{
+  "id": "tx-amarillo-thomas-sand-and-gravel-co",
+  "slug": "thomas-sand-and-gravel-co",
+  "name": "Thomas Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "17900 Folsom Rd",
+    "city": "Amarillo",
+    "state": "TX",
+    "zip": "79108"
+  },
+  "location": {
+    "lat": 35.273193,
+    "lng": -101.724602
+  },
+  "contact": {
+    "phone": "(806) 335-9544",
+    "website": "https://www.thomasredimix.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b66fa63-60ba-4a19-b6c8-e2ba38428b90",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

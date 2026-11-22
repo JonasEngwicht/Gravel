@@ -1,0 +1,36 @@
+{
+  "id": "nc-weaverville-the-yard-landscape-supply",
+  "slug": "the-yard-landscape-supply",
+  "name": "The Yard - Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4 Cole Rd",
+    "city": "Weaverville",
+    "state": "NC",
+    "zip": "28787"
+  },
+  "location": {
+    "lat": 35.715809,
+    "lng": -82.563156
+  },
+  "contact": {
+    "phone": "(828) 785-3405",
+    "website": "http://www.theyardnc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e10508e2-07fd-42bb-a47a-f9478d3a552d",
+    "confidence": 0.836,
+    "merged_records": 1
+  }
+}

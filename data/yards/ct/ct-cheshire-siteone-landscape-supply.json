@@ -1,0 +1,37 @@
+{
+  "id": "ct-cheshire-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1187 Highland Ave",
+    "city": "Cheshire",
+    "state": "CT",
+    "zip": "06410"
+  },
+  "location": {
+    "lat": 41.531368,
+    "lng": -72.895432
+  },
+  "contact": {
+    "phone": "(203) 439-7922",
+    "website": "https://www.siteone.com/store/216"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aea1d25b-ea36-4df2-a260-9381dc287ad7",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

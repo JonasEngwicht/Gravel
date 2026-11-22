@@ -1,0 +1,36 @@
+{
+  "id": "ca-los-gatos-town-and-country-landscape-supply-company",
+  "slug": "town-and-country-landscape-supply-company",
+  "name": "Town & Country Landscape Supply Company",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18951 Bear Creek Rd",
+    "city": "Los Gatos",
+    "state": "CA",
+    "zip": "95033"
+  },
+  "location": {
+    "lat": 37.187824,
+    "lng": -122.002655
+  },
+  "contact": {
+    "phone": "(408) 354-6603",
+    "website": "http://www.tandclandscapeinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "26831378-43f0-4477-9471-f8df6ff4938b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

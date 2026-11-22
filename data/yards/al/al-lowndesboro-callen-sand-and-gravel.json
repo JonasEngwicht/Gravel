@@ -1,0 +1,47 @@
+{
+  "id": "al-lowndesboro-callen-sand-and-gravel",
+  "slug": "callen-sand-and-gravel",
+  "name": "Callen Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "879 Highway 80 E",
+    "city": "Lowndesboro",
+    "state": "AL",
+    "zip": "36752"
+  },
+  "location": {
+    "lat": 32.268383,
+    "lng": -86.591743
+  },
+  "contact": {
+    "phone": "(334) 278-3375"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dcafb3a4-5126-4326-b840-50f56af9c193",
+    "confidence": 0.964,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0102587",
+      "name": "Scott Callen Sand & Gravel",
+      "operator": "Callen Enterprises Inc",
+      "status": "Abandoned",
+      "status_since": "2012-03-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ca-maricopa-nestle-purina-petcare-maricopa-plant",
+  "slug": "nestle-purina-petcare-maricopa-plant",
+  "name": "Nestle Purina PetCare – Maricopa Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Maricopa",
+    "state": "CA",
+    "zip": "93268"
+  },
+  "location": {
+    "lat": 35.054722,
+    "lng": -119.446944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0402638"
+  },
+  "msha": [
+    {
+      "mine_id": "0402638",
+      "name": "Maricopa Plant",
+      "operator": "Nestle Purina PetCare Company",
+      "status": "Active",
+      "status_since": "1988-07-19",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 86
+    }
+  ]
+}

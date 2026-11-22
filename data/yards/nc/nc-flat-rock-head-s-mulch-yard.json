@@ -1,0 +1,36 @@
+{
+  "id": "nc-flat-rock-head-s-mulch-yard",
+  "slug": "head-s-mulch-yard",
+  "name": "Head's Mulch Yard",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "685 Crest Rd",
+    "city": "Flat Rock",
+    "state": "NC",
+    "zip": "28731"
+  },
+  "location": {
+    "lat": 35.291054,
+    "lng": -82.394859
+  },
+  "contact": {
+    "phone": "(828) 693-4681",
+    "website": "http://headsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "20619768-ba3b-4fd6-bdae-6b06c9dc3724",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

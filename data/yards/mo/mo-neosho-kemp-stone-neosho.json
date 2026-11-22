@@ -1,0 +1,41 @@
+{
+  "id": "mo-neosho-kemp-stone-neosho",
+  "slug": "kemp-stone-neosho",
+  "name": "Kemp Stone – Neosho",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Neosho",
+    "state": "MO",
+    "zip": "64843"
+  },
+  "location": {
+    "lat": 36.798056,
+    "lng": -94.438611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302280"
+  },
+  "msha": [
+    {
+      "mine_id": "2302280",
+      "name": "Neosho",
+      "operator": "Kemp Stone, Inc.",
+      "status": "Active",
+      "status_since": "2003-02-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

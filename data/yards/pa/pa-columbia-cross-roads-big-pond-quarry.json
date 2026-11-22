@@ -1,0 +1,41 @@
+{
+  "id": "pa-columbia-cross-roads-big-pond-quarry",
+  "slug": "big-pond-quarry",
+  "name": "Big Pond Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Columbia Cross Roads",
+    "state": "PA",
+    "zip": "16914"
+  },
+  "location": {
+    "lat": 41.880833,
+    "lng": -76.717778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3610037"
+  },
+  "msha": [
+    {
+      "mine_id": "3610037",
+      "name": "Big Pond Quarry",
+      "operator": "P&P Gravel Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-10-28",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

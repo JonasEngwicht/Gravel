@@ -1,0 +1,36 @@
+{
+  "id": "oh-mt-vernon-apple-valley-landscaping-and-stone-center",
+  "slug": "apple-valley-landscaping-and-stone-center",
+  "name": "Apple Valley Landscaping and Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "20426 Coshocton Rd",
+    "city": "Mt Vernon",
+    "state": "OH",
+    "zip": "43050"
+  },
+  "location": {
+    "lat": 40.412106,
+    "lng": -82.379776
+  },
+  "contact": {
+    "phone": "(740) 392-1122",
+    "website": "http://www.applevalleylawnandgarden.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d77a9cc7-f09d-47cf-9a86-eb9f2abaccb4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

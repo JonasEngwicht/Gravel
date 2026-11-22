@@ -1,0 +1,37 @@
+{
+  "id": "ca-chula-vista-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "751 Design Ct Ste B, Ste B",
+    "city": "Chula Vista",
+    "state": "CA",
+    "zip": "91911"
+  },
+  "location": {
+    "lat": 32.59586,
+    "lng": -117.019722
+  },
+  "contact": {
+    "phone": "(619) 421-7627",
+    "website": "https://www.siteone.com/en/store/319"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d4bd5532-0b5e-4acf-9dbf-e75a8896cdf2",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

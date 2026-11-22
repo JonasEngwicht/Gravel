@@ -1,0 +1,35 @@
+{
+  "id": "fl-cape-coral-forestry-resources-landscape-supply",
+  "slug": "forestry-resources-landscape-supply",
+  "name": "Forestry Resources Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "190 Nicholas Pkwy NW",
+    "city": "Cape Coral",
+    "state": "FL",
+    "zip": "33991"
+  },
+  "location": {
+    "lat": 26.649496,
+    "lng": -81.988602
+  },
+  "contact": {
+    "phone": "(239) 574-2007"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6202164c-a916-4948-957a-215c89f51329",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

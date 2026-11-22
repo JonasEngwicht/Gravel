@@ -1,0 +1,35 @@
+{
+  "id": "nc-durham-durham-rock-yard",
+  "slug": "durham-rock-yard",
+  "name": "Durham Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1433 E Geer St",
+    "city": "Durham",
+    "state": "NC",
+    "zip": "27704"
+  },
+  "location": {
+    "lat": 36.009815,
+    "lng": -78.868965
+  },
+  "contact": {
+    "phone": "(919) 530-1703"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "96d3828d-bc9b-4c35-b46e-5a8110f39276",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

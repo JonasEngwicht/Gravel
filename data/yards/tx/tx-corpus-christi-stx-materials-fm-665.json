@@ -1,0 +1,41 @@
+{
+  "id": "tx-corpus-christi-stx-materials-fm-665",
+  "slug": "stx-materials-fm-665",
+  "name": "STX Materials FM 665",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Corpus Christi",
+    "state": "TX",
+    "zip": "78417"
+  },
+  "location": {
+    "lat": 27.731111,
+    "lng": -97.510556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105827"
+  },
+  "msha": [
+    {
+      "mine_id": "4105827",
+      "name": "STX Materials FM 665",
+      "operator": "STX Materials LLC.",
+      "status": "Active",
+      "status_since": "2026-05-04",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

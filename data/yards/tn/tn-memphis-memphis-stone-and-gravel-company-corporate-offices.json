@@ -1,0 +1,36 @@
+{
+  "id": "tn-memphis-memphis-stone-and-gravel-company-corporate-offices",
+  "slug": "memphis-stone-and-gravel-company-corporate-offices",
+  "name": "Memphis Stone and Gravel Company Corporate Offices",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "670 S Cooper St",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38104"
+  },
+  "location": {
+    "lat": 35.127411,
+    "lng": -89.989899
+  },
+  "contact": {
+    "phone": "(901) 774-7874",
+    "website": "http://www.msgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af6b1d46-4333-4413-8d99-222a8f329efb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

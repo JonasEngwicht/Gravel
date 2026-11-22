@@ -1,0 +1,36 @@
+{
+  "id": "tx-grand-prairie-holt-sand-gravel-excavating",
+  "slug": "holt-sand-gravel-excavating",
+  "name": "Holt Sand-Gravel-Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1013 Nadine Ln",
+    "city": "Grand Prairie",
+    "state": "TX",
+    "zip": "75052"
+  },
+  "location": {
+    "lat": 32.650051,
+    "lng": -97.018745
+  },
+  "contact": {
+    "phone": "(972) 660-7263",
+    "website": "http://www.holtsandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8dc11813-c016-4d14-a93b-ff9a68403867",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wi-muskego-johnson-sand-and-gravel-inc",
+  "slug": "johnson-sand-and-gravel-inc",
+  "name": "Johnson Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6700 Crowbar Dr",
+    "city": "Muskego",
+    "state": "WI",
+    "zip": "53150"
+  },
+  "location": {
+    "lat": 42.923607,
+    "lng": -88.188461
+  },
+  "contact": {
+    "phone": "(262) 679-4400",
+    "website": "https://johnsonsandandgravel.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "946c76de-b352-491e-ab6b-a6c3f17dc429",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

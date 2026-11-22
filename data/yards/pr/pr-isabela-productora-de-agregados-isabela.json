@@ -1,0 +1,41 @@
+{
+  "id": "pr-isabela-productora-de-agregados-isabela",
+  "slug": "productora-de-agregados-isabela",
+  "name": "Productora de Agregados Isabela",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Isabela",
+    "state": "PR",
+    "zip": "00662"
+  },
+  "location": {
+    "lat": 18.490833,
+    "lng": -67.021944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5400280"
+  },
+  "msha": [
+    {
+      "mine_id": "5400280",
+      "name": "Productora de Agregados Isabela",
+      "operator": "Productora de Agregados, Inc.",
+      "status": "Active",
+      "status_since": "2021-08-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

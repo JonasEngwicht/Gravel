@@ -1,0 +1,41 @@
+{
+  "id": "il-morris-amrize-mid-america-amrize-aux-sable-plant",
+  "slug": "amrize-mid-america-amrize-aux-sable-plant",
+  "name": "Amrize Mid-America – Amrize Aux Sable Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Morris",
+    "state": "IL",
+    "zip": "60450"
+  },
+  "location": {
+    "lat": 41.395556,
+    "lng": -88.3375
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103025"
+  },
+  "msha": [
+    {
+      "mine_id": "1103025",
+      "name": "Amrize Aux Sable Plant",
+      "operator": "Amrize Mid-America Inc.",
+      "status": "Active",
+      "status_since": "2011-12-07",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

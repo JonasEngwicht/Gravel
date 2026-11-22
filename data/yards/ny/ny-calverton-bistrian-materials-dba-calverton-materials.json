@@ -1,0 +1,41 @@
+{
+  "id": "ny-calverton-bistrian-materials-dba-calverton-materials",
+  "slug": "bistrian-materials-dba-calverton-materials",
+  "name": "Bistrian Materials DBA Calverton Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Calverton",
+    "state": "NY",
+    "zip": "11933"
+  },
+  "location": {
+    "lat": 40.9275,
+    "lng": -72.758333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003252"
+  },
+  "msha": [
+    {
+      "mine_id": "3003252",
+      "name": "Calverton Materials",
+      "operator": "Bistrian Materials DBA Calverton Materials",
+      "status": "Intermittent",
+      "status_since": "2025-05-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-nemo-simpson-sand-and-gravel-woodley-sand-pit",
+  "slug": "simpson-sand-and-gravel-woodley-sand-pit",
+  "name": "Simpson Sand & Gravel – Woodley Sand Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Nemo",
+    "state": "TX",
+    "zip": "76070"
+  },
+  "location": {
+    "lat": 32.246389,
+    "lng": -97.656389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105176"
+  },
+  "msha": [
+    {
+      "mine_id": "4105176",
+      "name": "Woodley Sand Pit",
+      "operator": "Simpson Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2017-04-17",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

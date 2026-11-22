@@ -1,0 +1,41 @@
+{
+  "id": "tn-pikeville-dunlap-stone",
+  "slug": "dunlap-stone",
+  "name": "Dunlap Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pikeville",
+    "state": "TN",
+    "zip": "37367"
+  },
+  "location": {
+    "lat": 35.631667,
+    "lng": -85.195278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003111"
+  },
+  "msha": [
+    {
+      "mine_id": "4003111",
+      "name": "Dunlap Stone Inc #3",
+      "operator": "Dunlap Stone Inc",
+      "status": "Active",
+      "status_since": "1997-06-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

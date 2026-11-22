@@ -1,0 +1,36 @@
+{
+  "id": "oh-wadsworth-fairlawn-medina-landscape-supply",
+  "slug": "fairlawn-medina-landscape-supply",
+  "name": "Fairlawn Medina Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4762 Ridge Rd",
+    "city": "Wadsworth",
+    "state": "OH",
+    "zip": "44281"
+  },
+  "location": {
+    "lat": 41.146259,
+    "lng": -81.73671
+  },
+  "contact": {
+    "phone": "(330) 864-8031",
+    "website": "http://www.fairlawnlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e96feb4d-9afd-4650-865e-e287ebf7fe4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

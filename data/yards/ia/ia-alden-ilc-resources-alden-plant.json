@@ -1,0 +1,41 @@
+{
+  "id": "ia-alden-ilc-resources-alden-plant",
+  "slug": "ilc-resources-alden-plant",
+  "name": "ILC Resources – Alden Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Alden",
+    "state": "IA",
+    "zip": "50006"
+  },
+  "location": {
+    "lat": 42.52,
+    "lng": -93.371944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1300058"
+  },
+  "msha": [
+    {
+      "mine_id": "1300058",
+      "name": "Alden Plant",
+      "operator": "ILC Resources",
+      "status": "Active",
+      "status_since": "1974-05-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 37
+    }
+  ]
+}

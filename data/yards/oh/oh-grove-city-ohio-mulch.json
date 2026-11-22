@@ -1,0 +1,37 @@
+{
+  "id": "oh-grove-city-ohio-mulch",
+  "slug": "ohio-mulch",
+  "name": "Ohio Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "chain": "ohio mulch",
+  "address": {
+    "street": "2541 Harrisburg Pike",
+    "city": "Grove City",
+    "state": "OH",
+    "zip": "43123"
+  },
+  "location": {
+    "lat": 39.907131,
+    "lng": -83.073753
+  },
+  "contact": {
+    "phone": "(614) 594-0270",
+    "website": "http://www.ohiomulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2fc03080-9999-42b0-b6d5-365930d921e3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

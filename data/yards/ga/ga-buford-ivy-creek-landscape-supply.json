@@ -1,0 +1,36 @@
+{
+  "id": "ga-buford-ivy-creek-landscape-supply",
+  "slug": "ivy-creek-landscape-supply",
+  "name": "Ivy Creek Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2349 Gravel Springs Rd NE",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30519"
+  },
+  "location": {
+    "lat": 34.059322,
+    "lng": -83.940353
+  },
+  "contact": {
+    "phone": "(678) 979-5588",
+    "website": "https://ivycreeklandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "601e23bb-8be7-4e17-b1fa-7b18a0da6741",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

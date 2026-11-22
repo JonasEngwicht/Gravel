@@ -1,0 +1,35 @@
+{
+  "id": "tx-blanco-farmers-landscape-supply-blanco",
+  "slug": "farmers-landscape-supply-blanco",
+  "name": "Farmers Landscape Supply Blanco",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4796 S US-281",
+    "city": "Blanco",
+    "state": "TX",
+    "zip": "78606"
+  },
+  "location": {
+    "lat": 30.033127,
+    "lng": -98.410721
+  },
+  "contact": {
+    "phone": "(830) 392-6075"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dac29dc3-2fdd-4492-8e6f-cb59808d15ab",
+    "confidence": 0.872,
+    "merged_records": 1
+  }
+}

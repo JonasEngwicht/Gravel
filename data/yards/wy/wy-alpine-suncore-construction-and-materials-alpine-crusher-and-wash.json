@@ -1,0 +1,41 @@
+{
+  "id": "wy-alpine-suncore-construction-and-materials-alpine-crusher-and-wash",
+  "slug": "suncore-construction-and-materials-alpine-crusher-and-wash",
+  "name": "Suncore Construction and Materials – Alpine Crusher and Wash",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Alpine",
+    "state": "WY",
+    "zip": "83120"
+  },
+  "location": {
+    "lat": 43.188889,
+    "lng": -111.038333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4801575"
+  },
+  "msha": [
+    {
+      "mine_id": "4801575",
+      "name": "Alpine Crusher and Wash",
+      "operator": "Suncore Construction and Materials",
+      "status": "Intermittent",
+      "status_since": "2017-03-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "nc-bessemer-city-quality-landscaping-materials-inc-qlm",
+  "slug": "quality-landscaping-materials-inc-qlm",
+  "name": "Quality Landscaping Materials Inc. (QLM)",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "355 White Jenkins Rd",
+    "city": "Bessemer City",
+    "state": "NC",
+    "zip": "28016"
+  },
+  "location": {
+    "lat": 35.295719,
+    "lng": -81.238525
+  },
+  "contact": {
+    "phone": "(704) 862-0770"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1458aed0-347b-4cb8-8fcd-dc04b89510b2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

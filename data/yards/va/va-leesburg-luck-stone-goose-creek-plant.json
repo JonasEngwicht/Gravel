@@ -1,0 +1,41 @@
+{
+  "id": "va-leesburg-luck-stone-goose-creek-plant",
+  "slug": "luck-stone-goose-creek-plant",
+  "name": "Luck Stone – Goose Creek Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Leesburg",
+    "state": "VA",
+    "zip": "20147"
+  },
+  "location": {
+    "lat": 39.083056,
+    "lng": -77.516389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400146"
+  },
+  "msha": [
+    {
+      "mine_id": "4400146",
+      "name": "Goose Creek Plant",
+      "operator": "Luck Stone Corporation",
+      "status": "Active",
+      "status_since": "1983-03-18",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 19
+    }
+  ]
+}

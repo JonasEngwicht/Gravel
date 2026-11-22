@@ -1,0 +1,37 @@
+{
+  "id": "ca-san-diego-martin-marietta-california-aggregates-california-asphalt-and-paving-district-office",
+  "slug": "martin-marietta-california-aggregates-california-asphalt-and-paving-district-office",
+  "name": "Martin Marietta - California Aggregates/California Asphalt & Paving District Office",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "4211 Ponderosa Ave Ste C",
+    "city": "San Diego",
+    "state": "CA",
+    "zip": "92123"
+  },
+  "location": {
+    "lat": 32.817322,
+    "lng": -117.132164
+  },
+  "contact": {
+    "phone": "(858) 513-0611",
+    "website": "https://www.martinmarietta.com/locations/west"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ed3087e1-2130-4adc-ae9d-1fedfea9e9fe",
+    "confidence": 0.978,
+    "merged_records": 1
+  }
+}

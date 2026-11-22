@@ -1,0 +1,41 @@
+{
+  "id": "ny-washingtonville-alexandra-development-mountain-lodge-shale-and-gravel",
+  "slug": "alexandra-development-mountain-lodge-shale-and-gravel",
+  "name": "Alexandra Development – Mountain Lodge Shale & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Washingtonville",
+    "state": "NY",
+    "zip": "10992"
+  },
+  "location": {
+    "lat": 41.403056,
+    "lng": -74.148056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003149"
+  },
+  "msha": [
+    {
+      "mine_id": "3003149",
+      "name": "Mountain Lodge Shale & Gravel",
+      "operator": "Alexandra Development Corp",
+      "status": "Intermittent",
+      "status_since": "2023-05-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

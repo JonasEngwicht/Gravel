@@ -1,0 +1,36 @@
+{
+  "id": "va-lorton-stone-depot",
+  "slug": "stone-depot",
+  "name": "Stone Depot",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "7300 Lockport Pl #13",
+    "city": "Lorton",
+    "state": "VA",
+    "zip": "22079"
+  },
+  "location": {
+    "lat": 38.715271,
+    "lng": -77.194984
+  },
+  "contact": {
+    "phone": "(703) 372-2232",
+    "website": "http://stonedepotllc-va.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "908ac72b-1c9d-4f60-9ed4-2452175c232c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

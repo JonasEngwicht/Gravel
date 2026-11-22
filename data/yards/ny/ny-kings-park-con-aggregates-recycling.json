@@ -1,0 +1,35 @@
+{
+  "id": "ny-kings-park-con-aggregates-recycling",
+  "slug": "con-aggregates-recycling",
+  "name": "Con Aggregates Recycling",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "294 Old Northport Rd Ste B",
+    "city": "Kings Park",
+    "state": "NY",
+    "zip": "11754"
+  },
+  "location": {
+    "lat": 40.869362,
+    "lng": -73.266846
+  },
+  "contact": {
+    "phone": "(631) 446-3263"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "899e0241-2c0b-4b5d-b3e3-7bb4f31bd7b7",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

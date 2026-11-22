@@ -1,0 +1,41 @@
+{
+  "id": "ks-pittsburg-mulberry-limestone-quarry-co-pittsburg-quarry",
+  "slug": "mulberry-limestone-quarry-co-pittsburg-quarry",
+  "name": "Mulberry Limestone Quarry Co – Pittsburg Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pittsburg",
+    "state": "KS",
+    "zip": "66762"
+  },
+  "location": {
+    "lat": 37.415278,
+    "lng": -94.806111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401611"
+  },
+  "msha": [
+    {
+      "mine_id": "1401611",
+      "name": "Pittsburg Quarry",
+      "operator": "Mulberry Limestone Quarry Co., Inc.",
+      "status": "Active",
+      "status_since": "2024-09-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

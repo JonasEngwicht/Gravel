@@ -1,0 +1,35 @@
+{
+  "id": "or-damascus-valley-landscape-center",
+  "slug": "valley-landscape-center",
+  "name": "Valley Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "16051 SE Highway 224",
+    "city": "Damascus",
+    "state": "OR",
+    "zip": "97089"
+  },
+  "location": {
+    "lat": 45.396133,
+    "lng": -122.498466
+  },
+  "contact": {
+    "phone": "(503) 855-4652"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52cad28b-8b35-4e06-8e90-f424e290dbb7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

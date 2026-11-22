@@ -1,0 +1,41 @@
+{
+  "id": "sc-piedmont-sandsmith-longview-mine",
+  "slug": "sandsmith-longview-mine",
+  "name": "Sandsmith – Longview Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Piedmont",
+    "state": "SC",
+    "zip": "29673"
+  },
+  "location": {
+    "lat": 34.745833,
+    "lng": -82.471944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800545"
+  },
+  "msha": [
+    {
+      "mine_id": "3800545",
+      "name": "Longview Mine",
+      "operator": "Sandsmith LLC",
+      "status": "Active",
+      "status_since": "1979-06-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

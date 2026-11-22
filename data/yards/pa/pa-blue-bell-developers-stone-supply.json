@@ -1,0 +1,35 @@
+{
+  "id": "pa-blue-bell-developers-stone-supply",
+  "slug": "developers-stone-supply",
+  "name": "Developers Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "460 Norristown Rd",
+    "city": "Blue Bell",
+    "state": "PA",
+    "zip": "19422"
+  },
+  "location": {
+    "lat": 40.13031,
+    "lng": -75.268402
+  },
+  "contact": {
+    "phone": "(908) 938-7536"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "86a7030e-7d32-4c2b-8e04-174cb18120ce",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "al-satsuma-stm-landscape-supply-llc",
+  "slug": "stm-landscape-supply-llc",
+  "name": "STM Landscape Supply LLC.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5471 US-43 Unit C & D",
+    "city": "Satsuma",
+    "state": "AL",
+    "zip": "36572"
+  },
+  "location": {
+    "lat": 30.848814,
+    "lng": -88.059639
+  },
+  "contact": {
+    "phone": "(251) 586-8293",
+    "website": "http://gcogrows.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d9a56e0-06ca-41c3-bea7-69d108322ef3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

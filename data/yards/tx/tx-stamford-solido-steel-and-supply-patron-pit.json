@@ -1,0 +1,41 @@
+{
+  "id": "tx-stamford-solido-steel-and-supply-patron-pit",
+  "slug": "solido-steel-and-supply-patron-pit",
+  "name": "Solido Steel and Supply – Patron Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Stamford",
+    "state": "TX",
+    "zip": "79533"
+  },
+  "location": {
+    "lat": 32.979167,
+    "lng": -99.5675
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105839"
+  },
+  "msha": [
+    {
+      "mine_id": "4105839",
+      "name": "Patron Pit",
+      "operator": "Solido Steel and Supply",
+      "status": "Intermittent",
+      "status_since": "2026-02-18",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

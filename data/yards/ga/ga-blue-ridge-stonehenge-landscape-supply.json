@@ -1,0 +1,35 @@
+{
+  "id": "ga-blue-ridge-stonehenge-landscape-supply",
+  "slug": "stonehenge-landscape-supply",
+  "name": "Stonehenge Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4266 Appalachian Hwy",
+    "city": "Blue Ridge",
+    "state": "GA",
+    "zip": "30513"
+  },
+  "location": {
+    "lat": 34.87289,
+    "lng": -84.320366
+  },
+  "contact": {
+    "phone": "(706) 851-4397"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2559e178-db7d-4cdd-9228-2157075e352d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

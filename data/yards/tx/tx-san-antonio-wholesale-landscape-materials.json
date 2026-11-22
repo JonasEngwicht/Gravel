@@ -1,0 +1,36 @@
+{
+  "id": "tx-san-antonio-wholesale-landscape-materials",
+  "slug": "wholesale-landscape-materials",
+  "name": "Wholesale Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18765 Redland Rd",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78259"
+  },
+  "location": {
+    "lat": 29.615395,
+    "lng": -98.448219
+  },
+  "contact": {
+    "phone": "(830) 438-1286",
+    "website": "http://Www.wholesalelandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "54795c16-f571-41bc-9f02-e73540e157ab",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

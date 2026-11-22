@@ -1,0 +1,37 @@
+{
+  "id": "ca-sanger-martin-marietta-sanger-aggregates",
+  "slug": "martin-marietta-sanger-aggregates",
+  "name": "Martin Marietta - Sanger Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "15733 E Goodfellow Ave",
+    "city": "Sanger",
+    "state": "CA",
+    "zip": "93657"
+  },
+  "location": {
+    "lat": 36.669174,
+    "lng": -119.507195
+  },
+  "contact": {
+    "phone": "(559) 207-5277",
+    "website": "https://www.martinmarietta.com/locations/west/california-aggregates-district/sanger-aggregates"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "43b133f9-86d6-4128-b8ed-06e5345dbac9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

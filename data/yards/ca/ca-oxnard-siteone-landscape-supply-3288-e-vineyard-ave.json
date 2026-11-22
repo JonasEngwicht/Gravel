@@ -1,0 +1,37 @@
+{
+  "id": "ca-oxnard-siteone-landscape-supply-3288-e-vineyard-ave",
+  "slug": "siteone-landscape-supply-3288-e-vineyard-ave",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "3288 E Vineyard Ave",
+    "city": "Oxnard",
+    "state": "CA",
+    "zip": "93036"
+  },
+  "location": {
+    "lat": 34.242691,
+    "lng": -119.164459
+  },
+  "contact": {
+    "phone": "(805) 988-0705",
+    "website": "https://www.siteone.com/en/store/434"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a7de28b-d223-40ef-8688-de2fef4816d3",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ms-columbus-parker-sand-and-gravel",
+  "slug": "parker-sand-and-gravel",
+  "name": "Parker Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "399 Barton Ferry Rd",
+    "city": "Columbus",
+    "state": "MS",
+    "zip": "39705"
+  },
+  "location": {
+    "lat": 33.664932,
+    "lng": -88.431175
+  },
+  "contact": {
+    "phone": "(662) 434-8555",
+    "website": "http://www.psgconstruction.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d77bcc5-78c9-4dd4-8ec4-315ae6a74e77",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "2200540",
+      "name": "Parker Sand and Gravel LLC",
+      "operator": "Parker Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2007-02-21",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 8
+    }
+  ]
+}

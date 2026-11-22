@@ -1,0 +1,47 @@
+{
+  "id": "ny-ellisburg-rural-hill-sand-and-gravel",
+  "slug": "rural-hill-sand-and-gravel",
+  "name": "Rural Hill Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "10262 County Rd 79",
+    "city": "Ellisburg",
+    "state": "NY",
+    "zip": "13650"
+  },
+  "location": {
+    "lat": 43.795235,
+    "lng": -76.167168
+  },
+  "contact": {
+    "phone": "(315) 846-5212"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "08ffca77-a1c1-4383-9890-66ba9bf70a45",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3000959",
+      "name": "Bauer Concrete & Masonry Inc Gravel Pit",
+      "operator": "Bauer Concrete & Masonry Inc",
+      "status": "Intermittent",
+      "status_since": "2022-06-20",
+      "commodity": "Sand, Common",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

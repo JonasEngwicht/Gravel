@@ -1,0 +1,36 @@
+{
+  "id": "al-somerville-trinity-tree-service-and-topsoil",
+  "slug": "trinity-tree-service-and-topsoil",
+  "name": "Trinity Tree Service and Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "737 Cotaco Florette Rd",
+    "city": "Somerville",
+    "state": "AL",
+    "zip": "35670"
+  },
+  "location": {
+    "lat": 34.453018,
+    "lng": -86.696579
+  },
+  "contact": {
+    "phone": "(256) 318-1865",
+    "website": "http://trinitytreeservice.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d71f864d-f594-446e-a7a7-5178c8a029ce",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

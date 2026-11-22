@@ -1,0 +1,35 @@
+{
+  "id": "nc-highlands-highlands-rock-yard",
+  "slug": "highlands-rock-yard",
+  "name": "Highlands Rock Yard",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1560 Flat Mountain Rd",
+    "city": "Highlands",
+    "state": "NC",
+    "zip": "28741"
+  },
+  "location": {
+    "lat": 35.081436,
+    "lng": -83.212357
+  },
+  "contact": {
+    "phone": "(828) 200-0302"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "20d57dcd-b3cb-4017-b8f7-e4e55cfc906d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

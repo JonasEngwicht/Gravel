@@ -1,0 +1,41 @@
+{
+  "id": "wa-richland-american-rock-products-hanford-pit",
+  "slug": "american-rock-products-hanford-pit",
+  "name": "American Rock Products – Hanford Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Richland",
+    "state": "WA",
+    "zip": "99354"
+  },
+  "location": {
+    "lat": 46.316389,
+    "lng": -119.293056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503498"
+  },
+  "msha": [
+    {
+      "mine_id": "4503498",
+      "name": "Hanford Pit",
+      "operator": "American Rock Products Inc",
+      "status": "Active",
+      "status_since": "2009-09-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

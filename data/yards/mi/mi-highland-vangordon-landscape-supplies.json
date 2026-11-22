@@ -1,0 +1,36 @@
+{
+  "id": "mi-highland-vangordon-landscape-supplies",
+  "slug": "vangordon-landscape-supplies",
+  "name": "VanGordon Landscape supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "784 N Milford Rd",
+    "city": "Highland",
+    "state": "MI",
+    "zip": "48357"
+  },
+  "location": {
+    "lat": 42.645603,
+    "lng": -83.617371
+  },
+  "contact": {
+    "phone": "(248) 714-5558",
+    "website": "http://www.VanGordonLandscapeSupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0f55c1bb-d1f1-4829-bd28-26ec76faaced",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

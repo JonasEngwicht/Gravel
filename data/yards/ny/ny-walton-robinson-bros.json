@@ -1,0 +1,41 @@
+{
+  "id": "ny-walton-robinson-bros",
+  "slug": "robinson-bros",
+  "name": "Robinson Bros",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Walton",
+    "state": "NY",
+    "zip": "13856"
+  },
+  "location": {
+    "lat": 42.160556,
+    "lng": -75.152778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004188"
+  },
+  "msha": [
+    {
+      "mine_id": "3004188",
+      "name": "Robinson Bros.",
+      "operator": "Robinson Bros.",
+      "status": "Intermittent",
+      "status_since": "2026-06-04",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

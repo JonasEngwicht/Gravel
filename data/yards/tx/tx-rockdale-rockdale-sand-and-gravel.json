@@ -1,0 +1,36 @@
+{
+  "id": "tx-rockdale-rockdale-sand-and-gravel",
+  "slug": "rockdale-sand-and-gravel",
+  "name": "Rockdale Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "351 Inwood Dr # B",
+    "city": "Rockdale",
+    "state": "TX",
+    "zip": "76567"
+  },
+  "location": {
+    "lat": 30.649734,
+    "lng": -97.000694
+  },
+  "contact": {
+    "phone": "(979) 304-1962",
+    "website": "https://rockdalesandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0ccd1b61-9aa8-4d73-bb2c-f25a6b91eb2e",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

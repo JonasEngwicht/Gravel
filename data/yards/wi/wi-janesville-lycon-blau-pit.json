@@ -1,0 +1,41 @@
+{
+  "id": "wi-janesville-lycon-blau-pit",
+  "slug": "lycon-blau-pit",
+  "name": "LYCON – Blau Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Janesville",
+    "state": "WI",
+    "zip": "53901"
+  },
+  "location": {
+    "lat": 43.539167,
+    "lng": -89.4625
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4701414"
+  },
+  "msha": [
+    {
+      "mine_id": "4701414",
+      "name": "Blau Pit",
+      "operator": "LYCON Inc",
+      "status": "Intermittent",
+      "status_since": "2017-03-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

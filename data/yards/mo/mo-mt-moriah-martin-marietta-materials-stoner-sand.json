@@ -1,0 +1,41 @@
+{
+  "id": "mo-mt-moriah-martin-marietta-materials-stoner-sand",
+  "slug": "martin-marietta-materials-stoner-sand",
+  "name": "Martin Marietta Materials – Stoner Sand",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mt. Moriah",
+    "state": "MO",
+    "zip": "64481"
+  },
+  "location": {
+    "lat": 40.356944,
+    "lng": -93.770556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302014"
+  },
+  "msha": [
+    {
+      "mine_id": "2302014",
+      "name": "Stoner Sand",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2020-10-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

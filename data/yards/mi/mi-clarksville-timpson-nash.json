@@ -1,0 +1,41 @@
+{
+  "id": "mi-clarksville-timpson-nash",
+  "slug": "timpson-nash",
+  "name": "Timpson Nash",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Clarksville",
+    "state": "MI",
+    "zip": "49301"
+  },
+  "location": {
+    "lat": 42.988889,
+    "lng": -85.408333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003666"
+  },
+  "msha": [
+    {
+      "mine_id": "2003666",
+      "name": "Nash Pit",
+      "operator": "Timpson Nash LLC",
+      "status": "Intermittent",
+      "status_since": "2025-04-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

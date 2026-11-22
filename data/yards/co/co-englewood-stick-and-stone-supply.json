@@ -1,0 +1,35 @@
+{
+  "id": "co-englewood-stick-and-stone-supply",
+  "slug": "stick-and-stone-supply",
+  "name": "Stick & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "3120 W Hampden Ave",
+    "city": "Englewood",
+    "state": "CO",
+    "zip": "80110"
+  },
+  "location": {
+    "lat": 39.653091,
+    "lng": -105.028603
+  },
+  "contact": {
+    "phone": "(303) 800-5660"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b6a252ef-5888-4b7e-9286-bcc070293dc1",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

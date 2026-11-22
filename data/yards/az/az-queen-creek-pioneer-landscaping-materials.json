@@ -1,0 +1,36 @@
+{
+  "id": "az-queen-creek-pioneer-landscaping-materials",
+  "slug": "pioneer-landscaping-materials",
+  "name": "Pioneer Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "25507 S Power Rd",
+    "city": "Queen Creek",
+    "state": "AZ",
+    "zip": "85142"
+  },
+  "location": {
+    "lat": 33.216377,
+    "lng": -111.685295
+  },
+  "contact": {
+    "phone": "(480) 988-7233",
+    "website": "http://www.pioneersand.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f7d762b3-6fab-4f25-8b34-aa4658a78109",
+    "confidence": 0.907,
+    "merged_records": 1
+  }
+}

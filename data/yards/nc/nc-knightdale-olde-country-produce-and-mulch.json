@@ -1,0 +1,35 @@
+{
+  "id": "nc-knightdale-olde-country-produce-and-mulch",
+  "slug": "olde-country-produce-and-mulch",
+  "name": "Olde Country Produce and Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8824 Poole Rd",
+    "city": "Knightdale",
+    "state": "NC",
+    "zip": "27545"
+  },
+  "location": {
+    "lat": 35.748718,
+    "lng": -78.468269
+  },
+  "contact": {
+    "phone": "(919) 291-6174"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9d559d51-0539-40da-8c48-58b755556c48",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ia-spirit-lake-cohrs-construction",
+  "slug": "cohrs-construction",
+  "name": "Cohrs Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Spirit Lake",
+    "state": "IA",
+    "zip": "51347"
+  },
+  "location": {
+    "lat": 43.473611,
+    "lng": -95.222222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1302047"
+  },
+  "msha": [
+    {
+      "mine_id": "1302047",
+      "name": "Pit #2",
+      "operator": "Cohrs Construction Inc",
+      "status": "Active",
+      "status_since": "2026-10-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

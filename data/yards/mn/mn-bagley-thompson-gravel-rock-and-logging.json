@@ -1,0 +1,36 @@
+{
+  "id": "mn-bagley-thompson-gravel-rock-and-logging",
+  "slug": "thompson-gravel-rock-and-logging",
+  "name": "Thompson Gravel Rock and Logging",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21849 State 92",
+    "city": "Bagley",
+    "state": "MN",
+    "zip": "56621"
+  },
+  "location": {
+    "lat": 47.323235,
+    "lng": -95.382401
+  },
+  "contact": {
+    "phone": "(218) 556-8500",
+    "website": "http://www.thompsongravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e58b7c88-cef6-431f-abf3-627539685927",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

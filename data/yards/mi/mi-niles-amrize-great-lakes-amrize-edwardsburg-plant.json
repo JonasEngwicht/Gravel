@@ -1,0 +1,41 @@
+{
+  "id": "mi-niles-amrize-great-lakes-amrize-edwardsburg-plant",
+  "slug": "amrize-great-lakes-amrize-edwardsburg-plant",
+  "name": "Amrize Great Lakes – Amrize Edwardsburg Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Niles",
+    "state": "MI",
+    "zip": "49120"
+  },
+  "location": {
+    "lat": 41.829722,
+    "lng": -86.254167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003096"
+  },
+  "msha": [
+    {
+      "mine_id": "2003096",
+      "name": "Amrize Edwardsburg Plant",
+      "operator": "Amrize Great Lakes Inc.",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

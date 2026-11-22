@@ -1,0 +1,48 @@
+{
+  "id": "tx-ivanhoe-united-sand-and-gravel",
+  "slug": "united-sand-and-gravel",
+  "name": "United Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "790 County Road 2037",
+    "city": "Ivanhoe",
+    "state": "TX",
+    "zip": "75447"
+  },
+  "location": {
+    "lat": 33.806969,
+    "lng": -96.144997
+  },
+  "contact": {
+    "phone": "(903) 505-7263",
+    "website": "https://www.unitedsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f1d10f9-ce42-41c7-b67a-b11000f62bf0",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4105517",
+      "name": "United Sand & Gravel, LLC.",
+      "operator": "United Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2026-09-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

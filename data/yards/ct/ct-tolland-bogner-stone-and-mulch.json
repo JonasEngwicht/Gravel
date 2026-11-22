@@ -1,0 +1,35 @@
+{
+  "id": "ct-tolland-bogner-stone-and-mulch",
+  "slug": "bogner-stone-and-mulch",
+  "name": "Bogner Stone & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "184 Tolland Stage Rd",
+    "city": "Tolland",
+    "state": "CT",
+    "zip": "06084"
+  },
+  "location": {
+    "lat": 41.870758,
+    "lng": -72.411461
+  },
+  "contact": {
+    "phone": "(860) 875-8525"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "941af803-9577-44b5-af8f-2ad47d3c4e03",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

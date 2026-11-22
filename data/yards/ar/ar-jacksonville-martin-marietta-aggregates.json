@@ -1,0 +1,37 @@
+{
+  "id": "ar-jacksonville-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "2214 S Redmond Rd",
+    "city": "Jacksonville",
+    "state": "AR",
+    "zip": "72076"
+  },
+  "location": {
+    "lat": 34.862656,
+    "lng": -92.132477
+  },
+  "contact": {
+    "phone": "(501) 778-1527",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dc18bcff-281c-4f3c-a24b-584c2cc63404",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

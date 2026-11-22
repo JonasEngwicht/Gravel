@@ -1,0 +1,41 @@
+{
+  "id": "az-tolleson-arizona-materials-plant-1-avondale",
+  "slug": "arizona-materials-plant-1-avondale",
+  "name": "Arizona Materials – Plant 1 Avondale",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Tolleson",
+    "state": "AZ",
+    "zip": "85323"
+  },
+  "location": {
+    "lat": 33.390278,
+    "lng": -112.326111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203390"
+  },
+  "msha": [
+    {
+      "mine_id": "0203390",
+      "name": "Plant 1 Avondale",
+      "operator": "Arizona Materials",
+      "status": "Active",
+      "status_since": "2020-01-31",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "al-montgomery-siteone-landscape-supply-1185-kershaw-st",
+  "slug": "siteone-landscape-supply-1185-kershaw-st",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1185 Kershaw St",
+    "city": "Montgomery",
+    "state": "AL",
+    "zip": "36108"
+  },
+  "location": {
+    "lat": 32.352776,
+    "lng": -86.354843
+  },
+  "contact": {
+    "phone": "(334) 834-3705",
+    "website": "https://www.siteone.com/store/422"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41918814-5313-4f20-af1f-5d29e7704950",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

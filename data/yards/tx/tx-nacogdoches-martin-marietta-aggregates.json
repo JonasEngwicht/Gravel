@@ -1,0 +1,37 @@
+{
+  "id": "tx-nacogdoches-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "1211 Bennett Clark Rd",
+    "city": "Nacogdoches",
+    "state": "TX",
+    "zip": "75961"
+  },
+  "location": {
+    "lat": 31.585207,
+    "lng": -94.651688
+  },
+  "contact": {
+    "phone": "(936) 564-8301",
+    "website": "http://martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6bcfccc5-5c49-4650-af29-d01ce14c3480",
+    "confidence": 0.898,
+    "merged_records": 1
+  }
+}

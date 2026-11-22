@@ -1,0 +1,41 @@
+{
+  "id": "wy-meeteetse-dark-horse-trucking-leigh-ranch-smith-pit",
+  "slug": "dark-horse-trucking-leigh-ranch-smith-pit",
+  "name": "Dark Horse Trucking – Leigh Ranch - Smith Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Meeteetse",
+    "state": "WY",
+    "zip": "82433"
+  },
+  "location": {
+    "lat": 44.120833,
+    "lng": -108.875833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4801886"
+  },
+  "msha": [
+    {
+      "mine_id": "4801886",
+      "name": "Leigh Ranch - Smith Pit",
+      "operator": "Dark Horse Trucking Inc.",
+      "status": "Intermittent",
+      "status_since": "2025-12-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

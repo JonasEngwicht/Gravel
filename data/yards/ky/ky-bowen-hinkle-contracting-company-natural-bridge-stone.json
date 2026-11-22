@@ -1,0 +1,41 @@
+{
+  "id": "ky-bowen-hinkle-contracting-company-natural-bridge-stone",
+  "slug": "hinkle-contracting-company-natural-bridge-stone",
+  "name": "Hinkle Contracting Company – Natural Bridge Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bowen",
+    "state": "KY",
+    "zip": "40380"
+  },
+  "location": {
+    "lat": 37.8325,
+    "lng": -83.770833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500075"
+  },
+  "msha": [
+    {
+      "mine_id": "1500075",
+      "name": "Natural Bridge Stone",
+      "operator": "Hinkle Contracting Company LLC",
+      "status": "Active",
+      "status_since": "1979-03-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 26
+    }
+  ]
+}

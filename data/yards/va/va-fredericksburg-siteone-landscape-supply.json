@@ -1,0 +1,37 @@
+{
+  "id": "va-fredericksburg-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "115 Juliad Ct",
+    "city": "Fredericksburg",
+    "state": "VA",
+    "zip": "22406"
+  },
+  "location": {
+    "lat": 38.359612,
+    "lng": -77.511581
+  },
+  "contact": {
+    "phone": "(540) 752-1408",
+    "website": "https://www.siteone.com/store/724"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1689dd67-dc26-4a92-a952-5e293adcbda9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

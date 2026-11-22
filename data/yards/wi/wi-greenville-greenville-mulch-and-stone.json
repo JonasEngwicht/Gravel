@@ -1,0 +1,36 @@
+{
+  "id": "wi-greenville-greenville-mulch-and-stone",
+  "slug": "greenville-mulch-and-stone",
+  "name": "Greenville Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "N2077 Municipal Dr",
+    "city": "Greenville",
+    "state": "WI",
+    "zip": "54942"
+  },
+  "location": {
+    "lat": 44.316231,
+    "lng": -88.536804
+  },
+  "contact": {
+    "phone": "(920) 585-0330",
+    "website": "http://www.Greenvillemulch.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "164cd239-e18d-4d62-9f70-b70d2803fce5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

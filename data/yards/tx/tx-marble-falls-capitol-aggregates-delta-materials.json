@@ -1,0 +1,41 @@
+{
+  "id": "tx-marble-falls-capitol-aggregates-delta-materials",
+  "slug": "capitol-aggregates-delta-materials",
+  "name": "Capitol Aggregates – Delta Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Marble Falls",
+    "state": "TX",
+    "zip": "78654"
+  },
+  "location": {
+    "lat": 30.667222,
+    "lng": -98.287778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4102810"
+  },
+  "msha": [
+    {
+      "mine_id": "4102810",
+      "name": "Delta Materials",
+      "operator": "Capitol Aggregates, Inc.",
+      "status": "Active",
+      "status_since": "1988-12-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

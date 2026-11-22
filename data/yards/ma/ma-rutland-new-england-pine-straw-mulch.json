@@ -1,0 +1,36 @@
+{
+  "id": "ma-rutland-new-england-pine-straw-mulch",
+  "slug": "new-england-pine-straw-mulch",
+  "name": "New England Pine Straw Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "Jordan Dairy Farm, 51 Muschopauge Rd",
+    "city": "Rutland",
+    "state": "MA",
+    "zip": "01543"
+  },
+  "location": {
+    "lat": 42.388119,
+    "lng": -71.917358
+  },
+  "contact": {
+    "phone": "(484) 202-7608",
+    "website": "http://newenglandpinestraw.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41fbcd8c-f554-4544-8600-6c8d35a4df6b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

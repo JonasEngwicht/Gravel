@@ -1,0 +1,41 @@
+{
+  "id": "il-colona-riverstone-group-cleveland-quarry-plant-31",
+  "slug": "riverstone-group-cleveland-quarry-plant-31",
+  "name": "RiverStone Group – Cleveland Quarry Plant #31",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Colona",
+    "state": "IL",
+    "zip": "61241"
+  },
+  "location": {
+    "lat": 41.500278,
+    "lng": -90.315
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100131"
+  },
+  "msha": [
+    {
+      "mine_id": "1100131",
+      "name": "Cleveland Quarry Plant #31",
+      "operator": "RiverStone Group Inc",
+      "status": "Active",
+      "status_since": "2020-11-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

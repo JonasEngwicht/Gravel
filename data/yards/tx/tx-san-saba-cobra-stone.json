@@ -1,0 +1,41 @@
+{
+  "id": "tx-san-saba-cobra-stone",
+  "slug": "cobra-stone",
+  "name": "Cobra Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "San Saba",
+    "state": "TX",
+    "zip": "76877"
+  },
+  "location": {
+    "lat": 31.1325,
+    "lng": -98.817222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104729"
+  },
+  "msha": [
+    {
+      "mine_id": "4104729",
+      "name": "Cobra Stone Quarry #2",
+      "operator": "Cobra Stone Inc",
+      "status": "Active",
+      "status_since": "2008-04-30",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

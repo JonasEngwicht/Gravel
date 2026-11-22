@@ -1,0 +1,41 @@
+{
+  "id": "tn-erwin-tennessee-aggregates-temple-hill-processing-plant",
+  "slug": "tennessee-aggregates-temple-hill-processing-plant",
+  "name": "Tennessee Aggregates – Temple Hill Processing Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Erwin",
+    "state": "TN",
+    "zip": "37616"
+  },
+  "location": {
+    "lat": 36.1975,
+    "lng": -82.749722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003659"
+  },
+  "msha": [
+    {
+      "mine_id": "4003659",
+      "name": "Temple Hill Processing Plant",
+      "operator": "Tennessee Aggregates LLC",
+      "status": "Active",
+      "status_since": "2026-09-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

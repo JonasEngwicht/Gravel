@@ -1,0 +1,37 @@
+{
+  "id": "tx-rosharon-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "5730 Old Alvin Rd",
+    "city": "Rosharon",
+    "state": "TX",
+    "zip": "77583"
+  },
+  "location": {
+    "lat": 29.502047,
+    "lng": -95.462418
+  },
+  "contact": {
+    "phone": "(281) 431-2511",
+    "website": "http://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "555a054d-0959-47de-ae63-cf44a744e548",
+    "confidence": 0.536,
+    "merged_records": 1
+  }
+}

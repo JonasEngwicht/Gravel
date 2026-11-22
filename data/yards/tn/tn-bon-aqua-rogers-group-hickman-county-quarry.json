@@ -1,0 +1,41 @@
+{
+  "id": "tn-bon-aqua-rogers-group-hickman-county-quarry",
+  "slug": "rogers-group-hickman-county-quarry",
+  "name": "Rogers Group – Hickman County Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bon Aqua",
+    "state": "TN",
+    "zip": "37062"
+  },
+  "location": {
+    "lat": 35.956944,
+    "lng": -87.204722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003148"
+  },
+  "msha": [
+    {
+      "mine_id": "4003148",
+      "name": "Hickman County Quarry",
+      "operator": "Rogers Group Inc",
+      "status": "Active",
+      "status_since": "2010-06-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

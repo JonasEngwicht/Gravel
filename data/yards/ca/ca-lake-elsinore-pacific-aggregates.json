@@ -1,0 +1,47 @@
+{
+  "id": "ca-lake-elsinore-pacific-aggregates",
+  "slug": "pacific-aggregates",
+  "name": "Pacific Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "28251 Lake St",
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "zip": "92530"
+  },
+  "location": {
+    "lat": 33.713352,
+    "lng": -117.39296
+  },
+  "contact": {
+    "phone": "(951) 245-2460"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "17ab1887-5006-446d-b3a5-edb00a0e4097",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405635",
+      "name": "Pacific Aggregates Pits",
+      "operator": "Pacific Aggregates Inc",
+      "status": "Active",
+      "status_since": "2005-07-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 30
+    }
+  ]
+}

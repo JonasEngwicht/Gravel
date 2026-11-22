@@ -1,0 +1,41 @@
+{
+  "id": "tn-hartsville-jones-bros-contractors-jones-trousdale-county-borrow-pit",
+  "slug": "jones-bros-contractors-jones-trousdale-county-borrow-pit",
+  "name": "Jones Bros. Contractors – Jones Trousdale County Borrow Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hartsville",
+    "state": "TN",
+    "zip": "37074"
+  },
+  "location": {
+    "lat": 36.368611,
+    "lng": -86.137222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003604"
+  },
+  "msha": [
+    {
+      "mine_id": "4003604",
+      "name": "Jones Trousdale County Borrow Pit",
+      "operator": "Jones Bros. Contractors, LLC",
+      "status": "Active",
+      "status_since": "2024-05-11",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-monterey-midsouth-aggregates-sand-products-of-monterey",
+  "slug": "midsouth-aggregates-sand-products-of-monterey",
+  "name": "Midsouth Aggregates – Sand Products of Monterey",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Monterey",
+    "state": "TN",
+    "zip": "38574"
+  },
+  "location": {
+    "lat": 36.155278,
+    "lng": -85.203056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003168"
+  },
+  "msha": [
+    {
+      "mine_id": "4003168",
+      "name": "Sand Products of Monterey",
+      "operator": "Midsouth Aggregates",
+      "status": "Active",
+      "status_since": "2001-05-15",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

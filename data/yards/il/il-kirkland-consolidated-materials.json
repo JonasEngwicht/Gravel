@@ -1,0 +1,41 @@
+{
+  "id": "il-kirkland-consolidated-materials",
+  "slug": "consolidated-materials",
+  "name": "Consolidated Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Kirkland",
+    "state": "IL",
+    "zip": "61016"
+  },
+  "location": {
+    "lat": 42.159722,
+    "lng": -88.916389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100096"
+  },
+  "msha": [
+    {
+      "mine_id": "1100096",
+      "name": "Consolidated Materials",
+      "operator": "Consolidated Materials, Inc.",
+      "status": "Intermittent",
+      "status_since": "2019-11-18",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

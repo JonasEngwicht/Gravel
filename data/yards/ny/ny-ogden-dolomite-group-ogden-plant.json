@@ -1,0 +1,41 @@
+{
+  "id": "ny-ogden-dolomite-group-ogden-plant",
+  "slug": "dolomite-group-ogden-plant",
+  "name": "Dolomite Group – Ogden Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ogden",
+    "state": "NY",
+    "zip": "14559"
+  },
+  "location": {
+    "lat": 43.164444,
+    "lng": -77.805
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001141"
+  },
+  "msha": [
+    {
+      "mine_id": "3001141",
+      "name": "Ogden Plant",
+      "operator": "Dolomite Group",
+      "status": "Intermittent",
+      "status_since": "2005-03-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

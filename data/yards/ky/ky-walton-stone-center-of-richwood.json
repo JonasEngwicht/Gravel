@@ -1,0 +1,36 @@
+{
+  "id": "ky-walton-stone-center-of-richwood",
+  "slug": "stone-center-of-richwood",
+  "name": "Stone Center of Richwood",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "10720 Dixie Hwy",
+    "city": "Walton",
+    "state": "KY",
+    "zip": "41094"
+  },
+  "location": {
+    "lat": 38.934433,
+    "lng": -84.625237
+  },
+  "contact": {
+    "phone": "(859) 282-8877",
+    "website": "http://www.stonecenters.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "764c53a7-1400-4f7a-b8b0-3ca6a257df79",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

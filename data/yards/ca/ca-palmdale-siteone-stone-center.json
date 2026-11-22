@@ -1,0 +1,37 @@
+{
+  "id": "ca-palmdale-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "37810 Sierra Hwy",
+    "city": "Palmdale",
+    "state": "CA",
+    "zip": "93550"
+  },
+  "location": {
+    "lat": 34.569225,
+    "lng": -118.114197
+  },
+  "contact": {
+    "phone": "(661) 947-2117",
+    "website": "https://www.siteone.com/en/store/451"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "938bd6c8-65d9-4539-b189-f872f3015d50",
+    "confidence": 0.976,
+    "merged_records": 1
+  }
+}

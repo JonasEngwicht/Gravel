@@ -1,0 +1,41 @@
+{
+  "id": "ma-dracut-brox-industries-incorporated-dracut-ma-plant",
+  "slug": "brox-industries-incorporated-dracut-ma-plant",
+  "name": "Brox Industries Incorporated – Dracut MA Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dracut",
+    "state": "MA",
+    "zip": "01826"
+  },
+  "location": {
+    "lat": 42.671667,
+    "lng": -71.245278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1900004"
+  },
+  "msha": [
+    {
+      "mine_id": "1900004",
+      "name": "Dracut MA Plant",
+      "operator": "Brox Industries Incorporated",
+      "status": "Intermittent",
+      "status_since": "2024-12-20",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

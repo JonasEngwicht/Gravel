@@ -1,0 +1,41 @@
+{
+  "id": "fl-clermont-e-r-jahna-industries-hilochee-sand-mine",
+  "slug": "e-r-jahna-industries-hilochee-sand-mine",
+  "name": "E R Jahna Industries – Hilochee Sand Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Clermont",
+    "state": "FL",
+    "zip": "33897"
+  },
+  "location": {
+    "lat": 28.37,
+    "lng": -81.699722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801405"
+  },
+  "msha": [
+    {
+      "mine_id": "0801405",
+      "name": "Hilochee Sand Mine",
+      "operator": "E R Jahna Industries Inc",
+      "status": "Active",
+      "status_since": "2024-10-17",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-palmer-scott-ranch-sand-and-gravel",
+  "slug": "scott-ranch-sand-and-gravel",
+  "name": "Scott Ranch Sand And Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2442 Neck Rd",
+    "city": "Palmer",
+    "state": "TX",
+    "zip": "75152"
+  },
+  "location": {
+    "lat": 32.441948,
+    "lng": -96.645462
+  },
+  "contact": {
+    "phone": "(214) 616-4452",
+    "website": "https://scottranchsandandgravel.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "324c6ab4-5ae7-4c13-af16-ae3bf0a600ad",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

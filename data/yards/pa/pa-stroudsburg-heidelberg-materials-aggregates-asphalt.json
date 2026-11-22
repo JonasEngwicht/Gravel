@@ -1,0 +1,35 @@
+{
+  "id": "pa-stroudsburg-heidelberg-materials-aggregates-asphalt",
+  "slug": "heidelberg-materials-aggregates-asphalt",
+  "name": "Heidelberg Materials, Aggregates, Asphalt",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "RD 4,",
+    "city": "Stroudsburg",
+    "state": "PA",
+    "zip": "18360"
+  },
+  "location": {
+    "lat": 40.926292,
+    "lng": -75.27198
+  },
+  "contact": {
+    "phone": "(570) 402-1657"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7d4c5fc-a5b1-49f3-8b86-8c95f80e9e33",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

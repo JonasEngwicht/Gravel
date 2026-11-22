@@ -1,0 +1,37 @@
+{
+  "id": "ia-tracy-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "1488 Highway T25",
+    "city": "Tracy",
+    "state": "IA",
+    "zip": "50256"
+  },
+  "location": {
+    "lat": 41.306469,
+    "lng": -92.885094
+  },
+  "contact": {
+    "phone": "(641) 949-6211",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3a2209e-75c9-4563-a1d5-4a4cf3139403",
+    "confidence": 0.785,
+    "merged_records": 1
+  }
+}

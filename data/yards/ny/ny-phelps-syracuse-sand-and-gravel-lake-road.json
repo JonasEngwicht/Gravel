@@ -1,0 +1,41 @@
+{
+  "id": "ny-phelps-syracuse-sand-and-gravel-lake-road",
+  "slug": "syracuse-sand-and-gravel-lake-road",
+  "name": "Syracuse Sand & Gravel – Lake Road",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Phelps",
+    "state": "NY",
+    "zip": "14532"
+  },
+  "location": {
+    "lat": 42.997778,
+    "lng": -77.033611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3001183"
+  },
+  "msha": [
+    {
+      "mine_id": "3001183",
+      "name": "Lake Road",
+      "operator": "Syracuse Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2004-06-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

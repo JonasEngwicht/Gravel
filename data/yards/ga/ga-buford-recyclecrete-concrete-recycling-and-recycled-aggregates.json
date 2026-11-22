@@ -1,0 +1,36 @@
+{
+  "id": "ga-buford-recyclecrete-concrete-recycling-and-recycled-aggregates",
+  "slug": "recyclecrete-concrete-recycling-and-recycled-aggregates",
+  "name": "RecycleCrete - Concrete Recycling and recycled aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5533 S Richland Creek Rd",
+    "city": "Buford",
+    "state": "GA",
+    "zip": "30518"
+  },
+  "location": {
+    "lat": 34.12738,
+    "lng": -84.031029
+  },
+  "contact": {
+    "phone": "(770) 696-8009",
+    "website": "http://recyclecreteusa.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bb2f82a0-6ecd-48a7-9467-0f9286033295",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

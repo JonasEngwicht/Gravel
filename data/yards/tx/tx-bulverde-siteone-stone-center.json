@@ -1,0 +1,37 @@
+{
+  "id": "tx-bulverde-siteone-stone-center",
+  "slug": "siteone-stone-center",
+  "name": "SiteOne Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "chain": "siteone",
+  "address": {
+    "street": "29280 US Highway 281 N",
+    "city": "Bulverde",
+    "state": "TX",
+    "zip": "78163"
+  },
+  "location": {
+    "lat": 29.731705,
+    "lng": -98.439362
+  },
+  "contact": {
+    "phone": "(830) 980-7901",
+    "website": "https://www.siteone.com/en/store/528"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c5d2f64-ea03-4e08-906e-4fc09886e607",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

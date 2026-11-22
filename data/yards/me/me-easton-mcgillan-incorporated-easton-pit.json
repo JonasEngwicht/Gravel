@@ -1,0 +1,41 @@
+{
+  "id": "me-easton-mcgillan-incorporated-easton-pit",
+  "slug": "mcgillan-incorporated-easton-pit",
+  "name": "McGillan Incorporated – Easton Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Easton",
+    "state": "ME",
+    "zip": "04740"
+  },
+  "location": {
+    "lat": 46.674444,
+    "lng": -67.800833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700859"
+  },
+  "msha": [
+    {
+      "mine_id": "1700859",
+      "name": "Easton Pit",
+      "operator": "McGillan Incorporated",
+      "status": "Intermittent",
+      "status_since": "2014-10-08",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

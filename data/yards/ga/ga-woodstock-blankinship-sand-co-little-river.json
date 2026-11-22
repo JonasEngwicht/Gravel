@@ -1,0 +1,41 @@
+{
+  "id": "ga-woodstock-blankinship-sand-co-little-river",
+  "slug": "blankinship-sand-co-little-river",
+  "name": "Blankinship Sand Co – Little River",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30549"
+  },
+  "location": {
+    "lat": 34.135,
+    "lng": -83.525556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901252"
+  },
+  "msha": [
+    {
+      "mine_id": "0901252",
+      "name": "Little River",
+      "operator": "Blankinship Sand Co LLC",
+      "status": "Active",
+      "status_since": "2023-01-04",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

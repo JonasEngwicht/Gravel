@@ -1,0 +1,36 @@
+{
+  "id": "mi-ada-tip-top-gravel",
+  "slug": "tip-top-gravel",
+  "name": "Tip-Top Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9741 Fulton St E",
+    "city": "Ada",
+    "state": "MI",
+    "zip": "49301"
+  },
+  "location": {
+    "lat": 42.928593,
+    "lng": -85.428909
+  },
+  "contact": {
+    "phone": "(616) 897-8342",
+    "website": "https://www.tiptopgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d4f70ee2-c7d1-4169-8ba8-7c979fb89ef0",
+    "confidence": 0.943,
+    "merged_records": 1
+  }
+}

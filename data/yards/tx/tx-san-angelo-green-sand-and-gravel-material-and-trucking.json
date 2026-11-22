@@ -1,0 +1,35 @@
+{
+  "id": "tx-san-angelo-green-sand-and-gravel-material-and-trucking",
+  "slug": "green-sand-and-gravel-material-and-trucking",
+  "name": "Green Sand & Gravel. Material and Trucking",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3605 Christoval Rd",
+    "city": "San Angelo",
+    "state": "TX",
+    "zip": "76904"
+  },
+  "location": {
+    "lat": 31.423691,
+    "lng": -100.423317
+  },
+  "contact": {
+    "phone": "(325) 944-8008"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dff2bc50-8ec1-46b2-ad29-f9611bc8ac00",
+    "confidence": 0.575,
+    "merged_records": 1
+  }
+}

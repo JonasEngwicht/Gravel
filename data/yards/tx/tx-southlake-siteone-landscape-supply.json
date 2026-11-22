@@ -1,0 +1,37 @@
+{
+  "id": "tx-southlake-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "260 Bank St",
+    "city": "Southlake",
+    "state": "TX",
+    "zip": "76092"
+  },
+  "location": {
+    "lat": 32.936817,
+    "lng": -97.10305
+  },
+  "contact": {
+    "phone": "(817) 488-9392",
+    "website": "https://www.siteone.com/store/241"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3dba1801-8a76-4e0c-a97b-3b025d393068",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

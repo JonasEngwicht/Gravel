@@ -1,0 +1,36 @@
+{
+  "id": "oh-canton-ty-s-mulch-and-top-soil",
+  "slug": "ty-s-mulch-and-top-soil",
+  "name": "Ty's Mulch and Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "539 Mill St SE",
+    "city": "Canton",
+    "state": "OH",
+    "zip": "44706"
+  },
+  "location": {
+    "lat": 40.768757,
+    "lng": -81.374794
+  },
+  "contact": {
+    "phone": "(330) 966-7645",
+    "website": "http://Tysmulchandtopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ac512fa7-7d3c-4a11-aed8-b08ec82c3a09",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

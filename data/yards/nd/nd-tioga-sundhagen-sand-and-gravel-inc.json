@@ -1,0 +1,36 @@
+{
+  "id": "nd-tioga-sundhagen-sand-and-gravel-inc",
+  "slug": "sundhagen-sand-and-gravel-inc",
+  "name": "Sundhagen Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "415 8th St SE",
+    "city": "Tioga",
+    "state": "ND",
+    "zip": "58852"
+  },
+  "location": {
+    "lat": 48.385395,
+    "lng": -102.935905
+  },
+  "contact": {
+    "phone": "(701) 664-3886",
+    "website": "https://www.sundhagensg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2bcee268-1eef-4166-903d-d4786c78290a",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

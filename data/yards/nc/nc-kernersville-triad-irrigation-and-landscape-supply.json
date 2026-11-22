@@ -1,0 +1,36 @@
+{
+  "id": "nc-kernersville-triad-irrigation-and-landscape-supply",
+  "slug": "triad-irrigation-and-landscape-supply",
+  "name": "Triad Irrigation & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1581 Brookford Industrial Dr",
+    "city": "Kernersville",
+    "state": "NC",
+    "zip": "27284"
+  },
+  "location": {
+    "lat": 36.091728,
+    "lng": -80.058342
+  },
+  "contact": {
+    "phone": "(336) 992-6480",
+    "website": "http://www.mytils.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d0969897-8b5c-46c0-af83-3a569da31e55",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

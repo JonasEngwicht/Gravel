@@ -1,0 +1,41 @@
+{
+  "id": "or-central-point-central-rock-and-redi-mix-venable-pit",
+  "slug": "central-rock-and-redi-mix-venable-pit",
+  "name": "Central Rock & Redi-Mix – Venable Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Central Point",
+    "state": "OR",
+    "zip": "97502"
+  },
+  "location": {
+    "lat": 42.415,
+    "lng": -122.946111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503467"
+  },
+  "msha": [
+    {
+      "mine_id": "3503467",
+      "name": "Venable Pit",
+      "operator": "Central Rock & Redi-Mix LLC",
+      "status": "Active",
+      "status_since": "2026-07-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

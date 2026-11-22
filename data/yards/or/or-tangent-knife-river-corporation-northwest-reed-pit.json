@@ -1,0 +1,41 @@
+{
+  "id": "or-tangent-knife-river-corporation-northwest-reed-pit",
+  "slug": "knife-river-corporation-northwest-reed-pit",
+  "name": "Knife River Corporation-Northwest – Reed Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Tangent",
+    "state": "OR",
+    "zip": "97303"
+  },
+  "location": {
+    "lat": 45.059167,
+    "lng": -123.013889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3502968"
+  },
+  "msha": [
+    {
+      "mine_id": "3502968",
+      "name": "Reed Pit",
+      "operator": "Knife River Corporation-Northwest",
+      "status": "Active",
+      "status_since": "1987-02-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

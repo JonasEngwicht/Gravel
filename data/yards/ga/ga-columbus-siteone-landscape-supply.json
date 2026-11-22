@@ -1,0 +1,37 @@
+{
+  "id": "ga-columbus-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "1324 Concord Blvd",
+    "city": "Columbus",
+    "state": "GA",
+    "zip": "31904"
+  },
+  "location": {
+    "lat": 32.526638,
+    "lng": -84.973808
+  },
+  "contact": {
+    "phone": "(706) 327-2457",
+    "website": "http://www.siteone.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bc36dc8a-a430-46e4-b26d-e4428a3c8d6c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "ok-tahlequah-arkhola-sand-and-gravel-co",
+  "slug": "arkhola-sand-and-gravel-co",
+  "name": "Arkhola Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14199 W 834 Rd",
+    "city": "Tahlequah",
+    "state": "OK",
+    "zip": "74464"
+  },
+  "location": {
+    "lat": 35.805141,
+    "lng": -95.052773
+  },
+  "contact": {
+    "phone": "(918) 456-2683",
+    "website": "https://www.crhamericasmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "11dd9511-c153-4cb2-99a0-7bad6e289baf",
+    "confidence": 0.526,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3401130",
+      "name": "Roberts Quarry",
+      "operator": "Arkhola",
+      "status": "Active",
+      "status_since": "1978-11-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

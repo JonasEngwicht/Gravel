@@ -1,0 +1,41 @@
+{
+  "id": "wa-raymond-hawk-s-superior-rock-hawks-superior-rock",
+  "slug": "hawk-s-superior-rock-hawks-superior-rock",
+  "name": "Hawk's Superior Rock – Hawks Superior Rock",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Raymond",
+    "state": "WA",
+    "zip": "98527"
+  },
+  "location": {
+    "lat": 46.690833,
+    "lng": -123.803889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503304"
+  },
+  "msha": [
+    {
+      "mine_id": "4503304",
+      "name": "Hawks Superior Rock",
+      "operator": "Hawk's Superior Rock",
+      "status": "Active",
+      "status_since": "1993-08-25",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

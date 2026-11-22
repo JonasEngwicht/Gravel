@@ -1,0 +1,35 @@
+{
+  "id": "ca-concord-mt-diablo-landscape-centers",
+  "slug": "mt-diablo-landscape-centers",
+  "name": "Mt Diablo Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2445 Vista del Monte",
+    "city": "Concord",
+    "state": "CA",
+    "zip": "94520"
+  },
+  "location": {
+    "lat": 37.96022,
+    "lng": -122.037621
+  },
+  "contact": {
+    "website": "https://mtdiablolandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8ec9d1b7-5886-4bf4-b780-cde27cb71fbe",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

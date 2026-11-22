@@ -1,0 +1,37 @@
+{
+  "id": "ca-lakeside-heritage-landscape-supply",
+  "slug": "heritage-landscape-supply",
+  "name": "Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "heritage landscape supply",
+  "address": {
+    "street": "12365 Mapleview St",
+    "city": "Lakeside",
+    "state": "CA",
+    "zip": "92040"
+  },
+  "location": {
+    "lat": 32.862144,
+    "lng": -116.924278
+  },
+  "contact": {
+    "phone": "(619) 873-3090",
+    "website": "https://www.heritagelandscapesupplygroup.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e42f886c-ff56-41b0-bd2a-2c2e345f2a5a",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

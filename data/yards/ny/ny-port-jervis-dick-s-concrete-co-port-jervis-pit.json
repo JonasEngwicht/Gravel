@@ -1,0 +1,41 @@
+{
+  "id": "ny-port-jervis-dick-s-concrete-co-port-jervis-pit",
+  "slug": "dick-s-concrete-co-port-jervis-pit",
+  "name": "Dick's Concrete Co – Port Jervis Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Port Jervis",
+    "state": "NY",
+    "zip": "12771"
+  },
+  "location": {
+    "lat": 41.385,
+    "lng": -74.675278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000856"
+  },
+  "msha": [
+    {
+      "mine_id": "3000856",
+      "name": "Port Jervis Pit",
+      "operator": "Dick's Concrete Co Inc",
+      "status": "Active",
+      "status_since": "2024-12-05",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

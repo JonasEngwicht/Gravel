@@ -1,0 +1,36 @@
+{
+  "id": "fl-zephyrhills-southern-aggregates",
+  "slug": "southern-aggregates",
+  "name": "Southern Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "37245 Pure Water Wy",
+    "city": "Zephyrhills",
+    "state": "FL",
+    "zip": "33542"
+  },
+  "location": {
+    "lat": 28.230562,
+    "lng": -82.200592
+  },
+  "contact": {
+    "phone": "(813) 788-5633",
+    "website": "http://www.southernrockyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cf0f982b-f9a7-481c-aee8-83b6f81784d6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

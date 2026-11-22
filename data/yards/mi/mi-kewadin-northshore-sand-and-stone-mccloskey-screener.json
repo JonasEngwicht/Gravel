@@ -1,0 +1,41 @@
+{
+  "id": "mi-kewadin-northshore-sand-and-stone-mccloskey-screener",
+  "slug": "northshore-sand-and-stone-mccloskey-screener",
+  "name": "Northshore Sand & Stone – McCloskey Screener",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Kewadin",
+    "state": "MI",
+    "zip": "49629"
+  },
+  "location": {
+    "lat": 44.954722,
+    "lng": -85.370278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003582"
+  },
+  "msha": [
+    {
+      "mine_id": "2003582",
+      "name": "McCloskey Screener",
+      "operator": "Northshore Sand & Stone",
+      "status": "Intermittent",
+      "status_since": "2020-05-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

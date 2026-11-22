@@ -1,0 +1,41 @@
+{
+  "id": "nm-roswell-united-materials-llp-rio-felix",
+  "slug": "united-materials-llp-rio-felix",
+  "name": "United Materials, LLP – Rio Felix",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Roswell",
+    "state": "NM",
+    "zip": "88230"
+  },
+  "location": {
+    "lat": 33.323333,
+    "lng": -104.540833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902482"
+  },
+  "msha": [
+    {
+      "mine_id": "2902482",
+      "name": "Rio Felix",
+      "operator": "United Materials, LLP",
+      "status": "Active",
+      "status_since": "2026-02-13",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

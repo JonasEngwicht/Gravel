@@ -1,0 +1,37 @@
+{
+  "id": "tx-dallas-siteone-landscape-supply-13510-floyd-cir",
+  "slug": "siteone-landscape-supply-13510-floyd-cir",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "13510 Floyd Cir",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75243"
+  },
+  "location": {
+    "lat": 32.931217,
+    "lng": -96.744362
+  },
+  "contact": {
+    "phone": "(972) 231-0535",
+    "website": "https://www.siteone.com/store/199"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "52936c80-b483-481d-b18e-50a1254d1539",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

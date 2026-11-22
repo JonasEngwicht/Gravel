@@ -1,0 +1,48 @@
+{
+  "id": "ia-algona-reding-s-gravel-and-excavating",
+  "slug": "reding-s-gravel-and-excavating",
+  "name": "Reding's Gravel & Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2001 E Oak St",
+    "city": "Algona",
+    "state": "IA",
+    "zip": "50511"
+  },
+  "location": {
+    "lat": 43.075424,
+    "lng": -94.212334
+  },
+  "contact": {
+    "phone": "(515) 295-3661",
+    "website": "http://rgealgona.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e858d0d2-da56-4d40-9a0b-2da18acd4857",
+    "confidence": 0.788,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1302507",
+      "name": "Wash Plant",
+      "operator": "Reding's Gravel & Excavating Co.",
+      "status": "Intermittent",
+      "status_since": "2021-06-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

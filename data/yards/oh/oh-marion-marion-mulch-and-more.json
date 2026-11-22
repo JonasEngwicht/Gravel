@@ -1,0 +1,36 @@
+{
+  "id": "oh-marion-marion-mulch-and-more",
+  "slug": "marion-mulch-and-more",
+  "name": "Marion Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2080 Harding Hwy E",
+    "city": "Marion",
+    "state": "OH",
+    "zip": "43302"
+  },
+  "location": {
+    "lat": 40.599804,
+    "lng": -83.074722
+  },
+  "contact": {
+    "phone": "(740) 262-7312",
+    "website": "http://www.marionmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "574440cd-deac-4898-8dec-0dfa73533c66",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

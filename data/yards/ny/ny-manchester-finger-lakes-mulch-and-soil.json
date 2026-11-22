@@ -1,0 +1,35 @@
+{
+  "id": "ny-manchester-finger-lakes-mulch-and-soil",
+  "slug": "finger-lakes-mulch-and-soil",
+  "name": "Finger Lakes Mulch and Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "155 State St",
+    "city": "Manchester",
+    "state": "NY",
+    "zip": "14504"
+  },
+  "location": {
+    "lat": 42.965141,
+    "lng": -77.24501
+  },
+  "contact": {
+    "phone": "(585) 924-3010"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b5ea2c8-5f36-4e05-8ef6-5cc915eb78e4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

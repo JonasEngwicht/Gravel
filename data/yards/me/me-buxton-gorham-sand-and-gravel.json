@@ -1,0 +1,48 @@
+{
+  "id": "me-buxton-gorham-sand-and-gravel",
+  "slug": "gorham-sand-and-gravel",
+  "name": "Gorham Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "939 Parker Farm Rd",
+    "city": "Buxton",
+    "state": "ME",
+    "zip": "04093"
+  },
+  "location": {
+    "lat": 43.69257,
+    "lng": -70.522522
+  },
+  "contact": {
+    "phone": "(207) 839-2442",
+    "website": "http://www.gsgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4d916803-ae0f-4572-950e-6e761625d4aa",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1700663",
+      "name": "Portable Unit # 2",
+      "operator": "Gorham Sand & Gravel Inc",
+      "status": "Abandoned",
+      "status_since": "2024-07-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "or-medford-knife-river-corporation-northwest-kirtland",
+  "slug": "knife-river-corporation-northwest-kirtland",
+  "name": "Knife River Corporation-Northwest – Kirtland",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Medford",
+    "state": "OR",
+    "zip": "97502"
+  },
+  "location": {
+    "lat": 42.423333,
+    "lng": -122.958611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3500512"
+  },
+  "msha": [
+    {
+      "mine_id": "3500512",
+      "name": "Kirtland",
+      "operator": "Knife River Corporation-Northwest",
+      "status": "Active",
+      "status_since": "2014-04-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

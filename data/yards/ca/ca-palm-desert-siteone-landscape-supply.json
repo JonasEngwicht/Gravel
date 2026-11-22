@@ -1,0 +1,37 @@
+{
+  "id": "ca-palm-desert-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "77868 Wildcat Dr",
+    "city": "Palm Desert",
+    "state": "CA",
+    "zip": "92211"
+  },
+  "location": {
+    "lat": 33.76535,
+    "lng": -116.305222
+  },
+  "contact": {
+    "phone": "(760) 360-2950",
+    "website": "https://www.siteone.com/en/store/146"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6f592ed9-cf90-4123-80c2-c9fdd136bdd6",
+    "confidence": 0.994,
+    "merged_records": 1
+  }
+}

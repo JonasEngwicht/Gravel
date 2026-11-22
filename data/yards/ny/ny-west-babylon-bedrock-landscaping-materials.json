@@ -1,0 +1,35 @@
+{
+  "id": "ny-west-babylon-bedrock-landscaping-materials",
+  "slug": "bedrock-landscaping-materials",
+  "name": "Bedrock Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "454 Sunrise Hwy",
+    "city": "West Babylon",
+    "state": "NY",
+    "zip": "11704"
+  },
+  "location": {
+    "lat": 40.712887,
+    "lng": -73.35733
+  },
+  "contact": {
+    "phone": "(631) 587-4950"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "48706d07-489c-4b36-8f04-99db9c6ca521",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

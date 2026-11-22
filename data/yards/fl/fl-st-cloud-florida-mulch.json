@@ -1,0 +1,36 @@
+{
+  "id": "fl-st-cloud-florida-mulch",
+  "slug": "florida-mulch",
+  "name": "Florida Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4754 N Kenansville Rd",
+    "city": "St Cloud",
+    "state": "FL",
+    "zip": "34773"
+  },
+  "location": {
+    "lat": 28.039354,
+    "lng": -81.05085
+  },
+  "contact": {
+    "phone": "(407) 891-8400",
+    "website": "http://www.floridamulchonline.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5abb2426-301e-4b85-8a63-14b8938ebeae",
+    "confidence": 0.765,
+    "merged_records": 1
+  }
+}

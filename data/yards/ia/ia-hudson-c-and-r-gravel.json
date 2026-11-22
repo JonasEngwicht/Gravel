@@ -1,0 +1,35 @@
+{
+  "id": "ia-hudson-c-and-r-gravel",
+  "slug": "c-and-r-gravel",
+  "name": "C & R Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3864 Cherry Ave",
+    "city": "Hudson",
+    "state": "IA",
+    "zip": "57034"
+  },
+  "location": {
+    "lat": 43.089462,
+    "lng": -96.449837
+  },
+  "contact": {
+    "phone": "(712) 982-2022"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "beed9232-ea62-4bc1-8793-67eb3fd565a8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

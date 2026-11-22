@@ -1,0 +1,36 @@
+{
+  "id": "mi-ypsilanti-superior-wholesale-landscape-supply-and-nursery",
+  "slug": "superior-wholesale-landscape-supply-and-nursery",
+  "name": "Superior Wholesale Landscape Supply and Nursery",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4197 Carpenter Rd",
+    "city": "Ypsilanti",
+    "state": "MI",
+    "zip": "48197"
+  },
+  "location": {
+    "lat": 42.226772,
+    "lng": -83.678375
+  },
+  "contact": {
+    "phone": "(734) 929-2579",
+    "website": "http://www.superiorwholesaleypsilanti.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "19591005-3ded-4258-93ec-a50b90c8d15b",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

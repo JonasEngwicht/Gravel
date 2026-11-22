@@ -1,0 +1,37 @@
+{
+  "id": "fl-tampa-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "9810 E Broadway Ave",
+    "city": "Tampa",
+    "state": "FL",
+    "zip": "33619"
+  },
+  "location": {
+    "lat": 27.973412,
+    "lng": -82.338524
+  },
+  "contact": {
+    "phone": "(813) 621-2075",
+    "website": "https://www.siteone.com/en/store/7"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "786754af-e122-4fd4-b675-9e464f5d7bf2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

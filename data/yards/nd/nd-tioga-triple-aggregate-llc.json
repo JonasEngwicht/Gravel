@@ -1,0 +1,35 @@
+{
+  "id": "nd-tioga-triple-aggregate-llc",
+  "slug": "triple-aggregate-llc",
+  "name": "Triple Aggregate Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1027 S Welo St",
+    "city": "Tioga",
+    "state": "ND",
+    "zip": "58852"
+  },
+  "location": {
+    "lat": 48.384991,
+    "lng": -102.938271
+  },
+  "contact": {
+    "phone": "(701) 664-3500"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "859a2ccb-a038-4ae3-82d5-36a21753ce58",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

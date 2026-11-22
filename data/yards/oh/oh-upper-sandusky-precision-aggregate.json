@@ -1,0 +1,48 @@
+{
+  "id": "oh-upper-sandusky-precision-aggregate",
+  "slug": "precision-aggregate",
+  "name": "Precision Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4843 County Highway 43",
+    "city": "Upper Sandusky",
+    "state": "OH",
+    "zip": "43351"
+  },
+  "location": {
+    "lat": 40.891033,
+    "lng": -83.205849
+  },
+  "contact": {
+    "phone": "(419) 927-2366",
+    "website": "https://www.precisionaggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6cce9032-93d1-4828-b86d-6a79b46dedd4",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301437",
+      "name": "Precision Aggregates I",
+      "operator": "Precision Aggregates I",
+      "status": "Abandoned",
+      "status_since": "2014-10-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

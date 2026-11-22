@@ -1,0 +1,41 @@
+{
+  "id": "oh-reedsville-shelly-materials-reedsville-pit",
+  "slug": "shelly-materials-reedsville-pit",
+  "name": "Shelly Materials – Reedsville Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Reedsville",
+    "state": "OH",
+    "zip": "45772"
+  },
+  "location": {
+    "lat": 39.122778,
+    "lng": -81.747222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304433"
+  },
+  "msha": [
+    {
+      "mine_id": "3304433",
+      "name": "Reedsville Pit",
+      "operator": "Shelly Materials Inc.",
+      "status": "Active",
+      "status_since": "1999-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

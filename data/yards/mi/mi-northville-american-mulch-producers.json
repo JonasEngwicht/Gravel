@@ -1,0 +1,36 @@
+{
+  "id": "mi-northville-american-mulch-producers",
+  "slug": "american-mulch-producers",
+  "name": "American Mulch Producers",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "7872 Chubb Rd",
+    "city": "Northville",
+    "state": "MI",
+    "zip": "48168"
+  },
+  "location": {
+    "lat": 42.403156,
+    "lng": -83.568298
+  },
+  "contact": {
+    "phone": "(248) 352-0263",
+    "website": "https://order.americanmulchproducers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "de341e1b-6564-41fc-a63b-83640fd46281",
+    "confidence": 0.983,
+    "merged_records": 1
+  }
+}

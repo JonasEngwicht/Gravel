@@ -1,0 +1,47 @@
+{
+  "id": "ar-russellville-duffield-gravel-co",
+  "slug": "duffield-gravel-co",
+  "name": "Duffield Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "771 Hedgepath Rd",
+    "city": "Russellville",
+    "state": "AR",
+    "zip": "72802"
+  },
+  "location": {
+    "lat": 35.239529,
+    "lng": -93.104958
+  },
+  "contact": {
+    "phone": "(479) 967-5565"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f814d096-8929-4e25-b988-56e035ddfbfa",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0300910",
+      "name": "South New Hope Quarry & Plant",
+      "operator": "Ronnie Duffield Gravel Company",
+      "status": "Active",
+      "status_since": "1980-06-16",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "active-nearby",
+      "employees": 20
+    }
+  ]
+}

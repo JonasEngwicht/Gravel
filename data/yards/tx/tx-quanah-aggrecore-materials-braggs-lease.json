@@ -1,0 +1,41 @@
+{
+  "id": "tx-quanah-aggrecore-materials-braggs-lease",
+  "slug": "aggrecore-materials-braggs-lease",
+  "name": "Aggrecore Materials – Braggs Lease",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Quanah",
+    "state": "TX",
+    "zip": "79252"
+  },
+  "location": {
+    "lat": 34.2976,
+    "lng": -99.7543
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105887"
+  },
+  "msha": [
+    {
+      "mine_id": "4105887",
+      "name": "Braggs Lease",
+      "operator": "Aggrecore Materials, LLC",
+      "status": "Intermittent",
+      "status_since": "2026-09-10",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

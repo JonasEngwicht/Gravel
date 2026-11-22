@@ -1,0 +1,41 @@
+{
+  "id": "ak-fairbanks-alaska-construction-and-paving-fitz-pit",
+  "slug": "alaska-construction-and-paving-fitz-pit",
+  "name": "Alaska Construction & Paving – Fitz Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Fairbanks",
+    "state": "AK",
+    "zip": "99654"
+  },
+  "location": {
+    "lat": 61.585555,
+    "lng": -149.456666
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001648"
+  },
+  "msha": [
+    {
+      "mine_id": "5001648",
+      "name": "Fitz Pit",
+      "operator": "Alaska Construction & Paving, Inc.",
+      "status": "Intermittent",
+      "status_since": "2003-04-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

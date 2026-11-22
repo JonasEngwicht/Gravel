@@ -1,0 +1,41 @@
+{
+  "id": "wi-waupaca-faulks-brothers-construction-waupaca-industrial-sand-company",
+  "slug": "faulks-brothers-construction-waupaca-industrial-sand-company",
+  "name": "Faulks Brothers Construction – Waupaca Industrial Sand Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Waupaca",
+    "state": "WI",
+    "zip": "54981"
+  },
+  "location": {
+    "lat": 44.351389,
+    "lng": -89.071389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4702855"
+  },
+  "msha": [
+    {
+      "mine_id": "4702855",
+      "name": "Waupaca Industrial Sand Company",
+      "operator": "Faulks Brothers Construction Inc",
+      "status": "Intermittent",
+      "status_since": "2020-01-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

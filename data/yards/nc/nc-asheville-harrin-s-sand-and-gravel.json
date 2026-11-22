@@ -1,0 +1,48 @@
+{
+  "id": "nc-asheville-harrin-s-sand-and-gravel",
+  "slug": "harrin-s-sand-and-gravel",
+  "name": "Harrin's Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "195 Amboy Rd",
+    "city": "Asheville",
+    "state": "NC",
+    "zip": "28806"
+  },
+  "location": {
+    "lat": 35.565197,
+    "lng": -82.578705
+  },
+  "contact": {
+    "phone": "(828) 254-2744",
+    "website": "http://www.harrinssandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "77dbc42e-6c64-417b-95a3-bb3bc910dd2c",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3100425",
+      "name": "Harrins Sand and Gravel LLC",
+      "operator": "Harrins Sand and Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2022-03-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

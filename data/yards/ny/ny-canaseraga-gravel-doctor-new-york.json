@@ -1,0 +1,36 @@
+{
+  "id": "ny-canaseraga-gravel-doctor-new-york",
+  "slug": "gravel-doctor-new-york",
+  "name": "Gravel Doctor New York",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12 Main St",
+    "city": "Canaseraga",
+    "state": "NY",
+    "zip": "14822"
+  },
+  "location": {
+    "lat": 42.461273,
+    "lng": -77.777687
+  },
+  "contact": {
+    "phone": "(607) 545-6845",
+    "website": "http://www.graveldoctorny.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e17be899-fdba-4e5e-aaff-bad651091020",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

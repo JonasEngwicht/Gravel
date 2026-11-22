@@ -1,0 +1,36 @@
+{
+  "id": "il-saint-charles-bob-evans-firewood-and-mulch",
+  "slug": "bob-evans-firewood-and-mulch",
+  "name": "Bob Evans Firewood & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "38 Northern Ct",
+    "city": "Saint Charles",
+    "state": "IL",
+    "zip": "60175"
+  },
+  "location": {
+    "lat": 41.945515,
+    "lng": -88.386246
+  },
+  "contact": {
+    "phone": "(847) 888-3599",
+    "website": "http://bobevansfirewoodandmulch.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7608fac4-0ba6-49ef-bad3-778abb96c032",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

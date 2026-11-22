@@ -1,0 +1,36 @@
+{
+  "id": "tx-hockley-heidelberg-materials-aggregates",
+  "slug": "heidelberg-materials-aggregates",
+  "name": "Heidelberg Materials, Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "16910 Katy Hockley Rd",
+    "city": "Hockley",
+    "state": "TX",
+    "zip": "77447"
+  },
+  "location": {
+    "lat": 30.01132,
+    "lng": -95.810417
+  },
+  "contact": {
+    "phone": "(281) 256-8044",
+    "website": "https://www.heidelbergmaterials.us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "59a0b87c-2691-4f03-92be-e2d632e5223b",
+    "confidence": 0.603,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ut-cedar-fort-geneva-rock-products-cedar-valley-pit",
+  "slug": "geneva-rock-products-cedar-valley-pit",
+  "name": "Geneva Rock Products – Cedar Valley Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cedar Fort",
+    "state": "UT",
+    "zip": "84013"
+  },
+  "location": {
+    "lat": 40.306667,
+    "lng": -112.101944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4201661"
+  },
+  "msha": [
+    {
+      "mine_id": "4201661",
+      "name": "Cedar Valley Pit",
+      "operator": "Geneva Rock Products Inc",
+      "status": "Active",
+      "status_since": "2026-11-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

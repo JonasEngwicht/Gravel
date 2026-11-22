@@ -1,0 +1,41 @@
+{
+  "id": "mo-meta-5m-rock-quarry",
+  "slug": "5m-rock-quarry",
+  "name": "5M Rock Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Meta",
+    "state": "MO",
+    "zip": "72531"
+  },
+  "location": {
+    "lat": 36.273611,
+    "lng": -92.2675
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302608"
+  },
+  "msha": [
+    {
+      "mine_id": "2302608",
+      "name": "5M Rock Quarry",
+      "operator": "5M Rock Quarry, LLC",
+      "status": "Active",
+      "status_since": "2026-05-24",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

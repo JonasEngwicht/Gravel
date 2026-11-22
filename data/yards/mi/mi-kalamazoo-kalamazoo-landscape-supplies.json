@@ -1,0 +1,36 @@
+{
+  "id": "mi-kalamazoo-kalamazoo-landscape-supplies",
+  "slug": "kalamazoo-landscape-supplies",
+  "name": "Kalamazoo Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5111 9th St S",
+    "city": "Kalamazoo",
+    "state": "MI",
+    "zip": "49009"
+  },
+  "location": {
+    "lat": 42.243671,
+    "lng": -85.677315
+  },
+  "contact": {
+    "phone": "(269) 375-8000",
+    "website": "http://www.KLSupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e9b93cb2-37ac-4b8a-be0b-ef53b9ba2176",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

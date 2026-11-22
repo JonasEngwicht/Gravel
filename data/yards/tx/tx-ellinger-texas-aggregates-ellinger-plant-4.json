@@ -1,0 +1,41 @@
+{
+  "id": "tx-ellinger-texas-aggregates-ellinger-plant-4",
+  "slug": "texas-aggregates-ellinger-plant-4",
+  "name": "Texas Aggregates – Ellinger Plant #4",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Ellinger",
+    "state": "TX",
+    "zip": "78938"
+  },
+  "location": {
+    "lat": 29.836111,
+    "lng": -96.7275
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105491"
+  },
+  "msha": [
+    {
+      "mine_id": "4105491",
+      "name": "Ellinger Plant #4",
+      "operator": "Texas Aggregates, LLC",
+      "status": "Active",
+      "status_since": "2020-03-14",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 18
+    }
+  ]
+}

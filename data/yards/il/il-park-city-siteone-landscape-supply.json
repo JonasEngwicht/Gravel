@@ -1,0 +1,37 @@
+{
+  "id": "il-park-city-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "600 S Chestnut Ave",
+    "city": "Park City",
+    "state": "IL",
+    "zip": "60085"
+  },
+  "location": {
+    "lat": 42.347729,
+    "lng": -87.886024
+  },
+  "contact": {
+    "phone": "(847) 623-6022",
+    "website": "https://www.siteone.com/en/store/24"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7a57be7d-59ee-4627-bc67-5c56174079e1",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

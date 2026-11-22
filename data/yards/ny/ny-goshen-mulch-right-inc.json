@@ -1,0 +1,36 @@
+{
+  "id": "ny-goshen-mulch-right-inc",
+  "slug": "mulch-right-inc",
+  "name": "Mulch Right Inc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "76 Skinners Ln",
+    "city": "Goshen",
+    "state": "NY",
+    "zip": "10924"
+  },
+  "location": {
+    "lat": 41.325291,
+    "lng": -74.437897
+  },
+  "contact": {
+    "phone": "(845) 258-4111",
+    "website": "http://www.mulchrightinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "10ca5d16-cbe2-445d-b836-9e6224d66353",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

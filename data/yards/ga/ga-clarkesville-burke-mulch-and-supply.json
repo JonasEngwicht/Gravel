@@ -1,0 +1,35 @@
+{
+  "id": "ga-clarkesville-burke-mulch-and-supply",
+  "slug": "burke-mulch-and-supply",
+  "name": "Burke Mulch & Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "128 W Louise St",
+    "city": "Clarkesville",
+    "state": "GA",
+    "zip": "30523"
+  },
+  "location": {
+    "lat": 34.596123,
+    "lng": -83.525032
+  },
+  "contact": {
+    "phone": "(706) 754-7170"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c66fdd8f-b9bc-4cbc-87f1-81a28f062579",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-farmington-hills-dwyer-marble-and-stone-supply",
+  "slug": "dwyer-marble-and-stone-supply",
+  "name": "Dwyer Marble & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "23177 Commerce Dr",
+    "city": "Farmington Hills",
+    "state": "MI",
+    "zip": "48335"
+  },
+  "location": {
+    "lat": 42.4585,
+    "lng": -83.425201
+  },
+  "contact": {
+    "phone": "(248) 476-4944",
+    "website": "https://www.dwyermarble.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c1e03d73-c1c4-4238-864e-1947b5b5003f",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

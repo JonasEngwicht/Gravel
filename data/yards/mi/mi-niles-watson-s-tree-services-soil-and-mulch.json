@@ -1,0 +1,36 @@
+{
+  "id": "mi-niles-watson-s-tree-services-soil-and-mulch",
+  "slug": "watson-s-tree-services-soil-and-mulch",
+  "name": "Watson's Tree Services - Soil & Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2953 Detroit Rd  # 60",
+    "city": "Niles",
+    "state": "MI",
+    "zip": "49120"
+  },
+  "location": {
+    "lat": 41.845009,
+    "lng": -86.15419
+  },
+  "contact": {
+    "phone": "(269) 683-5305",
+    "website": "https://www.watsonstreeservice.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "efe037ba-93be-4ea4-84fb-21b0e157c8d6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

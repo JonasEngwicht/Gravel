@@ -1,0 +1,35 @@
+{
+  "id": "mt-bigfork-woods-bay-gravel",
+  "slug": "woods-bay-gravel",
+  "name": "Woods Bay Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14564 Sylvan Dr",
+    "city": "Bigfork",
+    "state": "MT",
+    "zip": "59911"
+  },
+  "location": {
+    "lat": 48.009064,
+    "lng": -114.056862
+  },
+  "contact": {
+    "phone": "(406) 885-2201"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "09cd10d5-77e9-424f-b920-f9f23ec4bef6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

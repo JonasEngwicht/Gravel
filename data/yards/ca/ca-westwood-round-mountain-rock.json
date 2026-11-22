@@ -1,0 +1,41 @@
+{
+  "id": "ca-westwood-round-mountain-rock",
+  "slug": "round-mountain-rock",
+  "name": "Round Mountain Rock",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Westwood",
+    "state": "CA",
+    "zip": "95947"
+  },
+  "location": {
+    "lat": 40.286389,
+    "lng": -120.928333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405571"
+  },
+  "msha": [
+    {
+      "mine_id": "0405571",
+      "name": "Round Mountain Rock",
+      "operator": "Round Mountain Rock",
+      "status": "Intermittent",
+      "status_since": "2023-05-30",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

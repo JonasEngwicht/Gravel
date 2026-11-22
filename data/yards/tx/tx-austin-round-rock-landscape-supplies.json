@@ -1,0 +1,36 @@
+{
+  "id": "tx-austin-round-rock-landscape-supplies",
+  "slug": "round-rock-landscape-supplies",
+  "name": "Round Rock Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "15212 Ranch Road 620 N",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78717"
+  },
+  "location": {
+    "lat": 30.483032,
+    "lng": -97.742455
+  },
+  "contact": {
+    "phone": "(512) 994-5577",
+    "website": "http://www.roundrocklandscapesupplies.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "019d9802-3a19-448d-b50e-b87e807fdb6a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "wa-redmond-heidelberg-materials-aggregates",
+  "slug": "heidelberg-materials-aggregates",
+  "name": "Heidelberg Materials, Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "18816 NE 80th St",
+    "city": "Redmond",
+    "state": "WA",
+    "zip": "98052"
+  },
+  "location": {
+    "lat": 47.673378,
+    "lng": -122.088051
+  },
+  "contact": {
+    "phone": "(425) 961-7100"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "154c29df-45c0-4b6c-aba1-11667fc2d884",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

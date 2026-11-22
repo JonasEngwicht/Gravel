@@ -1,0 +1,41 @@
+{
+  "id": "ny-catskill-heidelberg-materials-northeast-cementon-quarry",
+  "slug": "heidelberg-materials-northeast-cementon-quarry",
+  "name": "Heidelberg Materials Northeast – Cementon Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Catskill",
+    "state": "NY",
+    "zip": "12490"
+  },
+  "location": {
+    "lat": 42.142222,
+    "lng": -73.911944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000070"
+  },
+  "msha": [
+    {
+      "mine_id": "3000070",
+      "name": "Cementon Quarry",
+      "operator": "Heidelberg Materials Northeast LLC",
+      "status": "Intermittent",
+      "status_since": "2026-09-24",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nc-concord-vulcan-construction-materials-cabarrus-quarry",
+  "slug": "vulcan-construction-materials-cabarrus-quarry",
+  "name": "Vulcan Construction Materials – Cabarrus Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28027"
+  },
+  "location": {
+    "lat": 35.406111,
+    "lng": -80.705278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3101357"
+  },
+  "msha": [
+    {
+      "mine_id": "3101357",
+      "name": "Cabarrus Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1987-08-01",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 33
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mn-hopkins-aaa-lambert-s-landscape-supplies",
+  "slug": "aaa-lambert-s-landscape-supplies",
+  "name": "AAA Lambert's Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1402 5th St S",
+    "city": "Hopkins",
+    "state": "MN",
+    "zip": "55343"
+  },
+  "location": {
+    "lat": 44.916912,
+    "lng": -93.418556
+  },
+  "contact": {
+    "phone": "(952) 935-1532"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2c99c03-85f0-4929-9cbc-bff1d270accd",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

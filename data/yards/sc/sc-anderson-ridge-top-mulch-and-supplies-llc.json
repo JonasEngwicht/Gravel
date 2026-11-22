@@ -1,0 +1,36 @@
+{
+  "id": "sc-anderson-ridge-top-mulch-and-supplies-llc",
+  "slug": "ridge-top-mulch-and-supplies-llc",
+  "name": "Ridge Top Mulch and Supplies LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "215 Hurricane Rd",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29621"
+  },
+  "location": {
+    "lat": 34.575417,
+    "lng": -82.699844
+  },
+  "contact": {
+    "phone": "(864) 332-6160",
+    "website": "https://ridgetopmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f99b513f-6194-48b4-ab10-a81930f0fcc8",
+    "confidence": 0.983,
+    "merged_records": 1
+  }
+}

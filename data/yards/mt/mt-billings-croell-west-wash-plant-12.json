@@ -1,0 +1,41 @@
+{
+  "id": "mt-billings-croell-west-wash-plant-12",
+  "slug": "croell-west-wash-plant-12",
+  "name": "Croell – West Wash Plant #12",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Billings",
+    "state": "MT",
+    "zip": "59105"
+  },
+  "location": {
+    "lat": 45.830278,
+    "lng": -108.403333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402356"
+  },
+  "msha": [
+    {
+      "mine_id": "2402356",
+      "name": "West Wash Plant #12",
+      "operator": "Croell, Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-04-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

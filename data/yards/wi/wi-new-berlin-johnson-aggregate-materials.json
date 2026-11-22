@@ -1,0 +1,32 @@
+{
+  "id": "wi-new-berlin-johnson-aggregate-materials",
+  "slug": "johnson-aggregate-materials",
+  "name": "Johnson Aggregate Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6401 S Racine Ave",
+    "city": "New Berlin",
+    "state": "WI",
+    "zip": "53146"
+  },
+  "location": {
+    "lat": 42.928524,
+    "lng": -88.163925
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0d95f123-d2a0-40b9-85aa-d9a2cba1c20d",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

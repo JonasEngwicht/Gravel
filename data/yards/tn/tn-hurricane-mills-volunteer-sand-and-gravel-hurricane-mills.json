@@ -1,0 +1,41 @@
+{
+  "id": "tn-hurricane-mills-volunteer-sand-and-gravel-hurricane-mills",
+  "slug": "volunteer-sand-and-gravel-hurricane-mills",
+  "name": "Volunteer Sand And Gravel – Hurricane Mills",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hurricane Mills",
+    "state": "TN",
+    "zip": "37078"
+  },
+  "location": {
+    "lat": 35.939722,
+    "lng": -87.762778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003556"
+  },
+  "msha": [
+    {
+      "mine_id": "4003556",
+      "name": "Hurricane Mills",
+      "operator": "Volunteer Sand And Gravel",
+      "status": "Active",
+      "status_since": "2021-10-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

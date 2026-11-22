@@ -1,0 +1,36 @@
+{
+  "id": "nj-hewitt-rvh-mulch-supply",
+  "slug": "rvh-mulch-supply",
+  "name": "RVH Mulch Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "960 Burnt Meadow Rd",
+    "city": "Hewitt",
+    "state": "NJ",
+    "zip": "07421"
+  },
+  "location": {
+    "lat": 41.137074,
+    "lng": -74.325195
+  },
+  "contact": {
+    "phone": "(201) 891-7100",
+    "website": "http://www.rvhmulchsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "01288cc1-2213-4d37-994e-944ce9c435c5",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

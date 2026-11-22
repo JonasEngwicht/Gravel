@@ -1,0 +1,41 @@
+{
+  "id": "me-gorham-r-j-grondin-and-sons-brandy-brook-quarry",
+  "slug": "r-j-grondin-and-sons-brandy-brook-quarry",
+  "name": "R J Grondin & Sons – Brandy Brook Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gorham",
+    "state": "ME",
+    "zip": "04038"
+  },
+  "location": {
+    "lat": 43.684167,
+    "lng": -70.476389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700736"
+  },
+  "msha": [
+    {
+      "mine_id": "1700736",
+      "name": "Brandy Brook Quarry",
+      "operator": "R J Grondin & Sons",
+      "status": "Active",
+      "status_since": "2025-05-22",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

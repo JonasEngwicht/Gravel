@@ -1,0 +1,41 @@
+{
+  "id": "ga-rome-martin-marietta-materials-six-mile-quarry",
+  "slug": "martin-marietta-materials-six-mile-quarry",
+  "name": "Martin Marietta Materials – Six Mile Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Rome",
+    "state": "GA",
+    "zip": "30161"
+  },
+  "location": {
+    "lat": 34.256944,
+    "lng": -85.164722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901144"
+  },
+  "msha": [
+    {
+      "mine_id": "0901144",
+      "name": "Six Mile Quarry",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Active",
+      "status_since": "2001-11-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

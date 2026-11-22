@@ -1,0 +1,36 @@
+{
+  "id": "nj-lebanon-twp-zadlock-garden-and-landscape-supply",
+  "slug": "zadlock-garden-and-landscape-supply",
+  "name": "Zadlock Garden & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "409 County Rd 513",
+    "city": "Lebanon Twp",
+    "state": "NJ",
+    "zip": "07830"
+  },
+  "location": {
+    "lat": 40.721039,
+    "lng": -74.851845
+  },
+  "contact": {
+    "phone": "(833) 923-5625",
+    "website": "https://zadlockgarden.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "78523a13-1beb-4cfa-b723-0974aa3b8f5a",
+    "confidence": 0.878,
+    "merged_records": 1
+  }
+}

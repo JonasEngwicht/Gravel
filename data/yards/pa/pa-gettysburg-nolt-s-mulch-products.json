@@ -1,0 +1,36 @@
+{
+  "id": "pa-gettysburg-nolt-s-mulch-products",
+  "slug": "nolt-s-mulch-products",
+  "name": "Nolt's Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3587 Old Harrisburg Rd",
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325"
+  },
+  "location": {
+    "lat": 39.914032,
+    "lng": -77.17244
+  },
+  "contact": {
+    "phone": "(717) 334-0849",
+    "website": "http://noltsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "db8d4608-b10c-494e-9100-ada1d324f063",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

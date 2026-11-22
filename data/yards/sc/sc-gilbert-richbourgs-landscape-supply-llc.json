@@ -1,0 +1,35 @@
+{
+  "id": "sc-gilbert-richbourgs-landscape-supply-llc",
+  "slug": "richbourgs-landscape-supply-llc",
+  "name": "Richbourg’s Landscape Supply, LLC",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1354 Peach Festival Rd",
+    "city": "Gilbert",
+    "state": "SC",
+    "zip": "29054"
+  },
+  "location": {
+    "lat": 33.95554,
+    "lng": -81.398384
+  },
+  "contact": {
+    "phone": "(803) 479-4313"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e376d9c4-3c7f-416d-9496-0cb744cab8a2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

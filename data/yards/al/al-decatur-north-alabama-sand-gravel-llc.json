@@ -1,0 +1,35 @@
+{
+  "id": "al-decatur-north-alabama-sand-gravel-llc",
+  "slug": "north-alabama-sand-gravel-llc",
+  "name": "North Alabama Sand-gravel Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1328 Woodall Rd SW",
+    "city": "Decatur",
+    "state": "AL",
+    "zip": "35603"
+  },
+  "location": {
+    "lat": 34.586388,
+    "lng": -87.051987
+  },
+  "contact": {
+    "phone": "(256) 353-6811"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "778dfd55-550b-440a-8cb7-c2378caa9bc0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

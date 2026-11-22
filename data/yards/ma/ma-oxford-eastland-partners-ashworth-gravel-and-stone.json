@@ -1,0 +1,41 @@
+{
+  "id": "ma-oxford-eastland-partners-ashworth-gravel-and-stone",
+  "slug": "eastland-partners-ashworth-gravel-and-stone",
+  "name": "EASTLAND PARTNERS – Ashworth Gravel And Stone",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Oxford",
+    "state": "MA",
+    "zip": "01537"
+  },
+  "location": {
+    "lat": 42.1725,
+    "lng": -71.881389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901308"
+  },
+  "msha": [
+    {
+      "mine_id": "1901308",
+      "name": "Ashworth Gravel And Stone",
+      "operator": "EASTLAND PARTNERS Inc.",
+      "status": "Active",
+      "status_since": "2025-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

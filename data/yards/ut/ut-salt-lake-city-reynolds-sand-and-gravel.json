@@ -1,0 +1,32 @@
+{
+  "id": "ut-salt-lake-city-reynolds-sand-and-gravel",
+  "slug": "reynolds-sand-and-gravel",
+  "name": "Reynolds Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6800 W 5400 S",
+    "city": "Salt Lake City",
+    "state": "UT",
+    "zip": "84118"
+  },
+  "location": {
+    "lat": 40.654106,
+    "lng": -112.053978
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4e3fc242-0c17-49a8-88a8-4ef103be9e69",
+    "confidence": 0.69,
+    "merged_records": 1
+  }
+}

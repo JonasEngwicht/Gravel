@@ -1,0 +1,36 @@
+{
+  "id": "ms-moss-point-dirt-rock-sand-and-gravel-by-the-scoop",
+  "slug": "dirt-rock-sand-and-gravel-by-the-scoop",
+  "name": "Dirt, Rock, Sand & Gravel By-The-Scoop",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "13007 Forts Lake Rd",
+    "city": "Moss Point",
+    "state": "MS",
+    "zip": "39562"
+  },
+  "location": {
+    "lat": 30.531555,
+    "lng": -88.41465
+  },
+  "contact": {
+    "phone": "(228) 369-0540",
+    "website": "http://www.facebook.com/bythescoopyouhaul"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5af02f5-79c5-4b2f-b7c3-a6ebdbd8d8fc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

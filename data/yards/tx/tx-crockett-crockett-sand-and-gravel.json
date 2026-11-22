@@ -1,0 +1,36 @@
+{
+  "id": "tx-crockett-crockett-sand-and-gravel",
+  "slug": "crockett-sand-and-gravel",
+  "name": "Crockett Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "9812 State Highway 7 W",
+    "city": "Crockett",
+    "state": "TX",
+    "zip": "75835"
+  },
+  "location": {
+    "lat": 31.321371,
+    "lng": -95.632004
+  },
+  "contact": {
+    "phone": "(936) 545-1021",
+    "website": "https://www.crockettsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "143bd1b2-72b8-423b-9d99-5ac253c038c2",
+    "confidence": 0.615,
+    "merged_records": 1
+  }
+}

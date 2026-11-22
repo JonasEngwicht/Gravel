@@ -1,0 +1,36 @@
+{
+  "id": "ks-sterling-superior-sand-and-gravel",
+  "slug": "superior-sand-and-gravel",
+  "name": "Superior Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2483 State Road 14",
+    "city": "Sterling",
+    "state": "KS",
+    "zip": "67579"
+  },
+  "location": {
+    "lat": 38.175999,
+    "lng": -98.206963
+  },
+  "contact": {
+    "phone": "(620) 278-3011",
+    "website": "http://www.superiorsandandgravel.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e647e0de-8be8-46c8-924e-49f8ab609781",
+    "confidence": 0.92,
+    "merged_records": 3
+  }
+}

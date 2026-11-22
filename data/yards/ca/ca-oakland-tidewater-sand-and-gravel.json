@@ -1,0 +1,35 @@
+{
+  "id": "ca-oakland-tidewater-sand-and-gravel",
+  "slug": "tidewater-sand-and-gravel",
+  "name": "Tidewater Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4501 Tidewater Ave",
+    "city": "Oakland",
+    "state": "CA",
+    "zip": "94601"
+  },
+  "location": {
+    "lat": 37.765015,
+    "lng": -122.222939
+  },
+  "contact": {
+    "phone": "(800) 626-6250"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68928133-c388-4500-a5e4-089952c645f5",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

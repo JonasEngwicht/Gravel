@@ -1,0 +1,41 @@
+{
+  "id": "al-gurley-north-alabama-materials-gurley-limestone-quarry",
+  "slug": "north-alabama-materials-gurley-limestone-quarry",
+  "name": "North Alabama Materials – Gurley Limestone Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Gurley",
+    "state": "AL",
+    "zip": "35748"
+  },
+  "location": {
+    "lat": 34.693611,
+    "lng": -86.359167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0103518"
+  },
+  "msha": [
+    {
+      "mine_id": "0103518",
+      "name": "Gurley Limestone Quarry",
+      "operator": "North Alabama Materials, Inc.",
+      "status": "Active",
+      "status_since": "2019-04-02",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

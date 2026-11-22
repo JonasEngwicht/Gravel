@@ -1,0 +1,41 @@
+{
+  "id": "nm-fort-sumner-nick-griego-and-sons-construction-fort-sumner-pit",
+  "slug": "nick-griego-and-sons-construction-fort-sumner-pit",
+  "name": "Nick Griego & Sons Construction – Fort Sumner Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Fort Sumner",
+    "state": "NM",
+    "zip": "88119"
+  },
+  "location": {
+    "lat": 34.471667,
+    "lng": -104.245556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2900484"
+  },
+  "msha": [
+    {
+      "mine_id": "2900484",
+      "name": "Fort Sumner Pit",
+      "operator": "Nick Griego & Sons Construction, Inc.",
+      "status": "Active",
+      "status_since": "1973-10-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

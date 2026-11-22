@@ -1,0 +1,41 @@
+{
+  "id": "mo-dutchtown-southeast-missouri-stone",
+  "slug": "southeast-missouri-stone",
+  "name": "Southeast Missouri Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dutchtown",
+    "state": "MO",
+    "zip": "63703"
+  },
+  "location": {
+    "lat": 37.260556,
+    "lng": -89.564722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300191"
+  },
+  "msha": [
+    {
+      "mine_id": "2300191",
+      "name": "Southeast Missouri Stone Company",
+      "operator": "Southeast Missouri Stone Company",
+      "status": "Active",
+      "status_since": "1973-02-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 26
+    }
+  ]
+}

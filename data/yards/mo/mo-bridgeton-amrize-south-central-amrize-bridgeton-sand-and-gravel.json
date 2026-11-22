@@ -1,0 +1,41 @@
+{
+  "id": "mo-bridgeton-amrize-south-central-amrize-bridgeton-sand-and-gravel",
+  "slug": "amrize-south-central-amrize-bridgeton-sand-and-gravel",
+  "name": "Amrize South Central – Amrize Bridgeton Sand and Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bridgeton",
+    "state": "MO",
+    "zip": "63045"
+  },
+  "location": {
+    "lat": 38.783611,
+    "lng": -90.471111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300676"
+  },
+  "msha": [
+    {
+      "mine_id": "2300676",
+      "name": "Amrize Bridgeton Sand and Gravel",
+      "operator": "Amrize South Central Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-04-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

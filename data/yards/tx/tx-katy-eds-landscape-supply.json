@@ -1,0 +1,36 @@
+{
+  "id": "tx-katy-eds-landscape-supply",
+  "slug": "eds-landscape-supply",
+  "name": "EDS Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21915 Kingsland Blvd",
+    "city": "Katy",
+    "state": "TX",
+    "zip": "77450"
+  },
+  "location": {
+    "lat": 29.774153,
+    "lng": -95.753036
+  },
+  "contact": {
+    "phone": "(281) 392-5020",
+    "website": "http://www.landscapedepotonline.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "20388f8a-7b76-4b75-9b99-138cc28d949e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

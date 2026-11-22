@@ -1,0 +1,36 @@
+{
+  "id": "mi-kingsford-midwest-asphalt-and-gravel",
+  "slug": "midwest-asphalt-and-gravel",
+  "name": "Midwest Asphalt & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "609 S Carpenter Ave",
+    "city": "Kingsford",
+    "state": "MI",
+    "zip": "49802"
+  },
+  "location": {
+    "lat": 45.800777,
+    "lng": -88.069206
+  },
+  "contact": {
+    "phone": "(906) 774-0377",
+    "website": "https://midwestasphaltandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b8610f7d-a09c-415f-925e-229e36dfb8b9",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

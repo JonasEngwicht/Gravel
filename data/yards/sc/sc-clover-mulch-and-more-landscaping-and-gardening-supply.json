@@ -1,0 +1,36 @@
+{
+  "id": "sc-clover-mulch-and-more-landscaping-and-gardening-supply",
+  "slug": "mulch-and-more-landscaping-and-gardening-supply",
+  "name": "Mulch & More Landscaping & Gardening Supply",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3342 Filbert Hwy",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710"
+  },
+  "location": {
+    "lat": 35.085781,
+    "lng": -81.226311
+  },
+  "contact": {
+    "phone": "(803) 222-3355",
+    "website": "http://www.mulchandmore-clover.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "edc5e318-50ac-4787-9e5b-dc7f16d45f32",
+    "confidence": 0.813,
+    "merged_records": 1
+  }
+}

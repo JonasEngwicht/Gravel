@@ -1,0 +1,36 @@
+{
+  "id": "tx-yoakum-sweet-home-sand-and-gravel",
+  "slug": "sweet-home-sand-and-gravel",
+  "name": "Sweet Home Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "202 Airport Rd",
+    "city": "Yoakum",
+    "state": "TX",
+    "zip": "77995"
+  },
+  "location": {
+    "lat": 29.309568,
+    "lng": -97.136864
+  },
+  "contact": {
+    "phone": "(361) 293-3677",
+    "website": "https://shsg.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "70196148-f423-4b5f-bdf8-a2d2c8f1ac46",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

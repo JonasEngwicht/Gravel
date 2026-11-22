@@ -1,0 +1,41 @@
+{
+  "id": "nm-belen-sanchez-sand-and-gravel-j-herman-tabet-veguita-pit",
+  "slug": "sanchez-sand-and-gravel-j-herman-tabet-veguita-pit",
+  "name": "Sanchez Sand and Gravel – J. Herman Tabet Veguita Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Belen",
+    "state": "NM",
+    "zip": "87002"
+  },
+  "location": {
+    "lat": 34.662777,
+    "lng": -106.776388
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902254"
+  },
+  "msha": [
+    {
+      "mine_id": "2902254",
+      "name": "J. Herman Tabet Veguita Pit",
+      "operator": "Sanchez Sand and Gravel",
+      "status": "Intermittent",
+      "status_since": "2011-03-01",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

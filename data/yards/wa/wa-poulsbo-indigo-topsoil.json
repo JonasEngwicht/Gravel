@@ -1,0 +1,36 @@
+{
+  "id": "wa-poulsbo-indigo-topsoil",
+  "slug": "indigo-topsoil",
+  "name": "Indigo Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "22244 Port Gamble Rd NE",
+    "city": "Poulsbo",
+    "state": "WA",
+    "zip": "98370"
+  },
+  "location": {
+    "lat": 47.76474,
+    "lng": -122.57975
+  },
+  "contact": {
+    "phone": "(360) 779-0078",
+    "website": "https://indigotopsoilinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a4e9a4ed-b048-42d8-a9f5-f2a09760c6ba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

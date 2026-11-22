@@ -1,0 +1,41 @@
+{
+  "id": "ma-ludlow-ginmar-enterprises",
+  "slug": "ginmar-enterprises",
+  "name": "Ginmar Enterprises",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ludlow",
+    "state": "MA",
+    "zip": "01056"
+  },
+  "location": {
+    "lat": 42.173056,
+    "lng": -72.450833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1901233"
+  },
+  "msha": [
+    {
+      "mine_id": "1901233",
+      "name": "Ginmar 1",
+      "operator": "Ginmar Enterprises Inc",
+      "status": "Intermittent",
+      "status_since": "2024-01-17",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

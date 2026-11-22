@@ -1,0 +1,36 @@
+{
+  "id": "az-eloy-elrus-aggregate-systems",
+  "slug": "elrus-aggregate-systems",
+  "name": "Elrus Aggregate Systems",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "924 N Tweedy Rd",
+    "city": "Eloy",
+    "state": "AZ",
+    "zip": "85131"
+  },
+  "location": {
+    "lat": 32.760761,
+    "lng": -111.586082
+  },
+  "contact": {
+    "phone": "(520) 466-1171",
+    "website": "http://www.elrus.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4dac79c6-7465-49c4-a6c1-b17a453eda6c",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

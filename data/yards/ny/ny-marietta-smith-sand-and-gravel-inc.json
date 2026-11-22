@@ -1,0 +1,36 @@
+{
+  "id": "ny-marietta-smith-sand-and-gravel-inc",
+  "slug": "smith-sand-and-gravel-inc",
+  "name": "Smith Sand & Gravel, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2650 Otisco Valley Rd",
+    "city": "Marietta",
+    "state": "NY",
+    "zip": "13110"
+  },
+  "location": {
+    "lat": 42.89917,
+    "lng": -76.304031
+  },
+  "contact": {
+    "phone": "(315) 636-2010",
+    "website": "https://smithgravelcompany.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f1e06ce-c823-4905-bf2d-8dda15feac8d",
+    "confidence": 0.896,
+    "merged_records": 1
+  }
+}

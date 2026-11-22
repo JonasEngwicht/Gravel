@@ -1,0 +1,36 @@
+{
+  "id": "wa-seattle-salmon-bay-sand-and-gravel-co",
+  "slug": "salmon-bay-sand-and-gravel-co",
+  "name": "Salmon Bay Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5228 Shilshole Ave NW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98107"
+  },
+  "location": {
+    "lat": 47.665329,
+    "lng": -122.382874
+  },
+  "contact": {
+    "phone": "(206) 784-1234",
+    "website": "http://www.sbsg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c5e7a104-8b66-46b7-807f-2302caa44138",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

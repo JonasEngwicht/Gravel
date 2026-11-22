@@ -1,0 +1,41 @@
+{
+  "id": "or-forest-grove-farmington-mobile-crushing-parkin-quarry",
+  "slug": "farmington-mobile-crushing-parkin-quarry",
+  "name": "Farmington Mobile Crushing – Parkin Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Forest Grove",
+    "state": "OR",
+    "zip": "97116"
+  },
+  "location": {
+    "lat": 45.551667,
+    "lng": -123.191944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3503724"
+  },
+  "msha": [
+    {
+      "mine_id": "3503724",
+      "name": "Parkin Quarry",
+      "operator": "Farmington Mobile Crushing LLC",
+      "status": "Active",
+      "status_since": "2015-05-11",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

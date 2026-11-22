@@ -1,0 +1,37 @@
+{
+  "id": "nd-hillsboro-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "404 1st St NW",
+    "city": "Hillsboro",
+    "state": "ND",
+    "zip": "58045"
+  },
+  "location": {
+    "lat": 47.409935,
+    "lng": -97.063515
+  },
+  "contact": {
+    "phone": "(218) 236-9880",
+    "website": "http://www.aggregate-us.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "684e167d-a96e-4d95-a3ce-4d76f3a5f4d4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

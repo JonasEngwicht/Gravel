@@ -1,0 +1,49 @@
+{
+  "id": "oh-troy-martin-marietta-troy-sand-and-gravel",
+  "slug": "martin-marietta-troy-sand-and-gravel",
+  "name": "Martin Marietta - Troy Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "250 Dye Mill Rd",
+    "city": "Troy",
+    "state": "OH",
+    "zip": "45373"
+  },
+  "location": {
+    "lat": 40.016624,
+    "lng": -84.194031
+  },
+  "contact": {
+    "phone": "(800) 331-4242",
+    "website": "https://www.martinmarietta.com/locations/central/ohio-district/troy-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "48e598e6-d2ce-4479-baa4-f11182774580",
+    "confidence": 0.963,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301678",
+      "name": "Troy Gravel",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2024-10-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

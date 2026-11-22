@@ -1,0 +1,36 @@
+{
+  "id": "il-highland-kalmer-landscape-supply",
+  "slug": "kalmer-landscape-supply",
+  "name": "Kalmer Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "20911 Mdw Vw Rd",
+    "city": "Highland",
+    "state": "IL",
+    "zip": "62249"
+  },
+  "location": {
+    "lat": 38.727314,
+    "lng": -89.590317
+  },
+  "contact": {
+    "phone": "(618) 654-7137",
+    "website": "http://kalmerlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3e2d204-d604-4f39-84ce-c77a7216be6a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

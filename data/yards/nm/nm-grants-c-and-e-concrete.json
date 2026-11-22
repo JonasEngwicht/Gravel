@@ -1,0 +1,41 @@
+{
+  "id": "nm-grants-c-and-e-concrete",
+  "slug": "c-and-e-concrete",
+  "name": "C & E Concrete",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Grants",
+    "state": "NM",
+    "zip": "87321"
+  },
+  "location": {
+    "lat": 35.046944,
+    "lng": -108.219167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2901460"
+  },
+  "msha": [
+    {
+      "mine_id": "2901460",
+      "name": "Cr #1",
+      "operator": "C & E Concrete Inc",
+      "status": "Active",
+      "status_since": "1991-04-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

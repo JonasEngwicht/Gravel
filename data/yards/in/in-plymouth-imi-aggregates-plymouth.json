@@ -1,0 +1,48 @@
+{
+  "id": "in-plymouth-imi-aggregates-plymouth",
+  "slug": "imi-aggregates-plymouth",
+  "name": "imi Aggregates - Plymouth",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "10988 11th Road",
+    "city": "Plymouth",
+    "state": "IN",
+    "zip": "46563"
+  },
+  "location": {
+    "lat": 41.319363,
+    "lng": -86.270515
+  },
+  "contact": {
+    "phone": "(574) 936-2975",
+    "website": "https://locations.irvmat.com/in/277?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b4d9111f-ef48-432f-9d7b-17dd20fa8c2e",
+    "confidence": 0.942,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200716",
+      "name": "IMI Plymouth Sand & Gravel",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "2015-07-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

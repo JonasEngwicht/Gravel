@@ -1,0 +1,41 @@
+{
+  "id": "mt-stevensville-yoder-gravel-2",
+  "slug": "yoder-gravel-2",
+  "name": "Yoder Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Stevensville",
+    "state": "MT",
+    "zip": "59870"
+  },
+  "location": {
+    "lat": 46.556667,
+    "lng": -114.066944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2402719"
+  },
+  "msha": [
+    {
+      "mine_id": "2402719",
+      "name": "Yoder Gravel",
+      "operator": "Yoder Gravel",
+      "status": "Active",
+      "status_since": "2022-07-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

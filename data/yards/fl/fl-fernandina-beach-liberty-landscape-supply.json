@@ -1,0 +1,36 @@
+{
+  "id": "fl-fernandina-beach-liberty-landscape-supply",
+  "slug": "liberty-landscape-supply",
+  "name": "Liberty Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "474389 E State Road 200",
+    "city": "Fernandina Beach",
+    "state": "FL",
+    "zip": "32034"
+  },
+  "location": {
+    "lat": 30.61657,
+    "lng": -81.510353
+  },
+  "contact": {
+    "phone": "(904) 261-7177",
+    "website": "http://www.fernandinamulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9946c4b-a3e9-494e-b85e-9c2bffde42de",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

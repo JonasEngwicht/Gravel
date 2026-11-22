@@ -1,0 +1,36 @@
+{
+  "id": "wa-tacoma-sound-stone-supply",
+  "slug": "sound-stone-supply",
+  "name": "Sound Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "1828 112th St E Ste A",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98445"
+  },
+  "location": {
+    "lat": 47.154072,
+    "lng": -122.403786
+  },
+  "contact": {
+    "phone": "(888) 847-1890",
+    "website": "https://soundstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eb92f920-ef3b-4af0-a495-d00229fb2809",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

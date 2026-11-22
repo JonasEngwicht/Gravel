@@ -1,0 +1,41 @@
+{
+  "id": "ny-cherry-creek-maple-springs-gravel-products-schimek-gravel-mine",
+  "slug": "maple-springs-gravel-products-schimek-gravel-mine",
+  "name": "Maple Springs Gravel Products – Schimek Gravel Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Cherry Creek",
+    "state": "NY",
+    "zip": "14732"
+  },
+  "location": {
+    "lat": 42.265556,
+    "lng": -79.086111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004182"
+  },
+  "msha": [
+    {
+      "mine_id": "3004182",
+      "name": "Schimek Gravel Mine",
+      "operator": "Maple Springs Gravel Products Inc.",
+      "status": "Intermittent",
+      "status_since": "2026-03-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

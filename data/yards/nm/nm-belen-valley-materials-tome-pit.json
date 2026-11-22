@@ -1,0 +1,41 @@
+{
+  "id": "nm-belen-valley-materials-tome-pit",
+  "slug": "valley-materials-tome-pit",
+  "name": "Valley Materials – Tome Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Belen",
+    "state": "NM",
+    "zip": "87060"
+  },
+  "location": {
+    "lat": 34.688611,
+    "lng": -106.720833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2900426"
+  },
+  "msha": [
+    {
+      "mine_id": "2900426",
+      "name": "Tome Pit",
+      "operator": "Valley Materials",
+      "status": "Active",
+      "status_since": "2023-10-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

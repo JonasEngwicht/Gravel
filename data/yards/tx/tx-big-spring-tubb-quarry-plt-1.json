@@ -1,0 +1,41 @@
+{
+  "id": "tx-big-spring-tubb-quarry-plt-1",
+  "slug": "tubb-quarry-plt-1",
+  "name": "Tubb Quarry Plt #1",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Big Spring",
+    "state": "TX",
+    "zip": "79721"
+  },
+  "location": {
+    "lat": 32.32,
+    "lng": -101.508056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105047"
+  },
+  "msha": [
+    {
+      "mine_id": "4105047",
+      "name": "Tubb Quarry Plt #1",
+      "operator": "Tubb Quarry, LLC.",
+      "status": "Active",
+      "status_since": "2016-10-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

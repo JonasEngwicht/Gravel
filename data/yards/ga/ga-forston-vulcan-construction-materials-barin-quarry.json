@@ -1,0 +1,41 @@
+{
+  "id": "ga-forston-vulcan-construction-materials-barin-quarry",
+  "slug": "vulcan-construction-materials-barin-quarry",
+  "name": "Vulcan Construction Materials – Barin Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Forston",
+    "state": "GA",
+    "zip": "31909"
+  },
+  "location": {
+    "lat": 32.590556,
+    "lng": -84.943056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900072"
+  },
+  "msha": [
+    {
+      "mine_id": "0900072",
+      "name": "Barin Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 32
+    }
+  ]
+}

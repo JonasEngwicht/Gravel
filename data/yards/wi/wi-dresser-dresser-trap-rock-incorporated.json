@@ -1,0 +1,41 @@
+{
+  "id": "wi-dresser-dresser-trap-rock-incorporated",
+  "slug": "dresser-trap-rock-incorporated",
+  "name": "Dresser Trap Rock Incorporated",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dresser",
+    "state": "WI",
+    "zip": "54009"
+  },
+  "location": {
+    "lat": 45.368889,
+    "lng": -92.631111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4700040"
+  },
+  "msha": [
+    {
+      "mine_id": "4700040",
+      "name": "Dresser Trap Rock Incorporated",
+      "operator": "Dresser Trap Rock Inc.",
+      "status": "Active",
+      "status_since": "2006-07-06",
+      "commodity": "Crushed, Broken Traprock",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

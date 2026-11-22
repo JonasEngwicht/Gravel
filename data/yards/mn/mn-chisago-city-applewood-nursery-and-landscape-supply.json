@@ -1,0 +1,36 @@
+{
+  "id": "mn-chisago-city-applewood-nursery-and-landscape-supply",
+  "slug": "applewood-nursery-and-landscape-supply",
+  "name": "Applewood Nursery & Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8785 Green Lake Trl",
+    "city": "Chisago City",
+    "state": "MN",
+    "zip": "55025"
+  },
+  "location": {
+    "lat": 45.370342,
+    "lng": -92.897491
+  },
+  "contact": {
+    "phone": "(651) 462-5554",
+    "website": "http://www.applewoodnursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8740c3fc-8aa2-48c2-9353-82564ceb85f3",
+    "confidence": 0.972,
+    "merged_records": 1
+  }
+}

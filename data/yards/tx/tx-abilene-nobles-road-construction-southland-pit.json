@@ -1,0 +1,41 @@
+{
+  "id": "tx-abilene-nobles-road-construction-southland-pit",
+  "slug": "nobles-road-construction-southland-pit",
+  "name": "Nobles Road Construction – Southland Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Abilene",
+    "state": "TX",
+    "zip": "79562"
+  },
+  "location": {
+    "lat": 32.2381,
+    "lng": -99.8426
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105798"
+  },
+  "msha": [
+    {
+      "mine_id": "4105798",
+      "name": "Southland Pit",
+      "operator": "Nobles Road Construction Inc",
+      "status": "Intermittent",
+      "status_since": "2025-07-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

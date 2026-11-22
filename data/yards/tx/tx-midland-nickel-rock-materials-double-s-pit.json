@@ -1,0 +1,41 @@
+{
+  "id": "tx-midland-nickel-rock-materials-double-s-pit",
+  "slug": "nickel-rock-materials-double-s-pit",
+  "name": "Nickel Rock Materials – Double S Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Midland",
+    "state": "TX",
+    "zip": "79701"
+  },
+  "location": {
+    "lat": 31.958889,
+    "lng": -102.045
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105823"
+  },
+  "msha": [
+    {
+      "mine_id": "4105823",
+      "name": "Double S Pit",
+      "operator": "Nickel Rock Materials LLC",
+      "status": "Intermittent",
+      "status_since": "2026-01-08",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

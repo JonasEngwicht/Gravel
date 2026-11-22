@@ -1,0 +1,46 @@
+{
+  "id": "mi-jackson-bailey-sand-and-gravel",
+  "slug": "bailey-sand-and-gravel",
+  "name": "Bailey Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6505 W Michigan Ave",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49201"
+  },
+  "location": {
+    "lat": 42.252895,
+    "lng": -84.513451
+  },
+  "contact": {
+    "phone": "(517) 750-4889"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75a1f1a6-53ee-452d-9c92-c47c82b851e0",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003371",
+      "name": "Eagle 1000 Crusher",
+      "operator": "Bailey Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2026-01-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

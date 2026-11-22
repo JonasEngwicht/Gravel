@@ -1,0 +1,36 @@
+{
+  "id": "mi-jackson-mulch-wholesalers",
+  "slug": "mulch-wholesalers",
+  "name": "Mulch Wholesalers",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "425 Barrett Ave",
+    "city": "Jackson",
+    "state": "MI",
+    "zip": "49202"
+  },
+  "location": {
+    "lat": 42.252163,
+    "lng": -84.446304
+  },
+  "contact": {
+    "phone": "(517) 784-5040",
+    "website": "http://www.mulchwholesalers.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "75963c87-8227-4726-8411-7179afa09b7e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "ca-suisun-city-stoneyard-masonry",
+  "slug": "stoneyard-masonry",
+  "name": "Stoneyard Masonry",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "415 Walters Rd",
+    "city": "Suisun City",
+    "state": "CA",
+    "zip": "94585"
+  },
+  "location": {
+    "lat": 38.244385,
+    "lng": -121.987541
+  },
+  "contact": {
+    "phone": "(707) 421-1963"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e5d0aaa2-9524-46ef-8675-7c341c4af5bc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

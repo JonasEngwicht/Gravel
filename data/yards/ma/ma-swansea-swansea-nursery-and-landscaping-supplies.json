@@ -1,0 +1,36 @@
+{
+  "id": "ma-swansea-swansea-nursery-and-landscaping-supplies",
+  "slug": "swansea-nursery-and-landscaping-supplies",
+  "name": "Swansea Nursery & Landscaping Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "205 Stevens Rd",
+    "city": "Swansea",
+    "state": "MA",
+    "zip": "02777"
+  },
+  "location": {
+    "lat": 41.750999,
+    "lng": -71.169167
+  },
+  "contact": {
+    "phone": "(508) 672-0577",
+    "website": "https://www.swanseanursery.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f67b18e-6224-48d1-a711-105046528a50",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

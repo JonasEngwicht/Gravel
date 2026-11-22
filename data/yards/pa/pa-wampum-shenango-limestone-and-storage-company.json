@@ -1,0 +1,41 @@
+{
+  "id": "pa-wampum-shenango-limestone-and-storage-company",
+  "slug": "shenango-limestone-and-storage-company",
+  "name": "Shenango Limestone and Storage Company",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wampum",
+    "state": "PA",
+    "zip": "16160"
+  },
+  "location": {
+    "lat": 40.944722,
+    "lng": -80.327222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3610351"
+  },
+  "msha": [
+    {
+      "mine_id": "3610351",
+      "name": "Shenango Mine",
+      "operator": "Shenango Limestone and Storage Company, LLC",
+      "status": "Active",
+      "status_since": "2023-01-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

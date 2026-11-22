@@ -1,0 +1,41 @@
+{
+  "id": "mo-mapaville-arch-johnston-company-cedar-springs-quarry",
+  "slug": "arch-johnston-company-cedar-springs-quarry",
+  "name": "Arch Johnston Company – Cedar Springs Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Mapaville",
+    "state": "MO",
+    "zip": "63020"
+  },
+  "location": {
+    "lat": 38.165833,
+    "lng": -90.567778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302251"
+  },
+  "msha": [
+    {
+      "mine_id": "2302251",
+      "name": "Cedar Springs Quarry",
+      "operator": "Arch Johnston Company Inc",
+      "status": "Active",
+      "status_since": "2001-07-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

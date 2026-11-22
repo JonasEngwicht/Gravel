@@ -1,0 +1,36 @@
+{
+  "id": "ma-waltham-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "537 South St",
+    "city": "Waltham",
+    "state": "MA",
+    "zip": "02453"
+  },
+  "location": {
+    "lat": 42.363617,
+    "lng": -71.265488
+  },
+  "contact": {
+    "phone": "(877) 440-0139"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3b170d1-85c3-4fa2-b2eb-7c33d280cbee",
+    "confidence": 0.798,
+    "merged_records": 1
+  }
+}

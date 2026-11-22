@@ -1,0 +1,48 @@
+{
+  "id": "ny-fishkill-century-aggregates",
+  "slug": "century-aggregates",
+  "name": "Century Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "107 NY Route 9",
+    "city": "Fishkill",
+    "state": "NY",
+    "zip": "12524"
+  },
+  "location": {
+    "lat": 41.496815,
+    "lng": -73.899704
+  },
+  "contact": {
+    "phone": "(845) 765-1645",
+    "website": "http://www.centuryaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "41d70cc4-1fed-4830-84ae-86d6ac2b8b39",
+    "confidence": 0.988,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3000968",
+      "name": "Century Aggregates Fishkill Mine",
+      "operator": "Century Aggregates Inc",
+      "status": "Active",
+      "status_since": "2014-05-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 6
+    }
+  ]
+}

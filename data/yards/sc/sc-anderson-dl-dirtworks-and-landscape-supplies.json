@@ -1,0 +1,35 @@
+{
+  "id": "sc-anderson-dl-dirtworks-and-landscape-supplies",
+  "slug": "dl-dirtworks-and-landscape-supplies",
+  "name": "DL Dirtworks and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "103 S Park Dr",
+    "city": "Anderson",
+    "state": "SC",
+    "zip": "29624"
+  },
+  "location": {
+    "lat": 34.477417,
+    "lng": -82.655319
+  },
+  "contact": {
+    "phone": "(864) 314-7086"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71613890-f859-44d2-a54e-194adcf13b14",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

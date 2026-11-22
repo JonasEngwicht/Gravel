@@ -1,0 +1,41 @@
+{
+  "id": "ok-ponca-city-dolese-bros-white-eagle-sand-plant",
+  "slug": "dolese-bros-white-eagle-sand-plant",
+  "name": "Dolese Bros – White Eagle Sand Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Ponca City",
+    "state": "OK",
+    "zip": "74644"
+  },
+  "location": {
+    "lat": 36.617222,
+    "lng": -97.103056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3402180"
+  },
+  "msha": [
+    {
+      "mine_id": "3402180",
+      "name": "White Eagle Sand Plant",
+      "operator": "Dolese Bros. Co.",
+      "status": "Active",
+      "status_since": "2020-11-04",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

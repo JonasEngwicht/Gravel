@@ -1,0 +1,49 @@
+{
+  "id": "az-litchfield-park-martin-marietta-river-ranch-aggregates",
+  "slug": "martin-marietta-river-ranch-aggregates",
+  "name": "Martin Marietta - River Ranch Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "5159 N El Mirage Rd",
+    "city": "Litchfield Park",
+    "state": "AZ",
+    "zip": "85340"
+  },
+  "location": {
+    "lat": 33.512337,
+    "lng": -112.322426
+  },
+  "contact": {
+    "phone": "(602) 685-4815",
+    "website": "https://www.martinmarietta.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "570f5661-7640-441e-95a2-9df999db2cea",
+    "confidence": 0.963,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0202646",
+      "name": "River Ranch Plant 40",
+      "operator": "Martin Marietta Materials, Inc",
+      "status": "Abandoned",
+      "status_since": "2023-03-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

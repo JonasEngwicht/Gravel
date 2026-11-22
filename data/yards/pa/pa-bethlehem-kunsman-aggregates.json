@@ -1,0 +1,36 @@
+{
+  "id": "pa-bethlehem-kunsman-aggregates",
+  "slug": "kunsman-aggregates",
+  "name": "Kunsman Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1080 Win Dr",
+    "city": "Bethlehem",
+    "state": "PA",
+    "zip": "18017"
+  },
+  "location": {
+    "lat": 40.624672,
+    "lng": -75.355545
+  },
+  "contact": {
+    "phone": "(610) 882-1455",
+    "website": "https://www.kunsmanpaving.com/contact.html"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4dc6c97e-b5ee-4bce-978e-4c54563e4adf",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

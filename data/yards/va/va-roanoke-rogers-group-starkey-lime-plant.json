@@ -1,0 +1,41 @@
+{
+  "id": "va-roanoke-rogers-group-starkey-lime-plant",
+  "slug": "rogers-group-starkey-lime-plant",
+  "name": "Rogers Group – Starkey Lime Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Roanoke",
+    "state": "VA",
+    "zip": "24018"
+  },
+  "location": {
+    "lat": 37.201667,
+    "lng": -79.996389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4406502"
+  },
+  "msha": [
+    {
+      "mine_id": "4406502",
+      "name": "Starkey Lime Plant",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "1989-03-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

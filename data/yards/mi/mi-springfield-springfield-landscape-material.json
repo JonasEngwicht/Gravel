@@ -1,0 +1,32 @@
+{
+  "id": "mi-springfield-springfield-landscape-material",
+  "slug": "springfield-landscape-material",
+  "name": "Springfield Landscape Material",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "700 20th St N",
+    "city": "Springfield",
+    "state": "MI",
+    "zip": "49037"
+  },
+  "location": {
+    "lat": 42.331371,
+    "lng": -85.218285
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "995850be-79b4-4ae6-a487-ef7ee5d089fb",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

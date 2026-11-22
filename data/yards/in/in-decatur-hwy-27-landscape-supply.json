@@ -1,0 +1,36 @@
+{
+  "id": "in-decatur-hwy-27-landscape-supply",
+  "slug": "hwy-27-landscape-supply",
+  "name": "HWY 27 Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8050 N US Highway 27",
+    "city": "Decatur",
+    "state": "IN",
+    "zip": "46733"
+  },
+  "location": {
+    "lat": 40.862293,
+    "lng": -84.944344
+  },
+  "contact": {
+    "phone": "(260) 724-3652",
+    "website": "http://hwy27landscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "84bdb0dc-06ac-487b-9676-e0112aab918a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

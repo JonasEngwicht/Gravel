@@ -1,0 +1,41 @@
+{
+  "id": "id-boise-broken-rock-sand-and-gravel",
+  "slug": "broken-rock-sand-and-gravel",
+  "name": "Broken Rock Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Boise",
+    "state": "ID",
+    "zip": "83705"
+  },
+  "location": {
+    "lat": 43.502778,
+    "lng": -116.211389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1002375"
+  },
+  "msha": [
+    {
+      "mine_id": "1002375",
+      "name": "Broken Rock Sand & Gravel",
+      "operator": "Broken Rock Sand & Gravel LLC",
+      "status": "Intermittent",
+      "status_since": "2025-02-05",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

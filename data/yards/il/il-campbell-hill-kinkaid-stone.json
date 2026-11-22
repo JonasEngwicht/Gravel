@@ -1,0 +1,41 @@
+{
+  "id": "il-campbell-hill-kinkaid-stone",
+  "slug": "kinkaid-stone",
+  "name": "Kinkaid Stone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Campbell Hill",
+    "state": "IL",
+    "zip": "62280"
+  },
+  "location": {
+    "lat": 37.863611,
+    "lng": -89.592778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102647"
+  },
+  "msha": [
+    {
+      "mine_id": "1102647",
+      "name": "Kinkaid Stone Company",
+      "operator": "Kinkaid Stone Company",
+      "status": "Active",
+      "status_since": "1994-02-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

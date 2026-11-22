@@ -1,0 +1,36 @@
+{
+  "id": "wa-marysville-beach-street-topsoil-and-gravel",
+  "slug": "beach-street-topsoil-and-gravel",
+  "name": "Beach Street Topsoil & Gravel",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1085 Beach Ave",
+    "city": "Marysville",
+    "state": "WA",
+    "zip": "98270"
+  },
+  "location": {
+    "lat": 48.06039,
+    "lng": -122.18219
+  },
+  "contact": {
+    "phone": "(360) 659-8088",
+    "website": "http://www.beachstreettopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c42014d3-383c-4097-9f5e-cb69e011474a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

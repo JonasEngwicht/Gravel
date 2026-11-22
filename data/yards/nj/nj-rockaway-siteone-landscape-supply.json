@@ -1,0 +1,37 @@
+{
+  "id": "nj-rockaway-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "419 Franklin Ave",
+    "city": "Rockaway",
+    "state": "NJ",
+    "zip": "07866"
+  },
+  "location": {
+    "lat": 40.882347,
+    "lng": -74.517685
+  },
+  "contact": {
+    "phone": "(973) 586-2044",
+    "website": "https://www.siteone.com/store/513"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e0a4a458-b2b0-494f-b4ec-dc74732c30f7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

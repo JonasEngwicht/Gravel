@@ -1,0 +1,36 @@
+{
+  "id": "pa-monroeville-j-a-rutter-co-recycling-and-landscape-supplies",
+  "slug": "j-a-rutter-co-recycling-and-landscape-supplies",
+  "name": "J A Rutter Co Recycling and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4917 Old William Penn Hwy",
+    "city": "Monroeville",
+    "state": "PA",
+    "zip": "15146"
+  },
+  "location": {
+    "lat": 40.431728,
+    "lng": -79.708023
+  },
+  "contact": {
+    "phone": "(724) 327-1101",
+    "website": "http://www.jarutter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "33fb33e8-eede-4c95-be42-a0e466d17ba8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

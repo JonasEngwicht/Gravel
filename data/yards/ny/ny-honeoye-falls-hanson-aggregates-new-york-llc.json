@@ -1,0 +1,37 @@
+{
+  "id": "ny-honeoye-falls-hanson-aggregates-new-york-llc",
+  "slug": "hanson-aggregates-new-york-llc",
+  "name": "Hanson Aggregates New York LLC",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "2049 Honeoye Falls No 6 Rd",
+    "city": "Honeoye Falls",
+    "state": "NY",
+    "zip": "14472"
+  },
+  "location": {
+    "lat": 42.945599,
+    "lng": -77.632713
+  },
+  "contact": {
+    "phone": "(585) 624-1220",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ad98d56-e083-4181-9fb8-ca2137476a4d",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

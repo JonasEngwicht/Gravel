@@ -1,0 +1,36 @@
+{
+  "id": "tx-humble-earth-friendly-dirt-and-mulch-co",
+  "slug": "earth-friendly-dirt-and-mulch-co",
+  "name": "Earth Friendly Dirt & Mulch Co",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5510 FM 1960 Rd E",
+    "city": "Humble",
+    "state": "TX",
+    "zip": "77346"
+  },
+  "location": {
+    "lat": 29.998365,
+    "lng": -95.189713
+  },
+  "contact": {
+    "phone": "(281) 852-7400",
+    "website": "http://www.earthfriendlyco.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f3bbfe21-996e-4170-8d4d-8ba0e0fe6205",
+    "confidence": 0.918,
+    "merged_records": 1
+  }
+}

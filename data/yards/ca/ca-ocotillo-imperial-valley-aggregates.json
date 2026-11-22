@@ -1,0 +1,47 @@
+{
+  "id": "ca-ocotillo-imperial-valley-aggregates",
+  "slug": "imperial-valley-aggregates",
+  "name": "IMPERIAL VALLEY AGGREGATES",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1952 Shell Canyon Rd",
+    "city": "Ocotillo",
+    "state": "CA",
+    "zip": "92259"
+  },
+  "location": {
+    "lat": 32.774822,
+    "lng": -116.020622
+  },
+  "contact": {
+    "phone": "(760) 919-5226"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7822f33e-c2fb-4c01-9aea-e3a165d6cd31",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0405850",
+      "name": "Imperial Valley Aggregates",
+      "operator": "Imperial Valley Aggregates LLC",
+      "status": "Active",
+      "status_since": "2024-05-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

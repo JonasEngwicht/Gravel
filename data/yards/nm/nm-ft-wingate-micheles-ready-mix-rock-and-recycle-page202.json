@@ -1,0 +1,41 @@
+{
+  "id": "nm-ft-wingate-micheles-ready-mix-rock-and-recycle-page202",
+  "slug": "micheles-ready-mix-rock-and-recycle-page202",
+  "name": "Micheles Ready Mix Rock & Recycle – Page202",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ft Wingate",
+    "state": "NM",
+    "zip": "87316"
+  },
+  "location": {
+    "lat": 35.4664,
+    "lng": -108.5446
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902584"
+  },
+  "msha": [
+    {
+      "mine_id": "2902584",
+      "name": "Page202",
+      "operator": "Micheles Ready Mix Rock & Recycle Inc",
+      "status": "Intermittent",
+      "status_since": "2026-11-16",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

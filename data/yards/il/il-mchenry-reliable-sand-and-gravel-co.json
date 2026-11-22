@@ -1,0 +1,48 @@
+{
+  "id": "il-mchenry-reliable-sand-and-gravel-co",
+  "slug": "reliable-sand-and-gravel-co",
+  "name": "Reliable Sand and Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2121 S River Rd",
+    "city": "McHenry",
+    "state": "IL",
+    "zip": "60051"
+  },
+  "location": {
+    "lat": 42.300041,
+    "lng": -88.223892
+  },
+  "contact": {
+    "phone": "(815) 385-5020",
+    "website": "http://www.docsdumpsters.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2401032-c0fe-4161-ab30-408b3d2992f3",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1101311",
+      "name": "Raven Pit",
+      "operator": "Reliable Sand & Gravel Company Inc",
+      "status": "Abandoned",
+      "status_since": "2007-07-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

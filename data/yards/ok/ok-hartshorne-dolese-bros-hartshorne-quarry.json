@@ -1,0 +1,41 @@
+{
+  "id": "ok-hartshorne-dolese-bros-hartshorne-quarry",
+  "slug": "dolese-bros-hartshorne-quarry",
+  "name": "Dolese Bros – Hartshorne Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hartshorne",
+    "state": "OK",
+    "zip": "74546"
+  },
+  "location": {
+    "lat": 34.845,
+    "lng": -95.5575
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400015"
+  },
+  "msha": [
+    {
+      "mine_id": "3400015",
+      "name": "Hartshorne Quarry",
+      "operator": "Dolese Bros Co",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

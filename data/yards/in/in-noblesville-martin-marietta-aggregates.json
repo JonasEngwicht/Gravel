@@ -1,0 +1,37 @@
+{
+  "id": "in-noblesville-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "15215 River Rd",
+    "city": "Noblesville",
+    "state": "IN",
+    "zip": "46062"
+  },
+  "location": {
+    "lat": 40.014271,
+    "lng": -86.039734
+  },
+  "contact": {
+    "phone": "(317) 776-4460",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9769b3ad-5220-4b35-8ff2-47883765fb45",
+    "confidence": 0.74,
+    "merged_records": 1
+  }
+}

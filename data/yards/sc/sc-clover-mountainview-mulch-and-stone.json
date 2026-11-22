@@ -1,0 +1,36 @@
+{
+  "id": "sc-clover-mountainview-mulch-and-stone",
+  "slug": "mountainview-mulch-and-stone",
+  "name": "Mountainview Mulch & Stone",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5945 Charlotte Hwy",
+    "city": "Clover",
+    "state": "SC",
+    "zip": "29710"
+  },
+  "location": {
+    "lat": 35.094566,
+    "lng": -81.09742
+  },
+  "contact": {
+    "phone": "(803) 631-4460",
+    "website": "https://mylandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8af04368-9e90-4496-bced-4050215cb10c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

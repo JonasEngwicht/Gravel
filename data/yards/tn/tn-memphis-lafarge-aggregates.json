@@ -1,0 +1,36 @@
+{
+  "id": "tn-memphis-lafarge-aggregates",
+  "slug": "lafarge-aggregates",
+  "name": "Lafarge Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1210 Harbor Ave",
+    "city": "Memphis",
+    "state": "TN",
+    "zip": "38113"
+  },
+  "location": {
+    "lat": 35.108536,
+    "lng": -90.092941
+  },
+  "contact": {
+    "phone": "(901) 947-5619",
+    "website": "http://www.lafargeholcim.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "32f202df-8d5a-4a34-bee1-c311361952c3",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

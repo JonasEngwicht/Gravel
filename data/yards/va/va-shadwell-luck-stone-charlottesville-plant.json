@@ -1,0 +1,41 @@
+{
+  "id": "va-shadwell-luck-stone-charlottesville-plant",
+  "slug": "luck-stone-charlottesville-plant",
+  "name": "Luck Stone – Charlottesville Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Shadwell",
+    "state": "VA",
+    "zip": "22947"
+  },
+  "location": {
+    "lat": 38.013611,
+    "lng": -78.398056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4400025"
+  },
+  "msha": [
+    {
+      "mine_id": "4400025",
+      "name": "Charlottesville Plant",
+      "operator": "Luck Stone Corporation",
+      "status": "Active",
+      "status_since": "1976-10-27",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 21
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pa-montoursville-hanson-aggregates-pennsylvania",
+  "slug": "hanson-aggregates-pennsylvania",
+  "name": "Hanson Aggregates Pennsylvania",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "5245 Lycoming Mall Dr",
+    "city": "Montoursville",
+    "state": "PA",
+    "zip": "17754"
+  },
+  "location": {
+    "lat": 41.242558,
+    "lng": -76.895325
+  },
+  "contact": {
+    "phone": "(570) 368-2481",
+    "website": "http://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c065c3cf-43cb-4593-90b3-da065a1bf097",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

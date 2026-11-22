@@ -1,0 +1,37 @@
+{
+  "id": "tx-boerne-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "26923 W I-10",
+    "city": "Boerne",
+    "state": "TX",
+    "zip": "78006"
+  },
+  "location": {
+    "lat": 29.699097,
+    "lng": -98.65303
+  },
+  "contact": {
+    "phone": "(210) 687-1005",
+    "website": "http://stoneandsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd1f3a17-2e33-4936-8c59-3a3e38f5db73",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

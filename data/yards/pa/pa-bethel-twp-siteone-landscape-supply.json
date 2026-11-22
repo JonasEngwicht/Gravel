@@ -1,0 +1,37 @@
+{
+  "id": "pa-bethel-twp-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "5191 Concord Rd",
+    "city": "Bethel Twp",
+    "state": "PA",
+    "zip": "19014"
+  },
+  "location": {
+    "lat": 39.866631,
+    "lng": -75.466988
+  },
+  "contact": {
+    "phone": "(610) 358-0220",
+    "website": "https://www.siteone.com/en/store/643"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "badfc7e5-b591-4859-bcf3-e8f7686ee2f6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

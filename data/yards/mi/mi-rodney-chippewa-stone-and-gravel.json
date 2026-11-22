@@ -1,0 +1,35 @@
+{
+  "id": "mi-rodney-chippewa-stone-and-gravel",
+  "slug": "chippewa-stone-and-gravel",
+  "name": "Chippewa Stone & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "15240 110th Ave",
+    "city": "Rodney",
+    "state": "MI",
+    "zip": "49342"
+  },
+  "location": {
+    "lat": 43.687725,
+    "lng": -85.304657
+  },
+  "contact": {
+    "phone": "(231) 867-5757"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ab799895-5567-4080-8e51-ffb56a5599ec",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

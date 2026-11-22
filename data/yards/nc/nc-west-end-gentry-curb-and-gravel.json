@@ -1,0 +1,36 @@
+{
+  "id": "nc-west-end-gentry-curb-and-gravel",
+  "slug": "gentry-curb-and-gravel",
+  "name": "Gentry Curb & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1029 Summer Hill Church Rd",
+    "city": "West End",
+    "state": "NC",
+    "zip": "27376"
+  },
+  "location": {
+    "lat": 35.311043,
+    "lng": -79.448517
+  },
+  "contact": {
+    "phone": "(910) 695-8591",
+    "website": "http://www.gentrycurbandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fa4dc7db-2322-45cd-9220-1ebc43e49fa1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

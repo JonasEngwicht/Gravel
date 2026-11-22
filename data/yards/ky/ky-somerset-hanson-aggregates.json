@@ -1,0 +1,37 @@
+{
+  "id": "ky-somerset-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "13670 E Highway 80",
+    "city": "Somerset",
+    "state": "KY",
+    "zip": "42501"
+  },
+  "location": {
+    "lat": 37.164444,
+    "lng": -84.400131
+  },
+  "contact": {
+    "phone": "(606) 274-1586",
+    "website": "https://www.lehighhanson.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ae1aa5c3-1e54-43b8-bc34-3a314c016407",
+    "confidence": 0.786,
+    "merged_records": 1
+  }
+}

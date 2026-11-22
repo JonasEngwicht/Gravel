@@ -1,0 +1,36 @@
+{
+  "id": "co-denver-eagle-rock-supply",
+  "slug": "eagle-rock-supply",
+  "name": "Eagle Rock Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2645 E 74th Ave",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80229"
+  },
+  "location": {
+    "lat": 39.831192,
+    "lng": -104.955269
+  },
+  "contact": {
+    "phone": "(303) 289-4151",
+    "website": "http://www.eaglerocksupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c202ea3f-054f-411e-b5e0-35095ad2002b",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

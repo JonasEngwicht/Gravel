@@ -1,0 +1,46 @@
+{
+  "id": "az-ajo-jim-bush-sand-and-gravel",
+  "slug": "jim-bush-sand-and-gravel",
+  "name": "Jim Bush Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1015 N Cameron Ave #B",
+    "city": "Ajo",
+    "state": "AZ",
+    "zip": "85321"
+  },
+  "location": {
+    "lat": 32.380783,
+    "lng": -112.87368
+  },
+  "contact": {
+    "phone": "(520) 387-6250"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7afb741-efe4-4fa9-9a9c-482d85f71a63",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0202764",
+      "name": "Portable Read Screen All",
+      "operator": "Jim Bush Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2023-05-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

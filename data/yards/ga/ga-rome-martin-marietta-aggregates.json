@@ -1,0 +1,37 @@
+{
+  "id": "ga-rome-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3785 Cave Spring Rd SW",
+    "city": "Rome",
+    "state": "GA",
+    "zip": "30161"
+  },
+  "location": {
+    "lat": 34.17017,
+    "lng": -85.231644
+  },
+  "contact": {
+    "phone": "(706) 235-6041",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79fd9f96-172d-424a-880b-842ba3ed31f8",
+    "confidence": 0.89,
+    "merged_records": 1
+  }
+}

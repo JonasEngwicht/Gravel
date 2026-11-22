@@ -1,0 +1,48 @@
+{
+  "id": "wv-princeton-east-river-aggregates",
+  "slug": "east-river-aggregates",
+  "name": "East River Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "388 Blake Hollow Rd",
+    "city": "Princeton",
+    "state": "WV",
+    "zip": "24740"
+  },
+  "location": {
+    "lat": 37.31007,
+    "lng": -81.057266
+  },
+  "contact": {
+    "phone": "(304) 425-5329",
+    "website": "http://eastriveraggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f164ca9e-bfd3-40cb-8e17-da93947d7bc5",
+    "confidence": 0.92,
+    "merged_records": 2
+  },
+  "msha": [
+    {
+      "mine_id": "4609582",
+      "name": "Ingleside Plant",
+      "operator": "East River Aggregates, Inc",
+      "status": "Active",
+      "status_since": "2019-10-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 16
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-tacoma-walrath-landscaping-supply",
+  "slug": "walrath-landscaping-supply",
+  "name": "Walrath Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4810 E Portland Ave",
+    "city": "Tacoma",
+    "state": "WA",
+    "zip": "98404"
+  },
+  "location": {
+    "lat": 47.213257,
+    "lng": -122.408104
+  },
+  "contact": {
+    "phone": "(253) 472-1252",
+    "website": "http://walrathlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0a100716-0a5e-430d-9593-eb20cc2c047e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

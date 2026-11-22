@@ -1,0 +1,41 @@
+{
+  "id": "wa-hamilton-miles-sand-and-gravel-hamilton-pit",
+  "slug": "miles-sand-and-gravel-hamilton-pit",
+  "name": "Miles Sand & Gravel – Hamilton Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Hamilton",
+    "state": "WA",
+    "zip": "98255"
+  },
+  "location": {
+    "lat": 48.529722,
+    "lng": -121.9825
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503782"
+  },
+  "msha": [
+    {
+      "mine_id": "4503782",
+      "name": "Hamilton Pit",
+      "operator": "Miles Sand & Gravel Company",
+      "status": "Active",
+      "status_since": "2022-04-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

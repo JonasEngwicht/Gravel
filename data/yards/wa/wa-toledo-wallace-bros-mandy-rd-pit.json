@@ -1,0 +1,41 @@
+{
+  "id": "wa-toledo-wallace-bros-mandy-rd-pit",
+  "slug": "wallace-bros-mandy-rd-pit",
+  "name": "Wallace Bros – Mandy Rd Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Toledo",
+    "state": "WA",
+    "zip": "98593"
+  },
+  "location": {
+    "lat": 46.403056,
+    "lng": -122.923333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503319"
+  },
+  "msha": [
+    {
+      "mine_id": "4503319",
+      "name": "Mandy Rd Pit",
+      "operator": "Wallace Bros. Inc.",
+      "status": "Active",
+      "status_since": "2026-07-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

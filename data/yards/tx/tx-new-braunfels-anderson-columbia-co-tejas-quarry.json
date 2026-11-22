@@ -1,0 +1,41 @@
+{
+  "id": "tx-new-braunfels-anderson-columbia-co-tejas-quarry",
+  "slug": "anderson-columbia-co-tejas-quarry",
+  "name": "Anderson Columbia Co – Tejas Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "New Braunfels",
+    "state": "TX",
+    "zip": "78108"
+  },
+  "location": {
+    "lat": 29.646389,
+    "lng": -98.240278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105232"
+  },
+  "msha": [
+    {
+      "mine_id": "4105232",
+      "name": "Tejas Quarry",
+      "operator": "Anderson Columbia Co., Inc.",
+      "status": "Active",
+      "status_since": "2017-01-10",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

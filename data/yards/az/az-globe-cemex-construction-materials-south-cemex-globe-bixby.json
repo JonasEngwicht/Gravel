@@ -1,0 +1,41 @@
+{
+  "id": "az-globe-cemex-construction-materials-south-cemex-globe-bixby",
+  "slug": "cemex-construction-materials-south-cemex-globe-bixby",
+  "name": "CEMEX Construction Materials South – Cemex-Globe/Bixby",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Globe",
+    "state": "AZ",
+    "zip": "85619"
+  },
+  "location": {
+    "lat": 32.448611,
+    "lng": -110.826111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0201249"
+  },
+  "msha": [
+    {
+      "mine_id": "0201249",
+      "name": "Cemex-Globe/Bixby",
+      "operator": "CEMEX Construction Materials South, LLC",
+      "status": "Active",
+      "status_since": "1980-03-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

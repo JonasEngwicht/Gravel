@@ -1,0 +1,41 @@
+{
+  "id": "ga-forest-park-vulcan-construction-materials-forest-park-quarry",
+  "slug": "vulcan-construction-materials-forest-park-quarry",
+  "name": "Vulcan Construction Materials – Forest Park Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Forest Park",
+    "state": "GA",
+    "zip": "30297"
+  },
+  "location": {
+    "lat": 33.604679,
+    "lng": -84.396947
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900012"
+  },
+  "msha": [
+    {
+      "mine_id": "0900012",
+      "name": "Forest Park Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1976-01-26",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 39
+    }
+  ]
+}

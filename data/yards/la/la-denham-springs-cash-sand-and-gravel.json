@@ -1,0 +1,36 @@
+{
+  "id": "la-denham-springs-cash-sand-and-gravel",
+  "slug": "cash-sand-and-gravel",
+  "name": "Cash Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "38000 LA-16",
+    "city": "Denham Springs",
+    "state": "LA",
+    "zip": "70706"
+  },
+  "location": {
+    "lat": 30.620546,
+    "lng": -90.923759
+  },
+  "contact": {
+    "phone": "(225) 665-4478",
+    "website": "http://www.gulfcoastmaterial.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ba0b49fc-46c9-4ad5-a557-d7c8bedb8ced",
+    "confidence": 0.515,
+    "merged_records": 1
+  }
+}

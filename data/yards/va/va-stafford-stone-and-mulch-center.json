@@ -1,0 +1,36 @@
+{
+  "id": "va-stafford-stone-and-mulch-center",
+  "slug": "stone-and-mulch-center",
+  "name": "Stone & Mulch Center",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "78 Shelton Shop Rd",
+    "city": "Stafford",
+    "state": "VA",
+    "zip": "22554"
+  },
+  "location": {
+    "lat": 38.465832,
+    "lng": -77.462654
+  },
+  "contact": {
+    "phone": "(540) 657-5454",
+    "website": "http://www.SMCVA.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8d77c46d-c3db-4c01-9424-b7d0268889c7",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

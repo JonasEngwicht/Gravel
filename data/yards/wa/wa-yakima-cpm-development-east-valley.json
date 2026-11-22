@@ -1,0 +1,41 @@
+{
+  "id": "wa-yakima-cpm-development-east-valley",
+  "slug": "cpm-development-east-valley",
+  "name": "CPM Development – East Valley",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Yakima",
+    "state": "WA",
+    "zip": "98902"
+  },
+  "location": {
+    "lat": 46.568333,
+    "lng": -120.448611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503744"
+  },
+  "msha": [
+    {
+      "mine_id": "4503744",
+      "name": "East Valley",
+      "operator": "CPM Development Corporation",
+      "status": "Active",
+      "status_since": "2022-04-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

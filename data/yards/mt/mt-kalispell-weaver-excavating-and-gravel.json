@@ -1,0 +1,36 @@
+{
+  "id": "mt-kalispell-weaver-excavating-and-gravel",
+  "slug": "weaver-excavating-and-gravel",
+  "name": "Weaver Excavating & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "690 N Meridian Rd  Ste 109",
+    "city": "Kalispell",
+    "state": "MT",
+    "zip": "59901"
+  },
+  "location": {
+    "lat": 48.205898,
+    "lng": -114.331032
+  },
+  "contact": {
+    "phone": "(406) 755-0212",
+    "website": "https://weaverexcavatingmt.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a22bb747-a8a0-486d-959c-24f73b4d7d95",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

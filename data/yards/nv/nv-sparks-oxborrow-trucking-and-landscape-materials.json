@@ -1,0 +1,36 @@
+{
+  "id": "nv-sparks-oxborrow-trucking-and-landscape-materials",
+  "slug": "oxborrow-trucking-and-landscape-materials",
+  "name": "Oxborrow Trucking & Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2050 Kleppe Ln",
+    "city": "Sparks",
+    "state": "NV",
+    "zip": "89431"
+  },
+  "location": {
+    "lat": 39.525108,
+    "lng": -119.70443
+  },
+  "contact": {
+    "phone": "(775) 324-2772",
+    "website": "https://www.oxborrowlandscape.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3056e100-1e40-465a-84de-ff253f9a256d",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

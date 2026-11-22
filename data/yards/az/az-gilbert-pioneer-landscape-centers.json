@@ -1,0 +1,37 @@
+{
+  "id": "az-gilbert-pioneer-landscape-centers",
+  "slug": "pioneer-landscape-centers",
+  "name": "Pioneer Landscape Centers",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "pioneer landscape",
+  "address": {
+    "street": "609 W Guadalupe Rd",
+    "city": "Gilbert",
+    "state": "AZ",
+    "zip": "85233"
+  },
+  "location": {
+    "lat": 33.36404,
+    "lng": -111.802673
+  },
+  "contact": {
+    "phone": "(480) 926-1700",
+    "website": "http://www.pioneerco.com/locations"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c9031bef-0669-4233-9ef2-8786edb27d55",
+    "confidence": 0.991,
+    "merged_records": 1
+  }
+}

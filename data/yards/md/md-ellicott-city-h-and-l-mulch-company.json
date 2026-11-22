@@ -1,0 +1,36 @@
+{
+  "id": "md-ellicott-city-h-and-l-mulch-company",
+  "slug": "h-and-l-mulch-company",
+  "name": "H & L Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2020 Daniels Rd Ste B",
+    "city": "Ellicott City",
+    "state": "MD",
+    "zip": "21043"
+  },
+  "location": {
+    "lat": 39.316589,
+    "lng": -76.813431
+  },
+  "contact": {
+    "phone": "(410) 844-1266",
+    "website": "http://www.hlmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a0033be2-a08b-4970-aa0f-4a0d57753397",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

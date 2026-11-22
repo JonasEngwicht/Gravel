@@ -1,0 +1,41 @@
+{
+  "id": "ny-lowville-v-s-virkler-and-son-virkler-s-martinsburg-limestone-quarry",
+  "slug": "v-s-virkler-and-son-virkler-s-martinsburg-limestone-quarry",
+  "name": "V.S. Virkler & Son – Virkler's Martinsburg Limestone Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lowville",
+    "state": "NY",
+    "zip": "13404"
+  },
+  "location": {
+    "lat": 43.741389,
+    "lng": -75.432222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003356"
+  },
+  "msha": [
+    {
+      "mine_id": "3003356",
+      "name": "Virkler's Martinsburg Limestone Quarry",
+      "operator": "V.S. Virkler & Son Inc",
+      "status": "Intermittent",
+      "status_since": "2022-03-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

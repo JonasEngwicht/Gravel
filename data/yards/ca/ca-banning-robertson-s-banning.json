@@ -1,0 +1,41 @@
+{
+  "id": "ca-banning-robertson-s-banning",
+  "slug": "robertson-s-banning",
+  "name": "Robertson's – Banning",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Banning",
+    "state": "CA",
+    "zip": "92220"
+  },
+  "location": {
+    "lat": 33.942778,
+    "lng": -116.867222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0402815"
+  },
+  "msha": [
+    {
+      "mine_id": "0402815",
+      "name": "Banning",
+      "operator": "Robertson's",
+      "status": "Active",
+      "status_since": "2017-07-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

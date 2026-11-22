@@ -1,0 +1,41 @@
+{
+  "id": "tx-marlin-mitchell-pit",
+  "slug": "mitchell-pit",
+  "name": "Mitchell Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Marlin",
+    "state": "TX",
+    "zip": "76661"
+  },
+  "location": {
+    "lat": 31.306389,
+    "lng": -96.898056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104772"
+  },
+  "msha": [
+    {
+      "mine_id": "4104772",
+      "name": "Mitchell Pit",
+      "operator": "BC Materials, LLC",
+      "status": "Active",
+      "status_since": "2009-12-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

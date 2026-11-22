@@ -1,0 +1,48 @@
+{
+  "id": "ne-fairbury-beatrice-sand-and-gravel",
+  "slug": "beatrice-sand-and-gravel",
+  "name": "Beatrice Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "712 D St",
+    "city": "Fairbury",
+    "state": "NE",
+    "zip": "68352"
+  },
+  "location": {
+    "lat": 40.13879,
+    "lng": -97.181244
+  },
+  "contact": {
+    "phone": "(402) 729-2590",
+    "website": "http://beatricesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "60abdb4f-7613-4334-b9eb-0c0efbcc3799",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2500149",
+      "name": "Boyden Pit & Plant",
+      "operator": "Beatrice Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2016-02-18",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

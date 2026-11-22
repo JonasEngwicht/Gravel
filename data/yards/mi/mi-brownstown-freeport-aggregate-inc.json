@@ -1,0 +1,35 @@
+{
+  "id": "mi-brownstown-freeport-aggregate-inc",
+  "slug": "freeport-aggregate-inc",
+  "name": "Freeport Aggregate Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "20225 Pennsylvania Rd",
+    "city": "Brownstown",
+    "state": "MI",
+    "zip": "48193"
+  },
+  "location": {
+    "lat": 42.182625,
+    "lng": -83.230377
+  },
+  "contact": {
+    "phone": "(734) 285-2324"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "61184ff7-35c2-4802-9be9-af3727f797cf",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

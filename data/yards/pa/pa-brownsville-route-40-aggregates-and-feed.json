@@ -1,0 +1,36 @@
+{
+  "id": "pa-brownsville-route-40-aggregates-and-feed",
+  "slug": "route-40-aggregates-and-feed",
+  "name": "Route 40 Aggregates and Feed",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "800 National Pike W",
+    "city": "Brownsville",
+    "state": "PA",
+    "zip": "15417"
+  },
+  "location": {
+    "lat": 40.042885,
+    "lng": -79.971893
+  },
+  "contact": {
+    "phone": "(724) 632-3331",
+    "website": "http://www.rt40feed.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a94b66c9-7801-456f-b928-2e02c2ff6487",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

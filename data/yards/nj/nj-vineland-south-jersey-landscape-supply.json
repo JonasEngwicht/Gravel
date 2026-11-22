@@ -1,0 +1,36 @@
+{
+  "id": "nj-vineland-south-jersey-landscape-supply",
+  "slug": "south-jersey-landscape-supply",
+  "name": "South Jersey Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1363 S Delsea Dr",
+    "city": "Vineland",
+    "state": "NJ",
+    "zip": "08360"
+  },
+  "location": {
+    "lat": 39.467094,
+    "lng": -75.044327
+  },
+  "contact": {
+    "phone": "(856) 563-1500",
+    "website": "http://www.sjlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d86f1457-ffe5-4a77-ae19-baeee757e987",
+    "confidence": 0.904,
+    "merged_records": 1
+  }
+}

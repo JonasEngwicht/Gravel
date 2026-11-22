@@ -1,0 +1,37 @@
+{
+  "id": "va-rocky-mount-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "19730 Virgil H Goode Hwy",
+    "city": "Rocky Mount",
+    "state": "VA",
+    "zip": "24151"
+  },
+  "location": {
+    "lat": 37.067406,
+    "lng": -79.887505
+  },
+  "contact": {
+    "phone": "(540) 483-2737",
+    "website": "https://www.siteone.com/store/167"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "aab54c4f-96ce-4673-a956-bf46339833f9",
+    "confidence": 0.983,
+    "merged_records": 1
+  }
+}

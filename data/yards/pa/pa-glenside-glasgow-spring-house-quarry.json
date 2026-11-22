@@ -1,0 +1,41 @@
+{
+  "id": "pa-glenside-glasgow-spring-house-quarry",
+  "slug": "glasgow-spring-house-quarry",
+  "name": "Glasgow – Spring House Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Glenside",
+    "state": "PA",
+    "zip": "18936"
+  },
+  "location": {
+    "lat": 40.2175,
+    "lng": -75.228333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3603429"
+  },
+  "msha": [
+    {
+      "mine_id": "3603429",
+      "name": "Spring House Quarry",
+      "operator": "Glasgow Inc",
+      "status": "Active",
+      "status_since": "2011-04-25",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

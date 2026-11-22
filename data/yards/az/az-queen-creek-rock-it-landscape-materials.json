@@ -1,0 +1,36 @@
+{
+  "id": "az-queen-creek-rock-it-landscape-materials",
+  "slug": "rock-it-landscape-materials",
+  "name": "Rock It Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18525 E San Tan Blvd",
+    "city": "Queen Creek",
+    "state": "AZ",
+    "zip": "85142"
+  },
+  "location": {
+    "lat": 33.211967,
+    "lng": -111.683968
+  },
+  "contact": {
+    "phone": "(602) 647-2312",
+    "website": "https://rockitlandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "96e69108-dfb2-4e01-b123-9299f389ab6a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

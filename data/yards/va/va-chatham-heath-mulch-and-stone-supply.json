@@ -1,0 +1,35 @@
+{
+  "id": "va-chatham-heath-mulch-and-stone-supply",
+  "slug": "heath-mulch-and-stone-supply",
+  "name": "Heath Mulch & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "13531 US-29",
+    "city": "Chatham",
+    "state": "VA",
+    "zip": "24531"
+  },
+  "location": {
+    "lat": 36.787228,
+    "lng": -79.394165
+  },
+  "contact": {
+    "phone": "(434) 433-2381"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71b18394-e170-427d-b397-61a365be7982",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

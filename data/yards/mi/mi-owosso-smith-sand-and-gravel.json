@@ -1,0 +1,36 @@
+{
+  "id": "mi-owosso-smith-sand-and-gravel",
+  "slug": "smith-sand-and-gravel",
+  "name": "Smith Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4085 Tyrell Rd",
+    "city": "Owosso",
+    "state": "MI",
+    "zip": "48867"
+  },
+  "location": {
+    "lat": 42.869675,
+    "lng": -84.24202
+  },
+  "contact": {
+    "phone": "(517) 625-3228",
+    "website": "https://www.sasmithpaving.com/site-development"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ad4f2efd-c714-4b85-b6fa-0fd2f3ecb30e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

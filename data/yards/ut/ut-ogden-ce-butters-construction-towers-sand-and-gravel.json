@@ -1,0 +1,36 @@
+{
+  "id": "ut-ogden-ce-butters-construction-towers-sand-and-gravel",
+  "slug": "ce-butters-construction-towers-sand-and-gravel",
+  "name": "CE Butters Construction - Towers Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "760 N Harrisville Rd",
+    "city": "Ogden",
+    "state": "UT",
+    "zip": "84404"
+  },
+  "location": {
+    "lat": 41.271755,
+    "lng": -111.978165
+  },
+  "contact": {
+    "phone": "(844) 461-2843",
+    "website": "https://www.butterscompanies.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68947de6-d67b-4bde-a037-71a50cd3227d",
+    "confidence": 0.966,
+    "merged_records": 1
+  }
+}

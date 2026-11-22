@@ -1,0 +1,36 @@
+{
+  "id": "ct-shelton-island-sand-and-gravel",
+  "slug": "island-sand-and-gravel",
+  "name": "Island Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "64 Hawthorne Ave",
+    "city": "Shelton",
+    "state": "CT",
+    "zip": "06484"
+  },
+  "location": {
+    "lat": 41.298943,
+    "lng": -73.068161
+  },
+  "contact": {
+    "phone": "(203) 924-4346",
+    "website": "http://www.islandsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "50f74b8b-c7dc-44cf-bcfd-6441168dbcee",
+    "confidence": 0.856,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ca-south-lake-tahoe-tahoe-sand-and-gravel-inc",
+  "slug": "tahoe-sand-and-gravel-inc",
+  "name": "Tahoe Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1096 Industrial Ave",
+    "city": "South Lake Tahoe",
+    "state": "CA",
+    "zip": "96150"
+  },
+  "location": {
+    "lat": 38.901985,
+    "lng": -120.009209
+  },
+  "contact": {
+    "phone": "(530) 541-6862",
+    "website": "https://tahoesandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ff319f15-d8b1-4c8f-97d3-3f9491a32609",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "id": "mn-litchfield-mc-carthy-gravel-inc",
+  "slug": "mc-carthy-gravel-inc",
+  "name": "Mc Carthy Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "67677 MN-24",
+    "city": "Litchfield",
+    "state": "MN",
+    "zip": "55355"
+  },
+  "location": {
+    "lat": 45.201591,
+    "lng": -94.406754
+  },
+  "contact": {
+    "phone": "(320) 693-7468"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dec9d876-1ea5-4e73-afc7-05359be71523",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

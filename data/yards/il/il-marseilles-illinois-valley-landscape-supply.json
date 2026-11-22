@@ -1,0 +1,36 @@
+{
+  "id": "il-marseilles-illinois-valley-landscape-supply",
+  "slug": "illinois-valley-landscape-supply",
+  "name": "Illinois Valley Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2580 US-6",
+    "city": "Marseilles",
+    "state": "IL",
+    "zip": "61341"
+  },
+  "location": {
+    "lat": 41.322567,
+    "lng": -88.673485
+  },
+  "contact": {
+    "phone": "(815) 200-4928",
+    "website": "http://Www.ivls.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b88ce750-002e-44d5-ba94-1d1f1b0bfa82",
+    "confidence": 0.701,
+    "merged_records": 1
+  }
+}

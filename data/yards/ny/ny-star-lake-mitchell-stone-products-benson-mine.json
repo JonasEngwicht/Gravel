@@ -1,0 +1,41 @@
+{
+  "id": "ny-star-lake-mitchell-stone-products-benson-mine",
+  "slug": "mitchell-stone-products-benson-mine",
+  "name": "Mitchell Stone Products – Benson Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Star Lake",
+    "state": "NY",
+    "zip": "13690"
+  },
+  "location": {
+    "lat": 44.161944,
+    "lng": -75.027222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003975"
+  },
+  "msha": [
+    {
+      "mine_id": "3003975",
+      "name": "Benson Mine",
+      "operator": "Mitchell Stone Products LLC",
+      "status": "Intermittent",
+      "status_since": "2023-08-29",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

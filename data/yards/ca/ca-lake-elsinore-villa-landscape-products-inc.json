@@ -1,0 +1,36 @@
+{
+  "id": "ca-lake-elsinore-villa-landscape-products-inc",
+  "slug": "villa-landscape-products-inc",
+  "name": "Villa Landscape Products Inc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "18363 Pasadena St",
+    "city": "Lake Elsinore",
+    "state": "CA",
+    "zip": "92530"
+  },
+  "location": {
+    "lat": 33.687065,
+    "lng": -117.34417
+  },
+  "contact": {
+    "phone": "(800) 654-4067",
+    "website": "https://www.villarootbarrier.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5d7f03f1-05da-494c-95c8-213305e4ca10",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

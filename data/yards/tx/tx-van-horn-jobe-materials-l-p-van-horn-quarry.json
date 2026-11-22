@@ -1,0 +1,41 @@
+{
+  "id": "tx-van-horn-jobe-materials-l-p-van-horn-quarry",
+  "slug": "jobe-materials-l-p-van-horn-quarry",
+  "name": "Jobe Materials, L.P – Van Horn Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Van Horn",
+    "state": "TX",
+    "zip": "79855"
+  },
+  "location": {
+    "lat": 31.035278,
+    "lng": -104.861111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105238"
+  },
+  "msha": [
+    {
+      "mine_id": "4105238",
+      "name": "Van Horn Quarry",
+      "operator": "Jobe Materials, L.P.",
+      "status": "Active",
+      "status_since": "2018-01-18",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

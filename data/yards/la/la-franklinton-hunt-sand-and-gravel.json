@@ -1,0 +1,41 @@
+{
+  "id": "la-franklinton-hunt-sand-and-gravel",
+  "slug": "hunt-sand-and-gravel",
+  "name": "Hunt Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Franklinton",
+    "state": "LA",
+    "zip": "70438"
+  },
+  "location": {
+    "lat": 30.847222,
+    "lng": -90.153056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601495"
+  },
+  "msha": [
+    {
+      "mine_id": "1601495",
+      "name": "Hunt Sand & Gravel",
+      "operator": "Hunt Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2009-12-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

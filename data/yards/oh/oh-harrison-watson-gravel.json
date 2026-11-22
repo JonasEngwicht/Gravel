@@ -1,0 +1,48 @@
+{
+  "id": "oh-harrison-watson-gravel",
+  "slug": "watson-gravel",
+  "name": "Watson Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10569 Suspension Bridge Rd",
+    "city": "Harrison",
+    "state": "OH",
+    "zip": "45030"
+  },
+  "location": {
+    "lat": 39.182293,
+    "lng": -84.79435
+  },
+  "contact": {
+    "phone": "(513) 353-2707",
+    "website": "http://www.watsongravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5400f581-98db-47d0-888e-ff5d0c40499f",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304481",
+      "name": "Watson Gravel Inc (Harrison Plant)",
+      "operator": "Watson Gravel Inc",
+      "status": "Active",
+      "status_since": "2002-12-02",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

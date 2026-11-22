@@ -1,0 +1,36 @@
+{
+  "id": "ca-dixon-dixon-landscape-materials",
+  "slug": "dixon-landscape-materials",
+  "name": "Dixon Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "150 E H St",
+    "city": "Dixon",
+    "state": "CA",
+    "zip": "95620"
+  },
+  "location": {
+    "lat": 38.452663,
+    "lng": -121.821022
+  },
+  "contact": {
+    "phone": "(707) 678-8200",
+    "website": "https://dixonlandscapematerials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e7cc79e-b966-40c2-b256-3cb142abd7fb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

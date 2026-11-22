@@ -1,0 +1,36 @@
+{
+  "id": "tn-alcoa-kellems-recycling-mulch-topsoil-and-rock",
+  "slug": "kellems-recycling-mulch-topsoil-and-rock",
+  "name": "Kellems Recycling Mulch, Topsoil, and Rock",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "771 McArthur Rd",
+    "city": "Alcoa",
+    "state": "TN",
+    "zip": "37701"
+  },
+  "location": {
+    "lat": 35.786789,
+    "lng": -83.966087
+  },
+  "contact": {
+    "phone": "(865) 977-7500",
+    "website": "http://www.kellemstn.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e8cb6be3-037a-49a8-9efb-c42621d8e450",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ny-hudson-falls-peckham-materials-hudson-falls-plant-31",
+  "slug": "peckham-materials-hudson-falls-plant-31",
+  "name": "Peckham Materials – Hudson Falls Plant 31",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hudson Falls",
+    "state": "NY",
+    "zip": "12839"
+  },
+  "location": {
+    "lat": 43.343889,
+    "lng": -73.571667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000105"
+  },
+  "msha": [
+    {
+      "mine_id": "3000105",
+      "name": "Hudson Falls Plant 31",
+      "operator": "Peckham Materials Corp",
+      "status": "Active",
+      "status_since": "2010-01-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 20
+    }
+  ]
+}

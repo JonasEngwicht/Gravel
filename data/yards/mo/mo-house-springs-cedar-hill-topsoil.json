@@ -1,0 +1,35 @@
+{
+  "id": "mo-house-springs-cedar-hill-topsoil",
+  "slug": "cedar-hill-topsoil",
+  "name": "Cedar Hill Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5281 S Byrnesville Rd",
+    "city": "House Springs",
+    "state": "MO",
+    "zip": "63016"
+  },
+  "location": {
+    "lat": 38.387726,
+    "lng": -90.626389
+  },
+  "contact": {
+    "phone": "(314) 550-8996"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c9a18da-5bd3-49d5-902b-3ff032d41475",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

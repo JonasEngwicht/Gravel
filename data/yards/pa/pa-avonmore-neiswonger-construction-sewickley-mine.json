@@ -1,0 +1,41 @@
+{
+  "id": "pa-avonmore-neiswonger-construction-sewickley-mine",
+  "slug": "neiswonger-construction-sewickley-mine",
+  "name": "Neiswonger Construction – Sewickley Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Avonmore",
+    "state": "PA",
+    "zip": "15783"
+  },
+  "location": {
+    "lat": 40.581944,
+    "lng": -79.386944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3609542"
+  },
+  "msha": [
+    {
+      "mine_id": "3609542",
+      "name": "Sewickley Mine",
+      "operator": "Neiswonger Construction Inc",
+      "status": "Active",
+      "status_since": "2009-07-07",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

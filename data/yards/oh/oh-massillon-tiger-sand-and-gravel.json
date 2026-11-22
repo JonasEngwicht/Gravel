@@ -1,0 +1,48 @@
+{
+  "id": "oh-massillon-tiger-sand-and-gravel",
+  "slug": "tiger-sand-and-gravel",
+  "name": "Tiger Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "411 Oberlin Ave SW",
+    "city": "Massillon",
+    "state": "OH",
+    "zip": "44647"
+  },
+  "location": {
+    "lat": 40.776745,
+    "lng": -81.523087
+  },
+  "contact": {
+    "phone": "(330) 833-6325",
+    "website": "https://www.massillonlogistics.com/companies/tiger-sand-and-gravel"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "600c308d-10b6-4acd-b374-26fa33734d38",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304593",
+      "name": "Tiger Sand & Gravel LLC",
+      "operator": "Tiger Sand & Gravel LLC",
+      "status": "NonProducing",
+      "status_since": "2026-11-16",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 8
+    }
+  ]
+}

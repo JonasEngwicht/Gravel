@@ -1,0 +1,41 @@
+{
+  "id": "ky-bullitt-rogers-group-bullitt-county-stone-company",
+  "slug": "rogers-group-bullitt-county-stone-company",
+  "name": "Rogers Group – Bullitt County Stone Company",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bullitt",
+    "state": "KY",
+    "zip": "40165"
+  },
+  "location": {
+    "lat": 38.038889,
+    "lng": -85.672778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500008"
+  },
+  "msha": [
+    {
+      "mine_id": "1500008",
+      "name": "Bullitt County Stone Company",
+      "operator": "Rogers Group Inc.",
+      "status": "Active",
+      "status_since": "1981-06-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 35
+    }
+  ]
+}

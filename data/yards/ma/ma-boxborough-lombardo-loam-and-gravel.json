@@ -1,0 +1,36 @@
+{
+  "id": "ma-boxborough-lombardo-loam-and-gravel",
+  "slug": "lombardo-loam-and-gravel",
+  "name": "Lombardo Loam & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1160 Liberty Square Rd",
+    "city": "Boxborough",
+    "state": "MA",
+    "zip": "01719"
+  },
+  "location": {
+    "lat": 42.507584,
+    "lng": -71.509857
+  },
+  "contact": {
+    "phone": "(978) 263-8045",
+    "website": "http://www.lombardoloam.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4e7fe8ce-e686-4007-b0aa-7d896c11865e",
+    "confidence": 0.658,
+    "merged_records": 1
+  }
+}

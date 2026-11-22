@@ -1,0 +1,41 @@
+{
+  "id": "mo-joplin-mulberry-limestone-quarry-co-joplin-quarry",
+  "slug": "mulberry-limestone-quarry-co-joplin-quarry",
+  "name": "Mulberry Limestone Quarry Co – Joplin Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Joplin",
+    "state": "MO",
+    "zip": "64841"
+  },
+  "location": {
+    "lat": 37.106944,
+    "lng": -94.421667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2302543"
+  },
+  "msha": [
+    {
+      "mine_id": "2302543",
+      "name": "Joplin Quarry",
+      "operator": "Mulberry Limestone Quarry Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "2020-10-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

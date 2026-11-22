@@ -1,0 +1,36 @@
+{
+  "id": "nc-mt-pleasant-yard-stuff-sheds-carports-mulch-yard-decor",
+  "slug": "yard-stuff-sheds-carports-mulch-yard-decor",
+  "name": "Yard Stuff Sheds/Carports/Mulch/Yard Decor",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "Corner of Hwy. 152 and Faith Road Rockwell NC",
+    "city": "Mt Pleasant",
+    "state": "NC",
+    "zip": "28138"
+  },
+  "location": {
+    "lat": 35.484608,
+    "lng": -80.446274
+  },
+  "contact": {
+    "phone": "(704) 209-3700",
+    "website": "http://www.yardstuffnc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a5f2f43d-2ebb-43e7-86f0-8261504990d2",
+    "confidence": 0.842,
+    "merged_records": 2
+  }
+}

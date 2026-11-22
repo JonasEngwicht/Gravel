@@ -1,0 +1,41 @@
+{
+  "id": "hi-hoole-hua-manawainui-molokai-quarry",
+  "slug": "manawainui-molokai-quarry",
+  "name": "Manawainui Molokai Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hoole Hua",
+    "state": "HI",
+    "zip": "96757"
+  },
+  "location": {
+    "lat": 21.093333,
+    "lng": -157.023889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5100206"
+  },
+  "msha": [
+    {
+      "mine_id": "5100206",
+      "name": "Molokai Quarry",
+      "operator": "Manawainui Molokai Quarry LLC",
+      "status": "Intermittent",
+      "status_since": "2026-07-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "id": "az-chandler-northstar-landscape-materials",
+  "slug": "northstar-landscape-materials",
+  "name": "Northstar Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1255 N Dobson Rd",
+    "city": "Chandler",
+    "state": "AZ",
+    "zip": "85224"
+  },
+  "location": {
+    "lat": 33.326035,
+    "lng": -111.874207
+  },
+  "contact": {
+    "phone": "(480) 917-2588"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2e4e64e0-d8f9-4c79-bef2-e5c7609706bb",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

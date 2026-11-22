@@ -1,0 +1,41 @@
+{
+  "id": "ks-hartford-apac-kansas-inc-shears-division-hartford-quarry",
+  "slug": "apac-kansas-inc-shears-division-hartford-quarry",
+  "name": "Apac-Kansas Inc Shears Division – Hartford Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hartford",
+    "state": "KS",
+    "zip": "66864"
+  },
+  "location": {
+    "lat": 38.308333,
+    "lng": -95.955833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401334"
+  },
+  "msha": [
+    {
+      "mine_id": "1401334",
+      "name": "Hartford Quarry",
+      "operator": "Apac-Kansas Inc Shears Division",
+      "status": "Active",
+      "status_since": "2007-11-26",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

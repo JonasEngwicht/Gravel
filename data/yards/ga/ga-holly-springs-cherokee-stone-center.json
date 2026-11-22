@@ -1,0 +1,36 @@
+{
+  "id": "ga-holly-springs-cherokee-stone-center",
+  "slug": "cherokee-stone-center",
+  "name": "Cherokee Stone Center",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "4206 Holly Springs Pkwy",
+    "city": "Holly Springs",
+    "state": "GA",
+    "zip": "30115"
+  },
+  "location": {
+    "lat": 34.153309,
+    "lng": -84.509987
+  },
+  "contact": {
+    "phone": "(770) 213-4790",
+    "website": "http://www.cherokeestonecenter.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9fe078a8-165e-43fd-8c0e-eeb7280a707e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

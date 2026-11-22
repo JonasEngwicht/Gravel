@@ -1,0 +1,41 @@
+{
+  "id": "mi-manchester-amrize-great-lakes-amrize-manchester-sand-and-gravel",
+  "slug": "amrize-great-lakes-amrize-manchester-sand-and-gravel",
+  "name": "Amrize Great Lakes – Amrize Manchester Sand and Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Manchester",
+    "state": "MI",
+    "zip": "48158"
+  },
+  "location": {
+    "lat": 42.228611,
+    "lng": -84.030833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2003423"
+  },
+  "msha": [
+    {
+      "mine_id": "2003423",
+      "name": "Amrize Manchester Sand and Gravel",
+      "operator": "Amrize Great Lakes Inc.",
+      "status": "Active",
+      "status_since": "2026-10-19",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

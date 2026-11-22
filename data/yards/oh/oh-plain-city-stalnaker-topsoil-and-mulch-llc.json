@@ -1,0 +1,36 @@
+{
+  "id": "oh-plain-city-stalnaker-topsoil-and-mulch-llc",
+  "slug": "stalnaker-topsoil-and-mulch-llc",
+  "name": "Stalnaker Topsoil & Mulch, Llc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11090 Kile Warner Rd",
+    "city": "Plain City",
+    "state": "OH",
+    "zip": "43064"
+  },
+  "location": {
+    "lat": 40.107719,
+    "lng": -83.210701
+  },
+  "contact": {
+    "phone": "(614) 981-6834",
+    "website": "https://stalnaker-topsoil-and-mulch.multiscreensite.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9e303e0e-9559-4dcb-bab1-61ebcb2592f8",
+    "confidence": 0.995,
+    "merged_records": 1
+  }
+}

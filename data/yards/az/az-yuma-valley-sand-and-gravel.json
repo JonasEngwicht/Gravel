@@ -1,0 +1,36 @@
+{
+  "id": "az-yuma-valley-sand-and-gravel",
+  "slug": "valley-sand-and-gravel",
+  "name": "Valley Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3206 US-95",
+    "city": "Yuma",
+    "state": "AZ",
+    "zip": "85364"
+  },
+  "location": {
+    "lat": 32.698967,
+    "lng": -114.579758
+  },
+  "contact": {
+    "phone": "(928) 783-5191",
+    "website": "http://www.valleysandandgravelinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "393befb6-4579-48b7-af35-fc78eb98d104",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

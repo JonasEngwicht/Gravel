@@ -1,0 +1,35 @@
+{
+  "id": "va-elkwood-remington-mulch-company",
+  "slug": "remington-mulch-company",
+  "name": "Remington Mulch Company",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "13411 Beverly Ford Rd Ste 1759",
+    "city": "Elkwood",
+    "state": "VA",
+    "zip": "22718"
+  },
+  "location": {
+    "lat": 38.516312,
+    "lng": -77.863388
+  },
+  "contact": {
+    "phone": "(540) 829-1105"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7041efbb-73a6-4f62-b9f5-582707db395b",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

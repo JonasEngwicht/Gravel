@@ -1,0 +1,48 @@
+{
+  "id": "fl-cocoa-cemex-city-point-aggregates-and-granite-terminal",
+  "slug": "cemex-city-point-aggregates-and-granite-terminal",
+  "name": "Cemex City Point Aggregates And Granite Terminal",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "3355 E Industry Rd",
+    "city": "Cocoa",
+    "state": "FL",
+    "zip": "32926"
+  },
+  "location": {
+    "lat": 28.405695,
+    "lng": -80.762062
+  },
+  "contact": {
+    "phone": "(321) 632-4218",
+    "website": "https://www.cemexusa.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd076643-e811-4624-a577-e1a10de35a55",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0801303",
+      "name": "City Point Terminal",
+      "operator": "Cemex Construction Materials Florida LLC",
+      "status": "Abandoned",
+      "status_since": "2010-11-09",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

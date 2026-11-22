@@ -1,0 +1,35 @@
+{
+  "id": "in-knox-renfrow-landscape-supply-and-excavating",
+  "slug": "renfrow-landscape-supply-and-excavating",
+  "name": "Renfrow Landscape Supply & Excavating",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8204 E State Road 10",
+    "city": "Knox",
+    "state": "IN",
+    "zip": "46534"
+  },
+  "location": {
+    "lat": 41.229912,
+    "lng": -86.539864
+  },
+  "contact": {
+    "phone": "(219) 393-9593"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb1c9d96-45bc-4108-8877-51f207218421",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

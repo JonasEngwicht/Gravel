@@ -1,0 +1,41 @@
+{
+  "id": "ky-fort-knox-vulcan-construction-materials-fort-knox-quarry",
+  "slug": "vulcan-construction-materials-fort-knox-quarry",
+  "name": "Vulcan Construction Materials – Fort Knox Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Fort Knox",
+    "state": "KY",
+    "zip": "40160"
+  },
+  "location": {
+    "lat": 37.785556,
+    "lng": -85.881667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1500079"
+  },
+  "msha": [
+    {
+      "mine_id": "1500079",
+      "name": "Fort Knox Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1984-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

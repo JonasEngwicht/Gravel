@@ -1,0 +1,35 @@
+{
+  "id": "oh-lewis-center-men-of-mulch",
+  "slug": "men-of-mulch",
+  "name": "Men Of Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "8595 Columbus Pike",
+    "city": "Lewis Center",
+    "state": "OH",
+    "zip": "43035"
+  },
+  "location": {
+    "lat": 40.166237,
+    "lng": -83.019058
+  },
+  "contact": {
+    "phone": "(614) 530-0046"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f04836a0-32fb-4d81-b142-46780a56f1d0",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

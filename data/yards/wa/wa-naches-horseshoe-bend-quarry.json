@@ -1,0 +1,41 @@
+{
+  "id": "wa-naches-horseshoe-bend-quarry",
+  "slug": "horseshoe-bend-quarry",
+  "name": "Horseshoe Bend Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Naches",
+    "state": "WA",
+    "zip": "98947"
+  },
+  "location": {
+    "lat": 46.761944,
+    "lng": -120.826667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503412"
+  },
+  "msha": [
+    {
+      "mine_id": "4503412",
+      "name": "Horseshoe Bend Quarry",
+      "operator": "Horseshoe Bend Quarry",
+      "status": "Active",
+      "status_since": "2014-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

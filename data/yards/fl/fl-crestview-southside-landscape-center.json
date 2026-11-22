@@ -1,0 +1,35 @@
+{
+  "id": "fl-crestview-southside-landscape-center",
+  "slug": "southside-landscape-center",
+  "name": "Southside Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "352 W James Lee Blvd",
+    "city": "Crestview",
+    "state": "FL",
+    "zip": "32536"
+  },
+  "location": {
+    "lat": 30.763752,
+    "lng": -86.578476
+  },
+  "contact": {
+    "phone": "(850) 682-3478"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f9bb012-fce6-4d02-bb01-64d32771986e",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ut-spanish-fork-old-mill-landscape-supply",
+  "slug": "old-mill-landscape-supply",
+  "name": "Old Mill Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "905 S Mill Rd",
+    "city": "Spanish Fork",
+    "state": "UT",
+    "zip": "84660"
+  },
+  "location": {
+    "lat": 40.098061,
+    "lng": -111.674019
+  },
+  "contact": {
+    "phone": "(801) 358-7097",
+    "website": "http://www.prioritylandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0285d887-ad93-450f-8685-ed1c2fd91615",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

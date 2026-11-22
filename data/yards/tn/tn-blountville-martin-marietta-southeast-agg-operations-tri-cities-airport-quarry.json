@@ -1,0 +1,41 @@
+{
+  "id": "tn-blountville-martin-marietta-southeast-agg-operations-tri-cities-airport-quarry",
+  "slug": "martin-marietta-southeast-agg-operations-tri-cities-airport-quarry",
+  "name": "Martin Marietta Southeast Agg Operations – Tri-Cities Airport Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Blountville",
+    "state": "TN",
+    "zip": "37617"
+  },
+  "location": {
+    "lat": 36.496111,
+    "lng": -82.425833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4001657"
+  },
+  "msha": [
+    {
+      "mine_id": "4001657",
+      "name": "Tri-Cities Airport Quarry",
+      "operator": "Martin Marietta Southeast Agg Operations, LLC",
+      "status": "Active",
+      "status_since": "2012-05-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

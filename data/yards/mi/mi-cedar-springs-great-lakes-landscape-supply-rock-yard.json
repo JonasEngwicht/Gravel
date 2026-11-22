@@ -1,0 +1,36 @@
+{
+  "id": "mi-cedar-springs-great-lakes-landscape-supply-rock-yard",
+  "slug": "great-lakes-landscape-supply-rock-yard",
+  "name": "Great Lakes Landscape Supply Rock Yard",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "400 S Main",
+    "city": "Cedar Springs",
+    "state": "MI",
+    "zip": "49319"
+  },
+  "location": {
+    "lat": 43.216812,
+    "lng": -85.551086
+  },
+  "contact": {
+    "phone": "(616) 696-2066",
+    "website": "http://greatlakeslandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea14b747-5a9d-416a-bb94-2ab965deb19e",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

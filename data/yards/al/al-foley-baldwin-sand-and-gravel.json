@@ -1,0 +1,48 @@
+{
+  "id": "al-foley-baldwin-sand-and-gravel",
+  "slug": "baldwin-sand-and-gravel",
+  "name": "Baldwin Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8303 Roy Waters Rd",
+    "city": "Foley",
+    "state": "AL",
+    "zip": "36535"
+  },
+  "location": {
+    "lat": 30.34466,
+    "lng": -87.741562
+  },
+  "contact": {
+    "phone": "(251) 943-7263",
+    "website": "http://www.baldwinsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d11b9f89-31e7-4124-84ca-ad7e3b826c05",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0103324",
+      "name": "Baldwin Sand & Gravel, Llc.",
+      "operator": "Baldwin Sand & Gravel, Llc.",
+      "status": "Active",
+      "status_since": "2014-03-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 10
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "wa-spokane-valley-circle-m-construction-and-landscape-supplies",
+  "slug": "circle-m-construction-and-landscape-supplies",
+  "name": "Circle M Construction & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1820 N University Rd",
+    "city": "Spokane Valley",
+    "state": "WA",
+    "zip": "99206"
+  },
+  "location": {
+    "lat": 47.676643,
+    "lng": -117.240067
+  },
+  "contact": {
+    "phone": "(509) 928-3255",
+    "website": "https://spokanelandscape.net"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83fb2a73-0018-48aa-a5ba-e6f04df33916",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

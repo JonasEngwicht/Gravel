@@ -1,0 +1,36 @@
+{
+  "id": "ga-sparta-aggregates-usa",
+  "slug": "aggregates-usa",
+  "name": "Aggregates USA",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14674 GA Highway 16",
+    "city": "Sparta",
+    "state": "GA",
+    "zip": "31087"
+  },
+  "location": {
+    "lat": 33.285954,
+    "lng": -82.934608
+  },
+  "contact": {
+    "phone": "(706) 444-7900",
+    "website": "http://www.aggregatesusa.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "eceab749-d295-4db2-829f-d9ad8d82c507",
+    "confidence": 0.77,
+    "merged_records": 2
+  }
+}

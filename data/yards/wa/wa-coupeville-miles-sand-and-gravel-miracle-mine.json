@@ -1,0 +1,41 @@
+{
+  "id": "wa-coupeville-miles-sand-and-gravel-miracle-mine",
+  "slug": "miles-sand-and-gravel-miracle-mine",
+  "name": "Miles Sand & Gravel – Miracle Mine",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Coupeville",
+    "state": "WA",
+    "zip": "98239"
+  },
+  "location": {
+    "lat": 48.198056,
+    "lng": -122.623333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4503861"
+  },
+  "msha": [
+    {
+      "mine_id": "4503861",
+      "name": "Miracle Mine",
+      "operator": "Miles Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2026-01-05",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

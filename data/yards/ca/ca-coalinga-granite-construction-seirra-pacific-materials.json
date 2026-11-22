@@ -1,0 +1,41 @@
+{
+  "id": "ca-coalinga-granite-construction-seirra-pacific-materials",
+  "slug": "granite-construction-seirra-pacific-materials",
+  "name": "Granite Construction – Seirra Pacific Materials",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Coalinga",
+    "state": "CA",
+    "zip": "95248"
+  },
+  "location": {
+    "lat": 38.321111,
+    "lng": -120.526111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0404949"
+  },
+  "msha": [
+    {
+      "mine_id": "0404949",
+      "name": "Seirra Pacific Materials",
+      "operator": "Granite Construction Company",
+      "status": "Active",
+      "status_since": "2026-10-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 22
+    }
+  ]
+}

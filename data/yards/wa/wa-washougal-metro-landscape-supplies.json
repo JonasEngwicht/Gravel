@@ -1,0 +1,36 @@
+{
+  "id": "wa-washougal-metro-landscape-supplies",
+  "slug": "metro-landscape-supplies",
+  "name": "Metro Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "39 C St",
+    "city": "Washougal",
+    "state": "WA",
+    "zip": "98671"
+  },
+  "location": {
+    "lat": 45.582073,
+    "lng": -122.382042
+  },
+  "contact": {
+    "phone": "(360) 833-9456",
+    "website": "http://www.metrolandscapesupplies.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "51a42374-e9c1-4877-8ae9-455cf6db76d6",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

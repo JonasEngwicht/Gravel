@@ -1,0 +1,37 @@
+{
+  "id": "co-broomfield-aggregate-industries",
+  "slug": "aggregate-industries",
+  "name": "Aggregate Industries",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "aggregate industries",
+  "address": {
+    "street": "855 Compton St",
+    "city": "Broomfield",
+    "state": "CO",
+    "zip": "80020"
+  },
+  "location": {
+    "lat": 39.928329,
+    "lng": -105.098228
+  },
+  "contact": {
+    "phone": "(303) 466-4924",
+    "website": "http://aggregate.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "641db933-606e-4a32-9622-272ed3375e98",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

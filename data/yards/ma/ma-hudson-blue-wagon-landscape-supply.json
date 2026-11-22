@@ -1,0 +1,36 @@
+{
+  "id": "ma-hudson-blue-wagon-landscape-supply",
+  "slug": "blue-wagon-landscape-supply",
+  "name": "Blue Wagon Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "13 Brent Dr",
+    "city": "Hudson",
+    "state": "MA",
+    "zip": "01749"
+  },
+  "location": {
+    "lat": 42.387207,
+    "lng": -71.508659
+  },
+  "contact": {
+    "phone": "(978) 310-7486",
+    "website": "http://www.bluewagonls.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5b2fafc4-9bce-48f8-88ba-cef8bcfed608",
+    "confidence": 0.871,
+    "merged_records": 1
+  }
+}

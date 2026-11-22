@@ -1,0 +1,36 @@
+{
+  "id": "ny-warners-rinaldi-topsoil",
+  "slug": "rinaldi-topsoil",
+  "name": "Rinaldi Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6717 Winchell Rd",
+    "city": "Warners",
+    "state": "NY",
+    "zip": "13164"
+  },
+  "location": {
+    "lat": 43.095631,
+    "lng": -76.266716
+  },
+  "contact": {
+    "phone": "(315) 487-6622",
+    "website": "http://www.RinaldiTopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e3231b66-3ad2-4225-a0e0-49d16efafaa0",
+    "confidence": 0.948,
+    "merged_records": 1
+  }
+}

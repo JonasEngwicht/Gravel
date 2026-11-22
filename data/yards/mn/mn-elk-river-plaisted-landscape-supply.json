@@ -1,0 +1,48 @@
+{
+  "id": "mn-elk-river-plaisted-landscape-supply",
+  "slug": "plaisted-landscape-supply",
+  "name": "Plaisted Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11555 205th Ave NW",
+    "city": "Elk River",
+    "state": "MN",
+    "zip": "55330"
+  },
+  "location": {
+    "lat": 45.342201,
+    "lng": -93.563332
+  },
+  "contact": {
+    "phone": "(763) 441-7111",
+    "website": "http://plaistedlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "67dc8c3e-c33a-4e5a-96cb-1b9c3ac99d58",
+    "confidence": 0.932,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2100496",
+      "name": "Plaisted Sand",
+      "operator": "Plaisted Companies Inc.",
+      "status": "Active",
+      "status_since": "2017-04-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 18
+    }
+  ]
+}

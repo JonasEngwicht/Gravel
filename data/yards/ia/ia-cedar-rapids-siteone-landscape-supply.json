@@ -1,0 +1,37 @@
+{
+  "id": "ia-cedar-rapids-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "9805 Atlantic Dr SW",
+    "city": "Cedar Rapids",
+    "state": "IA",
+    "zip": "52404"
+  },
+  "location": {
+    "lat": 41.885071,
+    "lng": -91.678162
+  },
+  "contact": {
+    "phone": "(319) 848-4120",
+    "website": "https://www.siteone.com/store/660"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b172b446-db5e-451d-ba2a-f11657d7ab88",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

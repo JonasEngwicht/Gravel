@@ -1,0 +1,47 @@
+{
+  "id": "pa-wattsburg-safford-sand-and-gravel-inc",
+  "slug": "safford-sand-and-gravel-inc",
+  "name": "Safford Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12907 Half Moon Rd",
+    "city": "Wattsburg",
+    "state": "PA",
+    "zip": "16442"
+  },
+  "location": {
+    "lat": 42.043552,
+    "lng": -79.825745
+  },
+  "contact": {
+    "phone": "(716) 252-2004"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e62d0c32-e465-4168-8bf5-c4f76c21dbea",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3606131",
+      "name": "Lowville Pit 1",
+      "operator": "Safford Sand and Gravel INC.",
+      "status": "Intermittent",
+      "status_since": "2025-07-17",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

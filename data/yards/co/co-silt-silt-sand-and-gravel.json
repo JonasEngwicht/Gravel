@@ -1,0 +1,36 @@
+{
+  "id": "co-silt-silt-sand-and-gravel",
+  "slug": "silt-sand-and-gravel",
+  "name": "Silt Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6533 County Road 346",
+    "city": "Silt",
+    "state": "CO",
+    "zip": "81652"
+  },
+  "location": {
+    "lat": 39.539352,
+    "lng": -107.675667
+  },
+  "contact": {
+    "phone": "(970) 876-0154",
+    "website": "https://www.ws-materials.com/contact"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "70144775-6090-4928-81ae-b25e6bc53fc5",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

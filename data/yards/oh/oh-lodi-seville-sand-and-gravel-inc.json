@@ -1,0 +1,32 @@
+{
+  "id": "oh-lodi-seville-sand-and-gravel-inc",
+  "slug": "seville-sand-and-gravel-inc",
+  "name": "Seville Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "8215 Seville Rd",
+    "city": "Lodi",
+    "state": "OH",
+    "zip": "44254"
+  },
+  "location": {
+    "lat": 41.013084,
+    "lng": -81.986313
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "267e1a66-7e0f-44e9-ae36-a0dcf3384040",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "az-tempe-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "623 S Perry Ln",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": "85288"
+  },
+  "location": {
+    "lat": 33.424301,
+    "lng": -111.903473
+  },
+  "contact": {
+    "phone": "(480) 557-0032",
+    "website": "https://www.siteone.com/en/store/285"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8fa612b8-2134-456d-bcbf-fb7d495686b9",
+    "confidence": 0.997,
+    "merged_records": 1
+  }
+}

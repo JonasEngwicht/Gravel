@@ -1,0 +1,48 @@
+{
+  "id": "pa-titusville-hasbrouck-s-sand-and-gravel",
+  "slug": "hasbrouck-s-sand-and-gravel",
+  "name": "Hasbrouck's Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "12225 Gresham Rd",
+    "city": "Titusville",
+    "state": "PA",
+    "zip": "16354"
+  },
+  "location": {
+    "lat": 41.644314,
+    "lng": -79.721924
+  },
+  "contact": {
+    "phone": "(814) 827-1721",
+    "website": "http://statecontracts.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0f62b97d-6466-4797-b2d7-2d272cd7d371",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3603188",
+      "name": "Hasbrouck Sand & Gravel",
+      "operator": "Hasbrouck Sand & Gravel",
+      "status": "Intermittent",
+      "status_since": "2022-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

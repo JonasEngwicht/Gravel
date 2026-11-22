@@ -1,0 +1,41 @@
+{
+  "id": "az-tucson-cemex-construction-materials-south-cemex-apex",
+  "slug": "cemex-construction-materials-south-cemex-apex",
+  "name": "CEMEX Construction Materials South – Cemex-Apex",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Tucson",
+    "state": "AZ",
+    "zip": "85654"
+  },
+  "location": {
+    "lat": 32.418056,
+    "lng": -111.160278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202585"
+  },
+  "msha": [
+    {
+      "mine_id": "0202585",
+      "name": "Cemex-Apex",
+      "operator": "CEMEX Construction Materials South LLC",
+      "status": "Active",
+      "status_since": "1993-05-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

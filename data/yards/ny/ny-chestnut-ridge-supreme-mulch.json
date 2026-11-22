@@ -1,0 +1,36 @@
+{
+  "id": "ny-chestnut-ridge-supreme-mulch",
+  "slug": "supreme-mulch",
+  "name": "Supreme Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "755 Chestnut Ridge Rd",
+    "city": "Chestnut Ridge",
+    "state": "NY",
+    "zip": "10977"
+  },
+  "location": {
+    "lat": 41.086052,
+    "lng": -74.054878
+  },
+  "contact": {
+    "phone": "(201) 394-2806",
+    "website": "http://www.suprememulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "053c5e54-a1cc-48af-a12a-66708a15ad43",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

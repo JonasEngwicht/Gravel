@@ -1,0 +1,48 @@
+{
+  "id": "az-san-tan-valley-arcosa-aggregates-queen-creek",
+  "slug": "arcosa-aggregates-queen-creek",
+  "name": "Arcosa Aggregates- Queen Creek",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "39350 N Schnepf Rd",
+    "city": "San Tan Valley",
+    "state": "AZ",
+    "zip": "85140"
+  },
+  "location": {
+    "lat": 33.235298,
+    "lng": -111.533386
+  },
+  "contact": {
+    "phone": "(480) 987-7917",
+    "website": "https://www.arcosaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "37fa4ab5-09af-4bfe-89c8-1b93675ce984",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0202821",
+      "name": "1010 Queen Creek #1",
+      "operator": "Arcosa Aggregates West, LLC.",
+      "status": "Abandoned",
+      "status_since": "2024-08-14",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

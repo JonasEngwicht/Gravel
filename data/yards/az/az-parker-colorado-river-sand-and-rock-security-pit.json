@@ -1,0 +1,41 @@
+{
+  "id": "az-parker-colorado-river-sand-and-rock-security-pit",
+  "slug": "colorado-river-sand-and-rock-security-pit",
+  "name": "Colorado River Sand & Rock – Security Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Parker",
+    "state": "AZ",
+    "zip": "85334"
+  },
+  "location": {
+    "lat": 33.645278,
+    "lng": -114.492778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0203010"
+  },
+  "msha": [
+    {
+      "mine_id": "0203010",
+      "name": "Security Pit",
+      "operator": "Colorado River Sand & Rock",
+      "status": "Active",
+      "status_since": "2023-05-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "mi-meridian-twp-hammond-farms-landscape-supply",
+  "slug": "hammond-farms-landscape-supply",
+  "name": "Hammond Farms Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2247 E Saginaw St",
+    "city": "Meridian Twp",
+    "state": "MI",
+    "zip": "48823"
+  },
+  "location": {
+    "lat": 42.761932,
+    "lng": -84.435585
+  },
+  "contact": {
+    "phone": "(517) 999-0788",
+    "website": "http://www.hammondfarms.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c6e4a910-b6bd-4371-87d6-fe3e79512118",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

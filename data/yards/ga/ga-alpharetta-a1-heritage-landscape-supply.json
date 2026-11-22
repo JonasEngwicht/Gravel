@@ -1,0 +1,36 @@
+{
+  "id": "ga-alpharetta-a1-heritage-landscape-supply",
+  "slug": "a1-heritage-landscape-supply",
+  "name": "A1-Heritage Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4975 Atlanta Hwy",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30004"
+  },
+  "location": {
+    "lat": 34.154488,
+    "lng": -84.240456
+  },
+  "contact": {
+    "phone": "(770) 212-9733",
+    "website": "https://www.a1hls.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "8c5c9494-0f45-434f-906d-a1c295e08415",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

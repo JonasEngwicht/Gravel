@@ -1,0 +1,41 @@
+{
+  "id": "ny-alfred-station-new-enterprise-stone-and-lime-co-alfred-station",
+  "slug": "new-enterprise-stone-and-lime-co-alfred-station",
+  "name": "New Enterprise Stone and Lime Co – Alfred Station",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Alfred Station",
+    "state": "NY",
+    "zip": "14802"
+  },
+  "location": {
+    "lat": 42.269167,
+    "lng": -77.761389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000804"
+  },
+  "msha": [
+    {
+      "mine_id": "3000804",
+      "name": "Alfred Station",
+      "operator": "New Enterprise Stone and Lime Co., Inc.",
+      "status": "Intermittent",
+      "status_since": "2024-12-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

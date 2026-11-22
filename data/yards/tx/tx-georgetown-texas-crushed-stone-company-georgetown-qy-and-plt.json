@@ -1,0 +1,41 @@
+{
+  "id": "tx-georgetown-texas-crushed-stone-company-georgetown-qy-and-plt",
+  "slug": "texas-crushed-stone-company-georgetown-qy-and-plt",
+  "name": "Texas Crushed Stone Company – Georgetown Qy & Plt",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Georgetown",
+    "state": "TX",
+    "zip": "78681"
+  },
+  "location": {
+    "lat": 30.600556,
+    "lng": -97.721389
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4100069"
+  },
+  "msha": [
+    {
+      "mine_id": "4100069",
+      "name": "Georgetown Qy & Plt",
+      "operator": "Texas Crushed Stone Company Inc",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 144
+    }
+  ]
+}

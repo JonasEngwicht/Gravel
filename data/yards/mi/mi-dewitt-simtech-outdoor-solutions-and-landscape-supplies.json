@@ -1,0 +1,36 @@
+{
+  "id": "mi-dewitt-simtech-outdoor-solutions-and-landscape-supplies",
+  "slug": "simtech-outdoor-solutions-and-landscape-supplies",
+  "name": "SimTech Outdoor Solutions and Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11390 Old U.S. 27",
+    "city": "Dewitt",
+    "state": "MI",
+    "zip": "48820"
+  },
+  "location": {
+    "lat": 42.851315,
+    "lng": -84.543243
+  },
+  "contact": {
+    "phone": "(517) 974-3447",
+    "website": "http://www.simtechoutdoor.net/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "55649e5f-4556-43ca-b32d-a5b9b8f7e344",
+    "confidence": 0.911,
+    "merged_records": 1
+  }
+}

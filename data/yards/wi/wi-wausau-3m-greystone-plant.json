@@ -1,0 +1,41 @@
+{
+  "id": "wi-wausau-3m-greystone-plant",
+  "slug": "3m-greystone-plant",
+  "name": "3M - Greystone Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wausau",
+    "state": "WI",
+    "zip": "54417"
+  },
+  "location": {
+    "lat": 45.055556,
+    "lng": -89.681111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4700119"
+  },
+  "msha": [
+    {
+      "mine_id": "4700119",
+      "name": "3M - Greystone Plant",
+      "operator": "3M Company",
+      "status": "Active",
+      "status_since": "2026-11-13",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 61
+    }
+  ]
+}

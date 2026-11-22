@@ -1,0 +1,36 @@
+{
+  "id": "ny-alden-l-m-stone-and-topsoil",
+  "slug": "l-m-stone-and-topsoil",
+  "name": "L M Stone and Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "11190 Walden Ave",
+    "city": "Alden",
+    "state": "NY",
+    "zip": "14004"
+  },
+  "location": {
+    "lat": 42.932434,
+    "lng": -78.571442
+  },
+  "contact": {
+    "phone": "(716) 683-1098",
+    "website": "http://Lmstonebuffalo.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f14c363-c331-4f21-b7da-7264896363a1",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "la-independence-barriere-construction",
+  "slug": "barriere-construction",
+  "name": "Barriere Construction",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Independence",
+    "state": "LA",
+    "zip": "70466"
+  },
+  "location": {
+    "lat": 30.606111,
+    "lng": -90.5025
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1601592"
+  },
+  "msha": [
+    {
+      "mine_id": "1601592",
+      "name": "Barriere West",
+      "operator": "Barriere Construction LLC",
+      "status": "Active",
+      "status_since": "2020-03-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

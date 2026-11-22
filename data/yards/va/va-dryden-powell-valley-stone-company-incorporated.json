@@ -1,0 +1,41 @@
+{
+  "id": "va-dryden-powell-valley-stone-company-incorporated",
+  "slug": "powell-valley-stone-company-incorporated",
+  "name": "Powell Valley Stone Company Incorporated",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Dryden",
+    "state": "VA",
+    "zip": "24263"
+  },
+  "location": {
+    "lat": 36.685278,
+    "lng": -83.117222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4404957"
+  },
+  "msha": [
+    {
+      "mine_id": "4404957",
+      "name": "Powell Valley Stone Company Incorporated",
+      "operator": "Powell Valley Stone Company, Inc.",
+      "status": "Active",
+      "status_since": "1996-10-21",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

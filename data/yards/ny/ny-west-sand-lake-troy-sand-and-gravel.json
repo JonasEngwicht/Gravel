@@ -1,0 +1,36 @@
+{
+  "id": "ny-west-sand-lake-troy-sand-and-gravel",
+  "slug": "troy-sand-and-gravel",
+  "name": "troy sand and gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3600 RT-43",
+    "city": "West Sand Lake",
+    "state": "NY",
+    "zip": "12196"
+  },
+  "location": {
+    "lat": 42.651287,
+    "lng": -73.602669
+  },
+  "contact": {
+    "phone": "(518) 684-5854",
+    "website": "http://bondedconcrete.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7aa43f31-d7e8-4fa3-9681-f2c977baa917",
+    "confidence": 0.809,
+    "merged_records": 1
+  }
+}

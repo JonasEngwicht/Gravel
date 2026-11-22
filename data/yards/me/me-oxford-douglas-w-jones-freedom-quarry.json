@@ -1,0 +1,41 @@
+{
+  "id": "me-oxford-douglas-w-jones-freedom-quarry",
+  "slug": "douglas-w-jones-freedom-quarry",
+  "name": "Douglas W. Jones – Freedom Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Oxford",
+    "state": "ME",
+    "zip": "04270"
+  },
+  "location": {
+    "lat": 44.153889,
+    "lng": -70.466111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1700914"
+  },
+  "msha": [
+    {
+      "mine_id": "1700914",
+      "name": "Freedom Quarry",
+      "operator": "Douglas W. Jones, Inc.",
+      "status": "Intermittent",
+      "status_since": "2021-12-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

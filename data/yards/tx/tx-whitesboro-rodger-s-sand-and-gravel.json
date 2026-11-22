@@ -1,0 +1,36 @@
+{
+  "id": "tx-whitesboro-rodger-s-sand-and-gravel",
+  "slug": "rodger-s-sand-and-gravel",
+  "name": "Rodger's Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "21687 Highway 377",
+    "city": "Whitesboro",
+    "state": "TX",
+    "zip": "76273"
+  },
+  "location": {
+    "lat": 33.713608,
+    "lng": -96.905045
+  },
+  "contact": {
+    "phone": "(903) 815-0288",
+    "website": "http://www.rodgerssandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "da98e86c-2342-458a-ac44-0b78909edd1f",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

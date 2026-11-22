@@ -1,0 +1,35 @@
+{
+  "id": "tn-helenwood-pave-grade-and-aggregate-inc",
+  "slug": "pave-grade-and-aggregate-inc",
+  "name": "Pave Grade & Aggregate, Inc.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "207 Old Jamestown Rd",
+    "city": "Helenwood",
+    "state": "TN",
+    "zip": "37755"
+  },
+  "location": {
+    "lat": 36.411007,
+    "lng": -84.520416
+  },
+  "contact": {
+    "phone": "(423) 569-7424"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "863d66eb-9554-461d-a58f-c18d0be95433",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

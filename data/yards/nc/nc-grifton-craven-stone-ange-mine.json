@@ -1,0 +1,41 @@
+{
+  "id": "nc-grifton-craven-stone-ange-mine",
+  "slug": "craven-stone-ange-mine",
+  "name": "Craven Stone – Ange Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Grifton",
+    "state": "NC",
+    "zip": "28530"
+  },
+  "location": {
+    "lat": 35.344167,
+    "lng": -77.318333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3102288"
+  },
+  "msha": [
+    {
+      "mine_id": "3102288",
+      "name": "Ange Mine",
+      "operator": "Craven Stone LLC",
+      "status": "Active",
+      "status_since": "2014-02-19",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

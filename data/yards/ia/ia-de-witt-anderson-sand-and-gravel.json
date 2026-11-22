@@ -1,0 +1,47 @@
+{
+  "id": "ia-de-witt-anderson-sand-and-gravel",
+  "slug": "anderson-sand-and-gravel",
+  "name": "Anderson Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2578 270th Ave",
+    "city": "De Witt",
+    "state": "IA",
+    "zip": "52742"
+  },
+  "location": {
+    "lat": 41.803482,
+    "lng": -90.569809
+  },
+  "contact": {
+    "phone": "(563) 659-5506"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "755f561c-0406-483e-b4f7-f8b1be16101e",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1302166",
+      "name": "Anderson Sand & Gravel LLC",
+      "operator": "Anderson Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2014-01-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 3
+    }
+  ]
+}

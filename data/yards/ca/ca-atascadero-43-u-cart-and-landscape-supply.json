@@ -1,0 +1,36 @@
+{
+  "id": "ca-atascadero-43-u-cart-and-landscape-supply",
+  "slug": "43-u-cart-and-landscape-supply",
+  "name": "43 U-Cart and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "6501 Via Ave",
+    "city": "Atascadero",
+    "state": "CA",
+    "zip": "93422"
+  },
+  "location": {
+    "lat": 35.50045,
+    "lng": -120.663681
+  },
+  "contact": {
+    "phone": "(805) 461-6411",
+    "website": "https://43ucartandlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "65094414-9db2-4307-9533-90833ff31eb9",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

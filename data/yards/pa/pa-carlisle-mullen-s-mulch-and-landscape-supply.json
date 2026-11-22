@@ -1,0 +1,36 @@
+{
+  "id": "pa-carlisle-mullen-s-mulch-and-landscape-supply",
+  "slug": "mullen-s-mulch-and-landscape-supply",
+  "name": "Mullen's Mulch and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1445 Holly Pike",
+    "city": "Carlisle",
+    "state": "PA",
+    "zip": "17015"
+  },
+  "location": {
+    "lat": 40.168488,
+    "lng": -77.192719
+  },
+  "contact": {
+    "phone": "(717) 462-9114",
+    "website": "https://www.mullensmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cb13991b-f98b-426b-b9dd-e7eb984ee0fd",
+    "confidence": 0.939,
+    "merged_records": 1
+  }
+}

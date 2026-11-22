@@ -1,0 +1,41 @@
+{
+  "id": "tn-savannah-johnson-construction",
+  "slug": "johnson-construction",
+  "name": "Johnson Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Savannah",
+    "state": "TN",
+    "zip": "38372"
+  },
+  "location": {
+    "lat": 35.193056,
+    "lng": -88.198056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4003601"
+  },
+  "msha": [
+    {
+      "mine_id": "4003601",
+      "name": "Johnson Construction Company",
+      "operator": "Johnson Construction Company",
+      "status": "Intermittent",
+      "status_since": "2023-12-12",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

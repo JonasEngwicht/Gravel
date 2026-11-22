@@ -1,0 +1,36 @@
+{
+  "id": "wi-loganville-holtz-lime-gravel-and-excavating-inc",
+  "slug": "holtz-lime-gravel-and-excavating-inc",
+  "name": "Holtz Lime, Gravel & Excavating, Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "S5992 Eli Valley Rd",
+    "city": "Loganville",
+    "state": "WI",
+    "zip": "53943"
+  },
+  "location": {
+    "lat": 43.428524,
+    "lng": -90.070236
+  },
+  "contact": {
+    "phone": "(608) 727-5634",
+    "website": "http://holtzlimegravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc4fd754-d2a2-4480-9d1b-20e558e15fa4",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

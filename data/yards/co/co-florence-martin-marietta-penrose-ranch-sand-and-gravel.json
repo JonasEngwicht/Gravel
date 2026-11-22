@@ -1,0 +1,37 @@
+{
+  "id": "co-florence-martin-marietta-penrose-ranch-sand-and-gravel",
+  "slug": "martin-marietta-penrose-ranch-sand-and-gravel",
+  "name": "Martin Marietta - Penrose Ranch Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "1481 State Highway 120",
+    "city": "Florence",
+    "state": "CO",
+    "zip": "81226"
+  },
+  "location": {
+    "lat": 38.384621,
+    "lng": -105.041191
+  },
+  "contact": {
+    "phone": "(720) 378-5515",
+    "website": "https://www.martinmarietta.com/locations/west/rocky-mountain-aggregates-district/penrose-ranch-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bf9f832f-0c7b-47bf-8169-d4d093c9af9d",
+    "confidence": 0.85,
+    "merged_records": 2
+  }
+}

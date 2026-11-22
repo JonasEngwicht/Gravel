@@ -1,0 +1,41 @@
+{
+  "id": "mo-ste-genevieve-roth-quarry",
+  "slug": "roth-quarry",
+  "name": "Roth Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ste. Genevieve",
+    "state": "MO",
+    "zip": "63670"
+  },
+  "location": {
+    "lat": 37.974722,
+    "lng": -90.1575
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2300185"
+  },
+  "msha": [
+    {
+      "mine_id": "2300185",
+      "name": "Roth Quarry LLC",
+      "operator": "Roth Quarry LLC",
+      "status": "Active",
+      "status_since": "2004-10-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 16
+    }
+  ]
+}

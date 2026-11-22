@@ -1,0 +1,48 @@
+{
+  "id": "in-kendallville-eshelman-sand-and-gravel",
+  "slug": "eshelman-sand-and-gravel",
+  "name": "Eshelman Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5999 E US Highway 6",
+    "city": "Kendallville",
+    "state": "IN",
+    "zip": "46755"
+  },
+  "location": {
+    "lat": 41.453278,
+    "lng": -85.308426
+  },
+  "contact": {
+    "phone": "(260) 347-0595",
+    "website": "https://www.eshelmaninc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "46859236-de6d-4ff8-9b01-c45f0f76c7a5",
+    "confidence": 0.998,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202150",
+      "name": "Eshelman Sand & Gravel",
+      "operator": "Eshelman Excavating Inc",
+      "status": "Intermittent",
+      "status_since": "1995-05-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nm-hagerman-j-and-h-services-finch-pit",
+  "slug": "j-and-h-services-finch-pit",
+  "name": "J & H Services – Finch Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Hagerman",
+    "state": "NM",
+    "zip": "88230"
+  },
+  "location": {
+    "lat": 33.1025,
+    "lng": -104.353333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902554"
+  },
+  "msha": [
+    {
+      "mine_id": "2902554",
+      "name": "Finch Pit",
+      "operator": "J & H Services Inc",
+      "status": "Active",
+      "status_since": "2024-01-09",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

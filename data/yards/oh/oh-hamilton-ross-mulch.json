@@ -1,0 +1,36 @@
+{
+  "id": "oh-hamilton-ross-mulch",
+  "slug": "ross-mulch",
+  "name": "Ross Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "2456 Ross Millville Rd",
+    "city": "Hamilton",
+    "state": "OH",
+    "zip": "45013"
+  },
+  "location": {
+    "lat": 39.308903,
+    "lng": -84.63504
+  },
+  "contact": {
+    "phone": "(513) 266-4052",
+    "website": "http://www.rossmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d08a23d7-f867-4866-993a-c5fea35d8419",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

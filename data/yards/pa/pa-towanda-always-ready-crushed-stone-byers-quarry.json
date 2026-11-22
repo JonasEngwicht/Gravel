@@ -1,0 +1,41 @@
+{
+  "id": "pa-towanda-always-ready-crushed-stone-byers-quarry",
+  "slug": "always-ready-crushed-stone-byers-quarry",
+  "name": "Always Ready Crushed Stone – Byers Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Towanda",
+    "state": "PA",
+    "zip": "18848"
+  },
+  "location": {
+    "lat": 41.7675,
+    "lng": -76.442778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3610174"
+  },
+  "msha": [
+    {
+      "mine_id": "3610174",
+      "name": "Byers Quarry",
+      "operator": "Always Ready Crushed Stone, Inc.",
+      "status": "Intermittent",
+      "status_since": "2023-09-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

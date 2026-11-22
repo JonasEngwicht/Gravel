@@ -1,0 +1,41 @@
+{
+  "id": "nm-albuquerque-calmat-placitas",
+  "slug": "calmat-placitas",
+  "name": "CalMat – Placitas",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87048"
+  },
+  "location": {
+    "lat": 35.284722,
+    "lng": -106.550833
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2901475"
+  },
+  "msha": [
+    {
+      "mine_id": "2901475",
+      "name": "Placitas",
+      "operator": "CalMat Co",
+      "status": "Active",
+      "status_since": "2026-02-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 11
+    }
+  ]
+}

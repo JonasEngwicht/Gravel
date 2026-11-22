@@ -1,0 +1,41 @@
+{
+  "id": "ok-perkins-kerns-construction",
+  "slug": "kerns-construction",
+  "name": "Kerns Construction",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Perkins",
+    "state": "OK",
+    "zip": "74059"
+  },
+  "location": {
+    "lat": 35.971667,
+    "lng": -97.051111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3401838"
+  },
+  "msha": [
+    {
+      "mine_id": "3401838",
+      "name": "Kerns Sand Pit #2",
+      "operator": "Kerns Construction Inc",
+      "status": "Intermittent",
+      "status_since": "2006-01-24",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

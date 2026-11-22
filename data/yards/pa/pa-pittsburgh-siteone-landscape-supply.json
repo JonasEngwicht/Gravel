@@ -1,0 +1,37 @@
+{
+  "id": "pa-pittsburgh-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "360 Bilmar Dr",
+    "city": "Pittsburgh",
+    "state": "PA",
+    "zip": "15205"
+  },
+  "location": {
+    "lat": 40.454975,
+    "lng": -80.106888
+  },
+  "contact": {
+    "phone": "(412) 928-9430",
+    "website": "https://www.siteone.com/store/661"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e7d34d3b-7324-4850-a825-babd5e351d35",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tn-murfreesboro-martin-marietta-altn-aggregates-murfreesboro-quarry-and-mill",
+  "slug": "martin-marietta-altn-aggregates-murfreesboro-quarry-and-mill",
+  "name": "Martin Marietta ALTN Aggregates – Murfreesboro Quarry & Mill",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Murfreesboro",
+    "state": "TN",
+    "zip": "37130"
+  },
+  "location": {
+    "lat": 35.875,
+    "lng": -86.337778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4000053"
+  },
+  "msha": [
+    {
+      "mine_id": "4000053",
+      "name": "Murfreesboro Quarry & Mill",
+      "operator": "Martin Marietta ALTN Aggregates, Inc.",
+      "status": "Active",
+      "status_since": "1975-07-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

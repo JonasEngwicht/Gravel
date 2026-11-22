@@ -1,0 +1,36 @@
+{
+  "id": "va-midlothian-landscape-supply-inc",
+  "slug": "landscape-supply-inc",
+  "name": "Landscape Supply Inc.",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2501 Oak Lake Blvd",
+    "city": "Midlothian",
+    "state": "VA",
+    "zip": "23112"
+  },
+  "location": {
+    "lat": 37.457211,
+    "lng": -77.628548
+  },
+  "contact": {
+    "phone": "(804) 744-5445",
+    "website": "http://www.landscapesupplyva.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9b9272b5-4ef4-41ae-862e-ab370ab3a9e6",
+    "confidence": 0.924,
+    "merged_records": 2
+  }
+}

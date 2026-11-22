@@ -1,0 +1,41 @@
+{
+  "id": "tn-jonesborough-martin-marietta-southeast-agg-operations-locust-mount-quarry",
+  "slug": "martin-marietta-southeast-agg-operations-locust-mount-quarry",
+  "name": "Martin Marietta Southeast Agg Operations – Locust Mount Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Jonesborough",
+    "state": "TN",
+    "zip": "37656"
+  },
+  "location": {
+    "lat": 36.345,
+    "lng": -82.5725
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4000122"
+  },
+  "msha": [
+    {
+      "mine_id": "4000122",
+      "name": "Locust Mount Quarry",
+      "operator": "Martin Marietta Southeast Agg Operations, LLC",
+      "status": "Active",
+      "status_since": "2012-05-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

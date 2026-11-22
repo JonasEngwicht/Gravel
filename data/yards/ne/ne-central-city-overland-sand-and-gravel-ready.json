@@ -1,0 +1,36 @@
+{
+  "id": "ne-central-city-overland-sand-and-gravel-ready",
+  "slug": "overland-sand-and-gravel-ready",
+  "name": "Overland Sand & Gravel Ready",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1576 L Rd",
+    "city": "Central City",
+    "state": "NE",
+    "zip": "68826"
+  },
+  "location": {
+    "lat": 41.089958,
+    "lng": -98.006508
+  },
+  "contact": {
+    "phone": "(402) 434-1771",
+    "website": "http://www.overlandsandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "668152ed-3061-458a-ade5-60cf7af1e62f",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

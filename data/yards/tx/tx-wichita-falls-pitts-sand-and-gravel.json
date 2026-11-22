@@ -1,0 +1,35 @@
+{
+  "id": "tx-wichita-falls-pitts-sand-and-gravel",
+  "slug": "pitts-sand-and-gravel",
+  "name": "Pitts Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6007 Seymour Hwy",
+    "city": "Wichita Falls",
+    "state": "TX",
+    "zip": "76310"
+  },
+  "location": {
+    "lat": 33.872772,
+    "lng": -98.587189
+  },
+  "contact": {
+    "phone": "(940) 692-3290"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "71461b2e-c488-4182-a3f9-39390cbd9028",
+    "confidence": 0.95,
+    "merged_records": 2
+  }
+}

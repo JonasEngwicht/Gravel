@@ -1,0 +1,36 @@
+{
+  "id": "mi-rockford-cannonsburg-sand-and-gravel",
+  "slug": "cannonsburg-sand-and-gravel",
+  "name": "Cannonsburg Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "10025 Belding Rd NE",
+    "city": "Rockford",
+    "state": "MI",
+    "zip": "49341"
+  },
+  "location": {
+    "lat": 43.085361,
+    "lng": -85.418312
+  },
+  "contact": {
+    "phone": "(616) 691-8098",
+    "website": "http://www.cannonsburgsandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9bab2eb4-44c4-40ce-ad71-869dbe8c442b",
+    "confidence": 0.983,
+    "merged_records": 2
+  }
+}

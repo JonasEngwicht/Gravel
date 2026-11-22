@@ -1,0 +1,41 @@
+{
+  "id": "va-ruther-glen-luck-stone-caroline-plant",
+  "slug": "luck-stone-caroline-plant",
+  "name": "Luck Stone – Caroline Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Ruther Glen",
+    "state": "VA",
+    "zip": "22514"
+  },
+  "location": {
+    "lat": 38.005278,
+    "lng": -77.334167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4404502"
+  },
+  "msha": [
+    {
+      "mine_id": "4404502",
+      "name": "Caroline Plant",
+      "operator": "Luck Stone Corporation",
+      "status": "Active",
+      "status_since": "1979-02-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

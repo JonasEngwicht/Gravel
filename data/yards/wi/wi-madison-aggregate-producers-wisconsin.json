@@ -1,0 +1,36 @@
+{
+  "id": "wi-madison-aggregate-producers-wisconsin",
+  "slug": "aggregate-producers-wisconsin",
+  "name": "Aggregate Producers-wisconsin",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "119 Martin Luther King Jr Blvd",
+    "city": "Madison",
+    "state": "WI",
+    "zip": "53703"
+  },
+  "location": {
+    "lat": 43.07357,
+    "lng": -89.382011
+  },
+  "contact": {
+    "phone": "(608) 283-2595",
+    "website": "https://aggregateproducers.org"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "422c2472-b514-4e95-8d12-67370caf1e26",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

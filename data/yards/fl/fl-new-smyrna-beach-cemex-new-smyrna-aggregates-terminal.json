@@ -1,0 +1,36 @@
+{
+  "id": "fl-new-smyrna-beach-cemex-new-smyrna-aggregates-terminal",
+  "slug": "cemex-new-smyrna-aggregates-terminal",
+  "name": "CEMEX New Smyrna Aggregates Terminal",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "507 South Myrtle Avenue",
+    "city": "New Smyrna Beach",
+    "state": "FL",
+    "zip": "32168"
+  },
+  "location": {
+    "lat": 29.01989,
+    "lng": -80.926163
+  },
+  "contact": {
+    "phone": "(800) 992-3639",
+    "website": "https://www.cemexusa.com/-/new-smyrna-aggregates-terminal"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d88295a0-9208-4481-9bde-78ad99be4934",
+    "confidence": 0.998,
+    "merged_records": 1
+  }
+}

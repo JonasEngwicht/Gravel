@@ -1,0 +1,41 @@
+{
+  "id": "il-nokomis-heidelberg-materials-midwest-agg-nokomis-quarry",
+  "slug": "heidelberg-materials-midwest-agg-nokomis-quarry",
+  "name": "Heidelberg Materials Midwest Agg – Nokomis Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Nokomis",
+    "state": "IL",
+    "zip": "62075"
+  },
+  "location": {
+    "lat": 39.329722,
+    "lng": -89.289444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100024"
+  },
+  "msha": [
+    {
+      "mine_id": "1100024",
+      "name": "Nokomis Quarry",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "1998-10-22",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 26
+    }
+  ]
+}

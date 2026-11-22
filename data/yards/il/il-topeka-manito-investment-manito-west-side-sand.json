@@ -1,0 +1,41 @@
+{
+  "id": "il-topeka-manito-investment-manito-west-side-sand",
+  "slug": "manito-investment-manito-west-side-sand",
+  "name": "Manito Investment – Manito West Side Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Topeka",
+    "state": "IL",
+    "zip": "61567"
+  },
+  "location": {
+    "lat": 40.379444,
+    "lng": -89.909722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1102784"
+  },
+  "msha": [
+    {
+      "mine_id": "1102784",
+      "name": "Manito West Side Sand",
+      "operator": "Manito Investment Co.",
+      "status": "Active",
+      "status_since": "2013-03-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

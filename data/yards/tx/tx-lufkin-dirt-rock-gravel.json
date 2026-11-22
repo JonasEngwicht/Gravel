@@ -1,0 +1,35 @@
+{
+  "id": "tx-lufkin-dirt-rock-gravel",
+  "slug": "dirt-rock-gravel",
+  "name": "Dirt Rock Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6409 S Highway 59",
+    "city": "Lufkin",
+    "state": "TX",
+    "zip": "75901"
+  },
+  "location": {
+    "lat": 31.250441,
+    "lng": -94.752281
+  },
+  "contact": {
+    "phone": "(936) 829-4335"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3cb02a1d-d397-4509-9fa0-50f748732001",
+    "confidence": 0.85,
+    "merged_records": 1
+  }
+}

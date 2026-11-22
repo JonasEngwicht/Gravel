@@ -1,0 +1,41 @@
+{
+  "id": "tx-wilson-mks-construction-newton-pit",
+  "slug": "mks-construction-newton-pit",
+  "name": "MKS Construction – Newton Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Wilson",
+    "state": "TX",
+    "zip": "79381"
+  },
+  "location": {
+    "lat": 33.3227,
+    "lng": -101.748
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105850"
+  },
+  "msha": [
+    {
+      "mine_id": "4105850",
+      "name": "Newton Pit",
+      "operator": "MKS Construction",
+      "status": "Intermittent",
+      "status_since": "2026-03-31",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

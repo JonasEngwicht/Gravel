@@ -1,0 +1,35 @@
+{
+  "id": "wi-menomonee-falls-the-mulch-guys-llc",
+  "slug": "the-mulch-guys-llc",
+  "name": "The Mulch Guys Llc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "W185N7493 Narrow Ln",
+    "city": "Menomonee Falls",
+    "state": "WI",
+    "zip": "53051"
+  },
+  "location": {
+    "lat": 43.154247,
+    "lng": -88.141716
+  },
+  "contact": {
+    "phone": "(262) 719-3402"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "95f92506-883b-48b5-9601-f74120fccccf",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

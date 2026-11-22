@@ -1,0 +1,36 @@
+{
+  "id": "ca-marysville-teichert-aggregates-4249-hammonton-smartsville-rd",
+  "slug": "teichert-aggregates-4249-hammonton-smartsville-rd",
+  "name": "Teichert Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "4249 Hammonton Smartsville Rd",
+    "city": "Marysville",
+    "state": "CA",
+    "zip": "95901"
+  },
+  "location": {
+    "lat": 39.163628,
+    "lng": -121.454712
+  },
+  "contact": {
+    "phone": "(530) 743-6111",
+    "website": "http://teichert.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "addf0904-68d0-4a83-93f2-859be85a4885",
+    "confidence": 0.517,
+    "merged_records": 1
+  }
+}

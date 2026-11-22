@@ -1,0 +1,36 @@
+{
+  "id": "la-scott-port-aggregates-inc-scott",
+  "slug": "port-aggregates-inc-scott",
+  "name": "Port Aggregates Inc / Scott",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1131 Delhomme Ave",
+    "city": "Scott",
+    "state": "LA",
+    "zip": "70583"
+  },
+  "location": {
+    "lat": 30.235882,
+    "lng": -92.107742
+  },
+  "contact": {
+    "phone": "(337) 233-4933",
+    "website": "http://www.portaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "62911a9b-cb77-40ca-a981-43d3a9f3ad18",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

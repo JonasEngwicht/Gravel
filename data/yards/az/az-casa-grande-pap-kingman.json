@@ -1,0 +1,41 @@
+{
+  "id": "az-casa-grande-pap-kingman",
+  "slug": "pap-kingman",
+  "name": "PAP Kingman",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Casa Grande",
+    "state": "AZ",
+    "zip": "86401"
+  },
+  "location": {
+    "lat": 35.2,
+    "lng": -113.898889
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202870"
+  },
+  "msha": [
+    {
+      "mine_id": "0202870",
+      "name": "PAP Kingman",
+      "operator": "Pap Llc",
+      "status": "Intermittent",
+      "status_since": "2024-06-09",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

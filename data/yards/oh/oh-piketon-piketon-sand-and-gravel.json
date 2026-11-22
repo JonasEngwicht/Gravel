@@ -1,0 +1,48 @@
+{
+  "id": "oh-piketon-piketon-sand-and-gravel",
+  "slug": "piketon-sand-and-gravel",
+  "name": "Piketon Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3293 US Highway 23",
+    "city": "Piketon",
+    "state": "OH",
+    "zip": "45661"
+  },
+  "location": {
+    "lat": 39.004383,
+    "lng": -83.026947
+  },
+  "contact": {
+    "phone": "(740) 289-2316",
+    "website": "https://heidelbergmaterials.us"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d5ba24fa-b969-431a-8768-e634e292f199",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3302633",
+      "name": "Piketon Sand & Gravel",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "2023-11-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 5
+    }
+  ]
+}

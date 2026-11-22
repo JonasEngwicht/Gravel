@@ -1,0 +1,37 @@
+{
+  "id": "mi-holland-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "11380 E Lakewood Blvd",
+    "city": "Holland",
+    "state": "MI",
+    "zip": "49424"
+  },
+  "location": {
+    "lat": 42.804337,
+    "lng": -86.062775
+  },
+  "contact": {
+    "phone": "(616) 738-0382",
+    "website": "https://www.siteone.com/store/39"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "95f77b7a-c5b0-4538-b5cf-e7b5bf28c855",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

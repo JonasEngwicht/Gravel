@@ -1,0 +1,46 @@
+{
+  "id": "mi-owosso-fuoss-gravel-co",
+  "slug": "fuoss-gravel-co",
+  "name": "Fuoss Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "777 Busha Rd",
+    "city": "Owosso",
+    "state": "MI",
+    "zip": "48867"
+  },
+  "location": {
+    "lat": 42.988483,
+    "lng": -84.270401
+  },
+  "contact": {
+    "phone": "(989) 725-2084"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a96e1204-a64a-4d20-a9eb-4d455fc21a48",
+    "confidence": 0.973,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2000718",
+      "name": "Fuoss Pit",
+      "operator": "Fuoss Gravel Company",
+      "status": "Abandoned",
+      "status_since": "2024-03-13",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "fl-lake-wales-cemex-construction-materials-florida-lake-wales-sand-mine",
+  "slug": "cemex-construction-materials-florida-lake-wales-sand-mine",
+  "name": "CEMEX Construction Materials Florida – Lake Wales Sand Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lake Wales",
+    "state": "FL",
+    "zip": "33853"
+  },
+  "location": {
+    "lat": 27.901389,
+    "lng": -81.506111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801269"
+  },
+  "msha": [
+    {
+      "mine_id": "0801269",
+      "name": "Lake Wales Sand Mine",
+      "operator": "CEMEX Construction Materials Florida, LLC",
+      "status": "Active",
+      "status_since": "2008-12-19",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

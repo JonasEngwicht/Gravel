@@ -1,0 +1,37 @@
+{
+  "id": "ar-malvern-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "4202 Highway 270",
+    "city": "Malvern",
+    "state": "AR",
+    "zip": "72104"
+  },
+  "location": {
+    "lat": 34.435875,
+    "lng": -92.85627
+  },
+  "contact": {
+    "phone": "(501) 844-4707",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ea110a85-8909-45bf-8a12-fc3e16e4c5df",
+    "confidence": 0.604,
+    "merged_records": 1
+  }
+}

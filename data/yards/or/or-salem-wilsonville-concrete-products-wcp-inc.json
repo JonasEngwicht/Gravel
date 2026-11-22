@@ -1,0 +1,41 @@
+{
+  "id": "or-salem-wilsonville-concrete-products-wcp-inc",
+  "slug": "wilsonville-concrete-products-wcp-inc",
+  "name": "Wilsonville Concrete Products – WCP Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Salem",
+    "state": "OR",
+    "zip": "97302"
+  },
+  "location": {
+    "lat": 44.919722,
+    "lng": -123.098333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3500472"
+  },
+  "msha": [
+    {
+      "mine_id": "3500472",
+      "name": "WCP Inc",
+      "operator": "Wilsonville Concrete Products",
+      "status": "Active",
+      "status_since": "2019-08-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

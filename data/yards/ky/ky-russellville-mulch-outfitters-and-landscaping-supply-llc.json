@@ -1,0 +1,36 @@
+{
+  "id": "ky-russellville-mulch-outfitters-and-landscaping-supply-llc",
+  "slug": "mulch-outfitters-and-landscaping-supply-llc",
+  "name": "Mulch Outfitters & Landscaping Supply, Llc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1850 Nashville Rd, Russellville, KY 42276-8803, United St",
+    "city": "Russellville",
+    "state": "KY",
+    "zip": "42276"
+  },
+  "location": {
+    "lat": 36.796928,
+    "lng": -86.874474
+  },
+  "contact": {
+    "phone": "(270) 847-4920",
+    "website": "https://www.facebook.com/people/Mulch-Outfitters-and-Landscaping-Supply-LLC/100063537192310/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "834f3445-a5cb-4225-b27b-9645c351e82c",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

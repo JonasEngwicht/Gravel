@@ -1,0 +1,59 @@
+{
+  "id": "ca-irwindale-martin-marietta-irwindale-aggregates",
+  "slug": "martin-marietta-irwindale-aggregates",
+  "name": "Martin Marietta - Irwindale Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "13550 Live Oak Ave",
+    "city": "Irwindale",
+    "state": "CA",
+    "zip": "91706"
+  },
+  "location": {
+    "lat": 34.107086,
+    "lng": -117.985184
+  },
+  "contact": {
+    "phone": "(888) 304-2274",
+    "website": "https://www.martinmarietta.com/locations/west/california-aggregates-district/irwindale-aggregates"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0f58724f-6810-4e86-960a-02aefd95b359",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0401763",
+      "name": "Irwindale Plant",
+      "operator": "United Rock Products Corp",
+      "status": "Active",
+      "status_since": "1973-01-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 35
+    },
+    {
+      "mine_id": "0401838",
+      "name": "Irwindale Aggregates",
+      "operator": "Martin Marietta Southern California Aggregates,LLC",
+      "status": "Active",
+      "status_since": "1973-01-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 43
+    }
+  ]
+}

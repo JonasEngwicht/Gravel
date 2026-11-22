@@ -1,0 +1,36 @@
+{
+  "id": "fl-wesley-chapel-one-stop-landscape-supply",
+  "slug": "one-stop-landscape-supply",
+  "name": "One Stop Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "34100 CR 54",
+    "city": "Wesley Chapel",
+    "state": "FL",
+    "zip": "33543"
+  },
+  "location": {
+    "lat": 28.218252,
+    "lng": -82.253014
+  },
+  "contact": {
+    "phone": "(813) 355-3480",
+    "website": "http://Onestoplandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "685de295-624f-4b21-8c77-85a883fbc169",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

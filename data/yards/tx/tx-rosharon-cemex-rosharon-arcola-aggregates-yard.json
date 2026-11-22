@@ -1,0 +1,36 @@
+{
+  "id": "tx-rosharon-cemex-rosharon-arcola-aggregates-yard",
+  "slug": "cemex-rosharon-arcola-aggregates-yard",
+  "name": "CEMEX Rosharon Arcola Aggregates Yard",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "330 Fenn Rd",
+    "city": "Rosharon",
+    "state": "TX",
+    "zip": "77583"
+  },
+  "location": {
+    "lat": 29.497492,
+    "lng": -95.467392
+  },
+  "contact": {
+    "phone": "(713) 332-4070",
+    "website": "https://www.cemexusa.com/-/rosharon-arcola-aggregates-yard"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f2b94234-c855-4b5b-a703-0b97a1888d60",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

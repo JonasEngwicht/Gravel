@@ -1,0 +1,35 @@
+{
+  "id": "ma-middleboro-irish-roots-landscape-materials",
+  "slug": "irish-roots-landscape-materials",
+  "name": "Irish Roots Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "4 Abbey Ln",
+    "city": "Middleboro",
+    "state": "MA",
+    "zip": "02346"
+  },
+  "location": {
+    "lat": 41.858219,
+    "lng": -70.865402
+  },
+  "contact": {
+    "phone": "(508) 923-0612"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "97a9ff8d-535b-411b-95d8-294720fc5263",
+    "confidence": 0.642,
+    "merged_records": 1
+  }
+}

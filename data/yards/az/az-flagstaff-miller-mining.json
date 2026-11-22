@@ -1,0 +1,41 @@
+{
+  "id": "az-flagstaff-miller-mining",
+  "slug": "miller-mining",
+  "name": "Miller Mining",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Flagstaff",
+    "state": "AZ",
+    "zip": "86011"
+  },
+  "location": {
+    "lat": 35.219444,
+    "lng": -111.552222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0202307"
+  },
+  "msha": [
+    {
+      "mine_id": "0202307",
+      "name": "Miller Mine",
+      "operator": "Miller Mining, Inc.",
+      "status": "Active",
+      "status_since": "2023-11-08",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

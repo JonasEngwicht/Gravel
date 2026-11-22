@@ -1,0 +1,36 @@
+{
+  "id": "mi-fayette-twp-glacial-sand-and-gravel",
+  "slug": "glacial-sand-and-gravel",
+  "name": "Glacial Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1660 E Chicago Rd",
+    "city": "Fayette Twp",
+    "state": "MI",
+    "zip": "49250"
+  },
+  "location": {
+    "lat": 41.999294,
+    "lng": -84.630119
+  },
+  "contact": {
+    "phone": "(517) 849-7575",
+    "website": "http://www.glaciernw.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f9576670-a75a-4c9b-ba22-dc5d6f03b3c8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

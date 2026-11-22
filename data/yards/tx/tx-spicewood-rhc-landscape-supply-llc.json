@@ -1,0 +1,36 @@
+{
+  "id": "tx-spicewood-rhc-landscape-supply-llc",
+  "slug": "rhc-landscape-supply-llc",
+  "name": "Rhc Landscape Supply Llc",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "21210 State Highway 71 W",
+    "city": "Spicewood",
+    "state": "TX",
+    "zip": "78669"
+  },
+  "location": {
+    "lat": 30.354156,
+    "lng": -98.06498
+  },
+  "contact": {
+    "phone": "(512) 953-8498",
+    "website": "https://rhc-landscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7ff0fb04-3c3a-4fa8-b14d-8ab11bf68042",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

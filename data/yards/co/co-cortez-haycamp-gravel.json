@@ -1,0 +1,35 @@
+{
+  "id": "co-cortez-haycamp-gravel",
+  "slug": "haycamp-gravel",
+  "name": "Haycamp Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "512 N Broadway",
+    "city": "Cortez",
+    "state": "CO",
+    "zip": "81321"
+  },
+  "location": {
+    "lat": 37.354347,
+    "lng": -108.588997
+  },
+  "contact": {
+    "phone": "(970) 565-3388"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "c1a9ffef-eb97-4b8d-b8d8-39a975f4b918",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

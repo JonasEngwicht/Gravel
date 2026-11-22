@@ -1,0 +1,41 @@
+{
+  "id": "or-corvalis-river-bend-mtls-riverbend-materials-corvallis",
+  "slug": "river-bend-mtls-riverbend-materials-corvallis",
+  "name": "River Bend Mtls – RiverBend Materials Corvallis",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Corvalis",
+    "state": "OR",
+    "zip": "97333"
+  },
+  "location": {
+    "lat": 44.488611,
+    "lng": -123.26
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3502705"
+  },
+  "msha": [
+    {
+      "mine_id": "3502705",
+      "name": "RiverBend Materials Corvallis",
+      "operator": "River Bend Mtls",
+      "status": "Active",
+      "status_since": "1990-04-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

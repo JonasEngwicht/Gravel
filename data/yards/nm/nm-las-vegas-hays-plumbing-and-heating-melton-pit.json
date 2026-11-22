@@ -1,0 +1,41 @@
+{
+  "id": "nm-las-vegas-hays-plumbing-and-heating-melton-pit",
+  "slug": "hays-plumbing-and-heating-melton-pit",
+  "name": "Hays Plumbing and Heating – Melton Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Las Vegas",
+    "state": "NM",
+    "zip": "87701"
+  },
+  "location": {
+    "lat": 35.582778,
+    "lng": -105.153611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2902542"
+  },
+  "msha": [
+    {
+      "mine_id": "2902542",
+      "name": "Melton Pit",
+      "operator": "Hays Plumbing and Heating",
+      "status": "Active",
+      "status_since": "2026-02-13",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

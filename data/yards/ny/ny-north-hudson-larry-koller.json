@@ -1,0 +1,41 @@
+{
+  "id": "ny-north-hudson-larry-koller",
+  "slug": "larry-koller",
+  "name": "Larry Koller",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "North Hudson",
+    "state": "NY",
+    "zip": "12855"
+  },
+  "location": {
+    "lat": 44.013333,
+    "lng": -73.702222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3004030"
+  },
+  "msha": [
+    {
+      "mine_id": "3004030",
+      "name": "Koller Pit",
+      "operator": "Larry Koller",
+      "status": "Intermittent",
+      "status_since": "2024-08-12",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

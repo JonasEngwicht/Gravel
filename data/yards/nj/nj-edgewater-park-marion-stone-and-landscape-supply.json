@@ -1,0 +1,36 @@
+{
+  "id": "nj-edgewater-park-marion-stone-and-landscape-supply",
+  "slug": "marion-stone-and-landscape-supply",
+  "name": "Marion Stone and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1655 Mount Holly Rd",
+    "city": "Edgewater Park",
+    "state": "NJ",
+    "zip": "08010"
+  },
+  "location": {
+    "lat": 40.039223,
+    "lng": -74.916443
+  },
+  "contact": {
+    "phone": "(609) 877-4300",
+    "website": "http://marionstoneandlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cd91a366-bda8-4284-93f2-fcd2f9af05cf",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

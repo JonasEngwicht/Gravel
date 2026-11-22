@@ -1,0 +1,36 @@
+{
+  "id": "mi-new-boston-bush-and-son-landscape-supplies",
+  "slug": "bush-and-son-landscape-supplies",
+  "name": "Bush & Son Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "38735 Willow Rd",
+    "city": "New Boston",
+    "state": "MI",
+    "zip": "48164"
+  },
+  "location": {
+    "lat": 42.117218,
+    "lng": -83.415085
+  },
+  "contact": {
+    "phone": "(734) 251-2425",
+    "website": "https://bushandsongradingandexcavatingincmi.hibuwebsites.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cc6d5f06-7b7a-44b1-ada5-790061e989b3",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

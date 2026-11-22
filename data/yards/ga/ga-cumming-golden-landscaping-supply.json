@@ -1,0 +1,36 @@
+{
+  "id": "ga-cumming-golden-landscaping-supply",
+  "slug": "golden-landscaping-supply",
+  "name": "Golden Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1732 Peachtree Pkwy",
+    "city": "Cumming",
+    "state": "GA",
+    "zip": "30041"
+  },
+  "location": {
+    "lat": 34.119804,
+    "lng": -84.173759
+  },
+  "contact": {
+    "phone": "(770) 844-1937",
+    "website": "https://goldenlandscapingsupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fc203ead-8943-4723-ab96-c7b7a0d3d8b8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "oh-springfield-enon-sand-and-gravel",
+  "slug": "enon-sand-and-gravel",
+  "name": "Enon Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1665 Enon Rd",
+    "city": "Springfield",
+    "state": "OH",
+    "zip": "45502"
+  },
+  "location": {
+    "lat": 39.898376,
+    "lng": -83.935043
+  },
+  "contact": {
+    "phone": "(937) 882-6357",
+    "website": "http://www.jrjnet.com/companies/aggregates/enon-sand-and-gravel"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b255de2-9b79-4753-ab82-824bd5502cd5",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3301466",
+      "name": "Enon Sand & Gravel",
+      "operator": "Enon Sand & Gravel LLC",
+      "status": "Active",
+      "status_since": "2004-09-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 7
+    }
+  ]
+}

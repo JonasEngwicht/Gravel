@@ -1,0 +1,36 @@
+{
+  "id": "ca-buena-park-west-coast-sand-and-gravel-inc",
+  "slug": "west-coast-sand-and-gravel-inc",
+  "name": "West Coast Sand & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7282 Orangethorpe Ave",
+    "city": "Buena Park",
+    "state": "CA",
+    "zip": "90621"
+  },
+  "location": {
+    "lat": 33.858486,
+    "lng": -118.005928
+  },
+  "contact": {
+    "phone": "(714) 522-0282",
+    "website": "https://www.wcsg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "65e47c1e-e124-4fb3-8f97-157e3d6d9051",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

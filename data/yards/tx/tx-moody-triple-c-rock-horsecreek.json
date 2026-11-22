@@ -1,0 +1,41 @@
+{
+  "id": "tx-moody-triple-c-rock-horsecreek",
+  "slug": "triple-c-rock-horsecreek",
+  "name": "Triple C Rock – Horsecreek",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Moody",
+    "state": "TX",
+    "zip": "76557"
+  },
+  "location": {
+    "lat": 31.296111,
+    "lng": -97.453056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105775"
+  },
+  "msha": [
+    {
+      "mine_id": "4105775",
+      "name": "Horsecreek",
+      "operator": "Triple C Rock",
+      "status": "Intermittent",
+      "status_since": "2026-08-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

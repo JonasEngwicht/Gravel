@@ -1,0 +1,35 @@
+{
+  "id": "tx-carbon-david-cozart-sand-and-gravel",
+  "slug": "david-cozart-sand-and-gravel",
+  "name": "David Cozart Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "400 Anthracite St",
+    "city": "Carbon",
+    "state": "TX",
+    "zip": "76435"
+  },
+  "location": {
+    "lat": 32.267948,
+    "lng": -98.826599
+  },
+  "contact": {
+    "phone": "(254) 639-2424"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "49030af3-3df1-471b-bd02-00a1c0b4121e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

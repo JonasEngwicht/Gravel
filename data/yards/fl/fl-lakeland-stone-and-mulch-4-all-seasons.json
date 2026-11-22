@@ -1,0 +1,36 @@
+{
+  "id": "fl-lakeland-stone-and-mulch-4-all-seasons",
+  "slug": "stone-and-mulch-4-all-seasons",
+  "name": "Stone & Mulch 4 All Seasons",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1061 E CR-540A",
+    "city": "Lakeland",
+    "state": "FL",
+    "zip": "33813"
+  },
+  "location": {
+    "lat": 27.952703,
+    "lng": -81.946823
+  },
+  "contact": {
+    "phone": "(863) 647-5091",
+    "website": "http://stonemulch4allseasons.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "46e90ecc-e0d5-442f-92c7-d019ed343bf7",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

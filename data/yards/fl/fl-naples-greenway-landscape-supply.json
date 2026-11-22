@@ -1,0 +1,36 @@
+{
+  "id": "fl-naples-greenway-landscape-supply",
+  "slug": "greenway-landscape-supply",
+  "name": "Greenway Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8181 Immokalee Rd",
+    "city": "Naples",
+    "state": "FL",
+    "zip": "34119"
+  },
+  "location": {
+    "lat": 26.273716,
+    "lng": -81.702942
+  },
+  "contact": {
+    "phone": "(239) 352-1496",
+    "website": "http://teamgreenway.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dbb1a5d3-6052-41d7-af1f-3e4d29fcecf9",
+    "confidence": 0.924,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "nh-tamworth-bruce-robinson",
+  "slug": "bruce-robinson",
+  "name": "Bruce Robinson",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Tamworth",
+    "state": "NH",
+    "zip": "03886"
+  },
+  "location": {
+    "lat": 43.866111,
+    "lng": -71.2675
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "2700425"
+  },
+  "msha": [
+    {
+      "mine_id": "2700425",
+      "name": "Bruce Robinson Company",
+      "operator": "Bruce Robinson Company",
+      "status": "Active",
+      "status_since": "2024-05-15",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

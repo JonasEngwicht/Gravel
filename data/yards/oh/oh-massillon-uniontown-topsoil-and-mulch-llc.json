@@ -1,0 +1,36 @@
+{
+  "id": "oh-massillon-uniontown-topsoil-and-mulch-llc",
+  "slug": "uniontown-topsoil-and-mulch-llc",
+  "name": "Uniontown Topsoil And Mulch LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1916 Erie Ave NW",
+    "city": "Massillon",
+    "state": "OH",
+    "zip": "44646"
+  },
+  "location": {
+    "lat": 40.819996,
+    "lng": -81.524567
+  },
+  "contact": {
+    "phone": "(330) 832-5904",
+    "website": "http://Uniontowntopsoilandmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f0b82050-7689-4ec6-bfce-cab87cdb1eb8",
+    "confidence": 0.99,
+    "merged_records": 1
+  }
+}

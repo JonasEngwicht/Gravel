@@ -1,0 +1,36 @@
+{
+  "id": "ny-rochester-deliver-my-mulch",
+  "slug": "deliver-my-mulch",
+  "name": "Deliver My Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "985 Buffalo Rd",
+    "city": "Rochester",
+    "state": "NY",
+    "zip": "14624"
+  },
+  "location": {
+    "lat": 43.148296,
+    "lng": -77.676277
+  },
+  "contact": {
+    "phone": "(585) 943-1288",
+    "website": "http://www.delivermymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9233d7a4-713c-4647-9469-2292f2549c55",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

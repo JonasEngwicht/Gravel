@@ -1,0 +1,41 @@
+{
+  "id": "tx-highlands-right-way-sand",
+  "slug": "right-way-sand",
+  "name": "Right Way Sand",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Highlands",
+    "state": "TX",
+    "zip": "77562"
+  },
+  "location": {
+    "lat": 29.819444,
+    "lng": -95.033056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105505"
+  },
+  "msha": [
+    {
+      "mine_id": "4105505",
+      "name": "Right Way",
+      "operator": "Right Way Sand Company",
+      "status": "Active",
+      "status_since": "2020-06-02",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

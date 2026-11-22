@@ -1,0 +1,49 @@
+{
+  "id": "in-russiaville-martin-marietta-kokomo-sand-and-gravel",
+  "slug": "martin-marietta-kokomo-sand-and-gravel",
+  "name": "Martin Marietta - Kokomo Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "3891 County Rd S 500 W",
+    "city": "Russiaville",
+    "state": "IN",
+    "zip": "46979"
+  },
+  "location": {
+    "lat": 40.419167,
+    "lng": -86.222282
+  },
+  "contact": {
+    "phone": "(765) 459-3194",
+    "website": "https://www.martinmarietta.com/locations/central/indiana-district/kokomo-sand-and-gravel/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bd80ce37-5418-4306-b0b7-8b5613ebb6a6",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1202203",
+      "name": "Kokomo Sand",
+      "operator": "Martin Marietta Materials Inc",
+      "status": "Abandoned",
+      "status_since": "2026-03-30",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

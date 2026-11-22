@@ -1,0 +1,41 @@
+{
+  "id": "pa-peach-bottom-h-and-k-group-penn-md-quarry",
+  "slug": "h-and-k-group-penn-md-quarry",
+  "name": "H&K Group – Penn/MD Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Peach Bottom",
+    "state": "PA",
+    "zip": "17563"
+  },
+  "location": {
+    "lat": 39.723889,
+    "lng": -76.15
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3608294"
+  },
+  "msha": [
+    {
+      "mine_id": "3608294",
+      "name": "Penn/MD Quarry",
+      "operator": "H&K Group, Inc.",
+      "status": "Active",
+      "status_since": "2013-03-20",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

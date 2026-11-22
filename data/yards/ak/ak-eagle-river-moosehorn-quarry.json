@@ -1,0 +1,41 @@
+{
+  "id": "ak-eagle-river-moosehorn-quarry",
+  "slug": "moosehorn-quarry",
+  "name": "Moosehorn Quarry",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Eagle River",
+    "state": "AK",
+    "zip": "99505"
+  },
+  "location": {
+    "lat": 61.378889,
+    "lng": -149.500278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5001933"
+  },
+  "msha": [
+    {
+      "mine_id": "5001933",
+      "name": "Moosehorn Quarry",
+      "operator": "Moosehorn Quarry LLC",
+      "status": "Active",
+      "status_since": "2020-10-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

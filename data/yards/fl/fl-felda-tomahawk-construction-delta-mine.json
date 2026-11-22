@@ -1,0 +1,41 @@
+{
+  "id": "fl-felda-tomahawk-construction-delta-mine",
+  "slug": "tomahawk-construction-delta-mine",
+  "name": "Tomahawk Construction – Delta Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Felda",
+    "state": "FL",
+    "zip": "33930"
+  },
+  "location": {
+    "lat": 26.557778,
+    "lng": -81.485
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0801415"
+  },
+  "msha": [
+    {
+      "mine_id": "0801415",
+      "name": "Delta Mine",
+      "operator": "Tomahawk Construction LLC",
+      "status": "Intermittent",
+      "status_since": "2025-07-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "mi-berrien-springs-twin-springs-aggregate",
+  "slug": "twin-springs-aggregate",
+  "name": "Twin Springs Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "7595 M 139",
+    "city": "Berrien Springs",
+    "state": "MI",
+    "zip": "49103"
+  },
+  "location": {
+    "lat": 41.980618,
+    "lng": -86.38903
+  },
+  "contact": {
+    "phone": "(269) 471-7611"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "74e01c8c-8cf3-498a-8092-800c021830bc",
+    "confidence": 0.65,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003471",
+      "name": "Twin Springs Aggregrate Inc",
+      "operator": "Twin Springs Aggregate Inc",
+      "status": "Abandoned",
+      "status_since": "2023-06-06",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

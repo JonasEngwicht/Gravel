@@ -1,0 +1,44 @@
+{
+  "id": "mo-independence-talon-concrete-and-aggregates-llc",
+  "slug": "talon-concrete-and-aggregates-llc",
+  "name": "Talon Concrete & Aggregates Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "16400 E Kentucky Rd",
+    "city": "Independence",
+    "state": "MO",
+    "zip": "64058"
+  },
+  "location": {
+    "lat": 39.129425,
+    "lng": -94.381706
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5f8ea44e-bc91-4465-8f29-dffcc4c50d2d",
+    "confidence": 0.973,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2302211",
+      "name": "Kentucky Road Quarry",
+      "operator": "Talon Concrete and Aggregates LLC",
+      "status": "Abandoned",
+      "status_since": "2018-09-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

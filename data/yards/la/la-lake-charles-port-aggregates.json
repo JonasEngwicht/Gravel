@@ -1,0 +1,36 @@
+{
+  "id": "la-lake-charles-port-aggregates",
+  "slug": "port-aggregates",
+  "name": "Port Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4190 Goodman Ln",
+    "city": "Lake Charles",
+    "state": "LA",
+    "zip": "70615"
+  },
+  "location": {
+    "lat": 30.233555,
+    "lng": -93.15873
+  },
+  "contact": {
+    "phone": "(337) 433-3331",
+    "website": "http://www.portaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "91cb4fc9-8465-4d85-90c3-bcfc76818605",
+    "confidence": 0.823,
+    "merged_records": 1
+  }
+}

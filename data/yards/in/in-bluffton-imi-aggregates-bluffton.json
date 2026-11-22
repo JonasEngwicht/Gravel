@@ -1,0 +1,48 @@
+{
+  "id": "in-bluffton-imi-aggregates-bluffton",
+  "slug": "imi-aggregates-bluffton",
+  "name": "imi Aggregates - Bluffton",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "2321 East 150 North",
+    "city": "Bluffton",
+    "state": "IN",
+    "zip": "46714"
+  },
+  "location": {
+    "lat": 40.764866,
+    "lng": -85.179092
+  },
+  "contact": {
+    "phone": "(260) 824-3428",
+    "website": "https://locations.irvmat.com/in/265?utm_medium=yext&utm_source=bing"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "39538ad2-27e4-49ae-8769-8fbb174c8d4e",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1200029",
+      "name": "IMI Bluffton Quarry",
+      "operator": "IMI Aggregates LLC",
+      "status": "Active",
+      "status_since": "1999-03-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 9
+    }
+  ]
+}

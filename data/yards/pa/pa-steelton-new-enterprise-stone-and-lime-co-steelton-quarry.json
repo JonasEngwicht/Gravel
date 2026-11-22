@@ -1,0 +1,41 @@
+{
+  "id": "pa-steelton-new-enterprise-stone-and-lime-co-steelton-quarry",
+  "slug": "new-enterprise-stone-and-lime-co-steelton-quarry",
+  "name": "New Enterprise Stone & Lime Co – Steelton Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Steelton",
+    "state": "PA",
+    "zip": "17113"
+  },
+  "location": {
+    "lat": 40.221667,
+    "lng": -76.821944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3600114"
+  },
+  "msha": [
+    {
+      "mine_id": "3600114",
+      "name": "Steelton Quarry",
+      "operator": "New Enterprise Stone & Lime Co., Inc.",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 17
+    }
+  ]
+}

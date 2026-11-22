@@ -1,0 +1,41 @@
+{
+  "id": "ny-bath-dolomite-group-bath-plant",
+  "slug": "dolomite-group-bath-plant",
+  "name": "Dolomite Group – Bath Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bath",
+    "state": "NY",
+    "zip": "14810"
+  },
+  "location": {
+    "lat": 42.315278,
+    "lng": -77.345278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000214"
+  },
+  "msha": [
+    {
+      "mine_id": "3000214",
+      "name": "Bath Plant",
+      "operator": "Dolomite Group",
+      "status": "Active",
+      "status_since": "2025-05-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

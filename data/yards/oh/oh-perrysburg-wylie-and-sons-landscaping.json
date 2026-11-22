@@ -1,0 +1,41 @@
+{
+  "id": "oh-perrysburg-wylie-and-sons-landscaping",
+  "slug": "wylie-and-sons-landscaping",
+  "name": "Wylie and Sons Landscaping",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Perrysburg",
+    "state": "OH",
+    "zip": "43551"
+  },
+  "location": {
+    "lat": 41.546111,
+    "lng": -83.5575
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304715"
+  },
+  "msha": [
+    {
+      "mine_id": "3304715",
+      "name": "Wylie and Sons",
+      "operator": "Wylie and Sons Landscaping, LLC",
+      "status": "Active",
+      "status_since": "2023-12-01",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

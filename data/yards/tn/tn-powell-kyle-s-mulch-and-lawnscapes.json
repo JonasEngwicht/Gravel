@@ -1,0 +1,35 @@
+{
+  "id": "tn-powell-kyle-s-mulch-and-lawnscapes",
+  "slug": "kyle-s-mulch-and-lawnscapes",
+  "name": "Kyle's Mulch and Lawnscapes",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3344 Old Raccoon Valley Dr",
+    "city": "Powell",
+    "state": "TN",
+    "zip": "37849"
+  },
+  "location": {
+    "lat": 36.124451,
+    "lng": -83.994614
+  },
+  "contact": {
+    "phone": "(865) 680-3227"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2247195a-87d2-4435-9c43-6d9c97343d44",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

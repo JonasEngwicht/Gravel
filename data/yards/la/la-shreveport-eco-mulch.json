@@ -1,0 +1,36 @@
+{
+  "id": "la-shreveport-eco-mulch",
+  "slug": "eco-mulch",
+  "name": "Eco Mulch",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "6105 St Vincent Ave",
+    "city": "Shreveport",
+    "state": "LA",
+    "zip": "71106"
+  },
+  "location": {
+    "lat": 32.450603,
+    "lng": -93.758667
+  },
+  "contact": {
+    "phone": "(318) 865-5200",
+    "website": "http://www.ecomulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "79f19a16-d769-4252-a731-0eff73dc4a81",
+    "confidence": 0.973,
+    "merged_records": 2
+  }
+}

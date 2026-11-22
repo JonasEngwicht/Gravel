@@ -1,0 +1,36 @@
+{
+  "id": "mi-burton-bundschuh-landscape-center",
+  "slug": "bundschuh-landscape-center",
+  "name": "Bundschuh Landscape Center",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3425 S Center Rd",
+    "city": "Burton",
+    "state": "MI",
+    "zip": "48519"
+  },
+  "location": {
+    "lat": 42.977444,
+    "lng": -83.632866
+  },
+  "contact": {
+    "phone": "(810) 743-6941",
+    "website": "http://www.blclandscape.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "122dd341-61fa-4186-a541-86f8ffc731a6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-van-alstyne-farmington-landscape-supply",
+  "slug": "farmington-landscape-supply",
+  "name": "Farmington Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "611 W Farmington Rd",
+    "city": "Van Alstyne",
+    "state": "TX",
+    "zip": "75495"
+  },
+  "location": {
+    "lat": 33.465698,
+    "lng": -96.619698
+  },
+  "contact": {
+    "phone": "(214) 632-9999",
+    "website": "http://www.farmingtonlandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "909f75f1-c7f5-4518-884b-4104b0c80c77",
+    "confidence": 0.918,
+    "merged_records": 1
+  }
+}

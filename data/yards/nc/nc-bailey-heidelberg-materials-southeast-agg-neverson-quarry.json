@@ -1,0 +1,41 @@
+{
+  "id": "nc-bailey-heidelberg-materials-southeast-agg-neverson-quarry",
+  "slug": "heidelberg-materials-southeast-agg-neverson-quarry",
+  "name": "Heidelberg Materials Southeast Agg – Neverson Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Bailey",
+    "state": "NC",
+    "zip": "27880"
+  },
+  "location": {
+    "lat": 35.767222,
+    "lng": -78.084722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3100074"
+  },
+  "msha": [
+    {
+      "mine_id": "3100074",
+      "name": "Neverson Quarry",
+      "operator": "Heidelberg Materials Southeast Agg LLC",
+      "status": "Active",
+      "status_since": "1976-07-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 15
+    }
+  ]
+}

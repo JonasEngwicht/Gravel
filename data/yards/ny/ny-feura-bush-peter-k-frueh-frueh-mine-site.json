@@ -1,0 +1,41 @@
+{
+  "id": "ny-feura-bush-peter-k-frueh-frueh-mine-site",
+  "slug": "peter-k-frueh-frueh-mine-site",
+  "name": "Peter K Frueh – Frueh Mine Site",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Feura Bush",
+    "state": "NY",
+    "zip": "12054"
+  },
+  "location": {
+    "lat": 42.57,
+    "lng": -73.869722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3003473"
+  },
+  "msha": [
+    {
+      "mine_id": "3003473",
+      "name": "Frueh Mine Site",
+      "operator": "Peter K Frueh Inc",
+      "status": "Intermittent",
+      "status_since": "2025-05-08",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

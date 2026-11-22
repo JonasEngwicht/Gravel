@@ -1,0 +1,36 @@
+{
+  "id": "mi-fenton-rock-solid-boulder-and-stone-supply-llc",
+  "slug": "rock-solid-boulder-and-stone-supply-llc",
+  "name": "Rock solid boulder and stone supply llc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "11177 Foley Rd",
+    "city": "Fenton",
+    "state": "MI",
+    "zip": "48430"
+  },
+  "location": {
+    "lat": 42.745274,
+    "lng": -83.738342
+  },
+  "contact": {
+    "phone": "(810) 577-6228",
+    "website": "https://rocksolidstonesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0caf38b3-ef55-4950-b2e2-b9d71a2fbdfb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

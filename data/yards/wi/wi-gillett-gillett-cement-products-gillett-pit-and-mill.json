@@ -1,0 +1,41 @@
+{
+  "id": "wi-gillett-gillett-cement-products-gillett-pit-and-mill",
+  "slug": "gillett-cement-products-gillett-pit-and-mill",
+  "name": "Gillett Cement Products – Gillett Pit & Mill",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Gillett",
+    "state": "WI",
+    "zip": "54124"
+  },
+  "location": {
+    "lat": 44.89,
+    "lng": -88.307222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4701176"
+  },
+  "msha": [
+    {
+      "mine_id": "4701176",
+      "name": "Gillett Pit & Mill",
+      "operator": "Gillett Cement Products",
+      "status": "Intermittent",
+      "status_since": "1978-11-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

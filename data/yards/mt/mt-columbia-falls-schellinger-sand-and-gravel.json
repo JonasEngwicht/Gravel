@@ -1,0 +1,47 @@
+{
+  "id": "mt-columbia-falls-schellinger-sand-and-gravel",
+  "slug": "schellinger-sand-and-gravel",
+  "name": "Schellinger Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "250 Truck Rte",
+    "city": "Columbia Falls",
+    "state": "MT",
+    "zip": "59912"
+  },
+  "location": {
+    "lat": 48.372578,
+    "lng": -114.205696
+  },
+  "contact": {
+    "phone": "(406) 892-3101"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b691f1d5-9f9c-4b3a-9d95-8e842a1141be",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2402029",
+      "name": "Crusher #3",
+      "operator": "Schellinger Construction Company Inc",
+      "status": "Abandoned",
+      "status_since": "2026-09-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

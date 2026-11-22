@@ -1,0 +1,36 @@
+{
+  "id": "mi-carsonville-natures-best-top-soil-compost",
+  "slug": "natures-best-top-soil-compost",
+  "name": "Natures Best Top Soil Compost",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "640 Old 51",
+    "city": "Carsonville",
+    "state": "MI",
+    "zip": "48419"
+  },
+  "location": {
+    "lat": 43.408695,
+    "lng": -82.670876
+  },
+  "contact": {
+    "phone": "(810) 404-9528",
+    "website": "http://www.naturesbesttopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d7080144-73c8-4f70-b7a7-358d0bfe1c86",
+    "confidence": 0.963,
+    "merged_records": 1
+  }
+}

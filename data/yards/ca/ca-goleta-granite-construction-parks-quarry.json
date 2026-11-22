@@ -1,0 +1,41 @@
+{
+  "id": "ca-goleta-granite-construction-parks-quarry",
+  "slug": "granite-construction-parks-quarry",
+  "name": "Granite Construction – Parks Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Goleta",
+    "state": "CA",
+    "zip": "93106"
+  },
+  "location": {
+    "lat": 34.44,
+    "lng": -119.938611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0405081"
+  },
+  "msha": [
+    {
+      "mine_id": "0405081",
+      "name": "Parks Quarry",
+      "operator": "Granite Construction Company",
+      "status": "Intermittent",
+      "status_since": "2026-08-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-oglesby-conners-crushed-stone-cowart-mine",
+  "slug": "conners-crushed-stone-cowart-mine",
+  "name": "Conners Crushed Stone – Cowart Mine",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Oglesby",
+    "state": "TX",
+    "zip": "76557"
+  },
+  "location": {
+    "lat": 31.326944,
+    "lng": -97.496944
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103907"
+  },
+  "msha": [
+    {
+      "mine_id": "4103907",
+      "name": "Cowart Mine",
+      "operator": "Conners Crushed Stone",
+      "status": "Active",
+      "status_since": "1996-05-23",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 10
+    }
+  ]
+}

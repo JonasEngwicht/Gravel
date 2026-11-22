@@ -1,0 +1,36 @@
+{
+  "id": "nv-henderson-fisher-sand-and-gravel-co",
+  "slug": "fisher-sand-and-gravel-co",
+  "name": "Fisher Sand & Gravel Co",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2950 Sunridge Heights Pkwy  Ste 130",
+    "city": "Henderson",
+    "state": "NV",
+    "zip": "89052"
+  },
+  "location": {
+    "lat": 35.991917,
+    "lng": -115.117531
+  },
+  "contact": {
+    "phone": "(702) 929-3157",
+    "website": "https://www.fisherind.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d024a619-0407-4b02-88b3-ee3a8b00b9b9",
+    "confidence": 0.75,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-frisco-custom-stone-supply",
+  "slug": "custom-stone-supply",
+  "name": "Custom Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "9850 John W Elliott Dr",
+    "city": "Frisco",
+    "state": "TX",
+    "zip": "75033"
+  },
+  "location": {
+    "lat": 33.159756,
+    "lng": -96.828033
+  },
+  "contact": {
+    "phone": "(972) 335-4122",
+    "website": "http://www.customstone.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "83124cc8-78a9-4517-bb7d-4aca711bc70e",
+    "confidence": 0.768,
+    "merged_records": 1
+  }
+}

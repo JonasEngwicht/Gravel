@@ -1,0 +1,41 @@
+{
+  "id": "in-stinesville-big-creek-limestone",
+  "slug": "big-creek-limestone",
+  "name": "Big Creek Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Stinesville",
+    "state": "IN",
+    "zip": "47403"
+  },
+  "location": {
+    "lat": 39.051111,
+    "lng": -86.644167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202523"
+  },
+  "msha": [
+    {
+      "mine_id": "1202523",
+      "name": "Big Creek II",
+      "operator": "Big Creek Limestone",
+      "status": "Active",
+      "status_since": "2025-04-28",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

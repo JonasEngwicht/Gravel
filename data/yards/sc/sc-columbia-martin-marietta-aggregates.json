@@ -1,0 +1,37 @@
+{
+  "id": "sc-columbia-martin-marietta-aggregates",
+  "slug": "martin-marietta-aggregates",
+  "name": "Martin Marietta Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "8451 Monticello Rd",
+    "city": "Columbia",
+    "state": "SC",
+    "zip": "29203"
+  },
+  "location": {
+    "lat": 34.113068,
+    "lng": -81.087883
+  },
+  "contact": {
+    "phone": "(803) 779-6500",
+    "website": "http://martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1ba8cbc6-8da7-430f-9672-fbc870b6f7dd",
+    "confidence": 0.556,
+    "merged_records": 1
+  }
+}

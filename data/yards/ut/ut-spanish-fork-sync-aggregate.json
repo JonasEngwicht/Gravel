@@ -1,0 +1,36 @@
+{
+  "id": "ut-spanish-fork-sync-aggregate",
+  "slug": "sync-aggregate",
+  "name": "Sync Aggregate",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1918 N 300 W",
+    "city": "Spanish Fork",
+    "state": "UT",
+    "zip": "84660"
+  },
+  "location": {
+    "lat": 40.134624,
+    "lng": -111.659988
+  },
+  "contact": {
+    "phone": "(801) 400-4759",
+    "website": "https://syncagg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "dd520a9f-3dda-44bd-b23a-36f547c7c4ba",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

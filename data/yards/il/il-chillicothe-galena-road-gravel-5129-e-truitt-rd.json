@@ -1,0 +1,47 @@
+{
+  "id": "il-chillicothe-galena-road-gravel-5129-e-truitt-rd",
+  "slug": "galena-road-gravel-5129-e-truitt-rd",
+  "name": "Galena Road Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5129 E Truitt Rd",
+    "city": "Chillicothe",
+    "state": "IL",
+    "zip": "61523"
+  },
+  "location": {
+    "lat": 40.922318,
+    "lng": -89.510986
+  },
+  "contact": {
+    "phone": "(844) 766-7665"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "20b645c6-3909-4f68-93f7-cac6c4d53738",
+    "confidence": 0.85,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "1102372",
+      "name": "Irions Pit",
+      "operator": "Galena Road Gravel Inc",
+      "status": "Active",
+      "status_since": "2012-02-27",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 15
+    }
+  ]
+}

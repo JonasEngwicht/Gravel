@@ -1,0 +1,48 @@
+{
+  "id": "fl-marianna-arcosa-aggregates-marianna",
+  "slug": "arcosa-aggregates-marianna",
+  "name": "Arcosa Aggregates - Marianna",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "5160 Vermont Rd  # 7473",
+    "city": "Marianna",
+    "state": "FL",
+    "zip": "32448"
+  },
+  "location": {
+    "lat": 30.637564,
+    "lng": -85.1689
+  },
+  "contact": {
+    "phone": "(850) 374-9530",
+    "website": "https://www.arcosaaggregates.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d85cc503-d822-4927-a1a4-244776669a22",
+    "confidence": 0.75,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0801267",
+      "name": "1874 Marianna",
+      "operator": "Arcosa Aggregates Gulf Coast, LLC",
+      "status": "Active",
+      "status_since": "1998-10-06",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 32
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "va-carson-chaney-enterprises-carson-va-sand-and-gravel",
+  "slug": "chaney-enterprises-carson-va-sand-and-gravel",
+  "name": "Chaney Enterprises - Carson, VA Sand and Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "14302 Chambliss Rd",
+    "city": "Carson",
+    "state": "VA",
+    "zip": "23830"
+  },
+  "location": {
+    "lat": 36.979012,
+    "lng": -77.350098
+  },
+  "contact": {
+    "phone": "(301) 932-5000",
+    "website": "https://www.chaneyenterprises.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e5e5c040-4210-467a-827b-a684086b5560",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4406728",
+      "name": "Carson-VA Sand & Gravel",
+      "operator": "Sustainable Land Use, LLC",
+      "status": "Intermittent",
+      "status_since": "2024-02-29",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 4
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tn-springfield-buck-s-landscape-materials",
+  "slug": "buck-s-landscape-materials",
+  "name": "Buck's Landscape Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "3831 Old Greenbrier Pike",
+    "city": "Springfield",
+    "state": "TN",
+    "zip": "37172"
+  },
+  "location": {
+    "lat": 36.486187,
+    "lng": -86.857918
+  },
+  "contact": {
+    "phone": "(615) 714-8882",
+    "website": "http://www.bucksmaterials.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "68a47e8d-87e3-4e96-bd75-5caf31f37a25",
+    "confidence": 0.999,
+    "merged_records": 2
+  }
+}

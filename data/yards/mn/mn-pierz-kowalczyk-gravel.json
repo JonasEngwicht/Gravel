@@ -1,0 +1,36 @@
+{
+  "id": "mn-pierz-kowalczyk-gravel",
+  "slug": "kowalczyk-gravel",
+  "name": "Kowalczyk Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "23542 320th Ave",
+    "city": "Pierz",
+    "state": "MN",
+    "zip": "56364"
+  },
+  "location": {
+    "lat": 46.102993,
+    "lng": -93.998528
+  },
+  "contact": {
+    "phone": "(320) 277-3215",
+    "website": "http://www.kowalczykgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bff99692-bf2d-4305-b799-e615998b4105",
+    "confidence": 0.92,
+    "merged_records": 2
+  }
+}

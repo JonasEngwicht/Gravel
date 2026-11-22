@@ -1,0 +1,41 @@
+{
+  "id": "oh-genoa-genoa-limestone",
+  "slug": "genoa-limestone",
+  "name": "Genoa Limestone",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Genoa",
+    "state": "OH",
+    "zip": "43430"
+  },
+  "location": {
+    "lat": 41.505278,
+    "lng": -83.358333
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304247"
+  },
+  "msha": [
+    {
+      "mine_id": "3304247",
+      "name": "Genoa Limestone Plant 1",
+      "operator": "Genoa Limestone",
+      "status": "Intermittent",
+      "status_since": "2023-11-29",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

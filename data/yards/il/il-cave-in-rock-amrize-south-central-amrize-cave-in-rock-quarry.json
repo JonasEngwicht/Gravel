@@ -1,0 +1,41 @@
+{
+  "id": "il-cave-in-rock-amrize-south-central-amrize-cave-in-rock-quarry",
+  "slug": "amrize-south-central-amrize-cave-in-rock-quarry",
+  "name": "Amrize South Central – Amrize Cave In Rock Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cave In Rock",
+    "state": "IL",
+    "zip": "62919"
+  },
+  "location": {
+    "lat": 37.469167,
+    "lng": -88.165278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100123"
+  },
+  "msha": [
+    {
+      "mine_id": "1100123",
+      "name": "Amrize Cave In Rock Quarry",
+      "operator": "Amrize South Central Inc.",
+      "status": "Active",
+      "status_since": "2013-07-15",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 45
+    }
+  ]
+}

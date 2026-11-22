@@ -1,0 +1,36 @@
+{
+  "id": "mi-hartland-giegler-s-feed-seed-and-landscape-supplies",
+  "slug": "giegler-s-feed-seed-and-landscape-supplies",
+  "name": "Giegler's Feed, Seed, & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1385 Pleasant Valley Rd",
+    "city": "Hartland",
+    "state": "MI",
+    "zip": "48353"
+  },
+  "location": {
+    "lat": 42.625786,
+    "lng": -83.699127
+  },
+  "contact": {
+    "phone": "(248) 887-2117",
+    "website": "http://Gieglersfeedseed.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bcef9c4a-2fa4-48b3-b40d-24c9891ab708",
+    "confidence": 0.998,
+    "merged_records": 2
+  }
+}

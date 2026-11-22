@@ -1,0 +1,41 @@
+{
+  "id": "sc-leesville-vulcan-construction-materials-lexington-quarry",
+  "slug": "vulcan-construction-materials-lexington-quarry",
+  "name": "Vulcan Construction Materials – Lexington Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Leesville",
+    "state": "SC",
+    "zip": "29070"
+  },
+  "location": {
+    "lat": 33.9425,
+    "lng": -81.459444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800752"
+  },
+  "msha": [
+    {
+      "mine_id": "3800752",
+      "name": "Lexington Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "2019-12-10",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 12
+    }
+  ]
+}

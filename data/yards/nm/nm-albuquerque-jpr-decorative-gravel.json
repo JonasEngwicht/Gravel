@@ -1,0 +1,36 @@
+{
+  "id": "nm-albuquerque-jpr-decorative-gravel",
+  "slug": "jpr-decorative-gravel",
+  "name": "Jpr Decorative Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2518 Coors Blvd SW",
+    "city": "Albuquerque",
+    "state": "NM",
+    "zip": "87121"
+  },
+  "location": {
+    "lat": 35.043171,
+    "lng": -106.709785
+  },
+  "contact": {
+    "phone": "(505) 877-4913",
+    "website": "https://jprgravelnm.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "af213899-c6c3-4091-a1e7-441c92bbdf98",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "oh-newcomerstown-the-national-lime-and-stone-newcomerstown",
+  "slug": "the-national-lime-and-stone-newcomerstown",
+  "name": "The National Lime and Stone – Newcomerstown",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Newcomerstown",
+    "state": "OH",
+    "zip": "43832"
+  },
+  "location": {
+    "lat": 40.265833,
+    "lng": -81.650278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3304485"
+  },
+  "msha": [
+    {
+      "mine_id": "3304485",
+      "name": "Newcomerstown",
+      "operator": "The National Lime and Stone Company",
+      "status": "Active",
+      "status_since": "2025-06-24",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 4
+    }
+  ]
+}

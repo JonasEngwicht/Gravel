@@ -1,0 +1,47 @@
+{
+  "id": "nh-swanzey-mitchell-sand-and-gravel",
+  "slug": "mitchell-sand-and-gravel",
+  "name": "Mitchell Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "20 Payne Rd",
+    "city": "Swanzey",
+    "state": "NH",
+    "zip": "03470"
+  },
+  "location": {
+    "lat": 42.84396,
+    "lng": -72.355057
+  },
+  "contact": {
+    "phone": "(603) 357-0881"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "722f8579-620f-47f5-8592-56c4340a0e14",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2700448",
+      "name": "Mitchell Materials- Winchester",
+      "operator": "Mitchell Materials, LLC.",
+      "status": "Active",
+      "status_since": "2025-05-22",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

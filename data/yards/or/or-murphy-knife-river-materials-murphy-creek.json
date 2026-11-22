@@ -1,0 +1,41 @@
+{
+  "id": "or-murphy-knife-river-materials-murphy-creek",
+  "slug": "knife-river-materials-murphy-creek",
+  "name": "Knife River Materials – Murphy Creek",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Murphy",
+    "state": "OR",
+    "zip": "97527"
+  },
+  "location": {
+    "lat": 42.348056,
+    "lng": -123.331111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3502875"
+  },
+  "msha": [
+    {
+      "mine_id": "3502875",
+      "name": "Murphy Creek",
+      "operator": "Knife River Materials",
+      "status": "Active",
+      "status_since": "2021-10-01",
+      "commodity": "Crushed, Broken Stone NEC",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

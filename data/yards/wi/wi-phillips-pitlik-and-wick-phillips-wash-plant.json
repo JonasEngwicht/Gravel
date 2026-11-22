@@ -1,0 +1,41 @@
+{
+  "id": "wi-phillips-pitlik-and-wick-phillips-wash-plant",
+  "slug": "pitlik-and-wick-phillips-wash-plant",
+  "name": "Pitlik & Wick – Phillips Wash Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Phillips",
+    "state": "WI",
+    "zip": "54555"
+  },
+  "location": {
+    "lat": 45.71,
+    "lng": -90.391667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703168"
+  },
+  "msha": [
+    {
+      "mine_id": "4703168",
+      "name": "Phillips Wash Plant",
+      "operator": "Pitlik & Wick, Inc.",
+      "status": "Intermittent",
+      "status_since": "1998-11-03",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 1
+    }
+  ]
+}

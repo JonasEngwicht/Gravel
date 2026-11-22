@@ -1,0 +1,41 @@
+{
+  "id": "oh-marblehead-amrize-great-lakes-amrize-marblehead-aggregates",
+  "slug": "amrize-great-lakes-amrize-marblehead-aggregates",
+  "name": "Amrize Great Lakes – Amrize Marblehead Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Marblehead",
+    "state": "OH",
+    "zip": "43440"
+  },
+  "location": {
+    "lat": 41.524444,
+    "lng": -82.760556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3300099"
+  },
+  "msha": [
+    {
+      "mine_id": "3300099",
+      "name": "Amrize Marblehead Aggregates",
+      "operator": "Amrize Great Lakes Inc.",
+      "status": "Active",
+      "status_since": "1998-11-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 54
+    }
+  ]
+}

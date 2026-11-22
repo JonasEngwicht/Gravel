@@ -1,0 +1,41 @@
+{
+  "id": "ks-overland-park-martin-marietta-materials-louisburg-quarry",
+  "slug": "martin-marietta-materials-louisburg-quarry",
+  "name": "Martin Marietta Materials – Louisburg Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Overland Park",
+    "state": "KS",
+    "zip": "66013"
+  },
+  "location": {
+    "lat": 38.678889,
+    "lng": -94.686667
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1400823"
+  },
+  "msha": [
+    {
+      "mine_id": "1400823",
+      "name": "Louisburg Quarry",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "2019-10-30",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "tx-new-braunfels-new-braunfels-landscape-supply",
+  "slug": "new-braunfels-landscape-supply",
+  "name": "New Braunfels Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "8206 N Interstate 35 Frontage Rd",
+    "city": "New Braunfels",
+    "state": "TX",
+    "zip": "78130"
+  },
+  "location": {
+    "lat": 29.784883,
+    "lng": -98.029633
+  },
+  "contact": {
+    "phone": "(830) 620-0909",
+    "website": "http://www.newbraunfelslandscapesupply.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "582b0258-9cfe-40a8-a27b-2dd36dfa3ece",
+    "confidence": 0.914,
+    "merged_records": 1
+  }
+}

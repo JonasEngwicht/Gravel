@@ -1,0 +1,41 @@
+{
+  "id": "wi-blair-highway-53",
+  "slug": "highway-53",
+  "name": "Highway 53",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Blair",
+    "state": "WI",
+    "zip": "54616"
+  },
+  "location": {
+    "lat": 44.326389,
+    "lng": -91.299167
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4703717"
+  },
+  "msha": [
+    {
+      "mine_id": "4703717",
+      "name": "Highway 53",
+      "operator": "Sand Products, WI, LLC",
+      "status": "Active",
+      "status_since": "2021-10-29",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 28
+    }
+  ]
+}

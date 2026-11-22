@@ -1,0 +1,36 @@
+{
+  "id": "ma-holliston-holliston-landscape-supply",
+  "slug": "holliston-landscape-supply",
+  "name": "Holliston Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1506 Washington St #1",
+    "city": "Holliston",
+    "state": "MA",
+    "zip": "01746"
+  },
+  "location": {
+    "lat": 42.180443,
+    "lng": -71.446716
+  },
+  "contact": {
+    "phone": "(508) 429-0474",
+    "website": "http://www.hollistonlandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3a125118-9247-4aaf-8eb6-25e2c1a062f8",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

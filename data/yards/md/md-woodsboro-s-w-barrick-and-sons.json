@@ -1,0 +1,41 @@
+{
+  "id": "md-woodsboro-s-w-barrick-and-sons",
+  "slug": "s-w-barrick-and-sons",
+  "name": "S W Barrick & Sons",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Woodsboro",
+    "state": "MD",
+    "zip": "21798"
+  },
+  "location": {
+    "lat": 39.550278,
+    "lng": -77.313056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1800008"
+  },
+  "msha": [
+    {
+      "mine_id": "1800008",
+      "name": "S W Barrick & Sons",
+      "operator": "S W Barrick & Sons",
+      "status": "Active",
+      "status_since": "1976-03-08",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 56
+    }
+  ]
+}

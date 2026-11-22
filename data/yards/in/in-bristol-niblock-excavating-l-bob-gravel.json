@@ -1,0 +1,41 @@
+{
+  "id": "in-bristol-niblock-excavating-l-bob-gravel",
+  "slug": "niblock-excavating-l-bob-gravel",
+  "name": "Niblock Excavating – L-Bob Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Bristol",
+    "state": "IN",
+    "zip": "46507"
+  },
+  "location": {
+    "lat": 41.740556,
+    "lng": -85.823056
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1201258"
+  },
+  "msha": [
+    {
+      "mine_id": "1201258",
+      "name": "L-Bob Gravel",
+      "operator": "Niblock Excavating Inc",
+      "status": "Active",
+      "status_since": "2024-05-01",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 2
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "sc-west-columbia-heidelberg-materials-se-agg-columbia-sand",
+  "slug": "heidelberg-materials-se-agg-columbia-sand",
+  "name": "Heidelberg Materials SE Agg – Columbia Sand",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "West Columbia",
+    "state": "SC",
+    "zip": "29053"
+  },
+  "location": {
+    "lat": 33.849722,
+    "lng": -81.115278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3800130"
+  },
+  "msha": [
+    {
+      "mine_id": "3800130",
+      "name": "Columbia Sand",
+      "operator": "Heidelberg Materials SE Agg., LLC",
+      "status": "Active",
+      "status_since": "2013-10-28",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 6
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "nj-lake-hopatcong-tomco-landscaping-supply",
+  "slug": "tomco-landscaping-supply",
+  "name": "Tomco Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "710 State Route 15 S",
+    "city": "Lake Hopatcong",
+    "state": "NJ",
+    "zip": "07849"
+  },
+  "location": {
+    "lat": 40.974277,
+    "lng": -74.602524
+  },
+  "contact": {
+    "phone": "(973) 361-7755",
+    "website": "https://rentalcitysaginaw.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d2410792-f8a4-411c-be34-b50d887b4909",
+    "confidence": 0.55,
+    "merged_records": 1
+  }
+}

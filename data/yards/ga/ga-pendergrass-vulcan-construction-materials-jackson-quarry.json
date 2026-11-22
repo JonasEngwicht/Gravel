@@ -1,0 +1,41 @@
+{
+  "id": "ga-pendergrass-vulcan-construction-materials-jackson-quarry",
+  "slug": "vulcan-construction-materials-jackson-quarry",
+  "name": "Vulcan Construction Materials – Jackson Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Pendergrass",
+    "state": "GA",
+    "zip": "30567"
+  },
+  "location": {
+    "lat": 34.166111,
+    "lng": -83.635
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0901264"
+  },
+  "msha": [
+    {
+      "mine_id": "0901264",
+      "name": "Jackson Quarry",
+      "operator": "Vulcan Construction Materials LLC",
+      "status": "Active",
+      "status_since": "2023-01-04",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 13
+    }
+  ]
+}

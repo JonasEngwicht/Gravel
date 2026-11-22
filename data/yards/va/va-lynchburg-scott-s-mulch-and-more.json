@@ -1,0 +1,36 @@
+{
+  "id": "va-lynchburg-scott-s-mulch-and-more",
+  "slug": "scott-s-mulch-and-more",
+  "name": "Scott's Mulch & More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "18743 Forest Rd",
+    "city": "Lynchburg",
+    "state": "VA",
+    "zip": "24502"
+  },
+  "location": {
+    "lat": 37.385872,
+    "lng": -79.241318
+  },
+  "contact": {
+    "phone": "(434) 237-5844",
+    "website": "http://scottsmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f2bfc981-7b31-4544-b723-2e666304ccb7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

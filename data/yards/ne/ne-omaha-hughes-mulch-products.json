@@ -1,0 +1,36 @@
+{
+  "id": "ne-omaha-hughes-mulch-products",
+  "slug": "hughes-mulch-products",
+  "name": "Hughes Mulch Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3211 Keystone Dr",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68134"
+  },
+  "location": {
+    "lat": 41.287323,
+    "lng": -96.04747
+  },
+  "contact": {
+    "phone": "(402) 991-7900",
+    "website": "http://www.hughesmulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e212579e-0a72-4d9f-b81c-d0901e5155b7",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

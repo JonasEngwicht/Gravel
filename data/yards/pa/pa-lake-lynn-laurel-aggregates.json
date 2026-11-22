@@ -1,0 +1,48 @@
+{
+  "id": "pa-lake-lynn-laurel-aggregates",
+  "slug": "laurel-aggregates",
+  "name": "Laurel Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2480 Springhill Furnace Rd",
+    "city": "Lake Lynn",
+    "state": "PA",
+    "zip": "15451"
+  },
+  "location": {
+    "lat": 39.731579,
+    "lng": -79.801056
+  },
+  "contact": {
+    "phone": "(724) 564-5099",
+    "website": "https://laurelaggregates.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a3be2279-2069-4600-ba12-13d74bf24ae9",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3608891",
+      "name": "Lake Lynn Quarry 1366",
+      "operator": "Laurel Aggregates of Delaware LLC",
+      "status": "Active",
+      "status_since": "2001-07-11",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 60
+    }
+  ]
+}

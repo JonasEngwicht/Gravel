@@ -1,0 +1,41 @@
+{
+  "id": "ak-kenai-peninsula-paving-ravenwood-pit",
+  "slug": "peninsula-paving-ravenwood-pit",
+  "name": "Peninsula Paving – Ravenwood Pit",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Kenai",
+    "state": "AK",
+    "zip": "99669"
+  },
+  "location": {
+    "lat": 60.500556,
+    "lng": -151.145278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "5002093"
+  },
+  "msha": [
+    {
+      "mine_id": "5002093",
+      "name": "Ravenwood Pit",
+      "operator": "Peninsula Paving LLC",
+      "status": "Intermittent",
+      "status_since": "2023-05-22",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

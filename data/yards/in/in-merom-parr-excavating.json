@@ -1,0 +1,41 @@
+{
+  "id": "in-merom-parr-excavating",
+  "slug": "parr-excavating",
+  "name": "Parr Excavating",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Merom",
+    "state": "IN",
+    "zip": "62451"
+  },
+  "location": {
+    "lat": 39.013333,
+    "lng": -87.559722
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1202253"
+  },
+  "msha": [
+    {
+      "mine_id": "1202253",
+      "name": "Parr Excavating",
+      "operator": "Parr Excavating",
+      "status": "Intermittent",
+      "status_since": "2019-03-25",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "ca-valencia-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "28145 Avenue Crocker",
+    "city": "Valencia",
+    "state": "CA",
+    "zip": "91355"
+  },
+  "location": {
+    "lat": 34.436108,
+    "lng": -118.586937
+  },
+  "contact": {
+    "phone": "(661) 775-0930",
+    "website": "https://www.siteone.com/store/140"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "720ae2d1-e042-4a24-a486-339a0b8b8392",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

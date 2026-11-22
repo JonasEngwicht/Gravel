@@ -1,0 +1,48 @@
+{
+  "id": "ca-madison-cemex-madison-cache-creek-sand-and-gravel",
+  "slug": "cemex-madison-cache-creek-sand-and-gravel",
+  "name": "CEMEX Madison Cache Creek Sand and Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "30288 California 16",
+    "city": "Madison",
+    "state": "CA",
+    "zip": "95653"
+  },
+  "location": {
+    "lat": 38.689758,
+    "lng": -121.950066
+  },
+  "contact": {
+    "phone": "(916) 941-2872",
+    "website": "https://www.cemexusa.com/-/madison-cache-creek-sand-gravel"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3c2996b8-a496-4bb7-b7fc-ce5e7e9c28f2",
+    "confidence": 0.992,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "0402763",
+      "name": "Cache Creek Quarry",
+      "operator": "CEMEX Construction Materials Pacific, LLC",
+      "status": "Active",
+      "status_since": "1990-02-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 18
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "tx-la-grange-rio-materials",
+  "slug": "rio-materials",
+  "name": "Rio Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "La Grange",
+    "state": "TX",
+    "zip": "78938"
+  },
+  "location": {
+    "lat": 29.855,
+    "lng": -96.767778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105157"
+  },
+  "msha": [
+    {
+      "mine_id": "4105157",
+      "name": "Rio Materials",
+      "operator": "Rio Materials",
+      "status": "Active",
+      "status_since": "2015-10-20",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

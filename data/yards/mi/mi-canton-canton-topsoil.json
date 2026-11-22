@@ -1,0 +1,36 @@
+{
+  "id": "mi-canton-canton-topsoil",
+  "slug": "canton-topsoil",
+  "name": "Canton Topsoil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "48631 Michigan Ave",
+    "city": "Canton",
+    "state": "MI",
+    "zip": "48188"
+  },
+  "location": {
+    "lat": 42.263344,
+    "lng": -83.517372
+  },
+  "contact": {
+    "phone": "(734) 480-7000",
+    "website": "http://cantontopsoilinc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fedd3e71-8c8e-4a1a-995b-9219b7966196",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

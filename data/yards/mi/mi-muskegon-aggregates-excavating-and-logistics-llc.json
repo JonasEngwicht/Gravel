@@ -1,0 +1,32 @@
+{
+  "id": "mi-muskegon-aggregates-excavating-and-logistics-llc",
+  "slug": "aggregates-excavating-and-logistics-llc",
+  "name": "Aggregates Excavating & Logistics Llc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "951 E Barney Ave",
+    "city": "Muskegon",
+    "state": "MI",
+    "zip": "49444"
+  },
+  "location": {
+    "lat": 43.210217,
+    "lng": -86.22023
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "cfd43c1e-f0e0-46c3-b27f-509989ae14e5",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

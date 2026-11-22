@@ -1,0 +1,36 @@
+{
+  "id": "nj-eastampton-twp-redmond-s-mulch-and-stone-world",
+  "slug": "redmond-s-mulch-and-stone-world",
+  "name": "Redmond's Mulch and Stone World",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1347 Monmouth Rd",
+    "city": "Eastampton Twp",
+    "state": "NJ",
+    "zip": "08060"
+  },
+  "location": {
+    "lat": 40.008667,
+    "lng": -74.757111
+  },
+  "contact": {
+    "phone": "(609) 261-1118",
+    "website": "http://www.mulchandstoneworld.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "fba97ab0-cfa5-498e-8c1d-7bbf5d5660d0",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

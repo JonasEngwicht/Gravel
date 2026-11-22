@@ -1,0 +1,35 @@
+{
+  "id": "pa-carlisle-m-and-s-landscape-supply",
+  "slug": "m-and-s-landscape-supply",
+  "name": "M & S Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "531 York Rd",
+    "city": "Carlisle",
+    "state": "PA",
+    "zip": "17015"
+  },
+  "location": {
+    "lat": 40.183384,
+    "lng": -77.141792
+  },
+  "contact": {
+    "phone": "(717) 218-7722"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9deffad9-4c19-46eb-b574-0debbfbfbaa2",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

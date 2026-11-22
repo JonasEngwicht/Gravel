@@ -1,0 +1,41 @@
+{
+  "id": "il-sterling-alliance-materials-emerson-quarry",
+  "slug": "alliance-materials-emerson-quarry",
+  "name": "Alliance Materials – Emerson Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Sterling",
+    "state": "IL",
+    "zip": "61037"
+  },
+  "location": {
+    "lat": 41.803889,
+    "lng": -89.777222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1100400"
+  },
+  "msha": [
+    {
+      "mine_id": "1100400",
+      "name": "Emerson Quarry",
+      "operator": "Alliance Materials, Inc.",
+      "status": "Active",
+      "status_since": "2020-05-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

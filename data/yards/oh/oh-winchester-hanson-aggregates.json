@@ -1,0 +1,49 @@
+{
+  "id": "oh-winchester-hanson-aggregates",
+  "slug": "hanson-aggregates",
+  "name": "Hanson Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "hanson aggregates",
+  "address": {
+    "street": "13526 Overstake Rd, Eagle Quarry",
+    "city": "Winchester",
+    "state": "OH",
+    "zip": "45697"
+  },
+  "location": {
+    "lat": 39.010326,
+    "lng": -83.690933
+  },
+  "contact": {
+    "phone": "(937) 442-6009",
+    "website": "https://www.lehighhanson.com/home/advanced?s=quote&fid=nusohf5003-eagle-quarry-OH-Limestone&isAdvancedPage=true"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "875178fa-9b58-4a53-8c05-ca23ec41f908",
+    "confidence": 0.77,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "3304362",
+      "name": "Eagle Crushed Stone",
+      "operator": "Heidelberg Materials Midwest Agg, Inc.",
+      "status": "Active",
+      "status_since": "1995-11-03",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "active-nearby",
+      "employees": 28
+    }
+  ]
+}

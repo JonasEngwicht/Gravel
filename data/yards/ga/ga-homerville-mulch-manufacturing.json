@@ -1,0 +1,36 @@
+{
+  "id": "ga-homerville-mulch-manufacturing",
+  "slug": "mulch-manufacturing",
+  "name": "Mulch Manufacturing",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1900 Waycross Hwy",
+    "city": "Homerville",
+    "state": "GA",
+    "zip": "31634"
+  },
+  "location": {
+    "lat": 31.04467,
+    "lng": -82.719177
+  },
+  "contact": {
+    "phone": "(912) 487-5251",
+    "website": "http://mulchmfg.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5da2660c-4bb3-4cff-9af2-2197242c56b1",
+    "confidence": 0.805,
+    "merged_records": 1
+  }
+}

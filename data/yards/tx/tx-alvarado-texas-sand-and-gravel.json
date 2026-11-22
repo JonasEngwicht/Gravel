@@ -1,0 +1,36 @@
+{
+  "id": "tx-alvarado-texas-sand-and-gravel",
+  "slug": "texas-sand-and-gravel",
+  "name": "Texas Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "11311 E FM 917",
+    "city": "Alvarado",
+    "state": "TX",
+    "zip": "76009"
+  },
+  "location": {
+    "lat": 32.505329,
+    "lng": -97.179901
+  },
+  "contact": {
+    "phone": "(817) 225-0059",
+    "website": "https://www.tsgmaterials.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6d81ca47-fd61-40cc-b4b4-d4003acd312c",
+    "confidence": 1.0,
+    "merged_records": 1
+  }
+}

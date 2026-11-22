@@ -1,0 +1,35 @@
+{
+  "id": "in-union-mills-sand-road-gravel",
+  "slug": "sand-road-gravel",
+  "name": "Sand Road Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "4998 W Sand Rd",
+    "city": "Union Mills",
+    "state": "IN",
+    "zip": "46382"
+  },
+  "location": {
+    "lat": 41.498375,
+    "lng": -86.796799
+  },
+  "contact": {
+    "phone": "(219) 767-2485"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "f8fda469-0ac5-4b1b-beec-b42fb189d7fc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

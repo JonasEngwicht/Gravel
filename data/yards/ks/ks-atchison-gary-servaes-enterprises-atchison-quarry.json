@@ -1,0 +1,41 @@
+{
+  "id": "ks-atchison-gary-servaes-enterprises-atchison-quarry",
+  "slug": "gary-servaes-enterprises-atchison-quarry",
+  "name": "Gary Servaes Enterprises – Atchison Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Atchison",
+    "state": "KS",
+    "zip": "66002"
+  },
+  "location": {
+    "lat": 39.594722,
+    "lng": -95.096111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1401710"
+  },
+  "msha": [
+    {
+      "mine_id": "1401710",
+      "name": "Atchison Quarry",
+      "operator": "Gary Servaes Enterprises",
+      "status": "Active",
+      "status_since": "2012-11-14",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 7
+    }
+  ]
+}

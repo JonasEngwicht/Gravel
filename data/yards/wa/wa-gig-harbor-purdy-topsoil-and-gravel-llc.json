@@ -1,0 +1,35 @@
+{
+  "id": "wa-gig-harbor-purdy-topsoil-and-gravel-llc",
+  "slug": "purdy-topsoil-and-gravel-llc",
+  "name": "Purdy Topsoil & Gravel Llc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "5819 133rd St NW",
+    "city": "Gig Harbor",
+    "state": "WA",
+    "zip": "98332"
+  },
+  "location": {
+    "lat": 47.379547,
+    "lng": -122.617096
+  },
+  "contact": {
+    "phone": "(253) 857-5850"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "2f099df4-22ad-4b14-8b39-52267c4936d6",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "wa-everson-miles-sand-and-gravel",
+  "slug": "miles-sand-and-gravel",
+  "name": "Miles Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "6513 Siper Rd",
+    "city": "Everson",
+    "state": "WA",
+    "zip": "98247"
+  },
+  "location": {
+    "lat": 48.877209,
+    "lng": -122.296349
+  },
+  "contact": {
+    "phone": "(360) 966-2826",
+    "website": "https://www.miles.rocks"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7f3de7da-f7d2-4902-9ef8-78b086489104",
+    "confidence": 0.92,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4503341",
+      "name": "Siper Road Pit",
+      "operator": "Miles Sand & Gravel",
+      "status": "Active",
+      "status_since": "1995-10-04",
+      "commodity": "Construction Sand and Gravel",
+      "match": "active-nearby",
+      "employees": 2
+    }
+  ]
+}

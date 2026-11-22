@@ -1,0 +1,36 @@
+{
+  "id": "nh-pembroke-pembroke-sand-and-gravel",
+  "slug": "pembroke-sand-and-gravel",
+  "name": "Pembroke Sand & Gravel",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "774 Silver Hills Drive",
+    "city": "Pembroke",
+    "state": "NH",
+    "zip": "03275"
+  },
+  "location": {
+    "lat": 43.211914,
+    "lng": -71.47303
+  },
+  "contact": {
+    "phone": "(603) 224-2133",
+    "website": "http://www.pembrokesandandgravel.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "bda5a582-640a-4ccd-9579-68ca592ced57",
+    "confidence": 0.901,
+    "merged_records": 1
+  }
+}

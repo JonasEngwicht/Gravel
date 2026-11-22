@@ -1,0 +1,48 @@
+{
+  "id": "wa-auburn-miles-sand-and-gravel-co",
+  "slug": "miles-sand-and-gravel-co",
+  "name": "Miles Sand & Gravel Co.",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "1220 M St SE",
+    "city": "Auburn",
+    "state": "WA",
+    "zip": "98002"
+  },
+  "location": {
+    "lat": 47.296261,
+    "lng": -122.212975
+  },
+  "contact": {
+    "phone": "(253) 833-3705",
+    "website": "http://www.milessandandgravel.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca87390d-5f59-4d1d-aa29-22c5f4f53c1d",
+    "confidence": 0.585,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "4500662",
+      "name": "Miles Sand & Gravel",
+      "operator": "Miles Sand & Gravel",
+      "status": "Abandoned",
+      "status_since": "2014-10-10",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby",
+      "employees": 0
+    }
+  ]
+}

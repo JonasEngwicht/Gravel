@@ -1,0 +1,36 @@
+{
+  "id": "oh-valley-view-kurtz-landscaping-supply",
+  "slug": "kurtz-landscaping-supply",
+  "name": "Kurtz Landscaping Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5915 Canal Rd",
+    "city": "Valley View",
+    "state": "OH",
+    "zip": "44125"
+  },
+  "location": {
+    "lat": 41.401566,
+    "lng": -81.625565
+  },
+  "contact": {
+    "phone": "(216) 986-7030",
+    "website": "http://www.kurtzbrosvalleyview.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "e65da739-fb23-454c-8a25-d0e2f47fddcf",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

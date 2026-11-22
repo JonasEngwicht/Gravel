@@ -1,0 +1,36 @@
+{
+  "id": "oh-miamisburg-the-mulch-man-and-greenline-products",
+  "slug": "the-mulch-man-and-greenline-products",
+  "name": "The Mulch Man & Greenline Products",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4595 Infirmary Rd",
+    "city": "Miamisburg",
+    "state": "OH",
+    "zip": "45342"
+  },
+  "location": {
+    "lat": 39.679768,
+    "lng": -84.276146
+  },
+  "contact": {
+    "phone": "(937) 866-5370",
+    "website": "http://themulchman.biz/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "ca5c45b0-9a3f-442e-b9ef-533b07e1a72d",
+    "confidence": 0.963,
+    "merged_records": 1
+  }
+}

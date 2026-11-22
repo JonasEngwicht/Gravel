@@ -1,0 +1,41 @@
+{
+  "id": "ga-lumpkin-vulcan-construction-materials-madras-quarry",
+  "slug": "vulcan-construction-materials-madras-quarry",
+  "name": "Vulcan Construction Materials – Madras Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Lumpkin",
+    "state": "GA",
+    "zip": "30265"
+  },
+  "location": {
+    "lat": 33.4475,
+    "lng": -84.690278
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0900536"
+  },
+  "msha": [
+    {
+      "mine_id": "0900536",
+      "name": "Madras Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1975-11-07",
+      "commodity": "Crushed, Broken Granite",
+      "match": "source",
+      "employees": 30
+    }
+  ]
+}

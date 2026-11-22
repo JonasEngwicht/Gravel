@@ -1,0 +1,36 @@
+{
+  "id": "md-sykesville-wayne-s-hauling-and-landscape-supplies",
+  "slug": "wayne-s-hauling-and-landscape-supplies",
+  "name": "Wayne's Hauling & Landscape Supplies",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "405 Rams Horn Ct",
+    "city": "Sykesville",
+    "state": "MD",
+    "zip": "21784"
+  },
+  "location": {
+    "lat": 39.420444,
+    "lng": -76.980347
+  },
+  "contact": {
+    "phone": "(410) 781-4285",
+    "website": "http://wayneshaulingandlandscapesupplies.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "343b67a6-6ea7-4ffd-8628-71868d4c58cb",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

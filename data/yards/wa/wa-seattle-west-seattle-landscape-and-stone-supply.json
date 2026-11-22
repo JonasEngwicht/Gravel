@@ -1,0 +1,36 @@
+{
+  "id": "wa-seattle-west-seattle-landscape-and-stone-supply",
+  "slug": "west-seattle-landscape-and-stone-supply",
+  "name": "West Seattle Landscape & Stone Supply",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "9010 Delridge Way SW",
+    "city": "Seattle",
+    "state": "WA",
+    "zip": "98106"
+  },
+  "location": {
+    "lat": 47.522469,
+    "lng": -122.359505
+  },
+  "contact": {
+    "phone": "(206) 455-7808",
+    "website": "http://www.egreenlandscaping.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "99b65d04-aa9a-46bd-a376-8aae0d85a3f3",
+    "confidence": 0.627,
+    "merged_records": 1
+  }
+}

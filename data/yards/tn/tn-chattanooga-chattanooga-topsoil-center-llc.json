@@ -1,0 +1,35 @@
+{
+  "id": "tn-chattanooga-chattanooga-topsoil-center-llc",
+  "slug": "chattanooga-topsoil-center-llc",
+  "name": "Chattanooga Topsoil Center LLC",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "1045 23rd St",
+    "city": "Chattanooga",
+    "state": "TN",
+    "zip": "37408"
+  },
+  "location": {
+    "lat": 35.024761,
+    "lng": -85.298447
+  },
+  "contact": {
+    "phone": "(423) 443-1458"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9f4ab23b-72d6-4836-862e-b4ee5fa0e822",
+    "confidence": 0.605,
+    "merged_records": 1
+  }
+}

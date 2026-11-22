@@ -1,0 +1,36 @@
+{
+  "id": "id-post-falls-rockhound-landscape-supply",
+  "slug": "rockhound-landscape-supply",
+  "name": "Rockhound Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2591 ID-41",
+    "city": "Post Falls",
+    "state": "ID",
+    "zip": "83854"
+  },
+  "location": {
+    "lat": 47.731567,
+    "lng": -116.894981
+  },
+  "contact": {
+    "phone": "(208) 773-4346",
+    "website": "http://rockhoundcda.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4bb6da2e-ae90-4373-a6fc-d7a9de881a27",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

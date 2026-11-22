@@ -1,0 +1,36 @@
+{
+  "id": "wi-augusta-kaeding-s-mulch-and-more",
+  "slug": "kaeding-s-mulch-and-more",
+  "name": "Kaeding's Mulch and More",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "S9195 State Road 27",
+    "city": "Augusta",
+    "state": "WI",
+    "zip": "54722"
+  },
+  "location": {
+    "lat": 44.699352,
+    "lng": -91.13501
+  },
+  "contact": {
+    "phone": "(715) 829-3017",
+    "website": "http://kaedingsmulchmorellc.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "b613d83e-1a8c-4923-96cc-04bf92b18400",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

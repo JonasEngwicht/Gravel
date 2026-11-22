@@ -1,0 +1,41 @@
+{
+  "id": "il-cave-in-rock-mid-america-carbonates",
+  "slug": "mid-america-carbonates",
+  "name": "Mid-America Carbonates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Cave-In-Rock",
+    "state": "IL",
+    "zip": "62919"
+  },
+  "location": {
+    "lat": 37.517778,
+    "lng": -88.148611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "1103176"
+  },
+  "msha": [
+    {
+      "mine_id": "1103176",
+      "name": "Mid-America Carbonates LLC",
+      "operator": "Mid-America Carbonates LLC",
+      "status": "Active",
+      "status_since": "2007-07-12",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 9
+    }
+  ]
+}

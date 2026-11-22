@@ -1,0 +1,35 @@
+{
+  "id": "fl-ocala-florida-oaks-mulch-llc",
+  "slug": "florida-oaks-mulch-llc",
+  "name": "Florida Oaks Mulch, Llc",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "4550 SE 95th St",
+    "city": "Ocala",
+    "state": "FL",
+    "zip": "34480"
+  },
+  "location": {
+    "lat": 29.083479,
+    "lng": -82.071144
+  },
+  "contact": {
+    "phone": "(800) 352-6257"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "508eea76-7058-4702-a874-01bf46e29e36",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

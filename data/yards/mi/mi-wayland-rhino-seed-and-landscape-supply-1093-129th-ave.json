@@ -1,0 +1,36 @@
+{
+  "id": "mi-wayland-rhino-seed-and-landscape-supply-1093-129th-ave",
+  "slug": "rhino-seed-and-landscape-supply-1093-129th-ave",
+  "name": "Rhino Seed and Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "1093 129th Ave",
+    "city": "Wayland",
+    "state": "MI",
+    "zip": "49348"
+  },
+  "location": {
+    "lat": 42.630745,
+    "lng": -85.65197
+  },
+  "contact": {
+    "phone": "(877) 744-6657",
+    "website": "https://rhinoseed.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "a8e24efc-32d1-4978-be24-5e599c2f9eaf",
+    "confidence": 0.963,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ms-picayune-consolidated-aggregates",
+  "slug": "consolidated-aggregates",
+  "name": "Consolidated Aggregates",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "1205 Palestine Rd",
+    "city": "Picayune",
+    "state": "MS",
+    "zip": "39466"
+  },
+  "location": {
+    "lat": 30.526186,
+    "lng": -89.694221
+  },
+  "contact": {
+    "phone": "(601) 798-3158",
+    "website": "https://www.consolidatedagg.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "827f1c63-8ee5-4023-83f8-dc6b60eee1e8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

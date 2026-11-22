@@ -1,0 +1,49 @@
+{
+  "id": "nc-concord-martin-marietta-bonds-gravel-pit",
+  "slug": "martin-marietta-bonds-gravel-pit",
+  "name": "Martin Marietta - Bonds Gravel Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "7219 Weddington Rd NW",
+    "city": "Concord",
+    "state": "NC",
+    "zip": "28027"
+  },
+  "location": {
+    "lat": 35.378746,
+    "lng": -80.697205
+  },
+  "contact": {
+    "phone": "(704) 786-8415",
+    "website": "https://www.martinmarietta.com/locations/east/charlotte-district/bonds-gravel-pit/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7b4f857d-8c44-41b6-a372-a20efb5e021e",
+    "confidence": 0.92,
+    "merged_records": 3
+  },
+  "msha": [
+    {
+      "mine_id": "3101963",
+      "name": "Bonds Gravel Pit",
+      "operator": "Martin Marietta Materials, Inc.",
+      "status": "Active",
+      "status_since": "1988-09-16",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "active-nearby",
+      "employees": 12
+    }
+  ]
+}

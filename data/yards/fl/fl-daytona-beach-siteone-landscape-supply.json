@@ -1,0 +1,37 @@
+{
+  "id": "fl-daytona-beach-siteone-landscape-supply",
+  "slug": "siteone-landscape-supply",
+  "name": "SiteOne Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "chain": "siteone",
+  "address": {
+    "street": "2430 S Nova Rd",
+    "city": "Daytona Beach",
+    "state": "FL",
+    "zip": "32119"
+  },
+  "location": {
+    "lat": 29.15761,
+    "lng": -81.022415
+  },
+  "contact": {
+    "phone": "(386) 760-3027",
+    "website": "https://www.siteone.com/store/465"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "3e8a9379-5e4f-4072-a5a8-d889216209e5",
+    "confidence": 0.999,
+    "merged_records": 1
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ar-guy-blk-quarries-inc-guy",
+  "slug": "blk-quarries-inc-guy",
+  "name": "BLK Quarries, Inc-Guy",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Guy",
+    "state": "AR",
+    "zip": "72061"
+  },
+  "location": {
+    "lat": 35.306667,
+    "lng": -92.356111
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0302078"
+  },
+  "msha": [
+    {
+      "mine_id": "0302078",
+      "name": "BLK Quarries, Inc-Guy",
+      "operator": "BLK Quarries, Inc",
+      "status": "Active",
+      "status_since": "2023-10-05",
+      "commodity": "Crushed, Broken Sandstone",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

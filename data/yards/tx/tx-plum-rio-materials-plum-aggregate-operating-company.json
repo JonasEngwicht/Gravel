@@ -1,0 +1,41 @@
+{
+  "id": "tx-plum-rio-materials-plum-aggregate-operating-company",
+  "slug": "rio-materials-plum-aggregate-operating-company",
+  "name": "Rio Materials – Plum Aggregate Operating Company",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Plum",
+    "state": "TX",
+    "zip": "78963"
+  },
+  "location": {
+    "lat": 29.955833,
+    "lng": -96.979444
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104996"
+  },
+  "msha": [
+    {
+      "mine_id": "4104996",
+      "name": "Plum Aggregate Operating Company",
+      "operator": "Rio Materials LLC",
+      "status": "Active",
+      "status_since": "2013-01-11",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "al-orange-beach-martin-marietta-aggregates-baldwin-yard",
+  "slug": "martin-marietta-aggregates-baldwin-yard",
+  "name": "Martin Marietta Aggregates-Baldwin Yard",
+  "status": "unverified",
+  "kind": "quarry",
+  "chain": "martin marietta",
+  "address": {
+    "street": "22601 Canal Rd",
+    "city": "Orange Beach",
+    "state": "AL",
+    "zip": "36561"
+  },
+  "location": {
+    "lat": 30.288727,
+    "lng": -87.640678
+  },
+  "contact": {
+    "phone": "(251) 974-5608",
+    "website": "http://www.martinmarietta.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4c8247cc-0ba2-4f47-9127-28811395a067",
+    "confidence": 0.534,
+    "merged_records": 1
+  }
+}

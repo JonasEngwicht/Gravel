@@ -1,0 +1,36 @@
+{
+  "id": "ny-buffalo-e-brenon-top-soil",
+  "slug": "e-brenon-top-soil",
+  "name": "E Brenon Top Soil",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "215 Brenon Rd",
+    "city": "Buffalo",
+    "state": "NY",
+    "zip": "14228"
+  },
+  "location": {
+    "lat": 43.065571,
+    "lng": -78.798485
+  },
+  "contact": {
+    "phone": "(716) 691-6573",
+    "website": "http://www.ebrenontopsoil.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "edc6c9d9-c172-43b6-8620-e6702d78c4e4",
+    "confidence": 0.688,
+    "merged_records": 1
+  }
+}

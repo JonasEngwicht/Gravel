@@ -1,0 +1,35 @@
+{
+  "id": "ut-moab-red-valley-landscape-supply-and-skid-services",
+  "slug": "red-valley-landscape-supply-and-skid-services",
+  "name": "Red Valley Landscape Supply and Skid Services",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "11860 S Hwy 191",
+    "city": "Moab",
+    "state": "UT",
+    "zip": "84532"
+  },
+  "location": {
+    "lat": 38.494221,
+    "lng": -109.469681
+  },
+  "contact": {
+    "phone": "(435) 220-0830"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "5aedae8a-1e67-4a0c-8cf5-f33f14626b39",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

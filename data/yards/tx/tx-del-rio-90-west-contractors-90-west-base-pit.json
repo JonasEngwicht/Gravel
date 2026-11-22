@@ -1,0 +1,41 @@
+{
+  "id": "tx-del-rio-90-west-contractors-90-west-base-pit",
+  "slug": "90-west-contractors-90-west-base-pit",
+  "name": "90 West Contractors – 90 West Base Pit",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Del Rio",
+    "state": "TX",
+    "zip": "78842"
+  },
+  "location": {
+    "lat": 29.583333,
+    "lng": -100.872222
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4104627"
+  },
+  "msha": [
+    {
+      "mine_id": "4104627",
+      "name": "90 West Base Pit",
+      "operator": "90 West Contractors Ltd",
+      "status": "Intermittent",
+      "status_since": "2014-10-20",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 3
+    }
+  ]
+}

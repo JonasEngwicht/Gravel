@@ -1,0 +1,36 @@
+{
+  "id": "mi-niles-kenneth-smith-inc-aggregates",
+  "slug": "kenneth-smith-inc-aggregates",
+  "name": "Kenneth Smith Inc Aggregates",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2596 Detroit Rd",
+    "city": "Niles",
+    "state": "MI",
+    "zip": "49120"
+  },
+  "location": {
+    "lat": 41.834171,
+    "lng": -86.184906
+  },
+  "contact": {
+    "phone": "(269) 684-5960",
+    "website": "http://www.kennethsmithinc.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "1b7c0cd6-1e72-4dc9-aba0-f115a5b2a005",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

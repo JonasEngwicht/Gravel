@@ -1,0 +1,36 @@
+{
+  "id": "ny-plattekill-ak-farms-landscape-supply",
+  "slug": "ak-farms-landscape-supply",
+  "name": "Ak Farms Landscape supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "2019 NY-32",
+    "city": "Plattekill",
+    "state": "NY",
+    "zip": "12548"
+  },
+  "location": {
+    "lat": 41.661583,
+    "lng": -74.110275
+  },
+  "contact": {
+    "phone": "(845) 549-3992",
+    "website": "https://www.akfarmsmodena.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "feff0889-ec87-46dc-a485-40fd78dbcf4e",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

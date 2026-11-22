@@ -1,0 +1,36 @@
+{
+  "id": "va-virginia-beach-concrete-creations-mulch-and-rock",
+  "slug": "concrete-creations-mulch-and-rock",
+  "name": "Concrete Creations (Mulch & Rock)",
+  "status": "unverified",
+  "kind": "mulch-soil",
+  "address": {
+    "street": "3601 Dam Neck Rd",
+    "city": "Virginia Beach",
+    "state": "VA",
+    "zip": "23453"
+  },
+  "location": {
+    "lat": 36.776436,
+    "lng": -76.088608
+  },
+  "contact": {
+    "phone": "(757) 427-1581",
+    "website": "http://www.concretecreationsvabeach.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "d9556db9-3000-4d94-955f-d90349b3a02a",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

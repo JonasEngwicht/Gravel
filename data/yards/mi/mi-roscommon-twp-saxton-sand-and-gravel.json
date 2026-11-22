@@ -1,0 +1,46 @@
+{
+  "id": "mi-roscommon-twp-saxton-sand-and-gravel",
+  "slug": "saxton-sand-and-gravel",
+  "name": "Saxton Sand & Gravel",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "street": "6277 W Nestel Rd",
+    "city": "Roscommon Twp",
+    "state": "MI",
+    "zip": "48629"
+  },
+  "location": {
+    "lat": 44.290882,
+    "lng": -84.738213
+  },
+  "contact": {
+    "phone": "(989) 787-7263"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "9fd1f61f-c2b2-49c4-9cce-5273f937d3f9",
+    "confidence": 0.595,
+    "merged_records": 1
+  },
+  "msha": [
+    {
+      "mine_id": "2003673",
+      "name": "Saxton Sand and Gravel",
+      "operator": "Saxton Sand and Gravel Inc",
+      "status": "Abandoned",
+      "status_since": "2024-04-23",
+      "commodity": "Construction Sand and Gravel",
+      "match": "inactive-nearby"
+    }
+  ]
+}

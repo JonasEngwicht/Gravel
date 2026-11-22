@@ -1,0 +1,41 @@
+{
+  "id": "tx-patricia-energy-in-motion-us-jk-farms",
+  "slug": "energy-in-motion-us-jk-farms",
+  "name": "Energy In Motion US – JK Farms",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Patricia",
+    "state": "TX",
+    "zip": "75754"
+  },
+  "location": {
+    "lat": 32.426389,
+    "lng": -95.665556
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4105759"
+  },
+  "msha": [
+    {
+      "mine_id": "4105759",
+      "name": "JK Farms",
+      "operator": "Energy In Motion US",
+      "status": "Active",
+      "status_since": "2025-11-20",
+      "commodity": "Sand, Common",
+      "match": "source",
+      "employees": 35
+    }
+  ]
+}

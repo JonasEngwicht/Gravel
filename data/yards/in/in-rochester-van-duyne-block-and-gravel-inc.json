@@ -1,0 +1,35 @@
+{
+  "id": "in-rochester-van-duyne-block-and-gravel-inc",
+  "slug": "van-duyne-block-and-gravel-inc",
+  "name": "Van Duyne Block & Gravel Inc",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "2602 S 500 E",
+    "city": "Rochester",
+    "state": "IN",
+    "zip": "46975"
+  },
+  "location": {
+    "lat": 41.016293,
+    "lng": -86.149078
+  },
+  "contact": {
+    "phone": "(574) 223-6656"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "7eca2a68-cd8f-4b65-9d19-44d3d2b0d967",
+    "confidence": 0.65,
+    "merged_records": 1
+  }
+}

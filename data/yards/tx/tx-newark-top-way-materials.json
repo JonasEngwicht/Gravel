@@ -1,0 +1,41 @@
+{
+  "id": "tx-newark-top-way-materials",
+  "slug": "top-way-materials",
+  "name": "Top-Way Materials",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Newark",
+    "state": "TX",
+    "zip": "76071"
+  },
+  "location": {
+    "lat": 33.030556,
+    "lng": -97.493611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "4103229"
+  },
+  "msha": [
+    {
+      "mine_id": "4103229",
+      "name": "Top-Way Materials, LLC",
+      "operator": "Top-Way Materials, LLC",
+      "status": "Active",
+      "status_since": "1984-04-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 14
+    }
+  ]
+}

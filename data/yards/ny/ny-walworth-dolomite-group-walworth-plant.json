@@ -1,0 +1,41 @@
+{
+  "id": "ny-walworth-dolomite-group-walworth-plant",
+  "slug": "dolomite-group-walworth-plant",
+  "name": "Dolomite Group – Walworth Plant",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Walworth",
+    "state": "NY",
+    "zip": "14568"
+  },
+  "location": {
+    "lat": 43.163889,
+    "lng": -77.322778
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3000035"
+  },
+  "msha": [
+    {
+      "mine_id": "3000035",
+      "name": "Walworth Plant",
+      "operator": "Dolomite Group",
+      "status": "Active",
+      "status_since": "1995-11-17",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 28
+    }
+  ]
+}

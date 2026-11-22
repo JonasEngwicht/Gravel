@@ -1,0 +1,36 @@
+{
+  "id": "pa-gettysburg-gettysburg-landscape-supply-yard",
+  "slug": "gettysburg-landscape-supply-yard",
+  "name": "Gettysburg Landscape Supply Yard",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "30 Knight Road",
+    "city": "Gettysburg",
+    "state": "PA",
+    "zip": "17325"
+  },
+  "location": {
+    "lat": 39.778385,
+    "lng": -77.230553
+  },
+  "contact": {
+    "phone": "(717) 334-3800",
+    "website": "http://gettysburglandscapeyard.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "0e35be2a-cb77-4afd-9836-55748a4d5611",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

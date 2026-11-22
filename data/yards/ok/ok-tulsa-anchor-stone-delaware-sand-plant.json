@@ -1,0 +1,41 @@
+{
+  "id": "ok-tulsa-anchor-stone-delaware-sand-plant",
+  "slug": "anchor-stone-delaware-sand-plant",
+  "name": "Anchor Stone – Delaware Sand Plant",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74137"
+  },
+  "location": {
+    "lat": 35.999444,
+    "lng": -95.94
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "3400550"
+  },
+  "msha": [
+    {
+      "mine_id": "3400550",
+      "name": "Delaware Sand Plant",
+      "operator": "Anchor Stone Company",
+      "status": "Active",
+      "status_since": "2014-09-26",
+      "commodity": "Construction Sand and Gravel",
+      "match": "source",
+      "employees": 8
+    }
+  ]
+}

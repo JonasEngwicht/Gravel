@@ -1,0 +1,32 @@
+{
+  "id": "wa-bellingham-aggregate-equipment-sales",
+  "slug": "aggregate-equipment-sales",
+  "name": "Aggregate Equipment Sales",
+  "status": "unverified",
+  "kind": "sand-gravel",
+  "address": {
+    "street": "3926 Irongate Rd Ste B",
+    "city": "Bellingham",
+    "state": "WA",
+    "zip": "98226"
+  },
+  "location": {
+    "lat": 48.78474,
+    "lng": -122.452744
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "6aba9a95-92f1-4bd0-ae87-c8783b2954b4",
+    "confidence": 0.95,
+    "merged_records": 1
+  }
+}

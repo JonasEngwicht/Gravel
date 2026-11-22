@@ -1,0 +1,36 @@
+{
+  "id": "fl-odessa-southern-landscaping-materials",
+  "slug": "southern-landscaping-materials",
+  "name": "Southern Landscaping Materials",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "14024 State Road 54",
+    "city": "Odessa",
+    "state": "FL",
+    "zip": "33556"
+  },
+  "location": {
+    "lat": 28.193068,
+    "lng": -82.583183
+  },
+  "contact": {
+    "phone": "(813) 920-7169",
+    "website": "http://www.bestbuymulch.com/"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4183a78f-adb3-4fac-9024-fba045bfd7b8",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

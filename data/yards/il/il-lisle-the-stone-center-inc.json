@@ -1,0 +1,36 @@
+{
+  "id": "il-lisle-the-stone-center-inc",
+  "slug": "the-stone-center-inc",
+  "name": "The Stone Center Inc",
+  "status": "unverified",
+  "kind": "stone-yard",
+  "address": {
+    "street": "2127 Ogden Ave",
+    "city": "Lisle",
+    "state": "IL",
+    "zip": "60532"
+  },
+  "location": {
+    "lat": 41.797977,
+    "lng": -88.096146
+  },
+  "contact": {
+    "phone": "(630) 971-2060",
+    "website": "https://www.stonecenterlisle.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "df3c72d0-2fb6-47d1-9219-ec18bdd5c9dc",
+    "confidence": 0.92,
+    "merged_records": 1
+  }
+}

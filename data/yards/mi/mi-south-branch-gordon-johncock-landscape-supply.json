@@ -1,0 +1,36 @@
+{
+  "id": "mi-south-branch-gordon-johncock-landscape-supply",
+  "slug": "gordon-johncock-landscape-supply",
+  "name": "Gordon Johncock Landscape Supply",
+  "status": "unverified",
+  "kind": "landscape-supply",
+  "address": {
+    "street": "5874 Heath Rd",
+    "city": "South Branch",
+    "state": "MI",
+    "zip": "48761"
+  },
+  "location": {
+    "lat": 44.472038,
+    "lng": -83.890717
+  },
+  "contact": {
+    "phone": "(989) 257-4444",
+    "website": "http://www.johncocklandscapesupply.com"
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://overturemaps.org",
+    "checked": "2026-11-22",
+    "dataset": "overture-places-2026-11-18.0",
+    "ref": "4bcbcf47-eda3-4ba2-bf54-12ae5da872d7",
+    "confidence": 0.77,
+    "merged_records": 1
+  }
+}

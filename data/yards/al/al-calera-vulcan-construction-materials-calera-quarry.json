@@ -1,0 +1,41 @@
+{
+  "id": "al-calera-vulcan-construction-materials-calera-quarry",
+  "slug": "vulcan-construction-materials-calera-quarry",
+  "name": "Vulcan Construction Materials – Calera Quarry",
+  "status": "unverified",
+  "kind": "quarry",
+  "address": {
+    "city": "Calera",
+    "state": "AL",
+    "zip": "35040"
+  },
+  "location": {
+    "lat": 33.102778,
+    "lng": -86.753611
+  },
+  "materials": [],
+  "listing": {
+    "tier": "free",
+    "claimed": false,
+    "accepts_quotes": false
+  },
+  "source": {
+    "type": "public-list",
+    "url": "https://www.msha.gov/mines-data-set",
+    "checked": "2026-11-22",
+    "dataset": "msha-mines-2026-11-20",
+    "ref": "0100050"
+  },
+  "msha": [
+    {
+      "mine_id": "0100050",
+      "name": "Calera Quarry",
+      "operator": "Vulcan Construction Materials, LLC",
+      "status": "Active",
+      "status_since": "1975-12-05",
+      "commodity": "Crushed, Broken Limestone NEC",
+      "match": "source",
+      "employees": 53
+    }
+  ]
+}
