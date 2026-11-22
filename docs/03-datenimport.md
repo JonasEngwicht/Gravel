@@ -53,10 +53,9 @@ Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA 
 | `/landscape-supply/<staat>/<stadt>/` | Stadtseite: Einträge in zwei Gruppen (Yards / Gruben & Steinbrüche), Rechner, Nachbarstädte, JSON-LD `ItemList` |
 | `/landscape-supply/<staat>/<stadt>/<slug>/` | Unternehmensseite: Kontakt, Karte, Materialien/Öffnungszeiten (falls gepflegt), MSHA-Daten, Anbieter in der Nähe, JSON-LD `HomeAndConstructionBusiness` |
 
-Indexierung (`site.config.json` → `directory`):
-- Ohne `baseUrl` ist alles `noindex` (wie bisher).
-- `indexUnverified: false`: Unternehmensseiten mit `status: "unverified"` bekommen `noindex` und fehlen in der Sitemap. Sobald ein Eintrag geprüft ist (`status: "active"`), wird seine Seite indexierbar.
-- `minYardsCityIndex: 2`: Stadtseiten erst ab 2 Einträgen indexierbar.
+Indexierung:
+- Alle Verzeichnisseiten sind indexierbar und stehen in der Sitemap, auch Einträge mit `status: "unverified"`. Ungeprüfte Einträge zeigen auf ihrer Seite einen Hinweis, vorher anzurufen.
+- Ohne `baseUrl` in `site.config.json` ist weiterhin alles `noindex` (Vorschau auf workers.dev), mit `baseUrl` entstehen Canonicals und Sitemap.
 - Einträge mit `status: "closed"` und Dateien, die mit `_` beginnen, werden nicht veröffentlicht.
 
 Umfang: ca. 16.000 Seiten (1 Übersicht, 53 Staaten/Territorien, ~6.000 Städte, 9.917 Unternehmen). Grenze bei Cloudflare Workers (Free): 20.000 Dateien – ein Test schlägt an, wenn es mehr als 19.500 werden.

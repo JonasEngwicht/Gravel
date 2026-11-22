@@ -108,12 +108,10 @@ function sortierung(a, b) {
  */
 export function verzeichnisSeiten(yards, h) {
   const { kopf, fuss, esc, rechner, SITE } = h;
-  const cfg = { indexUnverified: false, minYardsCityIndex: 2, ...(SITE.directory || {}) };
   const abs = (p) => (SITE.baseUrl || '') + p;
   const staaten = struktur(yards);
   const seiten = [];
   const stand = yards.map((y) => y.source?.checked).filter(Boolean).sort().pop();
-  const indexierbar = (y) => y.status === 'active' || cfg.indexUnverified;
 
   const brotkrumen = (teile) => ({
     '@context': 'https://schema.org', '@type': 'BreadcrumbList',
@@ -203,7 +201,7 @@ ${fuss()}` });
     const gruppen = GRUPPEN.map((g) => ({ ...g, yards: c.yards.filter((y) => g.arten.includes(y.kind)) })).filter((g) => g.yards.length);
     const itemList = { '@context': 'https://schema.org', '@type': 'ItemList', name: `Landscape supply yards in ${c.name}, ${s.code}`,
       itemListElement: c.yards.map((y, i) => ({ '@type': 'ListItem', position: i + 1, item: ldBetrieb(y) })) };
-    seiten.push({ pfad: c.pfad, index: n >= cfg.minYardsCityIndex, html: `${kopf({ pfad: c.pfad, nav: 'Find a yard', noindex: n < cfg.minYardsCityIndex,
+    seiten.push({ pfad: c.pfad, index: true, html: `${kopf({ pfad: c.pfad, nav: 'Find a yard',
       title: `Landscape Supply Yards in ${c.name}, ${s.code} – Mulch & Gravel`.slice(0, 70),
       description: `${n} ${n === 1 ? 'supplier' : 'suppliers'} for bulk mulch, gravel, stone and topsoil in ${c.name}, ${s.name}: addresses, phone numbers and websites. Plus a free calculator for how much you need.`,
       ld: [brotkrumen(krumen), itemList] })}
@@ -246,7 +244,7 @@ ${fuss()}` });
     const beschreibung = ausMsha
       ? `${y.name} is a ${y.kind === 'quarry' ? 'quarry' : 'sand and gravel operation'} near ${c.name}, ${s.name}${mine?.commodity ? `, producing ${mine.commodity.toLowerCase()}` : ''}.`
       : `${y.name} is a ${art.toLowerCase()} in ${c.name}, ${s.name}.`;
-    seiten.push({ pfad: y._pfad, index: indexierbar(y), html: `${kopf({ pfad: y._pfad, nav: 'Find a yard', noindex: !indexierbar(y),
+    seiten.push({ pfad: y._pfad, index: true, html: `${kopf({ pfad: y._pfad, nav: 'Find a yard',
       title: `${y._titel} – ${c.name}, ${s.code}`.slice(0, 70),
       description: `${beschreibung} Address${y.contact?.phone ? ', phone' : ''}${y.contact?.website ? ', website' : ''} and directions${mats.length ? ', materials' : ''}.`.slice(0, 160),
       ld: [brotkrumen(krumen), ldBetrieb(y)] })}

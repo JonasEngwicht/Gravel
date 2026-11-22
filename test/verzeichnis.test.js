@@ -69,16 +69,13 @@ test("Cloudflare: weniger als 20.000 Dateien im Build", () => {
   assert.ok(gesamt < 19500, `${gesamt} Dateien`);
 });
 
-test("ungeprüfte Unternehmensseiten sind noindex, geprüfte und Städte mit genug Einträgen indexierbar", () => {
-  const seiten = bauen({ baseUrl: "https://example.com", directory: { indexUnverified: false, minYardsCityIndex: 2 } });
-  const nachPfad = new Map(seiten.map((s) => [s.pfad, s]));
-  const probe = yards.find((y) => y.status === "unverified");
-  const sp = [...nachPfad.values()].find((s) => s.pfad.endsWith(`/${probe.slug}/`) && s.html.includes(esc(probe.name)));
-  assert.equal(sp.index, false);
-  assert.match(sp.html, /noindex/);
-  assert.equal(nachPfad.get(BASIS).index, true);
-  const alle = bauen({ baseUrl: "https://example.com", directory: { indexUnverified: true } });
-  assert.ok(alle.every((s) => !s.pfad.split("/").filter(Boolean)[3] || s.index), "mit indexUnverified sind alle Unternehmensseiten indexierbar");
+test("alle Verzeichnisseiten sind indexierbar, auch ungeprüfte Einträge", () => {
+  const seiten = bauen({ baseUrl: "https://example.com" });
+  for (const s of seiten) {
+    assert.equal(s.index, true, s.pfad);
+    assert.doesNotMatch(s.html, /noindex/, s.pfad);
+  }
+  assert.ok(yards.some((y) => y.status === "unverified"));
 });
 
 test("strukturierte Daten der Verzeichnisseiten sind gültiges JSON", () => {
