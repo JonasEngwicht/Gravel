@@ -18,7 +18,81 @@
     "phone": "(770) 513-3733",
     "website": "http://www.Luxurylandscape.com/"
   },
-  "materials": [],
+  "materials": [
+    {
+      "id": "topsoil",
+      "bulk": true,
+      "price": {
+        "amount": 35,
+        "amount_max": 40,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "fill-dirt",
+      "bulk": true,
+      "price": {
+        "amount": 30,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "crusher-run",
+      "bulk": true,
+      "price": {
+        "amount": 65,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "crushed-stone-57",
+      "bulk": true,
+      "price": {
+        "amount": 86,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "pea-gravel",
+      "bulk": true,
+      "price": {
+        "amount": 155,
+        "amount_max": 210,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "masonry-sand",
+      "bulk": true,
+      "price": {
+        "amount": 89,
+        "unit": "cy",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "pine-bark-mulch",
+      "bulk": false,
+      "bagged": true,
+      "price": {
+        "amount": 3.62,
+        "unit": "bag",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    }
+  ],
   "listing": {
     "tier": "free",
     "claimed": false,
@@ -31,6 +105,7 @@
     "dataset": "overture-places-2026-11-18.0",
     "ref": "adafe6b3-ec77-4638-801a-0b0c4efa7f4b",
     "confidence": 0.945,
-    "merged_records": 1
+    "merged_records": 1,
+    "url_prices": "https://luxurylandscape.com/wp-content/uploads/2026/10/LLS-Pricing-2026.pdf"
   }
 }

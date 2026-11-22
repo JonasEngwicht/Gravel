@@ -18,7 +18,36 @@
     "phone": "(770) 844-1937",
     "website": "https://goldenlandscapingsupply.com/"
   },
-  "materials": [],
+  "materials": [
+    {
+      "id": "crushed-stone-57",
+      "bulk": true,
+      "price": {
+        "amount": 64.99,
+        "unit": "ton",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    },
+    {
+      "id": "river-rock",
+      "bulk": true,
+      "price": {
+        "amount": 145,
+        "unit": "ton",
+        "updated": "2026-11-22",
+        "source": "yard-website"
+      }
+    }
+  ],
+  "hours": {
+    "mon": "07:00-17:00",
+    "tue": "07:00-17:00",
+    "wed": "07:00-17:00",
+    "thu": "07:00-17:00",
+    "fri": "07:00-17:00",
+    "sat": "07:00-15:00"
+  },
   "listing": {
     "tier": "free",
     "claimed": false,
@@ -31,6 +60,7 @@
     "dataset": "overture-places-2026-11-18.0",
     "ref": "fc203ead-8943-4723-ab96-c7b7a0d3d8b8",
     "confidence": 0.92,
-    "merged_records": 1
+    "merged_records": 1,
+    "url_prices": "https://goldenlandscapingsupply.com/pages/bulk-gravel"
   }
 }
