@@ -128,7 +128,7 @@ export function verzeichnisSeiten(yards, h) {
     }).join('');
     return `<h2 class="abstand">Bulk vs. bagged: what a cubic yard costs</h2>
 <p>One cubic yard is 27 cubic feet. Bought in bags at a big-box store, that is a lot of bags – bulk from a local yard is usually much cheaper from about 2–3 cubic yards upward, even with a delivery fee.</p>
-<table><thead><tr><th>Material</th><th>Bags per cu yd</th><th>Bagged, per cu yd</th><th>Bulk in ${esc(c.name)}, per cu yd</th></tr></thead><tbody>${zeilen}</tbody></table>
+<div class="tabelle-scroll"><table><thead><tr><th>Material</th><th>Bags per cu yd</th><th>Bagged, per cu yd</th><th>Bulk in ${esc(c.name)}, per cu yd</th></tr></thead><tbody>${zeilen}</tbody></table></div>
 <p class="klein">Bagged: typical big-box shelf prices (sale – regular), checked ${esc(monat(SACK.checked))}. Bulk: median of prices published by yards in ${esc(c.name)}, shown when at least 3 yards list a price.</p>
 <aside class="hinweis-box"><strong>Only need a few bags?</strong> For a small bed or a quick touch-up, bagged mulch, gravel and soil from Home Depot, Lowe's or your local hardware store is often the easier choice. Use the calculator below to compare bags and bulk for your project.</aside>`;
   };
