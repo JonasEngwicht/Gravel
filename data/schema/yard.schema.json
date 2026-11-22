@@ -151,6 +151,10 @@
                   "phone",
                   "user-report"
                 ]
+              },
+              "amount_max": {
+                "type": "number",
+                "description": "Upper end when the yard publishes a range (e.g. by color or grade); amount is then the lowest price"
               }
             }
           }

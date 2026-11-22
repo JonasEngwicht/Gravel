@@ -271,3 +271,4 @@ th { background: var(--kies); white-space: nowrap; }
 .hinweis-karte span { font-size: .95rem; }
 .hinweis-karte:hover { border-color: var(--moos); }
 .quelle { margin-top: 28px; }
+.hinweis-box { background: var(--kies); border-left: 4px solid var(--moos); border-radius: 8px; padding: 12px 16px; margin: 16px 0; }

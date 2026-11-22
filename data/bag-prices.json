@@ -1,0 +1,46 @@
+{
+  "_comment": "Typische Preise für Sackware in US-Baumärkten (Home Depot, Lowe's, Ace). Für den Vergleich lose Ware vs. Sack auf Stadt- und Unternehmensseiten. Quartalsweise prüfen. regular = Normalpreis, sale = typischer Aktionspreis (Frühjahr).",
+  "checked": "2026-11-22",
+  "materials": {
+    "hardwood-mulch": {
+      "bag_cu_ft": 2,
+      "regular": 3.97,
+      "sale": 2.0,
+      "label": "2 cu ft bag of shredded hardwood mulch",
+      "sources": [
+        "https://dealnews.com/features/home-depot-mulch-sale",
+        "https://slickdeals.net/f/19330674-select-locations-1-5-cu-ft-scotts-earthgro-shredded-bagged-mulch-3-colors-2-free-s-h"
+      ]
+    },
+    "pea-gravel": {
+      "bag_cu_ft": 0.5,
+      "regular": 6.59,
+      "sale": 4.0,
+      "label": "0.5 cu ft bag of pea gravel",
+      "sources": [
+        "https://www.acehardware.com/p/7100399",
+        "https://latestcost.com/home-depot-pea-gravel-price-per-bag-bulk/"
+      ]
+    },
+    "river-rock": {
+      "bag_cu_ft": 0.5,
+      "regular": 5.99,
+      "sale": 5.59,
+      "label": "0.5 cu ft bag of river rock",
+      "sources": [
+        "https://www.acehardware.com/p/7000490",
+        "https://www.acehardware.com/departments/lawn-and-garden/landscaping/landscape-rock/7000557"
+      ]
+    },
+    "topsoil": {
+      "bag_cu_ft": 0.75,
+      "regular": 4.58,
+      "sale": 2.0,
+      "label": "0.75 cu ft bag of topsoil / garden soil",
+      "sources": [
+        "https://www.acehardware.com/p/7203409",
+        "https://slickdeals.net/f/19499163-miracle-gro-in-ground-use-0-75-cubic-feet-all-purpose-garden-soil-75030430-2"
+      ]
+    }
+  }
+}
