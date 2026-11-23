@@ -327,3 +327,11 @@ html.blatt-offen { overflow: hidden; }
 }
 @keyframes blatt-hoch { from { transform: translateY(100%); } }
 @media (prefers-reduced-motion: reduce) { .auswahl-blatt[open] { animation: none; } }
+
+/* ---------- Einwilligungs-Banner für das Google Tag (static/messung.js) ---------- */
+.einwilligung { position: fixed; z-index: 30; left: 16px; bottom: calc(16px + env(safe-area-inset-bottom)); max-width: 420px; padding: 16px 16px 14px; background: #fff; color: var(--text); border-radius: 14px; box-shadow: 0 10px 36px rgba(30,20,10,.28); border: 1px solid var(--linie); font-size: .92rem; line-height: 1.45; }
+.einwilligung p { margin: 0 0 12px; }
+.einwilligung strong { display: block; font-size: 1rem; margin-bottom: 4px; }
+.einwilligung-knoepfe { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.einwilligung-knoepfe .knopf-zweit { min-height: 44px; }
+@media (max-width: 500px) { .einwilligung { left: 8px; right: 8px; bottom: calc(8px + env(safe-area-inset-bottom)); max-width: none; } }

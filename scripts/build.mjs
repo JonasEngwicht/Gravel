@@ -39,6 +39,7 @@ function kopf(seite) {
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <meta name="theme-color" content="#3d2f22">
+<script src="/assets/messung.js?v=${VERSION}" async></script>
 <title>${esc(seite.title)}</title>
 <meta name="description" content="${esc(seite.description)}">
 ${robots}${canonical}
@@ -62,7 +63,7 @@ function fuss() {
   <nav aria-label="All calculators">${RECHNER.filter((s) => s.pfad !== '/').map((s) => `<a href="${s.pfad}">${esc(s.h1)}</a>`).join('')}</nav>
   <nav aria-label="Guides">${RATGEBER.map((s) => `<a href="${s.pfad}">${esc(s.nav)}</a>`).join('')}<a href="${BASIS}">Landscape supply yards near you</a><a href="${BASIS}gravel-pits/">Gravel pits by state</a><a href="/about/">About</a></nav>
   <p class="klein">Results are estimates based on typical material weights. Densities vary by supplier and moisture – confirm with your supplier before ordering.</p>
-  <nav class="recht" aria-label="Legal"><a href="/imprint/">Imprint</a><a href="/privacy/">Privacy</a><a href="mailto:${esc(SITE.operator.email)}">Contact</a></nav>
+  <nav class="recht" aria-label="Legal"><a href="/imprint/">Imprint</a><a href="/privacy/">Privacy</a><a href="/privacy/#google" data-einwilligung>Cookie settings</a><a href="mailto:${esc(SITE.operator.email)}">Contact</a></nav>
 </div></footer>
 <script type="module" src="/assets/app.js?v=${VERSION}"></script>
 </body>
