@@ -11,5 +11,7 @@
     "country": "Germany",
     "email": "gravelandmulch@gmail.com"
   },
-  "_comment_operator": "Betreiber für Imprint, Privacy Policy und Korrektur-Links im Verzeichnis."
+  "_comment_operator": "Betreiber für Imprint, Privacy Policy und Korrektur-Links im Verzeichnis.",
+  "googleTag": "GTM-5QT7N2LM",
+  "_comment_googleTag": "Google Tag Manager; die ID steht auch in static/messung.js."
 }

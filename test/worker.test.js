@@ -32,3 +32,22 @@ test("workers.dev bleibt noindex, localhost wird nicht umgeleitet", async () => 
   assert.equal(lokal.status, 200);
   assert.equal(lokal.headers.get("Strict-Transport-Security"), null);
 });
+
+test("Einwilligung nötig für EU/EWR/UK/CH und unbekanntes Land, nicht für USA", async () => {
+  const { brauchtEinwilligung } = await import("../src/worker.js");
+  for (const land of ["DE", "FR", "NO", "GB", "CH", undefined]) assert.equal(brauchtEinwilligung(land), true, String(land));
+  for (const land of ["US", "CA", "MX"]) assert.equal(brauchtEinwilligung(land), false, land);
+});
+
+test("HTML bekommt data-eu je nach Land", async () => {
+  const gesetzt = [];
+  globalThis.HTMLRewriter = class {
+    on(sel, h) { this.h = h; return this; }
+    transform(r) { const el = { setAttribute: (k, v) => gesetzt.push([k, v]) }; this.h.element(el); return r; }
+  };
+  try {
+    const hol2 = (land) => worker.fetch(Object.assign(new Request("https://gravelandmulch.com/"), { cf: { country: land } }), env);
+    await hol2("US"); await hol2("DE");
+    assert.deepEqual(gesetzt, [["data-eu", "0"], ["data-eu", "1"]]);
+  } finally { delete globalThis.HTMLRewriter; }
+});
