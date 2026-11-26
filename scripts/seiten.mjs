@@ -839,6 +839,62 @@ ${FORMEL}`,
     hub: 'ratgeber',
   },
   {
+    pfad: '/add-your-yard/',
+    art: 'info',
+    nav: 'Add your yard',
+    imMenue: false,
+    title: 'Add or Update Your Yard – Free Listing on Gravel & Mulch',
+    description: 'Run a landscape supply yard, mulch yard or gravel pit? Add your business or update materials, delivery and hours for free. Plus a badge for your website.',
+    h1: 'Add or Update Your Yard',
+    intro: 'Listings are free. Tell us what you sell in bulk, whether you deliver and when you’re open – that’s what people look for before they call.',
+    kurz: 'Free listing for yards',
+    inhalt: `<h2>What to send us</h2>
+<ul>
+  <li><strong>Business name, address and phone</strong> – and your website, if you have one.</li>
+  <li><strong>Materials you sell in bulk:</strong> mulch, gravel, crushed stone, river rock, pea gravel, topsoil, fill dirt, sand, compost, decorative rock, flagstone or boulders.</li>
+  <li><strong>Delivery:</strong> yes or no, the area you cover and the minimum order or fee.</li>
+  <li><strong>Pickup:</strong> can customers load their own truck or trailer?</li>
+  <li><strong>Opening hours</strong> and whether you sell to homeowners or only to contractors.</li>
+  <li><strong>Prices</strong> (optional), per cubic yard or ton.</li>
+</ul>
+<p><a class="knopf" id="eintrag-mail" href="mailto:gravelandmulch@gmail.com?subject=Add%20or%20update%20my%20yard&amp;body=Business%20name%3A%0AAddress%3A%0APhone%3A%0AWebsite%3A%0AMaterials%20sold%20in%20bulk%3A%0ADelivery%20(area%2C%20minimum%2C%20fee)%3A%0APickup%20%2F%20self-load%3A%0AOpening%20hours%3A%0ASells%20to%20homeowners%3F%3A%0APrices%20(optional)%3A%0A">Email your details</a></p>
+<p class="klein">We check every update against your website or by phone before it goes live, usually within a week. To remove a listing, just say so in the email.</p>
+<h2>Badge for your website</h2>
+<p>Listed with us? Show it on your site – the badge links to your listing so customers can find your materials and hours.</p>
+<p><img src="/assets/badge.svg" width="200" height="56" alt="Listed on gravelandmulch.com"></p>
+<label for="badge-code" class="schritt">Copy this code</label>
+<textarea id="badge-code" class="code" rows="3" readonly>&lt;a href="https://gravelandmulch.com/landscape-supply/"&gt;&lt;img src="https://gravelandmulch.com/assets/badge.svg" width="200" height="56" alt="Listed on gravelandmulch.com"&gt;&lt;/a&gt;</textarea>
+<p class="klein">Replace the link with your own listing page, for example https://gravelandmulch.com/landscape-supply/tx/katy/your-yard/.</p>`,
+  },
+  {
+    pfad: '/embed/',
+    art: 'info',
+    nav: 'Embed',
+    imMenue: false,
+    title: 'Free Mulch & Gravel Calculator for Your Website (Embed)',
+    description: 'Add our free mulch, gravel and topsoil calculator to your website with one line of code. Works on any site, no account, no tracking in the widget.',
+    h1: 'Embed the Calculator on Your Website',
+    intro: 'Landscapers, yards and garden blogs can add the calculator to any page. Copy one line of code – it works on WordPress, Squarespace, Wix and plain HTML.',
+    kurz: 'Calculator widget for your site',
+    inhalt: `<h2>Copy the code</h2>
+<p>Pick the material the calculator should start with. Visitors can still switch to any other material.</p>
+<label class="schritt" for="embed-material">Start with</label>
+<select id="embed-material" data-embed>
+  <option value="hardwood-mulch">Mulch</option><option value="pea-gravel">Gravel</option><option value="topsoil">Topsoil</option>
+  <option value="crushed-stone-57">Crushed stone</option><option value="river-rock">River rock</option><option value="masonry-sand">Sand</option><option value="compost">Compost</option>
+</select>
+<textarea id="embed-code" class="code" rows="4" readonly>&lt;iframe src="https://gravelandmulch.com/embed/calculator/?m=hardwood-mulch" width="100%" height="720" style="border:0;max-width:760px" title="Mulch &amp;amp; gravel calculator" loading="lazy"&gt;&lt;/iframe&gt;
+&lt;p style="font-size:12px"&gt;Calculator by &lt;a href="https://gravelandmulch.com/"&gt;Gravel &amp;amp; Mulch&lt;/a&gt;&lt;/p&gt;</textarea>
+<h2>Preview</h2>
+<iframe src="/embed/calculator/?m=hardwood-mulch" width="100%" height="720" style="border:1px solid #d9d3c7;border-radius:12px;max-width:760px" title="Calculator preview" loading="lazy"></iframe>
+<h2>Good to know</h2>
+<ul>
+  <li>The widget is free, also for commercial sites. Please keep the “Calculator by Gravel &amp; Mulch” line.</li>
+  <li>It loads no ads and no analytics – nothing is tracked inside the widget.</li>
+  <li>Prefer a link? <a href="/mulch-calculator/">gravelandmulch.com/mulch-calculator/</a> works just as well.</li>
+</ul>`,
+  },
+  {
     pfad: '/about/',
     art: 'info',
     nav: 'About',

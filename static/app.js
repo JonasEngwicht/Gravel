@@ -8,6 +8,14 @@ if (document.querySelector('[data-finder], [data-filter], [data-chips]')) import
 // Karte auf Stadtseiten: Leaflet und OpenStreetMap-Kacheln laden erst nach Klick auf „Show on map“
 if (document.querySelector('[data-karte]')) import('./karte.js');
 if (document.getElementById('umrechner')) import('./umrechner.js');
+// /embed/: Code für das gewählte Startmaterial
+const embedWahl = document.querySelector('[data-embed]');
+if (embedWahl) embedWahl.addEventListener('change', () => {
+  const code = document.getElementById('embed-code');
+  code.value = code.value.replace(/\?m=[a-z0-9-]+/, `?m=${embedWahl.value}`);
+  const vorschau = document.querySelector('iframe[src^="/embed/calculator/"]');
+  if (vorschau) vorschau.src = `/embed/calculator/?m=${embedWahl.value}`;
+});
 if (document.querySelector('select')) import('./auswahl.js');
 
 const ICON = {
