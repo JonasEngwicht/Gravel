@@ -16,6 +16,10 @@ Mulch-, Kies- und Erde-Rechner plus ein Verzeichnis für Landscape-Supply-Yards 
 | `data/zip-centroids/<präfix>.json` | ZIP-Mittelpunkte (Census-Gazetteer 2025) für die Umkreissuche |
 | `data/import/yards_all.csv` | Alle Einträge als Tabelle zum Durchsehen |
 | `scripts/verzeichnis.mjs` | Verzeichnisseiten: Übersicht, Staaten, Städte, Unternehmen |
+| `scripts/qualitaet.mjs` | Datenqualität: Fehlkategorien, Postfächer, Namen, Dubletten (`npm run review` → `review/verdachtsfaelle.csv`) |
+| `scripts/anreicherung.mjs`, `scripts/anreichern.mjs` | Fakten von Yard-Websites (Materialien, Lieferung, Zeiten, Preise), siehe `docs/04-anreicherung.md` |
+| `data/anreicherung.json` | Extrahierte Fakten je Yard mit Quelle und Abrufdatum |
+| `data/lastmod.json` | Inhalts-Hash und Änderungsdatum je indexierbarer Seite (`npm run lastmod` nach dem Build) |
 | `src/calc/core.js` | Rechenlogik (reine Funktionen) |
 | `src/directory/distance.js` | Umkreissuche nach ZIP, Median-Preise |
 | `scripts/build.mjs` | Build: erzeugt `public/` (Rechner- und Verzeichnisseiten, Assets, Suchindex `yards.json`/`cities.json`/`zip/`, robots.txt, Sitemap-Index je Seitentyp, Open Graph) |

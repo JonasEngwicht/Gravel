@@ -356,3 +356,11 @@ h2.abstand { color: var(--erde); font-size: 1.35rem; line-height: 1.2; }
 .weitere summary::before { content: "+"; display: inline-grid; place-items: center; width: 22px; height: 22px; margin-right: 8px; border-radius: 50%; background: var(--moos-hell); font-weight: 700; }
 .weitere[open] summary::before { content: "–"; }
 .tag-kette { background: var(--kies); }
+.yard-chips { display: flex; flex-wrap: wrap; gap: 4px; margin: 4px 0 2px; }
+.chip { display: inline-block; padding: 1px 8px; border-radius: 999px; background: var(--moos-hell); color: var(--moos-dunkel); font-size: .78rem; font-weight: 600; }
+.chip-lief { background: var(--moos); color: #fff; }
+.chip-filter { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin: 4px 0 14px; }
+.chip-filter button { min-height: 40px; padding: 6px 14px; border-radius: 999px; border: 1px solid var(--linie); background: #fff; font: inherit; font-weight: 600; cursor: pointer; }
+.chip-filter button[aria-pressed="true"] { background: var(--moos); border-color: var(--moos); color: #fff; }
+.chip-hinweis { flex-basis: 100%; }
+.karte-box { height: 360px; border-radius: 12px; overflow: hidden; margin: 0 0 16px; border: 1px solid var(--linie); }

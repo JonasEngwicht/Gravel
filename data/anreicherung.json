@@ -1,0 +1,7 @@
+{
+ "_meta": {
+  "beschreibung": "Fakten von den Websites der Yards (AP5). Nur was dort steht; je Feld Quelle und Abrufdatum unter quellen. Erzeugt mit node scripts/anreichern.mjs extrahieren.",
+  "erzeugt": null
+ },
+ "yards": {}
+}

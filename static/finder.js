@@ -51,6 +51,7 @@ function karte([, , titel, stadt, staat, art, pfad, tel, ok], mi) {
 
 for (const form of document.querySelectorAll('[data-finder]')) finder(form);
 for (const feld of document.querySelectorAll('[data-filter]')) filter(feld);
+for (const leiste of document.querySelectorAll('[data-chips]')) chipFilter(leiste);
 
 function finder(form) {
   const eingabe = form.querySelector('input');
@@ -155,5 +156,21 @@ function filter(feld) {
       if (an) sichtbar++;
     }
     if (leer) leer.hidden = sichtbar > 0;
+  });
+}
+
+// Stadtseite: Yards nach Material/Lieferung filtern (Daten aus data-m der Karten, von den Websites der Yards).
+// Mehrere Knöpfe = alle Bedingungen müssen passen. Ohne aktive Knöpfe ist alles sichtbar.
+function chipFilter(leiste) {
+  const karten = [...leiste.closest('section').querySelectorAll('ul.yards > li.yard')];
+  leiste.addEventListener('click', (e) => {
+    const b = e.target.closest('[data-f]');
+    if (!b) return;
+    b.setAttribute('aria-pressed', String(b.getAttribute('aria-pressed') !== 'true'));
+    const aktiv = [...leiste.querySelectorAll('[aria-pressed="true"]')].map((x) => x.dataset.f);
+    for (const li of karten) {
+      const m = (li.dataset.m || '').split(' ');
+      li.hidden = aktiv.length > 0 && !aktiv.every((f) => m.includes(f));
+    }
   });
 }

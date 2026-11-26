@@ -4,7 +4,9 @@ import { totalArea, calculate, cost, pickupTrips, m2ToSqft, cmToIn, mToFt, KG_PE
 const form = document.getElementById('rechner');
 if (form) start();
 // Verzeichnis: Suche nach ZIP/Stadt und Städtefilter (eigene Datei, nur wo gebraucht)
-if (document.querySelector('[data-finder], [data-filter]')) import('./finder.js');
+if (document.querySelector('[data-finder], [data-filter], [data-chips]')) import('./finder.js');
+// Karte auf Stadtseiten: Leaflet und OpenStreetMap-Kacheln laden erst nach Klick auf „Show on map“
+if (document.querySelector('[data-karte]')) import('./karte.js');
 if (document.getElementById('umrechner')) import('./umrechner.js');
 if (document.querySelector('select')) import('./auswahl.js');
 
