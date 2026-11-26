@@ -41,12 +41,17 @@ export function totalArea(sections) {
  * @param {object} p.material    entry from data/materials.json
  * @param {number} [p.wastePct]  buffer in percent (defaults to material.waste_pct)
  * @param {number} [p.bagCuFt]   bag size (defaults to first bag size of the material)
+ * @param {number} [p.compactionPct] extra for compaction in percent (defaults to material.compaction_pct, else 0)
+ * @param {number} [p.existingIn] existing layer in inches – only the difference to depthIn is ordered (top-up)
  */
-export function calculate({ sqft, depthIn, material, wastePct, bagCuFt }) {
-  if (!(sqft > 0) || !(depthIn > 0)) throw new Error("Area and depth must be > 0");
-  const buffer = 1 + (wastePct ?? material.waste_pct ?? 0) / 100;
+export function calculate({ sqft, depthIn, material, wastePct, bagCuFt, compactionPct, existingIn = 0 }) {
+  const netDepthIn = depthIn - (existingIn > 0 ? existingIn : 0);
+  if (!(sqft > 0) || !(netDepthIn > 0)) throw new Error("Area and depth must be > 0");
+  const waste = wastePct ?? material.waste_pct ?? 0;
+  const compaction = compactionPct ?? material.compaction_pct ?? 0;
+  const buffer = (1 + waste / 100) * (1 + compaction / 100);
 
-  const cuFt = sqft * (depthIn / 12) * buffer;
+  const cuFt = sqft * (netDepthIn / 12) * buffer;
   const cy = cuFt / CU_FT_PER_CY;
   const tons = cy * material.density_tons_per_cy;
   const [dMin, dMax] = material.density_range ?? [material.density_tons_per_cy, material.density_tons_per_cy];
@@ -63,6 +68,9 @@ export function calculate({ sqft, depthIn, material, wastePct, bagCuFt }) {
     lbs: tons * LB_PER_TON,
     bags,
     bagSize: bagSize ?? null,
+    netDepthIn,
+    wastePct: waste,
+    compactionPct: compaction,
     // What the user should order: suppliers usually sell in 0.5 cy / 0.5 ton steps
     orderCy: roundUpTo(cy, 0.5),
     orderTons: roundUpTo(tons, 0.5),
@@ -80,6 +88,19 @@ export function cost(result, prices) {
   if (prices.perTon != null) out.bulkByTon = result.orderTons * prices.perTon + delivery;
   if (prices.perBag != null && result.bags != null) out.bags = result.bags * prices.perBag;
   return out;
+}
+
+/** Bulk vs. bags: cheapest bulk total, bag total and the saving (null if a price is missing). */
+export function bulkVsBags(costs) {
+  const bulk = [costs.bulkByCy, costs.bulkByTon].filter((x) => x != null);
+  if (!bulk.length || costs.bags == null) return null;
+  const best = Math.min(...bulk);
+  return { bulk: best, bags: costs.bags, saving: costs.bags - best, cheaper: best <= costs.bags ? "bulk" : "bags" };
+}
+
+/** Dump truck loads: limited by weight (tons) or bed volume (cubic yards), whichever is reached first. Tandem: ~14 t / ~14 cy. */
+export function dumpTruckLoads(result, { tons = 14, cy = 14 } = {}) {
+  return Math.ceil(Math.max(result.tons / tons, result.cy / cy) - 1e-9);
 }
 
 /** How many trips with a pickup truck (payload in lb, bed volume in cy). */

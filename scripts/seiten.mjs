@@ -79,6 +79,11 @@ ${FORMEL}`,
       ['How do I calculate cubic yards?', 'Multiply the area in square feet by the depth in inches, divide by 12 to get cubic feet, then divide by 27. For example, 324 sq ft at 3 inches is 81 cubic feet, or 3 cubic yards.'],
       ['Is it cheaper to buy in bulk or in bags?', 'For small jobs under about 1 cubic yard, bags are often simpler. From roughly 2–3 cubic yards upward, bulk material from a landscape supply yard is usually much cheaper, even with a delivery fee.'],
       ['Why add extra material?', 'Material settles and compacts, edges are rarely perfect, and some is lost while spreading. Adding 10–15 % avoids a second trip.'],
+      ['How many square feet does a cubic yard cover?', 'At 2 inches deep a cubic yard covers 162 sq ft, at 3 inches 108 sq ft and at 4 inches 81 sq ft. The rule: 324 divided by the depth in inches.'],
+      ['How many bags make a cubic yard?', 'A cubic yard is 27 cubic feet: 13.5 bags of 2 cu ft, 9 bags of 3 cu ft, 27 bags of 1 cu ft or 54 bags of 0.5 cu ft.'],
+      ['How do I convert cubic yards to tons?', 'Multiply cubic yards by the material’s weight per cubic yard: about 1.4 tons for gravel and crushed stone, 1.35 for sand, 1.1 for topsoil and 0.3 for wood mulch.'],
+      ['How deep should mulch and gravel be?', 'Mulch: 2–3 inches in beds. Decorative gravel and paths: 2–3 inches. Gravel driveways: 4–8 inches of base plus 2–4 inches of top stone.'],
+      ['Should I order by the yard or by the ton?', 'Follow your supplier: mulch, soil and compost are usually sold by the cubic yard, gravel, stone and sand by the ton. The calculator shows both, so you can order either way.'],
     ],
   },
   {
@@ -100,19 +105,22 @@ ${FORMEL}`,
     inhalt: `${MESSEN}
 <h2>How much mulch do I need?</h2>
 <p>Multiply the bed’s square footage by the depth in inches and divide by 324 – that’s cubic yards. A 10 × 20 ft bed (200 sq ft) at 3 inches needs about 1.85 cubic yards, or 25 bags of 2 cu ft. Most people add 10 % because fresh mulch settles, which makes it about 28 bags.</p>
-<p>Topping up last year’s mulch? Then 1–2 inches is usually enough, and you need only half as much. The calculator handles several beds at once and shows cubic yards and bags side by side.</p>
+<p>Topping up last year’s mulch? Then 1–2 inches is usually enough. Enter the depth you want and the layer that’s still there under “Options” – the calculator only counts the difference. It handles several beds at once and shows cubic yards and bags side by side.</p>
 <h2>How many cubic feet are in a yard of mulch?</h2>
 <p>A “yard” of mulch means a cubic yard: <strong>27 cubic feet</strong>, or a pile 3 ft long, 3 ft wide and 3 ft high. That equals 13.5 bags of 2 cu ft or 9 bags of 3 cu ft. The <a href="/guides/how-many-bags-of-mulch-in-a-yard/">bags of mulch chart</a> lists 1 to 10 yards for every bag size.</p>
 <h2>How much is a yard of mulch?</h2>
 <p>At a landscape supply yard, plain shredded hardwood or wood-chip mulch usually costs somewhere between $15 and $50 per cubic yard. Dyed, cedar and premium bark mulch cost more. Bagged mulch runs about $3–$7 per 2 cu ft bag – roughly $40–$95 for a yard’s worth of bags.${vgl(Q.mulchHomeguide, Q.mulchLawnstarter)}</p>
-<p>So the price per yard of mulch drops a lot once you buy in bulk, even after the delivery fee. Prices depend heavily on your region and the season: enter your local price per yard or per bag under “Extra %, bag size &amp; prices” and the calculator shows your total cost. Yards near you are listed in the <a href="/landscape-supply/">landscape supply directory</a>.</p>
+<p>So the price per yard of mulch drops a lot once you buy in bulk, even after the delivery fee. Prices depend heavily on your region and the season: enter your local price per yard or per bag under “Options” and the calculator shows your total cost. Yards near you are listed in the <a href="/landscape-supply/">landscape supply directory</a>.</p>
 <h2>How deep should mulch be?</h2>
 <p>For most flower beds 2–3 inches is right. Less than 2 inches won’t keep weeds down; more than 4 inches can keep water and air from reaching the roots. Around trees, keep mulch a few inches away from the trunk – don’t pile it up in a “volcano”.</p>
 <h2>Bulk mulch or bags – which is cheaper?</h2>
-<p>Bags are handy for a bed or two and fit in a car. From about 2–3 cubic yards, bulk mulch is usually cheaper per yard, even with a delivery fee. Enter both prices under “Extra %, bag size &amp; prices” to compare them for your project.</p>`,
+<p>Bags are handy for a bed or two and fit in a car. From about 2–3 cubic yards, bulk mulch is usually cheaper per yard, even with a delivery fee. Enter both prices under “Options” to compare them for your project.</p>`,
     faq: [
       ['How many yards of mulch do I need for 1,000 square feet?', 'About 9.3 cubic yards at 3 inches deep and 6.2 cubic yards at 2 inches, before the usual 10 % extra.'],
       ['How much does a bag of mulch weigh?', 'A 2 cu ft bag of wood mulch usually weighs about 30–60 lb, depending on the type and how wet it is. 3 cu ft bags weigh about half as much again.'],
+      ['What is the 3-3-3 rule for mulch?', 'It’s a simple rule of thumb for trees and beds: spread mulch about 3 inches deep, keep it about 3 inches away from trunks and stems, and around trees cover a ring roughly 3 feet wide. Thicker layers can keep water and air from the roots.'],
+      ['How many bags of mulch do I need to cover 500 square feet?', 'At 3 inches deep, 500 sq ft takes 125 cubic feet: about 63 bags of 2 cu ft or 42 bags of 3 cu ft. At 2 inches, about 42 bags of 2 cu ft. Add about 10 % for settling.'],
+      ['How do I estimate a yard of mulch?', 'One cubic yard covers about 162 sq ft at 2 inches or 108 sq ft at 3 inches. Measure your beds in square feet, multiply by the depth in inches and divide by 324 to get cubic yards.'],
       ['How often should I add new mulch?', 'Most beds need a top-up once a year. Wood mulch breaks down slowly, so 1–2 inches on top of the old layer is usually enough to bring it back to 2–3 inches.'],
     ],
     quellen: [Q.mulchHomeguide, Q.mulchLawnstarter],
@@ -149,7 +157,7 @@ ${FORMEL}`,
 <p>A cubic yard of gravel weighs about 1.4 tons, so it typically costs around $30–$80 for pea gravel or crushed stone.${vgl(Q.erbsenkiesHomeguide, Q.gesteinThisOldHouse)}</p>
 <h3>How much is a load of gravel?</h3>
 <p>A tandem dump truck carries about 12–16 tons. With delivery, a load of common gravel usually comes to somewhere between $250 and $1,000, depending on the stone and how far you are from the pit. More on truck sizes in the <a href="/guides/dump-truck-load-of-gravel/">dump truck load guide</a>.</p>
-<p>Prices vary by region – enter your price per ton under “Extra %, bag size &amp; prices” to get your own total.</p>
+<p>Prices vary by region – enter your price per ton under “Options” to get your own total.</p>
 <h2>How deep should gravel be?</h2>
 <p>Garden paths and decorative areas need about 2–3 inches. Patios and walkways that get regular foot traffic do better with 3–4 inches over a compacted base. Driveways need a base layer as well – use the <a href="/driveway-gravel-calculator/">driveway gravel calculator</a>.</p>`,
     faq: [
@@ -179,7 +187,7 @@ ${FORMEL}`,
     inhalt: `${MESSEN}
 <h2>How much topsoil do I need?</h2>
 <p>Multiply the square feet by the depth in inches and divide by 324 to get cubic yards. A 1,000 sq ft lawn area at 4 inches needs about 12.3 cubic yards; a 2-inch layer for overseeding a thin lawn needs about 6.2. If you already know the area in square feet, choose “Known area” as the shape and type it in.</p>
-<p>Topsoil settles after it’s spread and watered, so the calculator adds 15 % by default. You can change that under “Extra %, bag size &amp; prices”.</p>
+<p>Topsoil settles after it’s spread and watered, so the calculator adds 15 % by default. You can change that under “Options”.</p>
 <h2>How deep should topsoil be for grass?</h2>
 <p>For a new lawn from seed or sod, plan on 4–6 inches of topsoil over loosened ground. To fill low spots in an existing lawn, spread no more than about half an inch at a time so the grass can grow through. Vegetable and flower beds do best with 6–12 inches of good soil.</p>
 <h2>Topsoil, garden soil or fill dirt?</h2>
@@ -258,7 +266,7 @@ ${FORMEL}`,
 <p>A typical single-car driveway is 10–12 ft wide; a two-car driveway is 20–24 ft wide. Crusher run compacts a lot, so the calculator adds 15 % for it automatically.</p>
 <h2>How much does a gravel driveway cost?</h2>
 <p>Installed by a contractor, a gravel driveway typically costs about $1–$3 per square foot, depending on how much digging and base work is needed. If you spread it yourself, the gravel alone usually comes to about $0.50–$1.50 per square foot. For a 24 × 24 ft two-car driveway that’s roughly $600–$1,800 installed.${vgl(Q.einfahrtHomeguide, Q.einfahrtLawnstarter)}</p>
-<p>To estimate your own cost, enter your supplier’s price per ton under “Extra %, bag size &amp; prices” for each layer and add the delivery fee.</p>`,
+<p>To estimate your own cost, enter your supplier’s price per ton under “Options” for each layer and add the delivery fee.</p>`,
     faq: [
       ['How many tons of gravel do I need for a driveway?', 'Multiply length × width in feet, then by the depth in inches, divide by 324 to get cubic yards, and multiply by about 1.4–1.6 tons per cubic yard. A 50 × 12 ft driveway with 4 inches of stone needs roughly 10–11 tons.'],
       ['What is the best gravel for a driveway?', 'A compacted base of crusher run (also called road base or dense grade aggregate) with a top layer of angular crushed stone such as #57 is a common, durable combination. Round pea gravel tends to shift under tires.'],
@@ -368,7 +376,7 @@ ${FORMEL}`,
 <h2>Backfill calculator for trenches and foundations</h2>
 <p>For a trench, enter its length, width and depth as a rectangle. For backfill along a foundation wall, use the length of the wall, the width of the gap you’re filling and its depth. Backfill is compacted in layers, so leave the extra at 15–25 %.</p>
 <h2>How much extra for compaction?</h2>
-<p>Loose fill dirt loses volume when it is compacted with a plate compactor or roller. Add <strong>15–25 %</strong> for fill that will be compacted in layers, and around 10 % for loose fill in a garden. Set the percentage under “Extra %, bag size &amp; prices”.</p>
+<p>Loose fill dirt loses volume when it is compacted with a plate compactor or roller. Add <strong>15–25 %</strong> for fill that will be compacted in layers, and around 10 % for loose fill in a garden. The calculator adds 20 % for compaction plus 5 % for waste by default – change both under “Options”.</p>
 <h2>Fill dirt for an old pool or a big hole</h2>
 <p>Measure the average depth and enter the area as a rectangle or circle. For deep fills, place and compact the dirt in 6–8 inch layers, and finish with 4–6 inches of <a href="/topsoil-calculator/">topsoil</a> if grass should grow on top.</p>`,
     faq: [
@@ -552,7 +560,7 @@ ${FORMEL}`,
 <h2>How deep should landscape rock be?</h2>
 <p>Make the layer about twice as deep as the stones are wide: 2–3 inches for ¾–1 inch rock, 3–4 inches for 1–3 inch rock. Put landscape fabric underneath so the rock doesn’t sink into the soil and weeds stay down.</p>
 <h2>Lava rock is lighter</h2>
-<p>Lava rock weighs only about 0.5–0.75 tons per cubic yard, so a ton covers roughly twice the area of regular rock. If you order lava rock, enter your supplier’s weight under “Extra %, bag size &amp; prices” or use the cubic yard figure.</p>`,
+<p>Lava rock weighs only about 0.5–0.75 tons per cubic yard, so a ton covers roughly twice the area of regular rock. If you order lava rock, enter your supplier’s weight under “Options” or use the cubic yard figure.</p>`,
     faq: [
       ['How much area does a ton of landscape rock cover?', 'At 2 inches about 120 sq ft, at 3 inches about 80 sq ft, at 4 inches about 60 sq ft.'],
       ['How many tons of rock do I need for 100 square feet?', 'At 3 inches, about 1.3 tons. At 2 inches, a little under 1 ton.'],

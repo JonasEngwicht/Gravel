@@ -1,5 +1,5 @@
 // Rechner im Browser. Rechenlogik kommt aus core.js (dieselbe Datei wie src/calc/core.js, getestet in test/).
-import { totalArea, calculate, cost, pickupTrips, m2ToSqft, cmToIn, mToFt, KG_PER_TON } from './core.js';
+import { totalArea, calculate, cost, pickupTrips, dumpTruckLoads, bulkVsBags, m2ToSqft, cmToIn, mToFt, KG_PER_TON } from './core.js';
 
 const form = document.getElementById('rechner');
 if (form) start();
@@ -46,6 +46,7 @@ async function start() {
     if (q.get('sqft')) state.abschnitte = [{ shape: 'area', dims: { sqft: +q.get('sqft') } }];
     if (q.get('u') === 'metric') state.einheit = 'metric';
     if (q.get('d')) $('tiefe').value = q.get('d');
+    if (q.get('e') && $('bestand')) $('bestand').value = q.get('e');
   }
 
   // ---------- Abschnitte ----------
@@ -127,6 +128,10 @@ async function start() {
     const d = tiefe ?? m.default_depth_in;
     if (!cfg.nurVolumen || tiefe != null) $('tiefe').value = state.einheit === 'metric' ? +(d * 2.54).toFixed(1) : d;
     $('puffer').value = m.waste_pct;
+    if ($('verdichtung')) {
+      $('verdichtung').value = m.compaction_pct || 0;
+      $('verdichtung').closest('label').hidden = !m.compaction_pct;
+    }
     materialHinweise();
   }
   // Schnellwahl für gängige Tiefen (passend zum Material)
@@ -205,25 +210,28 @@ async function start() {
       abschnitte.push({ shape: a.shape, dims });
     }
     const tiefe = wert('tiefe');
-    return { abschnitte, depthIn: tiefe ? (metrisch ? cmToIn(tiefe) : tiefe) : 0 };
+    const bestand = wert('bestand');
+    return { abschnitte, depthIn: tiefe ? (metrisch ? cmToIn(tiefe) : tiefe) : 0, existingIn: bestand ? (metrisch ? cmToIn(bestand) : bestand) : 0 };
   }
 
   function rechnen() {
     chipsMarkieren();
     const box = $('ergebnis');
-    const { abschnitte, depthIn } = eingabenInFuss();
+    const { abschnitte, depthIn, existingIn } = eingabenInFuss();
     const sqft = abschnitte.length ? totalArea(abschnitte) : 0;
-    if (!(sqft > 0) || !(depthIn > 0)) {
-      box.innerHTML = `<p class="leer">${sqft > 0 ? 'Enter a depth' : 'Enter your measurements'} – your result shows up here instantly.</p>`;
+    if (!(sqft > 0) || !(depthIn > 0) || existingIn >= depthIn) {
+      box.innerHTML = `<p class="leer">${!(sqft > 0) ? 'Enter your measurements' : !(depthIn > 0) ? 'Enter a depth' : 'The existing layer is already as deep as the target depth – nothing to add'}${existingIn >= depthIn && depthIn > 0 ? '.' : ' – your result shows up here instantly.'}</p>`;
       leiste('');
       return;
     }
     const m = matById[state.material];
-    const r = calculate({ sqft, depthIn, material: m, wastePct: wert('puffer') ?? 0, bagCuFt: wert('sack') });
+    const r = calculate({ sqft, depthIn, existingIn, material: m, wastePct: wert('puffer') ?? 0, compactionPct: wert('verdichtung') ?? 0, bagCuFt: wert('sack') });
     const metrisch = state.einheit === 'metric';
     const t = (x) => (metrisch ? `${zahl((x * KG_PER_TON) / 1000, 2)} t` : `${zahl(x, 2)} tons`);
     const flaecheText = metrisch ? `${zahl(sqft / m2ToSqft(1))} m²` : `${zahl(sqft, 0)} sq ft`;
-    const tiefeText = metrisch ? `${zahl(depthIn * 2.54)} cm` : `${zahl(depthIn, 2)} in`;
+    const tief = (x) => (metrisch ? `${zahl(x * 2.54)} cm` : `${zahl(x, 2)} in`);
+    const tiefeText = existingIn > 0 ? `${tief(r.netDepthIn)} on top of ${tief(existingIn)} (total ${tief(depthIn)})` : tief(depthIn);
+    const extraText = `Includes ${r.wastePct}% extra for settling and waste${r.compactionPct ? ` and ${r.compactionPct}% for compaction` : ''}.`;
 
     let html, kurz;
     if (cfg.nurVolumen) {
@@ -231,7 +239,7 @@ async function start() {
       html = `<p class="gross"><span>${zahl(r.cy, 2)}</span> cubic yards${metrisch ? ` (${zahl(r.m3, 2)} m³)` : ''}</p>
         <dl class="werte"><div><dt>Cubic feet</dt><dd>${zahl(r.cuFt)}</dd></div><div><dt>Cubic meters</dt><dd>${zahl(r.m3, 2)}</dd></div>
         <div><dt>Area</dt><dd>${flaecheText}</dd></div><div><dt>Depth</dt><dd>${tiefeText}</dd></div></dl>
-        <p class="klein">Includes ${wert('puffer') ?? 0}% extra.</p>`;
+        <p class="klein">${extraText}</p>`;
     } else {
       const nachGewicht = m.sold_by[0] === 'ton';
       kurz = nachGewicht
@@ -252,30 +260,40 @@ async function start() {
       if (r.bags) zeilen.push([`Bags (${r.bagSize} cu ft)`, `${r.bags.toLocaleString('en-US')} bags`]);
       const trips = pickupTrips(r);
       zeilen.push(['Pickup truck', trips > 3 ? `${trips} trips – delivery recommended` : `${trips} trip${trips > 1 ? 's' : ''} (half-ton pickup)`]);
+      if (r.cy >= 3 || r.tons >= 4) {
+        const loads = dumpTruckLoads(r);
+        zeilen.push(['Dump truck', `${loads} tandem load${loads > 1 ? 's' : ''} (about 14 tons or 14 cu yd each)`]);
+      }
 
       const c = cost(r, { perCy: wert('p-cy'), perTon: wert('p-t'), perBag: wert('p-sack'), deliveryFee: wert('p-lief') });
       const kosten = [];
       if (c.bulkByCy != null) kosten.push(['Bulk (by cubic yard)', geld(c.bulkByCy)]);
       if (c.bulkByTon != null) kosten.push(['Bulk (by ton)', geld(c.bulkByTon)]);
       if (c.bags != null) kosten.push(['Bags', geld(c.bags)]);
+      const vgl = bulkVsBags(c);
+      // Ersparnis aus den gerundeten Beträgen, damit die Zeilen zusammenpassen
+      if (vgl) kosten.push([vgl.cheaper === 'bulk' ? 'You save with bulk' : 'Bags are cheaper by', `<strong>${geld(Math.abs(Math.round(vgl.bags) - Math.round(vgl.bulk)))}</strong>`]);
 
       const tipp = r.bags && r.cy >= 2.5 && m.sold_by.includes('cy')
         ? '<p class="tipp">At this amount, bulk delivery from a landscape supply yard is usually cheaper than bags.</p>'
         : '';
       html = `${haupt}
         <dl class="werte">${zeilen.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join('')}</dl>
-        ${kosten.length ? `<h3>Estimated cost</h3><dl class="werte">${kosten.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join('')}</dl>` : '<p class="klein">Add your local prices under “Extra %, bag size &amp; prices” to see the cost.</p>'}
+        ${kosten.length ? `<h3>Estimated cost</h3><dl class="werte">${kosten.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join('')}</dl>` : '<p class="klein">Add your local prices under “Options” to see the cost.</p>'}
         ${tipp}
-        <p class="klein">Includes ${wert('puffer') ?? 0}% extra for settling and waste.</p>`;
+        <p class="klein">${extraText}</p>`;
     }
     const link = new URL(location.pathname, location.origin);
     link.searchParams.set('m', state.material);
     link.searchParams.set('sqft', +(sqft).toFixed(1));
     link.searchParams.set('d', +($('tiefe').value));
     if (metrisch) link.searchParams.set('u', 'metric');
+    if (existingIn > 0) link.searchParams.set('e', +($('bestand').value));
     box.innerHTML = html + `<div class="ergebnis-aktionen">
       ${cfg.cta ? '<a class="knopf" href="/landscape-supply/">Find a yard that sells this near you</a>' : ''}
-      <button type="button" class="knopf-zweit" id="teilen" data-link="${link}">Copy link to this result</button></div>`;
+      <button type="button" class="knopf-zweit" id="teilen" data-link="${link}">Copy link</button>
+      <button type="button" class="knopf-zweit" id="kopieren">Copy result</button>
+      <button type="button" class="knopf-zweit" id="drucken">Print</button></div>`;
     leiste(kurz);
   }
 
@@ -301,6 +319,17 @@ async function start() {
   $('leiste-knopf').addEventListener('click', zumErgebnis);
 
   $('ergebnis').addEventListener('click', async (e) => {
+    if (e.target.id === 'drucken') { window.print(); return; }
+    if (e.target.id === 'kopieren') {
+      // Ergebnis als Text: Hauptzahl, Werte-Tabelle, Kosten, Link
+      const box = $('ergebnis');
+      const zeilen = [document.querySelector('h1')?.textContent || '', box.querySelector('.gross')?.textContent.trim() || '', box.querySelector('.neben')?.textContent.trim() || '',
+        ...[...box.querySelectorAll('.werte > div')].map((d) => `${d.querySelector('dt').textContent}: ${d.querySelector('dd').textContent}`),
+        box.querySelector('#teilen')?.dataset.link || ''].filter(Boolean);
+      try { await navigator.clipboard.writeText(zeilen.join('\n')); e.target.textContent = 'Result copied'; }
+      catch { prompt('Copy your result:', zeilen.join(' · ')); }
+      return;
+    }
     if (e.target.id !== 'teilen') return;
     const link = e.target.dataset.link;
     try { await navigator.clipboard.writeText(link); e.target.textContent = 'Link copied'; }

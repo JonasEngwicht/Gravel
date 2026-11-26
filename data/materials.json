@@ -1,6 +1,7 @@
 {
   "_meta": {
     "description": "Material parameters for the calculators. Densities and depths are typical reference values and must be checked against supplier data sheets before launch.",
+    "compaction_pct": "extra for compaction in percent (fill, base gravel, bedding sand), applied on top of waste_pct",
     "units": {
       "density_tons_per_cy": "short tons (2,000 lb) per loose cubic yard",
       "depth_in": "inches",
@@ -86,8 +87,9 @@
       "bag_cu_ft": [],
       "default_depth_in": 4,
       "depth_range_in": [4, 8],
-      "waste_pct": 15,
-      "note": "Compacts significantly – higher buffer."
+      "waste_pct": 5,
+      "compaction_pct": 15,
+      "note": "Compacts significantly – the calculator adds 15 % for compaction."
     },
     {
       "id": "river-rock",
@@ -175,7 +177,9 @@
       "bag_cu_ft": [],
       "default_depth_in": 6,
       "depth_range_in": [2, 24],
-      "waste_pct": 15
+      "waste_pct": 5,
+      "compaction_pct": 20,
+      "note": "Loose fill shrinks when compacted – the calculator adds 20 % for compaction."
     },
     {
       "id": "masonry-sand",
@@ -199,7 +203,8 @@
       "bag_cu_ft": [0.5],
       "default_depth_in": 1,
       "depth_range_in": [1, 2],
-      "waste_pct": 10,
+      "waste_pct": 5,
+      "compaction_pct": 10,
       "note": "About 1 in of bedding sand goes on top of a compacted gravel base. Joint (polymeric) sand is sold separately."
     },
     {
