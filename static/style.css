@@ -1,12 +1,15 @@
+@font-face { font-family: "Bitter"; src: url("/assets/bitter-700.woff") format("woff"); font-weight: 700; font-style: normal; font-display: swap; }
+
 :root {
-  --erde: #3d2f22;
+  --erde: #33271c;
   --rinde: #6b4f36;
   --moos: #4f6b3a;
   --moos-dunkel: #3b5229;
   --moos-hell: #e6eedc;
-  --kies: #ece7df;
-  --sand: #f7f4ef;
-  --linie: #ddd5c8;
+  --kies: #e7e3db;
+  --sand: #f1efea;
+  --linie: #d9d3c7;
+  --schrift-titel: "Bitter", "Roboto Slab", Georgia, serif;
   --text: #2a241e;
   --leise: #6b6258;
   --radius: 14px;
@@ -29,7 +32,7 @@ svg { flex-shrink: 0; }
 /* ---------- Kopf ---------- */
 .kopf { background: var(--erde); color: #fff; }
 .kopf-innen { display: grid; grid-template-columns: auto 1fr auto; grid-template-areas: "logo menue cta"; align-items: center; gap: 8px 16px; padding-top: 10px; padding-bottom: 10px; }
-.logo { grid-area: logo; display: flex; align-items: center; gap: 8px; color: #fff; text-decoration: none; font-weight: 700; font-size: 1.1rem; min-height: 44px; }
+.logo { grid-area: logo; display: flex; align-items: center; gap: 8px; color: #fff; text-decoration: none; font-family: var(--schrift-titel); font-weight: 700; font-size: 1.15rem; letter-spacing: -.005em; min-height: 44px; }
 .menue { grid-area: menue; display: flex; gap: 2px; justify-content: flex-end; }
 .menue a { color: #f1e9dc; text-decoration: none; padding: 8px 11px; border-radius: 999px; font-size: .95rem; white-space: nowrap; }
 .menue a:hover, .menue a[aria-current] { background: rgba(255,255,255,.14); color: #fff; }
@@ -44,11 +47,13 @@ svg { flex-shrink: 0; }
 }
 
 /* ---------- Hero ---------- */
-.held { background: linear-gradient(180deg, var(--erde), var(--rinde)); color: #fff; padding: 28px 0 72px; }
-.held h1 { margin: 0 0 8px; font-size: clamp(1.65rem, 4.5vw, 2.6rem); line-height: 1.15; letter-spacing: -.01em; }
+.kopf { border-bottom: 1px solid rgba(255,255,255,.06); }
+/* Kopffläche mit Bodenquerschnitt (Mulch, Mutterboden, Kies, Sand) am unteren Rand – static/schichten.svg */
+.held { background: url("/assets/schichten.svg") repeat-x left bottom / auto 96px, var(--erde); color: #fff; padding: 30px 0 128px; }
+.held h1 { margin: 0 0 10px; font-family: var(--schrift-titel); font-weight: 700; font-size: clamp(1.85rem, 5vw, 3rem); line-height: 1.08; letter-spacing: -.015em; max-width: 20ch; text-wrap: balance; }
 .unter { margin: 0; max-width: 680px; color: #efe6d8; font-size: 1.08rem; }
 @media (max-width: 760px) {
-  .held { padding: 18px 0 64px; }
+  .held { padding: 20px 0 112px; background-size: auto 80px, auto; }
   .unter { font-size: .98rem; line-height: 1.45; }
 }
 
@@ -118,7 +123,7 @@ button:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px soli
 .ergebnis { background: var(--kies); border-radius: 12px; padding: 20px; align-self: start; position: sticky; top: 16px; outline: none; }
 .ergebnis .leer { color: var(--leise); margin: 0; }
 .gross { margin: 0; font-size: 1.15rem; }
-.gross span { display: block; font-size: 2.6rem; font-weight: 800; line-height: 1.1; color: var(--erde); font-variant-numeric: tabular-nums; }
+.gross span { display: block; font-family: var(--schrift-titel); font-size: 2.9rem; font-weight: 700; line-height: 1.05; letter-spacing: -.02em; color: var(--erde); font-variant-numeric: lining-nums tabular-nums; }
 .neben { margin: 4px 0 16px; }
 .werte { margin: 0 0 12px; }
 .werte div { display: flex; justify-content: space-between; gap: 12px; padding: 7px 0; border-bottom: 1px solid var(--linie); }
@@ -152,7 +157,8 @@ button:focus-visible, a:focus-visible, summary:focus-visible { outline: 3px soli
 
 /* ---------- Inhalt ---------- */
 .inhalt { max-width: 760px; padding: 24px 0 40px; }
-.inhalt h2 { margin-top: 36px; font-size: 1.4rem; color: var(--erde); line-height: 1.25; }
+.inhalt h2 { margin-top: 40px; font-family: var(--schrift-titel); font-weight: 700; font-size: 1.5rem; color: var(--erde); line-height: 1.2; letter-spacing: -.01em; text-wrap: balance; }
+.inhalt h3 { font-size: 1.08rem; color: var(--erde); margin: 24px 0 6px; }
 .inhalt li { margin-bottom: 4px; }
 .tabelle { overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: 10px; border: 1px solid var(--linie); }
 table { border-collapse: collapse; width: 100%; background: #fff; font-size: .95rem; }
@@ -194,7 +200,7 @@ th { background: var(--kies); white-space: nowrap; }
   .krumen a { display: inline-block; padding: 6px 0; }
 }
 .liste-karte { margin-top: -52px; background: #fff; border-radius: var(--radius); box-shadow: var(--schatten); padding: 10px 24px 22px; }
-.liste-karte h2 { margin: 26px 0 12px; font-size: 1.3rem; line-height: 1.25; }
+.liste-karte h2 { margin: 26px 0 12px; font-family: var(--schrift-titel); font-weight: 700; font-size: 1.35rem; line-height: 1.2; letter-spacing: -.01em; color: var(--erde); }
 .liste-karte > h2:first-child, .liste-karte > .sprung + h2 { margin-top: 14px; }
 @media (max-width: 760px) {
   .liste-karte { padding: 6px 14px 18px; margin-left: -6px; margin-right: -6px; }
@@ -335,3 +341,10 @@ html.blatt-offen { overflow: hidden; }
 .einwilligung-knoepfe { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
 .einwilligung-knoepfe .knopf-zweit { min-height: 44px; }
 @media (max-width: 500px) { .einwilligung { left: 8px; right: 8px; bottom: calc(8px + env(safe-area-inset-bottom)); max-width: none; } }
+
+/* Titel-Schrift für weitere Überschriften */
+h2.abstand, .finder-titel, .blatt-kopf strong, .einwilligung strong { font-family: var(--schrift-titel); font-weight: 700; letter-spacing: -.005em; }
+h2.abstand { color: var(--erde); font-size: 1.35rem; line-height: 1.2; }
+
+/* Website-Link in der Yard-Karte: dezent, über dem Klickbereich der Karte */
+.karte-web { position: relative; z-index: 1; align-self: flex-start; font-size: .88rem; font-weight: 600; color: var(--moos-dunkel); text-underline-offset: 2px; padding: 2px 0; }

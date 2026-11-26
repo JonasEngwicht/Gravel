@@ -47,6 +47,7 @@ ${robots}${canonical}
 ${ogTags(seite)}
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
+<link rel="preload" href="/assets/bitter-700.woff" as="font" type="font/woff" crossorigin>
 <link rel="stylesheet" href="/assets/style.css?v=${VERSION}">
 <script type="application/ld+json">${JSON.stringify(ld)}</script>
 </head>
