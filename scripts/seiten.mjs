@@ -39,6 +39,11 @@ const Q = {
   reitplatzUky: ['University of Kentucky: riding arena footing', 'https://publications.ca.uky.edu/sites/publications.ca.uky.edu/files/ID265.pdf'],
   reitplatzFarmProgress: ['Farm Progress: arena footing', 'https://farmprogress.com/farm-life/3-steps-to-best-arena-footing'],
   fugensandSakrete: ['Sakrete Paver Set: coverage', 'https://pdf.lowes.com/productdocuments/432c46be-009f-4ece-b6a3-fd52f9c9aac7/16107764.pdf'],
+  agrilifeMulch: ['Texas A&M AgriLife Extension: how much compost, soil or mulch', 'https://travis-tx.tamu.edu/about-2/horticulture/soils-and-composting-for-austin/how-much-compost-soil-or-mulch'],
+  msstateMulch: ['Mississippi State University Extension: mulch for the landscape (P2301)', 'https://extension.msstate.edu/sites/default/files/publications/P2301.pdf'],
+  epaVolumen: ['U.S. EPA: volume-to-weight conversion factors (2016)', 'https://www.epa.gov/sites/production/files/2016-04/documents/volume_to_weight_conversion_factors_memorandum_04192016_508fnl.pdf'],
+  oregonDeq: ['Oregon DEQ: measurement standards, volume-to-weight', 'https://www.oregon.gov/deq/FilterDocs/MRAttachmentB.pdf'],
+  kiesStudie: ['Aggregate unit weights – highway research report (PDF via CORE)', 'https://core.ac.uk/download/232571692.pdf'],
   fugensandRatgeber: ['Polymeric Sand Store: coverage per bag', 'https://polymericsandstore.com/blogs/news/how-many-square-feet-does-a-bag-of-polymeric-sand-cover'],
 };
 
@@ -202,6 +207,44 @@ ${FORMEL}`,
       ['How much does a cubic yard of topsoil weigh?', 'Dry topsoil typically weighs about 1–1.3 tons per cubic yard. Moist soil is heavier.'],
       ['How many bags of topsoil make a cubic yard?', 'About 27 bags of 1 cu ft or 36 bags of 0.75 cu ft.'],
     ],
+  },
+  {
+    pfad: '/compost-calculator/',
+    art: 'rechner',
+    nav: 'Compost',
+    imMenue: false,
+    title: 'Compost Calculator – How Much Compost Do I Need?',
+    description: 'Compost calculator: cubic yards, cubic feet and bags of compost for garden beds, raised beds and lawn top dressing – with depths and coverage per yard.',
+    h1: 'Compost Calculator: How Much Compost Do You Need?',
+    intro: 'Enter your beds or lawn and the layer you want to spread. You get cubic yards for bulk compost and the number of bags – for top dressing, garden beds or raised beds.',
+    kurz: 'Beds, lawns, top dressing',
+    material: 'compost',
+    stoff: 'compost',
+    kategorien: ['soil'],
+    beispiel: { laenge: 20, breite: 10, tiefe: 2 },
+    bloecke: ['deckung', 'saecke', 'gewicht'],
+    verwandt: ['/topsoil-calculator/', '/raised-bed-soil-calculator/', '/mulch-calculator/'],
+    inhalt: `${MESSEN}
+<h2>How much compost do I need?</h2>
+<p>Square feet × depth in inches ÷ 324 = cubic yards. A 10 × 20 ft garden bed with 2 inches of compost needs about 1.2 cubic yards, or 34 bags of 1 cu ft. Compost settles a little, so the calculator adds 10 %.</p>
+<h2>How deep should compost be?</h2>
+<table><thead><tr><th>Use</th><th>Layer</th><th>Compost per 100 sq ft</th></tr></thead><tbody>
+<tr><td>Lawn top dressing</td><td>¼–½ in</td><td>2–4 cu ft</td></tr>
+<tr><td>Mulch layer on beds</td><td>1–2 in</td><td>8–17 cu ft</td></tr>
+<tr><td>New garden bed, worked into the soil</td><td>2–3 in</td><td>17–25 cu ft</td></tr>
+</tbody></table>
+<p>For top dressing, pick “Known area” and type your lawn size in square feet, then choose ¼ or ½ inch. 1,000 sq ft at ¼ inch takes about 0.8 cubic yards.</p>
+<h2>Compost for raised beds</h2>
+<p>A common raised bed mix is about 60 % topsoil and 40 % compost. Work out the whole bed with the <a href="/raised-bed-soil-calculator/">raised bed soil calculator</a> and multiply by 0.4 for the compost share – a 4 × 8 ft bed 12 inches deep holds 32 cubic feet, so about 13 cubic feet of compost.</p>
+<h2>Bulk compost or bags?</h2>
+<p>Bagged compost usually comes in 0.75 or 1 cubic foot bags, so a single cubic yard is 27–36 bags. From about 1 cubic yard on, bulk compost from a <a href="/landscape-supply/">landscape supply yard</a> is usually far cheaper and easier to spread.</p>`,
+    faq: [
+      ['How many bags of compost are in a yard?', '27 bags of 1 cu ft or 36 bags of 0.75 cu ft make one cubic yard.'],
+      ['How much compost do I need for 1,000 square feet?', 'About 0.8 cubic yards at ¼ inch (top dressing), 1.5 cubic yards at ½ inch and 6.2 cubic yards at 2 inches.'],
+      ['How much does a yard of compost weigh?', 'Typically about 900–1,400 lb, depending on moisture. Dry, screened compost is lighter; wet compost is at the top of the range.'],
+      ['How much area does a yard of compost cover?', 'About 1,300 sq ft at ¼ inch, 650 sq ft at ½ inch, 162 sq ft at 2 inches and 108 sq ft at 3 inches.'],
+    ],
+    quellen: [Q.agrilifeMulch],
   },
   {
     pfad: '/river-rock-calculator/',
@@ -670,13 +713,25 @@ ${FORMEL}`,
     verwandt: ['/mulch-calculator/', '/guides/how-much-does-mulch-weigh/', '/rubber-mulch-calculator/'],
     inhalt: `<h2>How many cubic feet are in a yard of mulch?</h2>
 <p>A cubic yard is 3 ft × 3 ft × 3 ft = <strong>27 cubic feet</strong>. Bulk mulch is sold by the cubic yard; bagged mulch is labeled in cubic feet (sometimes in quarts or liters).</p>
+<h2>Bags labeled in quarts or liters</h2>
+<p>Some bagged mulch and soil is labeled in dry quarts or liters instead of cubic feet. Convert first: <strong>cubic feet = dry quarts ÷ 25.7</strong> or <strong>liters ÷ 28.3</strong>. Then divide 27 by the cubic feet per bag.</p>
+<table><thead><tr><th>Bag label</th><th>Cubic feet</th><th>Bags per cubic yard</th></tr></thead><tbody>
+<tr><td>8 qt</td><td>0.31</td><td>87</td></tr>
+<tr><td>16 qt</td><td>0.62</td><td>44</td></tr>
+<tr><td>25 qt</td><td>0.97</td><td>28</td></tr>
+<tr><td>40 L</td><td>1.41</td><td>20</td></tr>
+<tr><td>50 L</td><td>1.77</td><td>16</td></tr>
+<tr><td>56 L (2 cu ft)</td><td>2</td><td>14</td></tr>
+</tbody></table>
 <p>To find out how many yards your beds need in the first place, enter them in the <a href="/mulch-calculator/">mulch calculator</a> – it shows cubic yards and bags side by side. If you plan to haul bags yourself, check <a href="/guides/how-much-does-mulch-weigh/">how much a bag of mulch weighs</a> first.</p>`,
     faq: [
       ['How many 2 cubic foot bags of mulch make a yard?', '13.5 bags. Round up to 14 when you buy.'],
       ['How many bags of mulch are in 3 yards?', 'About 41 bags of 2 cu ft or 27 bags of 3 cu ft.'],
       ['How many square feet does a bag of mulch cover?', 'A 2 cu ft bag covers about 12 sq ft at 2 inches or 8 sq ft at 3 inches.'],
       ['Is a yard of mulch cheaper than bags?', 'Usually yes once you need 2–3 yards or more. 13.5 bags often cost more than one bulk yard, though delivery fees narrow the gap for small orders.'],
+      ['How many cubic feet is a quart of mulch?', 'One dry quart is about 0.039 cubic feet, so 25.7 dry quarts make a cubic foot and an 8 qt bag holds about 0.31 cubic feet.'],
     ],
+    quellen: [Q.agrilifeMulch, Q.msstateMulch],
   },
   {
     pfad: '/guides/how-much-does-mulch-weigh/',
@@ -693,6 +748,7 @@ ${FORMEL}`,
     verwandt: ['/mulch-calculator/', '/guides/how-many-bags-of-mulch-in-a-yard/', '/guides/how-much-does-gravel-weigh/'],
     inhalt: `<h2>Why the weight varies</h2>
 <p>Mulch is mostly wood and water. Freshly ground or rain-soaked mulch can weigh nearly twice as much as dry, aged mulch. Bark nuggets are lighter than shredded hardwood; rubber mulch is in a similar range but doesn’t absorb water.</p>
+<p>Government conversion tables for waste and recycling show the same spread: Oregon’s environmental agency lists a cubic yard of wood chips at about 240 lb dry and 470 lb green, and the U.S. EPA uses 500 lb for wood chips. Shredded mulch packs tighter than chips, which is why bagged and bulk mulch often lands higher.</p>
 <h2>Can my pickup carry a yard of mulch?</h2>
 <p>Usually yes: at 400–800 lb, one cubic yard of mulch is well within the payload of a half-ton pickup, and most beds hold about 2 cubic yards heaped. Gravel is a different story – see <a href="/guides/how-much-does-gravel-weigh/">how much gravel weighs</a>.</p>
 <p>Buying bags instead? The <a href="/guides/how-many-bags-of-mulch-in-a-yard/">bags of mulch per yard chart</a> converts between bags and cubic yards, and the <a href="/mulch-calculator/">mulch calculator</a> works out both for your beds.</p>`,
@@ -701,6 +757,7 @@ ${FORMEL}`,
       ['How much does a yard of mulch weigh?', 'About 400–800 lb for shredded hardwood, 400–600 lb for pine bark.'],
       ['How much does a pallet of mulch weigh?', 'A pallet usually holds 60–75 bags of 2 cu ft, so roughly 2,000–4,000 lb.'],
     ],
+    quellen: [Q.epaVolumen, Q.oregonDeq],
   },
   {
     pfad: '/guides/how-much-does-gravel-weigh/',
@@ -717,12 +774,14 @@ ${FORMEL}`,
     verwandt: ['/gravel-calculator/', '/tons-to-cubic-yards/', '/guides/dump-truck-load-of-gravel/'],
     inhalt: `<h2>How much gravel is a ton?</h2>
 <p>One ton of typical gravel is about <strong>0.7 cubic yards</strong>, a pile roughly 3 ft × 3 ft × 2 ft. At 2 inches deep it covers about 115 square feet.</p>
+<p>Lab measurements of road aggregates land in the same range: around 2,700 lb per cubic yard for crushed gravel and 2,900 lb for uncrushed, graded gravel – about 1.35–1.45 tons.</p>
 <p>Because gravel is sold by the ton but measured by area, the <a href="/gravel-calculator/">gravel calculator</a> does both steps at once. To convert an amount you already know, use the <a href="/tons-to-cubic-yards/">cubic yards to tons converter</a>; for big orders, see <a href="/guides/dump-truck-load-of-gravel/">how much a dump truck carries</a>.</p>`,
     faq: [
       ['How much does a cubic yard of gravel weigh in pounds?', 'About 2,600–3,000 lb for most gravel and crushed stone.'],
       ['How much does a yard of pea gravel weigh?', 'About 1.3–1.5 tons (2,600–3,000 lb).'],
       ['How many yards of gravel are in a ton?', 'About 0.67–0.77 cubic yards, depending on the stone.'],
     ],
+    quellen: [Q.kiesStudie],
   },
   {
     pfad: '/guides/dump-truck-load-of-gravel/',
@@ -791,9 +850,13 @@ ${FORMEL}`,
     kurz: 'Method and data sources',
     inhalt: `<h2>How the calculators work</h2>
 <p>Every calculator turns your area and depth into volume: <strong>square feet × depth in inches ÷ 324 = cubic yards</strong>. For weight, it multiplies cubic yards by a typical weight per cubic yard for the material and shows a range, because moisture and stone type change the weight. You can adjust the extra percentage for settling and waste.</p>
-<p>The material weights are typical reference values for loose material. Suppliers’ own figures can differ – ask your yard for their weight per cubic yard before you order by the ton.</p>
+<p>The material weights are typical reference values for loose, dry material; the guides name public sources such as extension services and government conversion tables. Suppliers’ own figures can differ – ask your yard for their weight per cubic yard before you order by the ton.</p>
 <h2>Where the yard listings come from</h2>
 <p>The directory combines business locations from Overture Maps (© OpenStreetMap contributors, © Overture Maps Foundation) with mine records from the U.S. Mine Safety and Health Administration (MSHA, public domain). Most listings have not been verified yet, so please call ahead to confirm materials, prices, delivery and hours.</p>
+<h2>Who is behind this site</h2>
+<p>Gravel &amp; Mulch is built and maintained by Jonas Engwicht, who writes the calculators and guides and checks the directory data. Contact details are in the <a href="/imprint/">imprint</a>; corrections are welcome at any time.</p>
+<h2>How often we check</h2>
+<p>Every calculator and guide shows the month it was last reviewed. We go through the material weights, depths and price ranges at least once a year before the spring season, and whenever a reader or supplier points out a mistake. Price ranges link to their source and the month we looked them up.</p>
 <h2>Gravel pits from mine records</h2>
 <p>Sand and gravel pits come from MSHA records of active and intermittent mines. These records list the mine name, operator and status, but no phone number or retail details. Many pits sell mainly to contractors.</p>`,
   },

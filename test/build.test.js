@@ -328,3 +328,42 @@ test("FAQ: Mulch mit „People also ask“-Fragen, Startseite mit 6–8 Fragen",
   const start = SEITEN.find((s) => s.pfad === "/").faq.length;
   assert.ok(start >= 6 && start <= 8, String(start));
 });
+
+// ---------- AP7: Inhalte ----------
+test("Staatsseiten: 120–200 Wörter Text aus den Daten", () => {
+  for (const st of ["tx", "ca", "nc", "az"]) {
+    const html = readFileSync(pub(`landscape-supply/${st}/index.html`), "utf8");
+    const abschnitt = html.split(/<h2 class="abstand">About landscape supply in /)[1]?.split("</section>")[0];
+    assert.ok(abschnitt, st);
+    const woerter = text(abschnitt).split(" ").filter((w) => /[a-z0-9]/i.test(w)).length;
+    assert.ok(woerter >= 100 && woerter <= 230, `${st}: ${woerter} Wörter`);
+  }
+});
+
+test("Kiesgruben je Staat: Titel mit Anzahl, FAQ mit Schema, Yards in der Nähe", () => {
+  const html = readFileSync(pub("landscape-supply/tx/gravel-pits/index.html"), "utf8");
+  assert.match(html, /<title>Gravel Pits in Texas \(\d+\) – Sand &amp; Gravel Pits by Town<\/title>/);
+  assert.match(html, /What’s the difference between a quarry and a gravel pit\?/);
+  assert.match(html, /"@type":"FAQPage"/);
+  assert.match(html, /Landscape supply yards in Texas<\/h2>/);
+});
+
+test("Ratgeber: Autorzeile, Short answer, Quellen; Säcke-Ratgeber mit Quart/Liter", () => {
+  for (const s of SEITEN.filter((x) => x.art === "ratgeber")) {
+    const html = readFileSync(pub(s.pfad.slice(1) + "index.html"), "utf8");
+    assert.match(html, /<p class="autor">By <a href="\/about\/">[^<]+<\/a> · Last reviewed/, s.pfad);
+    assert.match(html, /<strong>Short answer: /, s.pfad);
+    assert.ok(s.quellen?.length, `${s.pfad}: Quellen fehlen`);
+    const art = ldVon(s.pfad.slice(1) + "index.html").find((x) => x["@type"] === "Article");
+    assert.equal(art.author["@type"], "Person");
+  }
+  assert.match(readFileSync(pub("guides/how-many-bags-of-mulch-in-a-yard/index.html"), "utf8"), /dry quarts ÷ 25\.7/);
+  assert.match(readFileSync(pub("about/index.html"), "utf8"), /How often we check/);
+});
+
+test("Kompost-Rechner (Volumen belegt: 3.600/Monat) gebaut und verlinkt", () => {
+  const html = readFileSync(pub("compost-calculator/index.html"), "utf8");
+  assert.match(html, /<h1>Compost Calculator: How Much Compost Do You Need\?<\/h1>/);
+  assert.match(readFileSync(pub("calculators/index.html"), "utf8"), /href="\/compost-calculator\/"/);
+  assert.ok(sitemapUrls("pages").some((u) => u.endsWith("/compost-calculator/")));
+});
