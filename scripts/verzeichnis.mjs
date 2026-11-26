@@ -186,7 +186,7 @@ export function verzeichnisSeiten(yards, h) {
 <section class="liste-karte">
 ${finder()}
 <h2>Browse by state</h2>
-${raster(staaten.map((s) => [s.name, `${BASIS}${s.slug}/`, [...s.staedte.values()].reduce((t, c) => t + c.yards.filter(befuellt).length, 0)]))}
+${raster(staaten.map((s) => [s.name, `${BASIS}${s.slug}/`, [...s.staedte.values()].reduce((t, c) => t + c.yards.length, 0)]))}
 <h2>Cities with the most yards</h2>
 ${raster(top.map((c) => [`${c.name}, ${c.staat.code}`, c.pfad, c.yards.length]))}
 <a class="hinweis-karte abstand" href="${BASIS}gravel-pits/"><strong>Looking for a gravel pit?</strong><span>${yards.filter((y) => y.kind === 'gravel-pit').length.toLocaleString('en-US')} active sand &amp; gravel pits by state →</span></a>

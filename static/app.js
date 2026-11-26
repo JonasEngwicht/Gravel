@@ -262,7 +262,7 @@ async function start() {
         : '';
       html = `${haupt}
         <dl class="werte">${zeilen.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join('')}</dl>
-        ${kosten.length ? `<h3>Estimated cost</h3><dl class="werte">${kosten.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join('')}</dl>` : '<p class="klein">Add prices under “Advanced” to compare bulk vs. bags.</p>'}
+        ${kosten.length ? `<h3>Estimated cost</h3><dl class="werte">${kosten.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join('')}</dl>` : '<p class="klein">Add your local prices under “Extra %, bag size &amp; prices” to see the cost.</p>'}
         ${tipp}
         <p class="klein">Includes ${wert('puffer') ?? 0}% extra for settling and waste.</p>`;
     }
