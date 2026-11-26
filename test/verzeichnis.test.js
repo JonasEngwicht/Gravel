@@ -79,7 +79,7 @@ test("nur befüllte Verzeichnisseiten werden indexiert", () => {
   const proStadt = new Map();
   for (const y of yards) {
     const p = `${BASIS}${y.address.state.toLowerCase()}/${slugify(y.address.city)}/`;
-    proStadt.set(p, (proStadt.get(p) || 0) + (befuellt(y) ? 1 : 0));
+    proStadt.set(p, (proStadt.get(p) || 0) + (befuellt(y) && !y.mailbox ? 1 : 0));
   }
   for (const [p, n] of proStadt) assert.equal(nachPfad.get(p).index, n >= MIN_STADT, p);
   // Unternehmensseiten: vollständige Kontaktdaten; Kiesgruben ohne Kontakt nicht
@@ -108,4 +108,78 @@ test("strukturierte Daten der Verzeichnisseiten sind gültiges JSON", () => {
     const ld = JSON.parse(s.html.match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
     assert.ok(Array.isArray(ld) && ld.length >= 1, s.pfad);
   }
+});
+
+// ---------- AP4: Datenqualität ----------
+import { pruefen, dubletten, bereinigen } from "../scripts/qualitaet.mjs";
+
+test("Filter: Fehlkategorien raus, Grenzfälle auf der Verdachtsliste", () => {
+  const roh = ladeYards(YARD_DIR, { roh: true });
+  const fall = (name, extra = {}) => pruefen({ id: "x", name, kind: "stone-yard", address: { street: "1 Main St", city: "A", state: "TX", zip: "75001" }, ...extra });
+  assert.ok(fall("Gila Cabinet & Stone Center").ausschluss);
+  assert.ok(fall("Best Countertops & Stone").ausschluss);
+  assert.ok(fall("Ricky's Aggregate Floor Repair").ausschluss);
+  assert.equal(fall("Antique Tile, Pavers & Landscape Supply").ausschluss, null);
+  assert.ok(fall("Antique Tile, Pavers & Landscape Supply").verdacht.length);
+  assert.ok(fall("Stone Supply & Monument").verdacht.some((g) => /Grabstein/.test(g)));
+  assert.equal(fall("Graniterock: Southside Sand & Gravel").verdacht.length, 0);
+  assert.ok(fall("Ewing Irrigation & Landscape Supply").verdacht.some((g) => /Bewässerung/.test(g)));
+  assert.ok(fall("Mulch Co", { address: { street: "2423 S Orange Ave PMB 338", city: "A", state: "FL", zip: "32806" } }).mailbox);
+  assert.ok(!fall("SiteOne", { address: { street: "751 Design Ct Ste B", city: "A", state: "CA", zip: "91911" } }).mailbox);
+  // veröffentlicht wird keiner der ausgeschlossenen
+  const ids = new Set(yards.map((y) => y.id));
+  for (const y of roh) if (pruefen(y).ausschluss) assert.ok(!ids.has(y.id), y.id);
+  assert.ok(!ids.has("az-phoenix-premium-stone-center"));
+  assert.ok(roh.length > yards.length);
+});
+
+test("Namen bereinigt: keine GROSSSCHREIBUNG, keine Keyword-Zusätze, Original bleibt erhalten", () => {
+  for (const y of yards.filter((x) => x.kind !== "gravel-pit")) {
+    assert.ok(!(y.name === y.name.toUpperCase() && /[A-Z]{4}/.test(y.name)), y.name);
+    assert.doesNotMatch(y.name, / \| /, y.name);
+  }
+  const cmx = yards.find((y) => y.id === "tx-katy-landscape-supply-in-texas-cmxoutdoor");
+  assert.equal(cmx.name, "CMX Outdoor");
+  assert.equal(cmx.name_original, "Landscape Supply in Texas CMXOUTDOOR");
+  assert.equal(yards.find((y) => y.id === "fl-jacksonville-mulch-man").name, "Mulch Man");
+});
+
+test("Dubletten zusammengeführt, Postfächer zählen nicht als Yard", () => {
+  assert.equal(dubletten(yards).weg.size, 0);
+  const a = { id: "a", name: "Pioneer Landscape Centers", kind: "landscape-supply", address: { street: "11243 E Willis Rd", city: "Chandler", zip: "85249" }, contact: { phone: "(480) 722-1800", website: "https://x" } };
+  const b = { id: "b", name: "Pioneer Sand Company", kind: "landscape-supply", address: { street: "11243 E Willis Rd", city: "Chandler", zip: "85249" }, contact: { phone: "(480) 722-1800" } };
+  const c = { id: "c", name: "Rock It Landscape Materials", kind: "landscape-supply", address: { street: "11243 E Willis Rd", city: "Chandler", zip: "85249" }, contact: { phone: "(480) 111-2222" } };
+  const d = dubletten([a, b, c]);
+  assert.equal(d.weg.get("b").behalten, "a");
+  assert.ok(!d.weg.has("c") && d.verdacht.size === 1);
+  const eigene = ladeYards(YARD_DIR);
+  const seiten = verzeichnisSeiten(eigene, { kopf, fuss, esc, rechner, matById, SITE: { baseUrl: null } });
+  const postfach = eigene.find((y) => y.mailbox);
+  assert.ok(postfach);
+  const stadt = seiten.find((s) => s.pfad === postfach._stadt.pfad);
+  assert.match(stadt.html, /id="offices"/);
+  assert.ok(!stadt.html.split('id="offices"')[0].includes(`href="${postfach._pfad}"`), "Postfach nicht in der Yard-Liste");
+});
+
+test("Ketten nach unabhängigen Yards, Filialen einer Kette mit Straße im Namen", () => {
+  const eigene = ladeYards(YARD_DIR);
+  verzeichnisSeiten(eigene, { kopf, fuss, esc, rechner, matById, SITE: { baseUrl: null } });
+  let geprueft = 0;
+  for (const st of new Set(eigene.map((y) => y._stadt))) {
+    // gleiche Klasse (ungeprüft, mit Kontakt, ohne Fakten, kein Postfach): unabhängige vor Ketten
+    const l = st.yards.filter((y) => y.kind !== "gravel-pit" && y.status !== "active" && !y.mailbox && (y.contact?.phone || y.contact?.website) && !(y.materials || []).length && !y.hours && !y.delivery);
+    const k = l.map((y) => !!y.chain);
+    if (k.includes(true) && k.includes(false)) { assert.ok(k.lastIndexOf(false) < k.indexOf(true), st.pfad); geprueft++; }
+    const proKette = {};
+    for (const y of st.yards.filter((x) => x.chain)) (proKette[y.chain] ||= []).push(y);
+    for (const f of Object.values(proKette)) if (f.length > 1) for (const y of f) if (y.address.street) assert.match(y._titel, /\(/, y._titel);
+  }
+  assert.ok(geprueft > 10);
+});
+
+test("Verdachtsliste ist aktuell (npm run review)", () => {
+  const { liste } = bereinigen(ladeYards(YARD_DIR, { roh: true }));
+  const csv = readFileSync(new URL("../review/verdachtsfaelle.csv", import.meta.url), "utf8").trim().split("\n");
+  assert.equal(csv.length - 1, liste.length);
+  assert.match(csv[0], /^id,name,stadt,staat,grund,aktion,url$/);
 });
