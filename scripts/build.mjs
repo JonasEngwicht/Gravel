@@ -3,9 +3,10 @@
 // Keine Abhängigkeiten, nur Node-Bordmittel.
 //
 // Eingaben:  data/materials.json, data/yards/**/*.json, site.config.json, static/*, src/calc/core.js
-// Ausgabe:   public/<seite>/index.html (Rechner + Verzeichnis unter /landscape-supply/), public/assets/*, robots.txt, 404.html (+ sitemap.xml, wenn baseUrl gesetzt)
+// Ausgabe:   public/<seite>/index.html (Rechner + Verzeichnis unter /landscape-supply/), public/assets/*, robots.txt, 404.html (+ sitemap.xml und IndexNow-Dateien, wenn baseUrl gesetzt)
 import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync } from 'node:fs';
 import { dirname, join } from 'node:path';
+import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { coverage, calculate } from '../src/calc/core.js';
 import { SEITEN, RECHNER, RATGEBER, STAND } from './seiten.mjs';
@@ -469,6 +470,18 @@ ${liste.map((p) => `  <url><loc>${SITE.baseUrl}${p}</loc></url>`).join('\n')}
 ${teile.map(([n]) => `  <sitemap><loc>${SITE.baseUrl}/sitemap-${n}.xml</loc></sitemap>`).join('\n')}
 </sitemapindex>
 `);
+  // IndexNow (Bing, Yandex, Seznam …): Schlüsseldatei im Wurzelverzeichnis und eine Liste aller indexierbaren
+  // URLs mit Inhalts-Hash. Der Worker meldet täglich nur URLs, deren Hash sich seit der letzten Meldung geändert hat.
+  // Die Build-Version in Asset-Links (?v=…) zählt nicht als Änderung.
+  if (SITE.indexNowKey) {
+    writeFileSync(join(OUT, `${SITE.indexNowKey}.txt`), SITE.indexNowKey);
+    const urls = {};
+    for (const p of Object.values(SITEMAPS).flat()) {
+      const html = readFileSync(join(OUT, p, 'index.html'), 'utf8').replaceAll(`?v=${VERSION}`, '');
+      urls[`${SITE.baseUrl}${p}`] = createHash('sha1').update(html).digest('hex').slice(0, 16);
+    }
+    writeFileSync(join(OUT, 'indexnow.json'), JSON.stringify({ baseUrl: SITE.baseUrl, key: SITE.indexNowKey, urls }));
+  }
 }
 
 console.log(`Build fertig: ${SEITEN.length} Seiten + ${VERZ.length} Verzeichnisseiten (${VERZ.filter((v) => v.index).length} indexierbar, ${YARDS.length} Einträge) nach public/ (Version ${VERSION}${SITE.baseUrl ? '' : ', noindex – baseUrl fehlt'})`);
