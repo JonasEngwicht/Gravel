@@ -38,8 +38,11 @@ const GRUPPEN = [
 // „Befüllt“: Einträge mit Telefon oder Website. Nur Seiten mit genug solchen Einträgen werden indexiert.
 export const MIN_STADT = 3;
 export const befuellt = (y) => y.status === 'active' || !!(y.contact?.phone || y.contact?.website);
-// Unternehmensseite indexieren: geprüft oder vollständige Kontaktdaten (Adresse, Telefon, Website)
-export const seiteBefuellt = (y) => y.status === 'active' || !!(y.address.street && y.contact?.phone && y.contact?.website);
+// Unternehmensseite indexieren (Entscheidung 26.11.2026, Optimierungsplan AP3): geprüft, oder Straße + Telefon/Website
+// UND mindestens eine eigene Angabe – Materialien, Öffnungszeiten oder Lieferinfo. Seiten mit nur Name/Adresse/Telefon
+// bleiben noindex, follow, bis sie angereichert sind (AP5).
+export const hatFakten = (y) => !!((y.materials || []).length || (y.hours && Object.keys(y.hours).length) || y.delivery?.available != null);
+export const seiteBefuellt = (y) => y.status === 'active' || !!(y.address.street && (y.contact?.phone || y.contact?.website) && hatFakten(y));
 const KETTEN = { siteone: 'SiteOne Landscape Supply', gomulch: 'GoMulch' };
 const ketteName = (k) => KETTEN[k] || k.replace(/\b\w/g, (b) => b.toUpperCase());
 // Eine Quelle für alle Zähler auf Hub-, Staats- und Stadtseiten:
@@ -185,6 +188,9 @@ export function verzeichnisSeiten(yards, h) {
 
   // ---------- Übersicht ----------
   const alleStaedte = staaten.flatMap((s) => [...s.staedte.values()]);
+  for (const c of alleStaedte) c.index = zaehlen(c.yards).voll >= MIN_STADT;
+  seiten.staedte = alleStaedte;
+  const grubenProStaat = new Map(staaten.map((s) => [s.code, zaehlen([...s.staedte.values()].flatMap((c) => c.yards)).gruben]));
   const top = [...alleStaedte].sort((a, b) => zaehlen(b.yards).yards - zaehlen(a.yards).yards || a.name.localeCompare(b.name)).slice(0, 24);
   const gesamt = zaehlen(yards);
   const gebiet = gebietText(yards.filter((y) => !istGrube(y)).map((y) => y.address.state));
@@ -222,7 +228,10 @@ ${fuss({ hinweis: 'daten' })}` });
     const alle = staedte.flatMap((c) => c.yards);
     const z = sammeln(alle);
     const mitYards = staedte.filter((c) => c.yards.some((y) => y.kind !== 'gravel-pit'));
-    const gross = [...mitYards].sort((a, b) => zaehlen(b.yards).yards - zaehlen(a.yards).yards || a.name.localeCompare(b.name)).slice(0, 12);
+    // Hauptliste: indexierbare Städte (nach Anzahl), der Rest nachrangig und eingeklappt. Ohne indexierbare Stadt: alle.
+    const indexiert = staedte.filter((c) => c.index).sort((a, b) => zaehlen(b.yards).yards - zaehlen(a.yards).yards || a.name.localeCompare(b.name));
+    const haupt = indexiert.length ? indexiert : staedte;
+    const weitere = indexiert.length ? staedte.filter((c) => !c.index) : [];
     const krumen = [['Home', '/'], ['Landscape supply yards', BASIS], [s.name, pfad]];
     const index = z.voll >= MIN_STADT;
     seiten.push({ pfad, index, typ: 'states', html: `${kopf({ pfad, nav: 'Find a yard', noindex: !index, title: `Landscape Supply Yards in ${s.name} – Mulch, Gravel & Stone`.slice(0, 70),
@@ -236,13 +245,15 @@ ${fuss({ hinweis: 'daten' })}` });
 <div class="breit">
 <section class="liste-karte">
 ${finder()}
-${z.gruben ? `<a class="hinweis-karte" href="${pfad}gravel-pits/"><strong>Gravel pits in ${esc(s.name)}</strong><span>${z.gruben} active sand &amp; gravel pits →</span></a>` : ''}
-${staedte.length > 12 ? `<h2>Largest selection</h2>
-${raster(gross.map((c) => [c.name, c.pfad, stadtZahl(c)]))}
-<h2>All cities in ${esc(s.name)}</h2>` : `<h2>Cities in ${esc(s.name)}</h2>`}
-${staedte.length > 15 ? `<label class="sr" for="filter-staedte">Filter cities</label><input class="filter" id="filter-staedte" type="search" data-filter="staedte" placeholder="Filter ${staedte.length} cities…" autocomplete="off" enterkeyhint="search">
+${z.gruben ? `<a class="hinweis-karte" href="${pfad}gravel-pits/"><strong>Gravel pits in ${esc(s.name)} (${z.gruben})</strong><span>Active and intermittent sand &amp; gravel pits by town →</span></a>` : ''}
+<h2>${haupt.length < staedte.length ? `Cities with the most yards in ${esc(s.name)}` : `Cities in ${esc(s.name)}`}</h2>
+${staedte.length > 15 ? `<label class="sr" for="filter-staedte">Filter cities</label><input class="filter" id="filter-staedte" type="search" data-filter="staedte staedte-weitere" placeholder="Filter ${staedte.length} cities and towns…" autocomplete="off" enterkeyhint="search">
 <p class="klein filter-leer" hidden>No city with that name – try the ZIP search above.</p>` : ''}
-${raster(staedte.map((c) => [c.name, c.pfad, stadtZahl(c)]), 'staedte')}
+${raster(haupt.map((c) => [c.name, c.pfad, stadtZahl(c)]), 'staedte')}
+${weitere.length ? `<details class="weitere"><summary>Other locations in ${esc(s.name)} (${weitere.length})</summary>
+<p class="klein">Towns with one or two listings or only gravel pits.</p>
+${raster(weitere.map((c) => [c.name, c.pfad, stadtZahl(c)]), 'staedte-weitere')}
+</details>` : ''}
 </section>
 ${quelleText(z.gruben > 0 || alle.some(istMsha))}
 </div>
@@ -325,7 +336,7 @@ ${fuss({ hinweis: 'daten' })}` });
     const gruppen = GRUPPEN.map((g) => ({ ...g, yards: c.yards.filter((y) => g.arten.includes(y.kind)) })).filter((g) => g.yards.length);
     const itemList = { '@context': 'https://schema.org', '@type': 'ItemList', name: `Landscape supply yards in ${c.name}, ${s.code}`,
       itemListElement: c.yards.map((y, i) => ({ '@type': 'ListItem', position: i + 1, item: ldBetrieb(y) })) };
-    const index = z.voll >= MIN_STADT;
+    const index = c.index;
     // Titel: mit Anzahl, Materialien nur, wenn Platz ist
     const ort = `${c.name}, ${s.code}`;
     const title = nurGruben
@@ -370,11 +381,13 @@ ${g.hinweis ? `<p class="klein">${esc(g.hinweis)}</p>` : ''}
 ${umkreis.length ? `<h2 id="within-15-miles">More suppliers within 15 miles</h2>
 <ul class="yards">${umkreis.map(({ x, mi }) => karte(x, { mitStadt: true, mi })).join('')}</ul>` : ''}
 <p class="klein">Most listings have not been verified by us yet. Please call ahead to confirm materials, prices, delivery and opening hours.</p>
+${grubenProStaat.get(s.code) && !nurGruben ? `<a class="hinweis-karte" href="${BASIS}${s.slug}/gravel-pits/"><strong>Gravel pits in ${esc(s.name)} (${grubenProStaat.get(s.code)})</strong><span>Sand &amp; gravel pits from mine records, by town →</span></a>` : ''}
 </section>
 <h2 class="abstand" id="calculator">How much ${nurGruben ? 'gravel' : 'mulch or gravel'} do you need?</h2>
 ${rechner({ material: nurGruben ? 'pea-gravel' : 'hardwood-mulch', eingebettet: true }).replace('class="rechner"', 'class="rechner eingebettet"')}
 ${nachbarn.length ? `<h2 class="abstand" id="nearby">Nearby cities</h2>
 ${raster(nachbarn.map(({ x, mi }) => [x.name, x.pfad, `${Math.round(mi)} mi`]))}` : ''}
+${nurGruben && grubenProStaat.get(s.code) ? `<p class="abstand"><a class="knopf-zweit" href="${BASIS}${s.slug}/gravel-pits/">All gravel pits in ${esc(s.name)}</a></p>` : ''}
 ${quelleText(msha)}
 </div>
 </main>
@@ -437,7 +450,8 @@ ${fuss({ hinweis: 'rechner' })}` });
       <tr><td>MSHA ID</td><td>${esc(mine.mine_id)}</td></tr></tbody></table>` : ''}
   </div>
 </section>
-<a class="hinweis-karte abstand" href="${ausMsha ? '/gravel-calculator/' : '/'}"><strong>How much do you need?</strong><span>Calculate ${ausMsha ? 'tons of gravel and sand' : 'cubic yards, tons and bags of mulch, gravel or topsoil'} →</span></a>
+<h2 class="abstand">How much do you need?</h2>
+<a class="hinweis-karte" href="${ausMsha ? '/gravel-calculator/' : '/'}"><strong>${ausMsha ? 'Gravel calculator' : 'Mulch, gravel &amp; topsoil calculator'}</strong><span>Calculate ${ausMsha ? 'tons of gravel and sand' : 'cubic yards, tons and bags of mulch, gravel or topsoil'} →</span></a>
 ${naehe.length ? `<h2 class="abstand">Nearby suppliers</h2>
 <ul class="yards">${naehe.map(({ x, mi }) => karte(x, { mitStadt: true, mi })).join('')}</ul>` : ''}
 <p class="abstand"><a class="knopf-zweit" href="${c.pfad}">All suppliers in ${esc(c.name)}, ${s.code}</a>${y.kind === 'gravel-pit' ? ` <a class="knopf-zweit" href="${BASIS}${s.slug}/gravel-pits/">All gravel pits in ${esc(s.name)}</a>` : ''}</p>

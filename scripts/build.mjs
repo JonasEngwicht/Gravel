@@ -4,13 +4,13 @@
 //
 // Eingaben:  data/materials.json, data/yards/**/*.json, site.config.json, static/*, src/calc/core.js
 // Ausgabe:   public/<seite>/index.html (Rechner + Verzeichnis unter /landscape-supply/), public/assets/*, robots.txt, 404.html (+ sitemap.xml und IndexNow-Dateien, wenn baseUrl gesetzt)
-import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync, existsSync } from 'node:fs';
 import { dirname, join } from 'node:path';
 import { createHash } from 'node:crypto';
 import { fileURLToPath } from 'node:url';
 import { coverage, calculate } from '../src/calc/core.js';
 import { SEITEN, RECHNER, RATGEBER, STAND } from './seiten.mjs';
-import { ladeYards, verzeichnisSeiten, BASIS } from './verzeichnis.mjs';
+import { ladeYards, verzeichnisSeiten, BASIS, zaehlen } from './verzeichnis.mjs';
 import { rechtlicheSeiten } from './rechtliches.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -351,6 +351,18 @@ function umrechnerForm(seite) {
 </form>`;
 }
 
+// Rechner → Verzeichnis: größte Städte + alle Staaten; Kies/Stein/Sand zusätzlich Kiesgruben
+function naheBlock(seite) {
+  if (seite.art !== 'rechner' && seite.art !== 'umrechner') return '';
+  const m = matById[seite.material];
+  const stein = ['gravel', 'sand'].includes(m.category) && !seite.nurVolumen;
+  const stoff = seite.nurVolumen ? 'landscape materials' : stoffVon(seite);
+  return `<h2 id="near-you">Find bulk ${esc(stoff)} near you</h2>
+<p>Landscape supply yards sell ${esc(stoff)} by the ${m.sold_by[0] === 'ton' && !seite.nurVolumen ? 'ton' : 'cubic yard'} – usually much cheaper than bags. Yards in the largest metro areas:</p>
+<ul class="raster">${METROS.map((c) => `<li><a href="${c.pfad}"><span>${esc(c.name)}, ${c.staat.code}</span> <span class="zahl">${zaehlen(c.yards).yards}</span></a></li>`).join('')}</ul>
+<p><a class="knopf-zweit" href="${BASIS}">All states &amp; ZIP search</a>${stein ? ` <a class="knopf-zweit" href="${BASIS}gravel-pits/">Gravel pits by state</a>` : ''}</p>`;
+}
+
 function hubInhalt(seite) {
   if (seite.hub === 'ratgeber') return kacheln(RATGEBER);
   return `<h2>Calculators</h2>
@@ -389,6 +401,7 @@ ${standardBloecke(seite).map((b) => BLOECKE[b](seite)).join('\n')}
 ${faq}
 ${quellen}
 ${verwandtBlock(seite)}
+${naheBlock(seite)}
 ${art === 'info' ? '' : `<h2>More calculators</h2>\n${kacheln(kreis.filter((s) => !(seite.verwandt || []).includes(s.pfad)))}`}
 ${stand}
 </article>
@@ -398,6 +411,23 @@ ${fuss({ hinweis: art === 'info' ? '' : 'rechner' })}`;
 }
 
 // ---------- Ausgabe ----------
+
+// Verzeichnis zuerst: die Rechnerseiten verlinken die größten Städte daraus
+// Verzeichnis: Übersicht, Staaten, Städte, Unternehmen
+const YARDS = ladeYards(join(ROOT, 'data/yards'));
+const VERZ = verzeichnisSeiten(YARDS, { kopf, fuss, esc, rechner, SITE, matById });
+const pfade = new Set();
+const schreibeVerzeichnis = () => { for (const v of VERZ) {
+  if (pfade.has(v.pfad)) throw new Error(`Doppelter Pfad im Verzeichnis: ${v.pfad}`);
+  pfade.add(v.pfad);
+  const ziel = join(OUT, v.pfad, 'index.html');
+  mkdirSync(dirname(ziel), { recursive: true });
+  writeFileSync(ziel, v.html);
+} };
+
+
+// Größte indexierbare Städte für „Find bulk … near you“ auf den Rechnerseiten
+const METROS = VERZ.staedte.filter((c) => c.index).sort((a, b) => zaehlen(b.yards).yards - zaehlen(a.yards).yards || a.name.localeCompare(b.name)).slice(0, 16);
 
 rmSync(OUT, { recursive: true, force: true });
 mkdirSync(join(OUT, 'assets'), { recursive: true });
@@ -412,6 +442,8 @@ for (const seite of SEITEN) {
   writeFileSync(ziel, seiteBauen(seite).replace(/<table>/g, '<div class="tabelle"><table>').replace(/<\/table>/g, '</table></div>'));
 }
 
+schreibeVerzeichnis();
+
 // Rechtliches: Imprint und Privacy Policy (noindex, nicht in der Sitemap)
 for (const r of rechtlicheSeiten(SITE, esc)) {
   const ziel = join(OUT, r.pfad, 'index.html');
@@ -424,18 +456,6 @@ ${r.inhalt}
 </article></div>
 </main>
 ${fuss()}`);
-}
-
-// Verzeichnis: Übersicht, Staaten, Städte, Unternehmen
-const YARDS = ladeYards(join(ROOT, 'data/yards'));
-const VERZ = verzeichnisSeiten(YARDS, { kopf, fuss, esc, rechner, SITE, matById });
-const pfade = new Set();
-for (const v of VERZ) {
-  if (pfade.has(v.pfad)) throw new Error(`Doppelter Pfad im Verzeichnis: ${v.pfad}`);
-  pfade.add(v.pfad);
-  const ziel = join(OUT, v.pfad, 'index.html');
-  mkdirSync(dirname(ziel), { recursive: true });
-  writeFileSync(ziel, v.html);
 }
 
 // Suchindex für "Find a yard" (ZIP, Stadt, Standort). Der Browser lädt ihn erst, wenn jemand sucht.
@@ -472,29 +492,42 @@ const SITEMAPS = {
   states: [], cities: [], yards: [], 'gravel-pits': [],
 };
 for (const v of VERZ.filter((x) => x.index)) (SITEMAPS[v.typ] || SITEMAPS.pages).push(v.pfad);
+// lastmod = Tag der letzten inhaltlichen Änderung je Seite. Gemessen wird ein Hash aus Titel, Description und <main>
+// (Kopf, Fußzeile und Build-Version zählen nicht). data/lastmod.json (im Repo) merkt sich Hash und Datum; ändert sich
+// der Hash, gilt das Build-Datum. Nach inhaltlichen Änderungen: npm run build && npm run lastmod, Datei mit committen.
+const HEUTE = (process.env.BUILD_DATUM || new Date().toISOString()).slice(0, 10);
+const inhaltsHash = (html) => {
+  const t = html.match(/<title>.*?<\/title>/s)?.[0] || '';
+  const d = html.match(/<meta name="description"[^>]*>/)?.[0] || '';
+  const m = html.slice(html.indexOf('<main>'), html.lastIndexOf('</main>'));
+  return createHash('sha1').update(t + d + m.replaceAll(`?v=${VERSION}`, '')).digest('hex').slice(0, 16);
+};
 if (SITE.baseUrl) {
+  const altPfad = join(ROOT, 'data/lastmod.json');
+  const alt = existsSync(altPfad) ? JSON.parse(readFileSync(altPfad, 'utf8')) : {};
+  const stand = {};
+  for (const p of Object.values(SITEMAPS).flat()) {
+    const h = inhaltsHash(readFileSync(join(OUT, p, 'index.html'), 'utf8'));
+    stand[p] = [h, alt[p]?.[0] === h ? alt[p][1] : HEUTE];
+  }
+  writeFileSync(join(OUT, 'lastmod.json'), JSON.stringify(stand, null, 0).replace(/\],"/g, '],\n"'));
   const urlset = (liste) => `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${liste.map((p) => `  <url><loc>${SITE.baseUrl}${p}</loc></url>`).join('\n')}
+${liste.map((p) => `  <url><loc>${SITE.baseUrl}${p}</loc><lastmod>${stand[p][1]}</lastmod></url>`).join('\n')}
 </urlset>
 `;
   const teile = Object.entries(SITEMAPS).filter(([, l]) => l.length);
   for (const [n, l] of teile) writeFileSync(join(OUT, `sitemap-${n}.xml`), urlset(l));
   writeFileSync(join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-${teile.map(([n]) => `  <sitemap><loc>${SITE.baseUrl}/sitemap-${n}.xml</loc></sitemap>`).join('\n')}
+${teile.map(([n, l]) => `  <sitemap><loc>${SITE.baseUrl}/sitemap-${n}.xml</loc><lastmod>${l.map((p) => stand[p][1]).sort().pop()}</lastmod></sitemap>`).join('\n')}
 </sitemapindex>
 `);
   // IndexNow (Bing, Yandex, Seznam …): Schlüsseldatei im Wurzelverzeichnis und eine Liste aller indexierbaren
   // URLs mit Inhalts-Hash. Der Worker meldet täglich nur URLs, deren Hash sich seit der letzten Meldung geändert hat.
-  // Die Build-Version in Asset-Links (?v=…) zählt nicht als Änderung.
   if (SITE.indexNowKey) {
     writeFileSync(join(OUT, `${SITE.indexNowKey}.txt`), SITE.indexNowKey);
-    const urls = {};
-    for (const p of Object.values(SITEMAPS).flat()) {
-      const html = readFileSync(join(OUT, p, 'index.html'), 'utf8').replaceAll(`?v=${VERSION}`, '');
-      urls[`${SITE.baseUrl}${p}`] = createHash('sha1').update(html).digest('hex').slice(0, 16);
-    }
+    const urls = Object.fromEntries(Object.entries(stand).map(([p, [h]]) => [`${SITE.baseUrl}${p}`, h]));
     writeFileSync(join(OUT, 'indexnow.json'), JSON.stringify({ baseUrl: SITE.baseUrl, key: SITE.indexNowKey, urls }));
   }
 }

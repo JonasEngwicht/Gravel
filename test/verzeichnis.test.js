@@ -87,7 +87,7 @@ test("nur befüllte Verzeichnisseiten werden indexiert", () => {
   const mitPfad = new Map(verzeichnisSeiten(eigene, { kopf, fuss, esc, rechner, matById, SITE: { baseUrl: "https://example.com" } }).map((s) => [s.pfad, s]));
   for (const y of eigene) assert.equal(mitPfad.get(y._pfad).index, seiteBefuellt(y), y._pfad);
   assert.ok(yards.some((y) => y.kind === "gravel-pit" && !seiteBefuellt(y)));
-  assert.ok(seiten.filter((s) => s.index).length > 1000);
+  assert.ok(seiten.filter((s) => s.index).length > 300);
 });
 
 test("Kiesgruben: eigene Seiten je Staat, alle mit Typ gravel-pit aus MSHA", () => {

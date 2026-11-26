@@ -272,7 +272,7 @@ async function start() {
     link.searchParams.set('d', +($('tiefe').value));
     if (metrisch) link.searchParams.set('u', 'metric');
     box.innerHTML = html + `<div class="ergebnis-aktionen">
-      ${cfg.cta ? '<a class="knopf" href="/landscape-supply/">Find a supplier near you</a>' : ''}
+      ${cfg.cta ? '<a class="knopf" href="/landscape-supply/">Find a yard that sells this near you</a>' : ''}
       <button type="button" class="knopf-zweit" id="teilen" data-link="${link}">Copy link to this result</button></div>`;
     leiste(kurz);
   }

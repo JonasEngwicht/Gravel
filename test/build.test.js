@@ -85,7 +85,7 @@ test("mit Domain: Sitemap, robots.txt und Canonicals", () => {
   const teile = [...index.matchAll(/<loc>[^<]*\/(sitemap-[a-z-]+\.xml)<\/loc>/g)].map((m) => m[1]);
   assert.ok(teile.includes("sitemap-pages.xml") && teile.includes("sitemap-cities.xml"));
   const urls = teile.flatMap((t) => [...readFileSync(pub(t), "utf8").matchAll(/<loc>([^<]*)<\/loc>/g)].map((m) => m[1]));
-  assert.ok(urls.length > 1000);
+  assert.ok(urls.length > 300);
   // nur indexierbare Seiten in der Sitemap
   for (const u of urls.filter((_, i) => i % 41 === 0)) {
     const html = readFileSync(pub(u.slice(baseUrl.length + 1) + "index.html"), "utf8");
@@ -256,4 +256,55 @@ test("Startseite: Titel und H1 sprechen von Topsoil, Tiefen widersprechen sich n
   const bereich = (id) => materials.find((m) => m.id === id).depth_range_in.join("–");
   assert.match(html, new RegExp(`Play sand</a></td><td>${bereich("play-sand")} in`));
   assert.match(html, new RegExp(`${bereich("crusher-run")} in base`));
+});
+
+// ---------- AP3: Indexierung und interne Verlinkung ----------
+test("Sitemaps mit lastmod, data/lastmod.json ist aktuell", () => {
+  const index = readFileSync(pub("sitemap.xml"), "utf8");
+  assert.match(index, /<sitemap><loc>[^<]+<\/loc><lastmod>\d{4}-\d{2}-\d{2}<\/lastmod><\/sitemap>/);
+  for (const t of [...index.matchAll(/sitemap-([a-z-]+)\.xml/g)].map((m) => m[1])) {
+    const xml = readFileSync(pub(`sitemap-${t}.xml`), "utf8");
+    assert.equal((xml.match(/<url>/g) || []).length, (xml.match(/<lastmod>\d{4}-\d{2}-\d{2}<\/lastmod>/g) || []).length, t);
+  }
+  const neu = JSON.parse(readFileSync(pub("lastmod.json"), "utf8"));
+  const alt = JSON.parse(readFileSync(new URL("../data/lastmod.json", import.meta.url), "utf8"));
+  const veraltet = Object.keys(neu).filter((p) => alt[p]?.[0] !== neu[p][0]);
+  assert.deepEqual(veraltet.slice(0, 5), [], `${veraltet.length} Seiten geändert: npm run build && npm run lastmod`);
+});
+
+test("Rechnerseiten verlinken indexierbare Städte und alle Staaten", () => {
+  const sitemapStaedte = new Set(sitemapUrls("cities").map((u) => new URL(u).pathname));
+  for (const s of SEITEN.filter((x) => x.art === "rechner" || x.art === "umrechner")) {
+    const html = readFileSync(pub(s.pfad.slice(1) + "index.html"), "utf8");
+    const block = html.slice(html.indexOf('id="near-you"'));
+    const links = [...block.split("</ul>")[0].matchAll(/href="([^"]+)"/g)].map((m) => m[1]);
+    assert.ok(links.length >= 12 && links.length <= 20, s.pfad);
+    for (const l of links) assert.ok(sitemapStaedte.has(l), `${s.pfad} → ${l}`);
+    assert.match(block, /href="\/landscape-supply\/">All states/);
+  }
+  assert.match(readFileSync(pub("gravel-calculator/index.html"), "utf8"), /id="near-you"[\s\S]*href="\/landscape-supply\/gravel-pits\/"/);
+});
+
+test("Staatsseite: indexierbare Städte vorn, Rest eingeklappt, Kiesgruben verlinkt", () => {
+  const html = readFileSync(pub("landscape-supply/tx/index.html"), "utf8");
+  const haupt = html.split('id="staedte"')[1].split("</ul>")[0];
+  const sitemapStaedte = new Set(sitemapUrls("cities").map((u) => new URL(u).pathname));
+  for (const [, l] of haupt.matchAll(/href="([^"]+)"/g)) assert.ok(sitemapStaedte.has(l), l);
+  assert.match(html, /<details class="weitere"><summary>Other locations in Texas \(\d+\)/);
+  assert.match(html, /href="\/landscape-supply\/tx\/gravel-pits\/"><strong>Gravel pits in Texas \(\d+\)/);
+  assert.match(html, /data-filter="staedte staedte-weitere"/);
+});
+
+test("Stadtseite verlinkt die Kiesgruben des Staats, Firmenseite hat „How much do you need?“ als H2", () => {
+  assert.match(readFileSync(pub("landscape-supply/tx/houston/index.html"), "utf8"), /href="\/landscape-supply\/tx\/gravel-pits\/"/);
+  const yards = JSON.parse(readFileSync(pub("assets/yards.json"), "utf8"));
+  const html = readFileSync(pub(`landscape-supply/${yards.find((y) => y[5] === "landscape-supply")[6]}index.html`), "utf8");
+  assert.match(html, /<h2[^>]*>How much do you need\?<\/h2>/);
+});
+
+test("Ratgeber verlinken im Fließtext 2–4 Rechner oder Ratgeber", () => {
+  for (const s of SEITEN.filter((x) => x.art === "ratgeber")) {
+    const n = [...s.inhalt.matchAll(/<a href="\/[^"]+"/g)].length;
+    assert.ok(n >= 2 && n <= 4, `${s.pfad}: ${n}`);
+  }
 });
