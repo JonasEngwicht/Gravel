@@ -372,3 +372,5 @@ h2.abstand { color: var(--erde); font-size: 1.35rem; line-height: 1.2; }
   .held h1, .held .unter { color: #000 !important; }
   body { background: #fff; }
 }
+.autor { margin: 4px 0 8px; font-size: .9rem; opacity: .85; }
+.held .autor a { color: inherit; }

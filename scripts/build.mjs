@@ -174,7 +174,7 @@ function standardLd(seite) {
     ld.push({
       '@context': 'https://schema.org', '@type': 'Article', headline: seite.h1, description: seite.description,
       dateModified: `${seite.stand || STAND}-01`, image: abs('/assets/og.png'),
-      author: { '@type': 'Organization', name: SITE.name, url: abs('/about/') },
+      author: { '@type': 'Person', name: SITE.operator?.name || SITE.name, url: abs('/about/') },
       publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: abs('/assets/og.png') } },
       mainEntityOfPage: abs(seite.pfad),
     });
@@ -406,7 +406,8 @@ function seiteBauen(seite) {
 <main>
 <section class="held"><div class="breit">${krumenHtml}
   <h1>${esc(seite.h1)}</h1>
-  <p class="unter">${esc(seite.intro)}</p>
+  ${art === 'ratgeber' ? `<p class="autor">By <a href="/about/">${esc(SITE.operator?.name || SITE.name)}</a> · Last reviewed ${standText(seite.stand || STAND)}</p>
+  <p class="unter"><strong>Short answer: ${esc(seite.intro)}</strong></p>` : `<p class="unter">${esc(seite.intro)}</p>`}
   ${formelZeile(seite)}
 </div></section>
 <div class="breit">
