@@ -20,5 +20,8 @@
     { "pattern": "gravelandmulch.com", "custom_domain": true },
     { "pattern": "www.gravelandmulch.com", "custom_domain": true }
   ],
+  // IndexNow: täglich geänderte URLs an Bing & Co. melden; KV merkt sich, was schon gemeldet ist
+  "triggers": { "crons": ["23 7 * * *"] },
+  "kv_namespaces": [{ "binding": "INDEXNOW", "id": "546fbaf318944cee851794559036ab5d" }],
   "observability": { "enabled": true }
 }

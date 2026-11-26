@@ -110,3 +110,19 @@ test("Imprint und Privacy Policy: vorhanden, verlinkt, noindex, nicht in der Sit
 test("kein Speichern auf dem Gerät (sonst Einwilligung nach § 25 TDDDG nötig)", () => {
   for (const f of ["app.js", "finder.js"]) assert.doesNotMatch(readFileSync(pub(`assets/${f}`), "utf8"), /localStorage\.|sessionStorage\.|document\.cookie/, f);
 });
+
+test("IndexNow: Schlüsseldatei und URL-Liste passend zur Sitemap, ohne Build-Version im Hash", () => {
+  const site = JSON.parse(readFileSync(new URL("../site.config.json", import.meta.url), "utf8"));
+  assert.equal(readFileSync(pub(`${site.indexNowKey}.txt`), "utf8"), site.indexNowKey);
+  const liste = JSON.parse(readFileSync(pub("indexnow.json"), "utf8"));
+  assert.equal(liste.key, site.indexNowKey);
+  const sitemapUrls = [];
+  const index = readFileSync(pub("sitemap.xml"), "utf8");
+  for (const [, loc] of index.matchAll(/<loc>[^<]*\/(sitemap-[^<]+\.xml)<\/loc>/g)) {
+    for (const [, u] of readFileSync(pub(loc), "utf8").matchAll(/<loc>([^<]+)<\/loc>/g)) sitemapUrls.push(u);
+  }
+  assert.deepEqual(Object.keys(liste.urls).sort(), sitemapUrls.sort());
+  const vorher = liste.urls[`${site.baseUrl}/mulch-calculator/`];
+  execFileSync(process.execPath, [new URL("../scripts/build.mjs", import.meta.url).pathname], { stdio: "ignore", env: { ...process.env, BUILD_DATUM: "2030-01-01T00:00:00Z" } });
+  assert.equal(JSON.parse(readFileSync(pub("indexnow.json"), "utf8")).urls[`${site.baseUrl}/mulch-calculator/`], vorher);
+});

@@ -3,6 +3,7 @@
 // setzt HSTS und den Zeichensatz im Content-Type und markiert HTML für Besucher aus EU/EWR, UK und CH
 // mit <html data-eu="1"> (static/messung.js lädt das Google Tag dort erst nach Einwilligung).
 // Auf *.workers.dev (Vorschau) bekommt jede Antwort "X-Robots-Tag: noindex", damit die Vorschau nicht in den Index gerät.
+// Täglich (Cron in wrangler.jsonc) meldet indexNowMelden() neue und geänderte URLs an IndexNow (Bing, Yandex …).
 
 const SICHERHEIT = {
   'X-Content-Type-Options': 'nosniff',
@@ -17,7 +18,35 @@ const EINWILLIGUNG_NOETIG = new Set(('AT BE BG HR CY CZ DK EE FI FR DE GR HU IE 
 // Land unbekannt (z. B. lokale Entwicklung) → vorsichtshalber wie EU behandeln
 export const brauchtEinwilligung = (land) => !land || EINWILLIGUNG_NOETIG.has(land);
 
+const INDEXNOW_API = 'https://api.indexnow.org/indexnow';
+const INDEXNOW_MAX = 10000; // URLs pro Anfrage laut Protokoll
+
+// Liest public/indexnow.json (vom Build), vergleicht die Hashes mit dem Stand in KV und meldet nur Neues/Geändertes.
+// KV wird erst nach erfolgreicher Meldung aktualisiert, ein Fehlschlag wird also am nächsten Tag wiederholt.
+export async function indexNowMelden(env, holen = fetch) {
+  const liste = await env.ASSETS.fetch(new Request('https://assets.local/indexnow.json'));
+  if (!liste.ok) return { gemeldet: 0, grund: 'keine indexnow.json' };
+  const { baseUrl, key, urls } = await liste.json();
+  const alt = (await env.INDEXNOW.get('gemeldet', 'json')) || {};
+  const neu = Object.keys(urls).filter((u) => alt[u] !== urls[u]);
+  for (let i = 0; i < neu.length; i += INDEXNOW_MAX) {
+    const r = await holen(INDEXNOW_API, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json; charset=utf-8' },
+      body: JSON.stringify({ host: new URL(baseUrl).host, key, keyLocation: `${baseUrl}/${key}.txt`, urlList: neu.slice(i, i + INDEXNOW_MAX) }),
+    });
+    if (!r.ok) throw new Error(`IndexNow antwortet ${r.status}: ${await r.text()}`);
+  }
+  if (neu.length) await env.INDEXNOW.put('gemeldet', JSON.stringify(urls));
+  console.log(`IndexNow: ${neu.length} von ${Object.keys(urls).length} URLs gemeldet`);
+  return { gemeldet: neu.length };
+}
+
 export default {
+  async scheduled(controller, env, ctx) {
+    ctx.waitUntil(indexNowMelden(env));
+  },
+
   async fetch(request, env) {
     const url = new URL(request.url);
     // http → https und www → Hauptdomain in einem Schritt (eine Adresse für Google, ein 301)

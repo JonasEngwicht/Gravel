@@ -13,5 +13,7 @@
   },
   "_comment_operator": "Betreiber für Imprint, Privacy Policy und Korrektur-Links im Verzeichnis.",
   "googleTag": "GTM-5QT7N2LM",
-  "_comment_googleTag": "Google Tag Manager; die ID steht auch in static/messung.js."
+  "_comment_googleTag": "Google Tag Manager; die ID steht auch in static/messung.js.",
+  "indexNowKey": "55ca6b0ffbd1613b062bc4c2faca8855",
+  "_comment_indexNowKey": "IndexNow-Schlüssel (öffentlich, liegt als /<key>.txt auf der Seite). Der Worker meldet geänderte URLs täglich an api.indexnow.org."
 }

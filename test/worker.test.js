@@ -51,3 +51,37 @@ test("HTML bekommt data-eu je nach Land", async () => {
     assert.deepEqual(gesetzt, [["data-eu", "0"], ["data-eu", "1"]]);
   } finally { delete globalThis.HTMLRewriter; }
 });
+
+test("IndexNow meldet nur neue und geänderte URLs und merkt sich den Stand", async () => {
+  const { indexNowMelden } = await import("../src/worker.js");
+  const liste = { baseUrl: "https://gravelandmulch.com", key: "abc123", urls: { "https://gravelandmulch.com/": "h1", "https://gravelandmulch.com/a/": "h2" } };
+  const kv = new Map();
+  const env = {
+    ASSETS: { fetch: async () => new Response(JSON.stringify(liste)) },
+    INDEXNOW: { get: async (k) => (kv.has(k) ? JSON.parse(kv.get(k)) : null), put: async (k, v) => kv.set(k, v) },
+  };
+  const anfragen = [];
+  const holen = async (url, init) => { anfragen.push([url, JSON.parse(init.body)]); return new Response("", { status: 202 }); };
+
+  assert.deepEqual(await indexNowMelden(env, holen), { gemeldet: 2 });
+  assert.equal(anfragen[0][0], "https://api.indexnow.org/indexnow");
+  assert.deepEqual(anfragen[0][1], { host: "gravelandmulch.com", key: "abc123", keyLocation: "https://gravelandmulch.com/abc123.txt", urlList: Object.keys(liste.urls) });
+
+  assert.deepEqual(await indexNowMelden(env, holen), { gemeldet: 0 });
+  assert.equal(anfragen.length, 1);
+
+  liste.urls["https://gravelandmulch.com/a/"] = "h3";
+  assert.deepEqual(await indexNowMelden(env, holen), { gemeldet: 1 });
+  assert.deepEqual(anfragen[1][1].urlList, ["https://gravelandmulch.com/a/"]);
+});
+
+test("IndexNow speichert bei Fehler nichts, damit der nächste Lauf es erneut versucht", async () => {
+  const { indexNowMelden } = await import("../src/worker.js");
+  const kv = new Map();
+  const env = {
+    ASSETS: { fetch: async () => new Response(JSON.stringify({ baseUrl: "https://gravelandmulch.com", key: "k", urls: { "https://gravelandmulch.com/": "h" } })) },
+    INDEXNOW: { get: async () => null, put: async (k, v) => kv.set(k, v) },
+  };
+  await assert.rejects(indexNowMelden(env, async () => new Response("bad key", { status: 403 })), /403/);
+  assert.equal(kv.size, 0);
+});
