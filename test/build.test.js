@@ -126,3 +126,79 @@ test("IndexNow: Schlüsseldatei und URL-Liste passend zur Sitemap, ohne Build-Ve
   execFileSync(process.execPath, [new URL("../scripts/build.mjs", import.meta.url).pathname], { stdio: "ignore", env: { ...process.env, BUILD_DATUM: "2030-01-01T00:00:00Z" } });
   assert.equal(JSON.parse(readFileSync(pub("indexnow.json"), "utf8")).urls[`${site.baseUrl}/mulch-calculator/`], vorher);
 });
+
+// ---------- AP1: Verifikation am Quelltext ----------
+const ldVon = (p) => JSON.parse(readFileSync(pub(p), "utf8").match(/<script type="application\/ld\+json">(.*?)<\/script>/s)[1]);
+const typen = (ld) => ld.map((x) => x["@type"]);
+const sitemapUrls = (typ) => [...readFileSync(pub(`sitemap-${typ}.xml`), "utf8").matchAll(/<loc>([^<]+)<\/loc>/g)].map((m) => m[1]);
+const pfadVon = (u) => new URL(u).pathname.slice(1) + "index.html";
+const stichprobe = (liste, n = 20) => liste.filter((_, i) => i % Math.max(1, Math.floor(liste.length / n)) === 0).slice(0, n);
+
+test("JSON-LD je Vorlage: passende Typen und Pflichtfelder", () => {
+  assert.deepEqual(typen(ldVon("index.html")).sort(), ["BreadcrumbList", "FAQPage", "Organization", "WebApplication", "WebSite"]);
+  assert.deepEqual(typen(ldVon("mulch-calculator/index.html")).sort(), ["BreadcrumbList", "FAQPage", "WebApplication"]);
+  const art = ldVon("guides/how-much-does-mulch-weigh/index.html").find((x) => x["@type"] === "Article");
+  assert.ok(art.headline && art.dateModified && art.author && art.publisher);
+  assert.ok(typen(ldVon("landscape-supply/tx/index.html")).includes("BreadcrumbList"));
+  assert.ok(typen(ldVon("landscape-supply/tx/gravel-pits/index.html")).includes("ItemList"));
+  const stadt = ldVon(pfadVon(sitemapUrls("cities")[0])).find((x) => x["@type"] === "ItemList");
+  assert.ok(stadt.itemListElement.length >= 1);
+  for (const u of stichprobe([...sitemapUrls("cities"), ...(existsSync(pub("sitemap-yards.xml")) ? sitemapUrls("yards") : [])])) {
+    const ld = ldVon(pfadVon(u));
+    const betriebe = ld.flatMap((x) => (x["@type"] === "ItemList" ? x.itemListElement.map((e) => e.item) : [x])).filter((x) => x?.["@type"] === "HomeAndConstructionBusiness");
+    assert.ok(betriebe.length, u);
+    for (const b of betriebe) {
+      assert.ok(b.name && b.url && b.address?.addressLocality && b.address?.addressRegion && b.address?.addressCountry === "US", u);
+      assert.ok(Number.isFinite(b.geo?.latitude) && Number.isFinite(b.geo?.longitude), u);
+    }
+  }
+});
+
+test("Stichproben: Sitemap-Seiten ohne noindex, noindex-Seiten nicht in der Sitemap", () => {
+  const index = readFileSync(pub("sitemap.xml"), "utf8");
+  const typenListe = [...index.matchAll(/sitemap-([a-z-]+)\.xml/g)].map((m) => m[1]);
+  const alle = new Set();
+  for (const t of typenListe) {
+    const urls = sitemapUrls(t);
+    urls.forEach((u) => alle.add(u));
+    for (const u of stichprobe(urls)) {
+      const html = readFileSync(pub(pfadVon(u)), "utf8");
+      assert.doesNotMatch(html, /name="robots" content="noindex/, u);
+      assert.match(html, new RegExp(`<link rel="canonical" href="${u}">`), u);
+    }
+  }
+  // umgekehrt: Seiten mit noindex tauchen in keiner Sitemap auf
+  const yards = JSON.parse(readFileSync(pub("assets/yards.json"), "utf8"));
+  let geprueft = 0;
+  for (const y of yards) {
+    const p = `landscape-supply/${y[6]}index.html`;
+    const html = readFileSync(pub(p), "utf8");
+    if (!/content="noindex, follow"/.test(html)) continue;
+    assert.ok(!alle.has(`https://gravelandmulch.com/${p.replace(/index\.html$/, "")}`), p);
+    if (++geprueft >= 40) break;
+  }
+  assert.ok(geprueft > 0);
+});
+
+test("Zähler in Linklisten sind vom Namen getrennt", () => {
+  const hub = readFileSync(pub("landscape-supply/index.html"), "utf8");
+  assert.doesNotMatch(hub, /<\/span><span class="zahl">/);
+  assert.match(hub, /<\/span> <span class="zahl">/);
+});
+
+test("404-Seite: noindex, Suche, Verzeichnis und Rechner verlinkt", () => {
+  const html = readFileSync(pub("404.html"), "utf8");
+  assert.match(html, /name="robots" content="noindex"/);
+  assert.match(html, /action="\/landscape-supply\/"/);
+  assert.match(html, /href="\/mulch-calculator\/"/);
+  assert.match(html, /href="\/landscape-supply\/gravel-pits\/"/);
+});
+
+test("externe Firmen-Links: nofollow noopener, neues Fenster", () => {
+  const u = sitemapUrls("cities")[0];
+  const html = readFileSync(pub(pfadVon(u)), "utf8");
+  for (const [a] of html.matchAll(/<a class="karte-web"[^>]*>/g)) {
+    assert.match(a, /rel="nofollow noopener"/);
+    assert.match(a, /target="_blank"/);
+  }
+});

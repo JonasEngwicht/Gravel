@@ -85,3 +85,15 @@ test("IndexNow speichert bei Fehler nichts, damit der nächste Lauf es erneut ve
   await assert.rejects(indexNowMelden(env, async () => new Response("bad key", { status: 403 })), /403/);
   assert.equal(kv.size, 0);
 });
+
+test("Seiten ohne Schrägstrich am Ende: 301 auf die Variante mit Schrägstrich, Dateien nicht", async () => {
+  const r = await hol("https://gravelandmulch.com/mulch-calculator?m=x");
+  assert.equal(r.status, 301);
+  assert.equal(r.headers.get("Location"), "https://gravelandmulch.com/mulch-calculator/?m=x");
+  // www + fehlender Schrägstrich: ein einziger Sprung
+  const w = await hol("http://www.gravelandmulch.com/mulch-calculator");
+  assert.equal(w.status, 301);
+  assert.equal(w.headers.get("Location"), "https://gravelandmulch.com/mulch-calculator/");
+  assert.equal((await hol("https://gravelandmulch.com/assets/app.js")).status, 200);
+  assert.equal((await hol("https://gravelandmulch.com/sitemap.xml")).status, 200);
+});

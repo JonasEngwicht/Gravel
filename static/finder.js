@@ -41,7 +41,7 @@ function karte([, , titel, stadt, staat, art, pfad, tel, ok], mi) {
   return `<li class="yard">
   <div class="yard-text">
     <a class="yard-name" href="${BASIS}${esc(pfad)}">${esc(titel)}</a>
-    <span class="yard-meta"><span class="tag tag-${esc(art)}">${esc(ARTEN[art] || 'Supplier')}</span>${ok ? '<span class="tag tag-ok">Verified</span>' : ''}<span class="entf">${entf(mi)}</span></span>
+    <span class="yard-meta"><span class="tag tag-${esc(art)}">${esc(ARTEN[art] || 'Supplier')}</span>${ok ? ' <span class="tag tag-ok">Verified</span>' : ''} <span class="entf"><span class="sr">· </span>${entf(mi)}</span></span>
     <span class="yard-adr">${esc(stadt)}, ${esc(staat)}</span>
     ${tel ? `<span class="yard-tel">${esc(tel)}</span>` : ''}
   </div>
