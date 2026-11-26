@@ -59,12 +59,18 @@ ${ogTags(seite)}
 </div></header>`;
 }
 
-function fuss() {
+// hinweis: 'rechner' (Seite mit Rechner) | 'daten' (Verzeichnis ohne Rechner) | leer
+function fuss({ hinweis } = {}) {
+  const text = hinweis === 'rechner'
+    ? 'Results are estimates based on typical material weights. Densities vary by supplier and moisture – confirm with your supplier before ordering.'
+    : hinweis === 'daten'
+      ? 'Listings come from public data (OpenStreetMap, Overture Maps, U.S. mine records) and most are not verified yet. Call ahead to confirm materials, prices and hours.'
+      : '';
   return `<footer class="fuss"><div class="breit">
   <p><strong>${esc(SITE.name)}</strong> – free calculators for mulch, gravel, stone and soil.</p>
   <nav aria-label="All calculators">${RECHNER.filter((s) => s.pfad !== '/').map((s) => `<a href="${s.pfad}">${esc(s.h1)}</a>`).join('')}</nav>
   <nav aria-label="Guides">${RATGEBER.map((s) => `<a href="${s.pfad}">${esc(s.nav)}</a>`).join('')}<a href="${BASIS}">Landscape supply yards near you</a><a href="${BASIS}gravel-pits/">Gravel pits by state</a><a href="/about/">About</a></nav>
-  <p class="klein">Results are estimates based on typical material weights. Densities vary by supplier and moisture – confirm with your supplier before ordering.</p>
+  ${text ? `<p class="klein">${text}</p>` : ''}
   <nav class="recht" aria-label="Legal"><a href="/imprint/">Imprint</a><a href="/privacy/">Privacy</a><a href="/privacy/#google" data-einwilligung>Cookie settings</a><a href="mailto:${esc(SITE.operator.email)}">Contact</a></nav>
 </div></footer>
 <script type="module" src="/assets/app.js?v=${VERSION}"></script>
@@ -388,7 +394,7 @@ ${stand}
 </article>
 </div>
 </main>
-${fuss()}`;
+${fuss({ hinweis: art === 'info' ? '' : 'rechner' })}`;
 }
 
 // ---------- Ausgabe ----------

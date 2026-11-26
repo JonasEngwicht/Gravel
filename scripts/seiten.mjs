@@ -42,6 +42,10 @@ const Q = {
   fugensandRatgeber: ['Polymeric Sand Store: coverage per bag', 'https://polymericsandstore.com/blogs/news/how-many-square-feet-does-a-bag-of-polymeric-sand-cover'],
 };
 
+// Quelle direkt hinter der Zahl: Link(s) + Abrufmonat
+const QUELLEN_STAND = 'November 2026';
+const vgl = (...qs) => ` <span class="quelle-inline">(${qs.map(([t, u]) => `<a href="${u}" rel="nofollow noopener">${t.split(':')[0]}</a>`).join(', ')}, ${QUELLEN_STAND})</span>`;
+
 export const SEITEN = [
   // ---------- Rechner ----------
   {
@@ -51,7 +55,7 @@ export const SEITEN = [
     imMenue: false,
     title: 'Mulch, Gravel & Topsoil Calculator – How Much Do I Need?',
     description: 'Free calculator for mulch, gravel, stone, topsoil and sand. Get cubic yards, tons, bags and cost for any bed, path or driveway in seconds.',
-    h1: 'Mulch, Gravel & Soil Calculator',
+    h1: 'Mulch, Gravel & Topsoil Calculator',
     intro: 'Find out how many cubic yards, tons or bags you need – and what it will cost – for beds, paths, driveways and lawns.',
     kurz: 'Any material',
     material: 'hardwood-mulch',
@@ -62,7 +66,7 @@ export const SEITEN = [
 <tr><td>Flower bed</td><td><a href="/mulch-calculator/">Shredded hardwood mulch</a></td><td>2–3 in</td></tr>
 <tr><td>Tree ring</td><td>Mulch</td><td>2–3 in, kept off the trunk</td></tr>
 <tr><td>Garden path</td><td><a href="/pea-gravel-calculator/">Pea gravel</a></td><td>2–3 in</td></tr>
-<tr><td>Gravel driveway</td><td><a href="/driveway-gravel-calculator/">Crusher run base + #57 stone</a></td><td>4–6 in base, 2–4 in top</td></tr>
+<tr><td>Gravel driveway</td><td><a href="/driveway-gravel-calculator/">Crusher run base + #57 stone</a></td><td>4–8 in base, 2–4 in top</td></tr>
 <tr><td>Paver patio</td><td><a href="/paver-sand-calculator/">Bedding sand</a> over a gravel base</td><td>1 in sand</td></tr>
 <tr><td>New lawn</td><td><a href="/topsoil-calculator/">Screened topsoil</a></td><td>4–6 in</td></tr>
 <tr><td>Lawn top dressing</td><td>Compost</td><td>¼–½ in</td></tr>
@@ -100,7 +104,7 @@ ${FORMEL}`,
 <h2>How many cubic feet are in a yard of mulch?</h2>
 <p>A “yard” of mulch means a cubic yard: <strong>27 cubic feet</strong>, or a pile 3 ft long, 3 ft wide and 3 ft high. That equals 13.5 bags of 2 cu ft or 9 bags of 3 cu ft. The <a href="/guides/how-many-bags-of-mulch-in-a-yard/">bags of mulch chart</a> lists 1 to 10 yards for every bag size.</p>
 <h2>How much is a yard of mulch?</h2>
-<p>At a landscape supply yard, plain shredded hardwood or wood-chip mulch usually costs somewhere between $15 and $50 per cubic yard. Dyed, cedar and premium bark mulch cost more. Bagged mulch runs about $3–$7 per 2 cu ft bag – roughly $40–$95 for a yard’s worth of bags.</p>
+<p>At a landscape supply yard, plain shredded hardwood or wood-chip mulch usually costs somewhere between $15 and $50 per cubic yard. Dyed, cedar and premium bark mulch cost more. Bagged mulch runs about $3–$7 per 2 cu ft bag – roughly $40–$95 for a yard’s worth of bags.${vgl(Q.mulchHomeguide, Q.mulchLawnstarter)}</p>
 <p>So the price per yard of mulch drops a lot once you buy in bulk, even after the delivery fee. Prices depend heavily on your region and the season: enter your local price per yard or per bag under “Extra %, bag size &amp; prices” and the calculator shows your total cost. Yards near you are listed in the <a href="/landscape-supply/">landscape supply directory</a>.</p>
 <h2>How deep should mulch be?</h2>
 <p>For most flower beds 2–3 inches is right. Less than 2 inches won’t keep weeds down; more than 4 inches can keep water and air from reaching the roots. Around trees, keep mulch a few inches away from the trunk – don’t pile it up in a “volcano”.</p>
@@ -109,7 +113,7 @@ ${FORMEL}`,
     faq: [
       ['How many yards of mulch do I need for 1,000 square feet?', 'About 9.3 cubic yards at 3 inches deep and 6.2 cubic yards at 2 inches, before the usual 10 % extra.'],
       ['How much does a bag of mulch weigh?', 'A 2 cu ft bag of wood mulch usually weighs about 30–60 lb, depending on the type and how wet it is. 3 cu ft bags weigh about half as much again.'],
-      ['How often should I add new mulch?', 'Most beds need a top-up once a year. Wood mulch breaks down slowly, so 1 inch on top of the old layer is usually enough to bring it back to 2–3 inches.'],
+      ['How often should I add new mulch?', 'Most beds need a top-up once a year. Wood mulch breaks down slowly, so 1–2 inches on top of the old layer is usually enough to bring it back to 2–3 inches.'],
     ],
     quellen: [Q.mulchHomeguide, Q.mulchLawnstarter],
   },
@@ -138,11 +142,11 @@ ${FORMEL}`,
 <h2>How many yards of gravel do I need?</h2>
 <p>Some suppliers, especially for decorative stone, sell by the cubic yard instead. The calculator shows cubic yards right under the tons: square feet × depth in inches ÷ 324. To switch between yards and tons for any amount, use the <a href="/tons-to-cubic-yards/">cubic yards to tons converter</a>.</p>
 <h2>How much does gravel cost?</h2>
-<p>Plain gravel is one of the cheapest landscape materials. Crushed stone and pea gravel usually cost about $20–$55 per ton at a sand and gravel yard. River rock and colored decorative stone start around $45 per ton and can cost well over $100.</p>
+<p>Plain gravel is one of the cheapest landscape materials. Crushed stone and pea gravel usually cost about $20–$55 per ton at a sand and gravel yard. River rock and colored decorative stone start around $45 per ton and can cost well over $100.${vgl(Q.gesteinThisOldHouse, Q.erbsenkiesHomeguide, Q.flusskiesHomeguide)}</p>
 <h3>How much is a ton of gravel?</h3>
-<p>Expect about $20–$55 for common gravel bought in bulk. The same ton in 0.5 cu ft bags (about 40 bags at $4–$8 each) costs several times as much, so bags only make sense for small jobs.</p>
+<p>Expect about $20–$55 for common gravel bought in bulk. The same ton in 0.5 cu ft bags (about 40 bags at $4–$8 each) costs several times as much, so bags only make sense for small jobs.${vgl(Q.erbsenkiesHomeguide, Q.erbsenkiesAngi)}</p>
 <h3>How much is a yard of gravel?</h3>
-<p>A cubic yard of gravel weighs about 1.4 tons, so it typically costs around $30–$80 for pea gravel or crushed stone.</p>
+<p>A cubic yard of gravel weighs about 1.4 tons, so it typically costs around $30–$80 for pea gravel or crushed stone.${vgl(Q.erbsenkiesHomeguide, Q.gesteinThisOldHouse)}</p>
 <h3>How much is a load of gravel?</h3>
 <p>A tandem dump truck carries about 12–16 tons. With delivery, a load of common gravel usually comes to somewhere between $250 and $1,000, depending on the stone and how far you are from the pit. More on truck sizes in the <a href="/guides/dump-truck-load-of-gravel/">dump truck load guide</a>.</p>
 <p>Prices vary by region – enter your price per ton under “Extra %, bag size &amp; prices” to get your own total.</p>
@@ -250,10 +254,10 @@ ${FORMEL}`,
 <p>Calculate each layer separately: length × width (ft) × depth (in) ÷ 324 gives cubic yards; multiply by the stone’s weight to get tons. A new 50 × 12 ft driveway with 6 inches of crusher run and 3 inches of #57 stone on top needs about 17 tons of base and 8 tons of top stone – before the extra for compaction.</p>
 <p>Resurfacing an existing driveway is far less: 2 inches of fresh stone on the same driveway is about 5 tons.</p>
 <h2>How thick should a gravel driveway be?</h2>
-<p>A new driveway is usually built in layers: about 4–6 inches of crusher run (road base) that is compacted, plus 2–4 inches of #57 crushed stone or similar on top. For resurfacing an existing driveway, 2 inches of top stone is often enough.</p>
+<p>A new driveway is usually built in layers: about 4–8 inches of crusher run (road base) that is compacted – 6–8 inches for heavy vehicles or soft ground – plus 2–4 inches of #57 crushed stone or similar on top. For resurfacing an existing driveway, 2 inches of top stone is often enough.</p>
 <p>A typical single-car driveway is 10–12 ft wide; a two-car driveway is 20–24 ft wide. Crusher run compacts a lot, so the calculator adds 15 % for it automatically.</p>
 <h2>How much does a gravel driveway cost?</h2>
-<p>Installed by a contractor, a gravel driveway typically costs about $1–$3 per square foot, depending on how much digging and base work is needed. If you spread it yourself, the gravel alone usually comes to about $0.50–$1.50 per square foot. For a 24 × 24 ft two-car driveway that’s roughly $600–$1,800 installed.</p>
+<p>Installed by a contractor, a gravel driveway typically costs about $1–$3 per square foot, depending on how much digging and base work is needed. If you spread it yourself, the gravel alone usually comes to about $0.50–$1.50 per square foot. For a 24 × 24 ft two-car driveway that’s roughly $600–$1,800 installed.${vgl(Q.einfahrtHomeguide, Q.einfahrtLawnstarter)}</p>
 <p>To estimate your own cost, enter your supplier’s price per ton under “Extra %, bag size &amp; prices” for each layer and add the delivery fee.</p>`,
     faq: [
       ['How many tons of gravel do I need for a driveway?', 'Multiply length × width in feet, then by the depth in inches, divide by 324 to get cubic yards, and multiply by about 1.4–1.6 tons per cubic yard. A 50 × 12 ft driveway with 4 inches of stone needs roughly 10–11 tons.'],
@@ -405,7 +409,7 @@ ${FORMEL}`,
 <h2>Masonry sand</h2>
 <p>Masonry sand is fine, washed sand for mortar and for a smooth top layer under play equipment or above ground pools. For mortar, the amount depends on your mix rather than an area – follow the ratio on the cement bag.</p>
 <h2>Arena sand</h2>
-<p>The loose footing in a riding arena is usually only 2–4 inches deep; it sits on a firm, compacted base. A 60 × 120 ft arena at 3 inches needs about 67 cubic yards – roughly 90 tons of sand.</p>`,
+<p>The loose footing in a riding arena is usually only 2–4 inches deep; it sits on a firm, compacted base. A 60 × 120 ft arena at 3 inches needs about 67 cubic yards – roughly 90 tons of sand.${vgl(Q.reitplatzUky, Q.reitplatzFarmProgress)}</p>`,
     faq: [
       ['How many bags of sand are in a cubic yard?', 'About 54 bags of 0.5 cu ft (a typical 50 lb bag).'],
       ['How many cubic yards is a ton of sand?', 'Dry sand weighs about 1.25–1.4 tons per cubic yard, so one ton is roughly 0.75 cubic yards (20 cubic feet).'],
@@ -441,7 +445,7 @@ ${FORMEL}`,
 </tbody></table>
 <p>Calculate the base with the <a href="/crushed-stone-calculator/">crushed stone calculator</a> (choose crusher run).</p>
 <h2>Polymeric sand calculator: how many bags for the joints?</h2>
-<p>Joint sand goes by coverage per bag, not by depth. A 50 lb bag of polymeric sand typically covers about 40–85 sq ft when the joints are narrow (⅛–¼ in), but only about 20–40 sq ft with wide joints or small, deep pavers. Divide your patio area by the coverage printed on your bag and buy one extra.</p>
+<p>Joint sand goes by coverage per bag, not by depth. A 50 lb bag of polymeric sand typically covers about 40–85 sq ft when the joints are narrow (⅛–¼ in), but only about 20–40 sq ft with wide joints or small, deep pavers. Divide your patio area by the coverage printed on your bag and buy one extra.${vgl(Q.fugensandSakrete, Q.fugensandRatgeber)}</p>
 <p>For the 192 sq ft patio above with narrow joints, that’s 3–5 bags.</p>`,
     faq: [
       ['Should I compact the bedding sand before laying pavers?', 'No. Screed the sand to an even 1 inch and lay the pavers on the loose sand; the plate compactor goes over the pavers afterwards and settles them into the sand.'],
@@ -517,7 +521,7 @@ ${FORMEL}`,
 </tbody></table>
 <p>Pea gravel is round and shifts underfoot, so edging matters. For driveways and parking areas, angular <a href="/crushed-stone-calculator/">crushed stone</a> stays in place better.</p>
 <h2>How much is pea gravel?</h2>
-<p>Bulk pea gravel usually costs about $30–$55 per ton, or $45–$80 per cubic yard. In 0.5 cu ft bags it’s about $5–$8 each, which adds up fast – around 40 bags make a ton. A small truckload of 2–7 tons delivered typically runs a few hundred dollars. Colored pea gravel costs more.</p>`,
+<p>Bulk pea gravel usually costs about $30–$55 per ton, or $45–$80 per cubic yard. In 0.5 cu ft bags it’s about $5–$8 each, which adds up fast – around 40 bags make a ton. A small truckload of 2–7 tons delivered typically runs a few hundred dollars. Colored pea gravel costs more.${vgl(Q.erbsenkiesHomeguide)}</p>`,
     faq: [
       ['How many bags of pea gravel are in a ton?', 'About 40 bags of 0.5 cu ft (around 50 lb each).'],
       ['How many bags of pea gravel do I need?', 'One 0.5 cu ft bag covers about 3 sq ft at 2 inches deep. Divide your area by 3 – or, from about half a ton, buy in bulk instead.'],
@@ -609,7 +613,7 @@ ${FORMEL}`,
 <h2>Rubber mulch coverage</h2>
 <p>A 0.8 cu ft bag covers about 4.8 sq ft at 2 inches or 1.6 sq ft at 6 inches. A 1.5 cu ft bag covers about 9 sq ft at 2 inches. A cubic yard – about 34 bags of 0.8 cu ft – covers 162 sq ft at 2 inches or 54 sq ft at 6 inches.</p>
 <h2>How much is rubber mulch?</h2>
-<p>Rubber mulch costs several times as much as wood mulch: bags start at around $6 for 0.8 cu ft, which works out to roughly $200 per cubic yard. In return it lasts for years without topping up. Colored and playground-certified products cost more, and larger playgrounds are often cheaper with bulk delivery – ask for a quote.</p>`,
+<p>Rubber mulch costs several times as much as wood mulch: bags start at around $6 for 0.8 cu ft, which works out to roughly $200 per cubic yard.${vgl(Q.mulchThisOldHouse)} In return it lasts for years without topping up. Colored and playground-certified products cost more, and larger playgrounds are often cheaper with bulk delivery – ask for a quote.</p>`,
     faq: [
       ['How many bags of rubber mulch do I need for a playground?', 'At 6 inches, a 20 × 15 ft playground (300 sq ft) needs about 150 cubic feet – roughly 188 bags of 0.8 cu ft or 100 bags of 1.5 cu ft.'],
       ['How much area does a bag of rubber mulch cover?', 'A 0.8 cu ft bag covers about 4.8 sq ft at 2 inches and 1.6 sq ft at 6 inches.'],

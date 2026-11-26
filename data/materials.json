@@ -211,7 +211,7 @@
       "sold_by": ["bag", "ton"],
       "bag_cu_ft": [0.5],
       "default_depth_in": 12,
-      "depth_range_in": [6, 18],
+      "depth_range_in": [6, 12],
       "waste_pct": 10
     }
   ],
@@ -219,7 +219,7 @@
     { "id": "flower-bed", "label": "Flower bed", "material": "hardwood-mulch", "depth_in": 3 },
     { "id": "tree-ring", "label": "Tree ring", "material": "hardwood-mulch", "depth_in": 3, "shape": "ring" },
     { "id": "gravel-path", "label": "Garden path", "material": "pea-gravel", "depth_in": 3 },
-    { "id": "driveway", "label": "Gravel driveway", "material": "crushed-stone-57", "depth_in": 4, "note": "New driveways usually need a base layer (crusher run, 4–6 in) plus a top layer." },
+    { "id": "driveway", "label": "Gravel driveway", "material": "crushed-stone-57", "depth_in": 4, "note": "New driveways usually need a base layer (crusher run, 4–8 in) plus a top layer." },
     { "id": "new-lawn", "label": "New lawn", "material": "topsoil", "depth_in": 4 },
     { "id": "top-dressing", "label": "Lawn top dressing", "material": "compost", "depth_in": 0.25 },
     { "id": "raised-bed", "label": "Raised bed", "material": "garden-soil", "depth_in": 12 },

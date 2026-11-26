@@ -6,7 +6,7 @@ Stand: 22.11.2026 · Quellen: Overture Maps Places (Release 2026-11-18.0), MSHA 
 
 | Pfad | Was |
 |---|---|
-| `data/yards/<staat>/<id>.json` | 4.716 Einträge in 48 Staaten (inkl. DC), ein Eintrag pro Datei (Dateiname = `id`) |
+| `data/yards/<staat>/<id>.json` | 4.716 Einträge in 48 Staaten (DC: keine Treffer), ein Eintrag pro Datei (Dateiname = `id`) |
 | `data/schema/yard.schema.json` | Schema ergänzt um `kind`, `chain`, `msha` und Herkunftsfelder unter `source` |
 | `data/zip-centroids/<3-stelliger ZIP-Präfix>.json` | ZIP-Mittelpunkte für die Umkreissuche, `{ "80202": [lat, lng] }`, 896 Dateien |
 | `data/import/yards_all.csv` | Alle Einträge als Tabelle zum Durchsehen |

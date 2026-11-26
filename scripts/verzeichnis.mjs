@@ -42,6 +42,21 @@ export const befuellt = (y) => y.status === 'active' || !!(y.contact?.phone || y
 export const seiteBefuellt = (y) => y.status === 'active' || !!(y.address.street && y.contact?.phone && y.contact?.website);
 const KETTEN = { siteone: 'SiteOne Landscape Supply', gomulch: 'GoMulch' };
 const ketteName = (k) => KETTEN[k] || k.replace(/\b\w/g, (b) => b.toUpperCase());
+// Eine Quelle für alle Zähler auf Hub-, Staats- und Stadtseiten:
+//   yards  = gelistete Yards und Händler (alles außer Kiesgruben), gruben = Kiesgruben aus MSHA,
+//   voll   = Einträge mit Telefon oder Website (nur für die Indexierungsregel, wird nicht angezeigt)
+export const istGrube = (y) => y.kind === 'gravel-pit';
+export const zaehlen = (liste) => ({ alle: liste.length, yards: liste.filter((y) => !istGrube(y)).length, gruben: liste.filter(istGrube).length, voll: liste.filter(befuellt).length });
+// Zahl, die neben einer Stadt steht: Yards; reine Kiesgruben-Orte zeigen die Zahl der Gruben
+export const stadtZahl = (c) => { const z = zaehlen(c.yards); return z.yards ? String(z.yards) : `${z.gruben} ${z.gruben === 1 ? 'pit' : 'pits'}`; };
+// „50 states and Puerto Rico“ – aus den Daten berechnet (DC hat derzeit keine Einträge)
+const NICHT_STAAT = new Set(['DC', 'PR', 'VI', 'GU']);
+export function gebietText(codes) {
+  const liste = [...new Set(codes)];
+  const staaten = liste.filter((c) => !NICHT_STAAT.has(c)).length;
+  const extra = liste.filter((c) => NICHT_STAAT.has(c)).map((c) => (c === 'DC' ? 'Washington, D.C.' : STAATEN[c])).sort();
+  return `${staaten} ${staaten === 1 ? 'state' : 'states'}${extra.length ? ` and ${extra.join(' and ')}` : ''}`;
+}
 const istMsha = (y) => !!(y.source?.dataset?.startsWith('msha') || (y.msha || []).some((m) => m.match !== 'inactive-nearby'));
 
 export const slugify = (s) => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
@@ -133,7 +148,7 @@ export function verzeichnisSeiten(yards, h) {
     i === teile.length - 1 ? `<span aria-current="page">${esc(n)}</span>` : `<a href="${p}">${esc(n)}</a>`).join(' › ')}</nav>`;
   const quelleText = (msha) => `<p class="klein quelle">Listing data: © OpenStreetMap contributors, © Overture Maps Foundation (CDLA-Permissive-2.0)${msha ? '; mine records from the U.S. Mine Safety and Health Administration (public domain)' : ''}. Last checked ${esc(monat(stand))}.</p>`;
   const quelle = quelleText(true);
-  const sammeln = (liste) => ({ alle: liste.length, voll: liste.filter(befuellt).length, gruben: liste.filter((y) => y.kind === 'gravel-pit').length });
+  const sammeln = zaehlen;
 
   const ldBetrieb = (y) => ({
     '@context': 'https://schema.org', '@type': 'HomeAndConstructionBusiness', name: y.name, url: abs(y._pfad),
@@ -170,31 +185,34 @@ export function verzeichnisSeiten(yards, h) {
 
   // ---------- Übersicht ----------
   const alleStaedte = staaten.flatMap((s) => [...s.staedte.values()]);
-  const top = [...alleStaedte].sort((a, b) => b.yards.filter(befuellt).length - a.yards.filter(befuellt).length).slice(0, 24);
+  const top = [...alleStaedte].sort((a, b) => zaehlen(b.yards).yards - zaehlen(a.yards).yards || a.name.localeCompare(b.name)).slice(0, 24);
+  const gesamt = zaehlen(yards);
+  const gebiet = gebietText(yards.filter((y) => !istGrube(y)).map((y) => y.address.state));
   {
     const pfad = BASIS;
     const krumen = [['Home', '/'], ['Landscape supply yards', pfad]];
     seiten.push({ pfad, index: true, typ: 'pages', html: `${kopf({ pfad, nav: 'Find a yard', title: 'Landscape Supply Yards Near You – Mulch, Gravel & Stone',
-      description: `Find landscape supply yards, mulch yards, stone yards and sand & gravel suppliers in all ${staaten.length} states. ${yards.filter(befuellt).length.toLocaleString('en-US')} suppliers with address, phone and website, plus gravel pits.`,
+      description: `${gesamt.yards.toLocaleString('en-US')} landscape supply yards, mulch and stone yards and sand & gravel suppliers in ${gebiet}, plus ${gesamt.gruben.toLocaleString('en-US')} gravel pits. Search by ZIP code or city.`,
       ld: [brotkrumen(krumen)] })}
 <main>
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Landscape Supply Yards</h1>
-  <p class="unter">${yards.filter(befuellt).length.toLocaleString('en-US')} landscape supply yards, mulch and stone yards and sand &amp; gravel suppliers across the U.S. – for bulk mulch, gravel, stone and topsoil.</p>
+  <p class="unter">${gesamt.yards.toLocaleString('en-US')} landscape supply yards, mulch and stone yards and sand &amp; gravel suppliers in ${esc(gebiet)} – for bulk mulch, gravel, stone and topsoil.</p>
 </div></section>
 <div class="breit">
 <section class="liste-karte">
 ${finder()}
 <h2>Browse by state</h2>
-${raster(staaten.map((s) => [s.name, `${BASIS}${s.slug}/`, [...s.staedte.values()].reduce((t, c) => t + c.yards.length, 0)]))}
+<p class="klein">Number of yards and suppliers per state. Gravel pits from mine records are counted separately.</p>
+${raster(staaten.filter((s) => zaehlen([...s.staedte.values()].flatMap((c) => c.yards)).yards).map((s) => [s.name, `${BASIS}${s.slug}/`, zaehlen([...s.staedte.values()].flatMap((c) => c.yards)).yards]))}
 <h2>Cities with the most yards</h2>
-${raster(top.map((c) => [`${c.name}, ${c.staat.code}`, c.pfad, c.yards.length]))}
-<a class="hinweis-karte abstand" href="${BASIS}gravel-pits/"><strong>Looking for a gravel pit?</strong><span>${yards.filter((y) => y.kind === 'gravel-pit').length.toLocaleString('en-US')} active sand &amp; gravel pits by state →</span></a>
+${raster(top.map((c) => [`${c.name}, ${c.staat.code}`, c.pfad, stadtZahl(c)]))}
+<a class="hinweis-karte abstand" href="${BASIS}gravel-pits/"><strong>Looking for a gravel pit?</strong><span>${gesamt.gruben.toLocaleString('en-US')} active and intermittent sand &amp; gravel pits by state →</span></a>
 </section>
 ${quelle}
 </div>
 </main>
-${fuss()}` });
+${fuss({ hinweis: 'daten' })}` });
   }
 
   // ---------- Staaten ----------
@@ -204,47 +222,47 @@ ${fuss()}` });
     const alle = staedte.flatMap((c) => c.yards);
     const z = sammeln(alle);
     const mitYards = staedte.filter((c) => c.yards.some((y) => y.kind !== 'gravel-pit'));
-    const gross = [...mitYards].sort((a, b) => b.yards.filter(befuellt).length - a.yards.filter(befuellt).length).slice(0, 12);
+    const gross = [...mitYards].sort((a, b) => zaehlen(b.yards).yards - zaehlen(a.yards).yards || a.name.localeCompare(b.name)).slice(0, 12);
     const krumen = [['Home', '/'], ['Landscape supply yards', BASIS], [s.name, pfad]];
     const index = z.voll >= MIN_STADT;
     seiten.push({ pfad, index, typ: 'states', html: `${kopf({ pfad, nav: 'Find a yard', noindex: !index, title: `Landscape Supply Yards in ${s.name} – Mulch, Gravel & Stone`.slice(0, 70),
-      description: `${z.voll} landscape supply yards, mulch and stone yards and sand & gravel suppliers in ${s.name}${z.gruben ? `, plus ${z.gruben} gravel pits` : ''}. Find bulk mulch, gravel and topsoil near you.`,
+      description: `${z.yards} landscape supply yards, mulch and stone yards and sand & gravel suppliers in ${s.name}${z.gruben ? `, plus ${z.gruben} gravel pits` : ''}. Find bulk mulch, gravel and topsoil near you.`,
       ld: [brotkrumen(krumen)] })}
 <main>
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Landscape Supply Yards in ${esc(s.name)}</h1>
-  <p class="unter">${z.voll} suppliers with contact details in ${mitYards.length} ${mitYards.length === 1 ? 'city' : 'cities'}: landscape supply, mulch and stone yards and sand &amp; gravel suppliers${z.gruben ? `, plus ${z.gruben} gravel pits from mine records` : ''}.</p>
+  <p class="unter">${z.yards} yards and suppliers in ${mitYards.length} ${mitYards.length === 1 ? 'city' : 'cities'}: landscape supply, mulch and stone yards and sand &amp; gravel suppliers${z.gruben ? `, plus ${z.gruben} gravel pits from mine records` : ''}.</p>
 </div></section>
 <div class="breit">
 <section class="liste-karte">
 ${finder()}
 ${z.gruben ? `<a class="hinweis-karte" href="${pfad}gravel-pits/"><strong>Gravel pits in ${esc(s.name)}</strong><span>${z.gruben} active sand &amp; gravel pits →</span></a>` : ''}
 ${staedte.length > 12 ? `<h2>Largest selection</h2>
-${raster(gross.map((c) => [c.name, c.pfad, c.yards.length]))}
+${raster(gross.map((c) => [c.name, c.pfad, stadtZahl(c)]))}
 <h2>All cities in ${esc(s.name)}</h2>` : `<h2>Cities in ${esc(s.name)}</h2>`}
 ${staedte.length > 15 ? `<label class="sr" for="filter-staedte">Filter cities</label><input class="filter" id="filter-staedte" type="search" data-filter="staedte" placeholder="Filter ${staedte.length} cities…" autocomplete="off" enterkeyhint="search">
 <p class="klein filter-leer" hidden>No city with that name – try the ZIP search above.</p>` : ''}
-${raster(staedte.map((c) => [c.name, c.pfad, c.yards.length]), 'staedte')}
+${raster(staedte.map((c) => [c.name, c.pfad, stadtZahl(c)]), 'staedte')}
 </section>
 ${quelleText(z.gruben > 0 || alle.some(istMsha))}
 </div>
 </main>
-${fuss()}` });
+${fuss({ hinweis: 'daten' })}` });
   }
 
   // ---------- Kiesgruben: Übersicht und je Staat ----------
   {
     const proStaatGruben = staaten.map((s) => ({ s, gruben: [...s.staedte.values()].flatMap((c) => c.yards).filter((y) => y.kind === 'gravel-pit') })).filter((x) => x.gruben.length);
-    const gesamt = proStaatGruben.reduce((t, x) => t + x.gruben.length, 0);
+    const grubenGesamt = proStaatGruben.reduce((t, x) => t + x.gruben.length, 0);
     const pfad = `${BASIS}gravel-pits/`;
     const krumen = [['Home', '/'], ['Landscape supply yards', BASIS], ['Gravel pits', pfad]];
     seiten.push({ pfad, index: true, typ: 'gravel-pits', html: `${kopf({ pfad, nav: 'Find a yard', title: 'Gravel Pits Near You – Sand & Gravel Pits by State',
-      description: `${gesamt.toLocaleString('en-US')} active and intermittent sand & gravel pits in ${proStaatGruben.length} states, from federal mine records: operator, location and directions.`,
+      description: `${grubenGesamt.toLocaleString('en-US')} active and intermittent sand & gravel pits in ${gebietText(proStaatGruben.map((x) => x.s.code))}, from federal mine records. Pick a state to see pits by town and operator.`,
       ld: [brotkrumen(krumen)] })}
 <main>
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Gravel Pits by State</h1>
-  <p class="unter">${gesamt.toLocaleString('en-US')} active and intermittent sand &amp; gravel pits from federal mine records (MSHA).</p>
+  <p class="unter">${grubenGesamt.toLocaleString('en-US')} active and intermittent sand &amp; gravel pits from federal mine records (MSHA).</p>
 </div></section>
 <div class="breit">
 <section class="liste-karte">
@@ -255,7 +273,7 @@ ${raster(proStaatGruben.map(({ s, gruben }) => [s.name, `${BASIS}${s.slug}/grave
 ${quelleText(true)}
 </div>
 </main>
-${fuss()}` });
+${fuss({ hinweis: 'daten' })}` });
 
     for (const { s, gruben } of proStaatGruben) {
       const pfadS = `${BASIS}${s.slug}/gravel-pits/`;
@@ -270,7 +288,7 @@ ${fuss()}` });
       const index = gruben.length >= MIN_STADT;
       seiten.push({ pfad: pfadS, index, typ: 'gravel-pits', html: `${kopf({ pfad: pfadS, nav: 'Find a yard', noindex: !index,
         title: `Gravel Pits in ${s.name} – ${gruben.length} Sand & Gravel Pits`.slice(0, 70),
-        description: `${gruben.length} sand & gravel pits in ${s.name} (${aktiv} active, ${gruben.length - aktiv} intermittent) from federal mine records, with operator, city and directions.`,
+        description: `${gruben.length} sand & gravel pits in ${s.name} (${aktiv} active, ${gruben.length - aktiv} intermittent) from federal mine records, listed by town with operator and status.`,
         ld: [brotkrumen(krumenS), { '@context': 'https://schema.org', '@type': 'ItemList', name: `Gravel pits in ${s.name}`,
           itemListElement: gruben.map((y, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(y._pfad), name: y.name })) }] })}
 <main>
@@ -287,7 +305,7 @@ ${[...nachStadt].map(([c, liste]) => `<h2>${esc(c.name)}</h2>
 ${quelleText(true)}
 </div>
 </main>
-${fuss()}` });
+${fuss({ hinweis: 'daten' })}` });
     }
   }
 
@@ -312,7 +330,7 @@ ${fuss()}` });
     const ort = `${c.name}, ${s.code}`;
     const title = nurGruben
       ? `Gravel Pits near ${ort} – Sand & Gravel`
-      : [`Mulch, Gravel & Landscape Supply in ${ort} (${z.voll})`, `Landscape Supply Yards in ${ort} (${z.voll})`, `Landscape Supply in ${ort}`].find((t) => t.length <= 65) || `Landscape Supply in ${ort}`.slice(0, 70);
+      : [`Mulch, Gravel & Landscape Supply in ${ort} (${z.yards})`, `Landscape Supply Yards in ${ort} (${z.yards})`, `Landscape Supply in ${ort}`].find((t) => t.length <= 65) || `Landscape Supply in ${ort}`.slice(0, 70);
     const h1 = nurGruben ? `Gravel Pits near ${c.name}, ${s.code}` : `Landscape Supply Yards in ${c.name}, ${s.code}`;
     // Kurztext aus den Daten (je Stadt verschieden)
     const art = (k) => c.yards.filter((y) => y.kind === k).length;
@@ -334,7 +352,7 @@ ${fuss()}` });
     ].filter(Boolean).join(' ');
     const beschr = nurGruben
       ? `${zaehlwort(z.gruben, 'sand & gravel pit', 'sand & gravel pits')} near ${c.name}, ${s.name} from federal mine records, plus landscape supply yards nearby and a calculator for tons of gravel.`
-      : `${zaehlwort(z.voll, 'supplier', 'suppliers')} for bulk mulch, gravel, stone and topsoil in ${c.name}, ${s.name}: addresses${mitTel ? ', phone numbers' : ''}${mitWeb ? ' and websites' : ''}. Plus a free calculator for how much you need.`;
+      : `${zaehlwort(z.yards, 'supplier', 'suppliers')} for bulk mulch, gravel, stone and topsoil in ${c.name}, ${s.name}: addresses${mitTel ? ', phone numbers' : ''}${mitWeb ? ' and websites' : ''}. Plus a free calculator for how much you need.`;
     const msha = c.yards.some(istMsha);
     seiten.push({ pfad: c.pfad, index, typ: 'cities', html: `${kopf({ pfad: c.pfad, nav: 'Find a yard', noindex: !index, title, description: beschr.slice(0, 165),
       ld: [brotkrumen(krumen), itemList] })}
@@ -360,7 +378,7 @@ ${raster(nachbarn.map(({ x, mi }) => [x.name, x.pfad, `${Math.round(mi)} mi`]))}
 ${quelleText(msha)}
 </div>
 </main>
-${fuss()}` });
+${fuss({ hinweis: 'rechner' })}` });
   }
 
   // ---------- Unternehmen ----------
@@ -426,7 +444,7 @@ ${naehe.length ? `<h2 class="abstand">Nearby suppliers</h2>
 ${quelleText(ausMsha || !!mine)}
 </div>
 </main>
-${fuss()}` });
+${fuss({ hinweis: 'daten' })}` });
   }
   return seiten;
 }
