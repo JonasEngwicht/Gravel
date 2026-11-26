@@ -140,12 +140,14 @@ async function vorschlaege(q) {
   return aus.sort((a, b) => a.rang - b.rang || b.zahl - a.zahl || a.name.localeCompare(b.name)).slice(0, 8);
 }
 
+// data-filter: eine oder mehrere Listen-IDs (Leerzeichen getrennt); eingeklappte Listen öffnen sich beim Filtern
 function filter(feld) {
-  const liste = document.getElementById(feld.dataset.filter);
+  const listen = feld.dataset.filter.split(/\s+/).map((id) => document.getElementById(id)).filter(Boolean);
   const leer = feld.parentElement.querySelector('.filter-leer');
-  const eintraege = [...liste.children].map((li) => [li, norm(li.querySelector('span')?.textContent || li.textContent)]);
+  const eintraege = listen.flatMap((liste) => [...liste.children]).map((li) => [li, norm(li.querySelector('span')?.textContent || li.textContent)]);
   feld.addEventListener('input', () => {
     const q = norm(feld.value);
+    for (const l of listen) { const d = l.closest('details'); if (d && q) d.open = true; }
     let sichtbar = 0;
     for (const [li, text] of eintraege) {
       const an = !q || text.includes(q);

@@ -6,7 +6,8 @@
   "description": "Mulch, gravel & soil calculators plus a directory of landscape supply yards (US).",
   "scripts": {
     "build": "node scripts/build.mjs",
-    "test": "node --test"
+    "test": "node --test",
+    "lastmod": "node -e \"require('fs').copyFileSync('public/lastmod.json','data/lastmod.json')\""
   },
   "engines": {
     "node": ">=20"

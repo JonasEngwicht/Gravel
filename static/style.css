@@ -349,3 +349,9 @@ h2.abstand { color: var(--erde); font-size: 1.35rem; line-height: 1.2; }
 /* Website-Link in der Yard-Karte: dezent, über dem Klickbereich der Karte */
 .karte-web { position: relative; z-index: 1; align-self: flex-start; font-size: .88rem; font-weight: 600; color: var(--moos-dunkel); text-underline-offset: 2px; padding: 2px 0; }
 .quelle-inline { font-size: .85em; color: var(--leise); white-space: nowrap; }
+.weitere { margin: 14px 0 8px; }
+.weitere summary { cursor: pointer; font-weight: 600; color: var(--moos-dunkel); min-height: 44px; display: flex; align-items: center; }
+.weitere summary { list-style: none; }
+.weitere summary::-webkit-details-marker { display: none; }
+.weitere summary::before { content: "+"; display: inline-grid; place-items: center; width: 22px; height: 22px; margin-right: 8px; border-radius: 50%; background: var(--moos-hell); font-weight: 700; }
+.weitere[open] summary::before { content: "–"; }

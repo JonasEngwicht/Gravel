@@ -661,7 +661,8 @@ ${FORMEL}`,
     bloecke: ['saecke', 'yardsZuSaecken', 'sackDeckung'],
     verwandt: ['/mulch-calculator/', '/guides/how-much-does-mulch-weigh/', '/rubber-mulch-calculator/'],
     inhalt: `<h2>How many cubic feet are in a yard of mulch?</h2>
-<p>A cubic yard is 3 ft × 3 ft × 3 ft = <strong>27 cubic feet</strong>. Bulk mulch is sold by the cubic yard; bagged mulch is labeled in cubic feet (sometimes in quarts or liters).</p>`,
+<p>A cubic yard is 3 ft × 3 ft × 3 ft = <strong>27 cubic feet</strong>. Bulk mulch is sold by the cubic yard; bagged mulch is labeled in cubic feet (sometimes in quarts or liters).</p>
+<p>To find out how many yards your beds need in the first place, enter them in the <a href="/mulch-calculator/">mulch calculator</a> – it shows cubic yards and bags side by side. If you plan to haul bags yourself, check <a href="/guides/how-much-does-mulch-weigh/">how much a bag of mulch weighs</a> first.</p>`,
     faq: [
       ['How many 2 cubic foot bags of mulch make a yard?', '13.5 bags. Round up to 14 when you buy.'],
       ['How many bags of mulch are in 3 yards?', 'About 41 bags of 2 cu ft or 27 bags of 3 cu ft.'],
@@ -685,7 +686,8 @@ ${FORMEL}`,
     inhalt: `<h2>Why the weight varies</h2>
 <p>Mulch is mostly wood and water. Freshly ground or rain-soaked mulch can weigh nearly twice as much as dry, aged mulch. Bark nuggets are lighter than shredded hardwood; rubber mulch is in a similar range but doesn’t absorb water.</p>
 <h2>Can my pickup carry a yard of mulch?</h2>
-<p>Usually yes: at 400–800 lb, one cubic yard of mulch is well within the payload of a half-ton pickup, and most beds hold about 2 cubic yards heaped. Gravel is a different story – see <a href="/guides/how-much-does-gravel-weigh/">how much gravel weighs</a>.</p>`,
+<p>Usually yes: at 400–800 lb, one cubic yard of mulch is well within the payload of a half-ton pickup, and most beds hold about 2 cubic yards heaped. Gravel is a different story – see <a href="/guides/how-much-does-gravel-weigh/">how much gravel weighs</a>.</p>
+<p>Buying bags instead? The <a href="/guides/how-many-bags-of-mulch-in-a-yard/">bags of mulch per yard chart</a> converts between bags and cubic yards, and the <a href="/mulch-calculator/">mulch calculator</a> works out both for your beds.</p>`,
     faq: [
       ['How much does a 2 cubic foot bag of mulch weigh?', 'About 30–60 lb; dry bags are at the lower end.'],
       ['How much does a yard of mulch weigh?', 'About 400–800 lb for shredded hardwood, 400–600 lb for pine bark.'],
@@ -706,7 +708,8 @@ ${FORMEL}`,
     bloecke: ['gewichtStein', 'tonneDeckung'],
     verwandt: ['/gravel-calculator/', '/tons-to-cubic-yards/', '/guides/dump-truck-load-of-gravel/'],
     inhalt: `<h2>How much gravel is a ton?</h2>
-<p>One ton of typical gravel is about <strong>0.7 cubic yards</strong>, a pile roughly 3 ft × 3 ft × 2 ft. At 2 inches deep it covers about 115 square feet.</p>`,
+<p>One ton of typical gravel is about <strong>0.7 cubic yards</strong>, a pile roughly 3 ft × 3 ft × 2 ft. At 2 inches deep it covers about 115 square feet.</p>
+<p>Because gravel is sold by the ton but measured by area, the <a href="/gravel-calculator/">gravel calculator</a> does both steps at once. To convert an amount you already know, use the <a href="/tons-to-cubic-yards/">cubic yards to tons converter</a>; for big orders, see <a href="/guides/dump-truck-load-of-gravel/">how much a dump truck carries</a>.</p>`,
     faq: [
       ['How much does a cubic yard of gravel weigh in pounds?', 'About 2,600–3,000 lb for most gravel and crushed stone.'],
       ['How much does a yard of pea gravel weigh?', 'About 1.3–1.5 tons (2,600–3,000 lb).'],
@@ -730,7 +733,9 @@ ${FORMEL}`,
     inhalt: `<h2>Weight, not volume, sets the limit</h2>
 <p>Gravel is heavy, so trucks reach their legal weight limit before the bed is full. That’s why yards quote gravel loads in tons. Mulch is light: the same truck can carry far more cubic yards of mulch than of stone.</p>
 <h2>Will a dump truck fit on my property?</h2>
-<p>A loaded tandem weighs 50,000 lb or more and needs about 10–12 ft of width and a firm surface. Tell the yard about soft lawns, septic fields, low wires and tight turns before delivery.</p>`,
+<p>A loaded tandem weighs 50,000 lb or more and needs about 10–12 ft of width and a firm surface. Tell the yard about soft lawns, septic fields, low wires and tight turns before delivery.</p>
+<h2>How many loads do you need?</h2>
+<p>Work out the total tons first – the <a href="/driveway-gravel-calculator/">driveway gravel calculator</a> handles base and top layer, the <a href="/gravel-calculator/">gravel calculator</a> everything else – then divide by the load size above. A cubic yard of gravel weighs about 1.4 tons (<a href="/guides/how-much-does-gravel-weigh/">weight chart</a>).</p>`,
     faq: [
       ['How many tons of gravel are in a dump truck?', 'Typically 12–16 tons in a tandem (10-wheeler), 6–10 tons in a single-axle truck and up to about 20–25 tons in a tri-axle.'],
       ['How many yards of gravel are in a dump truck?', 'About 10–14 cubic yards in a tandem and 5–8 cubic yards in a single-axle truck.'],
