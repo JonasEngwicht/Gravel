@@ -489,7 +489,7 @@ writeFileSync(join(OUT, 'robots.txt'), SITE.baseUrl
 // Nur indexierbare Seiten: Verzeichnisseiten ohne genug Inhalt haben noindex und fehlen hier.
 const SITEMAPS = {
   pages: SEITEN.filter((s) => !s.noindex).map((s) => s.pfad),
-  states: [], cities: [], yards: [], 'gravel-pits': [],
+  states: [], cities: [], materials: [], yards: [], 'gravel-pits': [],
 };
 for (const v of VERZ.filter((x) => x.index)) (SITEMAPS[v.typ] || SITEMAPS.pages).push(v.pfad);
 // lastmod = Tag der letzten inhaltlichen Änderung je Seite. Gemessen wird ein Hash aus Titel, Description und <main>
