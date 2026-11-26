@@ -88,3 +88,38 @@ test("medianPrice", () => {
   assert.equal(medianPrice([y(30), y(40)], "topsoil", "cy"), 35);
   assert.equal(medianPrice([], "topsoil", "cy"), null);
 });
+
+// ---------- AP6 ----------
+import { dumpTruckLoads, bulkVsBags } from "../src/calc/core.js";
+const MATS = JSON.parse((await import("node:fs")).readFileSync(new URL("../data/materials.json", import.meta.url))).materials;
+const matId = (id) => MATS.find((m) => m.id === id);
+
+test("bestehende Schicht wird abgezogen (Auffrischen)", () => {
+  const voll = calculate({ sqft: 200, depthIn: 3, material: matId("hardwood-mulch"), wastePct: 0 });
+  const auf = calculate({ sqft: 200, depthIn: 3, existingIn: 1, material: matId("hardwood-mulch"), wastePct: 0 });
+  assert.equal(auf.netDepthIn, 2);
+  assert.ok(Math.abs(auf.cy - (voll.cy * 2) / 3) < 1e-9);
+  assert.throws(() => calculate({ sqft: 200, depthIn: 2, existingIn: 2, material: matId("hardwood-mulch") }));
+});
+
+test("Verdichtungszuschlag für Fill Dirt, Crusher Run und Bettungssand", () => {
+  for (const [id, pct] of [["fill-dirt", 20], ["crusher-run", 15], ["paver-sand", 10]]) assert.equal(mat(id).compaction_pct, pct, id);
+  const r = calculate({ sqft: 324, depthIn: 12, material: matId("fill-dirt") });
+  // 324 sq ft × 1 ft = 12 cu yd × 1,05 Abfall × 1,20 Verdichtung
+  assert.ok(Math.abs(r.cy - 12 * 1.05 * 1.2) < 1e-9);
+  assert.equal(r.compactionPct, 20);
+  assert.equal(calculate({ sqft: 324, depthIn: 12, material: matId("fill-dirt"), compactionPct: 0, wastePct: 0 }).cy, 12);
+  assert.equal(calculate({ sqft: 100, depthIn: 3, material: matId("hardwood-mulch") }).compactionPct, 0);
+});
+
+test("LKW-Ladungen: Gewicht oder Volumen begrenzt", () => {
+  assert.equal(dumpTruckLoads({ tons: 28, cy: 20 }), 2);
+  assert.equal(dumpTruckLoads({ tons: 6, cy: 20 }), 2); // Mulch: Volumen begrenzt
+  assert.equal(dumpTruckLoads({ tons: 14, cy: 10 }), 1);
+});
+
+test("Sack vs. lose Ware: Ersparnis", () => {
+  assert.deepEqual(bulkVsBags({ bulkByCy: 120, bags: 200 }), { bulk: 120, bags: 200, saving: 80, cheaper: "bulk" });
+  assert.equal(bulkVsBags({ bulkByCy: 120 }), null);
+  assert.equal(bulkVsBags({ bags: 50, bulkByTon: 90, bulkByCy: 80 }).cheaper, "bags");
+});

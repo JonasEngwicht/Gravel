@@ -124,8 +124,10 @@ function rechner(seite) {
         <p class="hinweis" id="tiefe-hinweis"></p>
       </div>
       <details class="erweitert">
-        <summary>Extra %, bag size &amp; prices</summary>
+        <summary>${seite.nurVolumen ? 'Options: extra %' : 'Options: extra %, top-up, bags &amp; prices'}</summary>
         <label>Extra for settling &amp; waste (%)<input id="puffer" type="number" inputmode="decimal" min="0" max="50" step="1" value="${seite.nurVolumen ? 0 : m.waste_pct}"></label>
+        ${seite.nurVolumen ? '' : `<label${m.compaction_pct ? '' : ' hidden'}>Extra for compaction (%)<input id="verdichtung" type="number" inputmode="decimal" min="0" max="50" step="1" value="${m.compaction_pct || 0}"></label>
+        <label>Existing layer to top up <span class="opt">(inches, optional)</span><input id="bestand" type="number" inputmode="decimal" min="0" step="0.25" placeholder="e.g. 1"></label>`}
         ${seite.nurVolumen ? '' : `<label>Bag size<select id="sack"></select></label>
         <div class="preise">
           <label>$ per cubic yard<input id="p-cy" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 40"></label>
@@ -308,12 +310,27 @@ function beispiel(seite) {
   if (!seite.beispiel) return '';
   const { laenge, breite, tiefe } = seite.beispiel;
   const m = matById[seite.material];
-  const r = calculate({ sqft: laenge * breite, depthIn: tiefe, material: m, wastePct: 0 });
+  const r = calculate({ sqft: laenge * breite, depthIn: tiefe, material: m, wastePct: 0, compactionPct: 0 });
   const mit = calculate({ sqft: laenge * breite, depthIn: tiefe, material: m, bagCuFt: m.bag_cu_ft.includes(2) ? 2 : undefined });
   const teile = [`<strong>${fmt(r.cy, 2)} cubic yards</strong> (${fmt(r.cuFt)} cu ft)`];
   if (!seite.nurVolumen) teile.push(`about ${fmt(r.tons, 1)} tons`);
-  if (!seite.nurVolumen && mit.bags) teile.push(`${fmt(mit.bags)} bags of ${mit.bagSize} cu ft with ${m.waste_pct} % extra`);
+  if (!seite.nurVolumen && mit.bags) teile.push(`${fmt(mit.bags)} bags of ${mit.bagSize} cu ft with ${m.waste_pct} % extra${m.compaction_pct ? ` and ${m.compaction_pct} % for compaction` : ''}`);
+  else if (!seite.nurVolumen && m.compaction_pct) teile.push(`about ${fmt(mit.tons, 1)} tons with ${m.waste_pct} % extra and ${m.compaction_pct} % for compaction`);
   return `<p class="tipp"><strong>Example:</strong> ${laenge} × ${breite} ft (${fmt(laenge * breite)} sq ft) at ${tiefe} in deep needs ${teile.join(', ')}${seite.nurVolumen ? '' : ` of ${name(m)}`}.</p>`;
+}
+
+// Formel in einem Satz + Zahlenbeispiel direkt unter der H1 (Rechner und Umrechner)
+function formelZeile(seite) {
+  if (seite.art === 'umrechner') {
+    const m = matById[seite.material];
+    return `<p class="formel"><strong>Formula:</strong> tons = cubic yards × weight per cubic yard. <strong>Example:</strong> 5 cubic yards of ${name(m)} × ${fmt(m.density_tons_per_cy, 2)} = ${fmt(5 * m.density_tons_per_cy, 1)} tons.</p>`;
+  }
+  if (seite.art !== 'rechner' || !seite.beispiel) return '';
+  const { laenge, breite, tiefe } = seite.beispiel;
+  const m = matById[seite.material];
+  const r = calculate({ sqft: laenge * breite, depthIn: tiefe, material: m, wastePct: 0, compactionPct: 0 });
+  const tonnen = !seite.nurVolumen && m.sold_by[0] === 'ton';
+  return `<p class="formel"><strong>Formula:</strong> length × width (ft) × depth (in) ÷ 324 = cubic yards${tonnen ? `; × ${fmt(m.density_tons_per_cy, 2)} = tons` : ''}. <strong>Example:</strong> ${laenge} × ${breite} ft at ${tiefe} in = ${fmt(r.cy, 2)} cubic yards${tonnen ? ` ≈ ${fmt(r.tons, 1)} tons` : ''}.</p>`;
 }
 
 function verwandtBlock(seite) {
@@ -390,6 +407,7 @@ function seiteBauen(seite) {
 <section class="held"><div class="breit">${krumenHtml}
   <h1>${esc(seite.h1)}</h1>
   <p class="unter">${esc(seite.intro)}</p>
+  ${formelZeile(seite)}
 </div></section>
 <div class="breit">
 ${werkzeug}

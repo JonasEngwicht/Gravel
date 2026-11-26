@@ -308,3 +308,23 @@ test("Ratgeber verlinken im Fließtext 2–4 Rechner oder Ratgeber", () => {
     assert.ok(n >= 2 && n <= 4, `${s.pfad}: ${n}`);
   }
 });
+
+// ---------- AP6: Rechner ----------
+test("Rechnerseiten: Formel und Beispiel direkt unter der H1, Optionen für Auffrischen und Verdichtung", () => {
+  for (const s of SEITEN.filter((x) => x.art === "rechner" || x.art === "umrechner")) {
+    const html = readFileSync(pub(s.pfad.slice(1) + "index.html"), "utf8");
+    const held = html.split('<section class="held">')[1].split("</section>")[0];
+    assert.match(held, /<p class="formel"><strong>Formula:<\/strong>.*<strong>Example:<\/strong>/, s.pfad);
+    if (s.art === "rechner" && !s.nurVolumen) assert.match(html, /id="bestand"/, s.pfad);
+  }
+  assert.match(readFileSync(pub("mulch-calculator/index.html"), "utf8"), /20 × 10 ft at 3 in = 1\.85 cubic yards/);
+  assert.match(readFileSync(pub("fill-dirt-calculator/index.html"), "utf8"), /<label>Extra for compaction \(%\)<input id="verdichtung"[^>]*value="20"/);
+  assert.match(readFileSync(pub("mulch-calculator/index.html"), "utf8"), /<label hidden>Extra for compaction/);
+});
+
+test("FAQ: Mulch mit „People also ask“-Fragen, Startseite mit 6–8 Fragen", () => {
+  const mulch = SEITEN.find((s) => s.pfad === "/mulch-calculator/").faq.map(([q]) => q);
+  for (const q of ["What is the 3-3-3 rule for mulch?", "How many bags of mulch do I need to cover 500 square feet?", "How do I estimate a yard of mulch?"]) assert.ok(mulch.includes(q), q);
+  const start = SEITEN.find((s) => s.pfad === "/").faq.length;
+  assert.ok(start >= 6 && start <= 8, String(start));
+});

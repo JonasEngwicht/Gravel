@@ -364,3 +364,11 @@ h2.abstand { color: var(--erde); font-size: 1.35rem; line-height: 1.2; }
 .chip-filter button[aria-pressed="true"] { background: var(--moos); border-color: var(--moos); color: #fff; }
 .chip-hinweis { flex-basis: 100%; }
 .karte-box { height: 360px; border-radius: 12px; overflow: hidden; margin: 0 0 16px; border: 1px solid var(--linie); }
+.formel { margin: 10px 0 0; font-size: .95rem; opacity: .92; }
+@media print {
+  .kopf, .fuss, .ergebnis-leiste, .ergebnis-aktionen, .held .formel, .erweitert summary, #abschnitt-neu, .tiefe-chips, .chips-wahl, .entfernen, article.inhalt > *:not(.tipp) { display: none !important; }
+  .rechner { box-shadow: none; border: 0; }
+  .held { background: none !important; color: #000 !important; padding: 0; }
+  .held h1, .held .unter { color: #000 !important; }
+  body { background: #fff; }
+}
