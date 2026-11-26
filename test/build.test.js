@@ -202,3 +202,58 @@ test("externe Firmen-Links: nofollow noopener, neues Fenster", () => {
     assert.match(a, /target="_blank"/);
   }
 });
+
+// ---------- AP2: Fakten und Zähler ----------
+const text = (html) => html.replace(/<[^>]+>/g, " ").replace(/\s+/g, " ");
+const rasterEintraege = (html, ab) => [...html.slice(html.indexOf(ab)).split("</ul>")[0].matchAll(/<a href="([^"]+)"><span>([^<]+)<\/span> <span class="zahl">([^<]+)<\/span>/g)].map((m) => ({ pfad: m[1], name: m[2], zahl: m[3] }));
+
+test("Zähler stimmen zwischen Hub, Staats- und Stadtseiten überein", () => {
+  const hub = readFileSync(pub("landscape-supply/index.html"), "utf8");
+  const staaten = rasterEintraege(hub, "Browse by state");
+  assert.ok(staaten.length > 40);
+  let summe = 0;
+  for (const st of staaten) {
+    const html = readFileSync(pub(st.pfad.slice(1) + "index.html"), "utf8");
+    assert.match(html, new RegExp(`<p class="unter">${st.zahl} yards and suppliers`), st.pfad);
+    summe += +st.zahl;
+  }
+  assert.match(text(hub), new RegExp(`${summe.toLocaleString("en-US")} landscape supply yards`));
+  const staedte = rasterEintraege(hub, "Cities with the most yards");
+  assert.equal(staedte.length, 24);
+  const zahlen = staedte.map((c) => parseInt(c.zahl, 10));
+  assert.deepEqual(zahlen, [...zahlen].sort((a, b) => b - a), "nach Anzahl absteigend");
+  for (const c of staedte) {
+    const html = readFileSync(pub(c.pfad.slice(1) + "index.html"), "utf8");
+    assert.match(html.match(/<title>(.*?)<\/title>/)[1], new RegExp(`\\(${c.zahl}\\)$`), c.pfad);
+    // dieselbe Zahl auch in der Staatsliste
+    const st = readFileSync(pub(c.pfad.split("/").slice(1, 3).join("/") + "/index.html"), "utf8");
+    assert.ok(st.includes(`<a href="${c.pfad}"><span>${c.name.replace(/, [A-Z]{2}$/, "")}</span> <span class="zahl">${c.zahl}</span>`), c.pfad);
+  }
+});
+
+test("keine erfundene Staatenzahl, Hinweise passend zum Seitentyp", () => {
+  for (const p of ["index.html", "landscape-supply/index.html", "landscape-supply/gravel-pits/index.html", "about/index.html"]) {
+    assert.doesNotMatch(readFileSync(pub(p), "utf8"), /51 states/, p);
+  }
+  assert.match(readFileSync(pub("landscape-supply/gravel-pits/index.html"), "utf8"), /50 states and Puerto Rico/);
+  assert.match(readFileSync(pub("mulch-calculator/index.html"), "utf8"), /Results are estimates based on typical material weights/);
+  const staat = readFileSync(pub("landscape-supply/tx/index.html"), "utf8");
+  assert.doesNotMatch(staat, /Results are estimates/);
+  assert.match(staat, /Listings come from public data/);
+});
+
+test("Preisangaben tragen die Quelle direkt hinter der Zahl", () => {
+  for (const p of ["mulch-calculator", "gravel-calculator", "pea-gravel-calculator", "driveway-gravel-calculator", "rubber-mulch-calculator"]) {
+    const html = readFileSync(pub(`${p}/index.html`), "utf8");
+    assert.match(html, /\$\d[^<]*<span class="quelle-inline">\(<a href="https:/, p);
+  }
+});
+
+test("Startseite: Titel und H1 sprechen von Topsoil, Tiefen widersprechen sich nicht", () => {
+  const html = readFileSync(pub("index.html"), "utf8");
+  assert.match(html, /<h1>Mulch, Gravel &amp; Topsoil Calculator<\/h1>/);
+  const { materials } = JSON.parse(readFileSync(new URL("../data/materials.json", import.meta.url)));
+  const bereich = (id) => materials.find((m) => m.id === id).depth_range_in.join("–");
+  assert.match(html, new RegExp(`Play sand</a></td><td>${bereich("play-sand")} in`));
+  assert.match(html, new RegExp(`${bereich("crusher-run")} in base`));
+});
