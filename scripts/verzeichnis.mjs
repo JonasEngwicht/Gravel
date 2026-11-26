@@ -150,7 +150,7 @@ export function verzeichnisSeiten(yards, h) {
   const karte = (y, { mitStadt = false, mi } = {}) => `<li class="yard">
   <div class="yard-text">
     <a class="yard-name" href="${y._pfad}">${esc(y.name)}</a>
-    <span class="yard-meta"><span class="tag tag-${esc(y.kind || 'x')}">${esc(ARTEN[y.kind] || 'Supplier')}</span>${y.status === 'active' ? '<span class="tag tag-ok">Verified</span>' : ''}${mi != null ? `<span class="entf">${entf(mi)}</span>` : ''}</span>
+    <span class="yard-meta"><span class="tag tag-${esc(y.kind || 'x')}">${esc(ARTEN[y.kind] || 'Supplier')}</span>${y.status === 'active' ? ' <span class="tag tag-ok">Verified</span>' : ''}${mi != null ? ` <span class="entf"><span class="sr">· </span>${entf(mi)}</span>` : ''}</span>
     <span class="yard-adr">${esc([y.address.street, mitStadt ? `${y.address.city}, ${y.address.state}` : y.address.city].filter(Boolean).join(', '))}</span>
     ${y.contact?.phone ? `<span class="yard-tel">${esc(y.contact.phone)}</span>` : ''}
     ${y.contact?.website ? `<a class="karte-web" href="${esc(y.contact.website)}" rel="nofollow noopener" target="_blank">Website</a>` : ''}
@@ -166,7 +166,7 @@ export function verzeichnisSeiten(yards, h) {
   <button type="button" class="finder-ort" hidden><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 8a4 4 0 1 0 0 8 4 4 0 0 0 0-8Zm9 3h-2.06A7 7 0 0 0 13 5.06V3h-2v2.06A7 7 0 0 0 5.06 11H3v2h2.06A7 7 0 0 0 11 18.94V21h2v-2.06A7 7 0 0 0 18.94 13H21v-2Zm-9 6a5 5 0 1 1 0-10 5 5 0 0 1 0 10Z"/></svg>Use my location</button>
   <div class="finder-ergebnis" aria-live="polite"></div>
 </form>`;
-  const raster = (eintraege, id) => `<ul class="raster"${id ? ` id="${id}"` : ''}>${eintraege.map(([name, pfad, zahl]) => `<li><a href="${pfad}"><span>${esc(name)}</span><span class="zahl">${zahl}</span></a></li>`).join('')}</ul>`;
+  const raster = (eintraege, id) => `<ul class="raster"${id ? ` id="${id}"` : ''}>${eintraege.map(([name, pfad, zahl]) => `<li><a href="${pfad}"><span>${esc(name)}</span> <span class="zahl">${zahl}</span></a></li>`).join('')}</ul>`;
 
   // ---------- Übersicht ----------
   const alleStaedte = staaten.flatMap((s) => [...s.staedte.values()]);

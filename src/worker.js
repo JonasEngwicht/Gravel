@@ -49,13 +49,15 @@ export default {
 
   async fetch(request, env) {
     const url = new URL(request.url);
-    // http → https und www → Hauptdomain in einem Schritt (eine Adresse für Google, ein 301)
+    // http → https, www → Hauptdomain und fehlender Schrägstrich am Seitenende (/mulch-calculator → /mulch-calculator/)
+    // in einem Schritt: eine Adresse für Google, ein einziges 301. Ohne die Schrägstrich-Regel würde die
+    // Asset-Auslieferung mit 307 (vorübergehend) umleiten. Dateien mit Endung (.js, .xml …) bleiben unberührt.
     const lokal = LOKAL.has(url.hostname);
-    if ((url.protocol === 'http:' && !lokal) || url.hostname.startsWith('www.')) {
-      url.protocol = lokal ? url.protocol : 'https:';
-      if (url.hostname.startsWith('www.')) url.hostname = url.hostname.slice(4);
-      return Response.redirect(url.toString(), 301);
-    }
+    const ziel = new URL(url);
+    if (url.protocol === 'http:' && !lokal) ziel.protocol = 'https:';
+    if (url.hostname.startsWith('www.')) ziel.hostname = url.hostname.slice(4);
+    if (!url.pathname.endsWith('/') && !/\.[a-z0-9]{1,8}$/i.test(url.pathname)) ziel.pathname += '/';
+    if (ziel.href !== url.href) return Response.redirect(ziel.toString(), 301);
     const antwort = await env.ASSETS.fetch(request);
     const neu = new Response(antwort.body, antwort);
     for (const [k, v] of Object.entries(SICHERHEIT)) neu.headers.set(k, v);

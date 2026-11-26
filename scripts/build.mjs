@@ -443,8 +443,16 @@ writeFileSync(join(OUT, 'assets/cities.json'), JSON.stringify([...staedteIndex.v
 cpSync(join(ROOT, 'data/zip-centroids'), join(OUT, 'assets/zip'), { recursive: true });
 
 writeFileSync(join(OUT, '404.html'), `${kopf({ pfad: '/404', title: 'Page not found', description: 'Page not found', h1: 'Page not found', nav: '404' })}
-<main><section class="held"><div class="breit"><h1>Page not found</h1><p class="unter">This page doesn't exist (yet). Try one of our calculators:</p>
-${kacheln(RECHNER.filter((s) => s.pfad !== '/'))}</div></section></main>
+<main><section class="held"><div class="breit"><h1>Page not found</h1><p class="unter">This page doesn't exist (yet). Search for a yard, or pick a calculator below.</p></div></section>
+<div class="breit"><article class="inhalt">
+<form class="finder" action="${BASIS}" method="get" role="search">
+  <label class="finder-titel" for="finder-404">Find landscape supply yards near you</label>
+  <div class="finder-zeile"><input id="finder-404" name="q" type="search" placeholder="ZIP code or city" autocomplete="off" enterkeyhint="search"><button class="knopf" type="submit">Search</button></div>
+</form>
+<ul class="kacheln"><li><a href="${BASIS}"><span class="kachel-titel">Landscape supply yards</span> <span>By state and city</span></a></li><li><a href="${BASIS}gravel-pits/"><span class="kachel-titel">Gravel pits</span> <span>By state</span></a></li><li><a href="/guides/"><span class="kachel-titel">Guides</span> <span>Bags, weights, truckloads</span></a></li></ul>
+<h2>Calculators</h2>
+${kacheln(RECHNER)}
+</article></div></main>
 ${fuss()}`.replace('<meta name="robots" content="noindex, follow">', '').replace('<title>', '<meta name="robots" content="noindex">\n<title>'));
 
 writeFileSync(join(OUT, 'robots.txt'), SITE.baseUrl
