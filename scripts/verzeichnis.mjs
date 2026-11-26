@@ -3,6 +3,7 @@
 // Ausgabe: Liste von Seiten { pfad, html, index } – build.mjs schreibt sie nach public/ und in die Sitemap.
 import { readdirSync, readFileSync } from 'node:fs';
 import { join } from 'node:path';
+import { bereinigen } from './qualitaet.mjs';
 
 export const BASIS = '/landscape-supply/';
 
@@ -43,13 +44,17 @@ export const befuellt = (y) => y.status === 'active' || !!(y.contact?.phone || y
 // bleiben noindex, follow, bis sie angereichert sind (AP5).
 export const hatFakten = (y) => !!((y.materials || []).length || (y.hours && Object.keys(y.hours).length) || y.delivery?.available != null);
 export const seiteBefuellt = (y) => y.status === 'active' || !!(y.address.street && (y.contact?.phone || y.contact?.website) && hatFakten(y));
-const KETTEN = { siteone: 'SiteOne Landscape Supply', gomulch: 'GoMulch' };
+const KETTEN = { siteone: 'SiteOne Landscape Supply', gomulch: 'GoMulch', 'ewing irrigation': 'Ewing Irrigation & Landscape Supply',
+  'superior irrigation': 'Superior Irrigation & Landscape Supply' };
+// Ketten, die vor allem Garten- und Landschaftsbaubetriebe beliefern
+export const PROFI_KETTEN = new Set(['siteone', 'ewing irrigation', 'superior irrigation', 'heritage landscape supply']);
 const ketteName = (k) => KETTEN[k] || k.replace(/\b\w/g, (b) => b.toUpperCase());
 // Eine Quelle für alle Zähler auf Hub-, Staats- und Stadtseiten:
 //   yards  = gelistete Yards und Händler (alles außer Kiesgruben), gruben = Kiesgruben aus MSHA,
 //   voll   = Einträge mit Telefon oder Website (nur für die Indexierungsregel, wird nicht angezeigt)
 export const istGrube = (y) => y.kind === 'gravel-pit';
-export const zaehlen = (liste) => ({ alle: liste.length, yards: liste.filter((y) => !istGrube(y)).length, gruben: liste.filter(istGrube).length, voll: liste.filter(befuellt).length });
+//   Postfach-Adressen (mailbox) zählen nicht als Yard.
+export const zaehlen = (liste) => ({ alle: liste.length, yards: liste.filter((y) => !istGrube(y) && !y.mailbox).length, gruben: liste.filter(istGrube).length, voll: liste.filter((y) => befuellt(y) && !y.mailbox).length });
 // Zahl, die neben einer Stadt steht: Yards; reine Kiesgruben-Orte zeigen die Zahl der Gruben
 export const stadtZahl = (c) => { const z = zaehlen(c.yards); return z.yards ? String(z.yards) : `${z.gruben} ${z.gruben === 1 ? 'pit' : 'pits'}`; };
 // „50 states and Puerto Rico“ – aus den Daten berechnet (DC hat derzeit keine Einträge)
@@ -65,8 +70,12 @@ const istMsha = (y) => !!(y.source?.dataset?.startsWith('msha') || (y.msha || []
 export const slugify = (s) => String(s).normalize('NFKD').replace(/[̀-ͯ]/g, '').toLowerCase()
   .replace(/&/g, ' and ').replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').replace(/-+/g, '-');
 
-/** Alle Yards laden (rekursiv), Beispiel- und Entwurfsdateien mit "_" überspringen. */
-export function ladeYards(dir) {
+/**
+ * Alle Yards laden (rekursiv), Beispiel- und Entwurfsdateien mit "_" überspringen.
+ * Standard: bereinigt (scripts/qualitaet.mjs – Fehlkategorien raus, Dubletten zusammengeführt, Namen bereinigt).
+ * { roh: true } liefert die Dateien unverändert (für die Prüfliste).
+ */
+export function ladeYards(dir, { roh = false } = {}) {
   const out = [];
   const lauf = (d) => {
     for (const e of readdirSync(d, { withFileTypes: true })) {
@@ -77,7 +86,8 @@ export function ladeYards(dir) {
     }
   };
   lauf(dir);
-  return out.filter((y) => y.status !== 'closed');
+  const offen = out.filter((y) => y.status !== 'closed');
+  return roh ? offen : bereinigen(offen).yards;
 }
 
 const R_MI = 3958.8;
@@ -113,8 +123,9 @@ export function struktur(yards) {
     c.yards.sort(sortierung);
     // Gleichnamige Filialen in einer Stadt: Straße als Unterscheidung in Titel und H1
     const namen = {};
-    for (const y of c.yards) namen[y.name] = (namen[y.name] || 0) + 1;
-    for (const y of c.yards) y._titel = namen[y.name] > 1 && y.address.street ? `${y.name} (${y.address.street})` : y.name;
+    const ketten = {};
+    for (const y of c.yards) { namen[y.name] = (namen[y.name] || 0) + 1; if (y.chain) ketten[y.chain] = (ketten[y.chain] || 0) + 1; }
+    for (const y of c.yards) y._titel = (namen[y.name] > 1 || (y.chain && ketten[y.chain] > 1)) && y.address.street ? `${y.name} (${y.address.street})` : y.name;
     const titel = {};
     for (const y of c.yards) {
       titel[y._titel] = (titel[y._titel] || 0) + 1;
@@ -129,7 +140,10 @@ function sortierung(a, b) {
   const f = (y) => (y.listing?.tier === 'featured' ? 0 : 1);
   const v = (y) => (y.status === 'active' ? 0 : 1);
   const k = (y) => (y.contact?.phone || y.contact?.website ? 0 : 1);
-  return f(a) - f(b) || v(a) - v(b) || k(a) - k(b) || a.name.localeCompare(b.name);
+  const m = (y) => (y.mailbox ? 1 : 0);
+  const fakt = (y) => ((y.materials || []).length || y.hours || y.delivery ? 0 : 1);
+  const kette = (y) => (y.chain ? 1 : 0);
+  return f(a) - f(b) || v(a) - v(b) || m(a) - m(b) || k(a) - k(b) || fakt(a) - fakt(b) || kette(a) - kette(b) || a.name.localeCompare(b.name);
 }
 
 /**
@@ -167,8 +181,8 @@ export function verzeichnisSeiten(yards, h) {
   const entf = (mi) => `${mi < 10 ? mi.toFixed(1) : Math.round(mi)} mi`;
   const karte = (y, { mitStadt = false, mi } = {}) => `<li class="yard">
   <div class="yard-text">
-    <a class="yard-name" href="${y._pfad}">${esc(y.name)}</a>
-    <span class="yard-meta"><span class="tag tag-${esc(y.kind || 'x')}">${esc(ARTEN[y.kind] || 'Supplier')}</span>${y.status === 'active' ? ' <span class="tag tag-ok">Verified</span>' : ''}${mi != null ? ` <span class="entf"><span class="sr">· </span>${entf(mi)}</span>` : ''}</span>
+    <a class="yard-name" href="${y._pfad}">${esc(y._titel || y.name)}</a>
+    <span class="yard-meta"><span class="tag tag-${esc(y.kind || 'x')}">${esc(ARTEN[y.kind] || 'Supplier')}</span>${y.status === 'active' ? ' <span class="tag tag-ok">Verified</span>' : ''}${y.chain ? ' <span class="tag tag-kette">Chain</span>' : ''}${y.mailbox ? ' <span class="tag">Mailbox address</span>' : ''}${mi != null ? ` <span class="entf"><span class="sr">· </span>${entf(mi)}</span>` : ''}</span>
     <span class="yard-adr">${esc([y.address.street, mitStadt ? `${y.address.city}, ${y.address.state}` : y.address.city].filter(Boolean).join(', '))}</span>
     ${y.contact?.phone ? `<span class="yard-tel">${esc(y.contact.phone)}</span>` : ''}
     ${y.contact?.website ? `<a class="karte-web" href="${esc(y.contact.website)}" rel="nofollow noopener" target="_blank">Website</a>` : ''}
@@ -333,7 +347,10 @@ ${fuss({ hinweis: 'daten' })}` });
         .filter((e) => e.mi <= 15).sort((a, b) => a.mi - b.mi).slice(0, 6)
       : [];
     const krumen = [['Home', '/'], ['Landscape supply yards', BASIS], [s.name, `${BASIS}${s.slug}/`], [c.name, c.pfad]];
-    const gruppen = GRUPPEN.map((g) => ({ ...g, yards: c.yards.filter((y) => g.arten.includes(y.kind)) })).filter((g) => g.yards.length);
+    const gruppen = [...GRUPPEN.map((g) => ({ ...g, yards: c.yards.filter((y) => g.arten.includes(y.kind) && !y.mailbox) })),
+      { id: 'offices', titel: 'Offices & mailing addresses', kurz: 'Offices', yards: c.yards.filter((y) => y.mailbox),
+        hinweis: 'These listings use a mailbox address, not a yard you can visit. Call to ask where to pick up or whether they deliver.' }]
+      .filter((g) => g.yards.length);
     const itemList = { '@context': 'https://schema.org', '@type': 'ItemList', name: `Landscape supply yards in ${c.name}, ${s.code}`,
       itemListElement: c.yards.map((y, i) => ({ '@type': 'ListItem', position: i + 1, item: ldBetrieb(y) })) };
     const index = c.index;
@@ -358,7 +375,7 @@ ${fuss({ hinweis: 'daten' })}` });
     const satz = [
       `${esc(c.name)} has ${esc(teile.length > 1 ? `${teile.slice(0, -1).join(', ')} and ${teile.at(-1)}` : teile[0])}.`,
       mitTel ? `${mitTel === c.yards.length ? (mitTel === 1 ? 'It lists' : 'All list') : `${mitTel} list`} a phone number${mitWeb ? (mitWeb === mitTel && mitTel === c.yards.length ? ' and a website' : `, ${mitWeb} a website`) : ''}.` : '',
-      kette.length ? `Chains here: ${esc([...new Set(kette)].join(', '))}.` : '',
+      kette.length ? `Chains here: ${esc([...new Set(kette)].join(', '))}${c.yards.some((y) => PROFI_KETTEN.has(y.chain)) ? ' – these mainly serve landscape contractors' : ''}.` : '',
       nachbarn.length ? `The closest other cities with suppliers are ${nachbarn.slice(0, 2).map(({ x, mi }) => `${esc(x.name)} (${Math.round(mi)} mi)`).join(' and ')}.` : '',
     ].filter(Boolean).join(' ');
     const beschr = nurGruben
@@ -433,6 +450,7 @@ ${fuss({ hinweis: 'rechner' })}` });
     ${y.status === 'active' ? '<p class="klein"><strong>Verified listing.</strong></p>' : `<p class="klein">${ausMsha
       ? 'Listed from federal mine records (MSHA). Many pits and quarries sell mainly to contractors – call ahead to ask whether they serve homeowners.'
       : 'We have not verified this listing yet. Please call ahead to confirm materials, prices and opening hours.'}</p>`}
+    ${PROFI_KETTEN.has(y.chain) ? `<p class="klein">${esc(ketteName(y.chain))} branches mainly serve landscape contractors. Many also sell to homeowners – call ahead to ask about bulk pickup.</p>` : ''}
     <p class="klein">Is this your business? <a href="mailto:${esc(SITE.operator?.email || '')}?subject=${encodeURIComponent(`Listing: ${y.name} (${y.id})`)}">Request a correction or removal</a>.</p>
   </div>
   <div class="betrieb-info">
