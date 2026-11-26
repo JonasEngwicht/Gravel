@@ -69,7 +69,7 @@ function fuss({ hinweis } = {}) {
   return `<footer class="fuss"><div class="breit">
   <p><strong>${esc(SITE.name)}</strong> – free calculators for mulch, gravel, stone and soil.</p>
   <nav aria-label="All calculators">${RECHNER.filter((s) => s.pfad !== '/').map((s) => `<a href="${s.pfad}">${esc(s.h1)}</a>`).join('')}</nav>
-  <nav aria-label="Guides">${RATGEBER.map((s) => `<a href="${s.pfad}">${esc(s.nav)}</a>`).join('')}<a href="${BASIS}">Landscape supply yards near you</a><a href="${BASIS}gravel-pits/">Gravel pits by state</a><a href="/about/">About</a></nav>
+  <nav aria-label="Guides">${RATGEBER.map((s) => `<a href="${s.pfad}">${esc(s.nav)}</a>`).join('')}<a href="${BASIS}">Landscape supply yards near you</a><a href="${BASIS}gravel-pits/">Gravel pits by state</a><a href="/add-your-yard/">Add your yard</a><a href="/embed/">Embed the calculator</a><a href="/about/">About</a></nav>
   ${text ? `<p class="klein">${text}</p>` : ''}
   <nav class="recht" aria-label="Legal"><a href="/imprint/">Imprint</a><a href="/privacy/">Privacy</a><a href="/privacy/#google" data-einwilligung>Cookie settings</a><a href="mailto:${esc(SITE.operator.email)}">Contact</a></nav>
 </div></footer>
@@ -475,6 +475,31 @@ ${r.inhalt}
 </article></div>
 </main>
 ${fuss()}`);
+}
+
+// Einbettbarer Rechner (/embed/calculator/?m=…): ohne Kopf, Fuß und Messung; noindex, Canonical auf den Mulch-Rechner
+{
+  const ziel = join(OUT, 'embed/calculator/index.html');
+  mkdirSync(dirname(ziel), { recursive: true });
+  writeFileSync(ziel, `<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Mulch &amp; Gravel Calculator – Gravel &amp; Mulch</title>
+<meta name="robots" content="noindex, follow">
+${SITE.baseUrl ? `<link rel="canonical" href="${SITE.baseUrl}/mulch-calculator/">` : ''}
+<link rel="preload" href="/assets/bitter-700.woff" as="font" type="font/woff" crossorigin>
+<link rel="stylesheet" href="/assets/style.css?v=${VERSION}">
+</head>
+<body class="embed">
+<main class="breit">
+${rechner({ material: 'hardwood-mulch', eingebettet: true })}
+<p class="klein embed-quelle">Calculator by <a href="${SITE.baseUrl || ''}/" target="_blank" rel="noopener">Gravel &amp; Mulch</a> – more calculators and landscape supply yards near you.</p>
+</main>
+<script type="module" src="/assets/app.js?v=${VERSION}"></script>
+</body>
+</html>`);
 }
 
 // Suchindex für "Find a yard" (ZIP, Stadt, Standort). Der Browser lädt ihn erst, wenn jemand sucht.

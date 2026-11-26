@@ -57,11 +57,11 @@ test("Verzeichnispfade sind eindeutig und Titel nicht doppelt", () => {
     titel.add(t);
     assert.equal((s.html.match(/<h1>/g) || []).length, 1, s.pfad);
   }
-  // Übersicht + Staaten + Städte + ein Eintrag pro Yard + Kiesgruben-Übersicht + Kiesgruben je Staat
+  // Übersicht + Auswertung je Staat + Staaten + Städte + ein Eintrag pro Yard + Kiesgruben-Übersicht + Kiesgruben je Staat
   const staedte = new Set(yards.map((y) => `${y.address.state}/${slugify(y.address.city)}`));
   const staaten = new Set(yards.map((y) => y.address.state));
   const grubenStaaten = new Set(yards.filter((y) => y.kind === "gravel-pit").map((y) => y.address.state));
-  assert.equal(seiten.length, 1 + staaten.size + staedte.size + yards.length + 1 + grubenStaaten.size);
+  assert.equal(seiten.length, 2 + staaten.size + staedte.size + yards.length + 1 + grubenStaaten.size);
 });
 
 test("Cloudflare: weniger als 20.000 Dateien im Build", () => {

@@ -367,3 +367,29 @@ test("Kompost-Rechner (Volumen belegt: 3.600/Monat) gebaut und verlinkt", () => 
   assert.match(readFileSync(pub("calculators/index.html"), "utf8"), /href="\/compost-calculator\/"/);
   assert.ok(sitemapUrls("pages").some((u) => u.endsWith("/compost-calculator/")));
 });
+
+// ---------- AP8: Links und Bekanntheit ----------
+test("Einbettbarer Rechner: eigene Seite ohne Messung, noindex, mit Quell-Link; /embed/ mit Kopier-Code", () => {
+  const w = readFileSync(pub("embed/calculator/index.html"), "utf8");
+  assert.match(w, /noindex/);
+  assert.match(w, /id="rechner"/);
+  assert.doesNotMatch(w, /messung\.js/);
+  assert.match(w, /Calculator by <a href="https:\/\/gravelandmulch\.com\/"/);
+  const e = readFileSync(pub("embed/index.html"), "utf8");
+  assert.match(e, /id="embed-code"[^>]*>&lt;iframe src="https:\/\/gravelandmulch\.com\/embed\/calculator\/\?m=hardwood-mulch"/);
+  assert.ok(!sitemapUrls("pages").some((u) => u.includes("/embed/calculator/")));
+});
+
+test("Add your yard + Badge, Firmenseiten verlinken dorthin; Auswertung Yards je Staat", () => {
+  const a = readFileSync(pub("add-your-yard/index.html"), "utf8");
+  assert.match(a, /href="mailto:gravelandmulch@gmail\.com\?subject=Add/);
+  assert.match(a, /badge\.svg/);
+  assert.ok(existsSync(pub("assets/badge.svg")));
+  const yards = JSON.parse(readFileSync(pub("assets/yards.json"), "utf8"));
+  assert.match(readFileSync(pub(`landscape-supply/${yards[0][6]}index.html`), "utf8"), /href="\/add-your-yard\/"/);
+  const t = readFileSync(pub("landscape-supply/yards-per-state/index.html"), "utf8");
+  assert.match(t, /"@type":"Dataset"/);
+  assert.match(t, /<h2>Method<\/h2>/);
+  assert.ok((t.match(/<tr><td><a href="\/landscape-supply\/[a-z]{2}\/">/g) || []).length >= 48);
+  assert.ok(sitemapUrls("pages").some((u) => u.endsWith("/landscape-supply/yards-per-state/")));
+});

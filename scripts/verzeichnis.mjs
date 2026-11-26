@@ -255,9 +255,48 @@ ${finder()}
 ${raster(staaten.filter((s) => zaehlen([...s.staedte.values()].flatMap((c) => c.yards)).yards).map((s) => [s.name, `${BASIS}${s.slug}/`, zaehlen([...s.staedte.values()].flatMap((c) => c.yards)).yards]))}
 <h2>Cities with the most yards</h2>
 ${raster(top.map((c) => [`${c.name}, ${c.staat.code}`, c.pfad, stadtZahl(c)]))}
+<p class="abstand"><a href="${BASIS}yards-per-state/">Landscape supply yards per state – table and method</a></p>
 <a class="hinweis-karte abstand" href="${BASIS}gravel-pits/"><strong>Looking for a gravel pit?</strong><span>${gesamt.gruben.toLocaleString('en-US')} active and intermittent sand &amp; gravel pits by state →</span></a>
 </section>
 ${quelle}
+</div>
+</main>
+${fuss({ hinweis: 'daten' })}` });
+  }
+
+  // ---------- Auswertung: Yards je Staat (verlinkbarer Daten-Inhalt, AP8) ----------
+  {
+    const pfad = `${BASIS}yards-per-state/`;
+    const krumen = [['Home', '/'], ['Landscape supply yards', BASIS], ['Yards per state', pfad]];
+    const zeilen = staaten.map((s) => {
+      const alle = [...s.staedte.values()].flatMap((c) => c.yards);
+      const z = zaehlen(alle);
+      const yl = alle.filter((y) => !istGrube(y) && !y.mailbox);
+      const orte = [...s.staedte.values()].filter((c) => zaehlen(c.yards).yards).length;
+      return { s, yards: z.yards, gruben: z.gruben, orte, kette: yl.filter((y) => y.chain).length, web: yl.filter((y) => y.contact?.website).length };
+    }).filter((r) => r.yards || r.gruben).sort((a, b) => b.yards - a.yards || a.s.name.localeCompare(b.s.name));
+    const proz = (a, b) => (b ? `${Math.round((100 * a) / b)} %` : '–');
+    const summe = (k) => zeilen.reduce((t, r) => t + r[k], 0);
+    seiten.push({ pfad, index: true, typ: 'pages', html: `${kopf({ pfad, nav: 'Find a yard', title: 'Landscape Supply Yards per State – Counts & Data',
+      description: `How many landscape supply, mulch, stone and sand & gravel yards each U.S. state has – ${summe('yards').toLocaleString('en-US')} yards and ${summe('gruben').toLocaleString('en-US')} gravel pits, with chain share and method.`.slice(0, 165),
+      ld: [brotkrumen(krumen), { '@context': 'https://schema.org', '@type': 'Dataset', name: 'Landscape supply yards per U.S. state', description: 'Counts of landscape supply, mulch, stone and sand & gravel yards and of sand & gravel pits per state.',
+        url: abs(pfad), license: 'https://cdla.dev/permissive-2-0/', creator: { '@type': 'Organization', name: SITE.name || 'Gravel & Mulch' }, dateModified: stand,
+        isBasedOn: ['https://overturemaps.org', 'https://www.msha.gov/mines-data-set'] }] })}
+<main>
+<section class="held"><div class="breit">${krumenHtml(krumen)}
+  <h1>Landscape Supply Yards per State</h1>
+  <p class="unter">${summe('yards').toLocaleString('en-US')} yards and suppliers for bulk mulch, gravel, stone and soil in ${gebietText(zeilen.filter((r) => r.yards).map((r) => r.s.code))}, plus ${summe('gruben').toLocaleString('en-US')} sand &amp; gravel pits. ${esc(zeilen[0].s.name)} has the most yards.</p>
+</div></section>
+<div class="breit">
+<section class="liste-karte">
+<div class="tabelle"><table><thead><tr><th>State</th><th>Yards &amp; suppliers</th><th>Cities</th><th>Chain branches</th><th>With website</th><th>Gravel pits</th></tr></thead><tbody>
+${zeilen.map((r) => `<tr><td><a href="${BASIS}${r.s.slug}/">${esc(r.s.name)}</a></td><td>${r.yards}</td><td>${r.orte}</td><td>${proz(r.kette, r.yards)}</td><td>${proz(r.web, r.yards)}</td><td>${r.gruben ? `<a href="${BASIS}${r.s.slug}/gravel-pits/">${r.gruben}</a>` : '0'}</td></tr>`).join('\n')}
+</tbody></table></div>
+<h2>Method</h2>
+<p>Yards and suppliers are businesses from Overture Maps (which includes OpenStreetMap data) whose name and category point to landscape supply, mulch, topsoil, stone or sand &amp; gravel. We removed duplicates and businesses that turned out to be countertop, flooring or monument shops. Mailbox-only addresses are not counted. Gravel pits are active and intermittent sand &amp; gravel mines from the federal mine records of the Mine Safety and Health Administration (MSHA). “Chain branches” counts locations of chains such as SiteOne; “with website” is the share of yards that list one. Data as of ${esc(monat(stand))}.</p>
+<p>Coverage is not complete: small yards without an online listing are missing, so the numbers show where bulk suppliers can be found online, not the full market. You may use and cite the table with a link to this page.</p>
+</section>
+${quelleText(true)}
 </div>
 </main>
 ${fuss({ hinweis: 'daten' })}` });
@@ -581,7 +620,7 @@ ${fuss({ hinweis: 'daten' })}` });
       ? 'Listed from federal mine records (MSHA). Many pits and quarries sell mainly to contractors – call ahead to ask whether they serve homeowners.'
       : 'We have not verified this listing yet. Please call ahead to confirm materials, prices and opening hours.'}</p>`}
     ${PROFI_KETTEN.has(y.chain) ? `<p class="klein">${esc(ketteName(y.chain))} branches mainly serve landscape contractors. Many also sell to homeowners – call ahead to ask about bulk pickup.</p>` : ''}
-    <p class="klein">Is this your business? <a href="mailto:${esc(SITE.operator?.email || '')}?subject=${encodeURIComponent(`Listing: ${y.name} (${y.id})`)}">Request a correction or removal</a>.</p>
+    <p class="klein">Is this your business? <a href="/add-your-yard/">Add materials, delivery and hours</a> or <a href="mailto:${esc(SITE.operator?.email || '')}?subject=${encodeURIComponent(`Listing: ${y.name} (${y.id})`)}">request a correction or removal</a>.</p>
   </div>
   <div class="betrieb-info">
     <h2>About</h2>

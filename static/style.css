@@ -374,3 +374,10 @@ h2.abstand { color: var(--erde); font-size: 1.35rem; line-height: 1.2; }
 }
 .autor { margin: 4px 0 8px; font-size: .9rem; opacity: .85; }
 .held .autor a { color: inherit; }
+textarea.code { width: 100%; font: .85rem/1.4 ui-monospace, Menlo, Consolas, monospace; padding: 10px; border: 1px solid var(--linie); border-radius: 10px; background: #faf8f4; resize: vertical; }
+body.embed { background: transparent; }
+body.embed main { padding: 8px 0; }
+.embed-quelle { margin-top: 8px; }
+body.embed main { padding: 12px 4px; }
+body.embed .rechner { margin-top: 0; }
+html:has(body.embed) { background: transparent; }
