@@ -11,6 +11,7 @@ import { fileURLToPath } from 'node:url';
 import { coverage, calculate } from '../src/calc/core.js';
 import { SEITEN, RECHNER, RATGEBER, STAND } from './seiten.mjs';
 import { ladeYards, verzeichnisSeiten, BASIS, zaehlen } from './verzeichnis.mjs';
+import { FORMEN, FORMEN_TOPF, abschnittHtml } from '../static/formen.js';
 import { rechtlicheSeiten } from './rechtliches.mjs';
 
 const ROOT = join(dirname(fileURLToPath(import.meta.url)), '..');
@@ -28,7 +29,11 @@ const fmt = (n, d = 0) => n.toLocaleString('en-US', { maximumFractionDigits: d, 
 
 function kopf(seite) {
   const canonical = SITE.baseUrl ? `<link rel="canonical" href="${SITE.baseUrl}${seite.pfad}">` : '';
-  const robots = SITE.baseUrl && !seite.noindex ? '' : '<meta name="robots" content="noindex, follow">';
+  const robots = SITE.baseUrl && !seite.noindex ? '<meta name="robots" content="max-image-preview:large">' : '<meta name="robots" content="noindex, follow">';
+  // Das Kopfbild ist das größte Element im ersten Bild (LCP), steht aber nur im CSS: früh anfordern. Gemessen (Handy,
+  // gedrosselt): LCP rund 17 % früher. Skripte bewusst NICHT vorladen – sie liefen sonst vor dem ersten Bildaufbau
+  // und verzögerten ihn (ausprobiert am 28.11.2026).
+  const vorladen = '<link rel="preload" href="/assets/schichten.svg" as="image" fetchpriority="high">';
   const ld = seite.ld || standardLd(seite);
   if (seite.faq?.length) ld.push({
     '@context': 'https://schema.org', '@type': 'FAQPage',
@@ -49,15 +54,24 @@ ${ogTags(seite)}
 <link rel="apple-touch-icon" href="/assets/apple-touch-icon.png">
 <link rel="preload" href="/assets/bitter-700.woff" as="font" type="font/woff" crossorigin>
 <link rel="stylesheet" href="/assets/style.css?v=${VERSION}">
+${vorladen}
 <script type="application/ld+json">${JSON.stringify(ld)}</script>
 </head>
 <body>
+<a class="sprung-inhalt" href="#main">Skip to content</a>
 <header class="kopf"><div class="breit kopf-innen">
   <a class="logo" href="/"><svg aria-hidden="true" viewBox="0 0 32 32" width="28" height="28"><use href="/assets/favicon.svg#m"/></svg>${esc(SITE.shortName)}</a>
   <nav class="menue" aria-label="Calculators">${[...SEITEN.filter((s) => s.imMenue), { pfad: '/calculators/', nav: 'All calculators' }].map((s) => `<a href="${s.pfad}"${s.pfad === seite.pfad ? ' aria-current="page"' : ''}>${esc(s.nav)}</a>`).join('')}</nav>
   <a class="kopf-cta" href="${BASIS}"${seite.pfad?.startsWith(BASIS) ? ' aria-current="page"' : ''}><svg aria-hidden="true" viewBox="0 0 24 24" width="18" height="18"><path fill="currentColor" d="M12 2a7 7 0 0 0-7 7c0 5.2 7 13 7 13s7-7.8 7-13a7 7 0 0 0-7-7Zm0 9.5A2.5 2.5 0 1 1 12 6.5a2.5 2.5 0 0 1 0 5Z"/></svg>Find a yard</a>
 </div></header>`;
 }
+
+// Kurzer Name einer Seite für Kacheln und Fußzeile: H1 bis zum Doppelpunkt bzw. zur Klammer („Mulch Calculator“)
+const kurzname = (s) => s.kachel || (s.art === 'ratgeber' ? s.nav : s.h1.split(/:| \(/)[0]);
+// Gruppen der Rechner: Mulch & Erde, Kies/Stein/Sand, Werkzeuge (reine Volumen- und Umrechner)
+const gruppeVon = (s) => (s.nurVolumen || s.art === 'umrechner' ? 'werkzeug' : ['mulch', 'soil'].includes(matById[s.material].category) ? 'boden' : 'stein');
+const GRUPPEN = [['boden', 'Mulch & soil'], ['stein', 'Gravel, stone & sand'], ['werkzeug', 'Volume & conversion']];
+const rechnerIn = (g) => RECHNER.filter((s) => s.pfad !== '/' && gruppeVon(s) === g);
 
 // hinweis: 'rechner' (Seite mit Rechner) | 'daten' (Verzeichnis ohne Rechner) | leer
 function fuss({ hinweis } = {}) {
@@ -66,12 +80,21 @@ function fuss({ hinweis } = {}) {
     : hinweis === 'daten'
       ? 'Listings come from public data (OpenStreetMap, Overture Maps, U.S. mine records) and most are not verified yet. Call ahead to confirm materials, prices and hours.'
       : '';
+  const liste = (seiten) => seiten.map((s) => `<li><a href="${s.pfad}">${esc(kurzname(s))}</a></li>`).join('');
   return `<footer class="fuss"><div class="breit">
-  <p><strong>${esc(SITE.name)}</strong> – free calculators for mulch, gravel, stone and soil.</p>
-  <nav aria-label="All calculators">${RECHNER.filter((s) => s.pfad !== '/').map((s) => `<a href="${s.pfad}">${esc(s.h1)}</a>`).join('')}</nav>
-  <nav aria-label="Guides">${RATGEBER.map((s) => `<a href="${s.pfad}">${esc(s.nav)}</a>`).join('')}<a href="${BASIS}">Landscape supply yards near you</a><a href="${BASIS}gravel-pits/">Gravel pits by state</a><a href="/add-your-yard/">Add your yard</a><a href="/embed/">Embed the calculator</a><a href="/about/">About</a></nav>
+  <div class="fuss-spalten">
+    <div class="fuss-marke">
+      <a class="logo" href="/"><svg aria-hidden="true" viewBox="0 0 32 32" width="28" height="28"><use href="/assets/favicon.svg#m"/></svg>${esc(SITE.shortName)}</a>
+      <p>Free calculators for mulch, gravel, stone and soil – and a directory of the yards that sell them in bulk.</p>
+      <a class="kopf-cta" href="${BASIS}">Find a yard near you</a>
+    </div>
+    <nav aria-label="Mulch and soil calculators"><p class="fuss-titel">Mulch &amp; soil</p><ul>${liste(rechnerIn('boden'))}</ul></nav>
+    <nav aria-label="Gravel, stone and sand calculators"><p class="fuss-titel">Gravel, stone &amp; sand</p><ul>${liste(rechnerIn('stein'))}</ul></nav>
+    <nav aria-label="Tools and guides"><p class="fuss-titel">Tools &amp; guides</p><ul>${liste(rechnerIn('werkzeug'))}${liste(RATGEBER)}<li><a href="/calculators/">All calculators</a></li></ul></nav>
+    <nav aria-label="Directory"><p class="fuss-titel">Find a supplier</p><ul><li><a href="${BASIS}">Landscape supply yards near you</a></li><li><a href="${BASIS}gravel-pits/">Gravel pits by state</a></li><li><a href="${BASIS}yards-per-state/">Yards per state</a></li><li><a href="/add-your-yard/">Add your yard</a></li><li><a href="/embed/">Embed the calculator</a></li><li><a href="/about/">About</a></li></ul></nav>
+  </div>
   ${text ? `<p class="klein">${text}</p>` : ''}
-  <nav class="recht" aria-label="Legal"><a href="/imprint/">Imprint</a><a href="/privacy/">Privacy</a><a href="/privacy/#google" data-einwilligung>Cookie settings</a><a href="mailto:${esc(SITE.operator.email)}">Contact</a></nav>
+  <nav class="recht" aria-label="Legal"><span>© ${VERSION.slice(0, 4)} ${esc(SITE.shortName)}</span><a href="/imprint/">Imprint</a><a href="/privacy/">Privacy</a><a href="/privacy/#google" data-einwilligung>Cookie settings</a><a href="mailto:${esc(SITE.operator.email)}">Contact</a></nav>
 </div></footer>
 <script type="module" src="/assets/app.js?v=${VERSION}"></script>
 </body>
@@ -84,6 +107,7 @@ const FARBEN = {
   'crushed-stone-57': '#8e8e8a', 'crusher-run': '#9d978d', 'river-rock': '#a08d79', 'landscape-rock': '#c7a27a',
   'decomposed-granite': '#c49a6c', topsoil: '#3e2c1e', compost: '#2f2418', 'garden-soil': '#4a3526',
   'fill-dirt': '#8a6a4a', 'masonry-sand': '#d9c49a', 'paver-sand': '#cdb88f', 'play-sand': '#eadbb5',
+  'crushed-limestone': '#b9b5a8', 'lava-rock': '#7b3b2e', 'potting-mix': '#3a2a1f',
 };
 const VERKAUF = { cy: 'cubic yard', ton: 'ton', bag: 'bag' };
 const zoll = (d) => ({ 0.25: '¼', 0.5: '½' }[d] || d);
@@ -96,27 +120,34 @@ function rechner(seite) {
   const proj = MAT.projects.map((p) => `<option value="${p.id}" data-farbe="${FARBEN[p.material] || ''}" data-info="${esc(`${matById[p.material].label}, ${zoll(p.depth_in)}″ deep`)}">${esc(p.label)}</option>`).join('');
   const m = matById[seite.material];
   const cfg = { material: seite.material, depth: seite.tiefe ?? m.default_depth_in, nurVolumen: !!seite.nurVolumen, shape: seite.form || 'rectangle', cta: !seite.eingebettet };
+  const bsp = !seite.eingebettet && seite.beispiel ? beispielDaten(seite) : null;
+  if (seite.zoll) cfg.zoll = true;
+  if (bsp) cfg.beispiel = { shape: bsp.shape, dims: bsp.dims, tiefe: bsp.tiefe };
+  const formen = seite.zoll ? FORMEN_TOPF : FORMEN;
+  // Erster Abschnitt steht schon im HTML (app.js zeichnet ihn nach dem Laden identisch neu). Eingebettete Rechner
+  // auf Verzeichnisseiten bleiben unverändert, sonst würde sich deren Inhalts-Hash (lastmod) ohne Anlass ändern.
+  const ersterAbschnitt = seite.eingebettet ? '' : `<fieldset class="abschnitt einzeln">${abschnittHtml({ shape: cfg.shape, dims: {} }, 0, { lang: seite.zoll ? 'in' : 'ft', formen, wort: seite.zoll ? 'Pot' : 'Area' })}</fieldset>`;
   return `<form class="rechner" id="rechner" novalidate data-cfg='${esc(JSON.stringify(cfg))}'>
   <div class="spalten">
     <fieldset class="eingabe">
       <legend class="sr">Your project</legend>
       ${seite.nurVolumen ? '' : `<div class="zeile-2">
         <label>Material<select id="material">${opt}</select></label>
-        <label>Project <span class="opt">(optional)</span>
+        <label${seite.zoll ? ' hidden' : ''}>Project <span class="opt">(optional)</span>
           <select id="projekt"><option value="">Pick to prefill…</option>${proj}</select></label>
       </div>
       <p class="hinweis" id="mat-hinweis" hidden></p>`}
       <div class="schritt-kopf">
-        <span class="schritt">Area</span>
+        <span class="schritt">${seite.zoll ? 'Pot size' : 'Area'}</span>
         <div class="einheiten" role="group" aria-label="Units">
-          <button type="button" data-einheit="imperial" aria-pressed="true">ft / in</button>
-          <button type="button" data-einheit="metric" aria-pressed="false">m / cm</button>
+          <button type="button" data-einheit="imperial" aria-pressed="true">${seite.zoll ? 'inches' : 'ft / in'}</button>
+          <button type="button" data-einheit="metric" aria-pressed="false">${seite.zoll ? 'cm' : 'm / cm'}</button>
         </div>
       </div>
-      <div id="abschnitte"></div>
-      <button type="button" class="knopf-zweit klein-knopf" id="abschnitt-neu">+ Add another area</button>
+      <div id="abschnitte">${ersterAbschnitt}</div>
+      <button type="button" class="knopf-zweit klein-knopf" id="abschnitt-neu">+ Add another ${seite.zoll ? 'pot' : 'area'}</button>
       <div class="tiefe-block">
-        <label for="tiefe" class="schritt">Depth <span class="einheit-tiefe opt">(inches)</span></label>
+        <label for="tiefe" class="schritt">${seite.zoll ? 'Soil depth' : 'Depth'} <span class="einheit-tiefe opt">(inches)</span></label>
         <div class="tiefe-zeile">
           <input id="tiefe" type="number" inputmode="decimal" min="0" step="0.25" value="${cfg.depth}" enterkeyhint="done">
           <div class="chips-wahl" id="tiefe-chips" role="group" aria-label="Common depths"></div>
@@ -124,22 +155,22 @@ function rechner(seite) {
         <p class="hinweis" id="tiefe-hinweis"></p>
       </div>
       <details class="erweitert">
-        <summary>${seite.nurVolumen ? 'Options: extra %' : 'Options: extra %, top-up, bags &amp; prices'}</summary>
+        <summary>${seite.nurVolumen ? 'Options: extra %' : seite.zoll ? 'Options: extra %, bag size &amp; price' : 'Options: extra %, top-up, bags &amp; prices'}</summary>
         <label>Extra for settling &amp; waste (%)<input id="puffer" type="number" inputmode="decimal" min="0" max="50" step="1" value="${seite.nurVolumen ? 0 : m.waste_pct}"></label>
         ${seite.nurVolumen ? '' : `<label${m.compaction_pct ? '' : ' hidden'}>Extra for compaction (%)<input id="verdichtung" type="number" inputmode="decimal" min="0" max="50" step="1" value="${m.compaction_pct || 0}"></label>
-        <label>Existing layer to top up <span class="opt">(inches, optional)</span><input id="bestand" type="number" inputmode="decimal" min="0" step="0.25" placeholder="e.g. 1"></label>`}
+        <label${seite.zoll ? ' hidden' : ''}>Existing layer to top up <span class="opt">(inches, optional)</span><input id="bestand" type="number" inputmode="decimal" min="0" step="0.25" placeholder="e.g. 1"></label>`}
         ${seite.nurVolumen ? '' : `<label>Bag size<select id="sack"></select></label>
         <div class="preise">
-          <label>$ per cubic yard<input id="p-cy" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 40"></label>
-          <label>$ per ton<input id="p-t" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 45"></label>
+          <label${seite.zoll ? ' hidden' : ''}>$ per cubic yard<input id="p-cy" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 40"></label>
+          <label${seite.zoll ? ' hidden' : ''}>$ per ton<input id="p-t" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 45"></label>
           <label>$ per bag<input id="p-sack" type="number" inputmode="decimal" min="0" step="0.1" placeholder="e.g. 4"></label>
-          <label>Delivery fee ($)<input id="p-lief" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 75"></label>
+          <label${seite.zoll ? ' hidden' : ''}>Delivery fee ($)<input id="p-lief" type="number" inputmode="decimal" min="0" step="1" placeholder="e.g. 75"></label>
         </div>`}
       </details>
       <button type="submit" class="knopf rechnen-knopf">Show result</button>
     </fieldset>
     <section class="ergebnis" id="ergebnis" tabindex="-1" aria-live="polite" aria-label="Result">
-      <p class="leer">Enter length and width – your result shows up here instantly.</p>
+      ${bsp ? beispielErgebnis(seite, bsp) : '<p class="leer">Enter length and width – your result shows up here instantly.</p>'}
     </section>
   </div>
   <div class="ergebnis-leiste" id="leiste" hidden>
@@ -173,7 +204,7 @@ function standardLd(seite) {
   if (seite.art === 'ratgeber') {
     ld.push({
       '@context': 'https://schema.org', '@type': 'Article', headline: seite.h1, description: seite.description,
-      dateModified: `${seite.stand || STAND}-01`, image: abs('/assets/og.png'),
+      datePublished: seite.seit || '2026-11-22', dateModified: [`${seite.stand || STAND}-01`, seite.seit || '2026-11-22'].sort().pop(), image: abs('/assets/og.png'),
       author: { '@type': 'Person', name: SITE.operator?.name || SITE.name, url: abs('/about/') },
       publisher: { '@type': 'Organization', name: SITE.name, logo: { '@type': 'ImageObject', url: abs('/assets/og.png') } },
       mainEntityOfPage: abs(seite.pfad),
@@ -223,8 +254,9 @@ const stoffVon = (seite) => seite.stoff || name(matById[seite.material]);
 const BLOECKE = {
   deckung(seite) {
     const m = matById[seite.material];
-    const tiefen = [1, 2, 3, 4, 6].filter((d) => seite.nurVolumen || (d >= m.depth_range_in[0] && d <= Math.max(m.depth_range_in[1], 4)));
+    const tiefen = seite.deckungTiefen || [1, 2, 3, 4, 6].filter((d) => seite.nurVolumen || (d >= m.depth_range_in[0] && d <= Math.max(m.depth_range_in[1], 4)));
     return `<h2>${ue(seite, 'deckung', seite.nurVolumen ? 'How many square feet does a cubic yard cover?' : `How much area does a yard of ${stoffVon(seite)} cover?`)}</h2>
+${deckungsBild(seite, tiefen)}
 ${tabelle(['Depth', 'Coverage of 1 cubic yard'], tiefen.map((d) => [`${d} in`, `${fmt(coverage({ cy: 1, depthIn: d }))} sq ft`]))}`;
   },
   gewicht(seite) {
@@ -253,8 +285,20 @@ ${tabelle(['Depth', '1.5 cu ft bag', '2 cu ft bag', '3 cu ft bag'], [1, 2, 3, 4]
   tonneDeckung(seite) {
     const m = matById[seite.material];
     return `<h2>${ue(seite, 'tonneDeckung', `How much area does a ton of ${stoffVon(seite)} cover?`)}</h2>
-${tabelle(['Depth', 'Coverage of 1 ton', 'Tons per 100 sq ft'], [1, 2, 3, 4].map((d) => [`${d} in`, `${fmt(coverage({ cy: 1 / m.density_tons_per_cy, depthIn: d }))} sq ft`, `${fmt((100 * d / 324) * m.density_tons_per_cy, 2)} t`]))}
+${tabelle(['Depth', 'Coverage of 1 ton', 'Tons per 100 sq ft'], (seite.tonnenTiefen || [1, 2, 3, 4]).map((d) => [`${d} in`, `${fmt(coverage({ cy: 1 / m.density_tons_per_cy, depthIn: d }))} sq ft`, `${fmt((100 * d / 324) * m.density_tons_per_cy, 2)} t`]))}
 <p class="klein">Based on ${fmt(m.density_tons_per_cy, 2)} tons per cubic yard, before extra for waste.</p>`;
+  },
+  // Töpfe: Füllmenge nach Durchmesser. Tiefe etwa 85 % des Durchmessers (übliche Topfform), konisch ≈ 20 % weniger.
+  toepfe() {
+    const zeilen = [6, 8, 10, 12, 14, 16, 18, 20, 24].map((d) => {
+      const tiefe = Math.round(d * 0.85);
+      const cuFt = (Math.PI * (d / 2) ** 2 * tiefe) / 1728;
+      const q = (x) => (x * 25.714 < 10 ? fmt(x * 25.714, 1) : fmt(x * 25.714));
+      return [`${d} in`, `${tiefe} in`, `${fmt(cuFt, 2)} cu ft (${q(cuFt)} qt)`, `${fmt(cuFt * 0.8, 2)} cu ft (${q(cuFt * 0.8)} qt)`, `${fmt(cuFt * 0.8 * 28.3168, cuFt < 0.4 ? 1 : 0)} L`];
+    });
+    return `<h2>Potting soil by pot size</h2>
+${tabelle(['Pot diameter', 'Soil depth', 'Straight-sided pot', 'Typical tapered pot', 'Tapered, in liters'], zeilen)}
+<p class="klein">Round pots filled to the depth shown. Tapered = about 20 % less than a straight-sided cylinder; real pots vary, so measure yours if it matters. qt = dry quarts.</p>`;
   },
   einfahrt(seite) {
     const top = matById['crushed-stone-57'], base = matById['crusher-run'];
@@ -299,18 +343,142 @@ ${tabelle(['Truck', 'Gravel per load', 'Volume', 'Good for'], [
   },
 };
 
+// Balkendiagramm „1 cubic yard covers …“ als eigene SVG-Datei (mit Alt-Text eingebunden, damit es auch in der
+// Bildersuche auftaucht). Eine Datenreihe, darum keine Legende; die Tabelle direkt darunter zeigt dieselben Werte.
+function deckungsBild(seite, tiefen) {
+  if (tiefen.length < 2) return '';
+  const stoff = seite.nurVolumen || seite.pfad === '/' ? '' : stoffVon(seite);
+  const werte = tiefen.map((d) => [d, coverage({ cy: 1, depthIn: d })]);
+  const max = Math.max(...werte.map(([, v]) => v));
+  const B = 720, links = 96, rechts = 110, oben = 54, zeile = 40, hoehe = oben + werte.length * zeile + 18;
+  const breite = (v) => Math.max(6, ((B - links - rechts) * v) / max);
+  const titel = `One cubic yard${stoff ? ` of ${stoff}` : ''} covers`;
+  const schrift = 'font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif"';
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 ${B} ${hoehe}" width="${B}" height="${hoehe}" role="img">
+<title>${esc(titel)} – by depth</title>
+<rect width="${B}" height="${hoehe}" rx="12" fill="#fff"/>
+<text x="24" y="33" ${schrift} font-size="18" font-weight="700" fill="#33271c">${esc(titel)}</text>
+<line x1="${links}" y1="${oben - 4}" x2="${links}" y2="${hoehe - 14}" stroke="#d9d3c7" stroke-width="1"/>
+${werte.map(([d, v], i) => { const y = oben + i * zeile; const w = breite(v); return `<text x="${links - 12}" y="${y + 21}" text-anchor="end" ${schrift} font-size="15" fill="#6b6258">${d} in deep</text>
+<path d="M${links},${y + 6}h${(w - 4).toFixed(1)}a4,4 0 0 1 4,4v12a4,4 0 0 1 -4,4h-${(w - 4).toFixed(1)}z" fill="#4f6b3a"/>
+<text x="${(links + w + 10).toFixed(1)}" y="${y + 21}" ${schrift} font-size="15" font-weight="600" fill="#2a241e">${fmt(v)} sq ft</text>`; }).join('\n')}
+</svg>`;
+  const datei = `coverage-${seite.pfad === '/' ? 'cubic-yard' : seite.pfad.replace(/^\/|\/$/g, '').replace(/\//g, '-')}.svg`;
+  BILDER.set(datei, svg);
+  const alt = `Bar chart: one cubic yard${stoff ? ` of ${stoff}` : ''} covers ${werte.map(([d, v]) => `${fmt(v)} sq ft at ${d} in`).join(', ').replace(/, ([^,]*)$/, ' and $1')} deep.`;
+  return `<figure class="bild"><img src="/assets/img/${datei}" alt="${esc(alt)}" width="${B}" height="${hoehe}" loading="lazy" decoding="async"><figcaption>Coverage of one cubic yard by depth: 324 ÷ depth in inches = square feet.</figcaption></figure>`;
+}
+
+// Würfelbild „1 cubic yard = 27 cubic feet“: 3 × 3 × 3 Würfel in Schrägansicht, ein Kubikfuß hervorgehoben.
+// Steht im Seitentext als Platzhalter <!--wuerfel-->.
+function wuerfelBild() {
+  const s = 46, cx = 190, cy = 50, c = Math.cos(Math.PI / 6), si = 0.5;
+  const P = (x, y, z) => `${(cx + (x - y) * c * s).toFixed(1)},${(cy + (x + y) * si * s - z * s + 3 * s).toFixed(1)}`;
+  const flaeche = (pkt, farbe) => `<polygon points="${pkt.map((p) => P(...p)).join(' ')}" fill="${farbe}"/>`;
+  const linie = (a, b, w = 1.2, f = 'rgba(255,255,255,.55)') => `<line x1="${P(...a).split(',')[0]}" y1="${P(...a).split(',')[1]}" x2="${P(...b).split(',')[0]}" y2="${P(...b).split(',')[1]}" stroke="${f}" stroke-width="${w}"/>`;
+  const teile = [
+    flaeche([[0, 0, 3], [3, 0, 3], [3, 3, 3], [0, 3, 3]], '#8a6a4a'), // oben
+    flaeche([[3, 0, 0], [3, 3, 0], [3, 3, 3], [3, 0, 3]], '#5e3d22'), // rechts (x = 3)
+    flaeche([[0, 3, 0], [3, 3, 0], [3, 3, 3], [0, 3, 3]], '#6f4b2c'), // links (y = 3)
+    // ein Kubikfuß an der vorderen oberen Ecke
+    flaeche([[2, 2, 3], [3, 2, 3], [3, 3, 3], [2, 3, 3]], '#9cbf7d'),
+    flaeche([[3, 2, 2], [3, 3, 2], [3, 3, 3], [3, 2, 3]], '#6f9150'),
+    flaeche([[2, 3, 2], [3, 3, 2], [3, 3, 3], [2, 3, 3]], '#84a866'),
+  ];
+  for (const i of [1, 2]) {
+    teile.push(linie([i, 0, 3], [i, 3, 3]), linie([0, i, 3], [3, i, 3]));
+    teile.push(linie([3, i, 0], [3, i, 3]), linie([3, 0, i], [3, 3, i]));
+    teile.push(linie([i, 3, 0], [i, 3, 3]), linie([0, 3, i], [3, 3, i]));
+  }
+  teile.push(linie([3, 3, 0], [3, 3, 3], 1.6, 'rgba(255,255,255,.8)'), linie([0, 3, 3], [3, 3, 3], 1.6, 'rgba(255,255,255,.8)'), linie([3, 0, 3], [3, 3, 3], 1.6, 'rgba(255,255,255,.8)'));
+  const schrift = 'font-family="system-ui,-apple-system,Segoe UI,Roboto,sans-serif"';
+  const [ax, ay] = P(1.5, 3, 0).split(',').map(Number), [bx, by] = P(3, 1.5, 0).split(',').map(Number), [hx, hy] = P(0, 3, 1.5).split(',').map(Number);
+  const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 380" width="720" height="380" role="img">
+<title>One cubic yard is a cube 3 feet on each side: 27 cubic feet</title>
+<rect width="720" height="380" rx="12" fill="#fff"/>
+${teile.join('\n')}
+<g ${schrift} font-size="15" font-weight="600" fill="#2a241e">
+<text x="${ax - 26}" y="${ay + 26}" text-anchor="middle">3 ft</text>
+<text x="${bx + 26}" y="${by + 26}" text-anchor="middle">3 ft</text>
+<text x="${hx - 14}" y="${hy + 5}" text-anchor="end">3 ft</text>
+</g>
+<g ${schrift} fill="#2a241e">
+<text x="400" y="150" font-size="26" font-weight="700" fill="#33271c">1 cubic yard</text>
+<text x="400" y="184" font-size="18">= 3 × 3 × 3 ft</text>
+<text x="400" y="212" font-size="18">= 27 cubic feet</text>
+<rect x="400" y="238" width="16" height="16" rx="3" fill="#84a866"/>
+<text x="424" y="252" font-size="15" fill="#6b6258">1 cubic foot</text>
+<text x="400" y="282" font-size="15" fill="#6b6258">13.5 bags of 2 cu ft</text>
+</g>
+</svg>`;
+  BILDER.set('cubic-yard.svg', svg);
+  return '<figure class="bild"><img src="/assets/img/cubic-yard.svg" alt="Diagram: one cubic yard is a cube 3 feet long, 3 feet wide and 3 feet high, made of 27 cubic feet – the same as 13.5 bags of 2 cubic feet." width="720" height="380" loading="lazy" decoding="async"><figcaption>One cubic yard = 27 cubic feet. The green block is one cubic foot.</figcaption></figure>';
+}
+
 function standardBloecke(seite) {
   if (seite.bloecke) return seite.bloecke;
   if (seite.art === 'rechner') return ['deckung', 'gewicht'];
   return [];
 }
 
+// Beispielmaße einer Seite: Rechteck in Fuß ({ laenge, breite, tiefe }) oder runder Topf in Zoll ({ durchmesser, tiefe })
+function beispielDaten(seite) {
+  const b = seite.beispiel;
+  if (b.durchmesser) {
+    return { shape: 'circle', dims: { diameter: b.durchmesser }, tiefe: b.tiefe, sqft: Math.PI * (b.durchmesser / 24) ** 2,
+      text: `${b.durchmesser} in round pot, ${b.tiefe} in deep` };
+  }
+  return { shape: 'rectangle', dims: { length: b.laenge, width: b.breite }, tiefe: b.tiefe, sqft: b.laenge * b.breite,
+    text: `${b.laenge} × ${b.breite} ft, ${b.tiefe} in deep` };
+}
+// Zahlen wie im Browser (app.js): höchstens d Nachkommastellen, keine erzwungenen Nullen
+const zahl = (n, d = 1) => n.toLocaleString('en-US', { maximumFractionDigits: d, minimumFractionDigits: 0 });
+
+// Beispiel-Ergebnis im Ergebnisfeld: zeigt sofort, was der Rechner liefert, und steht als fertiges HTML im Quelltext.
+// Dieselben Voreinstellungen wie im Browser (Zuschlag, Verdichtung, erste Sackgröße), darum identisch mit „Try this example“.
+function beispielErgebnis(seite, bsp) {
+  const m = matById[seite.material];
+  const r = calculate({ sqft: bsp.sqft, depthIn: bsp.tiefe, material: m, wastePct: seite.nurVolumen ? 0 : m.waste_pct, compactionPct: seite.nurVolumen ? 0 : m.compaction_pct || 0, bagCuFt: m.bag_cu_ft[0] });
+  const label = m.label.toLowerCase();
+  let haupt, zeilen;
+  if (seite.zoll) {
+    const quarts = r.cuFt * 25.714;
+    haupt = `<p class="gross"><span>${zahl(r.cuFt, 2)}</span> cubic feet of ${esc(label.replace(/ \(.*\)$/, ''))}</p><p class="neben">≈ <strong>${zahl(quarts, 0)} dry quarts</strong> · ${zahl(r.cuFt * 28.3168, 0)} L</p>`;
+    zeilen = [[`Bags (${r.bagSize} cu ft)`, `${r.bags} bag${r.bags > 1 ? 's' : ''}`], ['Dry quarts', zahl(quarts, 0)], ['Liters', zahl(r.cuFt * 28.3168, 0)]];
+  } else if (seite.nurVolumen) {
+    haupt = `<p class="gross"><span>${zahl(r.cy, 2)}</span> cubic yards</p>`;
+    zeilen = [['Cubic feet', zahl(r.cuFt)], ['Cubic meters', zahl(r.m3, 2)], ['Area', `${zahl(bsp.sqft, 0)} sq ft`]];
+  } else {
+    const tonnen = m.sold_by[0] === 'ton';
+    haupt = tonnen
+      ? `<p class="gross"><span>${zahl(r.tons, 2)} tons</span> of ${esc(label)}</p><p class="neben">≈ ${zahl(r.cy, 2)} cubic yards · order <strong>${zahl(r.orderTons)} tons</strong></p>`
+      : `<p class="gross"><span>${zahl(r.cy, 2)}</span> cubic yards of ${esc(label)}</p><p class="neben">order <strong>${zahl(r.orderCy)} cubic yards</strong> · ≈ ${zahl(r.tons, 2)} tons</p>`;
+    // Genaue Menge und Menge mit Zuschlag nebeneinander: die Formel unter der Überschrift nennt die genaue Menge
+    const genau = calculate({ sqft: bsp.sqft, depthIn: bsp.tiefe, material: m, wastePct: 0, compactionPct: 0 });
+    const extra = `${r.wastePct}% extra${r.compactionPct ? ` + ${r.compactionPct}% compaction` : ''}`;
+    zeilen = [['Area', `${zahl(bsp.sqft, 0)} sq ft`], ['Exact volume', `${zahl(genau.cy, 2)} cu yd (${zahl(genau.cuFt)} cu ft)`], [`With ${extra}`, tonnen ? `${zahl(r.tons, 2)} tons` : `${zahl(r.cy, 2)} cu yd`]];
+    if (r.bags) zeilen.push([`Bags (${r.bagSize} cu ft)`, `${fmt(r.bags)} bags`]);
+  }
+  return `<div class="beispiel-ergebnis">
+        <p class="etikett">Example · ${esc(bsp.text)}</p>
+        ${haupt}
+        <dl class="werte">${zeilen.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join('')}</dl>
+        <button type="button" class="knopf-zweit" id="beispiel-laden">Try this example</button>
+        <p class="klein">Or enter your own measurements – the result updates as you type.</p>
+      </div>`;
+}
+
 // Rechenbeispiel mit den echten Werten aus core.js
 function beispiel(seite) {
   if (!seite.beispiel) return '';
-  const { laenge, breite, tiefe } = seite.beispiel;
+  const bsp = beispielDaten(seite);
+  const { tiefe } = bsp;
   const m = matById[seite.material];
-  const r = calculate({ sqft: laenge * breite, depthIn: tiefe, material: m, wastePct: 0, compactionPct: 0 });
+  const r = calculate({ sqft: bsp.sqft, depthIn: tiefe, material: m, wastePct: 0, compactionPct: 0 });
+  if (seite.zoll) {
+    return `<p class="tipp"><strong>Example:</strong> a ${seite.beispiel.durchmesser}-inch round pot filled ${tiefe} in deep holds <strong>${fmt(r.cuFt, 2)} cubic feet</strong> – about ${fmt(r.cuFt * 25.714)} dry quarts or ${fmt(r.cuFt * 28.3168)} liters. A tapered pot of that size needs roughly ${fmt(r.cuFt * 0.8 * 25.714)} quarts.</p>`;
+  }
+  const { laenge, breite } = seite.beispiel;
   const mit = calculate({ sqft: laenge * breite, depthIn: tiefe, material: m, bagCuFt: m.bag_cu_ft.includes(2) ? 2 : undefined });
   const teile = [`<strong>${fmt(r.cy, 2)} cubic yards</strong> (${fmt(r.cuFt)} cu ft)`];
   if (!seite.nurVolumen) teile.push(`about ${fmt(r.tons, 1)} tons`);
@@ -326,21 +494,61 @@ function formelZeile(seite) {
     return `<p class="formel"><strong>Formula:</strong> tons = cubic yards × weight per cubic yard. <strong>Example:</strong> 5 cubic yards of ${name(m)} × ${fmt(m.density_tons_per_cy, 2)} = ${fmt(5 * m.density_tons_per_cy, 1)} tons.</p>`;
   }
   if (seite.art !== 'rechner' || !seite.beispiel) return '';
-  const { laenge, breite, tiefe } = seite.beispiel;
   const m = matById[seite.material];
+  if (seite.zoll) {
+    const { durchmesser, tiefe } = seite.beispiel;
+    const cuIn = Math.PI * (durchmesser / 2) ** 2 * tiefe;
+    return `<p class="formel"><strong>Formula:</strong> 3.14 × radius² × depth (in) ÷ 1,728 = cubic feet; × 25.7 = dry quarts. <strong>Example:</strong> ${durchmesser} in pot, ${tiefe} in deep = ${fmt(cuIn / 1728, 2)} cu ft ≈ ${fmt((cuIn / 1728) * 25.714)} quarts.</p>`;
+  }
+  const { laenge, breite, tiefe } = seite.beispiel;
   const r = calculate({ sqft: laenge * breite, depthIn: tiefe, material: m, wastePct: 0, compactionPct: 0 });
   const tonnen = !seite.nurVolumen && m.sold_by[0] === 'ton';
   return `<p class="formel"><strong>Formula:</strong> length × width (ft) × depth (in) ÷ 324 = cubic yards${tonnen ? `; × ${fmt(m.density_tons_per_cy, 2)} = tons` : ''}. <strong>Example:</strong> ${laenge} × ${breite} ft at ${tiefe} in = ${fmt(r.cy, 2)} cubic yards${tonnen ? ` ≈ ${fmt(r.tons, 1)} tons` : ''}.</p>`;
 }
 
+// Kennzahlen neben der Überschrift: die drei Zahlen, nach denen am häufigsten gefragt wird
+function fakten(seite) {
+  if (!['rechner', 'umrechner'].includes(seite.art || 'rechner')) return '';
+  const m = matById[seite.material];
+  const d = seite.tiefe ?? m.default_depth_in;
+  let f = seite.fakten;
+  if (!f) {
+    const proYard = ['1 cubic yard covers', `${fmt(coverage({ cy: 1, depthIn: 3 }))} sq ft`, 'at 3 in deep'];
+    if (seite.nurVolumen || seite.pfad === '/') {
+      f = [['1 cubic yard equals', '27 cu ft', '3 × 3 × 3 ft'], proYard, ['1 cubic yard equals', '13.5 bags', 'of 2 cu ft']];
+    } else {
+      const gewicht = ['1 cubic yard weighs', `≈ ${zahl(m.density_tons_per_cy, 2)} tons`, `about ${fmt(lbProCy(m.density_tons_per_cy))} lb`];
+      const tief = d <= 6 ? d : 3;
+      const deckung = ['1 cubic yard covers', `${fmt(coverage({ cy: 1, depthIn: tief }))} sq ft`, `at ${tief} in deep`];
+      if (seite.art === 'umrechner') f = [gewicht, [`1 ton of ${name(m)}`, `≈ ${fmt(1 / m.density_tons_per_cy, 2)} cu yd`, `${fmt(27 / m.density_tons_per_cy)} cubic feet`], ['1 cubic yard equals', '27 cu ft', '3 × 3 × 3 ft']];
+      else if (m.sold_by[0] === 'ton') f = [['1 ton covers', `${fmt(coverage({ cy: 1 / m.density_tons_per_cy, depthIn: tief }))} sq ft`, `at ${tief} in deep`], gewicht, deckung];
+      else {
+        const sack = m.bag_cu_ft.includes(2) ? 2 : m.bag_cu_ft[0];
+        f = [deckung, sack ? ['1 cubic yard equals', `${zahl(27 / sack, 1)} bags`, `of ${sack} cu ft`] : ['1 cubic yard equals', '27 cu ft', '3 × 3 × 3 ft'], gewicht];
+      }
+    }
+  }
+  return `<dl class="fakten">${f.map(([a, b, c]) => `<div><dt>${esc(a)}</dt><dd><strong>${esc(b)}</strong> <span>${esc(c)}</span></dd></div>`).join('')}</dl>`;
+}
+
+// Kachel mit Materialfarbe (Rechner und Ratgeber) bzw. neutralem Feld (Umrechner, Infoseiten)
+const kachel = (s) => {
+  const farbe = s.material && !s.nurVolumen && s.art !== 'umrechner' ? FARBEN[s.material] : '';
+  return `<li><a href="${s.pfad}"><span class="farbe${farbe ? '' : ' farbe-neutral'}"${farbe ? ` style="--f:${farbe}"` : ''}></span><span class="kachel-text"><span class="kachel-titel">${esc(kurzname(s))}</span> <span>${esc(s.kurz)}</span></span></a></li>`;
+};
+const kacheln = (liste, klasse = '') => `<ul class="kacheln${klasse ? ` ${klasse}` : ''}">${liste.map(kachel).join('')}</ul>`;
+// Alle Rechner nach Gruppe, optional ohne bestimmte Pfade (die aktuelle Seite, schon gezeigte verwandte Seiten)
+const rechnerGruppen = (ohne = [], { stufe = 'h3', nurTitel = false } = {}) => GRUPPEN.map(([g, titel]) => {
+  const liste = rechnerIn(g).filter((s) => !ohne.includes(s.pfad));
+  return liste.length ? `<${stufe} class="gruppe-titel">${esc(titel)}</${stufe}>\n${kacheln(liste, nurTitel ? 'kompakt nur-titel' : 'kompakt')}` : '';
+}).join('\n');
+
 function verwandtBlock(seite) {
   const liste = (seite.verwandt || []).map((p) => SEITEN.find((s) => s.pfad === p)).filter(Boolean);
   if (!liste.length) return '';
   return `<h2>Related</h2>
-<ul class="kacheln">${liste.map((s) => `<li><a href="${s.pfad}"><span class="kachel-titel">${esc(s.h1)}</span> <span>${esc(s.kurz)}</span></a></li>`).join('')}</ul>`;
+${kacheln(liste)}`;
 }
-
-const kacheln = (liste) => `<ul class="kacheln">${liste.map((s) => `<li><a href="${s.pfad}"><span class="kachel-titel">${esc(s.h1)}</span> <span>${esc(s.kurz)}</span></a></li>`).join('')}</ul>`;
 
 function umrechnerForm(seite) {
   const m = matById[seite.material];
@@ -380,50 +588,107 @@ function naheBlock(seite) {
 <p><a class="knopf-zweit" href="${BASIS}">All states &amp; ZIP search</a>${stein ? ` <a class="knopf-zweit" href="${BASIS}gravel-pits/">Gravel pits by state</a>` : ''}</p>`;
 }
 
+const VERZ_KACHELN = `<ul class="kacheln"><li><a href="${BASIS}"><span class="farbe farbe-ort"></span><span class="kachel-text"><span class="kachel-titel">Landscape supply yards</span> <span>Mulch, gravel and stone yards by state and city</span></span></a></li><li><a href="${BASIS}gravel-pits/"><span class="farbe farbe-ort"></span><span class="kachel-text"><span class="kachel-titel">Gravel pits by state</span> <span>Active sand &amp; gravel pits from mine records</span></span></a></li></ul>`;
+
 function hubInhalt(seite) {
   if (seite.hub === 'ratgeber') return kacheln(RATGEBER);
   return `<h2>Calculators</h2>
-${kacheln(RECHNER)}
+${rechnerGruppen()}
 <h2 id="guides">Guides</h2>
 ${kacheln(RATGEBER)}
 <h2>Find a supplier</h2>
-<ul class="kacheln"><li><a href="${BASIS}"><span class="kachel-titel">Landscape supply yards</span> <span>Mulch, gravel and stone yards by state and city</span></a></li><li><a href="${BASIS}gravel-pits/"><span class="kachel-titel">Gravel pits by state</span> <span>Active sand &amp; gravel pits from mine records</span></a></li></ul>`;
+${VERZ_KACHELN}`;
 }
+
+// Suche nach Yards: großes Feld (Startseite) oder kleine Karte in der Seitenleiste
+const yardsGesamt = () => zaehlen(YARDS).yards;
+const staatenGesamt = () => new Set(YARDS.filter((y) => y.kind !== 'gravel-pit' && !y.mailbox).map((y) => y.address.state)).size;
+const finderForm = (id, titel, klasse = 'finder') => `<form class="${klasse}" action="${BASIS}" method="get" role="search">
+  <label class="finder-titel" for="${id}">${esc(titel)}</label>
+  <p class="finder-text">${fmt(yardsGesamt())} yards and suppliers in ${staatenGesamt()} states – search by ZIP code or city.</p>
+  <div class="finder-zeile"><input id="${id}" name="q" type="search" placeholder="ZIP code or city" autocomplete="off" enterkeyhint="search"><button class="knopf" type="submit">Search</button></div>
+</form>`;
+
+// Startseite: Rechner nach Material, Yard-Suche, Ratgeber – direkt unter dem Rechner
+function startInhalt() {
+  return `<h2 id="calculators">Pick a calculator for your material</h2>
+<p>Each calculator starts with the right depth and weight for its material and answers the common questions – bags per yard, coverage, tons and typical prices.</p>
+${rechnerGruppen()}
+<h2 id="find-a-yard">Find bulk mulch, gravel and soil near you</h2>
+${finderForm('finder-start', 'Landscape supply yards near you')}
+<ul class="raster">${METROS.slice(0, 8).map((c) => `<li><a href="${c.pfad}"><span>${esc(c.name)}, ${c.staat.code}</span> <span class="zahl">${zaehlen(c.yards).yards}</span></a></li>`).join('')}</ul>
+<p><a class="knopf-zweit" href="${BASIS}">All states</a> <a class="knopf-zweit" href="${BASIS}gravel-pits/">Gravel pits by state</a></p>
+<h2 id="guides">Quick answers</h2>
+${kacheln(RATGEBER)}`;
+}
+
+// Sprungmarken: jede H2 bekommt eine id (aus dem Text), daraus entsteht das Inhaltsverzeichnis
+const marke = (t) => t.replace(/<[^>]+>/g, '').replace(/&amp;/g, 'and').replace(/&[a-z#0-9]+;/g, ' ').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '').split('-').slice(0, 8).join('-');
+function mitSprungmarken(html) {
+  const toc = [], benutzt = new Set();
+  const neu = html.replace(/<h2(?: id="([^"]+)")?>(.*?)<\/h2>/gs, (_, id, text) => {
+    let m = id || marke(text) || 'section';
+    for (let n = 2; benutzt.has(m); n++) m = `${id || marke(text)}-${n}`;
+    benutzt.add(m);
+    toc.push([m, text.replace(/<[^>]+>/g, '')]);
+    return `<h2 id="${m}">${text}</h2>`;
+  });
+  return { html: neu, toc };
+}
+
+// Bilder, die der Build erzeugt (public/assets/img/…): Dateiname → SVG
+const BILDER = new Map();
 
 function seiteBauen(seite) {
   const art = seite.art || 'rechner';
-  const kreis = RECHNER.filter((s) => s.pfad !== seite.pfad && s.pfad !== '/');
+  const start = seite.pfad === '/';
   const werkzeug = art === 'rechner' || art === 'ratgeber' ? rechner(seite) : art === 'umrechner' ? umrechnerForm(seite) : '';
-  const krumenHtml = art === 'ratgeber' ? `<nav class="krumen" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/guides/">Guides</a></nav>` : '';
+  const krumenHtml = art === 'ratgeber' ? `<nav class="krumen" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/guides/">Guides</a></nav>`
+    : art !== 'info' && !start ? `<nav class="krumen" aria-label="Breadcrumb"><a href="/">Home</a> › <a href="/calculators/">Calculators</a></nav>` : '';
   const faq = seite.faq?.length
-    ? `<h2>Frequently asked questions</h2>\n${seite.faq.map(([q, a]) => `<details class="faq"><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join('\n')}`
+    ? `<h2 id="faq">Frequently asked questions</h2>\n${seite.faq.map(([q, a]) => `<details class="faq"><summary><h3>${esc(q)}</h3></summary><p>${esc(a)}</p></details>`).join('\n')}`
     : '';
   const quellen = seite.quellen?.length
     ? `<p class="klein quelle">Sources: ${seite.quellen.map(([t, u]) => `<a href="${u}" rel="nofollow noopener">${esc(t)}</a>`).join(' · ')}</p>`
     : '';
   const stand = art === 'info' ? '' : `<p class="klein">Last reviewed ${standText(seite.stand || STAND)} · <a href="/about/">How we calculate</a></p>`;
-  return `${kopf(seite)}
-<main>
-<section class="held"><div class="breit">${krumenHtml}
-  <h1>${esc(seite.h1)}</h1>
-  ${art === 'ratgeber' ? `<p class="autor">By <a href="/about/">${esc(SITE.operator?.name || SITE.name)}</a> · Last reviewed ${standText(seite.stand || STAND)}</p>
-  <p class="unter"><strong>Short answer: ${esc(seite.intro)}</strong></p>` : `<p class="unter">${esc(seite.intro)}</p>`}
-  ${formelZeile(seite)}
-</div></section>
-<div class="breit">
-${werkzeug}
-<article class="inhalt">
-${beispiel(seite)}
-${seite.inhalt || ''}
+  const zeigen = (seite.verwandt || []).concat(seite.pfad);
+  const roh = `${beispiel(seite)}
+${start ? startInhalt() : ''}
+${(seite.inhalt || '').replace('<!--wuerfel-->', wuerfelBild)}
 ${seite.hub ? hubInhalt(seite) : ''}
 ${standardBloecke(seite).map((b) => BLOECKE[b](seite)).join('\n')}
 ${faq}
 ${quellen}
 ${verwandtBlock(seite)}
 ${naheBlock(seite)}
-${art === 'info' ? '' : `<h2>More calculators</h2>\n${kacheln(kreis.filter((s) => !(seite.verwandt || []).includes(s.pfad)))}`}
-${stand}
+${art === 'info' || start ? '' : `<h2 id="more-calculators">More calculators</h2>\n${rechnerGruppen(zeigen, { nurTitel: true })}`}
+${stand}`;
+  const { html: inhalt, toc } = mitSprungmarken(roh);
+  // Seitenleiste (ab 1020 px neben dem Text, auf dem Handy als ausklappbare Liste davor): Inhaltsverzeichnis und Yard-Suche
+  const mitLeiste = toc.length >= 3 && !seite.hub;
+  const m = seite.material && matById[seite.material];
+  const stoff = !m || seite.nurVolumen || start ? 'mulch, gravel & soil' : stoffVon(seite);
+  const leiste = mitLeiste ? `<aside class="neben-spalte">
+<nav class="toc" aria-label="On this page"><details open><summary>On this page</summary><ol>${toc.map(([id, t]) => `<li><a href="#${id}">${t}</a></li>`).join('')}</ol></details></nav>
+${art === 'info' ? '' : finderForm('finder-neben', `Find bulk ${stoff} near you`, 'finder finder-klein')}
+</aside>` : '';
+  return `${kopf(seite)}
+<main id="main">
+<section class="held"><div class="breit held-raster"><div class="held-text">${krumenHtml}
+  <h1>${esc(seite.h1)}</h1>
+  ${art === 'ratgeber' ? `<p class="autor">By <a href="/about/">${esc(SITE.operator?.name || SITE.name)}</a> · Last reviewed ${standText(seite.stand || STAND)}</p>
+  <p class="unter"><strong>Short answer: ${esc(seite.intro)}</strong></p>` : `<p class="unter">${esc(seite.intro)}</p>`}
+  ${formelZeile(seite)}
+</div>${fakten(seite)}</div></section>
+<div class="breit">
+${werkzeug}
+<div class="${mitLeiste ? 'zwei-spalten' : 'eine-spalte'}">
+<article class="inhalt${seite.hub ? ' inhalt-breit' : ''}">
+${inhalt}
 </article>
+${leiste}
+</div>
 </div>
 </main>
 ${fuss({ hinweis: art === 'info' ? '' : 'rechner' })}`;
@@ -461,6 +726,9 @@ for (const seite of SEITEN) {
   writeFileSync(ziel, seiteBauen(seite).replace(/<table>/g, '<div class="tabelle"><table>').replace(/<\/table>/g, '</table></div>'));
 }
 
+mkdirSync(join(OUT, 'assets/img'), { recursive: true });
+for (const [datei, svg] of BILDER) writeFileSync(join(OUT, 'assets/img', datei), svg);
+
 schreibeVerzeichnis();
 
 // Rechtliches: Imprint und Privacy Policy (noindex, nicht in der Sitemap)
@@ -468,7 +736,7 @@ for (const r of rechtlicheSeiten(SITE, esc)) {
   const ziel = join(OUT, r.pfad, 'index.html');
   mkdirSync(dirname(ziel), { recursive: true });
   writeFileSync(ziel, `${kopf({ ...r, noindex: true, ld: [] })}
-<main>
+<main id="main">
 <section class="held"><div class="breit"><h1>${esc(r.h1)}</h1><p class="unter">${esc(r.intro)}</p></div></section>
 <div class="breit"><article class="inhalt recht-text">
 ${r.inhalt}
@@ -513,15 +781,16 @@ writeFileSync(join(OUT, 'assets/cities.json'), JSON.stringify([...staedteIndex.v
 cpSync(join(ROOT, 'data/zip-centroids'), join(OUT, 'assets/zip'), { recursive: true });
 
 writeFileSync(join(OUT, '404.html'), `${kopf({ pfad: '/404', title: 'Page not found', description: 'Page not found', h1: 'Page not found', nav: '404' })}
-<main><section class="held"><div class="breit"><h1>Page not found</h1><p class="unter">This page doesn't exist (yet). Search for a yard, or pick a calculator below.</p></div></section>
+<main id="main"><section class="held"><div class="breit"><h1>Page not found</h1><p class="unter">This page doesn't exist (yet). Search for a yard, or pick a calculator below.</p></div></section>
 <div class="breit"><article class="inhalt">
 <form class="finder" action="${BASIS}" method="get" role="search">
   <label class="finder-titel" for="finder-404">Find landscape supply yards near you</label>
   <div class="finder-zeile"><input id="finder-404" name="q" type="search" placeholder="ZIP code or city" autocomplete="off" enterkeyhint="search"><button class="knopf" type="submit">Search</button></div>
 </form>
-<ul class="kacheln"><li><a href="${BASIS}"><span class="kachel-titel">Landscape supply yards</span> <span>By state and city</span></a></li><li><a href="${BASIS}gravel-pits/"><span class="kachel-titel">Gravel pits</span> <span>By state</span></a></li><li><a href="/guides/"><span class="kachel-titel">Guides</span> <span>Bags, weights, truckloads</span></a></li></ul>
+${VERZ_KACHELN}
+<p><a class="knopf-zweit" href="/guides/">Guides: bags, weights, truckloads</a></p>
 <h2>Calculators</h2>
-${kacheln(RECHNER)}
+${rechnerGruppen()}
 </article></div></main>
 ${fuss()}`.replace('<meta name="robots" content="noindex, follow">', '').replace('<title>', '<meta name="robots" content="noindex">\n<title>'));
 
@@ -543,7 +812,7 @@ const HEUTE = (process.env.BUILD_DATUM || new Date().toISOString()).slice(0, 10)
 const inhaltsHash = (html) => {
   const t = html.match(/<title>.*?<\/title>/s)?.[0] || '';
   const d = html.match(/<meta name="description"[^>]*>/)?.[0] || '';
-  const m = html.slice(html.indexOf('<main>'), html.lastIndexOf('</main>'));
+  const m = html.slice(html.indexOf('<main'), html.lastIndexOf('</main>')).replace('<main id="main">', '<main>');
   return createHash('sha1').update(t + d + m.replaceAll(`?v=${VERSION}`, '')).digest('hex').slice(0, 16);
 };
 if (SITE.baseUrl) {

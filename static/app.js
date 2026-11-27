@@ -1,5 +1,6 @@
 // Rechner im Browser. Rechenlogik kommt aus core.js (dieselbe Datei wie src/calc/core.js, getestet in test/).
 import { totalArea, calculate, cost, pickupTrips, dumpTruckLoads, bulkVsBags, m2ToSqft, cmToIn, mToFt, KG_PER_TON } from './core.js';
+import { FORMEN as FORMEN_ALLE, FORMEN_TOPF, abschnittHtml } from './formen.js';
 
 const form = document.getElementById('rechner');
 if (form) start();
@@ -18,13 +19,9 @@ if (embedWahl) embedWahl.addEventListener('change', () => {
 });
 if (document.querySelector('select')) import('./auswahl.js');
 
-const ICON = {
-  rectangle: '<rect x="3" y="4" width="18" height="12" rx="1.5"/>',
-  circle: '<circle cx="12" cy="10" r="7.5"/>',
-  triangle: '<path d="M12 2.5 21.5 17h-19Z"/>',
-  ring: '<circle cx="12" cy="10" r="7.5"/><circle cx="12" cy="10" r="2.2" fill="currentColor"/>',
-  area: '<rect x="3" y="3" width="18" height="14" rx="1.5" stroke-dasharray="3 2.5"/>',
-};
+// Inhaltsverzeichnis: auf dem Handy eingeklappt, auf breiten Bildschirmen offen (steht offen im HTML)
+const toc = document.querySelector('.toc details');
+if (toc && matchMedia('(max-width: 1019px)').matches) toc.open = false;
 const DREI = [0.25, 0.5, 1, 2, 3, 4, 6, 8, 12, 18, 24];
 
 async function start() {
@@ -33,13 +30,11 @@ async function start() {
   const matById = Object.fromEntries(DATA.materials.map((m) => [m.id, m]));
   const $ = (id) => document.getElementById(id);
 
-  const FORMEN = {
-    rectangle: { label: 'Rectangle', felder: [['length', 'Length'], ['width', 'Width']] },
-    circle: { label: 'Circle', felder: [['diameter', 'Diameter']] },
-    triangle: { label: 'Triangle', felder: [['base', 'Base'], ['height', 'Height']] },
-    ring: { label: 'Tree ring', felder: [['outerDiameter', 'Outer diameter'], ['innerDiameter', 'Inner diameter']] },
-    area: { label: 'Known area', felder: [['sqft', 'Area']] },
-  };
+  // cfg.zoll: Töpfe und Kübel – Maße in Zoll (bzw. cm), Ergebnis in Kubikfuß und Quarts
+  const FORMEN = cfg.zoll ? FORMEN_TOPF : FORMEN_ALLE;
+  const WORT = cfg.zoll ? 'Pot' : 'Area';
+  // Vom Build ins HTML geschriebenes Beispiel-Ergebnis: bleibt stehen, bis jemand eigene Werte eingibt
+  const beispielHtml = $('ergebnis').querySelector('.beispiel-ergebnis') ? $('ergebnis').innerHTML : '';
 
   const state = {
     einheit: 'imperial',
@@ -51,14 +46,19 @@ async function start() {
   const q = new URLSearchParams(location.search);
   if (q.has('sqft') || q.has('m')) {
     if (q.get('m') && matById[q.get('m')]) state.material = q.get('m');
-    if (q.get('sqft')) state.abschnitte = [{ shape: 'area', dims: { sqft: +q.get('sqft') } }];
+    // Töpfe kennen keine „Known area“: Fläche als runden Topf mit gleichem Querschnitt zeigen
+    if (q.get('sqft')) state.abschnitte = cfg.zoll
+      ? [{ shape: 'circle', dims: { diameter: +(Math.sqrt((+q.get('sqft') * 4) / Math.PI) * (q.get('u') === 'metric' ? 30.48 : 12)).toFixed(1) } }]
+      : [{ shape: 'area', dims: { sqft: +q.get('sqft') } }];
     if (q.get('u') === 'metric') state.einheit = 'metric';
     if (q.get('d')) $('tiefe').value = q.get('d');
     if (q.get('e') && $('bestand')) $('bestand').value = q.get('e');
   }
 
   // ---------- Abschnitte ----------
-  const lang = () => (state.einheit === 'metric' ? 'm' : 'ft');
+  const lang = () => (cfg.zoll ? (state.einheit === 'metric' ? 'cm' : 'in') : state.einheit === 'metric' ? 'm' : 'ft');
+  // Eingabe → Fuß: Zoll ÷ 12, cm ÷ 30.48, m × 3.28084
+  const inFuss = (v) => (cfg.zoll ? (state.einheit === 'metric' ? v / 30.48 : v / 12) : state.einheit === 'metric' ? mToFt(v) : v);
   const flaeche = () => (state.einheit === 'metric' ? 'm²' : 'sq ft');
 
   function abschnitteZeichnen() {
@@ -68,11 +68,7 @@ async function start() {
       const f = document.createElement('fieldset');
       const mehrere = state.abschnitte.length > 1;
       f.className = 'abschnitt' + (mehrere ? '' : ' einzeln');
-      f.innerHTML = `<legend class="${mehrere ? '' : 'sr'}">${mehrere ? `Area ${i + 1}` : 'Area'}</legend>
-        <div class="formen" role="radiogroup" aria-label="Shape">${Object.entries(FORMEN).map(([k, v]) => `<label class="form-wahl"><input type="radio" class="form" name="form-${i}" data-i="${i}" value="${k}"${k === a.shape ? ' checked' : ''}><span><svg aria-hidden="true" viewBox="0 0 24 20" fill="none" stroke="currentColor" stroke-width="2">${ICON[k]}</svg>${v.label}</span></label>`).join('')}</div>
-        <div class="masse">${FORMEN[a.shape].felder.map(([k, l]) => `<label>${l} <span class="opt">(${k === 'sqft' ? flaeche() : lang()})</span>
-          <input type="number" inputmode="decimal" min="0" step="any" enterkeyhint="next" placeholder="0" data-i="${i}" data-k="${k}" value="${a.dims[k] ?? ''}"></label>`).join('')}</div>
-        ${mehrere ? `<button type="button" class="entfernen" data-weg="${i}" aria-label="Remove section ${i + 1}">Remove</button>` : ''}`;
+      f.innerHTML = abschnittHtml(a, i, { mehrere, lang: lang(), flaeche: flaeche(), formen: FORMEN, wort: WORT });
       box.append(f);
     });
   }
@@ -99,7 +95,7 @@ async function start() {
     }
   });
   $('abschnitt-neu').addEventListener('click', () => {
-    state.abschnitte.push({ shape: 'rectangle', dims: {} });
+    state.abschnitte.push({ shape: cfg.zoll ? cfg.shape : 'rectangle', dims: {} });
     abschnitteZeichnen();
     form.querySelector(`[data-i="${state.abschnitte.length - 1}"][data-k]`)?.focus();
   });
@@ -113,8 +109,8 @@ async function start() {
     for (const a of state.abschnitte) for (const k in a.dims) {
       const v = a.dims[k];
       if (v == null) continue;
-      const f = k === 'sqft' ? m2ToSqft(1) : mToFt(1);
-      a.dims[k] = +(zuMetrisch ? v / f : v * f).toFixed(2);
+      const f = k === 'sqft' ? m2ToSqft(1) : cfg.zoll ? 1 / 2.54 : mToFt(1);
+      a.dims[k] = +(zuMetrisch ? v / f : v * f).toFixed(cfg.zoll ? 1 : 2);
     }
     const t = +$('tiefe').value;
     if (t) $('tiefe').value = +(zuMetrisch ? t * 2.54 : cmToIn(t)).toFixed(zuMetrisch ? 1 : 2);
@@ -180,13 +176,15 @@ async function start() {
     tiefenChips();
     if (cfg.nurVolumen) { $('tiefe-hinweis').textContent = ''; return; }
     const [a, b] = m.depth_range_in;
-    $('tiefe-hinweis').textContent = `Recommended for ${m.label.toLowerCase()}: ${a}–${b} in (${+(a * 2.54).toFixed(1)}–${+(b * 2.54).toFixed(1)} cm).`;
+    $('tiefe-hinweis').textContent = cfg.zoll
+      ? 'Use the inside height of the pot, minus about an inch at the rim for watering.'
+      : `Recommended for ${m.label.toLowerCase()}: ${a}–${b} in (${+(a * 2.54).toFixed(1)}–${+(b * 2.54).toFixed(1)} cm).`;
     const h = $('mat-hinweis');
     h.hidden = !m.note;
     h.textContent = m.note || '';
     const sack = $('sack');
     if (sack) {
-      sack.innerHTML = m.bag_cu_ft.length ? m.bag_cu_ft.map((s) => `<option value="${s}">${s} cu ft</option>`).join('') : '<option value="">Not sold in bags</option>';
+      sack.innerHTML = m.bag_cu_ft.length ? m.bag_cu_ft.map((s) => `<option value="${s}">${s} cu ft${cfg.zoll ? ` (${Math.round(s * 25.714)} qt)` : ''}</option>`).join('') : '<option value="">Not sold in bags</option>';
       sack.disabled = !m.bag_cu_ft.length;
     }
   }
@@ -214,7 +212,7 @@ async function start() {
       const felder = FORMEN[a.shape].felder.map(([k]) => k);
       if (!felder.every((k) => a.dims[k] > 0 || (k === 'innerDiameter' && a.dims[k] >= 0))) continue;
       const dims = {};
-      for (const k of felder) dims[k] = metrisch ? (k === 'sqft' ? m2ToSqft(a.dims[k] ?? 0) : mToFt(a.dims[k] ?? 0)) : (a.dims[k] ?? 0);
+      for (const k of felder) dims[k] = k === 'sqft' ? (metrisch ? m2ToSqft(a.dims[k] ?? 0) : (a.dims[k] ?? 0)) : inFuss(a.dims[k] ?? 0);
       abschnitte.push({ shape: a.shape, dims });
     }
     const tiefe = wert('tiefe');
@@ -228,6 +226,9 @@ async function start() {
     const { abschnitte, depthIn, existingIn } = eingabenInFuss();
     const sqft = abschnitte.length ? totalArea(abschnitte) : 0;
     if (!(sqft > 0) || !(depthIn > 0) || existingIn >= depthIn) {
+      const unberuehrt = beispielHtml && state.material === cfg.material && state.einheit === 'imperial' && +$('tiefe').value === cfg.depth
+        && state.abschnitte.length === 1 && !Object.values(state.abschnitte[0].dims).some((v) => v != null);
+      if (unberuehrt) { box.innerHTML = beispielHtml; leiste(''); return; }
       box.innerHTML = `<p class="leer">${!(sqft > 0) ? 'Enter your measurements' : !(depthIn > 0) ? 'Enter a depth' : 'The existing layer is already as deep as the target depth – nothing to add'}${existingIn >= depthIn && depthIn > 0 ? '.' : ' – your result shows up here instantly.'}</p>`;
       leiste('');
       return;
@@ -242,7 +243,20 @@ async function start() {
     const extraText = `Includes ${r.wastePct}% extra for settling and waste${r.compactionPct ? ` and ${r.compactionPct}% for compaction` : ''}.`;
 
     let html, kurz;
-    if (cfg.nurVolumen) {
+    if (cfg.zoll) {
+      // Töpfe: Kubikfuß, Dry Quarts (25,7 je Kubikfuß) und Liter statt Kubikyards
+      const quarts = r.cuFt * 25.714, liter = r.cuFt * 28.3168;
+      kurz = `<strong>${zahl(r.cuFt, 2)} cu ft</strong> · ${zahl(quarts, 0)} qt`;
+      if (r.bags) kurz += ` · ${r.bags.toLocaleString('en-US')} bag${r.bags > 1 ? 's' : ''}`;
+      const zeilen = [['Dry quarts', zahl(quarts, 0)], ['Liters', zahl(liter, 0)], ['Gallons (dry)', zahl(quarts / 4, 1)], ['Cubic yards', zahl(r.cy, 2)]];
+      if (r.bags) zeilen.unshift([`Bags (${r.bagSize} cu ft)`, `${r.bags.toLocaleString('en-US')} bag${r.bags > 1 ? 's' : ''}`]);
+      const c = cost(r, { perBag: wert('p-sack') });
+      html = `<p class="gross"><span>${zahl(r.cuFt, 2)}</span> cubic feet of ${m.label.toLowerCase().replace(/ \(.*\)$/, '')}</p>
+        <p class="neben">≈ <strong>${zahl(quarts, 0)} dry quarts</strong> · ${zahl(liter, 0)} L</p>
+        <dl class="werte">${zeilen.map(([a, b]) => `<div><dt>${a}</dt><dd>${b}</dd></div>`).join('')}</dl>
+        ${c.bags != null ? `<h3>Estimated cost</h3><dl class="werte"><div><dt>Bags</dt><dd>${geld(c.bags)}</dd></div></dl>` : ''}
+        <p class="klein">Straight-sided estimate${r.wastePct ? ` plus ${r.wastePct}% extra` : ''}. Tapered pots hold about 20% less.</p>`;
+    } else if (cfg.nurVolumen) {
       kurz = `<strong>${zahl(r.cy, 2)}</strong> cubic yards`;
       html = `<p class="gross"><span>${zahl(r.cy, 2)}</span> cubic yards${metrisch ? ` (${zahl(r.m3, 2)} m³)` : ''}</p>
         <dl class="werte"><div><dt>Cubic feet</dt><dd>${zahl(r.cuFt)}</dd></div><div><dt>Cubic meters</dt><dd>${zahl(r.m3, 2)}</dd></div>
@@ -327,6 +341,14 @@ async function start() {
   $('leiste-knopf').addEventListener('click', zumErgebnis);
 
   $('ergebnis').addEventListener('click', async (e) => {
+    if (e.target.id === 'beispiel-laden' && cfg.beispiel) {
+      state.abschnitte = [{ shape: cfg.beispiel.shape, dims: { ...cfg.beispiel.dims } }];
+      $('tiefe').value = cfg.beispiel.tiefe;
+      abschnitteZeichnen();
+      rechnen();
+      form.querySelector('#abschnitte input[type=number]')?.focus({ preventScroll: true });
+      return;
+    }
     if (e.target.id === 'drucken') { window.print(); return; }
     if (e.target.id === 'kopieren') {
       // Ergebnis als Text: Hauptzahl, Werte-Tabelle, Kosten, Link

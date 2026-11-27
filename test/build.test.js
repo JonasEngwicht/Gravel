@@ -393,3 +393,186 @@ test("Add your yard + Badge, Firmenseiten verlinken dorthin; Auswertung Yards je
   assert.ok((t.match(/<tr><td><a href="\/landscape-supply\/[a-z]{2}\/">/g) || []).length >= 48);
   assert.ok(sitemapUrls("pages").some((u) => u.endsWith("/landscape-supply/yards-per-state/")));
 });
+
+// ---------- Lauf vom 28.11.2026: Design, Ladezeit, neue Rechner ----------
+import { calculate, coverage } from "../src/calc/core.js";
+const MATERIAL = JSON.parse(readFileSync(new URL("../data/materials.json", import.meta.url), "utf8")).materials;
+const seite = (pfad) => readFileSync(pub(pfad.slice(1) + "index.html"), "utf8");
+const RECHNERSEITEN = SEITEN.filter((s) => s.art === "rechner");
+
+test("neue Rechner (Volumen belegt, Ubersuggest 28.11.2026) gebaut, in der Sitemap und überall verlinkt", () => {
+  // soil calculator 27.100 · stone calculator 22.200 · potting soil calculator 3.600 · crusher run calculator 1.900 · limestone calculator 1.300
+  const neu = ["/soil-calculator/", "/stone-calculator/", "/potting-soil-calculator/", "/crusher-run-calculator/", "/limestone-calculator/"];
+  const sitemap = readFileSync(pub("sitemap-pages.xml"), "utf8");
+  const hub = seite("/calculators/"), start = seite("/"), stadt = readFileSync(pub("landscape-supply/tx/katy/index.html"), "utf8");
+  for (const p of neu) {
+    assert.ok(SEITEN.some((s) => s.pfad === p), p);
+    assert.ok(sitemap.includes(`https://gravelandmulch.com${p}</loc>`), `Sitemap: ${p}`);
+    for (const [name, html] of [["Übersicht", hub], ["Startseite", start], ["Fußzeile Stadtseite", stadt]]) assert.ok(html.includes(`href="${p}"`), `${name} verlinkt ${p}`);
+  }
+});
+
+test("Rechner-Titel höchstens 60 Zeichen, Menü mit den Suchbegriffen mit dem meisten Volumen", () => {
+  for (const s of RECHNERSEITEN) assert.ok(s.title.length <= 60, `${s.pfad}: ${s.title.length}`);
+  const menue = seite("/").split('<nav class="menue"')[1].split("</nav>")[0];
+  for (const p of ["/mulch-calculator/", "/gravel-calculator/", "/soil-calculator/", "/stone-calculator/", "/topsoil-calculator/", "/cubic-yard-calculator/"]) assert.ok(menue.includes(`href="${p}"`), p);
+});
+
+test("Beispiel-Ergebnis steht im HTML und stimmt mit core.js überein", () => {
+  let geprueft = 0;
+  for (const s of RECHNERSEITEN.filter((x) => x.beispiel && !x.zoll)) {
+    const html = seite(s.pfad);
+    const box = html.split('id="ergebnis"')[1].split("</section>")[0];
+    assert.match(box, /class="beispiel-ergebnis"/, s.pfad);
+    assert.match(box, /id="beispiel-laden"/, s.pfad);
+    const m = MATERIAL.find((x) => x.id === s.material);
+    const { laenge, breite, tiefe } = s.beispiel;
+    const r = calculate({ sqft: laenge * breite, depthIn: tiefe, material: m, wastePct: s.nurVolumen ? 0 : m.waste_pct, compactionPct: s.nurVolumen ? 0 : m.compaction_pct || 0 });
+    const z = (n) => n.toLocaleString("en-US", { maximumFractionDigits: 2 });
+    const haupt = !s.nurVolumen && m.sold_by[0] === "ton" ? `${z(r.tons)} tons` : z(r.cy);
+    assert.ok(box.includes(`<span>${haupt}</span>`), `${s.pfad}: Hauptzahl ${haupt} fehlt`);
+    // „Try this example“ füllt genau diese Maße ein
+    const cfg = JSON.parse(html.match(/data-cfg='([^']+)'/)[1].replace(/&quot;/g, '"'));
+    assert.deepEqual(cfg.beispiel, { shape: "rectangle", dims: { length: laenge, width: breite }, tiefe }, s.pfad);
+    geprueft++;
+  }
+  assert.ok(geprueft >= 20, `nur ${geprueft} Rechner mit Beispiel`);
+  // Verzeichnisseiten: eingebetteter Rechner ohne Beispiel
+  assert.doesNotMatch(readFileSync(pub("landscape-supply/tx/katy/index.html"), "utf8"), /beispiel-ergebnis/);
+});
+
+test("erster Flächen-Abschnitt steht schon im HTML (kein Nachladen nötig, kein Springen)", () => {
+  for (const p of ["/", "/mulch-calculator/", "/potting-soil-calculator/"]) {
+    const html = seite(p);
+    const abschnitte = html.split('id="abschnitte">')[1].split('id="abschnitt-neu"')[0];
+    assert.match(abschnitte, /<input type="number"[^>]*data-k="(length|diameter)"/, p);
+    assert.match(abschnitte, /type="radio"[^>]*checked/, p);
+  }
+});
+
+test("Inhaltsverzeichnis: jede Sprungmarke existiert, ids sind eindeutig", () => {
+  let mitToc = 0;
+  for (const s of SEITEN) {
+    const html = seite(s.pfad);
+    const ids = [...html.matchAll(/ id="([^"]+)"/g)].map((m) => m[1]);
+    assert.equal(new Set(ids).size, ids.length, `${s.pfad}: doppelte id ${ids.find((x, i) => ids.indexOf(x) !== i)}`);
+    const toc = html.split('<nav class="toc"')[1]?.split("</nav>")[0];
+    if (!toc) continue;
+    mitToc++;
+    const ziele = [...toc.matchAll(/href="#([^"]+)"/g)].map((m) => m[1]);
+    assert.ok(ziele.length >= 3, s.pfad);
+    for (const z of ziele) assert.ok(ids.includes(z), `${s.pfad}: #${z} fehlt`);
+    // jede H2 im Text hat eine id
+    const inhalt = html.split('<article class="inhalt')[1].split("</article>")[0];
+    assert.doesNotMatch(inhalt, /<h2>/, `${s.pfad}: H2 ohne id`);
+  }
+  assert.ok(mitToc >= RECHNERSEITEN.length, `${mitToc} Seiten mit Inhaltsverzeichnis`);
+});
+
+test("Bilder: Datei vorhanden, Alt-Text und Maße gesetzt; Diagramm zeigt die Werte aus core.js", () => {
+  let bilder = 0;
+  for (const s of SEITEN) {
+    for (const [tag] of seite(s.pfad).matchAll(/<img [^>]+>/g)) {
+      const src = tag.match(/src="([^"]+)"/)[1];
+      if (!src.startsWith("/assets/img/")) continue;
+      bilder++;
+      assert.ok(existsSync(pub(src.slice(1))), `${s.pfad}: ${src} fehlt`);
+      assert.match(tag, /alt="[^"]{30,}"/, `${s.pfad}: Alt-Text`);
+      assert.match(tag, /width="\d+" height="\d+"/, `${s.pfad}: Maße (sonst springt das Layout)`);
+    }
+  }
+  assert.ok(bilder >= 15, `${bilder} Bilder`);
+  const svg = readFileSync(pub("assets/img/coverage-mulch-calculator.svg"), "utf8");
+  for (const d of [2, 3, 4]) assert.ok(svg.includes(`${Math.round(coverage({ cy: 1, depthIn: d }))} sq ft`), `${d} in`);
+  assert.match(seite("/cubic-yard-calculator/"), /src="\/assets\/img\/cubic-yard\.svg"/);
+});
+
+test("Kopf: Kopfbild früh angefordert (LCP), Skripte nicht vorgeladen, Bildvorschau erlaubt, Sprunglink zum Inhalt", () => {
+  for (const p of ["/", "/mulch-calculator/", "/guides/how-much-does-mulch-weigh/"]) {
+    const kopf = seite(p).split("</head>")[0];
+    assert.match(kopf, /<link rel="preload" href="\/assets\/schichten\.svg" as="image" fetchpriority="high">/, p);
+    // vorgeladene Skripte laufen vor dem ersten Bildaufbau und verzögern ihn (gemessen) – darum keine
+    assert.doesNotMatch(kopf, /modulepreload/, p);
+    assert.match(kopf, /<meta name="robots" content="max-image-preview:large">/, p);
+    assert.match(seite(p), /<a class="sprung-inhalt" href="#main">/, p);
+    assert.match(seite(p), /<main id="main">/, p);
+  }
+  // das vorgeladene Bild ist genau das, das die Kopffläche im CSS verwendet (sonst doppelter Abruf)
+  assert.match(readFileSync(pub("assets/style.css"), "utf8"), /\.held \{ background: url\("\/assets\/schichten\.svg"\)/);
+  assert.match(seite("/imprint/"), /<meta name="robots" content="noindex, follow">/);
+  // Google Tag wartet auf das Ende des Ladens
+  assert.match(readFileSync(pub("assets/messung.js"), "utf8"), /addEventListener\('load', spaeter/);
+});
+
+test("Kennzahlen im Kopf stimmen mit Materialdaten und core.js überein", () => {
+  const fakten = (p) => [...seite(p).split('<dl class="fakten">')[1].split("</dl>")[0].matchAll(/<dt>([^<]+)<\/dt><dd><strong>([^<]+)<\/strong> <span>([^<]+)<\/span>/g)].map((m) => m.slice(1));
+  assert.deepEqual(fakten("/mulch-calculator/"), [["1 cubic yard covers", "108 sq ft", "at 3 in deep"], ["1 cubic yard equals", "13.5 bags", "of 2 cu ft"], ["1 cubic yard weighs", "≈ 0.3 tons", "about 600 lb"]]);
+  const stein = MATERIAL.find((m) => m.id === "crushed-stone-57");
+  assert.deepEqual(fakten("/stone-calculator/")[0], ["1 ton covers", `${Math.round(coverage({ cy: 1 / stein.density_tons_per_cy, depthIn: 3 }))} sq ft`, "at 3 in deep"]);
+  assert.equal(fakten("/cubic-yard-calculator/")[0][1], "27 cu ft");
+  for (const s of RECHNERSEITEN) assert.equal(fakten(s.pfad).length, 3, s.pfad);
+});
+
+test("Topf-Rechner: Maße in Zoll, Ergebnis in Kubikfuß und Quarts, Tabelle nach Topfgröße", () => {
+  const html = seite("/potting-soil-calculator/");
+  const cfg = JSON.parse(html.match(/data-cfg='([^']+)'/)[1].replace(/&quot;/g, '"'));
+  assert.equal(cfg.zoll, true);
+  assert.deepEqual(cfg.beispiel, { shape: "circle", dims: { diameter: 14 }, tiefe: 12 });
+  // 14 in × 12 in: π × 7² × 12 ÷ 1728 = 1,07 Kubikfuß = 27 Quarts
+  const cuFt = (Math.PI * 49 * 12) / 1728;
+  const box = html.split('id="ergebnis"')[1].split("</section>")[0];
+  assert.ok(box.includes(`<span>${cuFt.toFixed(2)}</span> cubic feet`), "Beispiel in Kubikfuß");
+  assert.ok(box.includes(`${Math.round(cuFt * 25.714)} dry quarts`), "Beispiel in Quarts");
+  // Tabelle: 12-Zoll-Topf, 10 Zoll tief, gerade 0,65 Kubikfuß, konisch 20 % weniger
+  const zwoelf = (Math.PI * 36 * 10) / 1728;
+  assert.ok(html.includes(`<td>12 in</td><td>10 in</td><td>${zwoelf.toFixed(2)} cu ft (${Math.round(zwoelf * 25.714)} qt)</td><td>${(zwoelf * 0.8).toFixed(2)} cu ft (${Math.round(zwoelf * 0.8 * 25.714)} qt)</td>`));
+  // Felder, die für Töpfe keinen Sinn ergeben, sind ausgeblendet
+  assert.match(html, /<label hidden>Project/);
+  assert.match(html, /<label hidden>\$ per ton/);
+  assert.match(readFileSync(pub("assets/formen.js"), "utf8"), /Round pot/);
+});
+
+test("Zahlen in den Texten der neuen Rechner passen zu den Materialdaten", () => {
+  const t = (id, sqft, tiefe) => (sqft * tiefe / 324) * MATERIAL.find((m) => m.id === id).density_tons_per_cy;
+  // Stein und Kalkstein: 100 sq ft bei 2/3/4 in ≈ 0,9 / 1,3 / 1,7 Tonnen
+  for (const id of ["crushed-stone-57", "crushed-limestone"]) assert.deepEqual([2, 3, 4].map((d) => +t(id, 100, d).toFixed(1)), [0.9, 1.3, 1.7], id);
+  // Crusher run: 20 × 12 ft bei 4 in = 2,96 cu yd ≈ 4,6 t lose, mit 5 % + 15 % ≈ 5,5 t; Einfahrt 600 sq ft ≈ 11,5 t lose
+  const cr = MATERIAL.find((m) => m.id === "crusher-run");
+  const pad = calculate({ sqft: 240, depthIn: 4, material: cr });
+  assert.equal(+(t("crusher-run", 240, 4)).toFixed(1), 4.6);
+  assert.equal(+pad.tons.toFixed(1), 5.5);
+  assert.equal(+(t("crusher-run", 600, 4)).toFixed(1), 11.5);
+  assert.equal(calculate({ sqft: 600, depthIn: 4, material: cr }).orderTons, 14);
+  // Erde: 12 × 8 ft bei 6 in = 48 Kubikfuß
+  assert.equal(96 * 6 / 12, 48);
+  // Lavagestein: eine Tonne deckt etwa doppelt so viel wie normales Gestein
+  const lava = MATERIAL.find((m) => m.id === "lava-rock"), rock = MATERIAL.find((m) => m.id === "landscape-rock");
+  assert.ok(rock.density_tons_per_cy / lava.density_tons_per_cy >= 2);
+});
+
+test("Fußzeile: jede Rechner- und Ratgeberseite mit kurzem Namen verlinkt, in Spalten", () => {
+  const fuss = readFileSync(pub("landscape-supply/index.html"), "utf8").split('<footer class="fuss">')[1];
+  for (const s of SEITEN.filter((x) => (x.art === "rechner" || x.art === "umrechner" || x.art === "ratgeber") && x.pfad !== "/")) {
+    const link = fuss.match(new RegExp(`<a href="${s.pfad}">([^<]+)</a>`));
+    assert.ok(link, `Fußzeile verlinkt ${s.pfad}`);
+    assert.ok(link[1].length <= 40, `${s.pfad}: Linktext zu lang (${link[1]})`);
+  }
+  assert.equal((fuss.match(/class="fuss-titel"/g) || []).length, 4);
+  for (const p of ["/landscape-supply/", "/landscape-supply/gravel-pits/", "/add-your-yard/", "/about/", "/imprint/", "/privacy/"]) assert.ok(fuss.includes(`href="${p}"`), p);
+});
+
+test("Startseite: Rechner nach Material, Yard-Suche und Ratgeber; allgemeine statt Mulch-Überschriften", () => {
+  const html = seite("/");
+  for (const s of SEITEN.filter((x) => (x.art === "rechner" || x.art === "umrechner") && x.pfad !== "/")) assert.ok(html.split("<footer")[0].includes(`href="${s.pfad}"`), s.pfad);
+  assert.match(html, /<form class="finder" action="\/landscape-supply\/" method="get" role="search">/);
+  assert.match(html, /name="q"/);
+  assert.doesNotMatch(html, /yard of shredded hardwood mulch (cover|weigh)/);
+  assert.match(html, /<h2 id="[^"]+">How many square feet does a cubic yard cover\?<\/h2>/);
+});
+
+test("Ratgeber: Article mit datePublished und dateModified", () => {
+  const ld = JSON.parse(seite("/guides/how-much-does-mulch-weigh/").match(/<script type="application\/ld\+json">(.+?)<\/script>/s)[1]);
+  const artikel = ld.find((x) => x["@type"] === "Article");
+  assert.match(artikel.datePublished, /^\d{4}-\d{2}-\d{2}$/);
+  assert.ok(artikel.dateModified >= artikel.datePublished);
+});
