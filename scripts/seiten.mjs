@@ -9,7 +9,10 @@
 //   bloecke (Tabellen aus build.mjs, Standard: ['deckung', 'gewicht']), inhalt (HTML), faq ([Frage, Antwort]),
 //   verwandt (Pfade für „Related“), stand (JJJJ-MM, wann der Inhalt zuletzt geprüft wurde),
 //   stoff (Suchbegriff fürs Material in Tabellen-Überschriften, z. B. 'mulch'), ue ({ block: 'Überschrift' } überschreibt sie),
-//   quellen ([Titel, URL] für Preis- und Fachangaben).
+//   quellen ([Titel, URL] für Preis- und Fachangaben),
+//   deckungTiefen / tonnenTiefen (Zoll-Werte für die Tabellen und das Diagramm statt der Tiefen des Materials),
+//   zoll (Töpfe: Maße in Zoll, Ergebnis in Kubikfuß und Quarts), fakten ([Titel, Zahl, Zusatz] für die drei Kennzahlen im Kopf),
+//   kachel (Kurzname für Kacheln und Fußzeile, sonst H1 bis zum Doppelpunkt).
 //   Keyword-Zuordnung je Seite: Projekt-Dokument claude/keywords-pro-rechner.md.
 
 export const STAND = '2026-11';
@@ -64,6 +67,9 @@ export const SEITEN = [
     intro: 'Find out how many cubic yards, tons or bags you need – and what it will cost – for beds, paths, driveways and lawns.',
     kurz: 'Any material',
     material: 'hardwood-mulch',
+    stoff: 'material',
+    ue: { deckung: 'How many square feet does a cubic yard cover?', gewicht: 'Weight per cubic yard by material' },
+    deckungTiefen: [1, 2, 3, 4, 6, 12],
     beispiel: { laenge: 20, breite: 10, tiefe: 3 },
     inhalt: `${MESSEN}
 <h2>Recommended depths by project</h2>
@@ -146,7 +152,7 @@ ${FORMEL}`,
     kategorien: ['gravel', 'sand'],
     beispiel: { laenge: 30, breite: 4, tiefe: 3 },
     bloecke: ['deckung', 'tonneDeckung', 'gewicht'],
-    verwandt: ['/guides/how-much-does-gravel-weigh/', '/tons-to-cubic-yards/', '/guides/dump-truck-load-of-gravel/'],
+    verwandt: ['/stone-calculator/', '/guides/how-much-does-gravel-weigh/', '/tons-to-cubic-yards/', '/guides/dump-truck-load-of-gravel/'],
     inhalt: `${MESSEN}
 <h2>How much gravel do I need?</h2>
 <p>Work out cubic yards first: <strong>length × width (ft) × depth (in) ÷ 324</strong>. Then multiply by the weight of your gravel – about 1.4 tons per cubic yard for pea gravel and #57 crushed stone. A 30 × 4 ft garden path at 3 inches is 1.1 cubic yards, or roughly 1.6 tons before extra.</p>
@@ -174,6 +180,93 @@ ${FORMEL}`,
     quellen: [Q.gesteinThisOldHouse, Q.erbsenkiesHomeguide, Q.flusskiesHomeguide, Q.erbsenkiesAngi],
   },
   {
+    pfad: '/soil-calculator/',
+    art: 'rechner',
+    nav: 'Soil',
+    imMenue: true,
+    title: 'Soil Calculator – How Much Soil Do I Need? (Yards & Bags)',
+    description: 'Free soil calculator: enter your beds or lawn area and depth to get cubic yards, cubic feet and bags of garden soil or topsoil – plus weight and coverage.',
+    h1: 'Soil Calculator: How Much Soil Do You Need?',
+    intro: 'Enter the area and depth of your beds, lawn or planters to see how much soil to order – in cubic yards for bulk and in cubic feet and bags for the store.',
+    kurz: 'Garden soil in yards & bags',
+    material: 'garden-soil',
+    tiefe: 6,
+    stoff: 'soil',
+    kategorien: ['soil'],
+    deckungTiefen: [1, 2, 3, 4, 6, 12],
+    beispiel: { laenge: 12, breite: 8, tiefe: 6 },
+    bloecke: ['deckung', 'saecke', 'gewicht'],
+    verwandt: ['/topsoil-calculator/', '/raised-bed-soil-calculator/', '/potting-soil-calculator/', '/compost-calculator/'],
+    inhalt: `${MESSEN}
+<h2>How much soil do I need?</h2>
+<p>Multiply the area in square feet by the depth in inches and divide by 324 – that gives cubic yards. Multiply by 27 for cubic feet, which is what bagged soil is labeled in. A 12 × 8 ft bed (96 sq ft) filled 6 inches deep needs 48 cubic feet, or about 1.8 cubic yards. Soil settles once it is watered in, so the calculator adds 10 % unless you change it under “Options”.</p>
+<p>Know the area already? Choose “Known area” and type in the square feet. For several beds, add each one as its own area – the calculator totals them.</p>
+<h2>Which soil for which job?</h2>
+<table><thead><tr><th>Job</th><th>Soil to order</th><th>Typical depth</th></tr></thead><tbody>
+<tr><td>New lawn or sod</td><td><a href="/topsoil-calculator/">Screened topsoil</a></td><td>4–6 in</td></tr>
+<tr><td>Leveling low spots in a lawn</td><td>Topsoil or a topsoil–sand mix</td><td>¼–½ in per pass</td></tr>
+<tr><td>Raised beds</td><td><a href="/raised-bed-soil-calculator/">Raised bed / garden soil mix</a></td><td>Full bed height, 6–24 in</td></tr>
+<tr><td>In-ground vegetable and flower beds</td><td>Garden soil, or <a href="/compost-calculator/">2–3 in of compost</a> worked in</td><td>6–12 in of good soil</td></tr>
+<tr><td>Pots, planters and grow bags</td><td><a href="/potting-soil-calculator/">Potting mix</a></td><td>Height of the pot</td></tr>
+<tr><td>Filling holes, raising the grade</td><td><a href="/fill-dirt-calculator/">Fill dirt</a>, capped with topsoil</td><td>As needed</td></tr>
+</tbody></table>
+<h2>Cubic yards, cubic feet or bags of soil?</h2>
+<p>Bulk soil from a landscape supply yard is sold by the cubic yard; bagged soil is sold by the cubic foot (most often 0.75, 1, 1.5 or 2 cu ft) or in dry quarts. One cubic yard is 27 cubic feet. As a rule of thumb, bags are fine up to about half a cubic yard – roughly 14 bags of 1 cu ft. Beyond a yard or two, a bulk delivery usually costs far less per cubic foot, and nobody has to carry 40 bags.</p>
+<h2>How much does soil weigh?</h2>
+<p>Garden soil mixes weigh roughly 0.8–1.2 tons per cubic yard and screened topsoil 1.0–1.3 tons; both get heavier when wet. A half-ton pickup can usually carry about half to three quarters of a cubic yard of soil per trip – the calculator shows the number of trips for your amount.</p>`,
+    faq: [
+      ['How do I calculate how much soil I need?', 'Multiply length × width in feet to get square feet, multiply by the depth in inches and divide by 324 for cubic yards – or divide by 12 for cubic feet. Example: 100 sq ft at 6 inches is 50 cubic feet, about 1.85 cubic yards.'],
+      ['How many bags of soil are in a cubic yard?', 'A cubic yard is 27 cubic feet: 36 bags of 0.75 cu ft, 27 bags of 1 cu ft, 18 bags of 1.5 cu ft or 13.5 bags of 2 cu ft.'],
+      ['How much soil do I need for a 4 × 8 raised bed?', 'A 4 × 8 ft bed that is 12 inches deep holds 32 cubic feet, about 1.2 cubic yards – for example 22 bags of 1.5 cu ft. At 6 inches deep it is half that.'],
+      ['How much area does a cubic yard of soil cover?', '324 sq ft at 1 inch, 162 sq ft at 2 inches, 81 sq ft at 4 inches and 54 sq ft at 6 inches.'],
+      ['How much does a cubic yard of soil weigh?', 'About 0.8–1.2 tons (1,600–2,400 lb) for a garden soil mix and 1.0–1.3 tons for topsoil. Wet soil weighs more.'],
+    ],
+  },
+  {
+    pfad: '/stone-calculator/',
+    art: 'rechner',
+    nav: 'Stone',
+    imMenue: true,
+    title: 'Stone Calculator – How Much Stone Do I Need? (Tons & Yards)',
+    description: 'Free stone calculator: enter your area and depth to get tons and cubic yards of crushed stone, gravel or decorative stone – with coverage per ton by depth.',
+    h1: 'Stone Calculator: How Much Stone Do You Need?',
+    intro: 'Stone is sold by the ton. Enter your area and depth to see tons and cubic yards for crushed stone, base material or decorative stone – and how far a ton goes.',
+    kurz: 'Any stone in tons & yards',
+    material: 'crushed-stone-57',
+    tiefe: 3,
+    stoff: 'stone',
+    kategorien: ['gravel'],
+    deckungTiefen: [2, 3, 4, 6],
+    beispiel: { laenge: 20, breite: 10, tiefe: 3 },
+    bloecke: ['tonneDeckung', 'deckung', 'gewicht'],
+    verwandt: ['/crushed-stone-calculator/', '/crusher-run-calculator/', '/limestone-calculator/', '/gravel-calculator/'],
+    inhalt: `${MESSEN}
+<h2>How much stone do I need?</h2>
+<p>Measure the area in square feet, multiply by the depth in inches and divide by 324 to get cubic yards. Stone is sold by weight, so multiply the cubic yards by about 1.4 to get tons. A 20 × 10 ft area at 3 inches needs 1.85 cubic yards – about 2.6 tons. Add 10 % for uneven ground and spillage; the calculator does that for you and rounds up to the half ton your yard will load.</p>
+<p>Quick check without a calculator: at 3 inches deep, 100 square feet takes about 1.3 tons of stone; at 2 inches about 0.9 tons; at 4 inches about 1.7 tons.</p>
+<h2>Which stone for which job?</h2>
+<table><thead><tr><th>Job</th><th>Stone</th><th>Depth</th></tr></thead><tbody>
+<tr><td>Driveway base</td><td><a href="/crusher-run-calculator/">Crusher run</a> (stone with fines)</td><td>4–8 in, compacted</td></tr>
+<tr><td>Driveway top layer</td><td><a href="/driveway-gravel-calculator/">#57 crushed stone</a>, ¾–1 in</td><td>2–4 in</td></tr>
+<tr><td>Drainage, French drains, behind walls</td><td><a href="/crushed-stone-calculator/">Clean #57 stone</a> without fines</td><td>4 in or more</td></tr>
+<tr><td>Paver or patio base</td><td>Crusher run, then <a href="/paver-sand-calculator/">1 in of bedding sand</a></td><td>4–6 in</td></tr>
+<tr><td>Walkways and garden paths</td><td><a href="/pea-gravel-calculator/">Pea gravel</a> or ⅜ in stone</td><td>2–3 in</td></tr>
+<tr><td>Beds and borders</td><td><a href="/river-rock-calculator/">River rock</a> or <a href="/landscape-rock-calculator/">decorative rock</a>, 1–3 in</td><td>2–4 in</td></tr>
+<tr><td>White or gray stone</td><td><a href="/limestone-calculator/">Crushed limestone</a></td><td>2–6 in</td></tr>
+</tbody></table>
+<h2>Tons or cubic yards of stone?</h2>
+<p>Quarries and most landscape supply yards weigh stone on a truck scale and sell it by the ton; some yards sell by the cubic yard or “scoop”. One cubic yard of clean crushed stone weighs about 1.35–1.5 tons, dense base material with fines up to 1.7 tons, and lightweight lava rock only 0.5–0.75 tons. If your yard tells you their weight per cubic yard, the <a href="/tons-to-cubic-yards/">cubic yards to tons calculator</a> gives you the exact conversion.</p>
+<h2>How deep should stone be?</h2>
+<p>A layer should be at least twice as deep as the largest stones: 2 inches for ⅜ inch stone, 3–4 inches for ¾–1 inch stone and 4 inches or more for 1–3 inch stone. Driveways and bases need more because they carry weight: 4–8 inches of compacted base under 2–4 inches of top stone.</p>`,
+    faq: [
+      ['How many tons of stone do I need?', 'Square feet × depth in inches ÷ 324 × 1.4 = tons. For 100 sq ft that is about 0.9 tons at 2 inches, 1.3 tons at 3 inches and 1.7 tons at 4 inches, before 10 % extra.'],
+      ['How much area does a ton of stone cover?', 'About 116 sq ft at 2 inches deep, 77 sq ft at 3 inches and 58 sq ft at 4 inches, for stone that weighs 1.4 tons per cubic yard.'],
+      ['How much does a cubic yard of stone weigh?', 'Clean crushed stone such as #57 weighs about 1.35–1.5 tons (2,700–3,000 lb) per cubic yard. Crusher run with fines weighs 1.5–1.7 tons, river rock 1.3–1.5 tons.'],
+      ['How many cubic yards are in a ton of stone?', 'About 0.71 cubic yards (19 cubic feet) for stone at 1.4 tons per cubic yard.'],
+      ['How much stone fits in a pickup truck?', 'A half-ton pickup can carry roughly half a cubic yard of stone (about 1,500 lb) per trip. For more than 2–3 tons, delivery is usually easier.'],
+    ],
+  },
+  {
     pfad: '/topsoil-calculator/',
     art: 'rechner',
     nav: 'Topsoil',
@@ -188,7 +281,7 @@ ${FORMEL}`,
     ue: { deckung: 'Topsoil coverage: how far does a cubic yard go?' },
     kategorien: ['soil'],
     beispiel: { laenge: 30, breite: 20, tiefe: 4 },
-    verwandt: ['/dirt-calculator/', '/raised-bed-soil-calculator/', '/fill-dirt-calculator/'],
+    verwandt: ['/soil-calculator/', '/dirt-calculator/', '/raised-bed-soil-calculator/', '/fill-dirt-calculator/'],
     inhalt: `${MESSEN}
 <h2>How much topsoil do I need?</h2>
 <p>Multiply the square feet by the depth in inches and divide by 324 to get cubic yards. A 1,000 sq ft lawn area at 4 inches needs about 12.3 cubic yards; a 2-inch layer for overseeding a thin lawn needs about 6.2. If you already know the area in square feet, choose “Known area” as the shape and type it in.</p>
@@ -250,7 +343,7 @@ ${FORMEL}`,
     pfad: '/river-rock-calculator/',
     art: 'rechner',
     nav: 'River rock',
-    imMenue: true,
+    imMenue: false,
     title: 'River Rock Calculator – How Much River Stone Do I Need?',
     description: 'River rock and stone calculator: tons and cubic yards of river rock for beds, borders and dry creek beds, with coverage per ton for 1–3 inch and larger stone.',
     h1: 'River Rock & Stone Calculator',
@@ -287,7 +380,7 @@ ${FORMEL}`,
     pfad: '/driveway-gravel-calculator/',
     art: 'rechner',
     nav: 'Driveway',
-    imMenue: true,
+    imMenue: false,
     title: 'Driveway Gravel Calculator – Tons & Cost of a Gravel Drive',
     description: 'How much gravel do I need for my driveway? Calculate tons of crusher run base and #57 top stone for a new gravel drive or resurfacing, plus typical costs.',
     h1: 'Driveway Gravel Calculator',
@@ -300,7 +393,7 @@ ${FORMEL}`,
     kategorien: ['gravel'],
     beispiel: { laenge: 50, breite: 12, tiefe: 4 },
     bloecke: ['einfahrt', 'deckung', 'gewicht'],
-    verwandt: ['/crushed-stone-calculator/', '/guides/dump-truck-load-of-gravel/', '/tons-to-cubic-yards/'],
+    verwandt: ['/crusher-run-calculator/', '/crushed-stone-calculator/', '/guides/dump-truck-load-of-gravel/', '/tons-to-cubic-yards/'],
     inhalt: `<h2>How much gravel do I need for my driveway?</h2>
 <p>Calculate each layer separately: length × width (ft) × depth (in) ÷ 324 gives cubic yards; multiply by the stone’s weight to get tons. A new 50 × 12 ft driveway with 6 inches of crusher run and 3 inches of #57 stone on top needs about 17 tons of base and 8 tons of top stone – before the extra for compaction.</p>
 <p>Resurfacing an existing driveway is far less: 2 inches of fresh stone on the same driveway is about 5 tons.</p>
@@ -334,6 +427,7 @@ ${FORMEL}`,
     inhalt: `${MESSEN}
 <h2>How to calculate cubic yards</h2>
 <p><strong>Cubic yards = length (ft) × width (ft) × depth (in) ÷ 12 ÷ 27.</strong> Dividing by 12 turns the depth into feet; dividing by 27 turns cubic feet into cubic yards, because one cubic yard is 3 ft × 3 ft × 3 ft. A 12 × 12 ft area at 4 inches is 48 cubic feet, or 1.78 cubic yards.</p>
+<!--wuerfel-->
 <h2>Square feet to cubic yards</h2>
 <p>If you already know the area, pick “Known area” as the shape and type the square feet. Quick rule: <strong>square feet × depth in inches ÷ 324 = cubic yards</strong>. 500 sq ft at 2 inches is 3.1 cubic yards.</p>
 <h2>Cubic feet to cubic yards</h2>
@@ -484,7 +578,7 @@ ${FORMEL}`,
     ue: { gewicht: 'Weight of paver sand and base gravel per yard' },
     kategorien: ['sand', 'gravel'],
     beispiel: { laenge: 16, breite: 12, tiefe: 1 },
-    verwandt: ['/sand-calculator/', '/crushed-stone-calculator/', '/driveway-gravel-calculator/'],
+    verwandt: ['/sand-calculator/', '/crusher-run-calculator/', '/crushed-stone-calculator/', '/driveway-gravel-calculator/'],
     inhalt: `${MESSEN}
 <h2>How much sand do I need for pavers?</h2>
 <p>At the usual 1 inch, square feet ÷ 324 = cubic yards of bedding sand. A 12 × 16 ft patio (192 sq ft) needs about 0.6 cubic yards – roughly 0.8 tons or 32 bags of 0.5 cu ft. Screed it level; don’t compact the sand before the pavers go down.</p>
@@ -523,7 +617,7 @@ ${FORMEL}`,
     kategorien: ['soil'],
     beispiel: { laenge: 8, breite: 4, tiefe: 12 },
     bloecke: ['beete', 'saecke', 'gewicht'],
-    verwandt: ['/topsoil-calculator/', '/dirt-calculator/', '/mulch-calculator/'],
+    verwandt: ['/soil-calculator/', '/potting-soil-calculator/', '/topsoil-calculator/', '/compost-calculator/'],
     inhalt: `<h2>How to measure raised beds</h2>
 <ul>
   <li>Measure the <strong>inside</strong> length and width of each bed in feet.</li>
@@ -541,6 +635,45 @@ ${FORMEL}`,
       ['How much soil do I need for a 4 × 8 raised bed?', 'At 12 inches deep, about 32 cubic feet or 1.2 cubic yards; at 10 inches about 27 cubic feet (1 cubic yard).'],
       ['How many bags of soil fill a raised bed?', 'Divide the bed volume in cubic feet by the bag size. A 4 × 8 × 1 ft bed needs about 22 bags of 1.5 cu ft or 32 bags of 1 cu ft.'],
       ['Does raised bed soil settle?', 'Yes, mixes with compost settle 10–20 % in the first weeks. The calculator adds 10 % extra by default.'],
+    ],
+  },
+  {
+    pfad: '/potting-soil-calculator/',
+    art: 'rechner',
+    nav: 'Potting soil',
+    imMenue: false,
+    title: 'Potting Soil Calculator – Soil for Pots & Planters (Quarts)',
+    description: 'Potting soil calculator: enter the pot diameter or planter size in inches to get cubic feet, dry quarts, liters and the number of bags of potting mix.',
+    h1: 'Potting Soil Calculator: How Much Soil for Pots & Planters?',
+    intro: 'Enter the size of your pots, planters or grow bags in inches and see how much potting mix they hold – in cubic feet, dry quarts, liters and bags.',
+    kurz: 'Pots, planters, grow bags',
+    material: 'potting-mix',
+    zoll: true,
+    form: 'circle',
+    tiefe: 12,
+    stoff: 'potting soil',
+    beispiel: { durchmesser: 14, tiefe: 12 },
+    fakten: [['1 cubic foot equals', '25.7 quarts', 'dry quarts'], ['A 12 in pot holds', '≈ 14 quarts', 'tapered, 10 in deep'], ['A 2 cu ft bag fills', '3–4 pots', 'of 12 in']],
+    bloecke: ['toepfe'],
+    verwandt: ['/soil-calculator/', '/raised-bed-soil-calculator/', '/compost-calculator/'],
+    inhalt: `<h2>How much potting soil do I need?</h2>
+<p>For a round pot, multiply 3.14 × radius × radius × soil depth (all in inches) and divide by 1,728 to get cubic feet. A 14-inch pot filled 12 inches deep works out to about 1.07 cubic feet, or 27 dry quarts. For a rectangular planter, multiply length × width × depth in inches and divide by 1,728.</p>
+<p>Most pots are narrower at the bottom than at the rim, so they hold about 20 % less than this straight-sided figure. Potting mix also settles by roughly that much after the first few waterings – so the straight-sided number is a good amount to buy. Fill to about an inch below the rim so water doesn’t run off.</p>
+<h2>Quarts, cubic feet and liters on the bag</h2>
+<p>Potting mix is labeled in dry quarts, cubic feet or liters, depending on the brand. <strong>1 cubic foot = 25.7 dry quarts = 28.3 liters.</strong> Common bag sizes: 8 qt (0.31 cu ft), 16 qt (0.62 cu ft), 1 cu ft (25.7 qt), 1.5 cu ft (38.6 qt) and 2 cu ft (51.4 qt). The calculator shows all three units; pick your bag size under “Options” to get the number of bags.</p>
+<h2>Potting mix, garden soil or topsoil?</h2>
+<ul>
+  <li><strong>Potting mix</strong> is a light, soilless blend of peat or coir, bark and perlite. It drains well and is the right choice for pots, planters, hanging baskets and grow bags.</li>
+  <li><strong>Garden soil and raised bed mix</strong> are heavier blends of topsoil and compost for in-ground and raised beds. Use the <a href="/raised-bed-soil-calculator/">raised bed soil calculator</a>.</li>
+  <li><strong>Topsoil</strong> packs down in containers and drains poorly, so keep it for lawns and beds. Use the <a href="/topsoil-calculator/">topsoil calculator</a>.</li>
+</ul>
+<p>Filling many large planters? From about 10–15 cubic feet (roughly half a cubic yard), ask a <a href="/landscape-supply/">landscape supply yard</a> for bulk container mix – it is usually much cheaper than bags.</p>`,
+    faq: [
+      ['How many quarts of potting soil are in a cubic foot?', 'About 25.7 dry quarts. So a 2 cu ft bag holds about 51 quarts and an 8-quart bag about 0.31 cubic feet.'],
+      ['How much potting soil do I need for a 12-inch pot?', 'A typical tapered 12-inch pot holds about 13–16 dry quarts (roughly 0.5–0.6 cubic feet). One 16-quart bag fills it.'],
+      ['How much potting soil for a 5-gallon bucket or grow bag?', 'A 5-gallon container holds about 0.67 cubic feet – roughly 17 dry quarts or 19 liters.'],
+      ['How many pots does a 2 cubic foot bag fill?', 'About 6 pots of 10 inches, 3–4 pots of 12 inches or one to two 16-inch pots – for tapered pots filled to an inch below the rim.'],
+      ['Can I use the calculator for window boxes and planter boxes?', 'Yes – choose “Planter box” and enter the inside length, width and soil depth in inches. A 36 × 8 inch window box filled 7 inches deep needs about 1.2 cubic feet (30 quarts).'],
     ],
   },
   {
@@ -585,9 +718,9 @@ ${FORMEL}`,
     art: 'rechner',
     nav: 'Landscape rock',
     imMenue: false,
-    title: 'Landscape Rock Calculator – Tons & Coverage',
-    description: 'Landscape rock calculator: how many tons and cubic yards of decorative rock you need for beds and xeriscaping, with coverage per ton and per square foot.',
-    h1: 'Landscape Rock Calculator',
+    title: 'Landscape Rock Calculator – How Much Rock Do I Need? (Tons)',
+    description: 'Rock calculator for landscaping: tons, cubic yards and bags of decorative rock, river rock or lava rock for your beds – with coverage per ton by rock size.',
+    h1: 'Landscape Rock Calculator: How Much Rock Do You Need?',
     intro: 'Decorative rock is sold by the ton. Enter the bed size and depth to see tons, cubic yards and how much area each ton covers.',
     kurz: 'Decorative rock in tons',
     material: 'landscape-rock',
@@ -602,9 +735,20 @@ ${FORMEL}`,
 <p>Square feet × depth in inches ÷ 324 gives cubic yards; multiply by about 1.35 for tons. A 20 × 8 ft bed (160 sq ft) at 3 inches needs about 1.5 cubic yards, or 2 tons. Per 100 square feet, plan on about 1.3 tons at 3 inches.</p>
 <h2>How deep should landscape rock be?</h2>
 <p>Make the layer about twice as deep as the stones are wide: 2–3 inches for ¾–1 inch rock, 3–4 inches for 1–3 inch rock. Put landscape fabric underneath so the rock doesn’t sink into the soil and weeds stay down.</p>
+<h2>Rock size, depth and coverage per ton</h2>
+<table><thead><tr><th>Rock size</th><th>Depth to plan</th><th>1 ton covers about</th></tr></thead><tbody>
+<tr><td>⅜ in (pea size)</td><td>2 in</td><td>120 sq ft</td></tr>
+<tr><td>¾–1 in</td><td>2–3 in</td><td>80–120 sq ft</td></tr>
+<tr><td>1–3 in</td><td>3–4 in</td><td>60–80 sq ft</td></tr>
+<tr><td>3–5 in cobble</td><td>5–6 in</td><td>40–50 sq ft</td></tr>
+<tr><td>Lava rock, ¾–1½ in</td><td>2–3 in</td><td>180–270 sq ft</td></tr>
+</tbody></table>
+<p>Bigger rock needs a deeper layer to hide the ground, so a ton covers less. For rounded stone see the <a href="/river-rock-calculator/">river rock calculator</a>, for small rounded gravel the <a href="/pea-gravel-calculator/">pea gravel calculator</a>.</p>
 <h2>Lava rock is lighter</h2>
-<p>Lava rock weighs only about 0.5–0.75 tons per cubic yard, so a ton covers roughly twice the area of regular rock. If you order lava rock, enter your supplier’s weight under “Options” or use the cubic yard figure.</p>`,
+<p>Lava rock weighs only about 0.5–0.75 tons per cubic yard, so a ton covers roughly twice the area of regular rock. Pick “Lava rock” in the material list – it is usually sold by the cubic yard or in 0.5 cu ft bags.</p>`,
     faq: [
+      ['How much rock do I need?', 'Square feet × depth in inches ÷ 324 = cubic yards; × 1.35 = tons. A 200 sq ft bed at 3 inches needs about 1.85 cubic yards or 2.5 tons, plus about 10 % extra.'],
+      ['How many bags of rock do I need?', 'Most bagged rock comes in 0.5 cu ft bags, 54 to a cubic yard. 100 sq ft at 2 inches deep takes about 34 bags.'],
       ['How much area does a ton of landscape rock cover?', 'At 2 inches about 120 sq ft, at 3 inches about 80 sq ft, at 4 inches about 60 sq ft.'],
       ['How many tons of rock do I need for 100 square feet?', 'At 3 inches, about 1.3 tons. At 2 inches, a little under 1 ton.'],
     ],
@@ -625,7 +769,7 @@ ${FORMEL}`,
     kategorien: ['gravel'],
     beispiel: { laenge: 20, breite: 12, tiefe: 4 },
     bloecke: ['deckung', 'tonneDeckung', 'gewicht'],
-    verwandt: ['/driveway-gravel-calculator/', '/paver-sand-calculator/', '/guides/dump-truck-load-of-gravel/'],
+    verwandt: ['/stone-calculator/', '/crusher-run-calculator/', '/limestone-calculator/', '/driveway-gravel-calculator/'],
     inhalt: `${MESSEN}
 <h2>How much 3/4 inch crushed stone do I need?</h2>
 <p>Square feet × depth in inches ÷ 324 = cubic yards; ¾ inch #57 stone weighs about 1.4 tons per cubic yard. A 10 × 12 ft shed base at 4 inches needs about 1.5 cubic yards, or 2.1 tons. Crusher run is a little heavier (about 1.55 tons per yard) and compacts, so the calculator adds 15 % for it.</p>
@@ -640,6 +784,91 @@ ${FORMEL}`,
     faq: [
       ['How much does a yard of 3/4 crushed stone weigh?', 'About 1.35–1.5 tons per cubic yard.'],
       ['How much crushed stone do I need for a shed base?', 'For a 10 × 12 ft shed at 4 inches, about 1.5 cubic yards or roughly 2.1 tons, plus 10 % extra.'],
+    ],
+  },
+  {
+    pfad: '/crusher-run-calculator/',
+    art: 'rechner',
+    nav: 'Crusher run',
+    imMenue: false,
+    title: 'Crusher Run Calculator – Tons & Yards for Driveways & Bases',
+    description: 'Crusher run calculator: tons and cubic yards of crusher run or road base for driveways, paver and shed bases – with 15 % compaction built in.',
+    h1: 'Crusher Run Calculator: Tons for Driveways & Bases',
+    intro: 'Enter the area and the finished depth to get tons and cubic yards of crusher run – with the extra you need because it compacts.',
+    kurz: 'Compacted base in tons',
+    material: 'crusher-run',
+    tiefe: 4,
+    stoff: 'crusher run',
+    kategorien: ['gravel'],
+    deckungTiefen: [2, 3, 4, 6, 8],
+    tonnenTiefen: [2, 3, 4, 6, 8],
+    beispiel: { laenge: 20, breite: 12, tiefe: 4 },
+    bloecke: ['tonneDeckung', 'deckung', 'gewicht'],
+    verwandt: ['/driveway-gravel-calculator/', '/crushed-stone-calculator/', '/paver-sand-calculator/', '/guides/dump-truck-load-of-gravel/'],
+    inhalt: `${MESSEN}
+<h2>How much crusher run do I need?</h2>
+<p>Square feet × depth in inches ÷ 324 = cubic yards; crusher run weighs about 1.55 tons per cubic yard. A 20 × 12 ft pad at 4 inches is 2.96 cubic yards – about 4.6 tons loose. Because crusher run is compacted in place, you need more than the loose volume: the calculator adds 15 % for compaction and 5 % for waste, which brings this pad to about 5.5 tons.</p>
+<p>The depth you enter is the finished, compacted depth. Spread and compact it in layers of 3–4 inches at a time; thicker layers don’t compact evenly.</p>
+<h2>How deep should crusher run be?</h2>
+<table><thead><tr><th>Project</th><th>Compacted depth</th></tr></thead><tbody>
+<tr><td>Walkway or garden path</td><td>3–4 in</td></tr>
+<tr><td>Shed or hot tub pad</td><td>4–6 in</td></tr>
+<tr><td>Paver patio or walkway base</td><td>4–6 in, plus 1 in of <a href="/paver-sand-calculator/">bedding sand</a></td></tr>
+<tr><td>Residential driveway</td><td>4–8 in, more on clay or soft ground</td></tr>
+<tr><td>Topping up an existing driveway</td><td>2–3 in</td></tr>
+</tbody></table>
+<h2>What is crusher run?</h2>
+<p>Crusher run is crushed stone that has not been screened: pieces from about ¾–1½ inch down to stone dust. The fines fill the gaps between the larger pieces, so it locks into a hard, stable layer when compacted – which is why it goes under driveways, pavers, sheds and concrete. It drains poorly compared with clean stone, so use <a href="/crushed-stone-calculator/">#57 crushed stone</a> where water has to run through.</p>
+<p>The same material goes by many names: crush and run, road base, dense grade aggregate (DGA), ABC stone, quarry process (QP), 21A, CR-6, 2A modified, #411 or item 4, depending on the state. Gradations differ slightly – ask your yard for theirs.</p>`,
+    faq: [
+      ['How many tons of crusher run do I need for a driveway?', 'A 12 × 50 ft driveway (600 sq ft) at 4 inches compacted is about 7.4 cubic yards or 11.5 tons loose – order about 14 tons to allow for compaction and waste.'],
+      ['How much area does a ton of crusher run cover?', 'About 105 sq ft at 2 inches, 52 sq ft at 4 inches and 35 sq ft at 6 inches, measured loose. Allow about 15 % more material for compaction.'],
+      ['How much does a yard of crusher run weigh?', 'About 1.5–1.7 tons (3,000–3,400 lb) per cubic yard, depending on the stone and moisture.'],
+      ['Is crusher run the same as #57 stone?', 'No. #57 is clean, screened stone of about ¾–1 inch with no fines; it drains well but stays loose. Crusher run includes the fines and compacts into a firm base.'],
+    ],
+  },
+  {
+    pfad: '/limestone-calculator/',
+    art: 'rechner',
+    nav: 'Limestone',
+    imMenue: false,
+    title: 'Limestone Calculator – Tons & Yards of Crushed Limestone',
+    description: 'Limestone calculator: tons and cubic yards of crushed limestone for driveways, bases and drainage – with a chart of common grades like #57, 304, 411 and 610.',
+    h1: 'Limestone Calculator: Tons of Crushed Limestone',
+    intro: 'Enter your area and depth to get tons and cubic yards of crushed limestone – for #57 and other clean sizes, or for base grades like 304, 411 and 610.',
+    kurz: '#57, 304, 411 & 610 limestone',
+    material: 'crushed-limestone',
+    tiefe: 4,
+    stoff: 'limestone',
+    kategorien: ['gravel'],
+    deckungTiefen: [2, 3, 4, 6],
+    beispiel: { laenge: 20, breite: 12, tiefe: 4 },
+    bloecke: ['tonneDeckung', 'deckung', 'gewicht'],
+    verwandt: ['/crusher-run-calculator/', '/crushed-stone-calculator/', '/driveway-gravel-calculator/', '/stone-calculator/'],
+    inhalt: `${MESSEN}
+<h2>How much limestone do I need?</h2>
+<p>Square feet × depth in inches ÷ 324 = cubic yards. Clean crushed limestone weighs about 1.4 tons per cubic yard, so a 20 × 12 ft area at 4 inches – 2.96 cubic yards – needs roughly 4.1 tons. The calculator adds 10 % for waste and rounds up to the next half ton.</p>
+<p>Limestone base with fines (304, 411, 610, 2A, crusher run) is heavier – about 1.55 tons per cubic yard – and has to be compacted. For those grades pick “Crusher run / road base” in the material list or use the <a href="/crusher-run-calculator/">crusher run calculator</a>.</p>
+<h2>Common limestone sizes and grades</h2>
+<table><thead><tr><th>Name</th><th>Size</th><th>Used for</th></tr></thead><tbody>
+<tr><td>#57 limestone</td><td>About ¾–1 in, clean</td><td>Driveway top layer, drainage, under slabs and sheds</td></tr>
+<tr><td>#8 limestone</td><td>⅜–½ in, clean</td><td>Walkways, paver joints, pipe bedding</td></tr>
+<tr><td>#4 / #2 limestone</td><td>1½–3 in, clean</td><td>Base on soft ground, construction entrances</td></tr>
+<tr><td>304 limestone (Ohio)</td><td>1½ in down to dust</td><td>Compacted driveway and road base</td></tr>
+<tr><td>411 limestone (Ohio)</td><td>¾ in down to dust</td><td>Driveway surface, patching, paver base</td></tr>
+<tr><td>610 limestone (Gulf states)</td><td>¾ in down to dust</td><td>Driveways and parking pads</td></tr>
+<tr><td>2A / 2A modified (Pennsylvania)</td><td>1½ in or ¾ in down to dust</td><td>Compacted base under driveways and pavers</td></tr>
+<tr><td>2B limestone (Pennsylvania)</td><td>About ¾ in, clean – like #57</td><td>Drainage, driveway top layer</td></tr>
+<tr><td>Screenings / limestone dust</td><td>¼ in down to dust</td><td>Leveling under pavers and flagstone</td></tr>
+</tbody></table>
+<p>Grade names are regional and gradations vary by quarry – check your supplier’s spec sheet.</p>
+<h2>Limestone for a driveway</h2>
+<p>A new limestone driveway is usually built in two layers: 4–6 inches of compacted base (304, 610, 2A or crusher run), topped with 2–3 inches of #57 or 411. For a 12 × 50 ft driveway that is about 12–17 tons of base before the compaction allowance and 5–8 tons of top stone. The <a href="/driveway-gravel-calculator/">driveway gravel calculator</a> has a chart of tons per 100 feet of driveway for both layers.</p>`,
+    faq: [
+      ['How much does a cubic yard of limestone weigh?', 'Clean crushed limestone weighs about 1.3–1.5 tons (2,600–3,000 lb) per cubic yard. Dense-graded limestone with fines weighs about 1.5–1.7 tons.'],
+      ['How many tons of limestone do I need for 100 square feet?', 'About 0.9 tons at 2 inches, 1.3 tons at 3 inches and 1.7 tons at 4 inches, before extra for waste.'],
+      ['How much area does a ton of limestone cover?', 'A ton of #57 limestone covers about 116 sq ft at 2 inches, 77 sq ft at 3 inches or 58 sq ft at 4 inches.'],
+      ['What is the difference between 57 and 411 limestone?', '#57 is clean stone of about ¾–1 inch that drains freely. 411 is a blend of #57 and limestone dust that packs down hard, so it is used where a firm surface matters more than drainage.'],
     ],
   },
   {
@@ -820,7 +1049,7 @@ ${FORMEL}`,
     nav: 'All calculators',
     imMenue: false,
     title: 'All Landscape Material Calculators – Mulch, Gravel, Soil',
-    description: 'Every calculator in one place: mulch, gravel, topsoil, dirt, sand, river rock, crushed stone, pea gravel, rubber mulch and cubic yards to tons.',
+    description: 'Every calculator in one place: mulch, gravel, stone, soil, topsoil, potting soil, dirt, sand, river rock, crushed stone, limestone and cubic yards to tons.',
     h1: 'All Calculators & Guides',
     intro: 'Pick the material or the question – every calculator gives cubic yards, tons and bags.',
     kurz: 'Every calculator',

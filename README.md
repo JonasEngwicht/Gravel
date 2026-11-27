@@ -23,7 +23,9 @@ Mulch-, Kies- und Erde-Rechner plus ein Verzeichnis für Landscape-Supply-Yards 
 | `src/calc/core.js` | Rechenlogik (reine Funktionen) |
 | `src/directory/distance.js` | Umkreissuche nach ZIP, Median-Preise |
 | `scripts/build.mjs` | Build: erzeugt `public/` (Rechner- und Verzeichnisseiten, Assets, Suchindex `yards.json`/`cities.json`/`zip/`, robots.txt, Sitemap-Index je Seitentyp, Open Graph) |
+| `public/assets/img/` | Vom Build erzeugte Bilder: Deckungs-Diagramm je Rechner (`coverage-<seite>.svg`) und das Würfelbild `cubic-yard.svg` |
 | `scripts/seiten.mjs` | Rechner, Umrechner, Ratgeber (`/guides/`) und Infoseiten: URL, Titel, Texte, FAQ, Standardmaterial, Rechenbeispiel, Tabellen-Bausteine |
+| `static/formen.js` | Formen und Eingabefelder der Flächen-Abschnitte – gemeinsam für Browser und Build (der Build schreibt den ersten Abschnitt und ein Beispiel-Ergebnis schon ins HTML) |
 | `static/` | CSS, Browser-JS (`app.js` Rechner, `finder.js` Yard-Suche nach ZIP/Stadt/Standort und Städtefilter), Favicon |
 | `src/worker.js` | Cloudflare Worker: liefert `public/` aus, auf *.workers.dev mit noindex |
 | `wrangler.jsonc` | Worker-Konfiguration (Build-Befehl, Assets) |

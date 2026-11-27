@@ -67,6 +67,12 @@ export default {
     if (/^(text\/|application\/(javascript|json|xml))/.test(typ) && !/charset=/i.test(typ)) {
       neu.headers.set('Content-Type', `${typ}; charset=utf-8`);
     }
+    // Dateien mit Build-Version in der Adresse (?v=…) ändern sich nie: ein Jahr im Browser-Cache. Schrift und Bilder
+    // eine Woche. Alles andere (HTML, core.js, materials.json) prüft der Browser weiter bei jedem Aufruf.
+    if (antwort.status === 200 && url.pathname.startsWith('/assets/')) {
+      if (url.searchParams.has('v')) neu.headers.set('Cache-Control', 'public, max-age=31536000, immutable');
+      else if (/\.(woff2?|svg|png|jpe?g|webp)$/.test(url.pathname)) neu.headers.set('Cache-Control', 'public, max-age=604800');
+    }
     if (url.hostname.endsWith('.workers.dev')) neu.headers.set('X-Robots-Tag', 'noindex, nofollow');
     if (typ.startsWith('text/html') && typeof HTMLRewriter !== 'undefined') {
       const eu = brauchtEinwilligung(request.cf?.country) ? '1' : '0';

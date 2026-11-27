@@ -29,7 +29,13 @@ function laden() {
 const entscheidung = lesen();
 const gpc = navigator.globalPrivacyControl === true;
 const erlaubt = eu ? entscheidung === 'ja' : entscheidung !== 'nein' && !gpc;
-if (erlaubt) laden();
+// Erst nach dem Laden der Seite und in einer ruhigen Phase: das Tag (rund 80 kB) soll weder den ersten
+// Seitenaufbau noch den Rechner ausbremsen.
+const spaeter = () => ('requestIdleCallback' in window ? requestIdleCallback(laden, { timeout: 4000 }) : setTimeout(laden, 1500));
+if (erlaubt) {
+  if (document.readyState === 'complete') spaeter();
+  else addEventListener('load', spaeter, { once: true });
+}
 
 // ---------- Banner ----------
 function banner() {

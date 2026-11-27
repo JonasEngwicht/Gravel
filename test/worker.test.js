@@ -97,3 +97,18 @@ test("Seiten ohne Schrägstrich am Ende: 301 auf die Variante mit Schrägstrich,
   assert.equal((await hol("https://gravelandmulch.com/assets/app.js")).status, 200);
   assert.equal((await hol("https://gravelandmulch.com/sitemap.xml")).status, 200);
 });
+
+test("Cache: Dateien mit Build-Version ein Jahr, Schrift und Bilder eine Woche, HTML und Daten ohne feste Dauer", async () => {
+  const asset = { ASSETS: { fetch: async () => new Response("x", { headers: { "Content-Type": "text/css" } }) } };
+  const kopf = async (url, e = asset) => (await worker.fetch(new Request(url), e)).headers.get("Cache-Control");
+  assert.equal(await kopf("https://gravelandmulch.com/assets/style.css?v=202611280000"), "public, max-age=31536000, immutable");
+  assert.equal(await kopf("https://gravelandmulch.com/assets/app.js?v=202611280000"), "public, max-age=31536000, immutable");
+  assert.equal(await kopf("https://gravelandmulch.com/assets/schichten.svg"), "public, max-age=604800");
+  assert.equal(await kopf("https://gravelandmulch.com/assets/bitter-700.woff"), "public, max-age=604800");
+  assert.equal(await kopf("https://gravelandmulch.com/assets/core.js"), null);
+  assert.equal(await kopf("https://gravelandmulch.com/assets/materials.json"), null);
+  assert.equal(await kopf("https://gravelandmulch.com/mulch-calculator/", env), null);
+  // Fehlerseiten nie lange cachen
+  const fehlt = { ASSETS: { fetch: async () => new Response("nope", { status: 404 }) } };
+  assert.equal(await kopf("https://gravelandmulch.com/assets/weg.css?v=1", fehlt), null);
+});

@@ -242,7 +242,7 @@ export function verzeichnisSeiten(yards, h) {
     seiten.push({ pfad, index: true, typ: 'pages', html: `${kopf({ pfad, nav: 'Find a yard', title: 'Landscape Supply Yards Near You – Mulch, Gravel & Stone',
       description: `${gesamt.yards.toLocaleString('en-US')} landscape supply yards, mulch and stone yards and sand & gravel suppliers in ${gebiet}, plus ${gesamt.gruben.toLocaleString('en-US')} gravel pits. Search by ZIP code or city.`,
       ld: [brotkrumen(krumen)] })}
-<main>
+<main id="main">
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Landscape Supply Yards</h1>
   <p class="unter">${gesamt.yards.toLocaleString('en-US')} landscape supply yards, mulch and stone yards and sand &amp; gravel suppliers in ${esc(gebiet)} – for bulk mulch, gravel, stone and topsoil.</p>
@@ -282,7 +282,7 @@ ${fuss({ hinweis: 'daten' })}` });
       ld: [brotkrumen(krumen), { '@context': 'https://schema.org', '@type': 'Dataset', name: 'Landscape supply yards per U.S. state', description: 'Counts of landscape supply, mulch, stone and sand & gravel yards and of sand & gravel pits per state.',
         url: abs(pfad), license: 'https://cdla.dev/permissive-2-0/', creator: { '@type': 'Organization', name: SITE.name || 'Gravel & Mulch' }, dateModified: stand,
         isBasedOn: ['https://overturemaps.org', 'https://www.msha.gov/mines-data-set'] }] })}
-<main>
+<main id="main">
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Landscape Supply Yards per State</h1>
   <p class="unter">${summe('yards').toLocaleString('en-US')} yards and suppliers for bulk mulch, gravel, stone and soil in ${gebietText(zeilen.filter((r) => r.yards).map((r) => r.s.code))}, plus ${summe('gruben').toLocaleString('en-US')} sand &amp; gravel pits. ${esc(zeilen[0].s.name)} has the most yards.</p>
@@ -319,7 +319,7 @@ ${fuss({ hinweis: 'daten' })}` });
     seiten.push({ pfad, index, typ: 'states', html: `${kopf({ pfad, nav: 'Find a yard', noindex: !index, title: `Landscape Supply Yards in ${s.name} – Mulch, Gravel & Stone`.slice(0, 70),
       description: `${z.yards} landscape supply yards, mulch and stone yards and sand & gravel suppliers in ${s.name}${z.gruben ? `, plus ${z.gruben} gravel pits` : ''}. Find bulk mulch, gravel and topsoil near you.`,
       ld: [brotkrumen(krumen)] })}
-<main>
+<main id="main">
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Landscape Supply Yards in ${esc(s.name)}</h1>
   <p class="unter">${z.yards} yards and suppliers in ${mitYards.length} ${mitYards.length === 1 ? 'city' : 'cities'}: landscape supply, mulch and stone yards and sand &amp; gravel suppliers${z.gruben ? `, plus ${z.gruben} gravel pits from mine records` : ''}.</p>
@@ -385,7 +385,7 @@ ${fuss({ hinweis: 'daten' })}` });
     seiten.push({ pfad, index: true, typ: 'gravel-pits', html: `${kopf({ pfad, nav: 'Find a yard', title: 'Gravel Pits Near You – Sand & Gravel Pits by State',
       description: `${grubenGesamt.toLocaleString('en-US')} active and intermittent sand & gravel pits in ${gebietText(proStaatGruben.map((x) => x.s.code))}, from federal mine records. Pick a state to see pits by town and operator.`,
       ld: [brotkrumen(krumen)] })}
-<main>
+<main id="main">
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>Gravel Pits by State</h1>
   <p class="unter">${grubenGesamt.toLocaleString('en-US')} active and intermittent sand &amp; gravel pits from federal mine records (MSHA).</p>
@@ -419,7 +419,7 @@ ${fuss({ hinweis: 'daten' })}` });
         description: `${gruben.length} sand & gravel pits in ${s.name} (${aktiv} active, ${gruben.length - aktiv} intermittent) from federal mine records, listed by town with operator and status.`,
         ld: [brotkrumen(krumenS), { '@context': 'https://schema.org', '@type': 'ItemList', name: `Gravel pits in ${s.name}`,
           itemListElement: gruben.map((y, i) => ({ '@type': 'ListItem', position: i + 1, url: abs(y._pfad), name: y.name })) }] })}
-<main>
+<main id="main">
 <section class="held"><div class="breit">${krumenHtml(krumenS)}
   <h1>Gravel Pits in ${esc(s.name)}</h1>
   <p class="unter">${gruben.length} sand &amp; gravel pits in ${nachStadt.size} ${nachStadt.size === 1 ? 'town' : 'towns'} – ${aktiv} active, ${gruben.length - aktiv} intermittent.</p>
@@ -511,7 +511,7 @@ ${fuss({ hinweis: 'daten' })}` });
     const punkte = [...c.yards, ...umkreis.map(({ x }) => x)].filter((y) => !y.mailbox).map((y) => [+y.location.lat.toFixed(5), +y.location.lng.toFixed(5), y._titel || y.name, y._pfad]);
     seiten.push({ pfad: c.pfad, index, typ: 'cities', html: `${kopf({ pfad: c.pfad, nav: 'Find a yard', noindex: !index, title, description: beschr.slice(0, 165),
       ld: [brotkrumen(krumen), itemList], faq })}
-<main>
+<main id="main">
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>${esc(h1)}</h1>
   <p class="unter">${satz}${datenSatz ? ` ${datenSatz}` : ''}</p>
@@ -552,7 +552,7 @@ ${fuss({ hinweis: 'rechner' })}` });
       seiten.push({ pfad: pfadM, index: true, typ: 'materials', html: `${kopf({ pfad: pfadM, nav: 'Find a yard', title: titelM,
         description: `${m.yards.length} yards in ${c.name}, ${s.name} that list bulk ${m.label.toLowerCase()} on their websites${lief ? `, ${lief} with delivery` : ''}. Addresses, phone numbers and a calculator for how much you need.`.slice(0, 165),
         ld: [brotkrumen(krumenM), { '@context': 'https://schema.org', '@type': 'ItemList', name: `Bulk ${m.label.toLowerCase()} in ${ort}`, itemListElement: m.yards.map((y, i) => ({ '@type': 'ListItem', position: i + 1, item: ldBetrieb(y) })) }] })}
-<main>
+<main id="main">
 <section class="held"><div class="breit">${krumenHtml(krumenM)}
   <h1>Bulk ${esc(m.label)} in ${esc(c.name)}, ${s.code}</h1>
   <p class="unter">${m.yards.length} yards in ${esc(c.name)} list ${esc(m.label.toLowerCase())} on their own websites${lief ? `; ${lief} of them deliver` : ''}${abholen ? `, ${abholen} let you load your own truck` : ''}.</p>
@@ -601,7 +601,7 @@ ${fuss({ hinweis: 'daten' })}` });
       title: `${y._titel} – ${c.name}, ${s.code}`.slice(0, 70),
       description: `${beschreibung} ${angereichert(y) ? `Materials, ${w.delivery ? 'delivery, ' : ''}address` : 'Address'}${y.contact?.phone ? ', phone' : ''}${y.contact?.website ? ', website' : ''} and directions${mats.length && !angereichert(y) ? ', materials' : ''}.`.slice(0, 160),
       ld: [brotkrumen(krumen), ldBetrieb(y)] })}
-<main>
+<main id="main">
 <section class="held"><div class="breit">${krumenHtml(krumen)}
   <h1>${esc(y._titel)}</h1>
   <p class="unter">${esc(art)} in ${esc(c.name)}, ${s.code}${y.status === 'active' ? ' · Verified listing' : ''}</p>
